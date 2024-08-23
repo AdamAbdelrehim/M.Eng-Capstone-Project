@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "BitByByte"]
+[Black "CruelKen"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/Y3YpXZT1"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2797"]
+[BlackElo "3002"]
+[ECO "D41"]
+[Opening "Queen's Gambit Declined: Semi-Tarrasch Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:26:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 cxd4 6. Qxd4 exd5 7. e4 dxe4 8.
+Qxd8+ Kxd8 9. Ng5 Be6 10. Nxe6+ fxe6 11. Bg5 Nc6 12. Bc4 Ke7 13. Nxe4 Kf7 14.
+Bxf6 gxf6 15. O-O-O Rd8 16. Rxd8 Nxd8 17. Rd1 Be7 18. Rd7 f5 19. Nd6+ Kf6 20.
+Nxb7 Nxb7 21. Rxb7 Bc5 22. f3 h5 23. Rc7 Bg1 24. h4 Rg8 25. Rc6 Rxg2 26. Rxe6+
+Kg7 27. Re8 Kf6 28. Rf8+ Ke5 29. Bd3 Be3+ 30. Kb1 Rh2 31. Rxf5+ Kd4 32. Be4 Kc4
+33. Bd5+ Kd3 34. Be4+ Kc4 35. Bd5+ Kd3 36. Be4+ Kc4 1/2-1/2
+

@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "BIZOO"]
+[Black "BlunderPandaZz"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/xcFxW0sX"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2630"]
+[ECO "C41"]
+[Opening "Philidor Defense: Lion Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:28:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+8"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 c6 8. Re1
+h6 9. h3 b6 10. Be3 a6 11. Bb3 Bb7 12. Qd3 b5 13. Rad1 b4 14. Ne2 exd4 15. Bxd4
+Qc7 16. Ng3 Ne5 17. Nxe5 dxe5 18. Be3 Rfd8 19. Qc4 Bf8 20. a5 c5 21. f3 Bc6 22.
+Rxd8 Rxd8 23. Bxc5 Bb5 24. Bb6 Qxb6+ 25. axb6 Bxc4 26. Bxc4 Bc5+ 27. Kf1 Bxb6
+28. Bxa6 g6 29. Ke2 h5 30. Rd1 Ra8 31. Rd6 Bd8 32. Kd3 Be7 33. Rc6 Rd8+ 34. Kc4
+Rd2 35. Kb3 Rxg2 36. Nf1 Rf2 37. Ne3 Rxf3 38. Rc7 Rxe3+ 39. Bd3 Bf8 40. Ka4
+Nxe4 41. Bc4 Nd6 42. Bd5 Re1 43. Kb3 e4 44. c4 bxc3 45. bxc3 e3 46. Kc2 Re2+
+47. Kd3 Rd2+ 48. Kxe3 Rxd5 49. c4 Re5+ 50. Kd4 Rf5 51. c5 Nb5+ 52. Ke4 Nxc7 53.
+Ke3 Rxc5 54. h4 Rf5 55. Ke4 Ne6 56. Ke3 Be7 57. Ke4 Bxh4 58. Kd3 Be7 59. Ke4 h4
+60. Ke3 h3 61. Ke4 h2 62. Ke3 h1=Q 63. Ke2 Qh3 64. Ke1 Rg5 65. Ke2 Rg2+ 66. Kf1
+Qh1# 0-1
+

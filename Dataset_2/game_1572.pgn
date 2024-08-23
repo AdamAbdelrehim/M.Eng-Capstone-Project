@@ -1,0 +1,40 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.07.15"]
+[Round "-"]
+[White "cheesehead66"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r3r1k1/1b3ppp/2q5/p1p1P3/3p4/P2P1B2/3Q1PPP/1R3RK1 b - -"]
+[Timezone "UTC"]
+[ECO "C20"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-The-Whale-Variation"]
+[UTCDate "2021.07.15"]
+[UTCTime "04:09:05"]
+[WhiteElo "1454"]
+[BlackElo "1454"]
+[TimeControl "600"]
+[Termination "cheesehead66 won by resignation"]
+[StartTime "04:09:05"]
+[EndDate "2021.07.15"]
+[EndTime "04:13:57"]
+[Link "https://www.chess.com/game/live/20061002781"]
+
+1. c4 { [%clk 0:09:59] } 1... e5 { [%clk 0:09:57.5] } 2. e4
+{ [%clk 0:09:57.8] } 2... Nf6 { [%clk 0:09:56] } 3. Nc3 { [%clk 0:09:55.7] }
+3... Bb4 { [%clk 0:09:52.9] } 4. d3 { [%clk 0:09:51.1] } 4... Nc6
+{ [%clk 0:09:46.7] } 5. Bd2 { [%clk 0:09:49.2] } 5... O-O { [%clk 0:09:38.6] }
+6. Nf3 { [%clk 0:09:47.6] } 6... d6 { [%clk 0:09:35.7] } 7. Be2
+{ [%clk 0:09:46.1] } 7... Nd4 { [%clk 0:09:15.1] } 8. Nxd4 { [%clk 0:09:42.2] }
+8... exd4 { [%clk 0:09:14.4] } 9. Nd5 { [%clk 0:09:40.7] } 9... Nxd5
+{ [%clk 0:09:10.6] } 10. cxd5 { [%clk 0:09:36.9] } 10... Bxd2+
+{ [%clk 0:09:08.5] } 11. Qxd2 { [%clk 0:09:35.6] } 11... Re8
+{ [%clk 0:09:04.7] } 12. O-O { [%clk 0:09:31.2] } 12... c6 { [%clk 0:09:00.7] }
+13. dxc6 { [%clk 0:09:17.6] } 13... bxc6 { [%clk 0:09:00.6] } 14. b4
+{ [%clk 0:08:57.2] } 14... c5 { [%clk 0:08:56.7] } 15. Rac1
+{ [%clk 0:08:45.5] } 15... Qb6 { [%clk 0:08:32.3] } 16. a3 { [%clk 0:08:28.8] }
+16... a5 { [%clk 0:08:16.3] } 17. bxc5 { [%clk 0:08:24.2] } 17... dxc5
+{ [%clk 0:08:13.5] } 18. Rb1 { [%clk 0:08:22.1] } 18... Qc6
+{ [%clk 0:07:53.8] } 19. Bf3 { [%clk 0:08:19.7] } 19... Bb7
+{ [%clk 0:07:25.5] } 20. e5 { [%clk 0:08:02.6] } 1-0
+

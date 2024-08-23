@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.21"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Tanza24"]
+[Result "0-1"]
+[CurrentPosition "rn1qk2r/1b1p1ppp/p3p3/1p6/1P2P3/P2BnN2/2PN2PP/R1BQ1K1R w kq -"]
+[Timezone "UTC"]
+[ECO "C00"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-St-George-Defense-3.Nf3-b5"]
+[UTCDate "2024.01.21"]
+[UTCTime "11:00:29"]
+[WhiteElo "1899"]
+[BlackElo "1930"]
+[TimeControl "600"]
+[Termination "Tanza24 won by resignation"]
+[StartTime "11:00:29"]
+[EndDate "2024.01.21"]
+[EndTime "11:01:35"]
+[Link "https://www.chess.com/game/live/99573767593"]
+
+1. e4 { [%clk 0:10:00] } 1... e6 { [%clk 0:10:00] } 2. d4 { [%clk 0:09:58.6] }
+2... a6 { [%clk 0:09:59.9] } 3. Nf3 { [%clk 0:09:57.2] } 3... b5
+{ [%clk 0:09:59.8] } 4. a3 { [%clk 0:09:54.4] } 4... Bb7 { [%clk 0:09:53.3] }
+5. Bd3 { [%clk 0:09:49.8] } 5... Nf6 { [%clk 0:09:51.7] } 6. Nbd2
+{ [%clk 0:09:46.6] } 6... c5 { [%clk 0:09:50.5] } 7. dxc5 { [%clk 0:09:42] }
+7... Bxc5 { [%clk 0:09:48.2] } 8. b4 { [%clk 0:09:39.6] } 8... Bxf2+
+{ [%clk 0:09:40.1] } 9. Kxf2 { [%clk 0:09:38.7] } 9... Ng4+ { [%clk 0:09:40] }
+10. Kf1 { [%clk 0:09:27.5] } 10... Ne3+ { [%clk 0:09:36] } 0-1
+

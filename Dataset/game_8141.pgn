@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "warrior5191"]
+[Black "buildorderbot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/esk9OY7n"]
+[WhiteTitle "GM"]
+[WhiteElo "2609"]
+[BlackElo "2611"]
+[ECO "C00"]
+[Opening "French Defense: King's Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:04:04"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. e4 e6 2. d3 a5 3. Nd2 a4 4. a3 Ra5 5. Ngf3 h5 6. Be2 h4 7. h3 g5 8. Nc4 Rb5
+9. e5 Be7 10. d4 Kf8 11. Bd2 b6 12. Qc1 d5 13. Ne3 Ba6 14. Ng4 Rh5 15. O-O Nc6
+16. c4 dxc4 17. Bxc4 Nb8 18. Be3 Rb3 19. Bxb3 Bxf1 20. Qxf1 axb3 21. Qb5 Nh6
+22. Nxh6 Rxh6 23. Qxb3 Rg6 24. Nh2 Nc6 25. Qc3 Na7 26. a4 Qd7 27. b3 Bd8 28.
+Ng4 Qd5 29. Qc4 Ke8 30. Rc1 Kd7 31. Qa6 Nc6 32. Qc4 Na5 33. Qxd5+ exd5 34. Rb1
+Rc6 35. b4 Nc4 36. Rc1 Rg6 37. b5 Be7 38. Kf1 Rg8 39. Ke2 Ra8 40. Ra1 Ke6 41.
+Bd2 Nxd2 42. Kxd2 Bb4+ 43. Kd3 Ra7 44. Ne3 Be7 45. g3 hxg3 46. fxg3 f6 47. exf6
+Bxf6 48. Ng4 Bg7 49. Ne3 Ra8 50. h4 gxh4 51. gxh4 Rh8 52. Rh1 Bf6 53. h5 Bg5
+54. Nc2 Bh6 55. Nb4 Rf8 56. Re1+ Kd7 57. Nxd5 Rf5 58. Kc4 Kd6 59. Nb4 Rxh5 60.
+Nd3 Bg7 61. Rg1 Rh7 62. Rg6+ Kd7 63. Nf4 Bf8 64. Ne6 Bd6 65. Ng5 Re7 66. Rh6
+Re1 67. Rh7+ Kc8 68. Nf7 Ra1 69. Kd5 Bf4 70. Ne5 Kb7 71. Nd3 Bd6 72. Rd7 Rxa4
+73. Ne5 Rb4 74. Nc4 Rxb5+ 75. Ke4 Kc6 76. Rh7 Rb4 77. Kd3 b5 78. Ne5+ Kd5 79.
+Nf3 Rb3+ 80. Ke2 Ra3 81. Rh5+ Kc4 82. Ne5+ Kc3 83. Nc6 Kb2 84. Kd2 Rb3 85. Kd1
+Rc3 0-1
+

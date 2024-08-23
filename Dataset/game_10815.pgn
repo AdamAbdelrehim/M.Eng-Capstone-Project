@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Hoon_Bot"]
+[Black "bot_adario"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/mN2eFIT7"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2866"]
+[BlackElo "2619"]
+[ECO "A00"]
+[Opening "Barnes Opening"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:36:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. f3 e5 2. g3 d5 3. Nh3 Nc6 4. Nf2 h5 5. c3 Qf6 6. b4 Be6 7. e4 a6 8. Na3 h4
+9. g4 O-O-O 10. Rb1 h3 11. Rg1 d4 12. Qa4 Na7 13. b5 Bc5 14. bxa6 dxc3 15.
+axb7+ Kb8 16. Qa5 Bb6 17. Rxb6 cxb6 18. Qxb6 Bxa2 19. Qa5 Rd7 20. Nd3 Ne7 21.
+Nc5 Rhd8 22. Nb5 Nec6 23. Qb6 cxd2+ 24. Bxd2 Qh4+ 25. Rg3 Qxg3+ 26. hxg3 Rxd2
+27. Na6# 1-0
+

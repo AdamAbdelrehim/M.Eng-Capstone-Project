@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "AldoArriaga"]
+[Black "ignat_final"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/3GkzLesL"]
+[WhiteElo "2412"]
+[BlackElo "2529"]
+[ECO "D43"]
+[Opening "Semi-Slav Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:32:01"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 c6 4. Nc3 e6 5. a4 Nbd7 6. Bf4 b6 7. e3 Bb4 8. Qb3
+Qe7 9. Bd3 Ba6 10. O-O O-O 11. Rfd1 Rfc8 12. cxd5 Bxd3 13. dxe6 Bxc3 14. exf7+
+Qxf7 15. Qxc3 Be2 16. Ng5 Qh5 17. Re1 h6 18. Ne6 Qg4 19. Nc7 Nd5 20. h3 Qg6 21.
+Qb3 Bf3 22. g3 Qh5 23. e4 Kh7 24. exd5 Nf6 25. Qd3+ Kh8 26. Re3 Bg4 27. Re5
+Qxh3 28. d6 Nd5 29. Qf1 Nxf4 30. gxf4 Qh5 31. Rxh5 Kg8 32. Rh4 1-0
+

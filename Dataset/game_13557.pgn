@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "impr0v3r"]
+[Black "random_fan"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/VEf8cRum"]
+[WhiteTitle "IM"]
+[WhiteElo "2591"]
+[BlackElo "2463"]
+[ECO "E16"]
+[Opening "Queen's Indian Defense: Yates Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:57:30"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Bd2 a5 5. g3 b6 6. Bg2 Bb7 7. O-O O-O 8. Bg5
+Be7 9. Nc3 Ne4 10. Bxe7 Qxe7 11. Nxe4 Bxe4 12. d5 e5 13. Qd2 d6 14. Qe3 Bg6 15.
+Nd4 Qd8 16. Nc6 Nxc6 17. dxc6 e4 18. f3 exf3 19. Bxf3 Qf6 20. b3 Rae8 21. Qf2
+Re5 22. Rad1 Qe7 23. Rd4 Kh8 24. Rfd1 Re8 25. R1d2 Re3 26. h4 Qe5 27. Kh2 f6
+28. Rd5 Qe7 29. h5 Bf7 30. R5d4 h6 31. g4 Qe5+ 32. Qg3 Qxg3+ 33. Kxg3 Kg8 34.
+Kf4 R3e5 35. a3 Kf8 36. b4 Ra8 37. e4 Ke7 38. Rc2 1-0
+

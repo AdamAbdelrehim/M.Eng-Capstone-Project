@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Ultron81"]
+[Black "PurpleHunter"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/z0SZpcZB"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2834"]
+[BlackElo "2650"]
+[ECO "E46"]
+[Opening "Nimzo-Indian Defense: Reshevsky Variation"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:02:50"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. a3 Be7 7. cxd5 Nxd5 8. Bd2
+Nd7 9. g3 b6 10. Nxd5 exd5 11. Bg2 Nf6 12. O-O a5 13. Qc2 Bd7 14. Nf4 c6 15.
+Rfe1 Rc8 16. f3 c5 17. dxc5 bxc5 18. e4 dxe4 19. fxe4 Qb6 20. Kh1 c4 21. e5 Ng4
+22. h3 Nf2+ 23. Kh2 Bc5 24. Re2 Nd3 25. Bc3 Bf5 26. Be4 Nxf4 27. gxf4 Bxe4 28.
+Qxe4 Rfd8 29. f5 Bd4 30. f6 Qc5 31. Qf4 Rd5 32. Rae1 Rcd8 33. e6 g5 34. exf7+
+Kxf7 35. Qe4 Qc7+ 36. Kg2 Kxf6 37. Qf3+ Qf4 38. Qh5 R8d6 39. Qh6+ Kf5 40. Qxh7+
+Kf6 41. Bxd4+ Rxd4 42. Qe7+ Kf5 43. Re5+ Kg6 44. Re6+ Rxe6 45. Rxe6+ Qf6 46.
+Rxf6+ Kh5 47. Qh7# 1-0
+

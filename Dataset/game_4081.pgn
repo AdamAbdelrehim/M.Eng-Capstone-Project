@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "SmirnovAleksey"]
+[Black "ZAsphalt"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/yvwSnjXM"]
+[WhiteElo "2615"]
+[BlackElo "2650"]
+[ECO "D26"]
+[Opening "Queen's Gambit Accepted: Classical Defense, Steinitz Variation, Development Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:16:51"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O Nc6 7. Qe2 a6 8. dxc5
+Bxc5 9. Rd1 Qe7 10. e4 Ng4 11. Rf1 Qc7 12. h3 h5 13. hxg4 hxg4 14. e5 gxf3 15.
+Qxf3 Nxe5 16. Qg3 Nf3+ 0-1
+

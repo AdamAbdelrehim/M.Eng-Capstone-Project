@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.28"]
+[Round "-"]
+[White "karimiago"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r1bqk2r/ppppbppp/2n5/8/2P2nP1/3P4/PP3P1P/R3KB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "C25"]
+[ECOUrl "https://www.chess.com/openings/Vienna-Game"]
+[UTCDate "2021.01.28"]
+[UTCTime "17:55:39"]
+[WhiteElo "1021"]
+[BlackElo "1201"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won - game abandoned"]
+[StartTime "17:55:39"]
+[EndDate "2021.01.28"]
+[EndTime "18:00:18"]
+[Link "https://www.chess.com/game/live/6376031451"]
+
+1. Nc3 { [%clk 0:09:56.8] } 1... e5 { [%clk 0:09:58.4] } 2. e4
+{ [%clk 0:09:51.6] } 2... Nf6 { [%clk 0:09:54.4] } 3. Nf3 { [%clk 0:09:48.4] }
+3... Nc6 { [%clk 0:09:53.5] } 4. Nd5 { [%clk 0:09:09.6] } 4... Nxe4
+{ [%clk 0:09:40.1] } 5. d3 { [%clk 0:08:34.9] } 5... Nf6 { [%clk 0:09:28.7] }
+6. c3 { [%clk 0:08:25.2] } 6... Nxd5 { [%clk 0:09:26.3] } 7. c4
+{ [%clk 0:08:22.2] } 7... Nf6 { [%clk 0:09:21] } 8. Bg5 { [%clk 0:08:03.3] }
+8... Be7 { [%clk 0:09:16.2] } 9. Nxe5 { [%clk 0:07:58] } 9... Nxe5
+{ [%clk 0:09:13.6] } 10. Bf4 { [%clk 0:07:50.1] } 10... Nc6
+{ [%clk 0:08:51.2] } 11. Qh5 { [%clk 0:07:23] } 11... Nxh5 { [%clk 0:08:47.7] }
+12. g4 { [%clk 0:07:15.8] } 12... Nxf4 { [%clk 0:08:44.6] } 0-1
+

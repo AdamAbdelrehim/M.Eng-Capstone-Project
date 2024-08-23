@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "samtakoj"]
+[Black "vistagausta"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Ap8AsyzW"]
+[WhiteElo "2622"]
+[BlackElo "2897"]
+[ECO "D78"]
+[Opening "Neo-Grünfeld Defense: Classical Variation, Original Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:56:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d5 6. c4 c6 7. b3 Bf5 8. Nc3
+Ne4 9. Bb2 Nxc3 10. Bxc3 Be4 11. e3 e6 12. Qe2 a5 13. Rfc1 Nd7 14. a4 Nf6 15.
+Nd2 Bxg2 16. Kxg2 Ne8 17. Rab1 Nd6 18. f3 Re8 19. e4 e5 20. dxe5 Bxe5 21. Bxe5
+Rxe5 22. cxd5 cxd5 23. f4 Re7 24. e5 Nf5 25. Qd3 Qb6 26. Nf3 h5 27. Rc3 Rc7 28.
+Rbc1 Rac8 29. Rxc7 Rxc7 30. Rxc7 Qxc7 31. Nd4 Nxd4 32. Qxd4 Qc2+ 33. Kh3 Qf5+
+34. Kg2 Qc2+ 35. Kh3 Qxb3 36. e6 Qf3 37. exf7+ Kxf7 38. Qe5 Qe4 39. Qc7+ Kf6
+40. Qxb7 Qe6+ 41. Kg2 Qe2+ 42. Kh3 d4 43. Qb6+ Qe6+ 44. Qxe6+ Kxe6 45. Kg2 Kd5
+46. Kf2 Kc4 47. Ke1 Kd3 48. Kd1 Ke3 49. Ke1 Kf3 50. Kd2 Kg2 51. Kd3 Kxh2 52.
+Kxd4 Kxg3 53. Kc5 h4 54. Kb5 h3 55. Kxa5 h2 56. Kb6 h1=Q 57. a5 Kxf4 58. Kc5
+Qa8 59. a6 Qxa6 60. Kd5 Qb6 61. Kc4 Ke4 62. Kc3 Qb5 63. Kd2 Qb2+ 64. Kd1 Ke3
+65. Ke1 Qb1# 0-1
+

@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Oliver_Cromvel"]
+[Black "yopchess"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ePfqJTNS"]
+[WhiteTitle "FM"]
+[WhiteElo "2533"]
+[BlackElo "2457"]
+[ECO "C10"]
+[Opening "French Defense: Rubinstein Variation, Fort Knox Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:54:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. O-O Ngf6 8.
+Bg5 Be7 9. Bxf6 Nxf6 10. Re1 O-O 11. c4 Nxe4 12. Bxe4 Bxe4 13. Rxe4 Bf6 14. Qe2
+c6 15. h4 h6 16. g3 Rc8 17. Rd1 Rc7 18. Nh2 g6 19. Ng4 Bg7 20. h5 f5 21. Nxh6+
+Bxh6 22. Rxe6 Rg7 23. hxg6 f4 24. d5 fxg3 25. fxg3 Qg5 26. Qe5 Qxe5 27. Rxe5
+cxd5 28. cxd5 Rxg6 29. Kg2 Rd6 30. Re6 Rfd8 31. Rxd6 Rxd6 32. Kf3 Bg7 33. b3
+Kf7 34. Ke4 Ke7 35. Rh1 Rg6 36. Rc1 Kd6 37. Rc8 Rxg3 38. Rd8+ Kc7 39. Rg8 Kd7
+40. Rb8 Kc7 41. Rg8 a6 42. b4 Be5 43. Re8 Bd6 44. b5 axb5 45. Re6 Rg2 46. Rh6
+Rxa2 47. Rh7+ Kb6 48. Rd7 Ra4+ 49. Kf5 Kc5 50. Rxb7 Rf4+ 51. Ke6 Re4+ 52. Kd7
+b4 53. Ra7 Re7+ 54. Kd8 Rxa7 55. Kc8 0-1
+

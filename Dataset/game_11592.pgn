@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "HugoBerthier"]
+[Black "sergolvz"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/dgzrgR7P"]
+[WhiteElo "2440"]
+[BlackElo "2594"]
+[ECO "D11"]
+[Opening "Slav Defense: Modern Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:32:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. Nf3 d5 2. d4 c6 3. c4 e6 4. Qc2 dxc4 5. Qxc4 b5 6. Qc2 Bb7 7. Bg5 Qa5+ 8.
+Nbd2 Nd7 9. e3 c5 10. a4 a6 11. Bd3 cxd4 12. Nxd4 Rc8 13. Qb3 Nc5 14. Qc2 Ne4
+15. Bxe4 Rxc2 16. Bxc2 Bb4 17. Nb3 Bxd2+ 18. Nxd2 Nf6 19. Bxf6 gxf6 20. Ke2 Ke7
+21. axb5 Qxb5+ 22. Bd3 Qd7 23. Bxa6 Bxa6+ 24. Rxa6 Rd8 25. Rd1 Qd3+ 26. Ke1
+Qxa6 0-1
+

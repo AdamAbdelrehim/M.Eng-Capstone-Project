@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "domore"]
+[Black "FIDE-Trainer1984"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/xYxf5Rk7"]
+[WhiteElo "2465"]
+[BlackElo "2512"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:11:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Nf3 Qa5+ 8. Nbd2
+Qa6 9. c4 Ne7 10. O-O c5 11. dxc5 Nec6 12. Qc2 Nb4 13. Qc3 N8c6 14. a3 d4 15.
+Nxd4 Nxd4 16. axb4 Ne2+ 17. Kh2 Nxc3 18. Rxa6 bxa6 19. bxc3 a5 20. Ne4 axb4 21.
+cxb4 O-O-O 22. Nd6+ Bxd6 23. cxd6 Kd7 24. Be3 Rb8 25. Bc5 Rhc8 26. Ra1 Rb7 27.
+Kg3 f6 28. Kf4 Kc6 29. Ra6+ Kd7 30. Ke4 fxe5 31. Kxe5 Rf8 32. f4 Rf6 33. Ke4
+Rf8 34. Rxa7 Rxa7 35. Bxa7 Ra8 36. Bd4 Kxd6 37. Bxg7 Ra2 38. Be5+ Kc6 39. g3
+Rc2 40. Kd4 Rg2 41. b5+ Kb6 42. f5 exf5 43. Kd5 Rd2+ 44. Bd4+ Kb7 45. Kc5 Rd3
+46. Be5 Rd8 47. Kb4 Rd1 48. Bf4 Rb1+ 49. Kc5 Rd1 50. Bd6 Rd2 51. Be5 Rd1 52.
+Bd4 Rd3 53. Be5 Rd1 54. Kb4 Rb1+ 55. Kc3 Rd1 56. c5 Rc1+ 57. Kd4 Rd1+ 58. Ke3
+Rb1 59. b6 Kc6 60. Kf4 Kxc5 61. Bc7 Rf1+ 62. Kg5 Rb1 63. Kxf5 Kd5 64. Kg5 Ke4
+65. Kxh5 Kf3 66. g4 Rb5+ 67. g5 Ke4 68. Kh6 Kf5 69. g6 Kf6 70. g7 Kf7 71. h5
+Rf5 72. b7 Rf6+ 73. Kh7 Rg6 74. hxg6+ Ke6 75. g8=Q+ Kf5 76. b8=Q Ke4 77. Qbe8+
+Kd3 78. Qd5+ Kc2 79. Qec6+ Kb1 80. Qdb5+ Ka1 81. Qca6# 1-0
+

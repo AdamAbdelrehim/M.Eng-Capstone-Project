@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "very_slow"]
+[Black "mmsanchezchess"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/acf0B6P2"]
+[BlackTitle "IM"]
+[WhiteElo "2550"]
+[BlackElo "2669"]
+[ECO "C26"]
+[Opening "Vienna Game: Mieses Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:22:45"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 O-O 5. Nf3 d6 6. O-O Nc6 7. d3 a6 8. h3 h6
+9. Be3 Bxe3 10. fxe3 Be6 11. g4 Qd7 12. Qe1 d5 13. Qh4 dxe4 14. dxe4 Qe7 15. g5
+Nd7 16. Nd5 Bxd5 17. exd5 Nb4 18. d6 Qxd6 19. gxh6 Nxc2 20. hxg7 Kxg7 21. Qg4+
+Qg6 22. Qxd7 Nxa1 23. Nxe5 Qh5 24. Rf5 Rad8 25. Rxh5 Rxd7 26. Nxd7 Rd8 27. Rd5
+Nc2 28. Nc5 Re8 29. e4 Nb4 30. Rd7 b6 31. Nb3 c5 32. a3 Nc2 33. Rd6 Rb8 34. Kf2
+a5 35. Ke2 a4 36. Nd2 Nd4+ 37. Kd3 Kf8 38. e5 Ke7 39. Ne4 Rg8 40. Bf1 Rg1 41.
+Be2 Rb1 42. Nc3 Rxb2 43. Nd5+ Kf8 44. Bh5 b5 45. Rf6 Kg7 46. Rxf7+ Kh6 47. Bg4
+b4 48. axb4 a3 49. bxc5 Nc6 50. Rf6+ Kg5 51. Rxc6 Rb3+ 52. Kc4 a2 53. Ra6 Rb2
+54. e6 Kg6 55. e7+ Kf7 56. Bh5+ Kg7 57. e8=Q Rc2+ 58. Kb3 a1=N+ 59. Rxa1 Rf2
+60. Qg6+ Kh8 61. Ra8+ Rf8 0-1
+

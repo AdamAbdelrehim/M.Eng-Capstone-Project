@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.11"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "rogiere"]
+[Result "0-1"]
+[CurrentPosition "r1bqkbnr/pp3ppp/2np4/8/4P3/2P5/P1P1QPPP/R1B1KB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "B32"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Open-Lowenthal-Variation"]
+[UTCDate "2023.04.11"]
+[UTCTime "18:21:47"]
+[WhiteElo "1578"]
+[BlackElo "1638"]
+[TimeControl "60"]
+[Termination "rogiere won by resignation"]
+[StartTime "18:21:47"]
+[EndDate "2023.04.11"]
+[EndTime "18:21:59"]
+[Link "https://www.chess.com/game/live/74976321087"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.9] }
+2... Nc6 { [%clk 0:00:59.3] } 3. d4 { [%clk 0:00:59.8] } 3... cxd4
+{ [%clk 0:00:58.5] } 4. Nxd4 { [%clk 0:00:59.7] } 4... e5 { [%clk 0:00:58.1] }
+5. Nc3 { [%clk 0:00:59.4] } 5... exd4 { [%clk 0:00:56.4] } 6. Qe2
+{ [%clk 0:00:59.1] } 6... dxc3 { [%clk 0:00:55.4] } 7. bxc3
+{ [%clk 0:00:58.7] } 7... d6 { [%clk 0:00:53.9] } 0-1
+

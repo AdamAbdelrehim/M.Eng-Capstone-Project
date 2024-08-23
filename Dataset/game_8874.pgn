@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Attila76"]
+[Black "MassterofMayhem"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/6ThvOOEu"]
+[WhiteTitle "FM"]
+[BlackTitle "IM"]
+[WhiteElo "2619"]
+[BlackElo "2620"]
+[ECO "D01"]
+[Opening "Rapport-Jobava System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "05:50:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. Bf4 g6 3. Nc3 d5 4. e3 Bg7 5. h4 h6 6. Nf3 Bg4 7. Qd2 Bxf3 8. gxf3
+Nbd7 9. Bh3 c6 10. e4 e6 11. O-O-O b5 12. Rde1 Qa5 13. Bd6 b4 14. Nb1 Bf8 15.
+Bxf8 Kxf8 16. a3 Rb8 17. Re3 Kg7 18. e5 Nh5 19. Rb3 c5 20. dxc5 Nxc5 21. Rxb4
+Qc7 22. Nc3 a5 23. Rxb8 Rxb8 24. f4 Qb6 25. Rd1 Qxb2# 0-1
+

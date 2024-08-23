@@ -1,0 +1,41 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.05.03"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "markjo75"]
+[Result "0-1"]
+[CurrentPosition "3q1rk1/2p2pbp/Rr2p1pB/2NpPn2/3P4/2P1Q2P/5PP1/5RK1 w - -"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Declined-Williams-Variation-3.d4-Bg4"]
+[UTCDate "2021.05.03"]
+[UTCTime "02:45:19"]
+[WhiteElo "1335"]
+[BlackElo "1493"]
+[TimeControl "600"]
+[Termination "markjo75 won by resignation"]
+[StartTime "02:45:19"]
+[EndDate "2021.05.03"]
+[EndTime "02:55:06"]
+[Link "https://www.chess.com/game/live/13749074397"]
+
+1. e4 { [%clk 0:10:00] } 1... Nc6 { [%clk 0:09:58.1] } 2. Nf3
+{ [%clk 0:09:56.2] } 2... d6 { [%clk 0:09:56.7] } 3. d4 { [%clk 0:09:53.8] }
+3... Bg4 { [%clk 0:09:55.9] } 4. Be3 { [%clk 0:09:48.9] } 4... g6
+{ [%clk 0:09:54.8] } 5. h3 { [%clk 0:09:45.9] } 5... Bxf3 { [%clk 0:09:52.1] }
+6. Qxf3 { [%clk 0:09:44.1] } 6... Bg7 { [%clk 0:09:50.7] } 7. Bb5
+{ [%clk 0:09:36.9] } 7... a6 { [%clk 0:09:44.5] } 8. Ba4 { [%clk 0:09:29.4] }
+8... b5 { [%clk 0:09:39.2] } 9. Bb3 { [%clk 0:09:27.4] } 9... e6
+{ [%clk 0:09:34.2] } 10. c3 { [%clk 0:09:14] } 10... Nge7 { [%clk 0:09:32.3] }
+11. O-O { [%clk 0:09:08.8] } 11... O-O { [%clk 0:09:28.8] } 12. Nd2
+{ [%clk 0:08:45.9] } 12... d5 { [%clk 0:09:07.7] } 13. e5 { [%clk 0:08:36.9] }
+13... Nf5 { [%clk 0:09:00.3] } 14. Bf4 { [%clk 0:08:23.7] } 14... Na5
+{ [%clk 0:08:54.1] } 15. a4 { [%clk 0:07:45.5] } 15... Nxb3
+{ [%clk 0:08:50.7] } 16. Nxb3 { [%clk 0:07:45.4] } 16... bxa4
+{ [%clk 0:08:48] } 17. Rxa4 { [%clk 0:07:45.2] } 17... Rb8 { [%clk 0:08:17.1] }
+18. Nc5 { [%clk 0:06:57.5] } 18... Rxb2 { [%clk 0:08:14] } 19. Rxa6
+{ [%clk 0:06:55.4] } 19... Ne7 { [%clk 0:07:42.3] } 20. Qe3
+{ [%clk 0:06:21.1] } 20... Rb6 { [%clk 0:06:42.9] } 21. Bh6
+{ [%clk 0:05:53.6] } 21... Nf5 { [%clk 0:06:39.3] } 0-1
+

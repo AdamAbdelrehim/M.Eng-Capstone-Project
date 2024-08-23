@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.05"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "andrewhaldenby"]
+[Result "0-1"]
+[CurrentPosition "5rk1/1pp2pp1/p1b4p/8/5Q2/1P2RN1P/1P3qPK/8 w - -"]
+[Timezone "UTC"]
+[ECO "C55"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Two-Knights-Modern-Bishops-Opening...6.Nc3-d6-7.h3-Na5-8.Bb3"]
+[UTCDate "2024.01.05"]
+[UTCTime "08:04:03"]
+[WhiteElo "1922"]
+[BlackElo "1944"]
+[TimeControl "600"]
+[Termination "andrewhaldenby won by resignation"]
+[StartTime "08:04:03"]
+[EndDate "2024.01.05"]
+[EndTime "08:07:26"]
+[Link "https://www.chess.com/game/live/98180724603"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:57.7] } 2. Nf3
+{ [%clk 0:09:58.4] } 2... Nc6 { [%clk 0:09:56.4] } 3. Bc4 { [%clk 0:09:57.7] }
+3... Nf6 { [%clk 0:09:54.6] } 4. d3 { [%clk 0:09:52.7] } 4... Be7
+{ [%clk 0:09:53.1] } 5. O-O { [%clk 0:09:50.3] } 5... O-O { [%clk 0:09:52.3] }
+6. Nc3 { [%clk 0:09:50] } 6... d6 { [%clk 0:09:50.1] } 7. h3
+{ [%clk 0:09:44.4] } 7... Na5 { [%clk 0:09:44.6] } 8. Bb3 { [%clk 0:09:42.9] }
+8... Nxb3 { [%clk 0:09:43.4] } 9. axb3 { [%clk 0:09:42.8] } 9... a6
+{ [%clk 0:09:39] } 10. Be3 { [%clk 0:09:39.8] } 10... h6 { [%clk 0:09:35.7] }
+11. Nh2 { [%clk 0:09:34.6] } 11... d5 { [%clk 0:09:30] } 12. exd5
+{ [%clk 0:09:29.2] } 12... Nxd5 { [%clk 0:09:28.9] } 13. Nxd5
+{ [%clk 0:09:28.6] } 13... Qxd5 { [%clk 0:09:27.8] } 14. f4
+{ [%clk 0:09:26.6] } 14... Bc5 { [%clk 0:09:22.9] } 15. Bxc5
+{ [%clk 0:09:14.8] } 15... Qxc5+ { [%clk 0:09:21.9] } 16. Kh1
+{ [%clk 0:09:13] } 16... Bd7 { [%clk 0:09:20.8] } 17. Qe2 { [%clk 0:09:06.5] }
+17... Rae8 { [%clk 0:09:14] } 18. Rae1 { [%clk 0:09:00.4] } 18... exf4
+{ [%clk 0:09:11.2] } 19. Qf3 { [%clk 0:08:57.3] } 19... Bc6
+{ [%clk 0:09:06.6] } 20. Qxf4 { [%clk 0:08:54.4] } 20... Rxe1
+{ [%clk 0:09:05.1] } 21. Rxe1 { [%clk 0:08:53.1] } 21... Qxc2
+{ [%clk 0:08:59.5] } 22. Nf3 { [%clk 0:08:51] } 22... Qxd3 { [%clk 0:08:51.2] }
+23. Re3 { [%clk 0:08:43.3] } 23... Qf1+ { [%clk 0:08:41.6] } 24. Kh2
+{ [%clk 0:08:39.8] } 24... Qf2 { [%clk 0:08:20.2] } 0-1
+

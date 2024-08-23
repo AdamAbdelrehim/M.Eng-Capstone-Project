@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Lynx_BOT"]
+[Black "InanisBot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/9BFB6LAf"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2516"]
+[BlackElo "2413"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Closed, Anti-Sveshnikov Variation, with d6"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "03:36:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 c5 2. Nc3 d6 3. Bc4 Nc6 4. Nf3 e5 5. d3 Be7 6. O-O Nf6 7. Nd5 O-O 8. c3
+Nxd5 9. Bxd5 a5 10. Be3 a4 11. Rc1 a3 12. bxa3 Rxa3 13. d4 Be6 14. Bxe6 fxe6
+15. dxc5 dxc5 16. Rb1 Qc7 17. Qc2 Rfa8 18. Rb2 h6 19. h3 c4 20. Rc1 b5 21. Rxb5
+Rxa2 22. Qd1 R8a5 23. Rxa5 Nxa5 24. Ra1 Rxa1 25. Qxa1 Bd8 26. Nd2 Nb7 27. Qa6
+Nd6 28. Qa3 Kh7 29. Qc5 Qxc5 30. Bxc5 Nb7 31. Bb4 Na5 32. Bd6 Kg6 33. Bxe5 Bf6
+34. Bxf6 gxf6 35. Kh2 Kh5 36. Kg3 Kg5 37. Kf3 e5 38. g3 Kh5 39. h4 Kg6 40. Kg4
+h5+ 41. Kh3 f5 42. exf5+ Kxf5 43. f3 Kf6 44. g4 Kg6 45. Kg3 Kh6 46. Kf2 Kg6 47.
+Ke3 Kf6 48. gxh5 Kg7 49. f4 exf4+ 50. Kxf4 Kh6 51. Kg4 Kg7 52. Kg5 Kh7 53. h6
+Nb7 54. Nxc4 Nc5 55. Nd6 Ne6+ 56. Kh5 Nf4+ 57. Kg4 Ne2 58. c4 Kxh6 59. c5 Nc3
+60. c6 Nd5 61. Ne8 Ne7 62. c7 Nc8 63. h5 Kh7 64. Kg5 Kg8 65. h6 Kh7 66. Nf6+
+Kh8 67. Kg6 Ne7+ 68. Kf7 Nc8 69. h7 Nd6+ 70. Kg6 Nc8 71. Ne4 Ne7+ 72. Kf7 Nc8
+73. Ng5 Ne7 74. Kxe7 Kg7 75. c8=Q Kh6 76. h8=Q+ Kg6 77. Qf6+ Kh5 78. Qh3# 1-0
+

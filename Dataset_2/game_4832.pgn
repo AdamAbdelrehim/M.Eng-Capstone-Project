@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.04.28"]
+[Round "-"]
+[White "SyedMuhammed"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rnbqkb1r/pp2pppp/3p4/2p5/Q3n3/2P2N2/PP1PBPPP/RNB1K2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "B50"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Delayed-Alapin-Variation-3...Nf6-4.Be2"]
+[UTCDate "2022.04.28"]
+[UTCTime "22:19:59"]
+[WhiteElo "1818"]
+[BlackElo "1742"]
+[TimeControl "600"]
+[Termination "SyedMuhammed won by resignation"]
+[StartTime "22:19:59"]
+[EndDate "2022.04.28"]
+[EndTime "22:20:41"]
+[Link "https://www.chess.com/game/live/44923235637"]
+
+1. e4 { [%clk 0:09:54.1] } 1... c5 { [%clk 0:09:56.3] } 2. Nf3
+{ [%clk 0:09:50.2] } 2... d6 { [%clk 0:09:54.9] } 3. c3 { [%clk 0:09:44.4] }
+3... Nf6 { [%clk 0:09:49.2] } 4. Be2 { [%clk 0:09:41.4] } 4... Nxe4
+{ [%clk 0:09:46.5] } 5. Qa4+ { [%clk 0:09:39] } 1-0
+

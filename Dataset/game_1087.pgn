@@ -1,0 +1,37 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Kiskar"]
+[Black "manneredmonkey"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/r5hZOTRu"]
+[BlackTitle "NM"]
+[WhiteElo "2718"]
+[BlackElo "2627"]
+[ECO "A05"]
+[Opening "King's Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:13:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 c6 4. O-O Bf5 5. d3 Nbd7 6. c4 e6 7. cxd5 exd5 8.
+Qb3 Qb6 9. Qc2 h6 10. Nc3 Bh7 11. e4 dxe4 12. dxe4 Be7 13. Be3 Qa6 14. Nd4 O-O
+15. Rfd1 Rfd8 16. h3 Nc5 17. Nf5 Bf8 18. b4 Ne6 19. a3 b5 20. e5 Ne8 21. Be4
+Bg6 22. Qb3 Rac8 23. Ne7+ Bxe7 24. Bxg6 N8c7 25. Bf5 Qb7 26. Rxd8+ Rxd8 27. Rd1
+Rxd1+ 28. Qxd1 Nd5 29. Nxd5 cxd5 30. Qd3 a6 31. Bg4 Qd7 32. f4 d4 33. Bf2 Bd8
+34. f5 Ng5 35. h4 h5 36. Bxh5 Nh3+ 37. Kg2 Nxf2 38. Kxf2 Bc7 39. Qe4 d3 40. e6
+Bb6+ 41. Kg2 fxe6 42. fxe6 Qe7 43. Bf7+ Kf8 44. Qxd3 Bc7 45. Qh7 Qd6 46. Qg8+
+Ke7 47. Qxg7 Qd2+ 48. Kh3 Qc1 49. Qg5+ Qxg5 50. hxg5 Be5 51. Kg4 Bb2 52. Kf5
+Bxa3 53. g6 Bb2 54. Kg5 Bg7 55. Kh5 Kf6 56. g4 Ke7 57. g5 Bf8 58. g7 Bxg7 59.
+g6 Kf8 60. Kg5 Ke7 61. Kf5 Bc3 62. Ke4 Bg7 63. Kd5 Bc3 64. Kc6 Kf8 65. Kb6 Bxb4
+66. Kxa6 Be7 67. Kxb5 Kg7 68. Kc6 Kf6 69. Kd7 Bf8 70. Be8 Ba3 71. Bf7 Bf8 72.
+Be8 Ba3 73. Bf7 Kg7 74. e7 Bb4 75. e8=Q Kf6 76. Qe6+ Kg5 77. Qd5+ Kh6 78. Qc4
+Be7 79. Qb5 Bg5 80. Qa4 Kg7 81. Qb3 Bf6 82. Qc2 Be5 83. Qd3 Bf6 84. Qe4 Kh6 85.
+Qe6 Bg5 86. Qe8 Kh5 87. Qg8 Kg4 88. Qh7 Kf5 89. g7+ Kf6 90. g8=Q Ke5 91. Qhg6
+Bf6 92. Qg5+ Kd4 93. Q8g6 Be5 94. Q6h5 Bf4 95. Qgg4 Ke3 96. Qhf5 Be5 97. Qfe4+
+Kd2 98. Qgf3 Bd4 99. Qee2+ Kc1 100. Qff1# 1-0
+

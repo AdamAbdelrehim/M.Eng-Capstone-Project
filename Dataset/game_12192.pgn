@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "positionaloldman"]
+[Black "Chezthor"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/7bjeCaJj"]
+[WhiteElo "2551"]
+[BlackElo "2415"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:51:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. e4 c5 2. Nf3 e6 3. b3 b6 4. Bb2 Bb7 5. Bd3 Nc6 6. a3 Qb8 7. c4 Nf6 8. Nc3
+Nd4 9. Nxd4 cxd4 10. Nb5 Nxe4 11. Bxd4 Nc5 12. Bxc5 bxc5 13. Qg4 Qe5+ 0-1
+

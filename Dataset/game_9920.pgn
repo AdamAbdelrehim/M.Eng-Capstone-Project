@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "magnusglad_bot"]
+[Black "Hoon_Bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/ZXe7SemT"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2793"]
+[BlackElo "2871"]
+[ECO "C11"]
+[Opening "French Defense: Burn Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:22:34"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-2"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nf3 h6 7. Bxf6 Nxf6 8.
+Bd3 Nxe4 9. Bxe4 c5 10. Qe2 Qa5+ 11. c3 Be7 12. O-O cxd4 13. cxd4 O-O 14. Ne5
+Bf6 15. Rfd1 Rd8 16. b3 Qb4 17. Qh5 Bxe5 18. Qxe5 Bd7 19. Rac1 Rac8 20. h3 Bc6
+21. d5 Bxd5 22. Rxc8 Rxc8 23. Bxd5 exd5 24. Rxd5 Qb6 25. Rd1 Rc6 26. g3 g6 27.
+Qe8+ Kg7 28. Qe5+ Kg8 29. Qe8+ Kg7 30. Qe5+ Kg8 1/2-1/2
+

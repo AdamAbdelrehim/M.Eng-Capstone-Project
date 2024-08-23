@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "BoringAlien"]
+[Black "bouzidian"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/w5juNfsg"]
+[BlackTitle "CM"]
+[WhiteElo "2551"]
+[BlackElo "2412"]
+[ECO "D11"]
+[Opening "Slav Defense: Modern Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:06:54"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+
+1. d4 c6 2. Nf3 d5 3. c4 Nd7 4. cxd5 cxd5 5. Nc3 Ngf6 6. Bg5 g6 7. e3 Bg7 8.
+Bd3 O-O 9. O-O a6 10. a4 b6 11. Ne5 Bb7 12. f4 Nxe5 13. fxe5 Ne4 14. Bxe4 dxe4
+15. Qg4 f6 16. exf6 exf6 17. Qe6+ Kh8 18. Bh4 Rc8 19. Rac1 Rc6 20. Qb3 Qd7 21.
+Rce1 f5 22. Bg5 Rfc8 23. h4 h6 24. Bf4 Kh7 25. a5 b5 26. Kh1 Rc4 27. Bg3 Qd8
+28. h5 Qxa5 29. hxg6+ Kxg6 30. Qd1 b4 31. Ne2 Rc2 32. Nf4+ Kh7 33. Qh5 R8c6 34.
+b3 Bc8 35. d5 Rf6 36. Rd1 Bd7 37. d6 Qb5 38. Nd5 Rg6 39. Qh4 Rg4 40. Qh2 Qe2
+41. Rg1 Rg5 42. Nf4 Qg4 43. Rc1 Rxc1 44. Rxc1 Qxg3 45. Qxg3 Rxg3 46. Rc7 Bb5
+47. Nd5 Kg6 48. Rb7 Be5 49. d7 Bxd7 50. Rxd7 f4 51. Nxf4+ Bxf4 52. exf4 Kf5 53.
+Rf7+ Kg4 54. Kh2 Rxb3 55. f5 Kf4 56. f6 Ke5 57. Rf8 Ke6 58. Re8+ Kxf6 59. Rxe4
+a5 60. Rc4 a4 61. Rc6+ Ke5 62. Rxh6 Kd4 63. Rh5 a3 64. Ra5 Kc3 65. g4 Kb2 66.
+g5 a2 67. g6 a1=Q 68. Rxa1 Kxa1 69. Kg2 Rb2+ 70. Kf3 Rb1 71. Kf2 Rb2+ 72. Kf3
+Rb3+ 73. Kf4 Ra3 74. g7 Ra8 75. Ke4 b3 76. Kd3 b2 77. Kc3 b1=Q 78. g8=Q Qb2+
+79. Kc4 Rxg8 80. Kd5 Rg4 81. Ke6 Rb4 82. Kf5 Qa3 83. Ke6 Qa5 84. Kd7 Rb6 85.
+Kc8 Qa7 0-1
+

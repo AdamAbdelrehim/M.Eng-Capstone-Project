@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Tidjane"]
+[Black "VoinTeka"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/UKsvTXj5"]
+[WhiteElo "2567"]
+[BlackElo "2570"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:22:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 e6 2. Nf3 f5 3. g3 b6 4. Bg2 Bb7 5. O-O Nf6 6. c4 Be7 7. d5 O-O 8. dxe6
+dxe6 9. Qxd8 Rxd8 10. Ng5 Bxg2 11. Kxg2 e5 12. Nc3 Na6 13. Nf3 e4 14. Ne5 Bd6
+15. Nc6 Re8 16. Bg5 Kf7 17. a3 Nb8 18. Nd4 g6 19. Ndb5 Be5 20. Rfd1 a6 21. Nd4
+c5 22. Nc2 Bxc3 23. bxc3 Nc6 24. Rab1 Rab8 25. Ne3 b5 26. cxb5 Rxb5 27. Nc4
+Rxb1 28. Rxb1 Re6 29. Rb7+ Kg8 30. h3 Nd5 31. Bd2 Ne5 32. Nxe5 Rxe5 33. c4 Ne7
+34. Bc3 Re6 35. Rc7 Nc6 36. e3 h5 37. g4 hxg4 38. hxg4 Kf8 39. Kg3 Ke8 40. gxf5
+gxf5 41. Kf4 Kd8 42. Rh7 Ne7 43. Rg7 Ke8 44. Rh7 Kf8 45. Rh8+ Kf7 46. Ra8 Ng6+
+47. Kxf5 Ne7+ 48. Kf4 Ng6+ 49. Kg5 Ne7 50. Ra7 Rg6+ 51. Kf4 Re6 52. Rc7 Rb6 53.
+Rxc5 Rb3 54. Bb4 Rb2 55. Rc7 1-0
+

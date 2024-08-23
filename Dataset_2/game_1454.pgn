@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.06.30"]
+[Round "-"]
+[White "AHMADO0OV"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r2q1rk1/pp3ppp/2nb4/3Bp3/Q7/6P1/PP1PNP1P/R1B1K2R w KQ -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Kings-Fianchetto-Opening-1...d5-2.Bg2-Nf6-3.c4"]
+[UTCDate "2021.06.30"]
+[UTCTime "16:59:13"]
+[WhiteElo "1527"]
+[BlackElo "1537"]
+[TimeControl "600"]
+[Termination "AHMADO0OV won by resignation"]
+[StartTime "16:59:13"]
+[EndDate "2021.06.30"]
+[EndTime "17:03:36"]
+[Link "https://www.chess.com/game/live/18811279365"]
+
+1. g3 { [%clk 0:09:56.9] } 1... d5 { [%clk 0:09:47.1] } 2. Bg2
+{ [%clk 0:09:22.7] } 2... Nf6 { [%clk 0:09:43.2] } 3. c4 { [%clk 0:09:18] }
+3... c6 { [%clk 0:09:24.8] } 4. cxd5 { [%clk 0:09:15] } 4... cxd5
+{ [%clk 0:09:22.3] } 5. Nc3 { [%clk 0:09:12.9] } 5... e5 { [%clk 0:09:14.4] }
+6. e4 { [%clk 0:08:58.2] } 6... Be6 { [%clk 0:08:54.6] } 7. exd5
+{ [%clk 0:08:51.9] } 7... Nxd5 { [%clk 0:08:43.7] } 8. Qa4+
+{ [%clk 0:08:46.8] } 8... Nc6 { [%clk 0:08:31.8] } 9. Nge2 { [%clk 0:08:27.4] }
+9... Bd6 { [%clk 0:08:08.6] } 10. Nxd5 { [%clk 0:08:10.7] } 10... Bxd5
+{ [%clk 0:08:01.5] } 11. Bxd5 { [%clk 0:08:08.2] } 11... O-O
+{ [%clk 0:07:51.3] } 1-0
+

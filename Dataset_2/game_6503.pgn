@@ -1,0 +1,37 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.26"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Abusfad"]
+[Result "0-1"]
+[CurrentPosition "1r1q1rk1/3n1pbp/p2p2pB/1ppPp3/4P3/2NP1P1P/PP1Q2P1/2KR3R w - c6"]
+[Timezone "UTC"]
+[ECO "B06"]
+[ECOUrl "https://www.chess.com/openings/Modern-Defense-with-1-e4-2.d4-Bg7-3.Nf3-d6"]
+[UTCDate "2022.10.26"]
+[UTCTime "14:04:10"]
+[WhiteElo "1838"]
+[BlackElo "1883"]
+[TimeControl "600"]
+[Termination "Abusfad won - game abandoned"]
+[StartTime "14:04:10"]
+[EndDate "2022.10.26"]
+[EndTime "14:09:07"]
+[Link "https://www.chess.com/game/live/60532208155"]
+
+1. e4 { [%clk 0:09:59.9] } 1... d6 { [%clk 0:09:59.4] } 2. d4
+{ [%clk 0:09:58.3] } 2... g6 { [%clk 0:09:57.4] } 3. Nf3 { [%clk 0:09:55] }
+3... Bg7 { [%clk 0:09:54.6] } 4. Be3 { [%clk 0:09:54.4] } 4... Nf6
+{ [%clk 0:09:53.1] } 5. Nc3 { [%clk 0:09:52.2] } 5... Bg4 { [%clk 0:09:49.2] }
+6. h3 { [%clk 0:09:49.7] } 6... Bxf3 { [%clk 0:09:47.5] } 7. Qxf3
+{ [%clk 0:09:49.6] } 7... Nbd7 { [%clk 0:09:44.5] } 8. O-O-O
+{ [%clk 0:09:48.1] } 8... Rb8 { [%clk 0:09:34] } 9. Bc4 { [%clk 0:09:32.8] }
+9... e5 { [%clk 0:09:25.6] } 10. Qe2 { [%clk 0:09:16.4] } 10... O-O
+{ [%clk 0:09:17.9] } 11. Qd2 { [%clk 0:09:09.7] } 11... a6 { [%clk 0:09:03.7] }
+12. d5 { [%clk 0:08:58.3] } 12... b5 { [%clk 0:09:01.1] } 13. Bd3
+{ [%clk 0:08:39.8] } 13... Nc5 { [%clk 0:08:28.7] } 14. f3 { [%clk 0:08:25.5] }
+14... Nfd7 { [%clk 0:08:24.3] } 15. Bh6 { [%clk 0:08:22.4] } 15... Nxd3+
+{ [%clk 0:08:16.9] } 16. cxd3 { [%clk 0:08:18.7] } 16... c5
+{ [%clk 0:07:16.5] } 0-1
+

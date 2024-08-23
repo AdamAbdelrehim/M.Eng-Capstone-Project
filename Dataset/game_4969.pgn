@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Rory_Sutherland"]
+[Black "Hemoglobinski"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/mbYTVoZK"]
+[WhiteElo "2721"]
+[BlackElo "2575"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:14:08"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. f4 d5 5. e5 Nh6 6. Nf3 f6 7. Bd3 Bg4 8. h3 Bxf3
+9. Qxf3 O-O 10. Qd1 fxe5 11. fxe5 c5 12. dxc5 Nc6 13. Qe2 e6 14. h4 Nf5 15. Bg5
+Qa5 16. Rh3 Qxc5 17. O-O-O Rac8 18. Bf6 Ncd4 19. Qe1 b5 20. g4 b4 21. Na4 Nxc2
+22. Nxc5 Nxe1 23. Rxe1 Rxc5+ 24. Kb1 Bxf6 25. exf6 Nd4 26. g5 Kf7 27. h5 Rfc8
+28. hxg6+ hxg6 29. Rh7+ Kg8 30. Bxg6 Nf3 31. Rg7+ Kf8 32. Rf7+ Kg8 33. Rg7+ Kf8
+34. b3 Nxe1 35. Rh7 Rc1+ 36. Kb2 Kg8 37. Rg7+ Kh8 38. Rh7+ Kg8 39. Rg7+ Kf8 40.
+Rh7 R8c2+ 41. Bxc2 Rxc2+ 42. Kb1 Kg8 43. g6 Rf2 44. f7+ Kf8 45. Rh8+ Ke7 46.
+Re8+ Kd6 47. f8=Q+ Rxf8 48. Rxf8 Nf3 49. g7 Nd2+ 50. Kc2 Ne4 51. g8=Q Nc3 52.
+Qf7 Kc5 53. Qc7+ Kd4 54. Rf4+ Ke3 55. Qe5+ Ne4 56. Rxe4+ dxe4 57. Qg3+ Kd4 58.
+Qg4 e5 0-1
+

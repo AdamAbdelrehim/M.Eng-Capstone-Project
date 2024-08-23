@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Rabara"]
+[Black "MorrisonMotzi"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/dscbpLjk"]
+[WhiteElo "2403"]
+[BlackElo "2510"]
+[ECO "C88"]
+[Opening "Ruy Lopez: Closed, Anti-Marshall"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:18:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+b4 9. c3 Rb8 10. a5 d6 11. Bc4 Na7 12. d3 c6 13. Be3 Nb5 14. h3 bxc3 15. bxc3
+h6 16. Qc2 Be6 17. Qa2 Qd7 18. Rd1 Rfe8 19. d4 exd4 20. Nxd4 Bxc4 21. Qxc4 c5
+22. Nxb5 axb5 23. Qd3 c4 24. Qd4 Qc6 25. Nd2 d5 26. a6 dxe4 27. a7 Ra8 28. Qb6
+Qxb6 29. Bxb6 Nd5 30. Bd4 Bf6 31. Nf1 Bxd4 32. Rxd4 Nxc3 33. Ng3 Na4 34. Rd7 c3
+35. Rc7 Rec8 36. Rxc8+ Rxc8 37. Nxe4 c2 38. Kh2 b4 39. Nd6 Ra8 40. Nc4 Rxa7 41.
+Rc1 b3 42. Kg3 Rc7 43. Na5 Rc3+ 44. Kh2 b2 45. Re1 c1=Q 46. Re8+ Kh7 47. Nb7
+b1=Q 48. Re3 Qg1+ 49. Kg3 Rxe3+ 50. fxe3 Qbf1 51. Kg4 Qgxg2+ 0-1
+

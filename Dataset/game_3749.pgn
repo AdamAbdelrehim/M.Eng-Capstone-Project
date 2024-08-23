@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "berval"]
+[Black "YusufKeremIlgaz"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/HVPD5zN5"]
+[WhiteTitle "FM"]
+[WhiteElo "2533"]
+[BlackElo "2444"]
+[ECO "C72"]
+[Opening "Ruy Lopez: Morphy Defense, Modern Steinitz Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:30:49"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. c3 Nf6 7. Re1 g6 8. d3
+Bg7 9. h3 O-O 10. a3 b5 11. Bb3 h6 12. Nbd2 Na5 13. Ba2 c5 14. Nf1 Nc6 15. Ng3
+Re8 16. Bd2 Be6 17. Bxe6 Rxe6 18. c4 bxc4 19. dxc4 Nd4 20. Nxd4 exd4 21. Qc2 h5
+22. Bg5 Qb6 23. Rab1 a5 24. b3 Rae8 25. f3 Nd7 26. Ne2 Ne5 27. Nf4 d3 28. Qd2
+Nc6 29. Nxe6 Rxe6 30. Qxd3 Bd4+ 31. Be3 a4 32. bxa4 Qa6 33. Qc2 Bxe3+ 34. Rxe3
+Nd4 35. Qd1 Qxc4 36. a5 f5 37. Rb8+ Kh7 38. Rb7+ Kh6 39. Qd2 f4 40. Re1 g5 41.
+Kh2 Qa6 42. Rb6 Qc4 43. a6 Qa4 44. h4 Rf6 45. hxg5+ Kxg5 46. Reb1 Qxa3 47. Qf2
+h4 48. Rb8 Rg6 49. R1b6 Qe3 50. Qxe3 fxe3 51. a7 e2 52. Rb1 Nc6 53. a8=Q Nxb8
+54. Qxb8 Kf4 55. Qf8+ Ke3 56. Qf5 Rg3 57. Qd5 Kf2 58. Qd2 Rxg2+ 59. Kh3 Rg3+
+60. Kxh4 Rxf3 61. Qe1+ Ke3 62. Rb3+ Kxe4 63. Rxf3 Kxf3 64. Kg5 d5 65. Qd2 Kf2
+66. Kf4 d4 67. Ke4 Kf1 68. Qf4+ Ke1 69. Kd3 Kd1 70. Qf3 c4+ 71. Kxd4 c3 72.
+Kxc3 Ke1 0-1
+

@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "imdejong"]
+[Black "cn_ua"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/OCb1MQhC"]
+[WhiteTitle "IM"]
+[BlackTitle "IM"]
+[WhiteElo "2528"]
+[BlackElo "2635"]
+[ECO "C12"]
+[Opening "French Defense: MacCutcheon Variation, Dr. Olland Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:41:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. e5 h6 6. Bc1 Ne4 7. Qg4 g6 8. Ne2 c5
+9. a3 Bxc3+ 10. bxc3 cxd4 11. cxd4 Qa5+ 12. c3 Bd7 13. Be3 Bb5 14. Rc1 h5 15.
+Qf4 Nd7 16. h4 Rc8 17. f3 Bxe2 18. Bxe2 Nxc3 19. Kf2 Qxa3 20. Rc2 Rc6 21. Rhc1
+Nxe2 22. Kxe2 Qa6+ 23. Kf2 Rc4 24. Rxc4 dxc4 25. Qe4 Nb6 26. g4 hxg4 27. fxg4
+Nd5 28. Bg5 b5 29. Bf6 O-O 30. h5 Nxf6 31. exf6 Qa2+ 32. Rc2 Qb3 33. hxg6 Qd3
+34. Qxd3 cxd3 35. Rd2 fxg6 36. g5 Rd8 37. Rxd3 Kf7 38. Ke3 Rd5 39. Kf4 e5+ 40.
+Kg4 Rxd4+ 41. Rxd4 exd4 42. Kf4 b4 43. Ke4 b3 44. Kd3 b2 45. Kc2 d3+ 46. Kxb2
+a5 47. Kc3 a4 48. Kxd3 a3 49. Kc3 a2 50. Kb2 Ke6 51. Ka1 Kf5 52. Kxa2 Kxg5 53.
+f7 Kf6 54. f8=Q+ Ke6 55. Qg8+ Kf6 56. Qxg6+ Kxg6 1/2-1/2
+

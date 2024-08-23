@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.02.17"]
+[Round "-"]
+[White "GM_Karthikcat"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rn2k2r/ppp2pbp/3qpBp1/3pN3/2PP2b1/6P1/PP2PPBP/RN1QK2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "D70"]
+[ECOUrl "https://www.chess.com/openings/Neo-Grunfeld-Defense"]
+[UTCDate "2024.02.17"]
+[UTCTime "01:59:45"]
+[WhiteElo "1959"]
+[BlackElo "1956"]
+[TimeControl "600"]
+[Termination "GM_Karthikcat won by resignation"]
+[StartTime "01:59:45"]
+[EndDate "2024.02.17"]
+[EndTime "02:00:52"]
+[Link "https://www.chess.com/game/live/101874235711"]
+
+1. d4 { [%clk 0:10:00] } 1... Nf6 { [%clk 0:09:58.6] } 2. c4
+{ [%clk 0:09:59.2] } 2... g6 { [%clk 0:09:57.2] } 3. Nf3 { [%clk 0:09:56.7] }
+3... d5 { [%clk 0:09:56.8] } 4. g3 { [%clk 0:09:51.5] } 4... Bg7
+{ [%clk 0:09:55.8] } 5. Bg2 { [%clk 0:09:48.1] } 5... Bg4 { [%clk 0:09:55.1] }
+6. Ne5 { [%clk 0:09:43.9] } 6... e6 { [%clk 0:09:40.4] } 7. Bg5
+{ [%clk 0:09:39.7] } 7... Qd6 { [%clk 0:09:31.1] } 8. Bxf6 { [%clk 0:09:32.9] }
+1-0
+

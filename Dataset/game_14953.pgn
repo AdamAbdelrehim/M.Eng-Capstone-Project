@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Neftegor"]
+[Black "saeta"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/AxGnt0WA"]
+[WhiteElo "2537"]
+[BlackElo "2478"]
+[ECO "C41"]
+[Opening "Philidor Defense: Lion Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:27:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. g3 c6 6. Bg2 b5 7. O-O Bb7 8. Re1
+Be7 9. a3 O-O 10. h3 Re8 11. Be3 a5 12. Nh4 b4 13. Na4 exd4 14. Bxd4 Bf8 15. c3
+c5 16. Bxf6 Nxf6 17. Qd3 Bc6 18. b3 bxa3 19. Rxa3 d5 20. Raa1 Nxe4 21. c4 dxc4
+22. Qxc4 Qd4 23. Qc2 Rac8 24. Rad1 Qb4 25. Nf5 Ng5 26. Bxc6 Rxe1+ 27. Kg2 Rxc6
+28. Rd8 Qb7 29. f3 Rce6 0-1
+

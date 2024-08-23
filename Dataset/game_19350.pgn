@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "PriscaM"]
+[Black "Rvlc"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/zidiaGbV"]
+[WhiteElo "2501"]
+[BlackElo "2423"]
+[ECO "C22"]
+[Opening "Center Game: Berger Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:06:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 Nf6 5. Nc3 d6 6. Bd2 Be6 7. f4 Qe7 8. f5
+Bd7 9. Nf3 O-O-O 10. Bd3 g6 11. fxg6 hxg6 12. O-O-O Bg7 13. Qf2 Ng4 14. Qg1
+Nge5 15. Nd5 Qf8 16. Nxe5 Bxe5 17. Bb5 Kb8 18. Be3 a6 19. Ba4 Ne7 20. Bxd7 Nxd5
+21. exd5 Rxd7 22. Bd4 Re7 23. Bxe5 Rxe5 24. Qd4 Qh6+ 25. Kb1 Rhe8 26. h3 Re2
+27. Rhf1 f5 28. Rf2 R8e4 29. Rxe2 Rxd4 30. Rxd4 Qg7 31. Rd1 Ka7 32. Rde1 Qd4
+33. Re7 Qxd5 34. Rxc7 Qxg2 35. h4 f4 36. a4 Qg3 37. Ree7 Qg2 38. Rf7 Qe4 39. b3
+Qe1+ 40. Kb2 Qe5+ 41. Ka2 Qe4 42. Rce7 Qxc2+ 43. Ka3 Qc5+ 44. Ka2 Qd5 45. Ka3
+f3 46. Ka2 Qd2+ 47. Ka3 Qc1+ 48. Ka2 Qc6 49. Rc7 Qe4 50. Rce7 Qd5 51. Rd7 a5
+52. Rde7 Kb6 53. Ka3 f2 54. Ka2 Qd2+ 55. Ka3 Qc1+ 56. Ka2 f1=Q 57. Rxb7+ Kc6
+58. Rfc7+ Kd5 59. Rxc1 Qxc1 60. Rb5+ Ke6 61. Rg5 Qxg5 62. hxg5 Kf5 63. b4 d5
+64. bxa5 Ke6 65. a6 d4 66. a7 d3 67. a8=Q d2 68. Qe4+ Kd6 69. Qxg6+ 1-0
+

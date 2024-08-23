@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "BigOleDoinks"]
+[Black "IsolatedMushroom"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/0r300bBU"]
+[WhiteElo "2663"]
+[BlackElo "2709"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:46:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Bb4+ 5. Nbd2 dxc4 6. Bg2 b5 7. O-O a5 8. a3
+Bxd2 9. Qxd2 Bb7 10. Qg5 O-O 11. Qxb5 Ba6 12. Qxa5 Nc6 13. Qc5 Ne7 14. Ne5 Rb8
+15. Rd1 c3 16. Qxc3 Bxe2 17. Re1 Bb5 18. a4 Ned5 19. Qf3 Be8 20. a5 Qd6 21. Bg5
+Rxb2 22. Nc4 Qb4 23. Nxb2 Qxb2 24. Bxf6 Nxf6 25. Qb7 Qxd4 26. a6 1-0
+

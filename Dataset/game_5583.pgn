@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Cor64"]
+[Black "cibona"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Mal1YHPh"]
+[WhiteElo "2498"]
+[BlackElo "2523"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Williams Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:26:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 Nc6 2. Nf3 d6 3. d4 Nf6 4. Nc3 g6 5. d5 Nb8 6. a4 Bg7 7. a5 O-O 8. Be2 c6
+9. a6 bxa6 10. O-O cxd5 11. exd5 a5 12. Nd2 Bd7 13. Nc4 a4 14. Be3 Qc7 15. h3
+Na6 16. Nxa4 Bxa4 17. Rxa4 Nc5 18. Ra5 Rab8 19. c3 Nfd7 20. Bd4 Bxd4 21. Qxd4
+Nb3 22. Qxa7 Rb7 23. Qa6 Nxa5 24. Nxa5 Ra7 25. Qc6 Qxa5 26. b4 Qa3 27. f4 Nf6
+28. Bf3 Qb2 29. Re1 Ra1 30. Rxa1 Qxa1+ 31. Kh2 Qc1 32. Qc4 h5 33. b5 h4 34. Qb4
+Ra8 0-1
+

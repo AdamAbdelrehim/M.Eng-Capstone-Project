@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Tranquilou"]
+[Black "MsBlunderful"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ovR621kT"]
+[WhiteElo "2356"]
+[BlackElo "2515"]
+[ECO "D11"]
+[Opening "Slav Defense: Modern Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:00:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. g3 g6 5. Bg2 Bg7 6. Nbd2 O-O 7. O-O a5 8. b3 a4
+9. b4 dxc4 10. Nxc4 Nbd7 11. a3 Nb6 12. Nce5 Be6 13. Bb2 Nfd7 14. Nd3 Nc4 15.
+Bc1 Nf6 16. Qc2 Bd5 17. Rd1 b5 18. Nde5 Qb6 19. Nxc4 Bxc4 20. Ne5 Bd5 21. e4
+Bb3 22. Qd2 Bxd1 23. Qxd1 Rfd8 24. Bb2 Nxe4 25. Qc2 Bxe5 26. dxe5 Nxf2 0-1
+

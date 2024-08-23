@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "superRandom_123456"]
+[Black "tsakos27"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/9urFvatm"]
+[BlackTitle "FM"]
+[WhiteElo "2546"]
+[BlackElo "2387"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Reversed Mexican Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:54:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+
+1. Nf3 d5 2. Nc3 d4 3. Ne4 e5 4. d3 Nc6 5. e3 f5 6. Ng3 dxe3 7. fxe3 Nf6 8. Be2
+Bc5 9. c3 O-O 10. d4 Bd6 11. O-O e4 12. Nd2 Ne7 13. Qe1 c6 14. Nc4 Bc7 15. b3
+Be6 16. Ba3 a5 17. Ne5 Nfd5 18. Qd1 Nxe3 0-1
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "adask10"]
+[Black "BITTER_FOX"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/2tTwTm64"]
+[WhiteElo "2671"]
+[BlackElo "2388"]
+[ECO "E11"]
+[Opening "Bogo-Indian Defense: Retreat Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:59:22"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Be7 5. g3 O-O 6. Bg2 c5 7. O-O cxd4 8.
+Nxd4 Nc6 9. Bf4 Qa5 10. Nc3 e5 11. Nb3 Qd8 12. Bg5 d6 13. Rc1 Be6 14. Bxf6 Bxf6
+15. Nd5 Rc8 16. Qd2 Bg5 17. e3 f5 18. f4 Bh6 19. Rfd1 e4 20. c5 dxc5 21. Rxc5
+b6 22. Rb5 Rf7 23. Qe2 Rd7 24. Nc3 Rxd1+ 25. Qxd1 Qxd1+ 26. Nxd1 Rd8 27. Nc3 g6
+28. Bf1 Bg7 29. Kf2 Bxc3 30. bxc3 Rd1 31. c4 Rxf1+ 32. Kg2 Rb1 33. c5 bxc5 34.
+Rxc5 Nb4 35. Ra5 Nxa2 36. Nd4 Rb2+ 37. Kh3 Bc4 38. Rxa7 Bf1+ 39. Kh4 Rxh2+ 40.
+Kg5 Rb2 41. Kf6 Rb8 42. Ne6 Bc4 43. Ng5 Rb6+ 44. Ke5 h6 45. Nh7 Re6+ 46. Kd4
+Bb3 47. Ra3 Kxh7 48. Ra8 Rd6+ 49. Kc5 Rc6+ 50. Kxc6 Bd5+ 51. Kb6 Nb4 52. Ka7
+Nc6+ 0-1
+

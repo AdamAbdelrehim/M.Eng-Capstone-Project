@@ -1,0 +1,33 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Lynx_BOT"]
+[Black "FataliiBot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ApUYNEyK"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2559"]
+[BlackElo "2337"]
+[ECO "C45"]
+[Opening "Scotch Game: Mieses Variation"]
+[TimeControl "300+5"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:27:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Ba6 9. Nd2 Nf4 10. Qe3 Ng6 11. f4 f6 12. g3 Rg8 13. Qb3 Qc5 14. exf6 O-O-O
+15. f7 Qe7+ 16. Kd1 Qxf7 17. c5 Qxb3+ 18. Nxb3 Bxf1 19. Rxf1 d6 20. Kc2 dxc5
+21. Be3 Rd5 22. Rad1 Rh5 23. Bg1 Bd6 24. Rfe1 Rf8 25. Na5 Kd7 26. Nb7 c4 27. h4
+Rd5 28. Nc5+ Kc8 29. Ne6 Rf7 30. Bxa7 Re7 31. Bf2 Kd7 32. Ng5 h6 33. Nf3 Ra5
+34. a3 Rxe1 35. Rxe1 h5 36. Nd2 Ne7 37. Nxc4 Ra8 38. b4 Nf5 39. Kb3 Rh8 40. a4
+Kc8 41. Re2 Rf8 42. Ra2 Kb7 43. Na5+ Kc8 44. Nxc6 Kd7 45. b5 Ne7 46. Nxe7 Kxe7
+47. a5 Ke6 48. a6 Kd5 49. a7 Ra8 50. Rd2+ Ke6 51. Kc4 g6 52. Re2+ Kf5 53. Kd5
+Kg4 54. Ra2 Kf3 55. Kc6 Bb4 56. Kxc7 g5 57. b6 gxf4 58. b7 Rxa7 59. Bxa7 Bc3
+60. Ra3 Kg2 61. Rxc3 f3 62. b8=Q Kh2 63. Rxf3 Kh3 64. Rf2 Kg4 65. Qf8 Kh3 66.
+Qf5+ Kxg3 67. Qf4+ Kh3 68. Rh2# 1-0
+

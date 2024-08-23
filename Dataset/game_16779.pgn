@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "CaptainBucko"]
+[Black "RubinsteinsMonster"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/HkslEI1c"]
+[BlackTitle "FM"]
+[WhiteElo "2497"]
+[BlackElo "2500"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "03:40:48"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 O-O 5. a3 Bxc3+ 6. bxc3 c5 7. e4 Nc6 8. d5
+Na5 9. Bd3 e5 10. Ne2 Ne8 11. Ng3 Nd6 12. Rb1 b6 13. f4 f6 14. O-O Ba6 15. fxe5
+fxe5 16. Rxf8+ Qxf8 17. Qe2 Bxc4 18. Bxc4 Naxc4 19. Bg5 Qf7 20. Rf1 Qg6 21. h4
+Rf8 22. Rxf8+ Kxf8 23. Qf3+ Qf7 24. Qg4 h6 25. Bc1 Ne8 26. Nf5 Nf6 27. Qe2 Na5
+28. c4 Qh5 29. Qxh5 Nxh5 30. Nd6 Nf6 31. Kf2 Ke7 32. Nc8+ Kd8 33. Nd6 Kc7 34.
+Nb5+ Kb7 35. Nd6+ Kc7 36. Nb5+ Kb8 37. Nd6 a6 38. Kf3 Kc7 39. Nf5 Nxc4 40. Nxg7
+b5 41. Nf5 h5 42. Bg5 Ng4 43. Ng3 Nh2+ 44. Kf2 b4 45. axb4 cxb4 46. Nxh5 b3 47.
+Bc1 b2 48. Bxb2 Nxb2 49. Ke2 a5 50. Ng3 Ng4 51. Kd2 Nc4+ 52. Kc2 Nce3+ 53. Kb1
+Nxg2 0-1
+

@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "FabienLibiszewski"]
+[Black "jieltmcommeta"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/KZLvq7zY"]
+[WhiteTitle "GM"]
+[WhiteElo "2582"]
+[BlackElo "2603"]
+[ECO "C00"]
+[Opening "French Defense: King's Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:58:55"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 e6 2. d3 d5 3. Qe2 Nf6 4. Nf3 g6 5. g3 Bg7 6. h4 h6 7. Bg2 O-O 8. Nbd2 c5
+9. Nf1 Nc6 10. N1h2 Bd7 11. e5 Ne8 12. h5 g5 13. Ng4 f5 14. exf6 Nxf6 15. Nge5
+Nxe5 16. Nxe5 Be8 17. c4 Nd7 18. Ng6 Bxg6 19. hxg6 Ne5 20. f4 gxf4 21. gxf4
+dxc4 22. fxe5 cxd3 23. Qe4 Rf5 24. Bf4 Qa5+ 25. Kd1 Raf8 26. Bd2 Qb5 27. Qxb7
+Qa4+ 28. b3 Qd4 29. Rb1 Rf2 30. Bxh6 Qg4+ 31. Bf3 Qxf3+ 32. Qxf3 R8xf3 33. Bxg7
+Kxg7 34. b4 Rf1+ 35. Kd2 R1f2+ 36. Kc3 Rc2+ 37. Kb3 c4+ 38. Ka4 Rxa2+ 39. Kb5
+c3 40. Rbg1 Rff2 41. Rh7+ Kg8 42. Rd7 Rg2 43. Rxg2 Rxg2 44. Rxd3 c2 45. Rc3 Kg7
+46. Ka6 Kxg6 47. b5 Kf5 48. Kxa7 Kxe5 49. b6 Kd4 50. Rc7 Kd3 51. b7 Rg5 52.
+b8=Q Ra5+ 53. Kb6 1-0
+

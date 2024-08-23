@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "manuchess96"]
+[Black "www68"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ZZpIH7ZT"]
+[BlackTitle "IM"]
+[WhiteElo "2502"]
+[BlackElo "2569"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined: Tarrasch Defense, Pseudo-Tarrasch"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "02:18:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c5 4. g3 cxd4 5. cxd5 Qxd5 6. Nc3 dxc3 0-1
+

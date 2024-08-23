@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ilprofessore87"]
+[Black "hajeko"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/FIIkQdUr"]
+[BlackTitle "CM"]
+[WhiteElo "2542"]
+[BlackElo "2523"]
+[ECO "C70"]
+[Opening "Ruy Lopez: Morphy Defense, Schliemann Defense Deferred"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:39:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 f5 5. d4 exd4 6. e5 b5 7. Bb3 Bb7 8. O-O
+Na5 9. Nxd4 c5 10. Nxf5 c4 11. Nd6+ Bxd6 12. exd6 Nf6 13. Re1+ Kf8 14. Re7 Nc6
+15. Re1 cxb3 16. axb3 Kf7 17. Nc3 Re8 18. Bg5 Rxe1+ 19. Qxe1 Qe8 20. Qd2 Qe5
+21. Re1 Qf5 22. Bxf6 gxf6 23. Nd5 Ne5 24. f4 Nf3+ 25. gxf3 Qxd5 26. Re7+ Kg6
+27. Qg2+ Kf5 28. Qg4# 1-0
+

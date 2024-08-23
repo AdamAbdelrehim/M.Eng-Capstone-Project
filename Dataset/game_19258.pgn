@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Mikkel_Vinh"]
+[Black "Neftegor"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/tI5VEptw"]
+[WhiteTitle "CM"]
+[WhiteElo "2513"]
+[BlackElo "2530"]
+[ECO "C19"]
+[Opening "French Defense: Winawer Variation, Poisoned Pawn Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:50:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Qg4 Kf8 8. h4
+Qa5 9. Bd2 Qa4 10. Kd1 Nbc6 11. h5 h6 12. Rh3 Nxe5 13. Qf4 N5c6 14. Rf3 f6 15.
+Ne2 cxd4 16. cxd4 Bd7 17. Qd6 Rd8 18. Nf4 Qxd4 19. c3 Qa4+ 20. Ke1 Kf7 21. Bd3
+Ne5 22. Rg3 Nxd3+ 23. Nxd3 Nf5 24. Qc7 Nxg3 25. fxg3 Qe4+ 0-1
+

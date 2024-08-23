@@ -1,0 +1,32 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "caissa-x"]
+[Black "BitByByte"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/nyJZkWyC"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3034"]
+[BlackElo "2890"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+[TimeControl "900+3"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:36:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2
+a6 9. Bd3 O-O 10. dxc5 Qa5 11. O-O-O Nxc5 12. Bxc5 Qxc5 13. Kb1 b5 14. Ne2 a5
+15. g4 a4 16. f5 f6 17. exf6 Bxf6 18. g5 Bd8 19. f6 a3 20. Rhg1 axb2 21. Bxh7+
+Kxh7 22. g6+ Kg8 23. f7+ Rxf7 24. gxf7+ Kxf7 25. Qf4+ Bf6 26. Rxg7+ Kxg7 27.
+Ng3 Kf7 28. Nh5 Ke7 29. Qxf6+ Kd7 30. Nf4 Kc7 31. Rd3 Qe7 32. Qxe7+ Nxe7 33.
+Ng5 Kb6 34. Nfxe6 Bxe6 35. Nxe6 Rh8 36. h3 Nf5 37. Kxb2 Rh6 38. Nf4 d4 39. Kc1
+Kc5 40. a3 Kc4 41. Kd2 b4 42. axb4 Kxb4 43. Rb3+ Kc4 44. Nd3 Ne3 45. Rb8 Rxh3
+46. Rb4+ Kd5 47. Nf4+ Kc5 48. Rb5+ Kxb5 49. Nxh3 Kc5 50. c3 Nc4+ 51. Kc2 dxc3
+52. Kxc3 Na3 53. Nf2 Nb5+ 54. Kb2 Kc6 55. Nd1 Kc5 56. Kb3 Nd4+ 57. Ka4 Kb6 58.
+Nc3 Ka6 59. Kb4 Nc2+ 60. Kc5 Kb7 61. Nd5 Ka6 62. Ne3 Nxe3 1/2-1/2
+

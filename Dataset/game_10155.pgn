@@ -1,0 +1,29 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Botyuliirma"]
+[Black "AKS-Mantissa"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/fXIIl1zD"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3012"]
+[BlackElo "2785"]
+[ECO "B76"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:55:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. O-O-O h5 10. Kb1 a6 11. Be2 Bd7 12. h4 Ne5 13. g4 Rc8 14. gxh5 Nxh5 15.
+f4 Nc4 16. Bxc4 Rxc4 17. f5 Qe8 18. Rhg1 e6 19. fxg6 fxg6 20. Nb3 Bc6 21. Qd3
+d5 22. exd5 exd5 23. Bd4 Nf4 24. Qd2 Bxd4 25. Nxd4 Rf6 26. b3 Rc5 27. Rde1 Qf7
+28. Rg5 Qd7 29. Nce2 Nh3 30. Re5 a5 31. h5 g5 32. Qe3 a4 33. Ng3 Qf7 34. Re7
+Qf8 35. Qd3 Rf7 36. Qg6+ Rg7 37. Qe6+ Rf7 38. Ngf5 Rxc2 39. Nh6+ Kh8 40. Nxf7+
+Qxf7 41. Qxf7 Rb2+ 42. Kxb2 a3+ 43. Ka1 b6 44. Qg7# 1-0
+

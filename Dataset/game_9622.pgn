@@ -1,0 +1,36 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Lynx_BOT"]
+[Black "weiawaga"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ifrlEdWq"]
+[WhiteTitle "BOT"]
+[WhiteElo "2569"]
+[BlackElo "2702"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense"]
+[TimeControl "900+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:31:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. c4 e6 2. g3 d5 3. e3 Nf6 4. d4 c5 5. Bg2 dxc4 6. Ne2 cxd4 7. exd4 Be7 8. O-O
+O-O 9. Nd2 Qc7 10. Qc2 Bd7 11. Nxc4 Bb5 12. b3 Nc6 13. Bf4 Qd8 14. Rac1 Nb4 15.
+Qd2 Bc6 16. Bxc6 Nxc6 17. Ne5 Ba3 18. Rc4 Ne7 19. b4 b5 20. Rc2 a5 21. bxa5
+Nfd5 22. Rb1 Rxa5 23. Qe1 Nxf4 24. Nxf4 Qa8 25. Qe2 Bd6 26. Rxb5 Rxb5 27. Qxb5
+Rb8 28. Qc4 Rb4 29. Qc3 Rb1+ 30. Rc1 Rxc1+ 31. Qxc1 Qxa2 32. Nfd3 h6 33. Qc4
+Qa1+ 34. Kg2 Qa8+ 35. Kh3 Qe4 36. f3 Qe3 37. f4 Nd5 38. Qc8+ Kh7 39. Qc2 Bxe5
+40. dxe5 g6 41. Qd1 Nc3 42. Qf1 Ne4 43. Nc1 Qc3 44. Ne2 Qd3 45. Qg2 Qe3 46. Qf1
+Nd2 47. Qd1 Nf3 48. Kg2 Qe4 49. Kf2 Nxh2 50. Nc3 Qc6 51. Qd3 Ng4+ 52. Ke1 Qg2
+53. Ne4 Kg7 54. Qe2 Qg1+ 55. Kd2 h5 56. Kd3 Nh6 57. Kc2 Qa7 58. Kb3 Nf5 59. Qd3
+Qb7+ 60. Kc2 Qb4 61. Kc1 Qe1+ 62. Kb2 Ne3 63. Kb3 Qg1 64. Ka3 Nd5 65. Nd6 Qc5+
+66. Kb2 Qf2+ 67. Kb3 Qb6+ 68. Nb5 Nc7 69. Ka4 Nxb5 70. Qxb5 Qa7+ 71. Kb4 Qe3
+72. f5 Qe1+ 73. Ka4 Qa1+ 74. Kb4 Qb1+ 75. Kc5 Qxb5+ 76. Kxb5 gxf5 77. Kc5 f4
+78. Kd4 fxg3 79. Ke3 h4 80. Kf3 Kh6 81. Kg2 Kg5 82. Kf3 Kh5 83. Ke2 Kg4 84. Kd2
+h3 85. Ke2 h2 86. Kd3 h1=Q 87. Ke2 Qd5 88. Ke1 Qxe5+ 89. Kf1 Qe4 90. Kg1 Qe2
+91. Kh1 Qf1# 0-1
+

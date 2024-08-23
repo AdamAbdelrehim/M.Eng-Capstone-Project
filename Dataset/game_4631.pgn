@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "jgeg"]
+[Black "bob_2004"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/mRxE9pAk"]
+[WhiteTitle "FM"]
+[BlackTitle "FM"]
+[WhiteElo "2648"]
+[BlackElo "2739"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:33:08"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Qa4+ c6 6. Qxc4 b5 7. Qc2 Bb7 8. Bg2
+a6 9. O-O Nbd7 10. Rd1 c5 11. dxc5 Bxc5 12. a4 Qb6 13. e3 Rc8 14. Qe2 O-O 15.
+axb5 axb5 16. Nc3 Bc6 17. Bd2 Ra8 18. Be1 b4 19. Rxa8 Rxa8 20. Nb1 h6 21. Nbd2
+Ra2 22. Nc4 Qa6 23. Nd4 Bxg2 24. Kxg2 Nd5 25. Qd3 Qa8 26. Kg1 Bf8 27. Nb5 Nc5
+28. Qb1 Nb3 29. e4 Nf6 30. Nc7 Qa4 31. e5 Nd5 32. Nxd5 exd5 33. Ne3 d4 34. Nf5
+Ra1 35. Qc2 Rxd1 36. Qxd1 Qa2 37. Nxd4 Nxd4 38. Qxd4 Qb1 39. Kf1 b3 40. Qc3 Qe4
+41. Qxb3 Qxe5 42. Qc3 Qe4 43. Bd2 Qh1+ 44. Ke2 Qxh2 45. b4 Qh5+ 46. Ke1 Qh1+
+47. Ke2 Qe4+ 48. Qe3 Qc4+ 49. Qd3 Qg4+ 50. Kf1 Bxb4 51. Qd8+ Kh7 52. Be3 Bc3
+53. Qd3+ f5 54. Qxc3 g5 55. Qc7+ Kg6 56. Qe5 Qh3+ 57. Ke2 f4 58. gxf4 Qg4+ 59.
+Kd2 gxf4 60. Qxf4 Qxf4 61. Bxf4 h5 62. Bg3 Kf5 63. Ke2 Kg4 64. Bc7 Kh3 65. Kf1
+h4 66. Ke2 Kg4 67. f3+ Kh3 68. Ke3 Kg2 69. f4 h3 70. f5 Kf1 71. Bf4 Kg2 72. f6
+Kh1 73. f7 Kg1 74. f8=Q Kh1 75. Qg7 1-0
+

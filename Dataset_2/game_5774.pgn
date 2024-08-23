@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.08.01"]
+[Round "-"]
+[White "ivanvalkovv"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rnb1kb1r/4pppp/pN3n2/1ppq4/8/2P5/PP1PBPPP/R1BQK1NR b KQkq -"]
+[Timezone "UTC"]
+[ECO "B22"]
+[ECOUrl "https://www.chess.com/openings/Alapin-Sicilian-Defense-Barmen-Defense"]
+[UTCDate "2022.08.01"]
+[UTCTime "01:27:13"]
+[WhiteElo "1998"]
+[BlackElo "1798"]
+[TimeControl "600"]
+[Termination "ivanvalkovv won by resignation"]
+[StartTime "01:27:13"]
+[EndDate "2022.08.01"]
+[EndTime "01:28:50"]
+[Link "https://www.chess.com/game/live/53056185193"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:09:58] } 2. c3 { [%clk 0:09:58] }
+2... d5 { [%clk 0:09:55.8] } 3. exd5 { [%clk 0:09:56.2] } 3... Qxd5
+{ [%clk 0:09:53.5] } 4. Na3 { [%clk 0:09:54.2] } 4... Nf6 { [%clk 0:09:39.1] }
+5. Nc4 { [%clk 0:09:52.3] } 5... a6 { [%clk 0:09:25.5] } 6. Be2
+{ [%clk 0:09:36] } 6... b5 { [%clk 0:09:22.2] } 7. Nb6 { [%clk 0:09:23.5] } 1-0
+

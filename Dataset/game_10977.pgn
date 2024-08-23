@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "YusufKeremIlgaz"]
+[Black "FrostyTheDog"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/MtNPOeVS"]
+[WhiteElo "2494"]
+[BlackElo "2506"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:57:34"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 Bd7 7. O-O cxd4 8. cxd4
+Nge7 9. Nc3 Nf5 10. Be3 Nxe3 11. fxe3 Be7 12. Kh1 O-O 13. Bd3 Qxb2 14. Nb5 Rac8
+15. Rb1 Qxa2 16. Nc3 Qa5 17. Rxb7 Rfd8 18. Ne2 Nb4 19. Bb1 g6 20. Nf4 Bf8 21.
+Ng5 Be8 22. Nfxe6 fxe6 23. Qf3 Bg7 24. Rxg7+ Kxg7 25. Qf8# 1-0
+

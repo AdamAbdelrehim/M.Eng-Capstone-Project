@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ChessOKRU"]
+[Black "L04d1ng"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/jxQf0yKu"]
+[WhiteTitle "NM"]
+[BlackTitle "GM"]
+[WhiteElo "2519"]
+[BlackElo "2717"]
+[ECO "A46"]
+[Opening "Torre Attack: Classical Defense, Nimzowitsch Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:27:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bh4 d5 5. Nbd2 c5 6. e3 Nc6 7. c3 g5 8. Bg3
+Nh5 9. Bb5 Nxg3 10. hxg3 Bd7 11. Bxc6 Bxc6 12. Ne5 Bd6 13. f4 Qb6 14. Rb1 Bxe5
+15. fxe5 O-O-O 16. O-O Rdf8 17. b4 cxd4 18. cxd4 Bb5 19. Qc2+ Kb8 20. Rfc1 f5
+21. exf6 Rxf6 22. Nf3 Qc6 23. Qxc6 Bxc6 24. b5 Be8 25. Ne5 Rhf8 26. Rb2 h5 27.
+a4 a5 28. b6 Bxa4 29. Ra2 Bb5 30. Rxa5 Rf1+ 31. Rxf1 Rxf1+ 32. Kh2 Rb1 33. Ra2
+Bc6 34. Rf2 Rxb6 35. Rf6 Ba4 36. Rh6 Rb3 37. Rxe6 Kc7 38. Nf7 b5 39. Re7+ Kb6
+40. Nxg5 b4 41. Ne6 Rxe3 42. Kg1 b3 43. Kf2 b2 44. Kxe3 b1=Q 45. Nc5 Qg1+ 46.
+Kd3 Bb5+ 47. Kc3 Qa1+ 0-1
+

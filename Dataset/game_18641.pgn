@@ -1,0 +1,30 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "ChessatronBot"]
+[Black "pawn_git"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/pQLfP1jA"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2495"]
+[BlackElo "2791"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Levitsky Attack"]
+[TimeControl "900+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:21:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. d4 d5 2. Bg5 c5 3. e3 cxd4 4. exd4 h6 5. Bf4 Nc6 6. Nc3 Bf5 7. Bd3 Bxd3 8.
+Qxd3 e6 9. O-O-O Nf6 10. Nf3 Bb4 11. a3 Bxc3 12. Qxc3 O-O 13. Qe3 b5 14. Kb1 b4
+15. axb4 Nxb4 16. c3 Nc6 17. Rhe1 Qb6 18. h3 Ne4 19. Nd2 Rfb8 20. Bxb8 Rxb8 21.
+b3 Nxd2+ 22. Rxd2 Qxb3+ 23. Ka1 Na5 24. Ra2 Qb6 25. Qe2 Nb3+ 26. Kb1 Nc1+ 27.
+Kxc1 Qb1+ 28. Kd2 Qxa2+ 29. Ke3 Rb2 30. Qd1 Rxf2 31. Re2 Qxe2+ 32. Qxe2 Rxe2+
+33. Kxe2 Kh7 34. g3 Kg6 35. Kd2 Kf5 36. Kd3 a5 37. Ke3 a4 38. Kd3 g5 39. Kc2
+Ke4 40. Kb1 f5 41. Kb2 f4 42. gxf4 gxf4 43. Kc2 f3 44. Kd2 a3 45. Kc2 f2 46.
+Kb3 f1=Q 47. Kxa3 Qb5 48. Ka2 Kd3 49. c4 dxc4 50. d5 Kc3 51. Ka3 Qb3# 0-1
+

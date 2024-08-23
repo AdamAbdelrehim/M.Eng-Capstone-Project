@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.13"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "sabrowi"]
+[Result "0-1"]
+[CurrentPosition "r1b2r1k/1p1p2p1/pq2p1QB/4P3/8/PNN5/1PP3PP/3n2K1 w - -"]
+[Timezone "UTC"]
+[ECO "B33"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Open...4.Nxd4-a6-5.Nc3-e6"]
+[UTCDate "2023.12.13"]
+[UTCTime "16:44:44"]
+[WhiteElo "1925"]
+[BlackElo "2023"]
+[TimeControl "600"]
+[Termination "sabrowi won by resignation"]
+[StartTime "16:44:44"]
+[EndDate "2023.12.13"]
+[EndTime "16:52:33"]
+[Link "https://www.chess.com/game/live/96224727679"]
+
+1. e4 { [%clk 0:09:56.8] } 1... c5 { [%clk 0:09:57] } 2. Nf3
+{ [%clk 0:09:54.4] } 2... Nc6 { [%clk 0:09:55.3] } 3. d4 { [%clk 0:09:54.3] }
+3... cxd4 { [%clk 0:09:53.4] } 4. Nxd4 { [%clk 0:09:50.8] } 4... a6
+{ [%clk 0:09:51.6] } 5. Nc3 { [%clk 0:09:49.9] } 5... e6 { [%clk 0:09:49.8] }
+6. Be3 { [%clk 0:09:46.1] } 6... Nf6 { [%clk 0:09:47.1] } 7. f3
+{ [%clk 0:09:28.8] } 7... Be7 { [%clk 0:09:45] } 8. Be2 { [%clk 0:09:26.3] }
+8... h6 { [%clk 0:09:02.8] } 9. O-O { [%clk 0:09:20.8] } 9... O-O
+{ [%clk 0:08:49.3] } 10. Qd2 { [%clk 0:09:17.8] } 10... Kh7
+{ [%clk 0:08:44.5] } 11. Rad1 { [%clk 0:09:09.4] } 11... Nh5 { [%clk 0:08:21] }
+12. f4 { [%clk 0:08:35.3] } 12... Nf6 { [%clk 0:08:06.3] } 13. f5
+{ [%clk 0:08:30.2] } 13... Bb4 { [%clk 0:07:59] } 14. Bd3 { [%clk 0:08:17] }
+14... Ne5 { [%clk 0:07:39.4] } 15. a3 { [%clk 0:08:05] } 15... Ba5
+{ [%clk 0:07:30.3] } 16. fxe6 { [%clk 0:07:52.1] } 16... fxe6
+{ [%clk 0:07:26.6] } 17. Nb3 { [%clk 0:07:33.2] } 17... Bc7
+{ [%clk 0:07:09.7] } 18. Rf4 { [%clk 0:07:24.9] } 18... Nxd3
+{ [%clk 0:06:57.1] } 19. Qxd3 { [%clk 0:07:23.9] } 19... Bxf4
+{ [%clk 0:06:53.1] } 20. e5+ { [%clk 0:07:21.7] } 20... Kh8
+{ [%clk 0:06:45.5] } 21. Bxf4 { [%clk 0:07:20.6] } 21... Ng4
+{ [%clk 0:06:28.4] } 22. Bc1 { [%clk 0:06:52.8] } 22... Nf2
+{ [%clk 0:06:19.9] } 23. Qg6 { [%clk 0:06:44.2] } 23... Nxd1
+{ [%clk 0:06:10.1] } 24. Bxh6 { [%clk 0:06:42.4] } 24... Qb6+
+{ [%clk 0:05:56.3] } 0-1
+

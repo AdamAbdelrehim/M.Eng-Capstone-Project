@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "cibona"]
+[Black "manneredmonkey"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Ed4ZOClU"]
+[BlackTitle "NM"]
+[WhiteElo "2536"]
+[BlackElo "2586"]
+[ECO "A35"]
+[Opening "English Opening: Symmetrical Variation, Four Knights Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:59:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. c4 Nf6 2. Nc3 c5 3. Nf3 Nc6 4. e3 e6 5. d4 cxd4 6. exd4 d5 7. a3 Be7 8. Bd3
+dxc4 9. Bxc4 O-O 10. O-O b6 11. Bg5 Bb7 12. Qd3 h6 13. Bf4 Rc8 14. Rad1 Bd6 15.
+Bc1 Ne7 16. Ba2 Nf5 17. Rfe1 Re8 18. Ne5 Bf8 19. Nxf7 Qxd4 20. Rxe6 Qxd3 21.
+Rxd3 Kxf7 22. g4 Nh4 0-1
+

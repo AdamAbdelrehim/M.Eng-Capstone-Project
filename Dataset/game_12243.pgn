@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "toomanymanoevres"]
+[Black "L04d1ng"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/4P58lfh2"]
+[BlackTitle "GM"]
+[WhiteElo "2917"]
+[BlackElo "2732"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:58:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bf4 Bb4 5. e3 O-O 6. Bd3 c5 7. Ne2 cxd4 8. exd4
+dxc4 9. Bxc4 a6 10. O-O b5 11. Bd3 Bb7 12. a3 Be7 0-1
+

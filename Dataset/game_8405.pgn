@@ -1,0 +1,34 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "simbelmyne-bot"]
+[Black "expositor"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/fv9MaT6T"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2389"]
+[BlackElo "2578"]
+[ECO "E10"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+[TimeControl "1200+8"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:34:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. Nf3 e6 2. d4 Nf6 3. c4 d5 4. e3 Be7 5. Nc3 O-O 6. Bd3 dxc4 7. Bxc4 a6 8. O-O
+b5 9. Bd3 Bb7 10. e4 c5 11. e5 Nd5 12. Bb1 Nxc3 13. bxc3 Nd7 14. a4 cxd4 15.
+cxd4 b4 16. a5 Rc8 17. Be3 Bd5 18. Bd3 Rc6 19. Qe2 b3 20. Bxa6 Rc2 21. Qd1 Ra2
+22. Rxa2 bxa2 23. Qd2 Qc7 24. Bd3 Rb8 25. Ra1 Bb4 26. Qd1 Bc3 27. Rxa2 Bxa2 28.
+a6 h6 29. Bf1 Rb1 30. Qc2 Ra1 31. a7 Bd5 32. Bd2 Ba5 33. Qb2 Rd1 34. Qb3 Rxd2
+35. Nxd2 Qxa7 36. Qa4 Bb6 37. Bb5 Nf8 38. Qxa7 Bxa7 39. Bc4 Bxd4 40. Bxd5 exd5
+41. Kf1 Bxe5 42. Nf3 Ng6 43. g3 Kf8 44. Ke2 Ke7 45. Ne1 Ke6 46. f4 Bf6 47. Kd3
+Ne7 48. Ke3 Nc6 49. Nd3 Be7 50. Kd2 d4 51. Nf2 Nb4 52. Ng4 Kd5 53. Nf2 f5 54.
+Ke2 d3+ 55. Kd2 Bc5 56. Nxd3 Nxd3 57. Kxd3 g5 58. fxg5 hxg5 59. Ke2 g4 60. Kf1
+f4 61. gxf4 Ke4 62. f5 Kxf5 63. Ke1 Bg1 64. Ke2 Bxh2 65. Ke3 Bg1+ 66. Kd3 g3
+67. Kc4 g2 68. Kb3 Bf2 69. Kc4 g1=Q 70. Kb3 Qb1+ 71. Kc4 Ke4 72. Kc3 Be1+ 73.
+Kc4 Qb4# 0-1
+

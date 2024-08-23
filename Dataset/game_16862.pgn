@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "AKS-Mantissa"]
+[Black "simbelmyne-bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/y69q6fMF"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2735"]
+[BlackElo "2559"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:07:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bd6 4. O-O Nf6 5. d4 Qe7 6. Re1 O-O 7. c3 a6 8. Bd3
+Re8 9. Nbd2 b5 10. Nf1 Qd8 11. Bg5 h6 12. Bh4 exd4 13. cxd4 Be7 14. Bxf6 Bxf6
+15. e5 Be7 16. d5 Na5 17. Qe2 c6 18. Qe4 g6 19. Qg4 h5 20. Qg3 h4 21. Qg4 cxd5
+22. Bxg6 fxg6 23. Qxg6+ Kh8 24. Ne3 d6 25. Nxd5 Rf8 26. e6 Rxf3 27. Qh6+ Kg8
+28. Re4 Bxe6 29. Rxe6 Rf6 30. Nxf6+ Bxf6 31. Rxf6 Qxf6 32. Qxf6 Rf8 33. Qg6+
+Kh8 34. Re1 Rc8 35. Qh6+ Kg8 36. Re7 Rc1+ 37. Qxc1 Kf8 38. Qg5 b4 39. Qg7# 1-0
+

@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.22"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "BALERDI"]
+[Result "0-1"]
+[CurrentPosition "rn3r2/pbpp1ppk/1p2p2p/4P3/3P3q/2P5/P1P1QPPP/R1B2RK1 w - -"]
+[Timezone "UTC"]
+[ECO "C00"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Normal-Variation-2...b6-3.Nf3-Bb7"]
+[UTCDate "2021.08.22"]
+[UTCTime "18:37:41"]
+[WhiteElo "1482"]
+[BlackElo "1509"]
+[TimeControl "600"]
+[Termination "BALERDI won by resignation"]
+[StartTime "18:37:41"]
+[EndDate "2021.08.22"]
+[EndTime "18:39:25"]
+[Link "https://www.chess.com/game/live/23396449201"]
+
+1. e4 { [%clk 0:10:00] } 1... e6 { [%clk 0:09:58.7] } 2. d4
+{ [%clk 0:09:58.5] } 2... b6 { [%clk 0:09:58] } 3. Nf3 { [%clk 0:09:53.5] }
+3... Bb7 { [%clk 0:09:57.1] } 4. Nc3 { [%clk 0:09:51.7] } 4... Bb4
+{ [%clk 0:09:55.7] } 5. Bd3 { [%clk 0:09:46.4] } 5... Nf6 { [%clk 0:09:49] } 6.
+Qe2 { [%clk 0:09:37.9] } 6... Bxc3+ { [%clk 0:09:45.7] } 7. bxc3
+{ [%clk 0:09:37.8] } 7... h6 { [%clk 0:09:44.1] } 8. O-O { [%clk 0:09:35.5] }
+8... O-O { [%clk 0:09:41.7] } 9. e5 { [%clk 0:09:29.2] } 9... Nh7
+{ [%clk 0:09:30.5] } 10. Nh4 { [%clk 0:09:13.1] } 10... Qxh4
+{ [%clk 0:09:22.6] } 11. Bxh7+ { [%clk 0:09:10.2] } 11... Kxh7
+{ [%clk 0:09:15.8] } 0-1
+

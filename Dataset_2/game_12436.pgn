@@ -1,0 +1,42 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.07.18"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Grand-Rio"]
+[Result "0-1"]
+[CurrentPosition "2kr3r/1b1p1pb1/pp1Pp3/2p1N3/2P3n1/1P2R3/P4PqP/3QR1K1 w - -"]
+[Timezone "UTC"]
+[ECO "B40"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-French-Variation"]
+[UTCDate "2024.07.18"]
+[UTCTime "01:58:30"]
+[WhiteElo "1606"]
+[BlackElo "1614"]
+[TimeControl "60"]
+[Termination "Grand-Rio won by checkmate"]
+[StartTime "01:58:30"]
+[EndDate "2024.07.18"]
+[EndTime "01:59:26"]
+[Link "https://www.chess.com/game/live/115006715737"]
+
+1. e4 { [%clk 0:01:00] } 1... e6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.4] }
+2... c5 { [%clk 0:00:59.9] } 3. d4 { [%clk 0:00:58.4] } 3... a6
+{ [%clk 0:00:59.6] } 4. d5 { [%clk 0:00:54.7] } 4... Qc7 { [%clk 0:00:57.9] }
+5. c4 { [%clk 0:00:53.9] } 5... h6 { [%clk 0:00:56.7] } 6. Nc3
+{ [%clk 0:00:52.9] } 6... b6 { [%clk 0:00:56.3] } 7. b3 { [%clk 0:00:52] } 7...
+Bb7 { [%clk 0:00:55.6] } 8. Be2 { [%clk 0:00:49.9] } 8... Qc8
+{ [%clk 0:00:55.5] } 9. O-O { [%clk 0:00:49] } 9... g5 { [%clk 0:00:55.4] } 10.
+Be3 { [%clk 0:00:48] } 10... Bg7 { [%clk 0:00:55.3] } 11. Bxg5
+{ [%clk 0:00:47.1] } 11... hxg5 { [%clk 0:00:54.2] } 12. Nxg5
+{ [%clk 0:00:47] } 12... Bxc3 { [%clk 0:00:53] } 13. Rc1 { [%clk 0:00:44.8] }
+13... Bg7 { [%clk 0:00:51.4] } 14. d6 { [%clk 0:00:43.7] } 14... Nc6
+{ [%clk 0:00:49.6] } 15. e5 { [%clk 0:00:43.6] } 15... Nxe5
+{ [%clk 0:00:48.4] } 16. Bf3 { [%clk 0:00:42.3] } 16... Nxf3+
+{ [%clk 0:00:47.1] } 17. Nxf3 { [%clk 0:00:42.2] } 17... Qc6
+{ [%clk 0:00:45.8] } 18. Re1 { [%clk 0:00:39.8] } 18... O-O-O
+{ [%clk 0:00:44.7] } 19. Rc3 { [%clk 0:00:38.8] } 19... Nf6
+{ [%clk 0:00:44.1] } 20. Rce3 { [%clk 0:00:36.5] } 20... Ng4
+{ [%clk 0:00:42.1] } 21. Ne5 { [%clk 0:00:35.8] } 21... Qxg2#
+{ [%clk 0:00:39] } 0-1
+

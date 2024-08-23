@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Masterasasin"]
+[Black "CIBA-Dr_Strange"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/qrCszyKe"]
+[WhiteElo "2538"]
+[BlackElo "2598"]
+[ECO "A05"]
+[Opening "Zukertort Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:56:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. O-O c5 5. c4 g6 6. Nc3 Bg7 7. d4 cxd4 8. Qxd4
+d6 9. Rd1 Nbd7 10. Be3 Rc8 11. Rac1 a6 12. b3 O-O 13. Qh4 Re8 14. Bh6 Bxh6 15.
+Qxh6 b5 16. cxb5 axb5 17. Ng5 Bxg2 18. Kxg2 Qb6 19. Nd5 Qb7 20. e4 Nf8 21. Rxc8
+Rxc8 22. Nxf6+ exf6 23. Nf3 Qxe4 24. Rxd6 Rc3 25. Rd8 Qxf3+ 26. Kg1 Rc1+ 27.
+Qxc1 Kg7 28. Qd1 Qc3 29. Rd3 Qb2 30. Rd2 Qc3 31. h4 Ne6 32. Rd7 Nc5 33. Rc7 Qe5
+34. Rc6 Ne4 35. Rc2 b4 36. Re2 Qf5 37. Qd3 Nc3 38. Qxf5 Nxe2+ 39. Kf1 Nxg3+ 40.
+fxg3 gxf5 41. Ke2 Kg6 42. Kd3 f4 43. gxf4 Kh5 44. Kc4 Kxh4 45. Kxb4 Kg4 46. a4
+h5 47. a5 h4 48. a6 h3 49. a7 h2 50. a8=Q Kxf4 51. Qh1 Kg3 52. Kc3 f5 53. Kd2
+f4 54. Ke1 f3 55. Kf1 f5 56. b4 f4 57. b5 f2 58. b6 f3 59. b7 Kf4 60. Qxh2+ Ke3
+61. Qxf2+ Kd3 62. b8=Q Kc4 63. Qe5 Kd3 64. Qxf3+ Kc4 65. Qee4+ Kb5 66. Qff5+
+Kb6 67. Qee6+ Ka7 68. Qff7+ Kb8 69. Qee8# 1-0
+

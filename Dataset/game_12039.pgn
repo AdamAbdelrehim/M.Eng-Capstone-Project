@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "hajeko"]
+[Black "positionaloldman"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/WFmbVwLr"]
+[WhiteTitle "CM"]
+[WhiteElo "2543"]
+[BlackElo "2551"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:32:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Qe2 Nxe4 6. Qxe4 Qd5 7. Qh4 Qe6+
+8. Be2 Qg6 9. Qg3 Qxc2 10. O-O Bf5 11. Nd4 Qe4 12. Qc7 Qxd4 13. Qxb7 Qb6 14.
+Qxa8 e6 15. d3 Bd6 16. Be3 c5 17. b4 O-O 18. bxc5 Bxc5 19. Rab1 Bxe3 20. Rxb6
+Bxb6 21. Qb7 Rd8 22. Rc1 e5 23. a4 g6 24. Qe7 Na6 25. Qxe5 Nc5 26. Rxc5 1-0
+

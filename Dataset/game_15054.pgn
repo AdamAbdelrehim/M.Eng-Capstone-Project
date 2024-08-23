@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Partake"]
+[Black "TheBerzerKing"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/QqGU20WM"]
+[WhiteElo "2561"]
+[BlackElo "2547"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:40:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. e6 Qd6 8. exf7+
+Kxf7 9. f4 Nf6 10. Nf3 Nxg4 11. Ne5+ Nxe5 12. fxe5 Qe6 13. Bh3 Bf5 14. Bxf5
+Qxf5 15. Rf1 Qxf1+ 16. Kxf1 e6 17. Qf3+ Ke8 18. Qg4 Ke7 19. Nc3 Nd7 20. Ne2 g5
+21. hxg5 h5 22. Qh4 Bg7 23. g6+ Ke8 24. Nf4 Nf8 25. Nxh5 1-0
+

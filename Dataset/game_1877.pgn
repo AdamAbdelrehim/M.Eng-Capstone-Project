@@ -1,0 +1,29 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "magnusglad_bot"]
+[Black "ChessatronBot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/UGFVDQNN"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2796"]
+[BlackElo "2526"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Modern Variations"]
+[TimeControl "900+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:12:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 e6 6. g4 Nc6 7. Be3 Nge7 8. Nb3
+b5 9. h4 Bb7 10. h5 Ne5 11. a3 Rg8 12. f4 Nc4 13. Bxc4 bxc4 14. Nd2 d5 15. Qe2
+Qc7 16. O-O-O Rc8 17. Rhf1 dxe4 18. f5 Nd5 19. Ndxe4 Nxc3 20. Nxc3 e5 21. g5 f6
+22. Qg4 Ba8 23. gxf6 Qf7 24. Rg1 Bb7 25. Kb1 Qxf6 26. Bg5 Qc6 27. Rge1 Kf7 28.
+Rxe5 Bd6 29. Re6 Qg2 30. Qh4 Rgf8 31. h6 Kg8 32. Rexd6 Bf3 33. Rd7 Rf7 34. Rxf7
+Kxf7 35. Rd7+ Ke8 36. Re7+ Kf8 37. hxg7+ Kg8 38. Bh6 Bg4 39. Qf6 Qf1+ 40. Ka2
+Qxf5 41. Qxf5 Bxf5 42. Nd5 Rc6 43. Re8+ Kf7 44. g8=Q# 1-0
+

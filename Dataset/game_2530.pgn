@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Tempstream"]
+[Black "abcd80"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/SbyMckXO"]
+[WhiteElo "2567"]
+[BlackElo "2580"]
+[ECO "B31"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:40:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-6"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. Re1 e5 6. c3 Nge7 7. d4 exd4 8.
+cxd4 Nxd4 9. Nxd4 Bxd4 10. Nc3 O-O 11. e5 d6 12. exd6 Qxd6 13. Bg5 Nd5 14. Ne4
+Qb6 15. Bc4 Be6 16. Qf3 Rae8 17. Rad1 Qxb2 18. Rb1 Qc2 19. Bb3 Bg4 20. Qxg4 f5
+21. Bxc2 fxg4 22. Bb3 Rf5 23. Nf6+ Kf7 24. Bxd5+ Rxd5 25. Rxb7+ Kf8 26. Rxe8#
+1-0
+

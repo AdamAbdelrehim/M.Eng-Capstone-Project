@@ -1,0 +1,40 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.27"]
+[Round "-"]
+[White "blunt258"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "3r1Bk1/1Q1b1p1p/6p1/4p3/2B1P1n1/1PP5/P2K1PPP/R6R b - -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Mieses-Opening-Reversed-Rat-Variation"]
+[UTCDate "2020.12.27"]
+[UTCTime "18:44:24"]
+[WhiteElo "905"]
+[BlackElo "797"]
+[TimeControl "300"]
+[Termination "blunt258 won by resignation"]
+[StartTime "18:44:24"]
+[EndDate "2020.12.27"]
+[EndTime "18:49:22"]
+[Link "https://www.chess.com/game/live/6073597238"]
+
+1. d3 { [%clk 0:05:00] } 1... e5 { [%clk 0:04:59.9] } 2. c3
+{ [%clk 0:04:59.1] } 2... d5 { [%clk 0:04:56.2] } 3. Qb3 { [%clk 0:04:58.1] }
+3... Nf6 { [%clk 0:04:51.9] } 4. Nf3 { [%clk 0:04:56.5] } 4... Nc6
+{ [%clk 0:04:48.7] } 5. e4 { [%clk 0:04:55.7] } 5... dxe4 { [%clk 0:04:31.4] }
+6. Ng5 { [%clk 0:04:51.9] } 6... Be6 { [%clk 0:04:03.4] } 7. Qxb7
+{ [%clk 0:04:49.7] } 7... Rb8 { [%clk 0:03:53.7] } 8. Qxc6+
+{ [%clk 0:04:46.4] } 8... Bd7 { [%clk 0:03:41.7] } 9. Qc4 { [%clk 0:04:44.9] }
+9... Qe7 { [%clk 0:03:35.5] } 10. Qxc7 { [%clk 0:04:40] } 10... Rc8
+{ [%clk 0:03:19.6] } 11. Qxa7 { [%clk 0:04:37.8] } 11... Ng4
+{ [%clk 0:03:04.9] } 12. dxe4 { [%clk 0:04:34.8] } 12... g6
+{ [%clk 0:02:45.3] } 13. Qb7 { [%clk 0:04:33] } 13... Bg7 { [%clk 0:02:33.6] }
+14. Bb5 { [%clk 0:04:30.9] } 14... Rd8 { [%clk 0:02:20.8] } 15. Bc4
+{ [%clk 0:04:13.8] } 15... O-O { [%clk 0:02:16.5] } 16. b3 { [%clk 0:04:06.1] }
+16... Bh6 { [%clk 0:01:36.3] } 17. Ba3 { [%clk 0:03:58.6] } 17... Qxg5
+{ [%clk 0:01:28.7] } 18. Bxf8 { [%clk 0:03:56.9] } 18... Qd2+
+{ [%clk 0:01:25] } 19. Nxd2 { [%clk 0:03:56.1] } 19... Bxd2+
+{ [%clk 0:01:20.9] } 20. Kxd2 { [%clk 0:03:55.1] } 1-0
+

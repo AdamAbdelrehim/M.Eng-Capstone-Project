@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.01"]
+[Round "-"]
+[White "lagoonized"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1bqkb1r/pp3Qp1/2nppn1p/2p3N1/2B1PP2/8/PPPP2PP/RNB1K2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "B21"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-McDonnell-Attack-2...d6-3.Nf3-Nc6"]
+[UTCDate "2023.06.01"]
+[UTCTime "04:12:55"]
+[WhiteElo "1797"]
+[BlackElo "1733"]
+[TimeControl "60"]
+[Termination "lagoonized won by checkmate"]
+[StartTime "04:12:55"]
+[EndDate "2023.06.01"]
+[EndTime "04:13:14"]
+[Link "https://www.chess.com/game/live/79331563121"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. f4 { [%clk 0:00:58.8] }
+2... d6 { [%clk 0:00:59.9] } 3. Nf3 { [%clk 0:00:57.8] } 3... Nc6
+{ [%clk 0:00:59.8] } 4. Ng5 { [%clk 0:00:57.2] } 4... e6 { [%clk 0:00:59.7] }
+5. Bc4 { [%clk 0:00:54.5] } 5... h6 { [%clk 0:00:57.7] } 6. Qh5
+{ [%clk 0:00:53.1] } 6... Nf6 { [%clk 0:00:53.8] } 7. Qxf7#
+{ [%clk 0:00:51.1] } 1-0
+

@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.06.14"]
+[Round "-"]
+[White "felixmacias"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "rnbqkb1r/ppp3p1/5n1p/3pppB1/8/3P1PP1/PPP1P1BP/RN1QK1NR w KQkq -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Kings-Fianchetto-Opening-1...d5-2.Bg2-e5-3.d3"]
+[UTCDate "2021.06.14"]
+[UTCTime "22:59:26"]
+[WhiteElo "1370"]
+[BlackElo "1423"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won - game abandoned"]
+[StartTime "22:59:26"]
+[EndDate "2021.06.14"]
+[EndTime "23:01:08"]
+[Link "https://www.chess.com/game/live/17450558389"]
+
+1. g3 { [%clk 0:10:00] } 1... d5 { [%clk 0:09:55.9] } 2. Bg2
+{ [%clk 0:09:57.1] } 2... e5 { [%clk 0:09:51.7] } 3. d3 { [%clk 0:09:54.9] }
+3... f5 { [%clk 0:09:48.6] } 4. f3 { [%clk 0:09:52.6] } 4... Nf6
+{ [%clk 0:09:45.8] } 5. Bg5 { [%clk 0:09:44.2] } 5... h6 { [%clk 0:09:16] } 0-1
+

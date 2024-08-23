@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "DTimofey"]
+[Black "iakov98"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/cQyck38j"]
+[BlackTitle "IM"]
+[WhiteElo "2511"]
+[BlackElo "2676"]
+[ECO "D34"]
+[Opening "Tarrasch Defense: Classical Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:31:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 c5 5. cxd5 exd5 6. Bg2 Nc6 7. O-O Be7 8. Nc3
+O-O 9. dxc5 Bxc5 10. a3 Ne4 11. Na4 Be7 12. Be3 Bf6 13. Rc1 Bg4 14. h3 Bh5 15.
+g4 Bg6 16. Nd4 Rc8 17. Nxc6 bxc6 18. Bxa7 Re8 19. Bb6 Qe7 20. e3 h5 21. Bd4
+hxg4 22. hxg4 Bh4 23. Nc5 Nd6 24. Nd3 Nb5 25. Bc5 Qg5 26. f4 Qd8 27. f5 Bh7 28.
+Nf4 Bf6 29. Qd2 Nd6 30. Nh5 Be5 31. Qe2 Qh4 32. Nf4 Nc4 33. Rxc4 dxc4 34. Qf3
+Bxb2 35. a4 c3 36. e4 c2 37. Be3 Qf6 38. Nh5 Qc3 39. f6 c1=Q 40. Bxc1 Qxf3 41.
+Bxf3 Bxc1 42. Rxc1 Bxe4 43. Bd1 Bg6 44. Nxg7 Re1+ 45. Kf2 Rh1 46. Nf5 Bxf5 47.
+gxf5 Rd8 48. Ke2 Kf8 49. a5 Rh2+ 50. Ke3 Ra2 51. Rxc6 Rxa5 52. Bc2 Raa8 53. Rc4
+Rac8 54. Rxc8 Rxc8 55. Be4 Rd8 56. Kf4 Rd1 57. Ke5 Ra1 58. Bd3 Ra5+ 59. Kd6 Ra3
+60. Be4 Re3 61. Bb1 Re1 62. Bc2 Re2 63. Bb1 Re3 64. Bc2 Re1 65. Kd7 Re2 66. Bb1
+Rd2+ 67. Kc6 Kg8 68. Be4 Rd4 69. Bd5 Rf4 70. Kd6 Rxf5 0-1
+

@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Black_Lizardfish"]
+[Black "suaifinn"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/dtUMQx4V"]
+[WhiteElo "2518"]
+[BlackElo "2394"]
+[ECO "E94"]
+[Opening "King's Indian Defense: Orthodox Variation, Positional Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:13:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 Bg7 4. d4 O-O 5. Nf3 d6 6. Be2 Nbd7 7. O-O e5 8. Be3
+exd4 9. Nxd4 Re8 10. Qc2 Nc5 11. f3 a5 12. Rad1 Nfd7 13. Ndb5 Nb6 14. Bxc5 1-0
+

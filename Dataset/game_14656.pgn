@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "pukitis"]
+[Black "AlInGaN"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/wJCY30Tj"]
+[WhiteElo "2556"]
+[BlackElo "2520"]
+[ECO "E10"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:47:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 e6 2. Nf3 Nf6 3. c4 d5 4. e3 b6 5. b3 Bd6 6. Bd3 Bb7 7. O-O O-O 8. Bb2
+Nbd7 9. Nbd2 Qe7 10. Ne5 c5 11. f4 Rac8 12. Ndf3 cxd4 13. exd4 Ba3 14. Qc1 Bxb2
+15. Qxb2 Rfd8 16. Rae1 dxc4 17. bxc4 h6 18. Kh1 Nf8 19. f5 exf5 20. Nc6 Qxe1
+21. Rxe1 Bxc6 22. d5 Bd7 23. Ne5 g6 24. Nxg6 Ng4 25. Ne7+ 1-0
+

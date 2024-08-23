@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "PurpleHunter"]
+[Black "Hoon_Bot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/UlXkldUU"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2597"]
+[BlackElo "2886"]
+[ECO "E04"]
+[Opening "Catalan Opening: Open Defense, Modern Sharp Variation"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:14:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. d4 Nf6 2. c4 d5 3. Nf3 e6 4. g3 Nc6 5. Bg2 dxc4 6. Qa4 Bb4+ 7. Bd2 Nd5 8.
+Bxb4 Nxb4 9. O-O Rb8 10. Nc3 a6 11. Ne5 O-O 12. Bxc6 Nxc6 13. Nxc6 bxc6 14.
+Qxc4 Rxb2 15. Rab1 Rd2 16. Rfd1 Rxd1+ 17. Rxd1 Qd6 18. f4 a5 19. Ne4 Qd5 20.
+Qc2 Bd7 21. Nc5 Rb8 22. Qd2 Rb5 23. Na6 Qd6 24. a4 Rb7 25. Nc5 Rb4 26. h3 f6
+27. Qe3 Kf7 28. g4 Be8 29. Kf2 h6 30. Kg2 Ke7 31. h4 Bf7 32. Ne4 Qd5 33. Kf2 h5
+34. g5 Bg6 35. Nc3 Qf5 36. gxf6+ gxf6 37. Rg1 c5 38. Nb5 Rxa4 39. Rc1 Qg4 40.
+Rxc5 Ra1 41. Rxc7+ Kf8 42. Rc1 Qxh4+ 43. Kg1 Rxc1+ 44. Qxc1 Qg3+ 45. Kf1 Be4
+46. Qa3+ Qxa3 47. Nxa3 Kg7 48. Kf2 h4 49. Nb5 a4 50. e3 Kg6 51. f5+ Bxf5 52.
+Kf3 Kg5 53. e4 Bg4+ 54. Ke3 h3 55. Kf2 Kf4 56. d5 exd5 57. exd5 Bf3 58. Nc7 h2
+59. Ne6+ Ke5 60. Nc5 h1=Q 61. Nd3+ Kd4 62. Nf4 Ke4 63. Kg3 Qg1+ 64. Ng2 Qxg2+
+65. Kh4 Qh2# 0-1
+

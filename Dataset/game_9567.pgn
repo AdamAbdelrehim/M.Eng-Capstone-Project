@@ -1,0 +1,44 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "PetersBot"]
+[Black "CruelKen"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/uN4uCjed"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2978"]
+[BlackElo "3004"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, Rio Gambit Accepted"]
+[TimeControl "360+3"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:24:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "+0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Nxe5 7. Rxe5+ Be7
+8. Bf1 O-O 9. d4 Bf6 10. Re2 b6 11. Re1 Bb7 12. Bf4 Nf5 13. c3 Re8 14. Nd2 Rxe1
+15. Qxe1 g5 16. Bg3 Nxg3 17. hxg3 c5 18. dxc5 bxc5 19. Rd1 Rb8 20. f4 Qe7 21.
+Qxe7 Bxe7 22. Nf3 g4 23. Rxd7 gxf3 24. Rxe7 fxg2 25. Bxg2 Bxg2 26. Kxg2 Rxb2+
+27. Kf3 Rxa2 28. Rc7 a5 29. Rxc5 a4 30. Ke4 Rg2 31. Rg5+ Kf8 32. c4 a3 33. g4
+Re2+ 34. Kd4 Rd2+ 35. Ke4 Re2+ 36. Kd4 Rd2+ 37. Ke4 Rc2 38. Ra5 Rxc4+ 39. Kf5
+Kg7 40. Rxa3 Rc1 41. Ra4 Rc5+ 42. Ke4 Rc1 43. g5 h6 44. gxh6+ Kxh6 45. f5 Kg5
+46. f6 Kxf6 47. Ra2 Rc4+ 48. Kd3 Rf4 49. Ra1 Rf3+ 50. Kc2 Re3 51. Rb1 Kg5 52.
+Kd2 Re5 53. Rg1+ Kh5 54. Rf1 f5 55. Kc3 Kg4 56. Kd4 Re4+ 57. Kd3 Re5 58. Kd4
+Re4+ 59. Kd3 Kg5 60. Ra1 Kf4 61. Rf1+ Kg5 62. Ra1 Rg4 63. Rb1 Rg3+ 64. Kd2 Rg2+
+65. Ke3 Rg3+ 66. Kd2 f4 67. Rh1 Rg2+ 68. Ke1 Kg4 69. Rh6 Kg3 70. Kf1 Rf2+ 71.
+Kg1 Rg2+ 72. Kf1 Rf2+ 73. Kg1 Re2 74. Rg6+ Kf3 75. Rg5 Re1+ 76. Kh2 Re2+ 77.
+Kg1 Re1+ 78. Kh2 Ra1 79. Rg2 Rb1 80. Ra2 Rb6 81. Ra1 Rb2+ 82. Kh3 Rb3 83. Rc1
+Ke2+ 84. Kg2 f3+ 85. Kg1 Rc3 86. Ra1 Rc2 87. Rb1 Ke3 88. Ra1 Rg2+ 89. Kf1 Rf2+
+90. Ke1 Rc2 91. Rb1 Rc3 92. Ra1 Rb3 93. Rc1 Ra3 94. Rb1 Ra2 95. Rc1 Kf4 96. Rc5
+Kg3 97. Rg5+ Kh4 98. Rb5 Kg3 99. Rg5+ Kh4 100. Rb5 Re2+ 101. Kf1 Kg4 102. Rb1
+Kg3 103. Rb5 Rf2+ 104. Ke1 Rc2 105. Rg5+ Kf4 106. Ra5 Re2+ 107. Kf1 Rc2 108.
+Rb5 Rc1+ 109. Kf2 Rc2+ 110. Ke1 Kg3 111. Rg5+ Kf4 112. Ra5 Re2+ 113. Kf1 Rg2
+114. Ra1 Kg3 115. Ra5 Rf2+ 116. Ke1 Re2+ 117. Kf1 Rf2+ 118. Ke1 Re2+ 119. Kf1
+Rb2 120. Rg5+ Kh4 121. Ra5 Kg4 122. Rc5 Rb1+ 123. Kf2 Rb2+ 124. Ke1 Kg3 125.
+Rg5+ Kf4 126. Ra5 Kg3 127. Rg5+ Kh4 128. Ra5 Re2+ 129. Kf1 Rc2 130. Rb5 Kg4
+131. Ra5 Kg3 132. Rg5+ Kf4 133. Ra5 Rc4 134. Rb5 Rc1+ 1/2-1/2
+

@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Ronaldinho123"]
+[Black "ekfj4cxjx8vkco0acjx2"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/R24ANHvL"]
+[WhiteElo "2612"]
+[BlackElo "2774"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:58:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. Bg5 g6 3. c3 Bg7 4. Nd2 h6 5. Bh4 g5 6. Bg3 Nh5 7. e4 Nxg3 8. hxg3
+e6 9. f4 d6 10. e5 c5 11. Ngf3 cxd4 12. cxd4 Nc6 13. Bb5 Bd7 14. Rc1 Nxe5 15.
+Bxd7+ Nxd7 16. fxg5 hxg5 17. Rxh8+ Bxh8 18. Ne4 g4 19. Nh4 Qa5+ 20. Kf1 Qb5+
+21. Kg1 Qd5 22. Qxg4 Bxd4+ 23. Kh2 Ke7 24. Rc7 Rh8 25. Nc3 Qe5 26. Rxb7 Qe3 27.
+Ne2 Be5 28. Qa4 Rd8 29. Nf4 Bxf4 30. Qxf4 Qxf4 31. gxf4 a5 32. b3 d5 33. Nf3
+Kf6 34. Kg3 Nc5 35. Rc7 Ne4+ 36. Kh2 d4 37. Ne5 Kf5 38. Nd3 Nf6 39. Rc1 Ke4 40.
+Rd1 Ke3 41. Ne5 Ne4 42. Nc4+ Kf2 43. Kh3 Nc3 44. Rd2+ Ne2 45. Kg4 Rh8 46. Kg5
+Rg8+ 47. Kf6 e5 48. Nxe5 Rxg2 49. Nd3+ Ke3 50. Rb2 Rf2 51. Rb1 Kxd3 52. Rd1+
+Ke3 53. Rh1 d3 54. Ke5 Rf3 55. Rh3 Rxh3 56. f5 Rf3 57. f6 Rf4 58. Kd5 Re4 59.
+Kc5 Nd4 60. b4 d2 61. b5 d1=Q 62. b6 Qc2+ 63. Kd6 Qd3 64. Kc7 Re6 65. Kb7 Nc6
+66. Kc7 Qb5 67. b7 Qc5 68. b8=Q Qd6+ 69. Kb7 Qxb8+ 70. Ka6 Qd6 71. Kb5 Qc5+ 72.
+Ka4 Qb4# 0-1
+

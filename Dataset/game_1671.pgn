@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Rojakchess"]
+[Black "PinePiper"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/vzu8pyIq"]
+[BlackTitle "GM"]
+[WhiteElo "2618"]
+[BlackElo "2694"]
+[ECO "E15"]
+[Opening "Queen's Indian Defense: Fianchetto Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:33:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb4+ 5. Bd2 Bxd2+ 6. Qxd2 Ba6 7. b3 c6 8.
+Bg2 d5 9. Qc2 O-O 10. O-O Nbd7 11. Nbd2 Rc8 12. e4 c5 13. exd5 exd5 14. dxc5
+Nxc5 15. Rad1 Qc7 16. Rfe1 dxc4 17. Nxc4 Ncd7 18. Qb2 Bxc4 19. Rc1 b5 20. Nd2
+Nc5 21. bxc4 Nd3 22. Qxb5 Rb8 23. Qa6 Qc5 24. Rf1 Nxc1 25. Rxc1 Rb2 0-1
+

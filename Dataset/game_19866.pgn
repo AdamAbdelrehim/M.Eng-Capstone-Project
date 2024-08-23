@@ -1,0 +1,32 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "pawn_git"]
+[Black "caissa-x"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/PGKqtcTw"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2797"]
+[BlackElo "3030"]
+[ECO "C69"]
+[Opening "Ruy Lopez: Exchange Variation, Gligoric Variation"]
+[TimeControl "600+3"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:23:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 exd4 7. Nxd4 c5 8.
+Nb3 Qxd1 9. Rxd1 Be6 10. Bf4 c4 11. Nd4 O-O-O 12. Nc3 Bf7 13. f3 Ne7 14. Be3 g6
+15. Kf2 Bg7 16. f4 f5 17. e5 Nd5 18. Nxd5 Rxd5 19. Nf3 Rxd1 20. Rxd1 Rd8 21.
+Ra1 Bf8 22. h3 c3 23. bxc3 Ba3 24. Rb1 h5 25. Nd2 a5 26. Nb3 b6 27. Nd4 Bc4 28.
+Nb5 Be7 29. a4 Ba2 30. Rb2 Bc4 31. Nxc7 Kxc7 32. Bxb6+ Kc8 33. Bxd8 Bxd8 34.
+Rb1 Be7 35. Rd1 Bc5+ 36. Kf3 Bf7 37. g3 Kc7 38. Ke2 Be8 39. Rd5 Kb6 40. Rd8
+Bxa4 41. Kd2 Bc6 42. Rb8+ Kc7 43. Rg8 a4 44. Rg7+ Kd8 45. Rxg6 Bg2 46. h4 a3
+47. c4 Kc7 48. Kc3 Bc6 49. Rg7+ Kb6 50. Rg6 Kc7 51. Rg7+ Kc8 52. Kb3 Ba4+ 53.
+Kxa4 a2 54. Kb5 Bf2 55. Rg8+ Kb7 56. Rg7+ Kb8 57. Rg8+ Kb7 58. Rg7+ Ka8 59.
+Rg8+ Ka7 60. Rg7+ Kb8 61. Rg8+ Ka7 62. Rg7+ Ka8 63. Rg8+ Ka7 1/2-1/2
+

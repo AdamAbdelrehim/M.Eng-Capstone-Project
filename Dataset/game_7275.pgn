@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "chesssnotasport"]
+[Black "comsac"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/DSKFkCtK"]
+[BlackTitle "NM"]
+[WhiteElo "2502"]
+[BlackElo "2453"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:43:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. b3 d5 2. Bb2 d4 3. Nf3 Nc6 4. e3 e5 5. Bb5 dxe3 6. fxe3 f6 7. O-O Bd6 8. d4
+Bd7 9. Nc3 exd4 10. exd4 Nge7 11. Bc4 Na5 12. Nh4 Nxc4 13. bxc4 O-O 14. c5
+Bxh2+ 15. Kxh2 Nc6 16. Ne4 Re8 17. Ng3 Be6 18. Nhf5 Qd7 19. Qg4 Rad8 20. d5
+Bxd5 21. Nh5 Ne5 22. Nxf6+ Kh8 23. Bxe5 Qf7 24. Nxe8 1-0
+

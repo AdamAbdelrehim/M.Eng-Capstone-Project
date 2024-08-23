@@ -1,0 +1,36 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.18"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "sumonhasmi"]
+[Result "0-1"]
+[CurrentPosition "r2qk2r/2p2pb1/p2p2pp/1p6/5P2/N1P1Bn2/PP1Q1P1P/3RR1K1 w kq -"]
+[Timezone "UTC"]
+[ECO "A04"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-Kingside-Fianchetto-Variation-2.e4"]
+[UTCDate "2023.04.18"]
+[UTCTime "16:45:38"]
+[WhiteElo "1654"]
+[BlackElo "1756"]
+[TimeControl "60"]
+[Termination "sumonhasmi won by resignation"]
+[StartTime "16:45:38"]
+[EndDate "2023.04.18"]
+[EndTime "16:46:15"]
+[Link "https://www.chess.com/game/live/75575467221"]
+
+1. e4 { [%clk 0:01:00] } 1... g6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.9] }
+2... Bg7 { [%clk 0:00:59.3] } 3. d4 { [%clk 0:00:59.3] } 3... d6
+{ [%clk 0:00:58.9] } 4. c3 { [%clk 0:00:58.8] } 4... h6 { [%clk 0:00:58.5] } 5.
+Be3 { [%clk 0:00:58.4] } 5... a6 { [%clk 0:00:57.9] } 6. Qd2 { [%clk 0:00:58] }
+6... Nd7 { [%clk 0:00:57.4] } 7. Bd3 { [%clk 0:00:57.6] } 7... b5
+{ [%clk 0:00:56.8] } 8. Na3 { [%clk 0:00:57.2] } 8... Bb7 { [%clk 0:00:56.3] }
+9. O-O { [%clk 0:00:55.1] } 9... Ngf6 { [%clk 0:00:54.9] } 10. Rfe1
+{ [%clk 0:00:54.4] } 10... Nxe4 { [%clk 0:00:52.4] } 11. Bxe4
+{ [%clk 0:00:52.4] } 11... Bxe4 { [%clk 0:00:52.1] } 12. Rad1
+{ [%clk 0:00:51.5] } 12... Bxf3 { [%clk 0:00:50.8] } 13. gxf3
+{ [%clk 0:00:50.4] } 13... e5 { [%clk 0:00:46.5] } 14. dxe5
+{ [%clk 0:00:48.9] } 14... Nxe5 { [%clk 0:00:46.2] } 15. f4
+{ [%clk 0:00:47.8] } 15... Nf3+ { [%clk 0:00:44.9] } 0-1
+

@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Radator"]
+[Black "DrawDenied_Twitch"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/I1Zdor4z"]
+[BlackTitle "GM"]
+[WhiteElo "2390"]
+[BlackElo "2801"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined: Capablanca Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:56:54"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Bg5 h6 5. Bh4 dxc4 6. e3 b5 7. a4 c6 8. axb5
+cxb5 9. Be2 Bb7 10. O-O Nbd7 11. b3 Qc7 12. bxc4 bxc4 13. Na3 Bxa3 14. Rxa3 O-O
+15. Qc2 Rfc8 16. Rc1 Be4 17. Qa4 Nb6 18. Qa6 Bb7 19. Qb5 Ne4 20. Bg3 Nxg3 21.
+hxg3 Qc6 22. Qa5 Qd5 23. Qb4 g5 24. Bf1 Kg7 25. Ne5 Rc7 26. Nxc4 Nxc4 27. Rxc4
+Rxc4 28. Qxc4 Qxc4 29. Bxc4 a5 30. Bb5 Kf8 31. f3 Ke7 32. Kf2 f5 33. Ke2 Kd6
+34. Kd3 g4 35. e4 fxe4+ 36. fxe4 e5 37. Ba4 h5 38. Rb3 Ra7 39. Rb6+ Kc7 40. Rh6
+exd4 41. Kxd4 Ra6 42. Rxh5 Rd6+ 43. Ke3 Re6 44. e5 Bc6 45. Bb3 Re7 46. Kf4 a4
+47. Ba2 Kb6 48. Rh6 Kc5 49. Kf5 Bd5 50. Bxd5 Kxd5 51. Ra6 Rxe5+ 52. Kf4 Re4+
+53. Kf5 Rb4 54. Ra5+ Kc6 55. Ra8 Kb5 56. Kg5 Rc4 57. Rb8+ Kc5 58. Ra8 Kb4 59.
+Rb8+ Kc3 60. Ra8 Kb3 61. Rb8+ Rb4 62. Ra8 a3 63. Kf5 a2 64. Re8 Kb2 65. Re3 Rb3
+66. Re2+ Ka3 67. Re8 Rb1 68. Ra8+ Kb2 69. Rb8+ Kc2 70. Rc8+ Kd1 71. Rd8+ Ke1
+72. Re8+ Kf1 73. Rf8 a1=Q 74. Kxg4+ Kg1 75. Rf4 Rb4 76. Kf3 Qd1+ 77. Ke3 Rb3+
+78. Ke4 Qd3+ 79. Ke5 Rb5+ 80. Kf6 Qd5 81. Kg6 Rb6+ 82. Rf6 Kh2 83. Rxb6 Qe5 84.
+Kf7 Qe4 85. Rf6 Qd4 86. Kg7 Qc4 87. Kg6 Qd4 88. Kg7 Qd3 0-1
+

@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.01.05"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "stanleymatiya123"]
+[Result "0-1"]
+[CurrentPosition "rnb1k1nr/pp1p1ppp/4p3/8/Nb1NP3/4B3/PqP2PPP/R2QKB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "B40"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Paulsen-Basman-Defense"]
+[UTCDate "2023.01.05"]
+[UTCTime "19:16:10"]
+[WhiteElo "1758"]
+[BlackElo "1797"]
+[TimeControl "600"]
+[Termination "stanleymatiya123 won by resignation"]
+[StartTime "19:16:10"]
+[EndDate "2023.01.05"]
+[EndTime "19:18:30"]
+[Link "https://www.chess.com/game/live/66685246105"]
+
+1. e4 { [%clk 0:09:55.1] } 1... c5 { [%clk 0:09:48.7] } 2. Nf3
+{ [%clk 0:09:51.5] } 2... e6 { [%clk 0:09:47.2] } 3. d4 { [%clk 0:09:51] } 3...
+cxd4 { [%clk 0:09:46.5] } 4. Nxd4 { [%clk 0:09:50.9] } 4... Bc5
+{ [%clk 0:09:45.8] } 5. Nc3 { [%clk 0:09:48.8] } 5... Qb6 { [%clk 0:09:45] } 6.
+Na4 { [%clk 0:09:13.4] } 6... Qa5+ { [%clk 0:09:31.1] } 7. Nc3
+{ [%clk 0:09:04.7] } 7... Qb4 { [%clk 0:09:22.5] } 8. Be3 { [%clk 0:08:58.5] }
+8... Qxb2 { [%clk 0:09:19.1] } 9. Na4 { [%clk 0:08:47] } 9... Bb4+
+{ [%clk 0:09:08.2] } 0-1
+

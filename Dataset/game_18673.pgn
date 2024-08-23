@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "stormeman100100"]
+[Black "mateusviageiro"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Y0A57HY6"]
+[BlackTitle "FM"]
+[WhiteElo "2583"]
+[BlackElo "2404"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Mengarini Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:26:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+
+1. e4 c5 2. a3 e6 3. b4 cxb4 4. axb4 Nf6 5. e5 Nd5 6. c4 Nxb4 7. d4 N8c6 8. Nf3
+d6 9. exd6 Bxd6 10. Nc3 Be7 11. d5 exd5 12. cxd5 Bf6 13. Ra3 Bxc3+ 14. Rxc3
+Qxd5 15. Qxd5 Nxd5 16. Rb3 O-O 17. Be2 Re8 18. Kf1 a5 19. Bb5 Be6 20. Ra3 Ndb4
+21. Bd2 Red8 22. Ke2 Bg4 23. h3 Bxf3+ 24. gxf3 Nd4+ 0-1
+

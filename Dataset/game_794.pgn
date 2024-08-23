@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Chessblitzer27"]
+[Black "ie1"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/CMdoF6WI"]
+[WhiteElo "2692"]
+[BlackElo "2671"]
+[ECO "E01"]
+[Opening "Catalan Opening: Closed"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:42:17"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 c6 5. Nf3 Be7 6. O-O O-O 7. Nc3 b6 8. Ne5
+Bb7 9. e4 Nfd7 10. exd5 exd5 11. cxd5 cxd5 12. Nxd5 Nxe5 13. dxe5 Nc6 14. Re1
+Bc5 15. Be3 Bxe3 16. Rxe3 Re8 17. f4 Na5 18. Rd3 Qc8 19. Rc1 Qf5 20. b4 Nc6 21.
+Ne3 Qg6 22. Rd6 Rad8 23. Rxg6 Rxd1+ 24. Nxd1 hxg6 25. Bxc6 1-0
+

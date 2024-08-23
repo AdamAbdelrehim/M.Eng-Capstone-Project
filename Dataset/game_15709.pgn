@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "KornBizk1t"]
+[Black "eltactico62"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/0CHYgAze"]
+[WhiteElo "2407"]
+[BlackElo "2507"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Clam Variation, King's Gambit Reversed"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:22:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. e4 e5 2. d3 f5 3. exf5 Nf6 4. g4 h5 5. g5 Ng4 6. h3 Nxf2 7. Kxf2 Bc5+ 8. Kg2
+d5 9. Be2 O-O 10. Bg4 hxg4 11. hxg4 Nc6 12. Ne2 Bxf5 13. gxf5 Rxf5 14. Rf1 Qd7
+15. d4 Nxd4 16. Nxd4 Rxf1 17. Qxf1 Qg4+ 18. Kh2 Bxd4 19. Nc3 Rf8 0-1
+

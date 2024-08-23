@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "okriak"]
+[Black "kukaracha22"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/C1ibnPUc"]
+[WhiteElo "2746"]
+[BlackElo "2548"]
+[ECO "C22"]
+[Opening "Center Game: Paulsen Attack Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:19:31"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 g6 5. Nc3 Bh6 6. Qg3 Bxc1 7. Rxc1 Nge7
+8. h4 h5 9. Be2 d6 10. Rd1 Be6 11. Kd2 Qd7 12. Kc1 O-O-O 13. Nf3 Bg4 14. Kb1
+Kb8 15. Rhe1 Bxf3 16. gxf3 Qe6 17. Bf1 Qf6 18. f4 a6 19. a3 Nc8 20. Bc4 Nb6 21.
+Ba2 Rhe8 22. Qg5 Qxg5 23. hxg5 Re7 24. f3 Rh8 25. Rh1 Kc8 26. Kc1 Nd8 27. Rh4
+Ne6 28. Rg1 Nd4 29. Rg3 c6 30. Kd2 Rd8 31. Kd3 Ne6 32. f5 Nc5+ 33. Kd2 d5 34.
+exd5 cxd5 35. b4 Ncd7 36. f6 Re5 37. f4 Ree8 38. Rd3 Nc4+ 39. Bxc4 dxc4 40. Rd4
+Nb6 41. Rxd8+ Rxd8+ 42. Ke3 Nd5+ 43. Nxd5 Rxd5 44. Rh3 b5 45. a4 Kc7 46. axb5
+axb5 47. Ke4 Rd2 48. Ra3 Kb7 49. Ra5 Rxc2 50. Rxb5+ Kc7 51. Rc5+ Kd6 52. Rc8 c3
+53. Kd3 Rf2 54. Rd8+ Ke6 55. Kxc3 Rxf4 56. b5 Rf1 57. Re8+ Kf5 58. Re2 Kxg5 59.
+b6 Rb1 60. Rb2 Rc1+ 61. Kd4 Rc8 62. b7 Rb8 63. Ke5 h4 64. Rg2+ Kh6 65. Rb2 Kg5
+66. Rg2+ Kh5 67. Rb2 h3 68. Kf4 Kh4 69. Rb4 g5+ 70. Kf5+ Kg3 71. Rg4+ Kf3 72.
+Rxg5 Rxb7 73. Rh5 1-0
+

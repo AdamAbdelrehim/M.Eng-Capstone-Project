@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Destiny_Of_Power"]
+[Black "vyka"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/GiGYo9bz"]
+[WhiteElo "2539"]
+[BlackElo "2551"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Scandinavian Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:50:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 Nf6 2. Nc3 d5 3. e5 Nfd7 4. Nxd5 Nxe5 5. Nc3 c5 6. Bb5+ Bd7 7. Bxd7+ Qxd7
+8. Nf3 Nxf3+ 9. Qxf3 Nc6 10. O-O Nd4 11. Qe4 e6 12. Ne2 Qc6 13. Qxc6+ Nxc6 14.
+b3 Rd8 15. a3 Be7 16. d3 Bf6 17. Rb1 O-O 18. Be3 b6 19. b4 cxb4 20. axb4 Rc8
+21. c3 Rfd8 22. Rfd1 Ne7 23. c4 Nc6 24. f4 e5 25. b5 exf4 26. Bxf4 Nd4 27. Nxd4
+Bxd4+ 28. Kf1 Bc5 29. Rb2 Rd7 30. Re2 Rcd8 31. Be3 Kf8 32. d4 Bd6 33. g3 Rc8
+34. c5 Bxc5 35. dxc5 Rxd1+ 36. Kg2 bxc5 37. Ra2 Rd7 38. Rc2 c4 39. Kf3 f6 40.
+Ke2 Rd5 41. Bxa7 Rxb5 42. Bd4 Kf7 43. Kf3 Rb3+ 44. Kf4 Rd3 45. Ba1 Ke6 46. Re2+
+Kd5 47. Re7 g5+ 48. Kg4 c3 49. Rd7+ Ke4 50. Rxh7 c2 51. Re7+ Kd5 52. Bb2 Rb3
+53. Bc1 Rb1 54. Be3 Re1 55. Rd7+ Ke6 56. Ra7 Rxe3 57. Ra6+ Kf7 58. Ra7+ Kg6 59.
+h4 Rc4+ 60. Kh3 g4+ 61. Kg2 Re2+ 62. Kf1 c1=Q+ 63. Kxe2 Re4+ 64. Kd3 Qc4+ 65.
+Kd2 Re2+ 66. Kd1 Qc2# 0-1
+

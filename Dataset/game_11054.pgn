@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "MiniSip"]
+[Black "Jora_Barygin"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/p5zCvCPW"]
+[WhiteElo "2674"]
+[BlackElo "2630"]
+[ECO "E04"]
+[Opening "Catalan Opening: Open Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:08:17"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 dxc4 5. Bg2 a6 6. Ne5 Bb4+ 7. Nc3 Nd5 8. Bd2
+Nb6 9. e3 N8d7 10. Qg4 Nxe5 11. dxe5 O-O 12. Rd1 f5 13. exf6 Qxf6 14. O-O e5
+15. Qe2 c6 16. Ne4 Qe7 17. Bxb4 Qxb4 18. Nd6 Rf6 19. a3 Qb3 20. Be4 Be6 21. Bc2
+Qa2 22. Ra1 Qxa1 23. Rxa1 1-0
+

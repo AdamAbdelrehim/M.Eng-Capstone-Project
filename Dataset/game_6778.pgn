@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "very_slow"]
+[Black "siddy2006"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/xg8Uaxlp"]
+[BlackTitle "IM"]
+[WhiteElo "2510"]
+[BlackElo "2607"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Levitsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:21:49"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. d4 d5 2. Bg5 c5 3. e3 f6 4. Bf4 Nc6 5. Nf3 g5 6. Bg3 h5 7. h3 Nh6 8. c3 Qb6
+9. b3 Bf5 10. Bd3 e6 11. O-O Be7 12. Qe2 h4 13. Bh2 g4 14. Nxh4 Bxd3 15. Qxd3
+O-O-O 16. Ng6 gxh3 17. Nxh8 hxg2 18. Kxg2 Rxh8 19. Bg3 Nf5 20. e4 Nh4+ 21. Bxh4
+Rxh4 22. Qg3 Rh8 23. exd5 Qd8 24. dxc6 Rg8 25. cxb7+ Kxb7 26. Nd2 Qd5+ 27. Nf3
+Rxg3+ 28. fxg3 cxd4 29. cxd4 f5 30. Rfe1 Bd6 31. Rad1 Kc6 32. Re2 Kd7 33. Rde1
+Bb4 34. Rh1 Qa5 35. Rh7+ Be7 36. a4 Qc3 37. d5 1-0
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "mick_chess"]
+[Black "Rory_Sutherland"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/8PNqvcPT"]
+[WhiteElo "2730"]
+[BlackElo "2729"]
+[ECO "B08"]
+[Opening "Pirc Defense: Classical Variation, Quiet System, Chigorin Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:31:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Be2 Nf6 5. Nc3 O-O 6. O-O Nc6 7. h3 e5 8. Be3
+exd4 9. Nxd4 Re8 10. Bd3 Bd7 11. Re1 Nxd4 12. Bxd4 c5 13. Be3 Bc6 14. Bf4 Qb6
+15. Rb1 Rad8 16. a3 Qc7 17. b4 Nh5 18. Bd2 c4 19. Bxc4 Bd7 20. Qe2 Rc8 21. Bb3
+Bxc3 22. Bxc3 Qxc3 23. Rbd1 Nf4 24. Qd2 Qxd2 25. Rxd2 Bc6 26. Rxd6 Rxe4 27.
+Red1 Re7 28. Rf6 g5 29. a4 Kg7 30. Rf5 h6 31. g3 Be4 32. Ra5 Nxh3+ 33. Kh2 Nxf2
+34. Rf1 Ng4+ 35. Kh3 f5 36. Rxa7 Bxc2 37. Bxc2 Rxc2 38. Rxf5 Kg6 39. Rb5 Kh5
+0-1
+

@@ -1,0 +1,35 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "odonata-bot"]
+[Black "Hoon_Bot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/v6a8elV2"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2732"]
+[BlackElo "2895"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+[TimeControl "600+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:30:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2
+a6 9. dxc5 Nxc5 10. h4 Qa5 11. h5 b5 12. h6 g6 13. Nd4 Nxd4 14. Bxd4 b4 15. Nd1
+Bd7 16. Nf2 O-O 17. Bd3 Bb5 18. O-O Ne4 19. Qe3 Nxf2 20. Rxf2 Bxd3 21. Qxd3
+Rac8 22. f5 exf5 23. Rxf5 Qb5 24. Rf3 Qxd3 25. cxd3 Bg5 26. Be3 Be7 27. Raf1
+Rc2 28. R1f2 Rxf2 29. Rxf2 Rc8 30. d4 Kf8 31. g4 Ke8 32. Kf1 Rc6 33. g5 b3 34.
+axb3 Rb6 35. Rc2 Rxb3 36. Ke2 Kd7 37. Bd2 Rh3 38. b3 Rh2+ 39. Kd3 a5 40. Bxa5
+Rxc2 41. Kxc2 Bxg5 42. Bd2 Bd8 43. Kd3 Ke6 44. Bb4 Kf5 45. Bc5 Bg5 46. Bf8 Bc1
+47. b4 Ke6 48. b5 Kd7 49. Kc3 Be3 50. Bc5 Bxh6 51. Bd6 Be3 52. Kd3 Bf2 53. Bc5
+Kc7 54. Ke2 Bh4 55. Kf3 Bg5 56. Kg4 Be3 57. Kf3 Bc1 58. Kf2 h5 59. Kg3 g5 60.
+Kh3 Bf4 61. Ba7 Bd2 62. Kg2 g4 63. Bc5 Bg5 64. Kg3 Kb7 65. b6 Kc6 66. b7 Kxb7
+67. Bd6 Kc6 68. Bb8 Kd7 69. Kg2 Ke6 70. Kg3 Kf5 71. Kf2 h4 72. Bc7 Ke4 73. Kg2
+h3+ 74. Kh1 g3 75. e6 g2+ 76. Kh2 Be3 77. exf7 g1=Q+ 78. Kxh3 Bf4 79. Bxf4 Qf1+
+80. Kh4 Qxf4+ 81. Kh5 Qxf7+ 82. Kg5 Qg7+ 83. Kh4 Kf4 84. Kh3 Qg3# 0-1
+

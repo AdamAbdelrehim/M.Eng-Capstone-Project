@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "likewater"]
+[Black "FIDE-Trainer1984"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/lkKoSkGn"]
+[WhiteTitle "IM"]
+[WhiteElo "2603"]
+[BlackElo "2513"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:24:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 Be6 6. c3 Nd7 7. Nbd2 Ngf6 8.
+Qc2 Bd6 9. Bc4 O-O 10. O-O b5 11. Bxe6 fxe6 12. Qb3 Qe7 13. Ng5 Rae8 14. a4 h6
+15. Ngf3 a6 16. axb5 axb5 17. Ra7 Qd8 18. Kh1 Kh7 19. Qa2 exd4 20. Nxd4 Nxe4
+21. Qb1 Rxf1+ 22. Nxf1 Nf6 23. Nd2 Bc5 24. Nxe4 Bxa7 25. Nxf6+ 1-0
+

@@ -1,0 +1,35 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ELO_1500"]
+[Black "simbelmyne-bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/RnTvibeg"]
+[WhiteTitle "BOT"]
+[WhiteElo "2974"]
+[BlackElo "2635"]
+[ECO "D06"]
+[Opening "Queen's Gambit Declined: Marshall Defense, Tan Gambit"]
+[TimeControl "300+5"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:51:34"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-2"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 c6 4. dxc6 Nxc6 5. Nf3 e5 6. dxe5 Qxd1+ 7. Kxd1 Ng4
+8. Ke1 Bc5 9. e3 O-O 10. Bd2 Ngxe5 11. Nxe5 Nxe5 12. Bc3 Nc6 13. a3 Bf5 14. Nd2
+Rfe8 15. g4 Be6 16. Bg2 Rad8 17. h3 Re7 18. Rc1 Bb6 19. Rg1 a5 20. Ke2 Rde8 21.
+Rgd1 a4 22. Kf1 Bc7 23. Kg1 h6 24. Nf3 Bb3 25. Rd3 Bb6 26. Nd2 Be6 27. Re1 Bd8
+28. Ra1 Bb6 29. Rc1 Bc7 30. Nf3 Bb6 31. Nh4 g6 32. Bf6 Rc7 33. Nf3 Ba5 34. Rd6
+Rec8 35. Rc5 Bb6 36. Rb5 Ba7 37. Nd2 Bb8 38. Rd3 Bd7 39. Rc5 Be6 40. Bf3 Ba7
+41. Rb5 b6 42. Bc3 Na5 43. Rb4 Nb3 44. Ne4 Nc1 45. Rd2 Na2 46. Rxa4 Nxc3 47.
+Nxc3 Re7 48. Nb5 Bb8 49. Ra6 Rc1+ 50. Kg2 Be5 51. Rxb6 Kg7 52. Nd4 Bc4 53. Rd1
+Rxd1 54. Bxd1 Rd7 55. Bf3 Rd6 56. Rb4 Ba6 57. a4 Rf6 58. Bb7 Kf8 59. Bxa6 Rxa6
+60. b3 Ke7 61. Kf3 Bxd4 62. Rxd4 Kf6 63. h4 Ke5 64. Ke2 Ke6 65. Kd3 Ra7 66. Kc4
+f5 67. g5 hxg5 68. hxg5 Rc7+ 69. Kb4 Rb7+ 70. Ka3 Rc7 71. a5 Rc1 72. Kb4 Rc6
+73. Kb5 Rc3 74. b4 Rc8 75. a6 Ke5 76. f4+ Ke6 77. a7 Kf7 78. Kb6 Re8 79. b5 Ke6
+80. Kc6 Rg8 81. b6 Rh8 82. b7 Rh2 83. b8=Q Rc2+ 84. Kb7 Rb2+ 85. Ka8 Rh2 86.
+Qe8# 1-0
+

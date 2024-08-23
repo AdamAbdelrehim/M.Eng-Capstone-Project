@@ -1,0 +1,47 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ultron81"]
+[Black "Hoon_Bot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/QPoROw5A"]
+[BlackTitle "BOT"]
+[WhiteElo "2845"]
+[BlackElo "2865"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:11:49"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 d5 2. exd5 Nf6 3. Nf3 Nxd5 4. d4 Bf5 5. Bd3 Bxd3 6. Qxd3 c6 7. c4 Nf6 8.
+Nc3 e6 9. O-O Be7 10. Bf4 Nbd7 11. Rad1 O-O 12. h3 Qa5 13. Rfe1 Rfd8 14. a3 Nf8
+15. b4 Qa6 16. Be5 b5 17. cxb5 cxb5 18. Nxb5 Rac8 19. Nc7 Qxd3 20. Rxd3 Nd5 21.
+Nxd5 Rxd5 22. Bf4 a5 23. Bd2 axb4 24. axb4 Rb8 25. Rb3 Ng6 26. Kf1 Bd6 27. Reb1
+Rdb5 28. Ne1 Ne7 29. Rc1 h5 30. Nd3 h4 31. Rb2 Nf5 32. Rc4 Rd5 33. Be3 Rdb5 34.
+Bd2 Rd5 35. Be3 Rdb5 36. Ke2 Ne7 37. Bd2 Nd5 38. Kd1 Ra8 39. Ke2 Rab8 40. Ke1
+Be7 41. Kd1 Nb6 42. Rc7 Nd5 43. Rc4 g5 44. Kc2 Ra8 45. f4 gxf4 46. Nxf4 Nb6 47.
+Rc6 Ra3 48. Rb3 Ra2+ 49. Kd3 Ra4 50. Rc2 Bd6 51. Ne2 Nd5 52. Rcb2 Ra8 53. Ng1
+Bf4 54. Be1 Bd6 55. Bd2 Bf4 56. Be1 Bd6 57. Nf3 Nf4+ 58. Ke3 Ra4 59. Bd2 f6 60.
+Ke4 Nd5 61. Kd3 Bg3 62. Ne1 Bxe1 63. Bxe1 Ra1 64. Kd2 f5 65. Ke2 Kf7 66. Bxh4
+Rg1 67. Kf3 Rc1 68. Bg3 Rc4 69. Be5 Kg6 70. Ke2 Rbxb4 71. Rg3+ Kh6 72. Rxb4
+Nxb4 73. Rg8 Rc2+ 74. Ke3 Rc3+ 75. Ke2 Rc2+ 76. Kd1 Rf2 77. Re8 Kg5 78. Bd6 Nd3
+79. Rg8+ Kh6 80. Rg3 Nf4 81. Ke1 Re2+ 82. Kf1 Re4 83. Be5 Ng6 84. Bf6 Nf4 85.
+Bg7+ Kh7 86. Be5 Ng6 87. Bf6 Nf4 88. Be5 Ng6 89. Bf6 Nf4 90. Rb3 Ne2 91. Rd3
+Nf4 92. Rb3 Ne2 93. Rd3 Nf4 94. Rd2 Re3 95. Be5 Ng6 96. Bf6 Nf4 97. Bg5 Re4 98.
+Be7 Nd5 99. Bc5 Kg6 100. Rd3 Rf4+ 101. Kg1 Re4 102. Kf1 Rf4+ 103. Ke1 Re4+ 104.
+Kf2 Rf4+ 105. Kg1 Re4 106. Kf2 Rf4+ 107. Rf3 Rh4 108. Rg3+ Kh5 109. Rf3 Kg6
+110. Rg3+ Kh5 111. Rg8 Rf4+ 112. Kg3 Rf1 113. Re8 f4+ 114. Kh2 Ne3 115. d5 Nf5
+116. Rh8+ Kg6 117. dxe6 Ng3 118. Rg8+ Kf5 119. Rxg3 fxg3+ 120. Kxg3 Kxe6 121.
+Bf2 Rb1 122. Kf3 Kf6 123. g4 Rb3+ 124. Be3 Rb1 125. h4 Rb3 126. Kf4 Rb4+ 127.
+Kf3 Rb3 128. h5 Rb4 129. Bd2 Rb1 130. g5+ Ke6 131. Kg4 Kf7 132. Kh3 Kg7 133.
+Bc3+ Kh7 134. Bd2 Rh1+ 135. Kg4 Rb1 136. Kf5 Rb5+ 137. Kf6 Kg8 138. Bf4 Rb6+
+139. Kf5 Rb5+ 140. Kf6 Rb6+ 141. Kf5 Rb5+ 142. Be5 Kh7 143. Kf4 Rb4+ 144. Kg3
+Rb3+ 145. Kg4 Rb5 146. g6+ Kh6 147. Bf4+ Kg7 148. Bg5 Rb4+ 149. Bf4 Kf6 150.
+Kg3 Rb3+ 151. Kg4 Rb4 152. Kg3 Re4 153. h6 Kxg6 154. Kg4 Rc4 155. Kg3 Kf5 156.
+Bb8 Rc6 0-1
+

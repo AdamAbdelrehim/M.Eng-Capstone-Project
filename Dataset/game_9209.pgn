@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "AKS-Mantissa"]
+[Black "PurpleHunter"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Q8ncGre6"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2719"]
+[BlackElo "2624"]
+[ECO "C77"]
+[Opening "Ruy Lopez: Morphy Defense, Anderssen Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:09:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 g6 7. Nbd2 Bg7 8. O-O
+O-O 9. a3 b5 10. Bb3 Bb7 11. Re1 Ne7 12. Ba2 h6 13. b4 a5 14. Bb2 Nh5 15. g3
+Nf6 16. c4 axb4 17. axb4 Qd7 18. cxb5 Qxb5 19. Qc2 Nc6 20. Bc3 Na7 21. Nc4 Nc6
+22. Reb1 Ra7 23. Ne3 Rfa8 24. Bc4 Qb6 25. Rxa7 Rxa7 26. Qb3 Nd8 27. Nh4 Kf8 28.
+Bd2 h5 29. Bxf7 Nxf7 30. Nxg6+ Kg8 31. Ne7+ Kf8 32. N3f5 d5 33. Be3 Qa6 34. b5
+Qa4 35. Bxa7 Qxa7 36. b6 cxb6 37. Qb4 Qa6 38. Nxd5+ Kg8 39. Nxf6+ Bxf6 40. Qxb6
+Qxd3 41. Qxb7 h4 42. gxh4 Qf3 43. Rb3 Qd1+ 44. Kg2 Kf8 45. Qb4+ Ke8 46. Rg3 Nd8
+47. Rg8+ Kd7 48. Qb5+ Kc7 49. Ne3 Qd6 50. Nd5+ Kc8 51. Rg6 Ne6 52. Qe8+ Bd8 53.
+Rxe6 Qc5 54. Nb6+ Kb7 55. Qxd8 Ka6 56. Qa8+ Kb5 57. Qa4# 1-0
+

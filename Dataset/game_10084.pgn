@@ -1,0 +1,33 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ChessatronBot"]
+[Black "odonata-bot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/jIc76fN5"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2506"]
+[BlackElo "2730"]
+[ECO "E15"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line"]
+[TimeControl "900+3"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:44:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. O-O
+d5 9. Bc3 O-O 10. Nbd2 Nbd7 11. Qc2 c5 12. e4 dxc4 13. bxc4 cxd4 14. Bxd4 Nc5
+15. e5 Nfd7 16. Rad1 Qc7 17. h4 h6 18. Rfe1 Rac8 19. Bf1 Rfd8 20. h5 Bb7 21.
+Bc3 Qb8 22. Kh1 Qa8 23. Kg2 Bg5 24. Be2 Bxd2 25. Rxd2 Ne4 26. Kh2 Nxd2 27. Nxd2
+Nc5 28. f3 Qb8 29. Bd1 Rd3 30. Be2 Re3 31. Bd4 Rxe5 32. f4 Rf5 33. Rf1 Rd8 34.
+Be3 Qc7 35. Bg4 Rf6 36. Rd1 e5 37. f5 Rfd6 38. Re1 Rd3 39. Kh3 Qe7 40. Nf1 Ne4
+41. Qe2 Nf6 42. Bf3 Bxf3 43. Qxf3 Rc8 44. Rc1 Qa3 45. Qe2 e4 46. Kg2 Qa5 47. g4
+Qe5 48. a4 Rcd8 49. Rc2 Kh7 50. Ra2 R8d7 51. Bf2 Rf3 52. Bg3 Qc3 53. Bh4 Qc1
+54. Nh2 Rdd3 55. Bf2 Qf4 56. g5 Qxg5+ 57. Kh1 Rh3 58. Be1 Ng4 59. f6 Rde3 60.
+Qf1 Qxh5 61. Kg1 Rxh2 62. Bh4 Rxa2 63. fxg7 Qxh4 64. g8=Q+ Kxg8 65. Qd3 exd3
+66. Kf1 Re1# 0-1
+

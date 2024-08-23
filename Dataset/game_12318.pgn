@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "PurpleHunter"]
+[Black "odonata-bot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/uHO8miO6"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2605"]
+[BlackElo "2629"]
+[ECO "E12"]
+[Opening "Queen's Indian Defense: Kasparov-Petrosian Variation, Kasparov Attack"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:07:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. Qc2 Nxc3 8.
+Qxc3 Bd6 9. Bg5 Qd7 10. Ne5 Qc8 11. Nc4 f6 12. Nxd6+ cxd6 13. Qxc8+ Bxc8 14.
+Bf4 e5 15. Rc1 Nd7 16. Bd2 exd4 17. Rc4 Nc5 18. Rxd4 Ke7 19. g3 Be6 20. Bg2
+Rac8 21. Bc3 Rhd8 22. O-O d5 23. Rb4 Rd6 24. Rd1 a5 25. Rh4 h6 26. h3 Nb3 27.
+e3 Rc5 28. g4 Bf7 29. f4 Rc4 30. Rd3 Kf8 31. f5 Kg8 32. Kf2 d4 33. exd4 b5 34.
+d5 b4 35. axb4 axb4 36. Be1 Nc5 37. Rd1 Rc2+ 38. Kg3 Na6 39. Bf1 Rxb2 40. g5
+fxg5 41. Rhd4 Nc7 42. Rxb4 Rxb4 43. Bxb4 Rxd5 44. Rxd5 Nxd5 45. Bd6 Nf6 46. Be5
+h5 47. Kf2 Be8 48. Bd3 Kh7 49. Bc7 Bd7 50. Be5 h4 51. Bd6 Kh6 52. Kg2 Nd5 53.
+Kf3 Bc8 54. Bc2 Ba6 55. Bb3 Bb7 56. Bxd5 Bxd5+ 57. Ke3 Bg2 58. Bf8 Kh5 59. Bxg7
+Bxh3 60. Bf8 Bxf5 61. Be7 g4 62. Kf4 Bd3 63. Bb4 Bf1 64. Ba5 Ba6 65. Be1 Bc4
+66. Ba5 Bd5 67. Be1 Be6 68. Bxh4 Kxh4 69. Ke5 g3 70. Kxe6 g2 71. Ke5 g1=Q 72.
+Kd6 Qc1 73. Ke6 Qc5 74. Kf7 Qd6 75. Kg7 Kg5 76. Kf7 Qd7+ 77. Kf8 Kf6 78. Kg8
+Qg7# 0-1
+

@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "one_last_trick"]
+[Black "Eris1"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/QrCSByMu"]
+[WhiteElo "2525"]
+[BlackElo "2392"]
+[ECO "C78"]
+[Opening "Ruy Lopez: Morphy Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:53:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8. h3
+Bb7 9. d4 Bb6 10. a4 O-O 11. Na3 Nxe4 12. Re1 d5 13. Be3 exd4 14. Nxd4 Nxd4 15.
+cxd4 Qd7 16. Rc1 Rfe8 17. axb5 axb5 18. Nc2 Rad8 19. Nb4 c6 20. Nd3 Qd6 21. Qf3
+Bc7 22. Bf4 Qe7 23. Bxc7 Qxc7 24. Qf4 Qxf4 25. Nxf4 Kf8 26. f3 Nd6 27. Kf2 Rxe1
+28. Rxe1 Re8 29. Ra1 Ra8 30. Re1 Nf5 31. Ne2 Re8 32. g4 Nd6 33. Bc2 Nc4 34. b3
+Na3 35. Bd3 b4 36. Ra1 Ra8 37. Nf4 Ba6 38. Bxa6 Rxa6 39. Nd3 Rb6 40. Ra2 Nb5
+41. Ra8+ Ke7 42. Ke3 Nc3 43. Ne5 g6 44. Ra7+ Kf6 45. Rxf7+ Kg5 46. f4+ Kh4 47.
+Kf3 h5 48. Nxg6+ Kxh3 49. Rh7 Kh2 50. Rxh5+ Kg1 51. f5 Nb5 52. Ke3 Rb8 53. Nf4
+Re8+ 54. Ne6 Nc7 55. Rh6 Kg2 56. Kf4 Nb5 57. g5 Nd6 58. g6 Ne4 59. g7 Rg8 60.
+Rh8 Nf6 61. Ke5 Rxg7 62. Nxg7 Kf3 63. Kxf6 Ke4 64. Ne6 Kd3 65. Rh3+ Kc2 66. Ke5
+c5 67. Nxc5 Kb2 68. f6 Ka3 69. f7 Ka2 70. f8=Q Ka3 71. Qa8+ Kb2 72. Rh2+ Kc3
+73. Qa1# 1-0
+

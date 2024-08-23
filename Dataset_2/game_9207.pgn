@@ -1,0 +1,42 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.05.24"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Sacha17700"]
+[Result "0-1"]
+[CurrentPosition "2bBk2r/5ppp/2n1p3/8/3p1Q2/1PpP1N1P/1bP2PP1/rK1R1B1R w k -"]
+[Timezone "UTC"]
+[ECO "B02"]
+[ECOUrl "https://www.chess.com/openings/Alekhines-Defense-John-Tracy-Gambit"]
+[UTCDate "2023.05.24"]
+[UTCTime "09:03:04"]
+[WhiteElo "1785"]
+[BlackElo "1864"]
+[TimeControl "60"]
+[Termination "Sacha17700 won by checkmate"]
+[StartTime "09:03:04"]
+[EndDate "2023.05.24"]
+[EndTime "09:04:25"]
+[Link "https://www.chess.com/game/live/78658186163"]
+
+1. e4 { [%clk 0:01:00] } 1... Nf6 { [%clk 0:01:00] } 2. Nf3
+{ [%clk 0:00:59.6] } 2... Nxe4 { [%clk 0:00:59.4] } 3. d3 { [%clk 0:00:59.2] }
+3... Nf6 { [%clk 0:00:58.6] } 4. Nc3 { [%clk 0:00:59.1] } 4... d5
+{ [%clk 0:00:58.3] } 5. Bg5 { [%clk 0:00:58.9] } 5... e6 { [%clk 0:00:56.7] }
+6. Qd2 { [%clk 0:00:58.5] } 6... d4 { [%clk 0:00:55.8] } 7. Ne2
+{ [%clk 0:00:57] } 7... c5 { [%clk 0:00:53.5] } 8. O-O-O { [%clk 0:00:55.4] }
+8... Nc6 { [%clk 0:00:53] } 9. Kb1 { [%clk 0:00:55] } 9... a5
+{ [%clk 0:00:51.8] } 10. h3 { [%clk 0:00:54.4] } 10... a4 { [%clk 0:00:51.3] }
+11. a3 { [%clk 0:00:53] } 11... b5 { [%clk 0:00:49.9] } 12. Ng3
+{ [%clk 0:00:52.6] } 12... b4 { [%clk 0:00:49.2] } 13. axb4
+{ [%clk 0:00:51.9] } 13... cxb4 { [%clk 0:00:47.9] } 14. Ne4
+{ [%clk 0:00:49.3] } 14... a3 { [%clk 0:00:45.6] } 15. b3 { [%clk 0:00:47.6] }
+15... Nd5 { [%clk 0:00:43.3] } 16. Bxd8 { [%clk 0:00:46.1] } 16... a2+
+{ [%clk 0:00:41.3] } 17. Ka1 { [%clk 0:00:44.8] } 17... Nc3
+{ [%clk 0:00:34.7] } 18. Nxc3 { [%clk 0:00:43.9] } 18... bxc3
+{ [%clk 0:00:34.6] } 19. Qf4 { [%clk 0:00:39.8] } 19... Ba3
+{ [%clk 0:00:34.5] } 20. Kxa2 { [%clk 0:00:22.7] } 20... Bb2+
+{ [%clk 0:00:33.1] } 21. Kb1 { [%clk 0:00:19.4] } 21... Ra1#
+{ [%clk 0:00:30.8] } 0-1
+

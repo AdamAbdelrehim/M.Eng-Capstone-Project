@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "pixelares"]
+[Black "playingsomerapid"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/NokaPa83"]
+[WhiteElo "2588"]
+[BlackElo "2477"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:08:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 Be7 8. Qd2
+a6 9. Bd3 b5 10. a3 Bb7 11. Qf2 O-O 12. O-O cxd4 13. Nxd4 Nxd4 14. Bxd4 Rc8 15.
+b4 Nb8 16. Ne2 Nc6 17. f5 exf5 18. Bxf5 Nxd4 19. Nxd4 Rc4 20. Bd3 Rc8 21. Bf5
+Rc4 22. Bd3 Rc8 23. Rae1 Qb6 24. Kh1 g6 25. Nf5 Bd8 26. Qg3 Kh8 27. Nd6 Rc7 28.
+e6 1-0
+

@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "silence404"]
+[Black "Soham0705"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/9h9pjwmr"]
+[WhiteElo "2809"]
+[BlackElo "2724"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Kingside Fianchetto"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:18:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. Nf3 g6 2. b3 Bg7 3. d4 d6 4. e3 Nf6 5. Bb2 O-O 6. Be2 e5 7. O-O e4 8. Nfd2
+Re8 9. c4 Nbd7 10. Nc3 Nf8 11. b4 h5 12. a4 h4 13. h3 N8h7 14. Re1 Bf5 15. Bf1
+g5 16. Ne2 g4 17. hxg4 Nxg4 18. Nf4 Qg5 19. Nh3 Qh6 20. Be2 Nxe3 21. fxe3 Bxh3
+22. Bg4 Bxg4 23. Qxg4 Qg5 24. Qh3 Bh6 25. Nf1 f5 26. d5 Nf6 27. Bxf6 Qxf6 28.
+Ra2 Rf8 29. Rf2 Rae8 30. Kh1 Re7 31. Nh2 Rg7 32. Nf1 Qg5 33. Rf4 Qf6 34. Rxh4
+Bg5 35. Rh5 Kf7 36. Ng3 Ke8 37. Rf1 Qg6 38. Rxf5 Rxf5 39. Nxf5 Rf7 40. Rh8+ Rf8
+41. Nxd6+ cxd6 42. Qc8+ Bd8 43. Rxf8+ Kxf8 44. Qxd8+ Kg7 45. Qe7+ Kh6 46. Qe6
+Qxe6 47. dxe6 Kg6 48. Kh2 Kf6 49. Kg3 Kxe6 50. Kf4 d5 51. cxd5+ Kxd5 52. g4 Kc4
+53. Kxe4 Kxb4 54. g5 Kxa4 55. g6 b5 56. g7 b4 57. g8=Q a5 58. Qg1 Kb3 59. Qa1
+a4 60. Qb1+ Kc3 61. Kd5 a3 62. Qa2 Kd3 63. Qb3+ Kd2 64. e4 Kc1 65. Qxb4 a2 66.
+Qa3+ Kb1 67. Qxa2+ Kxa2 68. e5 Kb2 69. e6 Kc2 70. e7 Kd3 71. e8=Q Kc3 72. Qe4
+Kb2 73. Kc4 Kc1 74. Qe2 Kb1 75. Kb3 Ka1 76. Qb2# 1-0
+

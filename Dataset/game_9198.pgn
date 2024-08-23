@@ -1,0 +1,35 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Lynx_BOT"]
+[Black "pawn_git"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/CLXdfmUf"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2300"]
+[BlackElo "2537"]
+[ECO "A20"]
+[Opening "English Opening: King's English Variation"]
+[TimeControl "1200+8"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:07:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+
+1. c4 e5 2. d3 Bb4+ 3. Nc3 Nf6 4. Nf3 d6 5. e4 O-O 6. Be2 Bc5 7. O-O Re8 8. Na4
+Bg4 9. Nxc5 dxc5 10. Be3 b6 11. Qa4 Qd6 12. h3 Bxf3 13. Bxf3 Nc6 14. Rac1 Red8
+15. Rc3 Nd7 16. Qd1 Nf8 17. g3 Qe7 18. Bg2 Rd6 19. Qa4 Rad8 20. a3 a5 21. Qc2
+Qd7 22. Rd1 Nd4 23. Qd2 a4 24. Bg5 f6 25. Be3 Nb3 26. Qc2 Qe8 27. f4 Nd4 28.
+Qd2 exf4 29. Bxf4 R6d7 30. Rf1 Ng6 31. Bf3 Nxf4 32. Qxf4 Nc6 33. Qe3 Ne5 34.
+Be2 Rd4 35. g4 Qe6 36. Rf5 h6 37. h4 g5 38. Rf2 Kg7 39. Rh2 Ng6 40. h5 Nf4 41.
+Rf2 Qd6 42. Rf3 c6 43. Bf1 b5 44. cxb5 cxb5 45. Qf2 Rd7 46. Rg3 b4 47. axb4
+cxb4 48. Rc8 Rb7 49. Ra8 a3 50. Kh1 Qd7 51. Qc2 Ra7 52. Rxa7 Qxa7 53. bxa3 bxa3
+54. Qa2 Qa4 55. Kg1 Rd7 56. Rf3 Ra7 57. d4 Qxd4+ 58. Kh2 Qb2+ 59. Rf2 Qe5 60.
+Kg1 Qxe4 61. Kh2 Qe5 62. Rf3 Nxh5+ 63. Kg2 Qe4 64. Kf2 Qxg4 65. Rd3 Qh4+ 66.
+Kg1 Ng3 67. Bg2 Re7 68. Qf2 a2 69. Ra3 Ne2+ 70. Kf1 Qc4 71. Bd5 Qxd5 72. Qg2
+Qf5+ 73. Qf2 Nf4 74. Qd2 Ne2+ 75. Kg2 a1=Q 76. Qe1 Qxa3 77. Qh4 gxh4 78. Kh1
+Qah3# 0-1
+

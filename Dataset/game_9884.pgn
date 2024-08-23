@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "morenol"]
+[Black "denlogrendehund"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Gm13ACjs"]
+[WhiteElo "2352"]
+[BlackElo "2506"]
+[ECO "C03"]
+[Opening "French Defense: Tarrasch Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:17:08"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Nf3 Nc6 7. Be3 Ne7
+8. c4 Nf5 9. Qb3 c5 10. O-O-O Nxe3 11. fxe3 Qb6 12. Qxb6 axb6 13. a3 Bh6 14.
+Kd2 Bd7 15. Ke2 Ba4 16. Re1 Ke7 17. g3 f5 18. Bg2 Rad8 19. Kd3 b5 20. Kc3 bxc4
+21. Kxc4 cxd4 22. exd4 Rc8+ 23. Kb4 Bc6 24. Re2 Be4 25. Ne5 Rhd8 26. Rd1 Bc2
+27. Rdd2 Bxd2+ 28. Rxd2 Be4 29. Bxe4 fxe4 30. Nc4 f5 31. Ne3 Kf6 32. h4 h5 33.
+a4 Rc1 34. a5 Re1 0-1
+

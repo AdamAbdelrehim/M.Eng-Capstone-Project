@@ -1,0 +1,35 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "AKS-Mantissa"]
+[Black "YoBot_v2"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/HUHmaVAB"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2550"]
+[BlackElo "2747"]
+[ECO "D38"]
+[Opening "Queen's Gambit Declined: Ragozin Defense"]
+[TimeControl "1500+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:37:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. g3 dxc4 6. Bg2 O-O 7. O-O Nc6 8. a3
+Be7 9. Bg5 Na5 10. Qe1 b6 11. e4 Bb7 12. Rd1 Qe8 13. Qe2 a6 14. Bf4 Bd8 15. Nd2
+b5 16. Rfe1 Nd7 17. h4 Kh8 18. Kh2 Rc8 19. Bh3 Bf6 20. e5 Be7 21. Nde4 Nb3 22.
+Bg2 Ba8 23. d5 Nbc5 24. Nxc5 Nxc5 25. d6 cxd6 26. exd6 Bf6 27. Bxa8 Bxc3 28.
+bxc3 Rxa8 29. h5 h6 30. Bxh6 Nd3 31. Be3 f6 32. Bb6 Qc6 33. Bc7 Nxe1 34. Rxe1
+e5 35. Qg4 Rf7 36. Qg6 Raf8 37. Kg1 Kg8 38. h6 Qe8 39. a4 Rd7 40. Qe4 Qe6 41.
+axb5 axb5 42. hxg7 Kxg7 43. Kg2 Rh8 44. g4 Rf7 45. Rd1 b4 46. cxb4 c3 47. Rc1
+f5 48. gxf5 Rxf5 49. Rxc3 Rg5+ 50. Kf1 Qa2 51. Rc1 Qa3 52. Rd1 Qa6+ 53. Qd3
+Rh1+ 54. Ke2 Qa2+ 55. Rd2 Qe6 56. Qd5 Qg4+ 57. Kd3 Rc1 58. Bb6 Qxb4 59. Ke2 Qb1
+60. Rd1 Rxd1 61. Qxd1 Qxb6 62. d7 Rg2 63. Qf1 Rg4 64. d8=Q Qxd8 65. Qh3 Re4+
+66. Kf3 Qd3+ 67. Kg2 Qxh3+ 68. Kxh3 Kf6 69. Kg3 Kf5 70. Kf3 Re1 71. Kg3 e4 72.
+Kh4 Rc1 73. Kg3 Rc2 74. Kg2 e3 75. Kf3 e2 76. Kg2 e1=Q 77. Kg3 Qxf2+ 78. Kh3
+Rc3# 0-1
+

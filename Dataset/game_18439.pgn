@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "MaxBouaraba"]
+[Black "Hudson_Lowe"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/NdcUXx2z"]
+[WhiteElo "2365"]
+[BlackElo "2536"]
+[ECO "A45"]
+[Opening "Trompowsky Attack: Classical Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:52:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. Bg5 e6 3. Nc3 h6 4. Bxf6 Qxf6 5. e4 Bb4 6. Nf3 d5 7. e5 Qd8 8. Bd3
+c5 9. O-O cxd4 10. Nb5 Nc6 11. Nbxd4 O-O 12. c3 Bc5 13. Re1 Qb6 14. Rb1 Bd7 15.
+Bc2 f5 16. exf6 Rxf6 17. Qd3 g6 18. b3 Raf8 19. b4 Bd6 20. Qe3 e5 21. Nxc6 Qxe3
+22. Ne7+ Bxe7 23. Rxe3 e4 24. Ne5 Be6 25. f3 Bd6 26. fxe4 dxe4 27. Rxe4 Bf5 28.
+Ng4 Bxe4 29. Nxf6+ Rxf6 30. Bxe4 b6 31. Rf1 Bxh2+ 32. Kxh2 Rxf1 33. Bd5+ Kg7
+34. Bc4 Rc1 0-1
+

@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "GarryKasparov1900"]
+[Black "leva1958"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/hECsXmBk"]
+[BlackTitle "GM"]
+[WhiteElo "2433"]
+[BlackElo "2594"]
+[ECO "A33"]
+[Opening "English Opening: Symmetrical Variation, Anti-Benoni Variation, Geller Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:53:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 e6 2. c4 Nf6 3. g3 c5 4. Nf3 cxd4 5. Nxd4 Qb6 6. Nc3 Nc6 7. Ndb5 Bc5 8.
+e3 Ne5 9. a3 a6 10. Na4 Qc6 11. Nxc5 axb5 0-1
+

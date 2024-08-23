@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Partake"]
+[Black "KobaKid"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/43o1EJyz"]
+[WhiteElo "2565"]
+[BlackElo "2380"]
+[ECO "B00"]
+[Opening "Barnes Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:02:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. e4 f6 2. d4 e6 3. Nc3 Bb4 4. Bd3 Qe7 5. Nf3 b6 6. h4 Bb7 7. h5 Nc6 8. a3
+Bxc3+ 9. bxc3 O-O-O 10. Qe2 Kb8 11. a4 a5 12. Ba3 Qf7 13. Rb1 d5 14. Nd2 Nge7
+15. Ba6 Ba8 16. O-O dxe4 17. Nxe4 Nd5 18. Rb3 Ka7 19. g3 e5 20. Bc4 exd4 21.
+Nc5 Rhe8 22. Qd3 Qxh5 23. Rfb1 Nb8 24. cxd4 Nb4 0-1
+

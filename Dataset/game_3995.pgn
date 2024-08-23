@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "cocheverde"]
+[Black "Dasecho"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/9r3g5O8B"]
+[WhiteElo "2695"]
+[BlackElo "2693"]
+[ECO "D01"]
+[Opening "Rapport-Jobava System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:05:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 c5 4. e3 cxd4 5. exd4 a6 6. Nf3 Nc6 7. Ne5 Bf5 8. g4
+Bd7 9. g5 Ne4 10. Nxd5 Nxe5 11. dxe5 Bc6 12. Ne3 Qxd1+ 13. Rxd1 Nxg5 14. Bg2
+Bxg2 15. Nxg2 Ne6 16. Bg3 g5 17. Ne3 f6 18. Nd5 f5 19. f4 Bg7 20. fxg5 Kf7 21.
+O-O Rhe8 22. Rxf5+ Kg6 23. Rdf1 Rad8 24. c4 Nxg5 25. Bh4 h6 26. Bxg5 hxg5 27.
+e6 Rd6 28. b3 b5 29. Kg2 bxc4 30. bxc4 Rc6 31. h4 gxh4 32. Kh3 Rxc4 33. R5f3
+Bf6 34. Nxf6 exf6 35. Rxf6+ Kg7 36. Rf7+ Kg6 37. Rg1+ Kh6 38. Rf6+ Kh7 39. Rf5
+Kh6 40. Re5 Rc6 41. Kxh4 Rcxe6 42. Rh5# 1-0
+

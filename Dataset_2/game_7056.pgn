@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.01.18"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Jagadeesh01"]
+[Result "0-1"]
+[CurrentPosition "2r1kb1r/pp1b1ppp/1q2p3/3pP3/3P4/PP2nN2/R3B1PP/1N1Q1RK1 w k -"]
+[Timezone "UTC"]
+[ECO "C02"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Advance-Paulsen-Euwe-Variation-6.Be2-Rc8-7.O-O"]
+[UTCDate "2023.01.18"]
+[UTCTime "16:09:56"]
+[WhiteElo "1789"]
+[BlackElo "1846"]
+[TimeControl "600"]
+[Termination "Jagadeesh01 won by resignation"]
+[StartTime "16:09:56"]
+[EndDate "2023.01.18"]
+[EndTime "16:12:44"]
+[Link "https://www.chess.com/game/live/67797216771"]
+
+1. e4 { [%clk 0:09:59.3] } 1... e6 { [%clk 0:09:57.4] } 2. d4
+{ [%clk 0:09:57.9] } 2... d5 { [%clk 0:09:56.6] } 3. e5 { [%clk 0:09:56.3] }
+3... c5 { [%clk 0:09:55.4] } 4. c3 { [%clk 0:09:55.4] } 4... Nc6
+{ [%clk 0:09:54] } 5. Nf3 { [%clk 0:09:53.4] } 5... Bd7 { [%clk 0:09:51.1] } 6.
+Be2 { [%clk 0:09:50.3] } 6... Rc8 { [%clk 0:09:49.3] } 7. O-O
+{ [%clk 0:09:49.1] } 7... Nge7 { [%clk 0:09:47.7] } 8. Bg5 { [%clk 0:09:43.5] }
+8... Qb6 { [%clk 0:09:45.9] } 9. b3 { [%clk 0:09:24.4] } 9... cxd4
+{ [%clk 0:09:36.6] } 10. cxd4 { [%clk 0:09:23.2] } 10... Nf5 { [%clk 0:09:33] }
+11. Be3 { [%clk 0:09:18.3] } 11... Nb4 { [%clk 0:09:21.4] } 12. a3
+{ [%clk 0:08:48.1] } 12... Nc2 { [%clk 0:09:01.4] } 13. Ra2
+{ [%clk 0:08:31.4] } 13... Ncxe3 { [%clk 0:08:53.3] } 14. fxe3
+{ [%clk 0:08:30.5] } 14... Nxe3 { [%clk 0:08:51.9] } 0-1
+

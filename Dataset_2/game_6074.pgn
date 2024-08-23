@@ -1,0 +1,43 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.08.31"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "hcastaneda"]
+[Result "0-1"]
+[CurrentPosition "2k1r2r/1pp3pp/p7/3P1p2/5P2/b1qbB3/3R2PP/3QK2R b K f3"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Declined-Franco-Nimzowitsch-Variation"]
+[UTCDate "2022.08.31"]
+[UTCTime "22:05:15"]
+[WhiteElo "1812"]
+[BlackElo "1824"]
+[TimeControl "600"]
+[Termination "hcastaneda won by resignation"]
+[StartTime "22:05:15"]
+[EndDate "2022.08.31"]
+[EndTime "22:12:57"]
+[Link "https://www.chess.com/game/live/55722313773"]
+
+1. e4 { [%clk 0:10:00] } 1... Nc6 { [%clk 0:09:57.5] } 2. Nf3
+{ [%clk 0:09:52.5] } 2... e6 { [%clk 0:09:48.3] } 3. Bb5 { [%clk 0:09:45.2] }
+3... Nge7 { [%clk 0:09:44.3] } 4. d4 { [%clk 0:09:43.3] } 4... d5
+{ [%clk 0:09:36.9] } 5. Nc3 { [%clk 0:09:36.1] } 5... a6 { [%clk 0:09:26.1] }
+6. Bd3 { [%clk 0:09:19.5] } 6... Nb4 { [%clk 0:09:19] } 7. a3
+{ [%clk 0:09:06.7] } 7... Nxd3+ { [%clk 0:09:17] } 8. Qxd3 { [%clk 0:09:06.6] }
+8... Qd7 { [%clk 0:09:11.8] } 9. exd5 { [%clk 0:08:49.6] } 9... exd5
+{ [%clk 0:09:06.7] } 10. Ne5 { [%clk 0:08:48] } 10... Qd6 { [%clk 0:08:55.9] }
+11. Qf3 { [%clk 0:08:40.7] } 11... f6 { [%clk 0:08:49.6] } 12. Nd3
+{ [%clk 0:07:38.4] } 12... Bd7 { [%clk 0:08:43.1] } 13. Bf4
+{ [%clk 0:07:34.4] } 13... Qb6 { [%clk 0:08:27.7] } 14. Nxd5
+{ [%clk 0:07:25.3] } 14... Nxd5 { [%clk 0:08:19.4] } 15. Qxd5
+{ [%clk 0:07:25.2] } 15... O-O-O { [%clk 0:08:11] } 16. c3 { [%clk 0:06:31.2] }
+16... Bb5 { [%clk 0:07:58.6] } 17. Qf3 { [%clk 0:06:14.2] } 17... Re8+
+{ [%clk 0:07:49.7] } 18. Be3 { [%clk 0:06:09.6] } 18... Bxd3
+{ [%clk 0:07:44.2] } 19. d5 { [%clk 0:06:03.1] } 19... Qxb2
+{ [%clk 0:07:31.5] } 20. Rd1 { [%clk 0:05:58.2] } 20... Qxc3+
+{ [%clk 0:07:26] } 21. Rd2 { [%clk 0:05:52.6] } 21... Bxa3 { [%clk 0:07:18.4] }
+22. Qd1 { [%clk 0:05:40.4] } 22... f5 { [%clk 0:07:06] } 23. f4
+{ [%clk 0:05:27.4] } 0-1
+

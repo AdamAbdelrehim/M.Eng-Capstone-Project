@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Banelevich"]
+[Black "DonkinDonat"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/u6xi82SX"]
+[WhiteTitle "FM"]
+[WhiteElo "2510"]
+[BlackElo "2688"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:45:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. g3 d6 5. Bg2 Nf6 6. O-O Nc6 7. Re1 Be7 8. a4
+O-O 9. d3 Qc7 10. Bf4 Nd7 11. Be3 Rb8 12. d4 cxd4 13. Nxd4 Nce5 14. Bc1 b6 15.
+f4 Nc4 16. e5 dxe5 17. Nc6 Bc5+ 18. Kh1 Ra8 19. b4 Bb7 20. b5 axb5 21. Nxb5
+Qxc6 0-1
+

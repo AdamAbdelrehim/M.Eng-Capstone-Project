@@ -1,0 +1,38 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.01.06"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "YoYoMaaaa"]
+[Result "0-1"]
+[CurrentPosition "1r6/1b1nkpp1/p3pn2/8/1P6/P1NP1Nq1/1BP1B3/R2QRK1r w - -"]
+[Timezone "UTC"]
+[ECO "B01"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Blackburne-Kloosterboer-Gambit"]
+[UTCDate "2023.01.06"]
+[UTCTime "04:47:51"]
+[WhiteElo "1558"]
+[BlackElo "1554"]
+[TimeControl "180"]
+[Termination "YoYoMaaaa won by resignation"]
+[StartTime "04:47:51"]
+[EndDate "2023.01.06"]
+[EndTime "04:49:13"]
+[Link "https://www.chess.com/game/live/66719424287"]
+
+1. e4 { [%clk 0:03:00] } 1... d5 { [%clk 0:02:59.9] } 2. exd5
+{ [%clk 0:02:58.5] } 2... c6 { [%clk 0:02:59.8] } 3. Nc3 { [%clk 0:02:58.4] }
+3... a6 { [%clk 0:02:59] } 4. dxc6 { [%clk 0:02:57.6] } 4... Nf6
+{ [%clk 0:02:58.1] } 5. cxb7 { [%clk 0:02:56.6] } 5... Bxb7
+{ [%clk 0:02:57.3] } 6. Nf3 { [%clk 0:02:56.2] } 6... Nbd7 { [%clk 0:02:56] }
+7. Be2 { [%clk 0:02:55.7] } 7... e6 { [%clk 0:02:55.1] } 8. O-O
+{ [%clk 0:02:55.2] } 8... Bd6 { [%clk 0:02:54.2] } 9. a3 { [%clk 0:02:53.7] }
+9... Qc7 { [%clk 0:02:53.6] } 10. g3 { [%clk 0:02:51.6] } 10... Rb8
+{ [%clk 0:02:53.2] } 11. b4 { [%clk 0:02:50.2] } 11... h5 { [%clk 0:02:52] }
+12. Bb2 { [%clk 0:02:48.9] } 12... Ke7 { [%clk 0:02:50.5] } 13. Re1
+{ [%clk 0:02:39.7] } 13... h4 { [%clk 0:02:49.8] } 14. d3 { [%clk 0:02:27.4] }
+14... hxg3 { [%clk 0:02:48.8] } 15. fxg3 { [%clk 0:02:16.2] } 15... Bxg3
+{ [%clk 0:02:48.7] } 16. hxg3 { [%clk 0:02:08] } 16... Qxg3+
+{ [%clk 0:02:48.6] } 17. Kf1 { [%clk 0:02:04.8] } 17... Rh1+ { [%clk 0:02:45] }
+0-1
+

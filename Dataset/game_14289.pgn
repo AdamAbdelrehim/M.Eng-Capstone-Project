@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "martylex"]
+[Black "pukitis"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/mM6GYqk5"]
+[WhiteElo "2488"]
+[BlackElo "2548"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:13:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. g3 d5 2. Bg2 e5 3. c3 Nf6 4. d4 e4 5. Bg5 Nbd7 6. Bxf6 h6 7. Bxd8 1-0
+

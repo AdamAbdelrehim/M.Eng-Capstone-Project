@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.06"]
+[Round "-"]
+[White "Frantoti"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1bB1rk1/pppp1ppp/8/2bnP3/Q7/5P2/PP3P1P/RN2KB1R b KQ -"]
+[Timezone "UTC"]
+[ECO "C44"]
+[ECOUrl "https://www.chess.com/openings/Ponziani-Opening"]
+[UTCDate "2021.03.06"]
+[UTCTime "03:14:56"]
+[WhiteElo "1031"]
+[BlackElo "1019"]
+[TimeControl "180"]
+[Termination "Frantoti won by resignation"]
+[StartTime "03:14:56"]
+[EndDate "2021.03.06"]
+[EndTime "03:16:03"]
+[Link "https://www.chess.com/game/live/8739374203"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:02:59.9] } 2. Nf3
+{ [%clk 0:02:59.1] } 2... Nc6 { [%clk 0:02:59.4] } 3. c3 { [%clk 0:02:58.6] }
+3... Bc5 { [%clk 0:02:58.2] } 4. d4 { [%clk 0:02:56.7] } 4... exd4
+{ [%clk 0:02:56.4] } 5. cxd4 { [%clk 0:02:56.6] } 5... Nxd4
+{ [%clk 0:02:54.4] } 6. Qa4 { [%clk 0:02:50.1] } 6... Nxf3+
+{ [%clk 0:02:48.8] } 7. gxf3 { [%clk 0:02:47.1] } 7... Nf6 { [%clk 0:02:41.2] }
+8. Bg5 { [%clk 0:02:35.5] } 8... O-O { [%clk 0:02:37.4] } 9. e5
+{ [%clk 0:02:33] } 9... Nd5 { [%clk 0:02:31.9] } 10. Bxd8 { [%clk 0:02:30] }
+1-0
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ChillNwin"]
+[Black "Leon_Blanco"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/H5cXAu1h"]
+[BlackTitle "NM"]
+[WhiteElo "2571"]
+[BlackElo "2395"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:36:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-3"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 a5 5. Be2 Qb6 6. O-O e6 7. c4 dxc4 8. Nbd2
+Qc7 9. Nxc4 Nd7 10. Ne3 Ne7 11. Bd2 Bg6 12. Rc1 Nd5 13. Nxd5 exd5 14. Nh4 Be7
+15. Nxg6 hxg6 16. f4 Nf8 17. Bg4 Qb6 18. Bc3 Rh4 19. h3 g5 20. Qf3 f6 21. exf6
+Bxf6 22. fxg5 Bxd4+ 23. Kh1 1-0
+

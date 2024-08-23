@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.01.03"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "RodGUINYARD"]
+[Result "0-1"]
+[CurrentPosition "r1b1kbnr/ppp2ppp/2n5/4p3/3qP3/3P4/PP3PPP/RNBQK2R w KQkq -"]
+[Timezone "UTC"]
+[ECO "C40"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Elephant-Gambit"]
+[UTCDate "2022.01.03"]
+[UTCTime "23:07:21"]
+[WhiteElo "1210"]
+[BlackElo "1207"]
+[TimeControl "60"]
+[Termination "RodGUINYARD won by resignation"]
+[StartTime "23:07:21"]
+[EndDate "2022.01.03"]
+[EndTime "23:07:38"]
+[Link "https://www.chess.com/game/live/34990233873"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:58.6] }
+2... d5 { [%clk 0:00:58.8] } 3. Bc4 { [%clk 0:00:58.3] } 3... dxc4
+{ [%clk 0:00:57.8] } 4. d4 { [%clk 0:00:57.9] } 4... cxd3 { [%clk 0:00:56.3] }
+5. Nd4 { [%clk 0:00:57.8] } 5... Qxd4 { [%clk 0:00:52.9] } 6. cxd3
+{ [%clk 0:00:56.5] } 6... Nc6 { [%clk 0:00:50.6] } 0-1
+

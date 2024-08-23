@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "xiaochess"]
+[Black "RoteKampfflieger"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/keyiJvA2"]
+[BlackTitle "IM"]
+[WhiteElo "2851"]
+[BlackElo "2600"]
+[ECO "A16"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Knight Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:56:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-11"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 e5 4. g3 Bg7 5. Bg2 O-O 6. h3 d6 7. Nge2 c6 8. O-O
+Nbd7 9. d4 a6 10. Be3 b5 11. d5 cxd5 12. cxd5 Bb7 13. a3 Rc8 14. Qd2 Nb6 15. b3
+Nfd7 16. Bh6 Nc5 17. Rab1 Qd7 18. Rfc1 a5 19. Nd1 a4 20. bxa4 Ncxa4 21. Bxg7
+Kxg7 22. Ne3 Rxc1+ 23. Rxc1 Nc5 24. Rb1 Ra8 25. Qb4 Nc8 26. Nc3 Na7 27. Kh2 Nd3
+28. Qb3 Nc5 29. Qb2 Ba6 30. Na2 Rc8 31. Nb4 Bb7 32. f4 Na4 33. Qf2 f6 34. Rf1
+Nc5 35. fxe5 fxe5 36. Qf6+ Kg8 37. Ng4 Qg7 38. Qxd6 1-0
+

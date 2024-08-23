@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Tidjane"]
+[Black "lillegutt"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/hYKkUXgE"]
+[WhiteElo "2546"]
+[BlackElo "2404"]
+[ECO "A49"]
+[Opening "Indian Defense: Przepiorka Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:35:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 Bf5 7. Nc3 Ne4 8. Qb3
+Nxc3 9. bxc3 Be4 10. Ng5 Bxg2 11. Kxg2 Qc8 12. Rb1 b6 13. e4 c5 14. Be3 Nc6 15.
+d5 Ne5 16. f4 Ng4 17. Bd2 h6 18. Nf3 e5 19. h3 Nf6 20. fxe5 Nxe4 21. exd6 Qd7
+22. Qc2 f5 23. Rbe1 Rae8 24. Nh4 Qxd6 25. Bf4 Qf6 26. Bc7 Nd6 27. Nf3 f4 28. g4
+Nxc4 29. Qd3 Ne3+ 30. Kf2 Qxc3 31. Qxc3 Bxc3 32. d6 Rc8 33. Re2 Nxf1 34. Kxf1
+Rf7 35. Ne5 Bxe5 36. Rxe5 Rfxc7 37. dxc7 Rxc7 38. Re6 Kg7 39. Re4 0-1
+

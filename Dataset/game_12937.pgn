@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "amrils"]
+[Black "Chuvak1603"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/S2EAI3A2"]
+[WhiteElo "2519"]
+[BlackElo "2504"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Polish Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:35:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. Nf3 b5 2. e4 a6 3. a4 Bb7 4. axb5 axb5 5. Rxa8 Bxa8 6. Bxb5 Bxe4 7. O-O Nf6
+8. Re1 e6 9. Nc3 Bb7 10. d4 Be7 11. Bd3 O-O 12. Ng5 c5 13. dxc5 Bxc5 14. Nxh7
+Bxf2+ 15. Kxf2 Nxh7 16. Qh5 g6 17. Qh6 Nf6 18. h3 d6 19. Bg5 Qb6+ 20. Kf1 Nbd7
+21. b3 Nh5 22. Re3 Qd4 23. Ne2 Qa1+ 24. Kf2 Qh1 25. Be4 Bxe4 26. Rxe4 Ndf6 27.
+Re3 Nd5 28. Rf3 Rc8 29. c4 Nb4 30. Ng3 Nxg3 31. Kxg3 Qe1+ 32. Kh2 Qe5+ 33. Kg1
+Qg7 34. Qxg7+ Kxg7 35. Bf6+ Kg8 36. Rf4 g5 37. Rg4 Kh7 38. Rxg5 Rg8 39. Rxg8
+Kxg8 40. Kf1 Kh7 41. Be7 Kg6 42. Bxd6 1-0
+

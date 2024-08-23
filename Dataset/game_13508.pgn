@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "redtom"]
+[Black "cy_master"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/dgUInEDH"]
+[WhiteElo "2500"]
+[BlackElo "2371"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:50:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. Nf3 c5 2. g3 Nc6 3. Bg2 g6 4. O-O Bg7 5. c3 d5 6. d3 e5 7. e4 d4 8. cxd4
+exd4 9. a3 Nge7 10. b4 cxb4 11. axb4 Nxb4 12. Ba3 Nbc6 13. Nbd2 O-O 14. Nb3 Re8
+15. Qc2 Be6 16. Nc5 Bc8 17. Rfc1 b6 18. Nb3 Bb7 19. Nbd2 Rc8 20. Qa2 h6 21. Nc4
+Na5 22. Nd6 Rxc1+ 23. Rxc1 Rf8 24. e5 Bxf3 25. Bxf3 Bxe5 26. Nb5 Qd7 27. Re1
+Bf6 28. Nd6 Bg7 29. Nxf7 Rxf7 30. Rxe7 Qf5 31. Bd5 Qxd3 32. Rxf7 Qd1+ 33. Kg2
+Kh7 34. Be4 h5 35. Qe6 Qg4 36. Qe7 Kh6 37. Rxg7 Qxe4+ 38. Qxe4 Kxg7 39. Bb2 Kh6
+40. Bxd4 1-0
+

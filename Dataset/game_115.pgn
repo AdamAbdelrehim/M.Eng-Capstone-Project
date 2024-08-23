@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "eltactico62"]
+[Black "fsalguero"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/GJuTV7CZ"]
+[BlackTitle "FM"]
+[WhiteElo "2467"]
+[BlackElo "2502"]
+[ECO "A48"]
+[Opening "Torre Attack: Fianchetto Defense, Euwe Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "00:43:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 c5 5. Bxf6 Bxf6 6. Ne4 Bxd4 7. Nxd4 cxd4
+8. Qxd4 O-O 9. O-O-O Nc6 10. Qd2 d5 11. Qxd5 Qc7 12. e3 Rd8 13. Qg5 Rxd1+ 14.
+Kxd1 Bf5 15. Nc3 Rd8+ 16. Kc1 Nb4 17. e4 Bxe4 18. a3 Na2+ 19. Kb1 Nxc3+ 20.
+bxc3 Qxc3 21. Qc1 Rd2 22. Bd3 Bxd3 0-1
+

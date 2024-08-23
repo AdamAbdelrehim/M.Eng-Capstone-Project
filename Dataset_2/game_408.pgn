@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.16"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "TeresMajor"]
+[Result "1-0"]
+[CurrentPosition "rnbqkbnr/p4Qpp/2p5/1p2p3/2B5/8/PPP2PPP/RNB2RK1 b kq -"]
+[Timezone "UTC"]
+[ECO "B12"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-2.d4-d5-3.Nf3"]
+[UTCDate "2021.02.16"]
+[UTCTime "07:14:18"]
+[WhiteElo "628"]
+[BlackElo "599"]
+[TimeControl "60"]
+[Termination "AdamAbdelrehim won by checkmate"]
+[StartTime "07:14:18"]
+[EndDate "2021.02.16"]
+[EndTime "07:14:42"]
+[Link "https://www.chess.com/game/live/6573649261"]
+
+1. e4 { [%clk 0:01:00] } 1... c6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.7] }
+2... d5 { [%clk 0:00:59.6] } 3. d4 { [%clk 0:00:58.9] } 3... dxe4
+{ [%clk 0:00:57.9] } 4. Qe2 { [%clk 0:00:58.4] } 4... exf3 { [%clk 0:00:57.1] }
+5. Qxf3 { [%clk 0:00:57.6] } 5... f6 { [%clk 0:00:52.2] } 6. Bc4
+{ [%clk 0:00:56.9] } 6... e5 { [%clk 0:00:51.5] } 7. dxe5 { [%clk 0:00:55.1] }
+7... fxe5 { [%clk 0:00:50.3] } 8. O-O { [%clk 0:00:54.2] } 8... b5
+{ [%clk 0:00:47.7] } 9. Qf7# { [%clk 0:00:53.5] } 1-0
+

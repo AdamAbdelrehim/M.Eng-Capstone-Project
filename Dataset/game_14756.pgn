@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Neftegor"]
+[Black "whiteboader"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/au0rLsFf"]
+[WhiteElo "2545"]
+[BlackElo "2610"]
+[ECO "A41"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:02:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+
+1. d4 d6 2. Nf3 h6 3. c4 a6 4. Nc3 g6 5. g3 Nd7 6. Bg2 Bg7 7. O-O Ngf6 8. e4 e5
+9. Re1 O-O 10. h3 c6 11. Be3 Qc7 12. Rc1 Re8 13. c5 exd4 14. cxd6 Qxd6 15. Nxd4
+Qf8 16. f4 Rb8 17. e5 Nh7 18. Qc2 Kh8 19. Ne4 f6 20. Nd6 fxe5 21. Nxe8 exd4 22.
+Nxg7 Qxg7 23. Bf2 c5 24. Re8+ Nhf8 25. Rce1 b6 26. R1e7 Qf6 27. Qe2 b5 28. Bd5
+c4 29. Rf7 d3 30. Qe4 d2 31. Qe2 Qxb2 32. Rfxf8+ Nxf8 33. Rxf8+ Kh7 34. Qe7+
+Qg7 35. Bg8+ Kh8 36. Bxc4+ Kh7 37. Bg8+ Kh8 38. Bb3+ Kh7 39. Rf7 1-0
+

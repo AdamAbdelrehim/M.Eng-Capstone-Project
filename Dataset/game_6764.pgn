@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Alex_lucky"]
+[Black "Lezgi_cat"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/1d4x4byK"]
+[WhiteTitle "IM"]
+[WhiteElo "2557"]
+[BlackElo "2371"]
+[ECO "C00"]
+[Opening "French Defense: King's Indian Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:19:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 e6 2. d3 d5 3. Nd2 c5 4. Ngf3 Nc6 5. g3 g6 6. Bg2 Bg7 7. O-O Nge7 8. Re1
+O-O 9. c3 b6 10. e5 Bb7 11. Nf1 Qd7 12. h4 d4 13. c4 a6 14. N1h2 b5 15. b3 h5
+16. g4 hxg4 17. Nxg4 Nf5 18. Bg5 Rfc8 19. h5 gxh5 20. Nf6+ Bxf6 21. Bxf6 Nce7
+22. Ng5 Ng7 23. Bxg7 Kxg7 24. Qxh5 Ng6 25. Qh7+ Kf8 26. Bxb7 1-0
+

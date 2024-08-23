@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "GuilleRosario"]
+[Black "abking1971"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/TQ4u9mEb"]
+[WhiteElo "2565"]
+[BlackElo "2557"]
+[ECO "A57"]
+[Opening "Benko Gambit Accepted: Pawn Return Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:33:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 g6 6. Nc3 Bg7 7. e4 d6 8. Nf3 O-O
+9. Nd2 Nbd7 10. Be2 a5 11. O-O a4 12. Re1 a3 13. Rb1 axb2 14. Bxb2 Nxb6 15. Bb5
+Ba6 16. a4 Nfd7 17. Bc6 Rb8 18. Nb5 Ne5 19. Qc2 Qc8 20. Bxe5 Bxe5 21. Nf3 Bg7
+22. e5 dxe5 23. Nxe5 Rd8 24. Qe4 Bxb5 25. axb5 Qc7 26. f4 Kf8 27. h4 Qd6 28.
+Red1 h5 29. Ra1 c4 30. Ra6 Qc5+ 31. Kh1 c3 32. f5 c2 33. Rc1 Nxd5 34. fxg6 Nf6
+35. Qf5 e6 36. Qf4 Rd1+ 37. Kh2 Rxc1 38. gxf7 Qxe5 39. Qxe5 Ng4+ 40. Kg3 Bxe5+
+41. Kf3 Rf1+ 42. Ke4 c1=Q 43. Ra8 Qf4+ 44. Kd3 Rd1+ 45. Kc2 Qd2+ 46. Kb3 Qc3+
+47. Ka4 Ra1# 0-1
+

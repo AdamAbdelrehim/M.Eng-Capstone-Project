@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "FRA_DAVOUST_Nicolas"]
+[Black "savitar088"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/4Z9Mi81g"]
+[WhiteElo "2411"]
+[BlackElo "2588"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:19:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-8"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Bg4 5. c3 Nc6 6. Bd3 e6 7. O-O Bd6 8. h3
+Bh5 9. Re1 Qc7 10. Nbd2 Nge7 11. b3 f6 12. Bb2 Bf7 13. Qc2 h5 14. a3 g5 15. Kh1
+g4 16. Ng1 O-O-O 17. c4 Rdg8 18. b4 dxc4 19. Nxc4 Kb8 20. b5 Nd8 21. Nxd6 Qxd6
+22. Rec1 Bg6 23. Bxg6 Rxg6 24. a4 Qd7 25. Ba3 Nf7 26. Bxe7 Rhg8 27. Qc5 gxh3
+28. Nxh3 Rxg2 29. Bxf6 e5 30. Bxe5+ Ka8 31. Rc3 Qg4 32. Qd5 Nxe5 33. dxe5 Qg7
+34. Rac1 1-0
+

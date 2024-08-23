@@ -1,0 +1,45 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Nikitosikbot_v2"]
+[Black "Hoon_Bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/gpk5RxVT"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3031"]
+[BlackElo "2885"]
+[ECO "C00"]
+[Opening "Rat Defense: Small Center Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:25:39"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. e4 e6 2. d4 d6 3. Nf3 Be7 4. Bd3 Nd7 5. O-O e5 6. c4 Bf6 7. Be3 Ne7 8. Nc3
+O-O 9. d5 a5 10. Bc2 Ng6 11. g3 Nb6 12. Bxb6 cxb6 13. Kg2 Qd7 14. Ng1 Qd8 15.
+Qd3 Bd7 16. Ba4 Bc8 17. Nb5 Bg5 18. Bc2 Be7 19. Ne2 f5 20. exf5 Bxf5 21. Qxf5
+Rxf5 22. Bxf5 Nf8 23. f4 g6 24. Bg4 h5 25. Bh3 Nd7 26. Be6+ Kg7 27. f5 g5 28.
+h3 Nf6 29. Nec3 a4 30. Rac1 Qh8 31. Rc2 g4 32. h4 Qe8 33. Nc7 Qd8 34. N7b5 Qh8
+35. Re1 Qe8 36. Nc7 Qd8 37. N7b5 Qe8 38. Rf2 Qd8 39. Rc1 Qh8 40. Rcc2 Qd8 41.
+Kh2 Qh8 42. Nc7 Qd8 43. N7b5 Qb8 44. Rc1 Qd8 45. a3 Qe8 46. Re1 Qd8 47. Kg2 Qf8
+48. Nc7 Qd8 49. N7b5 Qf8 50. Kh2 Qb8 51. Ref1 Qe8 52. Re1 Qd8 53. Ree2 Kh6 54.
+Rc2 Kg7 55. Rce2 Kh7 56. Re3 Kh6 57. Ree2 Kg7 58. Rc2 Qe8 59. Rce2 Qb8 60. Kg2
+Qd8 61. Kf1 Kh7 62. Kg2 Kh6 63. Kh2 Kh7 64. Kh1 Kg7 65. Kg2 Kh7 66. Kg1 Kh6 67.
+Kf1 Kh7 68. Kg2 Kh6 69. Rc2 Qe8 70. Kh2 Kg7 71. Rce2 Qd8 72. Kg1 Qb8 73. Kg2
+Qd8 74. Kg1 Bf8 75. Rc2 Be7 76. Kg2 Qe8 77. Nc7 Qd8 78. N7b5 Qe8 79. Kh2 Qd8
+80. Rc1 Qh8 81. Nc7 Qb8 82. N7b5 Qh8 83. Re2 Qe8 84. Nc7 Qb8 85. Nxa8 Qxa8 86.
+Nb5 Bf8 87. Rcc2 Qd8 88. Re1 Be7 89. Re3 Kh7 90. Rce2 Bf8 91. Rc3 Be7 92. Rcc2
+Bf8 93. Nc3 Be7 94. Nxa4 b5 95. cxb5 Qa5 96. Nc3 Kg7 97. Bc8 Qb6 98. a4 Qa5 99.
+Be6 Qb4 100. Na2 Qxa4 101. Rc7 Kf8 102. Nc3 Qa7 103. Rc8+ Kg7 104. Nd1 Qb6 105.
+Ne3 Kh6 106. Ng2 Bd8 107. Rec2 Ne4 108. Re2 Nf6 109. Re3 Kg7 110. Re1 Be7 111.
+Ra1 Bd8 112. Raa8 Be7 113. Rcb8 Kh6 114. Ra6 Qf2 115. Raa8 Qb6 116. Ra6 Qf2
+117. Ra4 Qb6 118. Raa8 e4 119. Ra6 Qf2 120. Ra3 Qb6 121. Rc3 e3 122. Rxe3 Bd8
+123. b4 Qc7 124. Ra8 Kg7 125. Re1 Kh7 126. Re2 Qc4 127. Nf4 Qc7 128. Rc8 Qb6
+129. Kg2 Kg7 130. Bd7 Kf7 131. Ne6 Ke7 132. Bc6 bxc6 133. dxc6 Nd5 134. Nf4+
+Kf7 135. Nxd5 Qxb5 136. Nf4 Qb6 137. Kh2 d5 138. c7 Bxc7 139. Re7+ Kxe7 140.
+Nxd5+ 1-0
+

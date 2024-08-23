@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.24"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Antholiocha"]
+[Result "1-0"]
+[CurrentPosition "rnb4r/pp2kppp/4pn2/1B2N3/4p3/2N1P3/PPP3PP/R3K2R b KQ -"]
+[Timezone "UTC"]
+[ECO "B40"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Marshall-Counterattack"]
+[UTCDate "2022.03.24"]
+[UTCTime "08:46:43"]
+[WhiteElo "1498"]
+[BlackElo "1546"]
+[TimeControl "60"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "08:46:43"]
+[EndDate "2022.03.24"]
+[EndTime "08:47:09"]
+[Link "https://www.chess.com/game/live/41850589137"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.6] }
+2... e6 { [%clk 0:00:59.5] } 3. d4 { [%clk 0:00:59.2] } 3... d5
+{ [%clk 0:00:59.4] } 4. dxc5 { [%clk 0:00:58.4] } 4... Bxc5
+{ [%clk 0:00:58.5] } 5. Nc3 { [%clk 0:00:56.9] } 5... dxe4 { [%clk 0:00:57.6] }
+6. Qxd8+ { [%clk 0:00:55.9] } 6... Kxd8 { [%clk 0:00:54] } 7. Ne5
+{ [%clk 0:00:55.8] } 7... Ke7 { [%clk 0:00:52.3] } 8. Be3 { [%clk 0:00:52.8] }
+8... Bxe3 { [%clk 0:00:51.1] } 9. fxe3 { [%clk 0:00:52.7] } 9... Nf6
+{ [%clk 0:00:50.4] } 10. Bb5 { [%clk 0:00:50.6] } 1-0
+

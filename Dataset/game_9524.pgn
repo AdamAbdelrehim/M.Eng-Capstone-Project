@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "xurramid77"]
+[Black "skat-e"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/PchGPbcQ"]
+[WhiteElo "2560"]
+[BlackElo "2459"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:16:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 Nc6 5. Bb5 a6 6. Ba4 b5 7. Bc2 d6 8. exd6
+Qxd6 9. h3 e6 10. O-O Be7 11. d4 O-O 12. dxc5 Qxc5 13. Qe2 Bb7 14. Nbd2 Nf4 15.
+Qe4 Ng6 16. Nb3 Qh5 17. Re1 Nb4 18. Qe2 Nxc2 19. Qxc2 Bxf3 20. gxf3 Nh4 21. Nd4
+e5 22. Qe4 exd4 23. Qxe7 Rae8 24. Qxf8+ Rxf8 25. Re4 Nxf3+ 26. Kg2 Ng5 27. Rg4
+Qxh3+ 28. Kg1 Qxg4+ 29. Kf1 Re8 30. cxd4 Qh3+ 31. Kg1 Nf3# 0-1
+

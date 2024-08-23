@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Dmitrij_Osetrov"]
+[Black "Arthas_tsalb"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/TtivrDqN"]
+[WhiteElo "2506"]
+[BlackElo "2599"]
+[ECO "A57"]
+[Opening "Benko Gambit Accepted: Modern Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:13:39"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. a4 O-O 8. Nf3 Bb7
+9. e4 e6 10. Be2 exd5 11. exd5 axb5 12. Bxb5 Re8+ 13. Be2 Na6 14. O-O d6 15.
+Bb5 Re7 16. Bg5 h6 17. Bh4 Nb4 18. Bc4 g5 19. Bg3 Ne4 20. Nxe4 Rxe4 21. Nd2 Rd4
+22. Qc1 Bxd5 23. Be2 f5 24. f4 g4 25. Bf2 Rxf4 26. g3 Rxf2 27. Kxf2 Bd4+ 28.
+Ke1 Qe7 29. Kd1 Qf6 30. Rb1 h5 31. Bc4 Bxc4 32. Nxc4 d5 33. Ne3 Bxe3 34. Qxe3
+Rxa4 35. Qxc5 Nc6 36. b3 Rd4+ 37. Kc2 Nb4+ 38. Kb2 Rc4+ 39. Ka3 Rxc5 40. Kxb4
+Qc3+ 0-1
+

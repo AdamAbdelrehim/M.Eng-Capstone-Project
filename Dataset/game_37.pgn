@@ -1,0 +1,40 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Nikitosikbot_v2"]
+[Black "caissa-x"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/mmu21Qme"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3020"]
+[BlackElo "3046"]
+[ECO "C83"]
+[Opening "Ruy Lopez: Open, Classical Defense"]
+[TimeControl "600+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "00:12:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Nbd2 Nc5 11. Bc2 d4 12. Nb3 d3 13. Bb1 Nxb3 14. axb3 Bf5 15.
+b4 O-O 16. Bf4 Qd7 17. Re1 Rfd8 18. h3 a5 19. bxa5 Rxa5 20. Rxa5 Nxa5 21. Nd4
+g5 22. Ba2 Nc4 23. Bd2 h6 24. Qf3 Be6 25. Bxc4 bxc4 26. Nc6 Re8 27. Nxe7+ Qxe7
+28. Qh5 Qf8 29. h4 Rb8 30. Rb1 Qg7 31. hxg5 hxg5 32. Bxg5 Qxe5 33. Qh4 Rb5 34.
+Be3 Qh8 35. Qd8+ Kh7 36. Qh4+ Kg8 37. Qg3+ Qg7 38. Qxc7 Rh5 39. f3 Kh7 40. Bf4
+Qf8 41. Be3 Qg7 42. Ra1 Qe5 43. Qxe5 Rxe5 44. Kf2 Rb5 45. Ra2 Kg6 46. g4 Kf6
+47. Kg3 Rd5 48. Ra1 Rd8 49. Bd2 Rb8 50. Bc1 Rh8 51. Bf4 Ke7 52. Ra7+ Kf6 53.
+Be3 Re8 54. Kf4 Rb8 55. Bd4+ Kg6 56. Ra2 f6 57. Be3 Rb7 58. Ra6 Kf7 59. Bc1 Re7
+60. Ra5 Re8 61. Be3 Rb8 62. Ra2 Bd5 63. Ra5 Ke6 64. Ra6+ Kf7 65. Bc1 Re8 66.
+Ra7+ Kg6 67. Be3 Be6 68. Ra6 Kf7 69. Ra7+ Kg6 70. Ra6 Kf7 71. Ra1 Re7 72. Ra4
+Kg7 73. Ra6 Kf7 74. Ra1 Rb7 75. Ra2 Bd5 76. Ra5 Be6 77. Ra2 Bd5 78. Ra5 Rd7 79.
+Ra1 Be6 80. Kg3 Rb7 81. Ra2 Rd7 82. Ra1 Rb7 83. Ra2 Re7 84. Kf4 Rd7 85. Ra1 Bd5
+86. Ra4 Re7 87. Rb4 Kg7 88. Rb6 Kf7 89. Rd6 Be6 90. Rb6 Bd5 91. Rd6 Re5 92.
+Rd7+ Ke6 93. Ra7 Kd6 94. Ra6+ Ke7 95. Ra7+ Kd6 96. Ra6+ Ke7 97. Rb6 Be6 98.
+Rb7+ Kd6 99. Rb6+ Ke7 100. Rb4 Ke8 101. b3 cxb3 102. c4 Rc5 103. Rxb3 Rxc4+
+104. Kg3 Rxg4+ 105. fxg4 Bxb3 106. g5 d2 107. Bxd2 fxg5 108. Bf4 gxf4+ 109. Kf3
+Kd7 110. Kg4 Kd6 111. Kxf4 1/2-1/2
+

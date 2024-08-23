@@ -1,0 +1,33 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "odonata-bot"]
+[Black "caissa-x"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/MGlzrfx2"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2725"]
+[BlackElo "3032"]
+[ECO "C89"]
+[Opening "Ruy Lopez: Marshall Attack, Modern Main Line"]
+[TimeControl "900+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:54:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Qh4 14. g3 Qh3 15.
+Re4 g5 16. Qf1 Qh5 17. Nd2 f5 18. Re1 f4 19. Bd1 Qh6 20. Ne4 Bc7 21. a4 Bf5 22.
+Nc5 Bh3 23. Qe2 f3 24. Qd2 Rf5 25. Ne4 Qh5 26. axb5 Nf4 27. gxf4 gxf4 28. Ng3
+fxg3 29. fxg3 f2+ 30. Qxf2 Qg6 31. Bb3+ Kh8 32. Bc2 Rxf2 33. Bxg6 Rg2+ 34. Kh1
+hxg6 35. Re4 Bd8 36. Re8+ Kg7 37. bxc6 Rc2 38. c7 Bxc7 39. Re7+ Kf8 40. Rxc7
+Re8 41. Bf4 Ree2 42. g4 Bg2+ 43. Kg1 Be4 44. Bd6+ Kg8 45. Rc8+ Kh7 46. Rc7+ Kh6
+47. Bf4+ g5 48. Rxa6+ Bg6 49. Bd2 Rexd2 50. Rf6 Rg2+ 51. Kf1 Rxh2 52. Kg1 Rcg2+
+53. Kf1 Rxb2 54. Kg1 Rhg2+ 55. Kf1 Rxg4 56. Rcc6 Rf4+ 57. Kg1 Rxf6 58. Rxf6 g4
+59. d5 Kg5 60. Rf8 Bf5 61. Kf1 g3 62. d6 Kg4 63. d7 Bxd7 64. Ra8 g2+ 65. Kg1
+Kg3 66. Ra1 Bg4 67. Rc1 Bf3 68. Ra1 Rb6 69. Re1 Rh6 70. c4 Rh1# 0-1
+

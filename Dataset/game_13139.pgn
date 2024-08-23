@@ -1,0 +1,36 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "odonata-bot"]
+[Black "ChessatronBot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/MycbFy0F"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2634"]
+[BlackElo "2443"]
+[ECO "C95"]
+[Opening "Ruy Lopez: Closed, Breyer Defense"]
+[TimeControl "60+3"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:00:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nb8 10. d4 Nbd7 11. Nbd2 Bb7 12. Bc2 c5 13. d5 c4 14. Nf1 a5 15. Be3
+Rc8 16. Qd2 a4 17. Ng3 Nc5 18. Nh2 Re8 19. f3 g6 20. Ng4 Nxg4 21. hxg4 Bh4 22.
+Kh2 Qc7 23. Rh1 Qa5 24. g5 f6 25. gxf6 Bxf6 26. b4 cxb3 27. axb3 Qc7 28. bxa4
+Nxa4 29. Bxa4 bxa4 30. Rxa4 Qxc3 31. Ra7 Qb3 32. Bh6 Ra8 33. Rha1 Rxa7 34. Rxa7
+Rc8 35. Qa5 Bd8 36. Qa1 Rc2 37. Ra8 Rc8 38. Ra2 Rc2 39. Ra8 Rc8 40. Ra2 Rc2 41.
+Rxc2 Qxc2 42. Qa3 Qc7 43. Nf1 Qe7 44. Kg1 Bb6+ 45. Be3 Qd8 46. Qb4 Bxe3+ 47.
+Nxe3 Ba6 48. Qa4 Be2 49. Qb4 h5 50. Kf2 Bd3 51. Kg1 Qc7 52. Kh2 Kg7 53. Nd1 Qe7
+54. Nf2 Be2 55. Nh3 Ba6 56. Qb8 Kf7 57. Nf2 Be2 58. Qb6 Bc4 59. Nh3 Kg7 60. Nf2
+Qd7 61. Qb2 Qa7 62. Nh3 Qe7 63. Qb8 Ba6 64. Kg1 Bc4 65. Nf2 Be2 66. Qb2 Bc4 67.
+Kh2 Kf7 68. Qb6 Kg7 69. Kg1 Be2 70. Qb8 Ba6 71. Kh2 Bf1 72. Qb1 Be2 73. Qb2 Ba6
+74. Qb8 Kf7 75. Kg1 Be2 76. Kh2 Bc4 77. Qb2 Ba6 78. Qb8 Kg7 79. Nh3 Be2 80. Qb6
+Bd3 81. Kg1 Be2 82. Kh2 Kg8 83. Qa5 Kh7 84. Qb6 Kg8 85. Qa5 Kh7 86. Qb6 Kg8
+1/2-1/2
+

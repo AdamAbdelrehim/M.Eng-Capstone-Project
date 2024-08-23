@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Game_Bro_Thers"]
+[Black "LastOfTheMohicans_89"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/vWCu2MKX"]
+[BlackTitle "FM"]
+[WhiteElo "2460"]
+[BlackElo "2516"]
+[ECO "C05"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:30:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 e6 2. d4 d5 3. Bd3 Nf6 4. e5 Nfd7 5. c3 c5 6. Nd2 Nc6 7. c4 cxd4 8. cxd5
+Ndxe5 9. Nc4 Nxd3+ 10. Qxd3 Qxd5 11. Nf3 Bb4+ 12. Bd2 Bxd2+ 13. Kxd2 b5 14. Na3
+a6 15. Nc2 e5 16. Rhe1 O-O 17. Re2 f6 18. Rae1 Bg4 0-1
+

@@ -1,0 +1,37 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "jpg-bot"]
+[Black "Lynx_BOT"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/dUBvN0Py"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2320"]
+[BlackElo "2568"]
+[ECO "C41"]
+[Opening "Philidor Defense: Nimzowitsch Variation"]
+[TimeControl "600+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:24:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. dxe5 Nxe4 5. Bc4 Nc5 6. O-O Be7 7. Nc3 Be6 8.
+exd6 Qxd6 9. Qe2 O-O 10. Be3 Bxc4 11. Qxc4 Qa6 12. Nd2 Qxc4 13. Nxc4 Nc6 14.
+Nd5 Ne6 15. Rad1 Rfe8 16. f4 b5 17. f5 Nf8 18. Na3 Rab8 19. Nxb5 Rxb5 20. Nxc7
+Re5 21. Nxe8 Rxe3 22. Nd6 Re5 23. Rf4 Rc5 24. c3 Ne5 25. Ra4 Rc7 26. Rad4 f6
+27. h3 Bxd6 28. Rxd6 Nc4 29. Rd8 Nxb2 30. Rb1 Nc4 31. Rbb8 Rf7 32. Kf2 g6 33.
+fxg6 hxg6 34. Rdc8 Nd6 35. Rc6 Ne4+ 36. Kf3 Ng5+ 37. Kf4 Kg7 38. Re8 Rd7 39.
+Ke3 Kf7 40. Rcc8 Nfe6 41. h4 Nh7 42. Ra8 f5 43. Ke2 Nf6 44. Rh8 Kg7 45. Rhc8
+Ne4 46. Ke3 Kf7 47. Rc6 Nc7 48. Rc8 Nd5+ 49. Kf3 Ne7 50. R6c7 Rd3+ 51. Ke2 Rd2+
+52. Ke3 Rxg2 53. Rh8 Nf6 54. Rxa7 Rc2 55. Kd3 Rh2 56. c4 f4 57. Rc8 f3 58. Rcc7
+Re2 59. Rxe7+ Rxe7 60. Rxe7+ Kxe7 61. Ke3 Ne4 62. Kxf3 Nd2+ 63. Kf4 Nxc4 64. a4
+Kf6 65. Ke4 Ke6 66. Kd4 Nb6 67. a5 Nd7 68. a6 Nb8 69. a7 Nc6+ 70. Ke3 Nxa7 71.
+Kf3 Kf5 72. Kg3 Nc8 73. Kf3 Nd6 74. Kg3 Ne4+ 75. Kf3 Nf6 76. Kg3 Ke4 77. Kh3
+Kf4 78. Kg2 Kg4 79. Kf2 Kxh4 80. Ke3 Kg4 81. Kf2 g5 82. Ke3 Kf5 83. Kd4 g4 84.
+Ke3 Ne4 85. Kd4 g3 86. Kd5 g2 87. Kc6 g1=Q 88. Kb7 Qc5 89. Ka6 Ke6 90. Kb7 Nd6+
+91. Ka6 Qc6+ 92. Ka5 Qb5# 0-1
+

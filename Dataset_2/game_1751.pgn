@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.13"]
+[Round "-"]
+[White "CPaPossible"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r4rk1/pp1qbppp/2npbn2/2p1pP2/2P1P3/2NP2P1/PP2N1BP/R1BQ1RK1 b - -"]
+[Timezone "UTC"]
+[ECO "B20"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Staunton-Cochrane-Variation-2...d6-3.Nc3-Nc6-4.g3"]
+[UTCDate "2021.08.13"]
+[UTCTime "20:09:59"]
+[WhiteElo "1600"]
+[BlackElo "1600"]
+[TimeControl "600"]
+[Termination "CPaPossible won by resignation"]
+[StartTime "20:09:59"]
+[EndDate "2021.08.13"]
+[EndTime "20:11:33"]
+[Link "https://www.chess.com/game/live/22624275905"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:09:59.9] } 2. c4
+{ [%clk 0:09:58.9] } 2... d6 { [%clk 0:09:57.2] } 3. Nc3 { [%clk 0:09:58.2] }
+3... Nc6 { [%clk 0:09:53.3] } 4. g3 { [%clk 0:09:57.2] } 4... Nf6
+{ [%clk 0:09:52] } 5. Bg2 { [%clk 0:09:56.4] } 5... e5 { [%clk 0:09:30.3] } 6.
+Nge2 { [%clk 0:09:54] } 6... Be7 { [%clk 0:09:26.2] } 7. O-O { [%clk 0:09:52] }
+7... O-O { [%clk 0:09:25.1] } 8. d3 { [%clk 0:09:50.9] } 8... Be6
+{ [%clk 0:09:16.4] } 9. f4 { [%clk 0:09:48.9] } 9... Qd7 { [%clk 0:09:03.8] }
+10. f5 { [%clk 0:09:43.2] } 1-0
+

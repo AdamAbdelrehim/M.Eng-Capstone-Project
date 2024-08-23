@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "LavaLava"]
+[Black "MightBeDecent"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/aLJL4cbF"]
+[WhiteElo "2582"]
+[BlackElo "2614"]
+[ECO "D71"]
+[Opening "Neo-Grünfeld Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:44:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d5 5. cxd5 Nxd5 6. e4 Nb6 7. Ne2 O-O 8. O-O
+Nc6 9. d5 Na5 10. Qc2 c6 11. Nbc3 cxd5 12. exd5 Nac4 13. Rd1 Nd6 14. Nd4 Bd7
+15. Bf4 Nbc8 16. Qb3 Nf5 17. Nxf5 Bxf5 18. Qxb7 Nd6 19. Qa6 Qc8 20. Bf1 Rb8 21.
+Rd2 Qxa6 22. Bxa6 Rb6 23. Bf1 Rfb8 24. Bxd6 exd6 25. Bd3 Bxd3 26. Rxd3 Rxb2 27.
+Ne4 Re2 0-1
+

@@ -1,0 +1,28 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "InanisBot"]
+[Black "ELO_1500"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/fXh1ZXLK"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2507"]
+[BlackElo "2964"]
+[ECO "B92"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+[TimeControl "600+5"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:17:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+0"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be6 8. Be3
+Nbd7 9. f4 exf4 10. Bxf4 Ne5 11. Nd4 Be7 12. Nxe6 fxe6 13. Qd4 Nfd7 14. O-O-O
+O-O 15. Rhf1 b5 16. Bg3 Re8 17. Kb1 Qc7 18. h3 Rab8 19. a3 Nc5 20. Qd2 b4 21.
+axb4 Rxb4 22. Nd5 Rxb2+ 23. Kxb2 exd5 24. Qxd5+ Kh8 25. Be1 Na4+ 26. Kb3 Rb8+
+27. Ka3 Qxc2 28. Bd3 Qb2+ 29. Kxa4 Nd7 30. Rf8+ Bxf8 31. Qg8+ Kxg8 32. Bc4+ d5
+33. Bxd5+ Kh8 34. Bb4 Qxb4# 0-1
+

@@ -1,0 +1,27 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "LozadaClark0"]
+[Black "OrpChachs"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/nM8VUccU"]
+[WhiteElo "2540"]
+[BlackElo "2558"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:53:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-10"]
+
+1. f4 c6 2. e4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. d3 Nxe4 6. dxe4 Qxd1+ 7. Kxd1 Bg4+
+8. Be2 Bxe2+ 9. Kxe2 g6 10. Nf3 Bg7 11. Be3 Nd7 12. Rad1 Nb6 13. b3 Rd8 14.
+Rxd8+ Kxd8 15. Rd1+ Kc7 16. Ng5 h6 17. Nxf7 Rf8 18. Ne5 Bxe5 19. fxe5 g5 20.
+Bxb6+ axb6 21. e6 Re8 22. Rd7+ Kc8 23. a4 Kb8 24. Kf3 h5 25. Ke3 c5 26. e5 Ka7
+27. Ke4 g4 28. Kf5 h4 29. Kxg4 Rg8+ 30. Kxh4 Rxg2 31. Rxe7 Re2 32. Kg4 Rxe5 33.
+h4 Re4+ 34. Kg5 Re5+ 35. Kg6 Kb8 36. h5 Re2 37. h6 Rxc2 38. h7 Rg2+ 39. Kf7 Rh2
+40. Re8+ Kc7 41. h8=Q Rf2+ 42. Ke7 c4 43. Rc8# 1-0
+

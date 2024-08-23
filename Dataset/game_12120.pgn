@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Fearless_g4"]
+[Black "AMR25"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/tKqs04tC"]
+[WhiteElo "2425"]
+[BlackElo "2606"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:42:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 c6 7. O-O O-O 8. Qc2
+Nbd7 9. Rd1 b6 10. Bf4 Ba6 11. Ne5 Nxe5 12. dxe5 Ng4 13. h3 Nxf2 14. Kxf2 Bc5+
+15. Kf1 f6 16. exf6 Qxf6 17. cxd5 exd5 18. Bf3 g5 19. Qa4 Bb5 20. Qc2 gxf4 21.
+a4 Ba6 22. Kg2 Qg5 23. Bg4 fxg3 24. Nc3 Rf2+ 25. Kxg3 Qf4+ 26. Kh4 Be7+ 27. Kh5
+Qg5# 0-1
+

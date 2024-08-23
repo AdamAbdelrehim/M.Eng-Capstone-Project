@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "playingsomerapid"]
+[Black "firegus16"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/WgPvThxh"]
+[WhiteElo "2493"]
+[BlackElo "2515"]
+[ECO "A61"]
+[Opening "Benoni Defense: Knight's Tour Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "00:37:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 a6 10. a4 Re8 11. O-O Nbd7 12. h3 Rb8 13. Ra3 Qc7 14. Ra2 h6 15. b3
+g5 16. Rc2 Ne5 17. Nc4 Nxc4 18. Bxc4 Bd7 19. f4 gxf4 20. Rxf4 b5 21. axb5 axb5
+22. Bd3 b4 23. Ne2 Bb5 24. Bb2 Bxd3 25. Qxd3 Qe7 26. Ng3 Qd7 27. Nf5 Nh5 28.
+Rg4 Re5 29. Nxg7 Nxg7 30. Bxe5 dxe5 31. Qg3 f6 32. Kh2 Rf8 33. Rxc5 Kh7 34. d6
+Ne6 35. Ra5 Rf7 36. Qf3 Ng7 37. Ra6 h5 38. Rg3 Qe6 39. Qd3 Rd7 40. Rc6 Kh6 41.
+Qd2+ Kh7 42. Qd1 Ne8 43. Qxh5# 1-0
+

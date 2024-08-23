@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "RavenEngine"]
+[Black "AKS-Mantissa"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Bxw5hR3A"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2512"]
+[BlackElo "2730"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+[TimeControl "300+3"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:23:52"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
+Nbd7 9. g4 Be7 10. Qd2 O-O 11. O-O-O b5 12. g5 Nh5 13. Kb1 Nb6 14. Na5 Rc8 15.
+a3 Kh8 16. Qf2 Nd7 17. Nb3 Rxc3 18. bxc3 Qc7 19. h4 Nf4 20. Rh2 Rb8 21. Qd2 Nb6
+22. Bxf4 exf4 23. Qe1 Na4 24. Rd4 Nxc3+ 25. Kb2 Rc8 26. Rg2 a5 27. Rh2 d5 28.
+exd5 Qd6 29. Qa1 Bxd5 30. Rhd2 a4 31. Bh3 Rc7 32. Nc1 Qe5 33. Bf1 h6 34. Ne2 b4
+35. Kc1 Bxf3 36. axb4 Bxe2 37. Bxe2 Nxe2+ 38. Kb1 Kh7 39. R2d3 Nxd4 0-1
+

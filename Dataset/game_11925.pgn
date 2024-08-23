@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "PFC_MMR03"]
+[Black "positionaloldman"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/7vzoXkkg"]
+[WhiteElo "2473"]
+[BlackElo "2559"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:17:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 c5 4. c3 cxd4 5. cxd4 Nc6 6. Nc3 a6 7. Nf3 Bg4 8. Be2
+Bxf3 9. Bxf3 e6 10. O-O Bd6 11. Bg3 O-O 12. a3 Rc8 13. Na4 Bxg3 14. hxg3 Nd7
+15. b4 Ne7 16. Nc5 Rc7 17. Rc1 Nf5 18. Qd2 Nd6 19. Be2 Nb6 20. Bd3 Nbc4 21. Qa2
+Qe7 22. Rc2 Rfc8 23. Rfc1 g6 24. a4 h5 25. b5 axb5 26. axb5 h4 27. gxh4 Qxh4
+28. Ra1 Kg7 29. g3 Qh3 30. Bf1 Qf5 31. Bg2 Nxb5 32. Qb3 Nbd6 33. Nd3 Na5 0-1
+

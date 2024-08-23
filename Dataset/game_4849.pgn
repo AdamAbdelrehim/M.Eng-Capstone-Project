@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "yipuko"]
+[Black "JoaoAfonso"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/cEKTyhPu"]
+[WhiteElo "2514"]
+[BlackElo "2540"]
+[ECO "C22"]
+[Opening "Center Game: Berger Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:01:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "-20"]
+[BlackRatingDiff "+5"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 Nf6 5. Nc3 Bb4 6. Bd2 O-O 7. O-O-O Re8
+8. Qf4 Bxc3 9. Bxc3 Rxe4 10. Qg3 d5 11. f3 Re8 12. Qf2 Bf5 13. g4 Bg6 14. h4 h5
+15. g5 Nh7 16. Ne2 Nf8 17. Nf4 d4 18. Nxg6 Nxg6 19. Bxd4 Nxd4 20. Qxd4 Qxd4 21.
+Rxd4 Re1+ 22. Rd1 Rxd1+ 23. Kxd1 Nf4 24. Bc4 Rd8+ 25. Kc1 Kf8 26. Re1 Rd4 27.
+b3 Ng2 28. Re5 Nxh4 29. Rc5 c6 30. Ra5 a6 31. g6 fxg6 32. Rg5 Nxf3 33. Rxg6 h4
+34. Bf1 Re4 35. Bg2 Re1+ 36. Kb2 Rg1 37. Rg4 Ne1 38. Rf4+ Ke7 39. Re4+ Kd6 40.
+Bh3 g5 41. c4 Rg3 42. Bc8 Kc7 43. Bf5 h3 44. Re7+ Kd6 45. Rd7+ Ke5 46. Bxh3
+Rxh3 47. Rxb7 Nd3+ 48. Kc3 Nc5+ 0-1
+

@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.07.13"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "high_lander"]
+[Result "1-0"]
+[CurrentPosition "rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq -"]
+[Timezone "UTC"]
+[ECO "B27"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-2.Nf3"]
+[UTCDate "2021.07.13"]
+[UTCTime "18:35:05"]
+[WhiteElo "1466"]
+[BlackElo "1415"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won - game abandoned"]
+[StartTime "18:35:05"]
+[EndDate "2021.07.13"]
+[EndTime "18:36:19"]
+[Link "https://www.chess.com/game/live/19940447729"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:09:59.8] } 2. Nf3
+{ [%clk 0:09:59.1] } 1-0
+

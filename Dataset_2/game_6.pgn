@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.02.24"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "marcoisback"]
+[Result "1-0"]
+[CurrentPosition "r1bqk1nr/ppp2Qpp/2n5/2b1p3/2BpP3/8/PP1P1PPP/RNB1K1NR b KQkq -"]
+[Timezone "UTC"]
+[ECO "B01"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense"]
+[UTCDate "2014.02.24"]
+[UTCTime "00:19:28"]
+[WhiteElo "956"]
+[BlackElo "759"]
+[TimeControl "60"]
+[Termination "AdamAbdelrehim won by checkmate"]
+[StartTime "00:19:28"]
+[EndDate "2014.02.24"]
+[EndTime "00:19:52"]
+[Link "https://www.chess.com/game/live/735204020"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. Qf3 { [%clk 0:00:58.9] }
+2... e5 { [%clk 0:00:57.6] } 3. c4 { [%clk 0:00:55.2] } 3... d4
+{ [%clk 0:00:54.4] } 4. c5 { [%clk 0:00:53.4] } 4... Nc6 { [%clk 0:00:53.8] }
+5. Bc4 { [%clk 0:00:51.6] } 5... Bxc5 { [%clk 0:00:49.7] } 6. Qxf7#
+{ [%clk 0:00:49.1] } 1-0
+

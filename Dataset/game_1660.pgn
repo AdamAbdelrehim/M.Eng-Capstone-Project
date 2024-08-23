@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ilprofessore87"]
+[Black "BAZYA"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/bnrVdU01"]
+[WhiteElo "2532"]
+[BlackElo "2405"]
+[ECO "C19"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:31:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-5"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. h4 Qc7 8. h5
+cxd4 9. cxd4 Qc3+ 10. Bd2 Qxd4 11. Nf3 Qe4+ 12. Be3 Nf5 13. Bd3 Nxe3 14. fxe3
+Qxe3+ 15. Kf1 b6 16. Rh4 Ba6 17. Rg4 Bxd3+ 18. cxd3 Nd7 19. d4 Rc8 20. Qa4 g6
+21. Re1 Qd3+ 22. Kg1 gxh5 23. Rg7 Kf8 24. Rxf7+ Kxf7 25. Qxd7+ Kf8 26. Qd6+ Kg7
+27. Qe7+ Kh6 28. Qg5# 1-0
+

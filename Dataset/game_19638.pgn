@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "imdejong"]
+[Black "koromarbel"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/mopNboQy"]
+[WhiteTitle "IM"]
+[WhiteElo "2531"]
+[BlackElo "2403"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, Lipnitsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:51:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. O-O b5 8. Bb3
+Nbd7 9. Re1 Nc5 10. Bd5 exd5 11. exd5+ Kd7 12. b4 Nb7 13. Nc6 Qc7 14. Bg5 Qb6
+15. Bxf6 gxf6 16. Qe2 Kc7 17. a4 bxa4 18. Nxa4 Qb5 19. c4 1-0
+

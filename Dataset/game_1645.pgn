@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "very_slow"]
+[Black "wasalyking"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ZZrmBG3j"]
+[WhiteElo "2495"]
+[BlackElo "2541"]
+[ECO "B26"]
+[Opening "Sicilian Defense: Closed"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:29:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nc3 d6 3. g3 Nc6 4. Bg2 g6 5. d3 Bg7 6. Be3 Rb8 7. Qd2 b5 8. h3 b4
+9. Nd1 a5 10. f4 Nd4 11. Nf3 a4 12. Rb1 b3 13. axb3 axb3 14. c3 Nc2+ 15. Kf2
+Nf6 16. g4 h5 17. g5 Nd7 18. Kg3 Nxe3 19. Nxe3 Nb6 20. Ra1 d5 21. e5 d4 22.
+cxd4 cxd4 23. Nc4 O-O 24. Nxb6 Qxb6 25. Rhc1 Bb7 26. Qf2 Rfd8 27. Rc4 f6 28.
+Rxd4 fxe5 29. Rxd8+ Qxd8 30. Nxe5 Bxe5 31. fxe5 Qxd3+ 32. Kh2 Rf8 33. Qg3 Qxg3+
+34. Kxg3 h4+ 35. Kxh4 Bxg2 36. Ra7 e6 37. Kg3 Bd5 38. h4 Rf3+ 39. Kg4 Rf2 40.
+Rc7 Rxb2 41. Rc8+ Kf7 42. Rc7+ Kf8 43. Rc8+ Ke7 44. h5 Rg2+ 45. Kf4 gxh5 46.
+Rh8 b2 47. Rh7+ Kd8 48. Rh8+ Kc7 49. Rh7+ Kb6 50. Rxh5 b1=Q 51. Rh3 Qf5+ 52.
+Ke3 Qxh3+ 53. Kd4 Rg4# 0-1
+

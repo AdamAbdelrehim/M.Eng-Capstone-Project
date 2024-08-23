@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "zirva_safarov"]
+[Black "FIDE-Trainer1984"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ZAekcScf"]
+[WhiteElo "2508"]
+[BlackElo "2522"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Forgacs Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:21:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Ne2 Na6
+8. O-O Nc7 9. Bf4 Be6 10. Bb3 a5 11. Bxd6 Qxd6 12. c3 O-O 13. Re1 Rfd8 14. Qd3
+a4 15. Bc2 g6 16. Ng3 f5 17. b3 c5 18. Rad1 axb3 19. axb3 cxd4 20. cxd4 Ra5 21.
+h4 Rd5 22. Ne2 Nb5 23. h5 Nxd4 24. Nxd4 Rxd4 25. Qc3 b5 26. h6 b4 27. Qa1 Kf8
+28. Qb2 Qf4 29. Rxd4 Rxd4 30. Qa1 Rd2 31. Qa8+ Ke7 32. Qa7+ Kf6 33. Bd1 Qxh6
+34. Bf3 Qf4 35. Qb6 Qd4 36. Qb8 Qxf2+ 37. Kh2 Qh4+ 0-1
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "cekupa3000"]
+[Black "old_school_chess467"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/dXRWRVl4"]
+[WhiteElo "2505"]
+[BlackElo "2620"]
+[ECO "C19"]
+[Opening "French Defense: Winawer Variation, Poisoned Pawn Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:27:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "+22"]
+[BlackRatingDiff "-7"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 O-O 8. Bd3
+Nbc6 9. Nf3 f5 10. exf6 Rxf6 11. Bg5 Rf7 12. Qh4 h6 13. Bd2 c4 14. Be2 Qa5 15.
+a4 Nf5 16. Qh5 Bd7 17. g4 Nd6 18. g5 Ne4 19. gxh6 Nxd2 20. Kxd2 Rxf3 21. Qxf3
+Nxd4 22. Qh5 Rf8 23. hxg7 Kxg7 24. Rag1+ Kf6 25. Qg5+ Kf7 26. Bh5# 1-0
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Maurice93"]
+[Black "Boreminator"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/vvWo09hS"]
+[WhiteTitle "FM"]
+[WhiteElo "2511"]
+[BlackElo "2529"]
+[ECO "A41"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:21:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. d4 d6 2. Nc3 g6 3. Bf4 Bg7 4. Qd2 a6 5. h4 h6 6. h5 g5 7. Bg3 b5 8. f4 g4 9.
+e4 Bb7 10. d5 c6 11. dxc6 Nxc6 12. Be2 Nf6 13. Rd1 b4 14. e5 bxc3 15. Qxc3 Ne4
+16. Qb3 Nxg3 17. Qxg3 Qa5+ 18. c3 dxe5 19. Qxg4 O-O 20. Rh3 exf4 21. Qxf4 Qe5
+22. Qf2 Rad8 23. Nf3 Rxd1+ 24. Kxd1 Rd8+ 25. Ke1 Qf4 26. Kf1 Ne5 0-1
+

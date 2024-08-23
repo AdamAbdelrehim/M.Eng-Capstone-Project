@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "goldteam"]
+[Black "BlunderKing003"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/dTTOqQj7"]
+[WhiteTitle "CM"]
+[WhiteElo "2589"]
+[BlackElo "2393"]
+[ECO "B28"]
+[Opening "Sicilian Defense: O'Kelly Variation, Maróczy Bind, Paulsen Line"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:09:05"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. e4 c5 2. Nf3 a6 3. c4 e6 4. Nc3 Qc7 5. d4 cxd4 6. Nxd4 Nf6 7. Be2 Bb4 8. f3
+Nc6 9. Be3 d5 10. exd5 exd5 11. O-O dxc4 12. Bxc4 O-O 13. Nc2 Bxc3 14. bxc3 Ne5
+15. Bb3 Qxc3 16. Re1 Nc6 17. Rc1 Qa5 18. Qe2 Bf5 19. Nd4 Nxd4 20. Bxd4 Rae8 21.
+Qf2 Rxe1+ 22. Rxe1 Re8 23. Rc1 Be6 24. Bxe6 Rxe6 25. h4 h5 26. Kh2 Qf5 27. Qg3
+Kh7 28. Rc5 Qg6 29. Rg5 Qh6 30. Qf4 Nd5 31. Qf5+ 1-0
+

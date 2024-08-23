@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "akhairat"]
+[Black "FIDE-Trainer1984"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/UijZXOe1"]
+[WhiteTitle "CM"]
+[WhiteElo "2347"]
+[BlackElo "2527"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: von Hennig Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:13:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Bc4 Nf6 5. f3 exf3 6. Nxf3 Bg4 7. Bxf7+ Kxf7
+8. Ne5+ 1-0
+

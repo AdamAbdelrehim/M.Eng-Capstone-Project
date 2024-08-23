@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Dmitry_Gritsenko"]
+[Black "buildorderbot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/LTy2jmo9"]
+[WhiteElo "2501"]
+[BlackElo "2614"]
+[ECO "B00"]
+[Opening "Ware Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:35:47"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. e4 a5 2. d4 a4 3. a3 Ra5 4. Nf3 e6 5. Nc3 b6 6. Bd3 g5 7. h3 h5 8. Be3 Bh6
+9. Qd2 Kf8 10. O-O-O Ba6 11. e5 g4 12. hxg4 Bxe3 13. Qxe3 Bxd3 14. Rxd3 Nc6 15.
+gxh5 Nh6 16. Ne4 Nf5 17. Qf4 d6 18. g4 Nfxd4 19. exd6 Ne2+ 0-1
+

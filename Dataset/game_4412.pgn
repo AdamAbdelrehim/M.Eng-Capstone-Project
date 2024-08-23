@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "GalimovaTS"]
+[Black "matamancos2"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/uCqHTZnk"]
+[WhiteElo "2497"]
+[BlackElo "2556"]
+[ECO "D80"]
+[Opening "Grünfeld Defense: Stockholm Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:07:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. c4 Nf6 2. Nc3 d5 3. d4 g6 4. Bg5 Ne4 5. Bf4 Nxc3 6. bxc3 Bg7 7. e3 c5 8. Nf3
+Nc6 9. Be2 cxd4 10. cxd4 dxc4 11. Bxc4 Qa5+ 12. Qd2 O-O 13. Qxa5 Nxa5 14. Bd3
+Be6 15. Ke2 Rfc8 16. Rhc1 Bd5 17. Bc7 Nc6 18. Rab1 Rxc7 19. e4 Bxa2 20. Ra1 Be6
+21. Rab1 Bg4 22. d5 Bxf3+ 23. Ke3 Bh6+ 24. Kxf3 Ne5+ 25. Kg3 Bxc1 0-1
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Maksimzt"]
+[Black "raz_dwa_tri"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/V5f7Hqo4"]
+[BlackTitle "FM"]
+[WhiteElo "2425"]
+[BlackElo "2501"]
+[ECO "A30"]
+[Opening "English Opening: Symmetrical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:18:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. c4 c5 2. g3 h5 3. Nf3 Nc6 4. Bg2 e5 5. O-O h4 6. Nxh4 g5 7. Nf3 g4 8. Nh4 d6
+9. e3 Be7 10. d4 Bxh4 11. gxh4 Qxh4 12. Re1 Qxh2+ 13. Kf1 Nf6 14. Bxc6+ bxc6
+15. dxe5 g3 16. Qf3 g2+ 0-1
+

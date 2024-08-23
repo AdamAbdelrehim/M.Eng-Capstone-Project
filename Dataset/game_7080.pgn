@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "skunk_point"]
+[Black "Cor64"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ybmwr3sV"]
+[WhiteElo "2461"]
+[BlackElo "2536"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with d6"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:12:32"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. e5 dxe5 5. Nxe5 a6 6. d4 e6 7. Bg5 Be7 8. Be2
+Qc7 9. O-O b6 10. Bf3 Bb7 11. Bxb7 Qxb7 12. Nd2 cxd4 13. cxd4 O-O 14. Rc1 Rd8
+15. Ndf3 h6 16. Bh4 Nd5 17. Bg3 Ra7 18. Re1 Bf6 19. h3 Ne7 20. Ng4 Nbc6 21.
+Nxf6+ gxf6 22. Qd2 Nf5 23. Red1 Ncxd4 24. Nxd4 Rxd4 25. Qc3 Qd7 26. Rxd4 Qxd4
+27. Qxd4 Nxd4 28. Rc8+ Kg7 29. Rb8 Ne2+ 30. Kh2 Nxg3 31. fxg3 b5 32. b3 f5 33.
+a4 bxa4 34. bxa4 Rd7 35. Rb6 a5 36. Ra6 Rd5 37. Kg1 Kf6 38. Kf2 Ke5 39. Kf3 Kd4
+40. Ra7 Kc4 41. Rxf7 Kb4 42. Rf6 Rd6 43. Rxh6 Kxa4 44. Rh8 Rb6 45. h4 Kb3 46.
+Ra8 a4 47. h5 a3 48. h6 Rb7 49. g4 fxg4+ 50. Kxg4 a2 51. Kh5 e5 52. Kg6 e4 53.
+h7 Rxh7 54. Kxh7 e3 55. Rb8+ Kc2 56. Rc8+ Kb2 57. Rb8+ Kc3 58. Ra8 e2 59. Rxa2
+e1=Q 60. Ra3+ Kb4 61. Ra7 Qe4+ 62. Kg8 Qe6+ 63. Rf7 Kc5 64. Kf8 Kd6 65. g4 Qh6+
+66. Rg7 Ke6 67. Kg8 Kf6 68. Rf7+ Kg6 69. g5 Qh1 70. Rg7+ Kf5 71. Rf7+ Kg6 72.
+Rg7+ Kf5 73. Rf7+ Ke6 74. g6 Qh5 75. Kf8 Qxg6 76. Re7+ 1-0
+

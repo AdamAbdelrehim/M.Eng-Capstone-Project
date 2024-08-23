@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "gmpawel"]
+[Black "Andrey200294"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/VLDHBiEE"]
+[WhiteElo "2808"]
+[BlackElo "2676"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:26:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+7"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Bc4 c6 5. d4 Nf6 6. Bd2 Bf5 7. Nf3 e6 8.
+Nd5 Qd8 9. Nxf6+ Qxf6 10. c3 Bd6 11. Qe2 h6 12. h3 Nd7 13. O-O-O Bh7 14. Rhe1
+Qg6 0-1
+

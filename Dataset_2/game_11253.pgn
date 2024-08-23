@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.17"]
+[Round "-"]
+[White "AntonioNogot"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rnbqkb1r/ppp2ppp/8/4N3/2p1n3/5Q2/PPPP1PPP/RNB1K2R w KQkq -"]
+[Timezone "UTC"]
+[ECO "C42"]
+[ECOUrl "https://www.chess.com/openings/Petrovs-Defense-Urusov-Lichtenhein-Defense"]
+[UTCDate "2024.01.17"]
+[UTCTime "02:02:28"]
+[WhiteElo "1826"]
+[BlackElo "1817"]
+[TimeControl "600"]
+[Termination "AntonioNogot won by resignation"]
+[StartTime "02:02:28"]
+[EndDate "2024.01.17"]
+[EndTime "02:03:46"]
+[Link "https://www.chess.com/game/live/99195887219"]
+
+1. e4 { [%clk 0:09:58.5] } 1... e5 { [%clk 0:09:57.1] } 2. Nf3
+{ [%clk 0:09:52.9] } 2... Nf6 { [%clk 0:09:51.7] } 3. Bc4 { [%clk 0:09:22.5] }
+3... Nxe4 { [%clk 0:09:43.9] } 4. Nxe5 { [%clk 0:09:20.4] } 4... d5
+{ [%clk 0:09:38.3] } 5. Qf3 { [%clk 0:09:18] } 5... dxc4 { [%clk 0:09:30.3] }
+1-0
+

@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "yarrogchess"]
+[Black "Mrios"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/vhtdA3wO"]
+[BlackTitle "FM"]
+[WhiteElo "2490"]
+[BlackElo "2539"]
+[ECO "A46"]
+[Opening "Indian Defense: London System"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:29:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 d5 4. e3 c5 5. Nbd2 Bd6 6. Bxd6 Qxd6 7. c3 O-O 8.
+Bd3 b6 9. O-O Ba6 10. Bxa6 Nxa6 11. Qe2 Nb8 12. dxc5 Qxc5 13. e4 dxe4 14. Nxe4
+Nxe4 15. Qxe4 Nd7 16. Rad1 Nf6 17. Qd4 Qxd4 18. Rxd4 Rfd8 19. Rfd1 Rxd4 20.
+Rxd4 Kf8 21. c4 Ke8 22. Ne5 Rc8 23. f4 Ng8 24. Rd7 Ne7 25. Rxa7 f6 26. Nd3 Rxc4
+27. Rb7 Rd4 28. Ne1 Rxf4 29. Rxb6 Kd7 30. g3 Rd4 31. Nf3 Rd1+ 32. Kf2 Ra1 33.
+Rb7+ Kd6 34. Nd4 Nd5 35. a3 e5 36. Nf5+ Kc6 37. Rxg7 Ra2 38. Rxh7 Rxb2+ 39. Kf3
+Rb3+ 40. Ke4 Nc3+ 41. Kd3 Rxa3 42. Kc4 Nd5 43. Ne7+ Nxe7 44. Rxe7 Kd6 45. Rh7
+Ke6 46. Rh8 Kf5 47. Rg8 e4 48. h4 e3 49. g4+ Kf4 50. g5 fxg5 51. hxg5 e2 52.
+Re8 Re3 0-1
+

@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "BaTbka_Ha-TpaKTope"]
+[Black "NothingSpecialBTW"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/3DXSk3qx"]
+[WhiteElo "2441"]
+[BlackElo "2516"]
+[ECO "C00"]
+[Opening "French Defense: Steiner Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:35:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. e4 e6 2. c4 d5 3. cxd5 exd5 4. Qa4+ Bd7 5. Qb3 Bc6 6. Bb5 Qd7 7. exd5 Bxb5
+8. Nc3 Ba6 9. d4 Bd6 10. Nf3 Ne7 11. Bd2 c6 12. h4 cxd5 13. h5 h6 14. O-O-O
+Nbc6 15. Kb1 Bd3+ 16. Ka1 Nb4 17. Rc1 O-O 18. Nd1 Bc4 0-1
+

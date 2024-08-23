@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.23"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "enri2601"]
+[Result "0-1"]
+[CurrentPosition "r1bqkb1r/pp2pppp/2p5/6B1/3Pn3/5N2/PPP2PPP/R2QK2R w KQkq -"]
+[Timezone "UTC"]
+[ECO "B17"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Karpov-Variation...6.Bd3-Nxe4-7.Bxe4-Nf6"]
+[UTCDate "2021.08.23"]
+[UTCTime "21:10:08"]
+[WhiteElo "1529"]
+[BlackElo "1531"]
+[TimeControl "600"]
+[Termination "enri2601 won by resignation"]
+[StartTime "21:10:08"]
+[EndDate "2021.08.23"]
+[EndTime "21:11:25"]
+[Link "https://www.chess.com/game/live/23491880023"]
+
+1. e4 { [%clk 0:10:00] } 1... c6 { [%clk 0:09:59] } 2. d4 { [%clk 0:09:47.4] }
+2... d5 { [%clk 0:09:56.4] } 3. Nc3 { [%clk 0:09:29.1] } 3... dxe4
+{ [%clk 0:09:52.8] } 4. Nxe4 { [%clk 0:09:26.3] } 4... Nd7 { [%clk 0:09:51.3] }
+5. Nf3 { [%clk 0:09:23.1] } 5... Ngf6 { [%clk 0:09:49.6] } 6. Bd3
+{ [%clk 0:09:16.8] } 6... Nxe4 { [%clk 0:09:46.4] } 7. Bxe4
+{ [%clk 0:09:16.7] } 7... Nf6 { [%clk 0:09:44.6] } 8. Bg5 { [%clk 0:09:11] }
+8... Nxe4 { [%clk 0:09:40] } 0-1
+

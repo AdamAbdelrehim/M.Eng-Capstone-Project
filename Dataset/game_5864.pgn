@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ie1"]
+[Black "gmcyborek"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/l5q2thjz"]
+[WhiteElo "2671"]
+[BlackElo "2695"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:01:27"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Bc4 Nf6 5. d3 Nc6 6. Bd2 Qh5 7. Qxh5 Nxh5
+8. Nd5 Kd8 9. Nf3 e6 10. Nf4 Nxf4 11. Bxf4 Bd6 12. Be3 Na5 13. O-O-O b6 14. Bb3
+Nxb3+ 15. axb3 Bb7 16. Ng5 Ke7 17. Ne4 Be5 18. f4 Bd6 19. Rhf1 f5 20. Ng5 Bxg2
+21. Rg1 Bb7 22. Rde1 Rag8 23. Bd2 Bc8 24. h4 h6 25. Nf3 Kf7 26. h5 Bb7 27. Nh4
+Re8 28. Ng6 Rhg8 29. Bc3 Bf3 30. Ne5+ Bxe5 31. Bxe5 Re7 32. Kd2 Bxh5 33. c4 a5
+34. d4 Bf3 35. Kc3 g5 36. fxg5 hxg5 37. Rg3 g4 38. Reg1 Rd7 39. b4 axb4+ 40.
+Kxb4 Be4 41. b3 Ra8 42. Re1 Bf3 43. Re3 Rad8 44. Kc3 c5 45. dxc5 bxc5 46. b4
+cxb4+ 47. Kxb4 Rd3 48. Rxd3 Rxd3 49. c5 Rd1 50. Ka5 Rc1 51. Kb6 Kg6 52. Bf4 Kf6
+53. Bxc1 1-0
+

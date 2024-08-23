@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "johndoe695"]
+[Black "kitan4ev"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Uw5eixo5"]
+[WhiteElo "2534"]
+[BlackElo "2579"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:40:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Bd3 Rc8 7. O-O cxd4 8. cxd4
+Nb4 9. Bg5 Be7 10. Bxe7 Nxe7 11. Nc3 Nxd3 12. Qxd3 O-O 13. Rfe1 h6 14. g4 f6
+15. exf6 Rxf6 16. Ne5 Nc6 17. Nxd7 Qxd7 18. Rad1 Rcf8 19. Qe3 Rxf2 20. Qxe6+
+Qxe6 21. Rxe6 Rxb2 22. Nxd5 Rff2 23. Ne3 Kf7 24. d5 Ne7 25. Re4 Rfd2 26. Rf1+
+Ke8 27. d6 Rxd6 28. Nc4 1-0
+

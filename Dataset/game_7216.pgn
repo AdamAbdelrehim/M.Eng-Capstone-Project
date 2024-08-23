@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Beluna"]
+[Black "arno111"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/fPElvjBs"]
+[WhiteElo "2348"]
+[BlackElo "2529"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack, Fianchetto Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:34:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. Nf3 d5 2. d4 e6 3. c4 Nf6 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. Bd3 Bb7 8. O-O
+c5 9. cxd5 exd5 10. Ne5 Nbd7 11. Rc1 a6 12. Nxd7 Nxd7 13. dxc5 bxc5 14. b3 Re8
+15. Qh5 g6 16. Qh3 Nf8 17. Rfd1 Ne6 18. Be5 Bf6 19. Bxf6 Qxf6 20. Na4 Rac8 21.
+Be2 d4 22. Bf3 Ng5 23. Qg3 Nxf3+ 24. gxf3 Bxf3 25. Re1 d3 0-1
+

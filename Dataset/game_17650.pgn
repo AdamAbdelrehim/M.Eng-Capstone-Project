@@ -1,0 +1,36 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Mischuk_D"]
+[Black "Podrebo"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/VHPL24TI"]
+[WhiteTitle "IM"]
+[BlackTitle "FM"]
+[WhiteElo "2685"]
+[BlackElo "2683"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:35:05"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 e6 2. c4 d5 3. g3 a6 4. Nd2 Nf6 5. Bg2 b5 6. cxd5 exd5 7. Nb3 Bf5 8. Nf3
+Bd6 9. O-O Qe7 10. Bd2 O-O 11. Rc1 Re8 12. Re1 Ne4 13. a3 Nxd2 14. Qxd2 b4 15.
+a4 a5 16. e3 Nd7 17. Nh4 Be4 18. Bxe4 Qxe4 19. Qc2 Nb6 20. Qxe4 dxe4 21. Ra1 g6
+22. Rec1 f5 23. Nc5 Kf7 24. Ng2 Nd5 25. Rc4 Reb8 26. Nb3 Ke6 27. h4 Rb6 28. Kf1
+Raa6 29. Rac1 Rb7 30. R4c2 Raa7 31. Ke2 Nb6 32. Ra1 Kd5 33. Nc5 Bxc5 34. Rxc5+
+Kd6 35. Nf4 Ra6 36. b3 Nd7 37. Rc2 Rc6 38. Rac1 Rxc2+ 39. Rxc2 Rb6 40. Kd2 Rc6
+41. Rxc6+ Kxc6 42. Ne6 Nf6 43. Nc5 Ng4 44. Ke2 h6 45. Ne6 g5 46. hxg5 hxg5 47.
+Nxg5 Kd5 48. Nh3 c5 49. Nf4+ Kc6 50. dxc5 Kxc5 51. Ne6+ Kd6 52. Nd4 Ke5 53.
+Nc6+ Kf6 54. Nxa5 Ne5 55. Nc4 Nd3 56. a5 Nc5 57. Nd2 Ke5 58. f3 Kd5 59. g4
+exf3+ 60. Kxf3 fxg4+ 61. Kxg4 Kc6 62. Kf5 Kb5 63. e4 Kxa5 64. e5 Kb5 65. e6 Nb7
+66. e7 Kc5 67. Ke6 Nd6 68. Ne4+ Nxe4 69. e8=Q Nd2 70. Qc8+ Kd4 71. Qc2 Ne4 72.
+Qc4+ Ke3 73. Qxb4 Ng3 74. Qc3+ Kf4 75. Qxg3+ Kxg3 76. b4 Kf4 77. b5 Ke4 78. b6
+Kd4 79. b7 Kd3 80. b8=Q Ke4 81. Qg3 Kd4 82. Qb3 Ke4 83. Qc4+ Ke3 84. Kf5 Kd2
+85. Qb3 Ke1 86. Ke4 Kf2 87. Qc2+ Kg1 88. Qe2 1-0
+

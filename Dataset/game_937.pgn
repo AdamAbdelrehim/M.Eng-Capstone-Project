@@ -1,0 +1,30 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "TheFreshman1902"]
+[Black "YoBot_v2"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/T8PdstB3"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2715"]
+[BlackElo "2746"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation"]
+[TimeControl "1500+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "05:29:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "+0"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. e3 b6 5. b3 Bb7 6. Bb2 Bd6 7. Bd3 O-O 8. O-O
+Nbd7 9. Nc3 a6 10. a4 Re8 11. a5 e5 12. Be2 exd4 13. Nxd4 dxc4 14. bxc4 Nc5 15.
+Nf5 Bf8 16. Qc2 Nfe4 17. Nd5 Bxd5 18. Rfd1 c6 19. cxd5 cxd5 20. axb6 Rc8 21.
+Bd4 Qxb6 22. Bxa6 Rc7 23. Bf1 Qe6 24. Ng3 Rec8 25. Qa2 Nxg3 26. hxg3 Ne4 27.
+Bd3 Rc6 28. Qb2 h5 29. Rac1 Rxc1 30. Rxc1 Rxc1+ 31. Qxc1 g6 32. Bxe4 dxe4 33.
+Qb2 Kh7 34. Kh2 Bd6 35. Kg1 Bf8 36. Be5 Be7 37. Bc3 g5 38. Bd4 Kg6 39. Qb8 Bf6
+40. Bxf6 Qxf6 41. Qe8 Qe6 42. Qg8+ Kh6 43. Qh8+ Kg6 44. Qg8+ Kh6 45. Qh8+ Kg6
+46. Qg8+ 1/2-1/2
+

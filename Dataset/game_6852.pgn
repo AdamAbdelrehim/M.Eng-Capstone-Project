@@ -1,0 +1,33 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "AKS-Mantissa"]
+[Black "caissa-x"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ToxgvNC3"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2782"]
+[BlackElo "3036"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[TimeControl "900+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:35:25"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nd2 e6 5. Nb3 Nd7 6. Nf3 a6 7. Be2 c5 8. dxc5
+Bxc5 9. Nxc5 Nxc5 10. Be3 Rc8 11. Nd4 Ne7 12. c3 Qc7 13. f4 O-O 14. O-O Be4 15.
+Qd2 b5 16. h3 h6 17. Kh2 Qb8 18. Rae1 Rc7 19. Rc1 Rfc8 20. g4 Bh7 21. Rg1 Ne4
+22. Qe1 g5 23. fxg5 hxg5 24. Nf3 Rd7 25. Rg2 f6 26. Kg1 fxe5 27. Nxg5 Nxg5 28.
+Bxg5 Ng6 29. Rf2 Nf4 30. Bf1 Rf7 31. Qe3 Be4 32. a3 Rcf8 33. Bh6 Rc8 34. Bg5
+Kh8 35. Qg3 Kg7 36. Re1 Rcf8 37. Qh4 Rh8 38. Qg3 Kh7 39. Rd1 Kg6 40. h4 Rhf8
+41. Kh2 Ne2 42. Rxe2 Rxf1 43. Rxf1 Rxf1 44. Qe3 Qf8 45. Rd2 Kh7 46. h5 Qg7 47.
+Re2 Rf3 48. Qc1 Bd3 49. Rg2 e4 50. Bf4 e3 51. g5 Kg8 52. Rg3 Rxf4 53. Qxe3 Rh4+
+54. Rh3 Qc7+ 55. Qg3 Rf4 56. h6 Bg6 57. a4 bxa4 58. Kg2 Be4+ 59. Kh2 Qf7 60.
+h7+ Kh8 61. Qg2 Rf2 62. Rg3 Bxg2 63. g6 Be4+ 64. Kh3 Qf5+ 65. Rg4 Qh5+ 66. Kg3
+Qh2# 0-1
+

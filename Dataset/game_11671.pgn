@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "HiddenStrategist"]
+[Black "PriscaM"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/RIBU9r7P"]
+[WhiteElo "2514"]
+[BlackElo "2489"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:44:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+6"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. g3 Bf5 5. Qb3 Qb6 6. c5 Qxb3 7. axb3 a6 8. b4
+Nbd7 9. Bg2 e6 10. Nc3 O-O-O 11. h3 h5 12. Bf4 Ne4 13. O-O Nxc3 14. bxc3 f6 15.
+h4 Re8 16. Bd2 e5 17. Ra5 Bg4 18. dxe5 Nxe5 19. Nxe5 Rxe5 20. e3 Be2 21. Re1
+Bd3 22. f3 Re8 23. e4 dxe4 24. fxe4 Be7 25. Bf4 g5 26. Bh3+ g4 27. Bg2 Bd8 28.
+Raa1 Bc7 29. Rad1 Bc4 30. Bxc7 Kxc7 31. Rd6 Re6 32. Red1 Rhe8 33. Rd7+ Kb8 34.
+Kf2 Bb3 35. R1d2 Rf8 36. Kg1 Kc8 37. Rh7 Rd8 38. Rxd8+ Kxd8 39. Rxh5 Bc2 40.
+Rh6 Bxe4 41. Bxe4 Rxe4 42. Rxf6 Re3 43. Kf2 Rxc3 44. Rf4 a5 45. Rxg4 a4 46.
+Rd4+ Kc7 47. Rd2 Rb3 48. Ra2 a3 49. Kg1 Kd7 50. g4 Rg3+ 51. Kf2 Rxg4 52. Rxa3
+Rxh4 53. Rb3 Ke6 54. Ke2 Kd5 55. b5 Kxc5 56. bxc6 bxc6 57. Kd2 Kd5 58. Kc2 c5
+59. Rd3+ Kc6 60. Kc3 Ra4 61. Rd8 Ra3+ 62. Kb2 Rh3 63. Kc2 Kb5 64. Rb8+ Kc4 65.
+Rg8 Rh2+ 66. Kc1 Kb3 67. Rg3+ Kb4 68. Kb1 c4 69. Re3 c3 70. Re4+ Kb3 71. Rb4+
+Kxb4 72. Kc1 Kb3 73. Kd1 Rc2 74. Ke1 Kc4 75. Kd1 Kd3 76. Ke1 Rd2 77. Kf1 c2 78.
+Kg1 c1=Q# 0-1
+

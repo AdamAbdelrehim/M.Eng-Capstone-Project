@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "thickgreenphlegm"]
+[Black "Jjdu56"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/6YyvJPg5"]
+[WhiteElo "2513"]
+[BlackElo "2487"]
+[ECO "E38"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Berlin Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:13:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Nc6 6. Nf3 Bxc5 7. Bg5 h6 8. e3
+hxg5 9. Nxg5 a6 10. O-O-O Qa5 11. Nf3 Bb4 0-1
+

@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "tykpyk"]
+[Black "manuchess96"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/thcJTJiz"]
+[WhiteElo "2440"]
+[BlackElo "2508"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "01:31:33"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng3 h5 6. h4 c5 7. Be3 Nd5 8. dxc5
+Nxe3 9. Qxd8+ Kxd8 10. fxe3 e5 11. b4 Nc6 12. c3 a5 13. b5 Na7 14. O-O-O+ Ke8
+15. Ne4 Bf5 16. Nd6+ Bxd6 17. cxd6 Kd7 18. Nf3 f6 19. Kb2 Nc8 20. c4 b6 21. Bd3
+Bxd3 22. Rxd3 e4 23. Rd4 exf3 24. gxf3 Ra7 25. Rg1 Ke6 26. d7 Rxd7 27. Rxd7
+Kxd7 28. Rxg7+ Ne7 29. Kc3 Ke6 30. e4 Rd8 31. Rh7 Rd1 32. Rxh5 Rf1 33. Rh8
+Rxf3+ 34. Kc2 Re3 35. Rb8 Rxe4 36. Rxb6+ Ke5 37. Kd3 Rd4+ 38. Kc3 Rxh4 39. Rb7
+Rh3+ 40. Kc2 Nf5 41. b6 Nd4+ 42. Kd2 f5 43. Rc7 Rh8 44. Rc5+ Ke4 45. Rxa5 Rb8
+46. c5 f4 47. Ra4 f3 48. Kc3 f2 49. Rxd4+ Ke5 50. Rd1 Rf8 51. Rf1 Kd5 52. Kb4
+Kc6 53. b7 Kxb7 54. Kb5 Kc7 55. a4 Rb8+ 56. Kc4 Rf8 57. a5 Ra8 58. Rxf2 Rxa5
+59. Rf7+ Kc6 60. Rf6+ Kc7 61. Kb4 Ra1 62. Rf7+ Kc6 63. Rf3 Kc7 64. Rb3 Rc1 65.
+Kb5 Rh1 66. Rb4 Rh7 67. Re4 Rg7 68. Rf4 Re7 69. Ra4 Rd7 0-1
+

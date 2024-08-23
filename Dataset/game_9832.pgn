@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Openingsonly"]
+[Black "Scarlet_dawn"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/tbNQFGF8"]
+[BlackTitle "FM"]
+[WhiteElo "2636"]
+[BlackElo "2721"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:08:31"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Nf3 cxd4 8.
+cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Nd7 12. O-O Nf6 13. Rfe1 Bd7 14.
+Rad1 Ba4 15. Rb1 Rc8 16. Bd3 b6 17. h4 h6 18. Qf4 Bc2 19. Bxc2 Rxc2 20. a4 Ra2
+21. Ra1 Rxa1 22. Rxa1 Qa8 23. Nd2 Rd8 24. Qe3 Qc6 25. f3 Qc7 26. Nb3 Qd7 27. a5
+Rc8 28. axb6 axb6 29. Rc1 Rxc1+ 30. Qxc1 Qb5 31. Qc2 Qb4 32. Kf2 g6 33. g4 Kg7
+34. Qd3 Qa3 35. Ke2 Qb2+ 36. Nd2 Qc1 37. d5 exd5 38. exd5 Qh1 39. d6 Qh2+ 40.
+Kd1 Qg1+ 41. Kc2 Qc5+ 42. Kd1 b5 43. Ne4 Qg1+ 44. Kc2 Nd7 45. Qxb5 Qg2+ 46. Nd2
+Nf6 47. Qe5 Qg1 48. g5 hxg5 49. hxg5 1-0
+

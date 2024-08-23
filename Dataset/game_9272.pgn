@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Jjdu56"]
+[Black "WR_7"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/QkJND3ek"]
+[WhiteElo "2503"]
+[BlackElo "2514"]
+[ECO "A35"]
+[Opening "English Opening: Symmetrical Variation, Two Knights Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:24:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. c4 c5 2. Nc3 Nc6 3. e3 g6 4. d4 Bg7 5. d5 Bxc3+ 6. bxc3 Na5 7. h4 b6 8. h5
+Ba6 9. hxg6 fxg6 10. Rh4 e5 11. g3 d6 12. Nf3 g5 13. Rh5 g4 14. Nh2 Nf6 15. Rh6
+Rg8 16. Qa4+ Kf7 17. Be2 Qe8 18. Qc2 e4 19. Rxf6+ Kxf6 20. Bxg4 Bxc4 21. Be6
+Bd3 22. Qd1 Rg5 23. c4 Qh5 24. Bb2+ Ke7 25. Qa4 Qe2# 0-1
+

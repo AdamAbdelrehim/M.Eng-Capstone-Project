@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "clearEye"]
+[Black "HellBorg"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/VeiYCnwn"]
+[WhiteElo "2331"]
+[BlackElo "2503"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:18:40"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. Bg5 g6 3. Nc3 d5 4. Qd2 c6 5. O-O-O Nbd7 6. f3 Bg7 7. e4 O-O 8. e5
+Ne8 9. Bh6 f6 10. e6 Nb6 11. Re1 Bxh6 12. Qxh6 Qd6 13. h4 Ng7 14. Nh3 Bxe6 15.
+Qe3 Rae8 16. h5 Bf7 17. g4 e5 18. h6 exd4 0-1
+

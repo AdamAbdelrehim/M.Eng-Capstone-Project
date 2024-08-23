@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "bancsoo"]
+[Black "Woland87"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/x0jcakG8"]
+[WhiteTitle "GM"]
+[WhiteElo "2780"]
+[BlackElo "2779"]
+[ECO "A46"]
+[Opening "Torre Attack: Classical Defense, Nimzowitsch Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:10:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 h6 4. Bh4 c5 5. e3 d5 6. c3 Nbd7 7. Nbd2 Bd6 8. Bd3
+b6 9. Qe2 Bb7 10. e4 dxe4 11. Nxe4 Be7 12. Nxf6+ Bxf6 13. Bxf6 Qxf6 14. Ne5
+O-O-O 15. O-O Nxe5 16. dxe5 Qg5 17. Be4 Qf4 18. Bxb7+ Kxb7 19. Rad1 a6 20. g3
+Qf5 21. a4 h5 22. a5 b5 23. Qe3 Kc6 24. b4 1-0
+

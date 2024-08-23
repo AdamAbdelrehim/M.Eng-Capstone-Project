@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "idefixfix"]
+[Black "AlexeyLV"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/SG0QNj3W"]
+[WhiteElo "2474"]
+[BlackElo "2570"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Line"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:24:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. f4 Qb6 5. e5 Nh6 6. Ne4 O-O 7. Nf3 d6 8. exd6
+Re8 9. Bd3 exd6 10. O-O Nf5 11. c3 c5 12. dxc5 dxc5 13. Kh1 Nc6 14. Re1 Be6 15.
+Neg5 Nd8 16. Nxe6 Nxe6 17. Bxf5 gxf5 18. Nh4 Rad8 19. Qh5 Nd4 20. Rf1 Nc2 21.
+Rb1 Qb5 22. Rg1 Rd5 23. Nxf5 c4 24. Nh6+ Bxh6 25. Qxh6 Rh5 26. Qf6 Re6 27. Qd8+
+Kg7 28. h3 Qf5 29. Kh2 Reh6 30. Be3 Nxe3 31. Qd4+ Rf6 32. Qxe3 Qxf4+ 33. Qxf4
+Rxf4 34. Rgf1 Rhf5 35. Rxf4 Rxf4 36. Kg3 Rf5 37. Rd1 Kf6 38. Rd2 Ke7 39. h4 h5
+40. Kh3 Ke6 41. Re2+ Kd5 42. Re7 Kc6 43. g4 Rf3+ 44. Kg2 hxg4 45. h5 f5 46. h6
+Rh3 47. Re6+ Kd5 48. Rf6 Ke4 49. Re6+ Kf4 50. Rg6 Rh5 51. Re6 Kg5 52. Re7 Rxh6
+53. Rxb7 Rb6 0-1
+

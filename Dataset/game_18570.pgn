@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "sakenych"]
+[Black "nezzi08"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/PMPvcD9T"]
+[WhiteElo "2508"]
+[BlackElo "2411"]
+[ECO "E44"]
+[Opening "Nimzo-Indian Defense: Fischer Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:11:34"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Bb7 6. a3 Be7 7. d5 exd5 8. cxd5
+d6 9. g3 Nbd7 10. Bg2 a5 11. O-O Nc5 12. Nf4 g5 13. Nh5 O-O 14. e4 h6 15. h4
+gxh4 16. Bxh6 hxg3 17. Nxf6+ Bxf6 18. Qg4+ Kh7 19. Bxf8 gxf2+ 20. Rxf2 Qxf8 21.
+Qf5+ 1-0
+

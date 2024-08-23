@@ -1,0 +1,36 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "PurpleHunter"]
+[Black "fornax-engine"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/CrWDTM9W"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2611"]
+[BlackElo "2360"]
+[ECO "A30"]
+[Opening "English Opening: Symmetrical Variation"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:29:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. c4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bg7 6. e4 O-O 7. Be2 Nc6 8.
+Be3 Nxd4 9. Bxd4 d6 10. O-O b6 11. Qd2 Bb7 12. f3 Rc8 13. Rac1 Qd7 14. Rfd1 Nh5
+15. Be3 f5 16. exf5 gxf5 17. b4 Rf7 18. c5 bxc5 19. bxc5 f4 20. Bf2 Bxc3 21.
+Qxc3 d5 22. Bd3 Ng7 23. h3 e6 24. Bd4 Qe7 25. Re1 Bc6 26. Re5 Rcf8 27. Rce1 Re8
+28. Bc2 Qh4 29. Qd2 Rc8 30. a3 Bb5 31. Rb1 Bc4 32. a4 Qh6 33. Qe1 Re7 34. h4
+Ba2 35. Rb4 Rce8 36. Kh2 Bc4 37. c6 a5 38. Rb6 Qf6 39. Qf2 Qf7 40. Bc5 h6 41.
+Bxe7 Qxe7 42. Rb7 Qf6 43. Qe1 Ba6 44. Ra7 Bf1 45. h5 Rc8 46. Bg6 Rf8 47. Rxg7+
+Qxg7 48. Rxe6 Ba6 49. Bb1 Qg3+ 50. Kg1 Qxe1+ 51. Rxe1 Rf6 52. c7 Rc6 53. Bf5
+Rxc7 54. Re6 Bb7 55. Rxh6 Rc6 56. Rh7 Ba6 57. Rd7 Bc4 58. Kh2 Rf6 59. Bg6 Bb3
+60. Kh3 Bxa4 61. Rxd5 Kg7 62. Rxa5 Bd7+ 63. Kh4 Rxg6 64. hxg6 Kxg6 65. Ra6+ Kf5
+66. Ra7 Be6 67. Ra5+ Kf6 68. Ra6 Kf5 69. Rxe6 Kxe6 70. Kg4 Kf7 71. Kxf4 Kf6 72.
+Ke4 Kg5 73. g3 Kf6 74. Kd5 Kg7 75. Ke6 Kg6 76. f4 Kg7 77. f5 Kf8 78. g4 Kg7 79.
+f6+ Kf8 80. f7 Kg7 81. g5 Kf8 82. g6 Kg7 83. Ke5 Kxg6 84. f8=Q Kh7 85. Ke6 Kg6
+86. Qg8+ Kh5 87. Kf5 Kh4 88. Qg4# 1-0
+

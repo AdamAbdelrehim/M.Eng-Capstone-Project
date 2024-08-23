@@ -1,0 +1,31 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "fornax-engine"]
+[Black "weiawaga"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ay2Y2gYC"]
+[WhiteTitle "BOT"]
+[WhiteElo "2422"]
+[BlackElo "2701"]
+[ECO "D47"]
+[Opening "Semi-Slav Defense: Meran Variation"]
+[TimeControl "900+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:23:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. e3 c6 5. Nc3 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Be2
+b4 9. Na4 Be7 10. a3 bxa3 11. bxa3 O-O 12. O-O Bb7 13. Bb2 c5 14. Nxc5 Nxc5 15.
+dxc5 Bxc5 16. Rb1 Qxd1 17. Rfxd1 Bd5 18. Bxf6 gxf6 19. a4 Rab8 20. Rb5 Rfc8 21.
+Nd4 Kf8 22. Rxb8 Rxb8 23. a5 Rb2 24. Kf1 Ra2 25. a6 Bb6 26. h3 f5 27. g3 Bxd4
+28. Rxd4 Ra1+ 29. Rd1 Rxd1+ 30. Bxd1 Ke7 31. Bh5 Bc4+ 32. Be2 Bxe2+ 33. Kxe2
+Kd6 34. Kd3 Kc5 35. g4 Kb6 36. g5 Kxa6 37. Kc4 Kb6 38. h4 Kc6 39. h5 Kd6 40. f3
+a5 41. Kb5 Ke5 42. Kc4 a4 43. Kb4 f4 44. exf4+ Kxf4 45. Kxa4 Kxf3 46. Kb4 e5
+47. Kc5 Kf4 48. Kd5 e4 49. Kd4 e3 50. Kd3 Kf3 51. Kd4 e2 52. g6 fxg6 53. hxg6
+hxg6 54. Ke5 e1=Q+ 55. Kf6 Kg4 56. Kf7 Kh5 57. Kf6 Qe8 58. Kg7 Qe7+ 59. Kg8 Kg5
+60. Kh8 Kf6 61. Kg8 Qg7# 0-1
+

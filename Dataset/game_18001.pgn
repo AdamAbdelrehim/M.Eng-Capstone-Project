@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Aesio2005"]
+[Black "kitan4ev"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/EwPErUkM"]
+[WhiteElo "2505"]
+[BlackElo "2581"]
+[ECO "C07"]
+[Opening "French Defense: Tarrasch Variation, Chistyakov Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:39:47"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. dxc5 Nf6 6. Ngf3 Qxc5 7. Bd3 Nbd7
+8. O-O Be7 9. Qe2 O-O 10. Rd1 b6 11. Ne4 Qc7 12. b3 Bb7 13. Ng3 Nc5 14. Bc4
+Nce4 15. Bb2 Nxg3 16. hxg3 Rfd8 17. Bd3 Nd5 18. Ne5 Bf6 19. Rac1 Nb4 20. a3
+Nxd3 21. cxd3 Qd6 22. d4 Qd5 23. Nf3 Qxb3 24. Rc7 Bxf3 25. gxf3 Rac8 26. Rdc1
+Rxc7 27. Rxc7 a5 28. Kg2 g6 29. Qd2 Kg7 30. Rb7 h5 31. Qc3 Qxc3 32. Bxc3 Bxd4
+33. Bxd4+ Rxd4 34. Rxb6 Rd3 35. Ra6 Rxa3 36. f4 Kf6 37. Ra7 a4 38. Kf1 Ra1+ 39.
+Kg2 a3 40. Kf3 a2 41. Kg2 g5 42. fxg5+ Kxg5 43. Ra5+ f5 44. Kh2 e5 45. Ra8 e4
+46. Kg2 Kf6 47. Ra5 Ke6 48. Ra6+ Kd5 49. Ra8 Kd4 50. Rd8+ Kc3 51. Rc8+ Kd2 52.
+Rd8+ Ke2 53. Ra8 h4 54. gxh4 f4 55. Ra4 f3+ 56. Kh2 Kxf2 57. h5 Rh1+ 58. Kxh1
+e3 59. Kh2 e2 60. h6 e1=Q 61. Rxa2+ Qe2 62. Rxe2+ fxe2 63. h7 e1=Q 64. h8=Q
+Qe5+ 0-1
+

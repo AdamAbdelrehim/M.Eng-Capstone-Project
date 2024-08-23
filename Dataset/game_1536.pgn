@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Podrebo"]
+[Black "zaplya"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Iq185IGR"]
+[WhiteTitle "FM"]
+[WhiteElo "2661"]
+[BlackElo "2498"]
+[ECO "C45"]
+[Opening "Scotch Game: Mieses Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:06:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+h4 g6 9. Bg5 Qe6 10. c4 Bb4+ 11. Nd2 Ne7 12. Bf6 Rg8 13. a3 Bxd2+ 14. Qxd2 d5
+15. O-O-O dxc4 16. Qd8# 1-0
+

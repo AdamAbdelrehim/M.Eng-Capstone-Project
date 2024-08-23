@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ambo666"]
+[Black "Alpha_Zero_System"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/LDdNFfRK"]
+[WhiteElo "2502"]
+[BlackElo "2509"]
+[ECO "A00"]
+[Opening "Clemenz Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:48:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. h3 h5 2. a3 a5 3. Nf3 b6 4. d4 Bb7 5. c4 g6 6. Nc3 Bg7 7. Bg5 Nf6 8. Qc2 Nh7
+9. Bh4 Bxf3 10. exf3 Bxd4 11. O-O-O Bf6 12. Bg3 O-O 13. Bd3 Kg7 14. Nd5 Bg5+
+15. f4 Bh6 16. Kb1 c6 17. Ne3 f5 18. Bxf5 gxf5 19. Nxf5+ Rxf5 20. Qxf5 Nf6 21.
+Bh4 d6 22. Bg5 Nbd7 23. g4 Qg8 24. Bxh6+ Kxh6 25. g5+ Kg7 26. gxf6+ Kf7 27.
+Qxd7 Kxf6 28. Rhe1 Qh7+ 29. Ka1 Qf7 30. Rxd6+ exd6 31. Qxd6+ Kf5 32. Re5+ Kxf4
+33. Re7+ 1-0
+

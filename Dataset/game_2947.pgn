@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "HabibAmini"]
+[Black "riga1960"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/uwenQyE0"]
+[WhiteTitle "CM"]
+[WhiteElo "2362"]
+[BlackElo "2547"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:39:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 d6 4. g3 g6 5. Bg2 Bg7 6. Ne2 h5 7. O-O h4 8. d4 Qe7
+9. Nbc3 Nf6 10. Nd5 Nxd5 11. Bxd5 e4 12. Bxc6+ bxc6 13. c4 Bg4 14. Qd2 Bf3 15.
+d5 Be5 16. Bxe5 dxe5 17. Rfc1 Rd8 18. Rc2 Qd7 19. Kf1 Qh3+ 20. Ke1 Qxh2 21. Qa5
+Qh1+ 22. Kd2 Qxa1 23. Qxc7 h3 24. Nc3 O-O 25. Qxe5 h2 26. Rc1 Qxc1+ 27. Kxc1
+h1=Q+ 28. Kb2 cxd5 29. Nxd5 Rxd5 30. cxd5 Qh8 0-1
+

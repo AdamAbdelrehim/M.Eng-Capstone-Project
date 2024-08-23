@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "thomasasv"]
+[Black "Lopuh99"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/mlNoi7wA"]
+[WhiteElo "2580"]
+[BlackElo "2603"]
+[ECO "D32"]
+[Opening "Tarrasch Defense: Schara Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:35:17"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c5 4. cxd5 cxd4 5. Qa4+ Bd7 6. Qxd4 exd5 7. Qxd5 Nf6
+8. Qd1 Bc5 9. Nf3 Qc7 10. Bg5 Qb6 11. e3 Qxb2 12. Qc1 Ba3 13. Ne2 Qb4+ 14. Qd2
+Ne4 15. Qxb4 Bxb4+ 16. Kd1 Nxf2+ 17. Kc2 Nxh1 18. Rb1 a5 19. Kb2 Nf2 20. a3 Be7
+21. Ned4 Bxg5 22. Nxg5 Ng4 23. Bc4 O-O 24. Bd5 Nc6 25. Ndf3 Nxe3 26. Ba2 0-1
+

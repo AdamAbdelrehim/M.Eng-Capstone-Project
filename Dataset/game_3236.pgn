@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "QuarterPawn"]
+[Black "ThomasASV"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/XRdDnyuh"]
+[WhiteElo "2693"]
+[BlackElo "2582"]
+[ECO "B96"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:20:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Nbd7 8. Qf3
+Be7 9. O-O-O h6 10. Bxf6 Bxf6 11. g4 g5 12. Nb3 Qc7 13. e5 dxe5 14. Ne4 Be7 15.
+fxg5 hxg5 16. Bg2 a5 17. Rhf1 Rf8 18. a4 Ra6 19. Rf2 Rb6 20. Kb1 Rb4 21. Bf1
+Qc6 22. Bb5 Qxe4 23. Qc3 Rxb5 24. Qxc8+ 1-0
+

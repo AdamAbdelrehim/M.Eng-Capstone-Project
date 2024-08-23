@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Botyuliirma"]
+[Black "RipTorn"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/xC7x6SNR"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2982"]
+[BlackElo "3014"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, Rio Gambit Accepted"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:10:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "-1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5
+8. Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. Bf4 Rxe1 12. Qxe1 Bxd4 13. Bxd6 cxd6 14.
+Nc3 Be5 15. Rd1 b6 16. Qe4 Rb8 17. Nd5 g6 18. c3 Bb7 19. g3 Kg7 20. a3 Qc8 21.
+Qe2 Qc5 22. Bg2 Re8 23. Nf6 Re7 24. Bxb7 Bxf6 25. Qd3 h5 26. h4 Qe5 27. Qxd6
+Qb5 28. Rd2 Re1+ 29. Kh2 Qf1 30. Bg2 Qg1+ 31. Kh3 Rf1 32. Qf4 Rd1 33. Qd6 Rxd2
+34. Qxd2 Be7 35. Qd4+ Bf6 36. Qd2 Be7 37. Qd4+ Bf6 38. Qd2 1/2-1/2
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "syad_bony77"]
+[Black "Pastukhov_Nicolay"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/AI3qWWXP"]
+[WhiteElo "2466"]
+[BlackElo "2522"]
+[ECO "B19"]
+[Opening "Caro-Kann Defense: Classical Variation, Spassky Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:53:25"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Qc7 12. O-O-O Ngf6 13. Kb1 O-O-O 14. Qe2 c5
+15. c4 cxd4 16. Nxd4 Bc5 17. Nb3 a6 18. Ba5 Bb6 19. Bc3 Nc5 20. Be5 Qe7 21. f3
+Nxb3 22. axb3 Qb4 23. Ne4 Nxe4 24. Qxe4 Qxb3 25. Rxd8+ Rxd8 26. Bxg7 Rd2 27.
+Bc3 Rxg2 28. Qh7 Kb8 29. Qh8+ Ka7 30. Be5 Qc2+ 31. Ka1 Qa4+ 32. Kb1 Qc2+ 33.
+Ka1 Qa4+ 34. Kb1 Qc2+ 1/2-1/2
+

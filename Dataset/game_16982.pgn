@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Ac1000"]
+[Black "ropatsch"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/bydPrfXS"]
+[WhiteElo "2550"]
+[BlackElo "2446"]
+[ECO "A16"]
+[Opening "English Opening: Anglo-Indian Defense, Queen's Knight Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:42:17"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 Bg7 4. Nge2 d6 5. g3 O-O 6. Bg2 c5 7. O-O Nc6 8. d3
+Bg4 9. h3 Bxe2 10. Qxe2 Ne8 11. f4 Nc7 12. g4 Ne6 13. g5 Ned4 14. Qd1 a6 15. a4
+Rb8 16. h4 b5 17. axb5 axb5 18. Be3 bxc4 19. dxc4 Rxb2 20. Ra6 Qc8 21. Ra3 Qb7
+22. Bc1 Rb3 23. Rxb3 Qxb3 24. Qxb3 Nxb3 25. e5 0-1
+

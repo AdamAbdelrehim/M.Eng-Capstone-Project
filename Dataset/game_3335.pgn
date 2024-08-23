@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Eggplant"]
+[Black "ignat_final"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/46GtzP0G"]
+[WhiteElo "2460"]
+[BlackElo "2512"]
+[ECO "C88"]
+[Opening "Ruy Lopez: Closed, Anti-Marshall"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:35:50"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+d5 9. exd5 Na5 10. Ba2 e4 11. Nd4 c5 12. Nc6 Nxc6 13. dxc6 Bg4 0-1
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Bebas_BKD"]
+[Black "Predator_Shark"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/kSlQRuQH"]
+[WhiteElo "2450"]
+[BlackElo "2504"]
+[ECO "A00"]
+[Opening "Lasker Simul Special"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:40:25"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. g3 h5 2. Bg2 h4 3. g4 h3 4. Nxh3 d5 5. f3 e5 6. Nf2 e4 7. fxe4 Bd6 8. exd5
+Bxh2 9. e4 Qd6 10. Qf3 Nf6 11. d4 Nbd7 12. g5 Nh5 13. Ng4 Bg3+ 14. Kd1 Nb6 15.
+Nc3 Bd7 16. e5 Qb4 17. Ne2 O-O-O 18. a3 Qc4 19. Rxh5 Rxh5 20. Qxg3 Nxd5 21. b3
+Qc6 22. Ne3 Nc3+ 23. Ke1 Nxe2 24. Kxe2 Qc3 25. Rb1 Bb5+ 26. Kf2 Rxd4 27. Qf3
+Bc6 28. Qxh5 Rf4+ 0-1
+

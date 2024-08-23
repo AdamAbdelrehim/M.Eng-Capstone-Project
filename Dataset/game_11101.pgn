@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "PurpleHunter"]
+[Black "odonata-bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/yhQjgkKK"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2610"]
+[BlackElo "2632"]
+[ECO "E15"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:14:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. c4 Nf6 2. d4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. Bc3
+d5 9. Ne5 Nfd7 10. Nxd7 Nxd7 11. Nd2 O-O 12. O-O Rc8 13. e4 c5 14. exd5 exd5
+15. dxc5 dxc4 16. c6 cxb3 17. Re1 b2 18. Bxb2 Nc5 19. Nb3 Nd3 20. Re2 Nxb2 21.
+Rxb2 Qxd1+ 22. Rxd1 Rfd8 23. Rbd2 Rxd2 24. Rxd2 Rd8 25. Rxd8+ Bxd8 26. Nd4 Bc4
+27. Bf1 Bxf1 28. Kxf1 a6 29. Nc2 Kf8 30. Nb4 Ke7 31. Nxa6 Kd6 32. c7 Bxc7 33.
+Nxc7 Kxc7 34. Ke2 Kd6 35. Kd3 Kd5 36. Kc3 g5 37. Kb4 Kc6 38. g4 b5 39. Ka5 Kc5
+40. Ka6 Kc4 41. Kb6 Kb4 42. h3 Ka4 43. f3 b4 44. Kc6 Ka3 45. Kc5 Ka4 46. Kc4
+Ka3 47. Kc5 Ka4 48. Kc4 Ka3 49. Kc5 1/2-1/2
+

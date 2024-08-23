@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "bluechess2011"]
+[Black "Hoon_Bot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/UDM9WLCm"]
+[BlackTitle "BOT"]
+[WhiteElo "2374"]
+[BlackElo "2868"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:04:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. e4 c5 2. e5 Nc6 3. Ke2 Nxe5 4. Ke1 Nc6 5. Ke2 d5 6. Ke1 e5 7. Ke2 Bg4+ 8.
+Ke1 Bxd1 9. Kxd1 a6 10. Ke2 Nf6 11. Kf3 Nd4+ 12. Kg3 Nh5+ 13. Kg4 f5+ 14. Kh3
+Nf4+ 15. Kg3 Qg5# 0-1
+

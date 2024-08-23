@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Inevizhutaktiku"]
+[Black "thurstonCAT"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/zaTa65es"]
+[WhiteElo "2508"]
+[BlackElo "2435"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:09:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. d4 Nc6 5. Bb5 g6 6. O-O Bg7 7. Re1 Nf6 8.
+Bxc6+ bxc6 9. c3 O-O 10. Bf4 Ne4 11. Nbd2 Bf5 12. Nxe4 Bxe4 13. Ng5 Bf5 14. Qd2
+Re8 15. Nf3 Qb6 16. Be5 f6 17. Bg3 a5 18. b3 a4 19. b4 a3 20. h3 Be4 21. Qe3 e5
+22. dxe5 Qxe3 23. Rxe3 fxe5 24. Rae1 Bxf3 25. gxf3 Rf8 26. Kg2 Rf5 27. Bxe5
+Raf8 28. Bxg7 Kxg7 29. Re7+ Kh6 30. R1e3 Rf4 31. Rc7 Rc4 32. Kg3 Rf5 33. h4 d4
+34. Ree7 g5 35. Re6+ Kh5 36. Rxh7# 1-0
+

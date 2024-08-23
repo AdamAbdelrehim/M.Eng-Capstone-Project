@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "chessiah"]
+[Black "training_kos"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/11G5IqEd"]
+[WhiteTitle "NM"]
+[WhiteElo "2464"]
+[BlackElo "2536"]
+[ECO "A30"]
+[Opening "English Opening: Symmetrical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:19:44"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. Nf3 c5 2. c4 e6 3. g3 Nc6 4. Bg2 g6 5. O-O Bg7 6. Nc3 Nge7 7. d3 d5 8. Bg5
+d4 9. Na4 b6 10. a3 Bb7 11. Rb1 O-O 12. b4 cxb4 13. axb4 f6 14. Bd2 e5 15. b5
+Nb8 16. Bb4 Nd7 17. Nd2 Bxg2 18. Kxg2 Re8 19. Nb3 Qc7 20. Ra1 Nf5 21. Qb1 Bf8
+22. Bxf8 Nxf8 23. Rc1 Ne6 24. c5 Qd7 25. Nd2 Ng5 26. Qa2+ Kg7 27. c6 Qd6 28.
+Ne4 Nxe4 29. dxe4 Ne7 30. Qa3 Qxa3 31. Rxa3 Nc8 32. f3 Nd6 33. Rb1 Kf7 34. Rb4
+Ke6 35. Nb2 Re7 36. Nc4 Nxc4 37. Rxc4 Rc7 38. Ra6 Kd6 39. Kf2 Re8 40. e3 f5 41.
+exd4 fxe4 42. fxe4 exd4 43. Rxd4+ Kc5 44. Rd5+ Kb4 45. Ke3 Rce7 46. e5 Rxe5+
+47. Rxe5 Rxe5+ 48. Kd4 Re7 49. Kd5 Kxb5 50. Kd6 Rf7 51. Ra2 Rf6+ 52. Kd7 Rf7+
+53. Ke6 Rc7 54. Kd5 a5 55. Rb2+ Ka6 56. Kd6 Rc8 57. c7 b5 58. Kc6 b4 59. Rb3 h5
+60. h4 Rg8 61. Rd3 Rc8 62. Rd8 Rxc7+ 63. Kxc7 Kb5 64. Ra8 a4 65. Kd6 b3 0-1
+

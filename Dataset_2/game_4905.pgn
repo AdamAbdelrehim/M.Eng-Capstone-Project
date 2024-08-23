@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.05.02"]
+[Round "-"]
+[White "lakato"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "Q1kr1bnr/2p1qppp/2P5/8/2p5/2N1B3/PP3PPP/R3KBNR b KQ -"]
+[Timezone "UTC"]
+[ECO "D31"]
+[ECOUrl "https://www.chess.com/openings/Queens-Gambit-Declined-Queens-Knight-Variation-3...dxc4-4.e4"]
+[UTCDate "2022.05.02"]
+[UTCTime "15:24:53"]
+[WhiteElo "1513"]
+[BlackElo "1487"]
+[TimeControl "60"]
+[Termination "lakato won by checkmate"]
+[StartTime "15:24:53"]
+[EndDate "2022.05.02"]
+[EndTime "15:25:49"]
+[Link "https://www.chess.com/game/live/45244182893"]
+
+1. d4 { [%clk 0:01:00] } 1... d5 { [%clk 0:00:58.9] } 2. c4
+{ [%clk 0:00:59.4] } 2... e6 { [%clk 0:00:58.4] } 3. Nc3 { [%clk 0:00:58.3] }
+3... dxc4 { [%clk 0:00:56] } 4. e4 { [%clk 0:00:56.6] } 4... b5
+{ [%clk 0:00:55.9] } 5. Nxb5 { [%clk 0:00:55] } 5... Ba6 { [%clk 0:00:53.8] }
+6. Nc3 { [%clk 0:00:53.4] } 6... Nc6 { [%clk 0:00:52] } 7. Qa4
+{ [%clk 0:00:51.2] } 7... Bb7 { [%clk 0:00:49] } 8. d5 { [%clk 0:00:50.1] }
+8... exd5 { [%clk 0:00:47.8] } 9. exd5 { [%clk 0:00:49.1] } 9... Qe7+
+{ [%clk 0:00:41.1] } 10. Be3 { [%clk 0:00:47.6] } 10... O-O-O
+{ [%clk 0:00:37.1] } 11. dxc6 { [%clk 0:00:45.6] } 11... Ba8 { [%clk 0:00:33] }
+12. Qa6+ { [%clk 0:00:43.3] } 12... Kb8 { [%clk 0:00:31.6] } 13. Qxa7+
+{ [%clk 0:00:42.5] } 13... Kc8 { [%clk 0:00:29.7] } 14. Qxa8#
+{ [%clk 0:00:41.7] } 1-0
+

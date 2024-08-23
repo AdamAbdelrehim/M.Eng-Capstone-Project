@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "phanpy"]
+[Black "poucin"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/iKecsKhW"]
+[WhiteTitle "NM"]
+[WhiteElo "2421"]
+[BlackElo "2536"]
+[ECO "E90"]
+[Opening "King's Indian Defense: Normal Variation, Rare Defenses"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:02:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 Nc6 7. d5 Nb4 8. a3 Na6
+9. Bg5 h6 10. Be3 e6 11. Be2 exd5 12. exd5 Re8 13. O-O Rxe3 14. fxe3 Qe7 15.
+Kf2 Nc5 16. Nd2 Bd7 17. b4 Re8 18. e4 Ncxe4+ 19. Ndxe4 Nxe4+ 20. Nxe4 Qxe4 21.
+Qd3 Bd4+ 22. Kg3 Qxe2 23. Qxe2 Rxe2 24. Rae1 Bf2+ 25. Rxf2 Rxe1 0-1
+

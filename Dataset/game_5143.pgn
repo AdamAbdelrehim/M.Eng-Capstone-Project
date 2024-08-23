@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "magnusglad_bot"]
+[Black "WilliamGAsaad"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/B6WV6PlJ"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2788"]
+[BlackElo "2987"]
+[ECO "E00"]
+[Opening "Catalan Opening"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:34:38"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Nf3 Bb4+ 5. Bd2 Be7 6. Bg2 c6 7. O-O O-O 8. Qc2
+Nbd7 9. Bf4 b6 10. cxd5 cxd5 11. Rc1 Bb7 12. Bc7 Qe8 13. Nc3 Rc8 14. Bf4 h6 15.
+Qd1 a6 16. Rc2 b5 17. Rac1 Qd8 18. h4 b4 19. Na4 Rxc2 20. Rxc2 Qa8 21. Rc7 Bd8
+22. Rc2 Be7 23. Qc1 Rc8 24. Rxc8+ Qxc8 25. Qxc8+ Bxc8 26. e3 Ne4 27. Bc7 Kf8
+28. Ne1 Bd6 29. Ba5 Nb8 30. Nd3 Nc6 31. Bb6 Nd2 32. b3 Ke8 33. Ndc5 Nb8 34. e4
+dxe4 35. Nxe4 Nxe4 36. Bxe4 Bd7 37. Nc5 Bb5 38. Ba5 Bxc5 39. dxc5 Nc6 40. Bxc6+
+Bxc6 41. Bxb4 Be4 42. Kf1 Bb1 43. a3 h5 44. c6 Be4 45. c7 Kd7 46. Bf8 g6 47.
+Bd6 f6 48. Ke2 Bb7 49. Bf8 Bd5 50. b4 Kxc7 51. Be7 e5 52. Bxf6 Kd6 53. Ke3 Bb3
+54. Bg5 Kd5 55. Be7 Ba4 56. Bc5 Bb5 57. Bf8 Ba4 58. Bc5 Bd7 59. Bf8 Bc6 60. Be7
+Kc4 61. Bf6 Kb3 62. Kd3 Kxa3 63. Kc4 Bb5+ 64. Kc5 Kb3 65. Bxe5 Be2 66. Bd6 Kc3
+67. Kd5 Bf3+ 68. Ke5 Kc4 69. Kf6 Be4 70. Kg5 Kd5 71. Bc5 Ke6 72. Bf8 Kf7 73.
+Bc5 Bf3 74. Bb6 Bd1 75. Kf4 Kf6 76. f3 Ke6 77. g4 Kd5 78. Bd8 Ke6 79. Bc7 Kf6
+80. Bb6 Ke6 81. gxh5 gxh5 82. Ba5 Kf7 0-1
+

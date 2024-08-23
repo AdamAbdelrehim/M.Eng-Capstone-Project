@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Statham_13"]
+[Black "DarkAlekhine"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/8lFA4gnl"]
+[WhiteTitle "CM"]
+[BlackTitle "GM"]
+[WhiteElo "2724"]
+[BlackElo "2728"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Normal Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:21:35"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. e4 Nf6 2. e5 Nd5 3. f4 d6 4. Nf3 dxe5 5. fxe5 Bg4 6. d4 e6 7. Bd3 c5 8. c3
+cxd4 9. cxd4 Nc6 10. O-O Be7 11. Nc3 O-O 12. Be4 Nxc3 13. bxc3 f5 14. exf6 Bxf6
+15. Qc2 h6 16. Rb1 Qc7 17. Be3 Rac8 18. Qd2 Na5 19. Bf4 Qxc3 20. Qxc3 Rxc3 21.
+Bd2 Bxf3 22. gxf3 Bxd4+ 23. Kh1 Ra3 24. Bb4 Rxa2 25. Bxf8 Kxf8 26. Rbd1 Bb6 27.
+Rd7 Nc4 28. Rfd1 Ne3 29. Rc1 Ke8 30. Rxb7 Kd8 31. Rxg7 Bd4 32. Rh7 Be5 33. Rxh6
+Bf4 34. Rh8+ Ke7 35. Rb1 Nc4 36. Rh4 e5 37. Rh7+ Kd6 38. Rd1+ Kc5 39. Rc7+ Kb4
+40. Rb1+ Kc3 41. Bd5 Rxh2+ 42. Kg1 Kc2 43. Be4+ Kc3 44. Bd5 Kc2 45. Rxc4+ Kxb1
+46. Rxf4 Rd2 47. Be4+ Kc1 48. Rf5 Rd1+ 49. Kg2 Rd2+ 50. Kg3 Rb2 51. Kg4 Kd2 52.
+Rxe5 Rb4 53. Kf4 Kc3 54. Rd5 Kb3 55. Ke5 Ka4 56. f4 Rc4 57. f5 Kb4 58. f6 a5
+59. Rd4 Rxd4 60. Kxd4 a4 61. Bd5 a3 62. f7 Ka4 63. Ba2 Kb4 64. f8=Q+ Ka4 65.
+Qe8+ Ka5 66. Qe7 Ka4 67. Bb3+ Ka5 68. Bc4 Kb6 69. Kd5 1-0
+

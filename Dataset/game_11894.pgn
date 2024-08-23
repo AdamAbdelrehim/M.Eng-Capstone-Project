@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Attila76"]
+[Black "prof28"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/0Oqwy1E4"]
+[WhiteTitle "FM"]
+[WhiteElo "2571"]
+[BlackElo "2519"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System, with e6"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:12:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 e6 2. Nf3 d5 3. Bf4 Bb4+ 4. c3 Ba5 5. Nbd2 Ne7 6. e3 O-O 7. Bd3 c6 8. h4
+Bc7 9. Bxh7+ Kh8 10. Ng5 g6 11. h5 Bxf4 12. exf4 Kg7 13. hxg6 fxg6 14. Qg4 Nf5
+15. Qh3 Rh8 16. g4 Qd6 17. gxf5 Qxf4 18. Qh6+ Kf6 1-0
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "g6-player"]
+[Black "bkamber"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/GRLmU2Bn"]
+[WhiteElo "2308"]
+[BlackElo "2504"]
+[ECO "B03"]
+[Opening "Alekhine Defense: Four Pawns Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:07:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. f4 dxe5 6. fxe5 Bf5 7. Nc3 e6 8. Be3
+Bb4 9. Nf3 c5 10. a3 cxd4 11. axb4 dxe3 12. Qxd8+ Kxd8 13. Nd4 Nc6 14. Nxf5
+exf5 15. O-O-O+ Ke7 16. c5 Nc8 17. Nd5+ Kf8 18. Nxe3 g6 19. Nc4 Nxb4 20. Rd7
+Na6 21. Nd6 Nxd6 22. cxd6 Nc5 23. Rc7 b6 24. Bc4 Kg7 25. Rxf7+ Kh6 26. Kb1 Rhe8
+27. Re1 Ne4 28. Rxe4 fxe4 29. d7 Rxe5 30. Kc2 b5 31. Bb3 e3 32. Kd1 e2+ 33. Ke1
+a5 34. h4 a4 35. Bc2 a3 36. bxa3 Rxa3 37. Kd2 e1=Q# 0-1
+

@@ -1,0 +1,52 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "YoBot_v2"]
+[Black "BitByByte"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/m8Q36qLU"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2746"]
+[BlackElo "2603"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[TimeControl "1500+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:43:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+
+1. d4 c6 2. e4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O Ne7 7. c3 c5 8. dxc5
+Nxc5 9. Nd4 Bg6 10. h4 h6 11. Be3 Nc6 12. c4 dxc4 13. Nxc6 bxc6 14. Na3 c3 15.
+h5 Bf5 16. Qc1 cxb2 17. Qxb2 Be4 18. Rad1 Bd5 19. Nc4 Rb8 20. Qc2 Nd7 21. Rd4
+Qc7 22. Rc1 a5 23. Rg4 Be7 24. Rxg7 Nxe5 25. Rg3 Bg5 26. Qc3 Bxc4 27. Bxc4 Rb4
+28. Be2 Re4 29. a3 Bxe3 30. Rxe3 Rxe3 31. Qxe3 Ke7 32. Qc5+ Qd6 33. Qxa5 Qd4
+34. Rd1 Qe4 35. Rd2 Rg8 36. g3 Nf3+ 37. Bxf3 Qxf3 38. Qc5+ Kf6 39. Qd4+ e5 40.
+Qd6+ Kg7 41. Qxe5+ Kh7 42. Rd4 Rg5 43. Qf4 Qxh5 44. Kg2 Rf5 45. Qe4 Qg6 46. a4
+Rh5 47. Qf4 Rf5 48. Qd2 Rh5 49. Qd1 Re5 50. Rg4 Qf5 51. Qd4 c5 52. Qc4 Qd7 53.
+a5 Qb7+ 54. f3 Qb2+ 55. Kh3 Rh5+ 56. Rh4 Rxh4+ 57. gxh4 Qb7 58. Kg2 Qb2+ 59.
+Kg3 Qe5+ 60. Kg2 Qb2+ 61. Kg3 Qe5+ 62. Kh3 Qf6 63. f4 Kg8 64. a6 Qa1 65. h5
+Qh1+ 66. Kg4 Qd1+ 67. Kg3 Qg1+ 68. Kf3 Qh1+ 69. Kf2 Qh4+ 70. Ke3 Qe1+ 71. Kf3
+Qh1+ 72. Ke3 Qe1+ 73. Qe2 Qb4 74. f5 c4 75. Qg2+ Kf8 76. Qb7 Qc3+ 77. Ke4 Qd3+
+78. Ke5 Qe3+ 79. Kd5 c3 80. f6 Qe6+ 81. Kd4 Qxf6+ 82. Kd3 Qf1+ 83. Kxc3 Qe1+
+84. Kb2 Qd2+ 85. Kb3 Qd1+ 86. Kb4 Qd2+ 87. Kb3 Qd1+ 88. Ka2 Qd2+ 89. Ka3 Qc3+
+90. Ka2 Qc2+ 91. Ka3 Qc3+ 92. Ka4 Qa1+ 93. Kb5 Qe5+ 94. Ka4 Qa1+ 95. Kb4 Qe1+
+96. Kb5 Qe5+ 97. Kc6 Qe6+ 98. Kc5 Qe3+ 99. Kc6 Qe6+ 100. Kc7 Qe5+ 101. Kb6 Qe3+
+102. Ka5 Qa3+ 103. Kb6 Qe3+ 104. Ka5 Qa3+ 105. Kb5 Qb2+ 106. Kc4 Qa2+ 107. Kd3
+Qa3+ 108. Kd4 Qa1+ 109. Kd3 Qf1+ 110. Kc3 Qa1+ 111. Kc2 Qa2+ 112. Kd3 Qa3+ 113.
+Ke4 Qa4+ 114. Ke3 Qa3+ 115. Kd4 Qa1+ 116. Kd5 Qa2+ 117. Ke5 Qa5+ 118. Kd6 Qa3+
+119. Kc6 Qf3+ 120. Kc7 Qf4+ 121. Kc8 Qg4+ 122. Kb8 Qf4+ 123. Qc7 Qb4+ 124. Kc8
+Qg4+ 125. Kb7 Qe4+ 126. Qc6 Qb4+ 127. Kc8 Kg7 128. a7 Qg4+ 129. Kb7 Qb4+ 130.
+Kc8 Qg4+ 131. Kc7 Qf4+ 132. Qd6 Qc4+ 133. Qc6 Qf4+ 134. Qd6 Qc4+ 135. Kd8 Qh4+
+136. Qe7 Qd4+ 137. Kc8 Qc4+ 138. Kb8 Qb3+ 139. Kc7 Qc4+ 140. Kb6 Qb3+ 141. Kc6
+Qa4+ 142. Kb6 Qb3+ 143. Kc6 Qa4+ 144. Kb7 Qb3+ 145. Kc8 Qc4+ 146. Qc7 Qg4+ 147.
+Kb8 Qb4+ 148. Kc8 Qg4+ 149. Kd8 Qd1+ 150. Ke7 Qe1+ 151. Kd8 Qh4+ 152. Qe7 Qd4+
+153. Qd7 Qf6+ 154. Ke8 Qe5+ 155. Qe7 Qb5+ 156. Qd7 Qe5+ 157. Qe7 Qb5+ 158. Kd8
+Qd5+ 159. Kc7 Qa5+ 160. Kc8 Qa6+ 161. Kd8 Qb6+ 162. Qc7 Qf6+ 163. Kc8 Qf5+ 164.
+Qd7 Qc5+ 165. Qc7 Qf5+ 166. Qd7 Qc5+ 167. Kb7 Qb4+ 168. Ka6 Qc4+ 169. Kb6 Qb4+
+170. Ka6 Qa3+ 171. Kb6 Qb3+ 172. Kc7 Qg3+ 173. Qd6 Qc3+ 174. Kd7 Qh3+ 175. Kd8
+Qf3 176. Kc7 Qc3+ 177. Qc6 Qa5+ 178. Qb6 1/2-1/2
+

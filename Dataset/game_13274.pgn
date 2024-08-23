@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "QuantGuy"]
+[Black "Encoga10"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/4gUv6izY"]
+[WhiteElo "2527"]
+[BlackElo "2458"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:19:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-12"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 d6 4. Nc3 Bd7 5. Bxc6 Bxc6 6. d4 cxd4 7. Nxd4 Bd7 8.
+O-O g6 9. Be3 Bg7 10. a4 Nf6 11. a5 O-O 12. h3 Rc8 13. Nb3 Ra8 14. Qd3 Qc7 15.
+Nd4 Rfc8 16. a6 b6 17. Ra3 Qc4 18. Qd2 e5 19. Nf3 Nxe4 20. Nxe4 Qxe4 21. Qxd6
+Bc6 22. Rc3 Bb5 23. Rxc8+ Rxc8 24. Re1 Qxc2 25. Nxe5 Qxb2 26. Nxf7 Bxa6 27. Qe6
+Kf8 28. Ng5 Qf6 29. Nxh7# 1-0
+

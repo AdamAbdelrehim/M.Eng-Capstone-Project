@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.28"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "pakyatim"]
+[Result "0-1"]
+[CurrentPosition "rnbq1knr/ppp3pp/8/3QP3/1b1P4/8/PPP2PPP/RNB1K2R w KQ -"]
+[Timezone "UTC"]
+[ECO "C20"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Damiano-Defense-Damiano-Gambit-3...fxe5-4.Qh5"]
+[UTCDate "2023.10.28"]
+[UTCTime "04:58:09"]
+[WhiteElo "1848"]
+[BlackElo "1960"]
+[TimeControl "600"]
+[Termination "pakyatim won by resignation"]
+[StartTime "04:58:09"]
+[EndDate "2023.10.28"]
+[EndTime "05:01:01"]
+[Link "https://www.chess.com/game/live/92208062471"]
+
+1. e4 { [%clk 0:09:59.2] } 1... e5 { [%clk 0:09:58.4] } 2. Nf3
+{ [%clk 0:09:57.7] } 2... f6 { [%clk 0:09:56.4] } 3. Nxe5 { [%clk 0:09:44.6] }
+3... fxe5 { [%clk 0:09:52.3] } 4. Qh5+ { [%clk 0:09:42.6] } 4... Ke7
+{ [%clk 0:09:50.8] } 5. Qxe5+ { [%clk 0:09:15.5] } 5... Kf7 { [%clk 0:09:48] }
+6. Bc4+ { [%clk 0:09:12.1] } 6... d5 { [%clk 0:09:45.2] } 7. Bxd5+
+{ [%clk 0:09:10.2] } 7... Kg6 { [%clk 0:09:43.6] } 8. d4 { [%clk 0:08:55.2] }
+8... Bd6 { [%clk 0:09:31.5] } 9. Bf7+ { [%clk 0:08:18.8] } 9... Kxf7
+{ [%clk 0:09:27.9] } 10. Qd5+ { [%clk 0:08:14.1] } 10... Kf8
+{ [%clk 0:09:18.9] } 11. e5 { [%clk 0:08:03.2] } 11... Bb4+
+{ [%clk 0:09:14.2] } 0-1
+

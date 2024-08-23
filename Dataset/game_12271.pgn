@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Chess_Antistress"]
+[Black "vvrtixsen"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/r3tKc9UF"]
+[WhiteElo "2554"]
+[BlackElo "2512"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:02:47"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 h5 2. e4 h4 3. Bd3 d5 4. e5 c5 5. c3 Nc6 6. Ne2 h3 7. g3 Bg4 8. Be3 Qb6
+9. dxc5 Qxb2 10. Nd2 Nxe5 11. Bc2 Bxe2 12. Ba4+ Bb5 13. Rb1 Nd3+ 14. Ke2 Nxc5+
+15. Bxb5+ 1-0
+

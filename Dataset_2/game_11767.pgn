@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.23"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Locatelli30"]
+[Result "0-1"]
+[CurrentPosition "2kr3r/ppp2pp1/2nb1n2/7p/8/2N4q/PPPPBP1N/R1BQ1R1K w - -"]
+[Timezone "UTC"]
+[ECO "C42"]
+[ECOUrl "https://www.chess.com/openings/Petrovs-Defense-Classical-Variation"]
+[UTCDate "2024.03.23"]
+[UTCTime "22:00:25"]
+[WhiteElo "1948"]
+[BlackElo "1985"]
+[TimeControl "600"]
+[Termination "Locatelli30 won by resignation"]
+[StartTime "22:00:25"]
+[EndDate "2024.03.23"]
+[EndTime "22:02:12"]
+[Link "https://www.chess.com/game/live/104970095849"]
+
+1. e4 { [%clk 0:09:53.2] } 1... e5 { [%clk 0:09:59] } 2. Nf3 { [%clk 0:09:52] }
+2... Nf6 { [%clk 0:09:57.7] } 3. Nxe5 { [%clk 0:09:50] } 3... d5
+{ [%clk 0:09:56.3] } 4. exd5 { [%clk 0:09:42.1] } 4... Qxd5
+{ [%clk 0:09:55.4] } 5. Nf3 { [%clk 0:09:34.5] } 5... Bg4 { [%clk 0:09:54.2] }
+6. Be2 { [%clk 0:09:31.8] } 6... Nc6 { [%clk 0:09:52.2] } 7. Nc3
+{ [%clk 0:09:30.4] } 7... Qd7 { [%clk 0:09:50.7] } 8. O-O { [%clk 0:09:29.4] }
+8... O-O-O { [%clk 0:09:49.6] } 9. h3 { [%clk 0:09:27.6] } 9... Bxh3
+{ [%clk 0:09:48.1] } 10. gxh3 { [%clk 0:09:23.6] } 10... Qxh3
+{ [%clk 0:09:47] } 11. Nh2 { [%clk 0:09:03.7] } 11... h5 { [%clk 0:09:39.1] }
+12. Kh1 { [%clk 0:08:55.2] } 12... Bd6 { [%clk 0:09:35.7] } 0-1
+

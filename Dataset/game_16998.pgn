@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "fornax-engine"]
+[Black "AKS-Mantissa"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/FCGTqNTi"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2341"]
+[BlackElo "2738"]
+[ECO "D46"]
+[Opening "Semi-Slav Defense: Chigorin Defense"]
+[TimeControl "300+3"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:46:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Bd3 Bd6 7. O-O O-O 8. e4
+dxc4 9. Bxc4 e5 10. Be2 Qe7 11. Bg5 exd4 12. Qxd4 Re8 13. Rad1 Bc5 14. Qc4 b5
+15. Qb3 h6 16. Bxf6 Qxf6 17. Qc2 Bb6 18. Rd2 Ne5 19. Nxe5 Qxe5 20. a3 Be6 21.
+Nd1 Rac8 22. Ne3 g6 23. Kh1 Bxe3 24. fxe3 a5 25. b3 Rb8 26. b4 axb4 27. axb4
+Rec8 28. Qd3 c5 29. bxc5 Rxc5 30. Qd4 b4 31. g3 Qc7 32. Rb1 b3 33. Kg2 Rc2 34.
+Kf2 b2 35. Qd3 Rxd2 36. Qxd2 Qe5 37. Qd4 Qxd4 38. exd4 Ba2 39. Bd3 Bxb1 40.
+Bxb1 Rc8 41. Ke2 Rc1 42. Bd3 b1=Q 43. Bxb1 Rxb1 44. Ke3 Rb3+ 45. Kf4 Kf8 46. e5
+Ke7 47. Ke4 Rb2 48. h4 Re2+ 49. Kf3 Re1 50. Kf2 Re4 51. Kf3 Rxd4 52. Ke3 Rd5
+53. Ke4 Ke6 54. g4 g5 55. hxg5 hxg5 56. Kf3 Kxe5 57. Ke3 f5 58. gxf5 Kxf5 59.
+Kf3 g4+ 60. Ke3 g3 61. Kf3 Rd3+ 62. Ke2 Ke4 63. Kf1 Kf3 64. Kg1 Rd1# 0-1
+

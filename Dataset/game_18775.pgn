@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Chess-Network"]
+[Black "bancsoo"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Jt2XLgRb"]
+[WhiteTitle "NM"]
+[BlackTitle "GM"]
+[WhiteElo "2675"]
+[BlackElo "2779"]
+[ECO "D14"]
+[Opening "Slav Defense: Exchange Variation, Symmetrical Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:40:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. c4 c6 2. Nc3 d5 3. d4 Nf6 4. cxd5 cxd5 5. Nf3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Rc1
+Be7 9. Be2 O-O 10. O-O Rc8 11. a3 Na5 12. Ne5 Nd7 13. Bd3 Nxe5 14. Bxe5 Bxd3
+15. Qxd3 Nc4 16. Rc2 Qb6 17. Qe2 Rc6 18. Rfc1 Rfc8 19. h3 Qb3 20. Bg3 Nxa3 21.
+bxa3 Rxc3 22. Rxc3 Rxc3 23. Rxc3 Qxc3 24. Qb5 Qc6 25. Qxc6 bxc6 26. a4 c5 27.
+dxc5 Bxc5 28. Kf1 f6 29. f3 e5 30. e4 Kf7 31. Ke2 Ke6 32. Kd3 f5 33. Be1 dxe4+
+34. fxe4 f4 35. Bc3 g5 36. Ke2 h5 37. Kf3 Bd6 38. Ba5 Kd7 39. g3 Be7 40. Be1 a6
+41. Bc3 Bd6 42. Ba5 Bc7 43. Bb4 Bd6 44. Ba5 Kc8 45. Bb6 Bc7 46. Bc5 fxg3 47.
+Kxg3 Kd7 48. Kf3 Bd8 49. Bb4 Kc6 50. Bf8 Bc7 51. Ke3 Bd6 52. Bh6 g4 53. hxg4
+hxg4 54. Kd3 g3 55. Ke2 Kc5 56. Kf3 Kb4 57. Kxg3 Kxa4 58. Kf3 Kb3 59. Ke2 a5
+60. Kd3 a4 61. Kd2 a3 62. Kc1 a2 0-1
+

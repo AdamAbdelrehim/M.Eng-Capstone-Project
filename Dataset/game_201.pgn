@@ -1,0 +1,30 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "caissa-x"]
+[Black "odonata-bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/yrZWdhcj"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3041"]
+[BlackElo "2734"]
+[ECO "A28"]
+[Opening "English Opening: Four Knights System, Nimzowitsch Variation"]
+[TimeControl "600+4"]
+[UTCDate "2024.06.01"]
+[UTCTime "01:18:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e4 Bb4 5. d3 d6 6. a3 Bxc3+ 7. bxc3 Ne7 8. g3
+Ng6 9. Bg2 O-O 10. O-O h6 11. Ne1 Be6 12. f4 exf4 13. gxf4 Bg4 14. Qd2 Re8 15.
+a4 c5 16. Nc2 Bd7 17. Ne3 b6 18. f5 Ne5 19. d4 Nc6 20. Nd5 cxd4 21. cxd4 Nxe4
+22. Qf4 Nf6 23. Ra3 Nxd5 24. cxd5 Ne7 25. Be4 Nc8 26. f6 Qxf6 27. Qxf6 gxf6 28.
+Rg3+ Kf8 29. Bxh6+ Ke7 30. Bc2 b5 31. a5 b4 32. h4 Bb5 33. Re1+ Kd8 34. Rxe8+
+Bxe8 35. h5 Ne7 36. Bf8 b3 37. Rxb3 Rc8 38. h6 Ng6 39. Bxg6 fxg6 40. h7 Rc1+
+41. Kh2 Rc2+ 42. Kg3 Ba4 43. Re3 Kc7 44. h8=Q f5 45. Qg7+ Kc8 46. Qxa7 f4+ 47.
+Kxf4 Bd7 48. Bxd6 g5+ 49. Kg3 Rg2+ 50. Kxg2 Bh3+ 51. Rxh3 g4 52. Rh8# 1-0
+

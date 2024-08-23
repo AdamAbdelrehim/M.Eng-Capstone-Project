@@ -1,0 +1,29 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Hoon_Bot"]
+[Black "karpen-b"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/tbz9Gl8B"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2884"]
+[BlackElo "2971"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Accelerated London System, Steinitz Countergambit"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:11:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-5"]
+
+1. d4 d5 2. Bf4 c5 3. e3 Nc6 4. c3 Bf5 5. Qb3 Qd7 6. Nf3 e6 7. dxc5 Bxc5 8. Ne5
+Nxe5 9. Bxe5 Kf8 10. Nd2 Ne7 11. Bb5 Nc6 12. e4 dxe4 13. Nc4 Kg8 14. Rd1 Qe7
+15. Bxc6 bxc6 16. Qa4 Qb7 17. b4 Be7 18. h3 h5 19. O-O Kh7 20. Na5 Qb5 21. Qxb5
+cxb5 22. Rd7 Bf6 23. Bxf6 gxf6 24. Rxf7+ Kg6 25. Rb7 Rac8 26. Rc1 Rhg8 27. Rxb5
+Kh6 28. Rc5 Rcd8 29. Nc6 Rd7 30. Kh2 e3 31. Nd4 Bd3 32. fxe3 e5 33. Nf3 Be4 34.
+Rf1 Rd2 35. Nxd2 Rxg2+ 36. Kh1 Rxd2+ 37. Kg1 Rg2+ 38. Kh1 Rxa2+ 39. Kg1 Rg2+
+40. Kh1 Rb2+ 41. Kg1 Rg2+ 42. Kh1 Re2+ 43. Kg1 Rg2+ 1/2-1/2
+

@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Mr_Jerry_Springer"]
+[Black "al1978"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/z96zssKC"]
+[WhiteElo "2513"]
+[BlackElo "2329"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "06:00:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 e5 4. Ng3 Be6 5. Nf3 f6 6. b3 Qd7 7. Bc4 c5 8. O-O
+Nc6 9. d3 g6 10. Bd2 Bd6 11. c3 h5 12. cxd4 cxd4 13. Nh4 Ke7 14. Nxg6+ 1-0
+

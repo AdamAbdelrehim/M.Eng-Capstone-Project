@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.12"]
+[Round "-"]
+[White "yohoyboy"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r1b1q1k1/pppp1rp1/5b1p/8/3Nn2P/1QP5/PP3PP1/RN2K2R w KQ -"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Kennedy-Variation"]
+[UTCDate "2021.01.12"]
+[UTCTime "18:27:17"]
+[WhiteElo "832"]
+[BlackElo "892"]
+[TimeControl "300"]
+[Termination "AdamAbdelrehim won - game abandoned"]
+[StartTime "18:27:17"]
+[EndDate "2021.01.12"]
+[EndTime "18:29:30"]
+[Link "https://www.chess.com/game/live/6216427247"]
+
+1. e4 { [%clk 0:05:00] } 1... e5 { [%clk 0:05:00] } 2. d4 { [%clk 0:04:59.2] }
+2... Nc6 { [%clk 0:04:55.7] } 3. dxe5 { [%clk 0:04:57.9] } 3... Nxe5
+{ [%clk 0:04:54.1] } 4. Bf4 { [%clk 0:04:56.5] } 4... Bd6 { [%clk 0:04:50] } 5.
+Bxe5 { [%clk 0:04:55.5] } 5... Bxe5 { [%clk 0:04:48.1] } 6. c3
+{ [%clk 0:04:55.4] } 6... Nf6 { [%clk 0:04:44.3] } 7. Qb3 { [%clk 0:04:49.2] }
+7... O-O { [%clk 0:04:35.7] } 8. Bc4 { [%clk 0:04:41.9] } 8... Nxe4
+{ [%clk 0:04:21.4] } 9. Nf3 { [%clk 0:04:39.7] } 9... Bf6 { [%clk 0:04:16.4] }
+10. h4 { [%clk 0:04:33.7] } 10... h6 { [%clk 0:04:14] } 11. Bxf7+
+{ [%clk 0:04:31.3] } 11... Rxf7 { [%clk 0:04:09.9] } 12. Nd4
+{ [%clk 0:04:28.9] } 12... Qe8 { [%clk 0:03:56.2] } 0-1
+

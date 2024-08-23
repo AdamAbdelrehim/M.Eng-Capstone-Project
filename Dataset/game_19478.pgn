@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "EinarHjalti"]
+[Black "ianina"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/sVjLrK6W"]
+[WhiteTitle "IM"]
+[WhiteElo "2558"]
+[BlackElo "2544"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:25:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nd2 e6 4. e3 h6 5. Bh4 c5 6. c3 Bd6 7. Bd3 Qc7 8. Bxf6
+gxf6 9. Ngf3 Nd7 10. O-O f5 11. Qe2 Nf6 12. dxc5 Bxc5 13. b4 Bd6 14. c4 Bd7 15.
+Rfc1 Qd8 16. a3 Bc6 17. Nd4 Rc8 18. c5 Bb8 19. b5 e5 20. Bxf5 exd4 21. Bxc8 d3
+22. Qxd3 Qxc8 23. bxc6 bxc6 24. Rab1 Rh7 1-0
+

@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.02.14"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Jani00001"]
+[Result "1-0"]
+[CurrentPosition "4k2r/q1p2pb1/3p1n1p/1b1P1N2/1p2PB1P/1B3P2/1PP3P1/2Q1K2R b Kk -"]
+[Timezone "UTC"]
+[ECO "B07"]
+[ECOUrl "https://www.chess.com/openings/Pirc-Defense-Modern-Defense-Geller-System"]
+[UTCDate "2024.02.14"]
+[UTCTime "16:06:20"]
+[WhiteElo "1919"]
+[BlackElo "1856"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "16:06:20"]
+[EndDate "2024.02.14"]
+[EndTime "16:09:35"]
+[Link "https://www.chess.com/game/live/101665890915"]
+
+1. e4 { [%clk 0:10:00] } 1... d6 { [%clk 0:09:57.6] } 2. Nf3
+{ [%clk 0:09:59.1] } 2... e6 { [%clk 0:09:50.5] } 3. d4 { [%clk 0:09:58.2] }
+3... Nd7 { [%clk 0:09:50.4] } 4. Nc3 { [%clk 0:09:57.1] } 4... h6
+{ [%clk 0:09:50.3] } 5. Bf4 { [%clk 0:09:56.7] } 5... g5 { [%clk 0:09:50.2] }
+6. Be3 { [%clk 0:09:55.2] } 6... Bg7 { [%clk 0:09:49.7] } 7. h3
+{ [%clk 0:09:54.1] } 7... e5 { [%clk 0:09:49] } 8. d5 { [%clk 0:09:51.7] } 8...
+Ne7 { [%clk 0:09:46.8] } 9. Bb5 { [%clk 0:09:49.3] } 9... Ng6
+{ [%clk 0:09:45] } 10. Qd2 { [%clk 0:09:47.6] } 10... a6 { [%clk 0:09:44.2] }
+11. Ba4 { [%clk 0:09:46.2] } 11... b5 { [%clk 0:09:43.3] } 12. Bb3
+{ [%clk 0:09:44.8] } 12... Nf6 { [%clk 0:09:40.8] } 13. a3 { [%clk 0:09:42.9] }
+13... Bd7 { [%clk 0:09:38.3] } 14. h4 { [%clk 0:09:38.1] } 14... g4
+{ [%clk 0:09:37.1] } 15. Nh2 { [%clk 0:09:36.6] } 15... a5 { [%clk 0:09:33.8] }
+16. f3 { [%clk 0:09:28.5] } 16... g3 { [%clk 0:09:31.9] } 17. Nf1
+{ [%clk 0:09:27.3] } 17... b4 { [%clk 0:09:24.4] } 18. axb4
+{ [%clk 0:09:26.3] } 18... axb4 { [%clk 0:09:21.1] } 19. Rxa8
+{ [%clk 0:09:26.2] } 19... Qxa8 { [%clk 0:09:16.7] } 20. Ne2
+{ [%clk 0:09:18.8] } 20... Nf4 { [%clk 0:08:48.7] } 21. Nxf4
+{ [%clk 0:09:08.3] } 21... exf4 { [%clk 0:08:47.8] } 22. Bxf4
+{ [%clk 0:09:08.2] } 22... Qa1+ { [%clk 0:08:40.5] } 23. Qc1
+{ [%clk 0:09:07.7] } 23... Qa7 { [%clk 0:08:32.7] } 24. Nxg3
+{ [%clk 0:09:04.2] } 24... Bb5 { [%clk 0:08:22.9] } 25. Nf5
+{ [%clk 0:08:55.2] } 1-0
+

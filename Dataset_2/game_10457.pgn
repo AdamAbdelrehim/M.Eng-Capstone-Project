@@ -1,0 +1,37 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.22"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "OwenOfHouseCarr"]
+[Result "0-1"]
+[CurrentPosition "1r3rk1/p3p2p/2ppb1pQ/8/4P1P1/qPb2P2/P1P5/2KR1B1R w - -"]
+[Timezone "UTC"]
+[ECO "B34"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Open-Accelerated-Dragon-Modern-Variation-5...Bg7"]
+[UTCDate "2023.10.22"]
+[UTCTime "07:11:06"]
+[WhiteElo "1644"]
+[BlackElo "1749"]
+[TimeControl "60"]
+[Termination "OwenOfHouseCarr won by resignation"]
+[StartTime "07:11:06"]
+[EndDate "2023.10.22"]
+[EndTime "07:11:46"]
+[Link "https://www.chess.com/game/live/91697409387"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.8] }
+2... Nc6 { [%clk 0:00:59.6] } 3. d4 { [%clk 0:00:59.7] } 3... cxd4
+{ [%clk 0:00:59.5] } 4. Nxd4 { [%clk 0:00:58.3] } 4... g6 { [%clk 0:00:59.2] }
+5. Nc3 { [%clk 0:00:57.8] } 5... Bg7 { [%clk 0:00:58.7] } 6. Nxc6
+{ [%clk 0:00:57] } 6... bxc6 { [%clk 0:00:57.8] } 7. Be3 { [%clk 0:00:56.9] }
+7... Nf6 { [%clk 0:00:57.3] } 8. Qd2 { [%clk 0:00:56.5] } 8... Rb8
+{ [%clk 0:00:57] } 9. O-O-O { [%clk 0:00:55.8] } 9... Ng4 { [%clk 0:00:56] }
+10. f3 { [%clk 0:00:54.8] } 10... Nxe3 { [%clk 0:00:55.4] } 11. Qxe3
+{ [%clk 0:00:54.7] } 11... O-O { [%clk 0:00:54.3] } 12. h4 { [%clk 0:00:53.8] }
+12... d6 { [%clk 0:00:53.2] } 13. h5 { [%clk 0:00:53.3] } 13... Be6
+{ [%clk 0:00:52.7] } 14. hxg6 { [%clk 0:00:52.1] } 14... fxg6
+{ [%clk 0:00:52.6] } 15. g4 { [%clk 0:00:49.8] } 15... Qa5 { [%clk 0:00:52.1] }
+16. b3 { [%clk 0:00:47.8] } 16... Bxc3 { [%clk 0:00:49.9] } 17. Qh6
+{ [%clk 0:00:44.7] } 17... Qa3+ { [%clk 0:00:49.3] } 0-1
+

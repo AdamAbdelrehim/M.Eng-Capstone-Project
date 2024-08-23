@@ -1,0 +1,32 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Hoon_Bot"]
+[Black "pawn_git"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/dmthD6i8"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2889"]
+[BlackElo "2797"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "600+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "05:59:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+2"]
+
+1. Nf3 e6 2. e4 d5 3. exd5 exd5 4. d4 Nf6 5. c4 Bb4+ 6. Nc3 O-O 7. Be2 Be6 8.
+c5 b6 9. cxb6 axb6 10. O-O h6 11. Bf4 Bxc3 12. bxc3 Nc6 13. Re1 Bf5 14. h3 Na5
+15. Ne5 Ne4 16. Rc1 Qh4 17. g3 Qd8 18. Bb5 Bxh3 19. c4 Nf6 20. g4 c6 21. Rc3
+cxb5 22. Rxh3 Nxc4 23. Nc6 Qd7 24. Ne7+ Kh8 25. Nf5 Rfe8 26. Rxe8+ Nxe8 27.
+Bxh6 Kg8 28. Qe2 f6 29. Bf4 Ned6 30. Bxd6 Nxd6 31. Ne7+ Kf7 32. Nxd5 Kg8 33.
+Kf1 Re8 34. Re3 Rxe3 35. Nxe3 Qe6 36. Nf5 Qd7 37. Qe7 Qxe7 38. Nxe7+ Kf7 39.
+Nd5 f5 40. f3 g5 41. Ke2 Ke6 42. Ne3 f4 43. Nc2 Nc4 44. Nb4 Ne3 45. Kd3 Nd5 46.
+a3 Nxb4+ 47. axb4 Kd5 48. Kc3 Kd6 49. Kb2 Kc6 50. Kc2 Kd6 51. Kc3 Kc6 52. Kc2
+Kd6 53. d5 Kxd5 54. Kd3 Ke5 55. Kc3 Kd5 56. Kd3 Ke5 57. Kc3 Ke6 58. Kd4 Kd6 59.
+Ke4 Ke6 60. Kd4 Kd6 61. Ke4 Ke6 62. Kd4 1/2-1/2
+

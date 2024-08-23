@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "shadin"]
+[Black "zakharov_s_d"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/hxfCWeyv"]
+[WhiteElo "2533"]
+[BlackElo "2433"]
+[ECO "C00"]
+[Opening "French Defense: Schlechter Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:02:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "-31"]
+[BlackRatingDiff "+7"]
+
+1. e4 e6 2. d4 d5 3. Bd3 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Nf3 a5 8. O-O c4
+9. Bc2 b5 10. Be3 g6 11. Nbd2 b4 12. Bf2 Nb6 13. Bh4 Be7 14. Qe1 Bxh4 15. Nxh4
+a4 16. a3 bxa3 17. bxa3 Na5 18. Ndf3 Nb3 19. Ra2 Ra7 20. g4 h5 21. Nxg6 fxg6
+22. Bxg6+ Kd7 23. gxh5 Kc6 24. Ng5 Qg8 25. Rg2 Rg7 26. Qh4 Na8 27. Qf2 Nc7 28.
+h4 Nb5 29. Qf3 Nxa3 30. f5 exf5 31. e6 Bxe6 32. Qf4 Nb5 33. Re1 Bd7 34. Bxf5 a3
+35. Rge2 Bxf5 36. Qxf5 Nd6 37. Re6 Rd7 38. R1e5 a2 0-1
+

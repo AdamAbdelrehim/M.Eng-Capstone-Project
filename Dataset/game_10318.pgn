@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Gertrude_Weichsel"]
+[Black "traindesix"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/2pChx2rw"]
+[WhiteElo "2592"]
+[BlackElo "2542"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:21:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 Bg4 4. Bg2 e6 5. O-O Be7 6. c4 O-O 7. Nc3 c6 8. Qb3
+Qb6 9. h3 Bxf3 10. Bxf3 Nbd7 11. e3 Rfe8 12. Na4 Qa6 13. cxd5 exd5 14. Nc3 Qb6
+15. Qc2 Nf8 16. Kg2 Ne6 17. h4 g6 18. Bd2 Ng7 19. Rab1 Nf5 20. b4 Nd6 21. b5 c5
+22. Na4 Qd8 23. Nxc5 Rc8 24. Qb3 b6 25. Nd3 Nde4 26. Bb4 Bd6 27. Rbc1 Qe7 28.
+Bxd6 Qxd6 29. Bxe4 Nxe4 30. Rxc8 Rxc8 31. Rc1 Rxc1 32. Nxc1 Qf6 33. Nd3 Qf5 34.
+Nf4 Nd2 35. Qd3 Ne4 36. a4 h6 37. f3 Nd6 38. Qxf5 Nxf5 39. Kf2 Ne7 40. Nd3 g5
+41. hxg5 hxg5 42. Ne5 f6 43. Nc6 Nc8 44. e4 Kf7 45. exd5 Ke8 46. Ke3 Kd7 47. f4
+Kd6 48. fxg5 fxg5 49. Ke4 Kd7 50. Kf5 Nd6+ 51. Kxg5 Nf7+ 52. Kf6 Nd6 53. Ne5+
+Kc7 54. g4 Ne4+ 55. Kf7 Nc3 56. g5 Nxd5 57. g6 Ne7 58. g7 Nf5 59. Kf6 Nd6 60.
+g8=Q Nc8 61. Qf7+ Kb8 62. Nc4 Nd6 63. Nxd6 Ka8 64. Qb7# 1-0
+

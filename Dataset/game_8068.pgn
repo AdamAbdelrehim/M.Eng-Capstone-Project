@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "tactic_trainer2023"]
+[Black "Lav_eli_mi_kri1920"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/s61kI0lN"]
+[WhiteElo "2831"]
+[BlackElo "2799"]
+[ECO "E05"]
+[Opening "Catalan Opening: Open Defense, Classical Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "00:43:31"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qa4 a6 8. Qxc4
+b5 9. Qc2 Bb7 10. Bf4 Nd5 11. Rc1 Nxf4 12. gxf4 Nd7 13. e3 c5 14. Ng5 Bxg5 15.
+Bxb7 Bf6 16. Bxa8 Qxa8 17. dxc5 Qf3 18. Qd1 Qxd1+ 19. Rxd1 Bxb2 20. Rxd7 Bxa1
+21. c6 Rc8 22. Nd2 Kf8 23. Nb3 Rxc6 24. Ra7 Bc3 25. Kg2 h5 26. Kf3 g6 27. h3
+Kg7 28. Ke4 Kf6 29. Kd3 h4 30. Ke4 Kg7 31. Kf3 Bf6 32. Kg2 b4 33. Kf3 Kg8 34.
+Kg2 Kf8 35. Kf3 Ke8 36. Kg2 Be7 37. Nd4 Rb6 38. Nf3 Bc5 39. Ne5 f6 40. Ra8+ Ke7
+41. Nxg6+ Kd6 42. Nxh4 Kc6 43. f5 exf5 44. Nxf5 Kb5 45. h4 Rb7 46. h5 a5 47. h6
+a4 48. Kf3 b3 49. axb3 axb3 50. Ra1 Kc4 51. Rc1+ Kd3 52. Rxc5 b2 53. Rd5+ Kc2
+54. Nd4+ Kd3 55. Nb5+ Kc4 56. e4 Rxb5 57. Rxb5 Kxb5 58. h7 b1=Q 59. h8=Q Qd3+
+60. Kf4 Qd2+ 61. Kg3 Qd3+ 62. f3 Qf1 63. Qe8+ Kc4 64. Qc6+ Kd4 65. Qxf6+ Ke3
+66. Qc3+ Ke2 67. Qc4+ Ke3 68. Qxf1 Kd2 69. e5 1-0
+

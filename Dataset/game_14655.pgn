@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "www68"]
+[Black "T-Stevenson"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Zkg1BqU4"]
+[WhiteTitle "IM"]
+[WhiteElo "2554"]
+[BlackElo "2602"]
+[ECO "C28"]
+[Opening "Bishop's Opening: Vienna Hybrid, Hromádka Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:47:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Bb4 5. Ne2 d5 6. exd5 Nxd5 7. O-O Nxc3 8.
+bxc3 Bd6 9. f4 exf4 10. Bxf4 O-O 11. Ng3 Ne5 12. Bxe5 Bxe5 13. d4 Bxg3 14. hxg3
+Qd6 15. Qh5 Be6 16. Bxe6 Qxe6 17. Rfe1 Qd6 18. Qf3 c6 19. a4 Rae8 20. Rxe8 Rxe8
+21. a5 g6 22. a6 b6 23. Kf2 Re6 24. Re1 Rf6 25. Re8+ Kg7 26. Ra8 Rxf3+ 27. gxf3
+Qe7 28. g4 h5 29. g5 h4 30. c4 Qxg5 31. Rxa7 h3 32. Rd7 h2 33. a7 h1=Q 34. a8=Q
+Qgg1+ 35. Ke2 Qe1+ 36. Kd3 Qxf3# 0-1
+

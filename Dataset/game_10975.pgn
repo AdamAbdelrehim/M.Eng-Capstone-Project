@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "aryamannkid"]
+[Black "pepek_mu_baukk"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/x7ivlKHo"]
+[WhiteElo "2482"]
+[BlackElo "2586"]
+[ECO "D21"]
+[Opening "Queen's Gambit Accepted: Slav Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:57:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+9"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 b5 4. a4 b4 5. e4 Ba6 6. Qc2 b3 7. Qd1 e6 8. Bd2 Nc6
+9. Bc3 Nf6 10. Nbd2 Nb4 11. Nxc4 Nc2+ 12. Ke2 Bxc4+ 0-1
+

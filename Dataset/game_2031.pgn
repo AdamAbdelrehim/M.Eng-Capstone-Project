@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "QmK_lT000rks"]
+[Black "thewannabetomato"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/WdlwXa3g"]
+[WhiteTitle "FM"]
+[WhiteElo "2453"]
+[BlackElo "2627"]
+[ECO "B76"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:33:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 e5 13. Bc5 Re8 14. Ne4 Qc7
+15. h4 f5 16. Nd6 Rd8 17. Nxc8 Raxc8 18. h5 e4 19. hxg6 hxg6 20. Bc4 Qe5 21. c3
+Rb8 22. Qg5 Qf6 23. Qxf6 Bxf6 24. fxe4 fxe4 25. Rhe1 Kg7 26. Rxe4 a5 27. Bxd5
+cxd5 28. Rg4 Rb5 29. Bd4 Re8 30. Rd2 Bxd4 31. Rgxd4 Re5 32. a4 Rc5 33. Kc2 Kf6
+34. Kd3 Ke6 35. b4 axb4 36. cxb4 Rc7 37. b5 Kd6 38. b6 Rb7 39. a5 1-0
+

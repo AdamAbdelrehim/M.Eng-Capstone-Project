@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "napieterku"]
+[Black "EdgarRodrigues"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/h0UFhw8Z"]
+[BlackTitle "FM"]
+[WhiteElo "2437"]
+[BlackElo "2513"]
+[ECO "D74"]
+[Opening "Neo-Grünfeld Defense: Delayed Exchange Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "03:10:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. Nf3 Nf6 2. c4 g6 3. d4 Bg7 4. g3 O-O 5. Bg2 d5 6. cxd5 Nxd5 7. O-O Nc6 8. e4
+Nb6 9. d5 Nb4 10. a3 Na6 11. Nc3 c6 12. Bf4 Nc4 13. Qe2 cxd5 14. exd5 Nd6 15.
+Rfe1 Re8 16. Be5 Bh6 17. Bxd6 Qxd6 18. Ne4 Qb6 19. d6 Be6 20. dxe7 Rxe7 21.
+Nf6+ Kg7 22. Nd5 Bxd5 23. Qxe7 Qxb2 24. Qe5+ Qxe5 25. Nxe5 Bxg2 26. Kxg2 Nc5
+27. Rad1 Re8 28. Nc4 Rxe1 29. Rxe1 Bg5 30. Nd6 h5 31. Ne4 Be7 32. Nxc5 Bxc5 33.
+a4 Kf6 34. Kf3 b6 35. Re2 a6 36. Rb2 Ke5 37. Re2+ Kd5 38. Kf4 b5 39. axb5 axb5
+40. Kg5 Bd4 41. f4 b4 42. f5 gxf5 43. Kxh5 b3 44. Re1 b2 45. h4 Be3 46. Rb1 Bc1
+47. g4 f4 48. g5 f3 49. g6 fxg6+ 50. Kxg6 f2 51. h5 f1=Q 0-1
+

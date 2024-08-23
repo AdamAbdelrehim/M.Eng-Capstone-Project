@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ELO_1500"]
+[Black "admete_bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/mzzaYPvt"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2883"]
+[BlackElo "2415"]
+[ECO "E15"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation, Quiet Line"]
+[TimeControl "60+5"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:49:50"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "+0"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Ba6 5. b3 Bb7 6. Bg2 Bb4+ 7. Bd2 a5 8. a3
+Bxd2+ 9. Qxd2 d5 10. O-O a4 11. cxd5 Ne4 12. Qf4 exd5 13. Qe5+ Kf8 14. b4 c5
+15. dxc5 bxc5 16. bxc5 Nd7 17. Qb2 Ndxc5 18. Nbd2 Rb8 19. Nxe4 dxe4 20. Ne5 Bd5
+21. Qc3 Rb5 22. Rfd1 Ke7 23. Rab1 Rxb1 24. Qxc5+ Qd6 25. Nc6+ Kd7 26. Bh3+ f5
+27. Qa7+ Kxc6 28. Rxb1 Qc5 29. Qb7+ Kd6 30. Qxg7 Rd8 31. Qh6+ Kc7 32. Rc1 Bc4
+33. Bxf5 Rd4 34. Qxh7+ Kb6 35. Bxe4 Ka5 36. h4 Qd6 37. Qa7+ Kb5 38. Bc2 Qb6 39.
+Qxa4+ Kc5 40. Bd3 Kd6 41. Rxc4 Rxc4 42. Qxc4 Kd7 43. Qb5+ Qxb5 44. Bxb5+ Kd6
+45. h5 Ke7 46. a4 Ke6 47. h6 Kf6 48. a5 Kg6 49. a6 Kxh6 50. e3 Kg5 51. f3 Kf6
+52. e4 Ke5 53. f4+ Kd4 54. g4 Kxe4 55. f5 Kd4 56. g5 Ke5 57. f6 Kd4 58. g6 Kc5
+59. a7 Kxb5 60. f7 Kc4 61. f8=Q Kd4 62. a8=B Kc3 63. g7 Kd4 64. Qf1 Kc5 65.
+g8=Q Kb6 66. Qg7 Kc5 67. Qd4+ Kxd4 68. Qb5 Kc3 69. Be4 Kd4 70. Kf2 Kxe4 71. Qc5
+Kf4 72. Qd5 Kg4 73. Qe5 Kh4 74. Kf3 Kh3 75. Qh8# 1-0
+

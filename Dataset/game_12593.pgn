@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "KZAAM"]
+[Black "cibona"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/rAVh1rBO"]
+[WhiteElo "2513"]
+[BlackElo "2536"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Löwenthal Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:47:08"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb3 Nf6 6. Bd3 a5 7. c4 a4 8. N3d2
+Bc5 9. Nc3 d6 10. O-O Ng4 11. g3 h5 12. Nxa4 Rxa4 13. Qxa4 h4 14. Qd1 hxg3 15.
+hxg3 Rh2 16. Be2 Nxf2 17. Rxf2 Rxf2 18. Nb3 Bh3 19. Nxc5 Rg2+ 20. Kh1 dxc5 21.
+Qxd8+ Kxd8 22. Bf1 Rxg3 23. Kh2 Bxf1 24. Kxg3 Bxc4 25. Be3 b6 26. Rd1+ Ke7 27.
+b3 Be6 28. Rc1 Nd4 29. Bxd4 exd4 30. Kf4 Kd6 31. e5+ Kd5 32. Rg1 g6 33. Rc1 b5
+34. a4 c4 35. axb5 c3 36. b6 Kc6 37. Ke4 Bf5+ 38. Kxd4 c2 39. b4 Kxb6 40. Kc4
+g5 41. Kd5 g4 42. Kc4 g3 43. Kd4 g2 44. Kc4 1-0
+

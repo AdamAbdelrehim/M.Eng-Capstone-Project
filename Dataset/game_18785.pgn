@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "engine_failure"]
+[Black "stormeman100100"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/sUtsEecF"]
+[WhiteElo "2618"]
+[BlackElo "2574"]
+[ECO "D21"]
+[Opening "Queen's Gambit Accepted: Slav Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:42:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 b5 4. Bg5 f6 5. Bh4 g5 6. Bg3 h5 7. h4 g4 8. Ng1 Nh6
+9. a4 Nf5 10. axb5 Nxg3 11. fxg3 Qd6 12. Kf2 Bh6 13. Nc3 Bb7 14. e4 e5 15. dxe5
+Qc5+ 16. Ke1 Nd7 17. exf6 O-O-O 18. Ra4 Ne5 19. Qe2 Nd3+ 0-1
+

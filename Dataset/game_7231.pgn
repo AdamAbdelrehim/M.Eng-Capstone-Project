@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "hahaha126"]
+[Black "FastCavalier"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/i9Mbl7Gp"]
+[WhiteElo "2439"]
+[BlackElo "2526"]
+[ECO "E19"]
+[Opening "Queen's Indian Defense: Classical Variation, Traditional Variation, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:36:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qd3
+Nxc3 9. Qxc3 d6 10. Rd1 Nd7 11. b3 Be4 12. Bb2 f5 13. Ng5 Bxg5 0-1
+

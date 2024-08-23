@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ChessatronBot"]
+[Black "bot_adario"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/xJOqquxc"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2467"]
+[BlackElo "2613"]
+[ECO "C19"]
+[Opening "French Defense: Winawer Variation, Positional Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:36:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 c5 7. Nf3 b6 8. Bf4
+Ba6 9. Bxa6 Nxa6 10. Qd2 Rc8 11. O-O-O Qd7 12. Bg5 cxd4 13. cxd4 Qa4 14. Qd3
+Rc4 15. Kb2 Nc8 16. Be3 b5 17. c3 Nb6 18. Nd2 O-O 19. Ra1 Rfc8 20. Rhc1 R4c7
+21. Qf1 h6 22. Ra2 Nb8 23. Qd3 Nc6 24. Ka1 b4 25. Qc2 bxc3 26. Nf3 Na5 27. Rb1
+Qd7 28. Bf4 Rb7 29. Rb4 Rc4 30. Qb1 c2 31. Rxc2 Rxb4 32. axb4 Qa4+ 33. Kb2
+Nbc4+ 34. Kc1 Rxb4 35. Qa2 Qb5 36. Nd2 Nxd2 37. Kxd2 Nc4+ 38. Kc1 Ra4 39. Qb1
+Qxb1+ 40. Kxb1 Na3+ 41. Kc1 Nxc2 42. Kxc2 Ra2+ 43. Kc3 Rxf2 44. g3 Rxh2 45. Bd2
+a5 46. Bc1 Rg2 47. Kb3 Rxg3+ 48. Ka4 h5 49. Bd2 h4 50. Bf4 Rg2 51. Kb3 g5 52.
+Bc1 h3 53. Ba3 h2 54. Ka4 Rg1 55. Kb5 Kh7 56. Kc6 Kg6 57. Kd7 a4 58. Bb4 Kf5
+59. Bd2 a3 60. Ke7 a2 61. Bc3 a1=Q 62. Bxa1 Rxa1 63. Kd6 h1=Q 64. Kc5 Qc1+ 65.
+Kb6 Rb1+ 66. Ka6 Qa3# 0-1
+

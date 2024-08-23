@@ -1,0 +1,43 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.19"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "ramadonmeti"]
+[Result "0-1"]
+[CurrentPosition "3r1rk1/pp2q1p1/1b5p/4Pp2/R2p1P2/1b3N1Q/1P4PP/2BR3K w - -"]
+[Timezone "UTC"]
+[ECO "C42"]
+[ECOUrl "https://www.chess.com/openings/Petrovs-Defense-Classical-Variation"]
+[UTCDate "2024.03.19"]
+[UTCTime "20:30:24"]
+[WhiteElo "1937"]
+[BlackElo "1934"]
+[TimeControl "600"]
+[Termination "ramadonmeti won by resignation"]
+[StartTime "20:30:24"]
+[EndDate "2024.03.19"]
+[EndTime "20:38:28"]
+[Link "https://www.chess.com/game/live/104619113999"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:54.2] } 2. Nf3
+{ [%clk 0:09:48.5] } 2... Nf6 { [%clk 0:09:52.7] } 3. Nxe5 { [%clk 0:09:43.6] }
+3... Bc5 { [%clk 0:09:38.5] } 4. d4 { [%clk 0:09:39.1] } 4... Bb6
+{ [%clk 0:09:36.1] } 5. c3 { [%clk 0:09:06] } 5... O-O { [%clk 0:09:18.8] } 6.
+Nf3 { [%clk 0:08:53.3] } 6... Nxe4 { [%clk 0:09:16.6] } 7. Bd3
+{ [%clk 0:08:49.7] } 7... f5 { [%clk 0:09:05.9] } 8. O-O { [%clk 0:08:47.6] }
+8... d5 { [%clk 0:09:03.6] } 9. a4 { [%clk 0:08:39.7] } 9... c6
+{ [%clk 0:09:02.1] } 10. a5 { [%clk 0:08:31.5] } 10... Bc7 { [%clk 0:08:59.6] }
+11. Ne5 { [%clk 0:08:21.8] } 11... Nd7 { [%clk 0:08:42.6] } 12. f3
+{ [%clk 0:08:17.1] } 12... Nxe5 { [%clk 0:08:39.6] } 13. dxe5
+{ [%clk 0:08:06.1] } 13... Nc5 { [%clk 0:08:12.6] } 14. f4 { [%clk 0:08:01.6] }
+14... Nxd3 { [%clk 0:08:02.6] } 15. Qxd3 { [%clk 0:07:23.7] } 15... Bxa5
+{ [%clk 0:07:58.6] } 16. Nd2 { [%clk 0:07:17] } 16... Bb6+ { [%clk 0:07:48.8] }
+17. Kh1 { [%clk 0:07:13.6] } 17... Be6 { [%clk 0:07:39.2] } 18. Nf3
+{ [%clk 0:07:11.3] } 18... c5 { [%clk 0:07:20] } 19. Ng5 { [%clk 0:06:57.7] }
+19... Qe7 { [%clk 0:06:54.3] } 20. Qh3 { [%clk 0:06:51.9] } 20... h6
+{ [%clk 0:06:48.4] } 21. Nf3 { [%clk 0:06:32.2] } 21... d4 { [%clk 0:06:33.5] }
+22. cxd4 { [%clk 0:06:27.8] } 22... cxd4 { [%clk 0:06:30.9] } 23. Rd1
+{ [%clk 0:06:26.5] } 23... Rad8 { [%clk 0:06:19.6] } 24. Ra4
+{ [%clk 0:06:22.6] } 24... Bb3 { [%clk 0:06:07] } 0-1
+

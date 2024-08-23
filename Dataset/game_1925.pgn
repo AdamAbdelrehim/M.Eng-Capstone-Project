@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "AlexD64"]
+[Black "Egor-Kovalev"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/R7yYFhT7"]
+[BlackTitle "FM"]
+[WhiteElo "2627"]
+[BlackElo "2572"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Keres Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:17:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 c5 2. Ne2 e6 3. g3 d5 4. Bg2 dxe4 5. Bxe4 Nf6 6. Bg2 Qc7 7. O-O Bd7 8. d4
+Bc6 9. Bf4 Bd6 10. Nbc3 Bxf4 11. Nxf4 Bxg2 12. Kxg2 cxd4 13. Qxd4 Nc6 14. Qc5
+O-O-O 15. Nb5 Qb8 16. Rfd1 Ne4 17. Qc4 Nd6 18. Nxd6+ Rxd6 19. b4 a6 20. a4 Rxd1
+21. Rxd1 Rd8 22. Rxd8+ Kxd8 23. b5 Ne5 24. Qc5 Nd7 25. Qb4 Qc7 26. c4 Qc5 27.
+Qc3 axb5 28. axb5 Ne5 29. Nd3 Qxc4 30. Qxe5 Qxd3 31. Qxg7 Qxb5 32. Qxf7 Qd7 33.
+Qf8+ Kc7 34. g4 b5 35. h4 Qd4 36. Qg8 Qd5+ 37. f3 h6 38. Qh7+ Kc6 39. Qxh6 b4
+40. Qc1+ Qc5 41. Qxc5+ Kxc5 42. h5 b3 43. h6 b2 44. h7 b1=Q 45. h8=Q Kd6 46.
+Qd8+ Kc6 47. Qc8+ Kd6 48. Qd8+ Kc6 49. g5 Qf5 50. Qf6 Qxf6 51. gxf6 Kd7 52. Kg3
+e5 53. Kg4 Ke6 54. Kg5 Kf7 55. Kf5 1-0
+

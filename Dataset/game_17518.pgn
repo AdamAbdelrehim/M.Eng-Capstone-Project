@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "monovax"]
+[Black "horeeet"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/vk4K3aD7"]
+[BlackTitle "GM"]
+[WhiteElo "2379"]
+[BlackElo "2532"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:03:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. O-O Nd7 5. d4 e6 6. Nbd2 f5 7. c4 Ngf6 8. b3
+Bd6 9. Bb2 Ne4 10. Ne5 Nxe5 11. dxe5 Bc5 12. Nxe4 fxe4 13. cxd5 exd5 14. Rc1
+Bb6 15. h3 Be6 16. b4 O-O 17. b5 cxb5 18. e3 Rc8 19. Qh5 Rc4 20. Kh2 Qc8 21. h4
+Bg4 22. Qg5 Bd8 0-1
+

@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "FuegoAbrumador"]
+[Black "Muerto2014"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/rv0syN0f"]
+[WhiteTitle "IM"]
+[WhiteElo "2712"]
+[BlackElo "2482"]
+[ECO "C64"]
+[Opening "Ruy Lopez: Classical Variation, Central Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:53:25"]
+[Termination "Normal"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nge7 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+
+8. Qxd2 d5 9. exd5 Nxd5 10. O-O O-O 11. Nc3 Nce7 12. Bd3 Bf5 13. Rae1 Bxd3 14.
+Qxd3 Ng6 15. g3 c6 16. h4 Qb6 17. Nxd5 cxd5 18. h5 Nh8 19. Re7 Rfe8 20. Rfe1
+Rxe7 21. Rxe7 Qxb2 22. Kg2 Qb6 23. Qf5 h6 24. Qxd5 Rd8 25. Qxb7 Qa5 26. Qxa7
+Qxh5 27. a4 Ng6 28. Rd7 Nf4+ 29. gxf4 Qg4+ 30. Kf1 Rxd7 31. Qb8+ Kh7 32. Ne5
+Qh3+ 33. Ke2 Rxd4 34. a5 Rxf4 35. Qb1+ g6 36. a6 Qe6 37. a7 Qxe5+ 38. Kf1 Ra4
+39. Qb7 Ra1+ 40. Kg2 Qg5+ 41. Kf3 Ra3+ 42. Ke4 Qg2+ 43. f3 Qxf3+ 0-1
+

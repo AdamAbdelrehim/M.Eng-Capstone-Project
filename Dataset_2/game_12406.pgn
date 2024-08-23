@@ -1,0 +1,42 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.07.14"]
+[Round "-"]
+[White "iamadog20"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "8/pp2p1bk/6p1/2P5/4P3/2P1BR2/Q4KPP/3r4 b - -"]
+[Timezone "UTC"]
+[ECO "D85"]
+[ECOUrl "https://www.chess.com/openings/Grunfeld-Defense-Exchange-Modern-Exchange-Variation-7...c5-8.Be3-Nc6"]
+[UTCDate "2024.07.14"]
+[UTCTime "04:04:22"]
+[WhiteElo "1871"]
+[BlackElo "1871"]
+[TimeControl "600"]
+[Termination "iamadog20 won by resignation"]
+[StartTime "04:04:22"]
+[EndDate "2024.07.14"]
+[EndTime "04:09:16"]
+[Link "https://www.chess.com/game/live/114668885731"]
+
+1. d4 { [%clk 0:10:00] } 1... Nf6 { [%clk 0:09:58.9] } 2. c4
+{ [%clk 0:09:59.6] } 2... g6 { [%clk 0:09:58.6] } 3. Nc3 { [%clk 0:09:57.6] }
+3... d5 { [%clk 0:09:58.2] } 4. cxd5 { [%clk 0:09:41.9] } 4... Nxd5
+{ [%clk 0:09:58.1] } 5. e4 { [%clk 0:09:36.4] } 5... Nxc3 { [%clk 0:09:57.7] }
+6. bxc3 { [%clk 0:09:35.2] } 6... Bg7 { [%clk 0:09:57.5] } 7. Nf3
+{ [%clk 0:09:28.2] } 7... c5 { [%clk 0:09:56.4] } 8. Be3 { [%clk 0:09:13.1] }
+8... Nc6 { [%clk 0:09:44.3] } 9. Rc1 { [%clk 0:09:03.1] } 9... Bg4
+{ [%clk 0:09:35.9] } 10. Bc4 { [%clk 0:08:28.2] } 10... Bxf3 { [%clk 0:09:22] }
+11. Qxf3 { [%clk 0:08:23.2] } 11... O-O { [%clk 0:09:18.9] } 12. dxc5
+{ [%clk 0:08:07.2] } 12... Qa5 { [%clk 0:09:16] } 13. O-O { [%clk 0:07:52.4] }
+13... Ne5 { [%clk 0:09:12.3] } 14. Qe2 { [%clk 0:07:43.6] } 14... Nxc4
+{ [%clk 0:09:01.9] } 15. Qxc4 { [%clk 0:07:43.5] } 15... Rfd8
+{ [%clk 0:08:57.2] } 16. f4 { [%clk 0:07:33.3] } 16... Rd7 { [%clk 0:08:47.8] }
+17. f5 { [%clk 0:07:27.7] } 17... Rad8 { [%clk 0:08:43.9] } 18. fxg6
+{ [%clk 0:07:23.8] } 18... hxg6 { [%clk 0:08:42.3] } 19. Qxf7+
+{ [%clk 0:07:22.1] } 19... Kh7 { [%clk 0:08:38.8] } 20. Rf3 { [%clk 0:07:11] }
+20... Rd1+ { [%clk 0:08:34.1] } 21. Rxd1 { [%clk 0:07:01.3] } 21... Rxd1+
+{ [%clk 0:08:32.2] } 22. Kf2 { [%clk 0:07:01] } 22... Qxa2+ { [%clk 0:08:30] }
+23. Qxa2 { [%clk 0:06:48.4] } 1-0
+

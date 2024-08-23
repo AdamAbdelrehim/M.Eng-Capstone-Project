@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Voinov"]
+[Black "rtrident"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/pW2mJgaW"]
+[WhiteElo "2501"]
+[BlackElo "2410"]
+[ECO "C11"]
+[Opening "French Defense: Burn Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:35:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nf3 h6 7. Nxf6+ Nxf6
+8. Bh4 c5 9. Bb5+ Bd7 10. Bxd7+ Qxd7 11. Bxf6 gxf6 12. O-O cxd4 13. Nxd4 Bc5
+14. c3 O-O-O 15. Rc1 Kb8 16. Qh5 Bxd4 17. cxd4 Rhg8 18. Qxh6 Qxd4 19. Qh3 Qg4
+20. Qxg4 Rxg4 21. Rc2 f5 22. h3 Rgd4 23. Rfc1 e5 24. Kh2 f4 25. h4 e4 26. Re1
+f5 27. Rc5 R8d5 28. Rxd5 Rxd5 29. h5 Kc7 30. Kh3 Kd6 31. Kh4 Ke5 32. Kg5 Rd8
+33. h6 Rg8+ 34. Kh5 Rxg2 35. h7 Rh2+ 36. Kg6 Rxh7 37. Kxh7 f3 38. Kg6 f4 39.
+Kg5 e3 40. fxe3 1-0
+

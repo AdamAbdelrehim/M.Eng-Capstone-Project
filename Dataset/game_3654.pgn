@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "EmadTehran"]
+[Black "riga1960"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ZQHX08mU"]
+[WhiteElo "2407"]
+[BlackElo "2543"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:16:48"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. e4 d5 2. Nc3 d4 3. Nce2 Nf6 4. d3 c5 5. f4 h5 6. h3 h4 7. Nf3 Nh5 8. Bd2 e6
+9. c3 Nc6 10. Qc2 Be7 11. O-O-O a5 12. Kb1 a4 13. g4 hxg3 14. Rg1 Qb6 15. Nxg3
+Nxg3 16. Rxg3 g6 17. Bg2 Bd7 18. Ng5 a3 19. b3 dxc3 20. Bxc3 Nd4 21. Bxd4 cxd4
+22. f5 Rc8 23. Qe2 e5 24. fxg6 fxg6 25. Nf3 Rc5 26. Qd2 Bb5 27. Ne1 Kd7 28. h4
+Rxh4 29. Bh3+ Kd8 30. Rc1 Rxc1+ 31. Qxc1 Qc5 32. Qxc5 Bxc5 33. Kc2 Be7 34. Nf3
+Rf4 35. Nxe5 Rf2+ 36. Kb1 g5 37. Rg2 Rf1+ 38. Kc2 Ra1 39. Nf7+ Ke8 40. Ne5
+Rxa2+ 41. Kb1 Rxg2 42. Bxg2 Bd6 43. Nc4 Bxc4 44. bxc4 Kd7 45. Ka2 Kc6 46. Bh3
+Kb6 47. Be6 Ka5 48. Bd5 Kb4 49. Be6 b5 50. c5 Bxc5 51. Bd5 Kc3 52. e5 b4 53. e6
+g4 54. e7 g3 55. e8=Q b3+ 56. Kb1 g2 57. Qe1+ 1-0
+

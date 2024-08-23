@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ItwasBarzini"]
+[Black "thecablebox"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/rdBxG5li"]
+[WhiteElo "2589"]
+[BlackElo "2641"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:11:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. b3 e5 2. Bb2 Nc6 3. c4 Nf6 4. e3 Bc5 5. a3 a6 6. b4 Ba7 7. Nc3 O-O 8. Qc2 d5
+9. cxd5 Nxd5 10. Nf3 Re8 11. Nxd5 Qxd5 12. Bc4 Qd8 13. O-O e4 14. Qc3 Qf6 15.
+Qxf6 gxf6 16. Nh4 Ne5 17. Bd5 c6 18. Bb3 Be6 19. Bxe5 fxe5 20. Bxe6 Rxe6 21.
+Nf5 Rd8 22. Rfd1 c5 23. Rac1 cxb4 24. axb4 Rb6 25. Rc4 Rc6 26. Ne7+ Kf8 27.
+Nxc6 bxc6 28. Rxc6 Bb8 29. Rxa6 Bd6 30. Rb1 Be7 31. g4 Rxd2 32. Ra8+ Kg7 33. b5
+Bh4 34. b6 Bxf2+ 35. Kh1 Bxe3 36. b7 Bf4 37. b8=Q e3 38. Qg8+ Kf6 39. Ra6+ Ke7
+40. Rb7+ Rd7 41. Rxd7+ Kxd7 42. Qxf7+ Kc8 43. Ra8# 1-0
+

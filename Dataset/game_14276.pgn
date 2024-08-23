@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Vetranio"]
+[Black "ChainsOfFantasia"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/4WTY5XYX"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[WhiteElo "2715"]
+[BlackElo "2651"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:13:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-5"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Nge7 6. Be2 cxd4 7. cxd4 Nf5 8. Na3
+Bxa3 9. bxa3 O-O 10. O-O f6 11. exf6 Qxf6 12. Bg5 Qf7 13. Bb5 Bd7 14. Bxc6 Bxc6
+15. Ne5 Qe8 16. Re1 h6 17. Bf4 Rc8 18. Qg4 Kh7 19. h4 Rf6 20. h5 Nxd4 21. Ng6
+Nf5 22. Be5 Rf7 23. Nf4 Rf8 24. Qg6+ Qxg6 25. hxg6+ Kg8 26. Nxe6 Rfe8 27. Bb2
+Bd7 28. Nf4 Rxe1+ 29. Rxe1 Re8 30. Rd1 Bc6 31. f3 Ne3 32. Rd3 Nc4 33. Bd4 a5
+34. Kf2 b5 35. g4 Re7 36. Kg3 b4 37. axb4 axb4 38. Rb3 Rb7 39. Nd3 Be8 40. Nf4
+Na5 41. Re3 Ba4 42. Nxd5 Rd7 43. Re8# 1-0
+

@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ThroneMine"]
+[Black "vvchessli"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/xVBh6k60"]
+[BlackTitle "IM"]
+[WhiteElo "2485"]
+[BlackElo "2657"]
+[ECO "C47"]
+[Opening "Four Knights Game: Scotch Variation Accepted"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "01:10:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 O-O 9. O-O Bg4 10. Ne2 cxd5 11. h3 Bh5 12. c4 Re8 13. Be3 d4 14. Bxd4 Bxe2
+15. Bxe2 Rxe2 16. Qxe2 Qxd4 17. Rad1 Qe4 18. Qxe4 Nxe4 19. a3 Bd6 20. Rfe1 Nf6
+21. b4 a5 22. c5 Bf8 23. Rd4 axb4 24. axb4 Rb8 25. Red1 c6 26. Rd8 Rxb4 27. Rc8
+h5 28. Rdd8 Nh7 29. Rxc6 Rc4 30. Rcc8 g6 31. c6 Kg7 32. c7 Be7 33. Rd7 Bf6 34.
+Re8 Nf8 35. Rxf8 Kxf8 36. Rd8+ Kg7 37. c8=Q Rxc8 38. Rxc8 Be5 39. g4 hxg4 40.
+hxg4 Kf6 41. Kg2 Kg5 42. Kf3 f6 43. Rc5 Kh6 44. Ke4 Ba1 45. f4 Bb2 46. Rc6 Ba1
+47. Kd5 Kg7 48. Ke6 Bb2 49. Rc7+ Kh6 50. Rf7 Bc1 51. Rxf6 Kg7 52. f5 Kg8 53.
+Rxg6+ Kh7 54. Kf7 Bb2 55. f6 Bc1 56. Rg7+ Kh6 57. g5+ Bxg5 58. Rxg5 Kxg5 59.
+Kg7 Kf5 60. f7 Ke6 61. f8=Q Kd7 62. Qf6 1-0
+

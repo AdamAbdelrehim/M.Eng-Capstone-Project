@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "thurstoncat"]
+[Black "AAlmeidaTX"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/cFYp9CwC"]
+[BlackTitle "IM"]
+[WhiteElo "2418"]
+[BlackElo "2552"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:05:25"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. e3 c5 2. d4 Nf6 3. Nf3 e6 4. c4 cxd4 5. exd4 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 O-O
+8. Nc3 d5 9. cxd5 exd5 10. Be2 Ne4 11. Qc2 Nxc3 12. bxc3 Nc6 13. O-O Bg4 14. h3
+Bh5 15. Rab1 Bg6 16. Bd3 b6 17. Rfe1 Rc8 18. Bxg6 hxg6 19. Qd3 Qd6 20. Rb5 Qa3
+21. Rxd5 Nb4 22. Qb5 Nxd5 23. Qxd5 Qxc3 24. Re7 Qc1+ 25. Kh2 Qf4+ 26. g3 Qb8
+27. Ng5 Rc2 28. Kg2 Qd8 29. Qe4 Rxa2 30. h4 Ra4 31. Nf3 Qa8 32. Qf4 Qd5 33. Re5
+Qb7 34. h5 Rd8 35. hxg6 fxg6 36. Qg5 Rf8 37. Re3 Rxd4 38. Qxg6 Rd3 1-0
+

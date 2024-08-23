@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Mikkel_Vinh"]
+[Black "cibona"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/61miWEcS"]
+[WhiteTitle "CM"]
+[WhiteElo "2501"]
+[BlackElo "2520"]
+[ECO "C41"]
+[Opening "Philidor Defense: Lion Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:42:44"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Qe2 c6 8. Be3
+b5 9. dxe5 dxe5 10. Bb3 a5 11. a4 b4 12. Na2 Nxe4 13. Rfd1 Qc7 14. Nc1 Bf6 15.
+Nd3 Ba6 16. Qe1 Bxd3 17. cxd3 Nec5 18. Bc4 Rad8 19. Nd2 Nb7 20. Rac1 Qb8 21.
+Ne4 Nd6 22. Nxf6+ Nxf6 23. Bb3 Rc8 24. Bc5 Rfe8 25. h3 Nf5 26. Qe2 h5 27. Qf3
+Nd4 28. Bxd4 exd4 29. Rxc6 Rxc6 30. Qxc6 Qe5 31. Qb7 Re7 32. Qa8+ Kh7 33. Qf3
+g6 34. Rc1 Kg7 35. g3 Rc7 36. Rxc7 Qxc7 37. Kg2 h4 38. g4 Qe5 39. Qb7 Kh6 40.
+Qxf7 Nh7 41. Qd5 Qf4 42. Qxa5 Qd2 43. Qb5 Ng5 44. Bc4 Qxb2 45. a5 Qe2 46. Qd5
+b3 47. Bxb3 Qxd3 48. Bc4 Qxh3+ 49. Kg1 Nf3+ 50. Qxf3 Qxf3 51. a6 h3 52. Bf1 h2+
+53. Kxh2 Qxf2+ 54. Bg2 Qf4+ 55. Kg1 d3 56. a7 d2 57. Bf3 Qxf3 58. a8=Q d1=Q+
+0-1
+

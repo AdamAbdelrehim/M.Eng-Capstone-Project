@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "IMaDale"]
+[Black "manneredmonkey"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/bDrCVsSf"]
+[WhiteTitle "IM"]
+[BlackTitle "NM"]
+[WhiteElo "2574"]
+[BlackElo "2622"]
+[ECO "A58"]
+[Opening "Benko Gambit Accepted: Fully Accepted Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:29:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bg7 7. e4 O-O 8. e5
+Ne8 9. Bf4 d6 10. exd6 Nxd6 11. h4 h5 12. Nf3 Bg4 13. Be2 Nxa6 14. O-O Nb4 15.
+a3 Na6 16. Re1 Rb8 17. Qd2 Qb6 18. Bxa6 Qxa6 19. Rxe7 Nc4 20. Qd3 Rxb2 21. Ne5
+Bf5 22. Qxc4 Qxc4 23. Nxc4 Bxc3 24. Nxb2 Bxb2 25. Rd1 Bf6 26. Rc7 Bd4 27. d6
+Rd8 28. a4 Bc2 29. Rxd4 cxd4 30. Rxc2 1-0
+

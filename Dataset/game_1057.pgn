@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Mginsburg"]
+[Black "leopslr"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/wZKSuKF8"]
+[WhiteTitle "IM"]
+[BlackTitle "FM"]
+[WhiteElo "2509"]
+[BlackElo "2568"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Noteboom Variation, Anti-Noteboom Gambit"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:03:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. Nf3 d5 2. d4 e6 3. c4 c6 4. Nc3 dxc4 5. g3 b5 6. Bg2 Bb7 7. O-O Nd7 8. b3 b4
+9. Na4 c3 10. e4 Ngf6 11. Re1 Be7 12. a3 a5 13. h3 O-O 14. g4 c5 15. e5 Nd5 16.
+dxc5 Nxc5 17. Nxc5 Bxc5 18. Qc2 h6 19. g5 Qb6 20. gxh6 g6 21. Ng5 a4 22. Rb1
+axb3 23. Rxb3 Qa7 24. Ne4 Be7 25. axb4 Nxb4 26. Qxc3 Rac8 27. Qg3 Nc2 28. Rxb7
+Qxb7 29. Nf6+ Bxf6 30. Bxb7 Nxe1 31. Bxc8 Bxe5 32. Qe3 Rxc8 33. Qxe1 Bc3 34.
+Qe2 Bf6 35. Be3 e5 36. Kg2 Re8 37. Qg4 Re6 38. h4 Kh7 39. h5 Bh8 40. Kf1 gxh5
+41. Qxh5 Rf6 42. Ke2 e4 43. Qg4 Re6 44. Qf5+ Kg8 45. h7+ Kf8 46. Bc5+ Ke8 47.
+Qd5 Re5 48. Qc6+ Kd8 49. Bd6 1-0
+

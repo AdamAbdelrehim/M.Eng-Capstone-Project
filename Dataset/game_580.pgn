@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "zirva_safarov"]
+[Black "yoruv"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/lLMPg4lf"]
+[WhiteElo "2507"]
+[BlackElo "2552"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Kennedy Variation, Paulsen Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "03:34:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. Nf3 Ng6 5. Bc4 Bb4+ 6. c3 Bd6 7. O-O Qe7 8.
+Bg5 Nf6 9. Re1 Ne5 10. Nxe5 Qxe5 11. f4 Qc5+ 12. Kh1 Qxc4 13. e5 O-O 14. exd6
+Ne4 15. Be7 Nf2+ 16. Kg1 Nxd1 17. Rxd1 Re8 18. Na3 Qc5+ 19. Kh1 c6 20. Rd3 b6
+21. b4 Qf5 22. Rg3 Bb7 23. Nc4 Qxf4 24. Ne3 Rxe7 25. dxe7 Re8 26. Rf1 Qxg3 27.
+hxg3 Rxe7 28. Nf5 Re2 29. Nd6 Ba6 30. Rxf7 Rd2 31. Rxd7 h6 32. Rxa7 Bf1 33. Nf5
+Bxg2+ 34. Kg1 Be4 35. Nxg7 Rg2+ 36. Kf1 Rxg3 37. Ne8 Kf8 38. Nd6 Bd5 39. c4 Rg6
+40. Ra8+ Ke7 41. Nc8+ Kd7 42. cxd5 cxd5 43. Na7 Rg3 44. Nb5 Rd3 45. Rh8 Kc6 46.
+a4 Rh3 47. Nd4+ Kd6 48. Re8 Ra3 49. Re6+ Kd7 50. Rxh6 Rxa4 51. Rxb6 Kc7 52. Rb5
+Kd6 53. Ke2 Ke5 54. Nc2 Ke4 55. Kd2 d4 56. Rb8 d3 57. Ne1 Ra2+ 58. Kd1 Ra1+ 59.
+Kd2 Ra2+ 60. Kc3 d2 61. Re8+ Kf5 62. Rd8 dxe1=Q+ 63. Kc4 Rc2+ 64. Kb5 Qe5+ 65.
+Ka4 Qa1+ 66. Kb3 Qa2# 0-1
+

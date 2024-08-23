@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "mladjiks"]
+[Black "Bierblitz"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/FJNJPICB"]
+[WhiteElo "2349"]
+[BlackElo "2519"]
+[ECO "C05"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:53:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+3"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8. Nf3
+cxd4 9. cxd4 f6 10. exf6 Nxf6 11. O-O Bd6 12. Bg5 O-O 13. Nf4 Qxb2 14. Bxf6
+Bxf4 15. Bg5 Bxg5 16. Nxg5 h6 17. Qh5 Qxd4 18. Qg6 hxg5 19. Qh5 Qxd3 0-1
+

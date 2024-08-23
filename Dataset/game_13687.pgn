@@ -1,0 +1,24 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "mammadov-chess"]
+[Black "Chess_Computer_101"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/0e58oq5x"]
+[BlackTitle "NM"]
+[WhiteElo "2516"]
+[BlackElo "2491"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:12:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "+24"]
+[BlackRatingDiff "-9"]
+
+1. d4 d5 2. Nf3 e6 3. c4 a6 4. Nc3 dxc4 5. a4 Nc6 6. e4 Na5 7. Be2 Nf6 8. Bg5
+Be7 9. O-O O-O 10. Qc2 Bd7 11. Rad1 b5 12. d5 exd5 13. e5 Ng4 14. Bxe7 Qxe7 15.
+Nxd5 Qc5 16. b4 1-0
+

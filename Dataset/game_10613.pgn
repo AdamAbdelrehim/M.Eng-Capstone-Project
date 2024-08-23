@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Miguelss"]
+[Black "PrinsesCracker"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/W1BHf2eq"]
+[WhiteTitle "NM"]
+[WhiteElo "2562"]
+[BlackElo "2560"]
+[ECO "A00"]
+[Opening "Van Geet Opening: Myers Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:07:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. Nc3 g6 2. h4 Bg7 3. h5 c5 4. d3 Nc6 5. g3 d5 6. Bg2 e6 7. Nf3 Nge7 8. Bg5
+O-O 9. h6 Bh8 10. e4 Qa5 11. Bd2 d4 12. Nd5 Qd8 13. Nxe7+ Qxe7 14. Qe2 e5 15.
+O-O-O b5 16. Bh3 Bxh3 17. Rxh3 c4 18. Kb1 a5 19. Nh4 Rac8 20. f4 c3 21. Bc1
+cxb2 22. Bxb2 Nb4 23. a3 Rxc2 24. Qe1 Qe6 25. axb4 Qb3 0-1
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Defendiendome"]
+[Black "koromarbel"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/nPpnd5F1"]
+[WhiteElo "2527"]
+[BlackElo "2421"]
+[ECO "E11"]
+[Opening "Bogo-Indian Defense: Wade-Smyslov Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:06:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 a5 5. a3 Bxd2+ 6. Qxd2 d5 7. e3 O-O 8. c5
+c6 9. Nc3 Nbd7 10. Rb1 Re8 11. b4 axb4 12. axb4 e5 13. Be2 exd4 14. Nxd4 Ne5
+15. O-O Bg4 16. Ra1 Bxe2 17. Qxe2 Nc4 18. h3 Qc7 19. Qc2 g6 20. Ra4 b6 21. Rxa8
+Rxa8 22. b5 cxb5 23. c6 b4 24. Ncb5 Qe7 25. Qb3 Qc5 26. Rb1 Nd2 27. Qxb4 Nxb1
+28. Qxb1 Ne4 29. f3 Nc3 30. Nxc3 Qxc3 31. Qxb6 Qxe3+ 32. Kh2 Qf4+ 33. Kg1 Ra1+
+34. Kf2 Ra2+ 35. Ne2 d4 36. c7 Qe3+ 37. Kg3 Rxe2 38. c8=Q+ Kg7 39. Qcc7 Qf2+
+40. Kf4 Qh4+ 41. g4 Qh6+ 42. Kg3 Qe3 43. Qf4 Qf2# 0-1
+

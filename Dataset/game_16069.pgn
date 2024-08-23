@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ericksonholguin"]
+[Black "Knights4base"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/HHWHWe6n"]
+[BlackTitle "IM"]
+[WhiteElo "2451"]
+[BlackElo "2574"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game: Modern Defense"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "23:41:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 g6 2. Nf3 Bg7 3. g3 d5 4. Bg2 Nc6 5. O-O Bg4 6. c3 Qd7 7. Re1 h5 8. h4
+Nh6 9. Bxh6 Bxh6 10. Nbd2 O-O 11. e4 e5 12. exd5 Qxd5 13. Nxe5 Qxg2+ 14. Kxg2
+Bxd1 15. Raxd1 Nxe5 16. Rxe5 Rfe8 17. Nf3 Rxe5 18. Nxe5 Re8 19. Re1 Kg7 20. Kf1
+Bd2 21. Re2 Bc1 22. b3 Ba3 23. b4 a5 24. Nd3 Rxe2 25. Kxe2 axb4 26. cxb4 Kf6
+27. Kd2 Kf5 28. f3 Ke6 29. Kc3 Kd5 30. Nf4+ Kc6 31. Nd3 Kd5 32. Nc5 Bc1 33.
+Nxb7 Be3 34. Nd8 Bxd4+ 35. Kd3 Bf2 36. g4 f6 37. gxh5 gxh5 38. a4 Bxh4 39. a5
+f5 40. Nf7 Be7 41. a6 Kc6 42. Kc4 h4 43. b5+ Kb6 44. Nh6 h3 45. Nxf5 Bd6 46. f4
+Bxf4 47. Ne7 Ka7 48. Nd5 Bd6 49. b6+ cxb6 50. Kb5 h2 51. Nxb6 h1=Q 52. Nc8+ Kb8
+53. Nxd6 Qd5+ 0-1
+

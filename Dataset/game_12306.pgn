@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "sobersquirrel"]
+[Black "aROLFik"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/FZ2X7CeL"]
+[WhiteElo "2505"]
+[BlackElo "2531"]
+[ECO "A00"]
+[Opening "Van Geet Opening"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:06:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. Nc3 d5 2. e4 dxe4 3. Nxe4 Nf6 4. Nxf6+ exf6 5. Nf3 Bd6 6. Qe2+ Be6 7. Nd4
+O-O 8. Nxe6 fxe6 9. g3 Re8 10. Bg2 c6 11. O-O Nd7 12. d4 e5 13. Rd1 Qc7 14. Be3
+Rad8 15. dxe5 Nxe5 16. Rd2 Bb4 17. c3 Rxd2 18. Bxd2 Bc5 19. Bf4 Qb6 20. Rd1 Rf8
+21. b4 Be7 22. Bxe5 fxe5 23. Be4 a5 24. a3 Kh8 25. Kg2 c5 26. Rd7 cxb4 27. Rxe7
+bxa3 28. Rxb7 Qe6 29. c4 1-0
+

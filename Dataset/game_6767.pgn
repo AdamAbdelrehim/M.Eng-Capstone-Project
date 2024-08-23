@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "schaakam"]
+[Black "gmcyborek"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ts3N4LnF"]
+[WhiteElo "2730"]
+[BlackElo "2699"]
+[ECO "E91"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:20:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. d4 d6 6. Be2 c5 7. O-O Bg4 8. d5
+Na6 9. h3 Bxf3 10. Bxf3 Nc7 11. Be2 e6 12. Re1 exd5 13. exd5 Re8 14. Bf4 a6 15.
+a4 Re7 16. Qd2 Nce8 17. Bd3 Rxe1+ 18. Rxe1 Nd7 19. Bg5 Bf6 20. Bh6 Bg7 21. Bxg7
+Kxg7 22. f4 Qh4 23. Qf2 Qxf2+ 24. Kxf2 h5 25. Re7 Rd8 26. a5 Kf8 27. Re1 Nef6
+28. Rb1 Re8 29. Kf3 Rb8 30. g4 hxg4+ 31. hxg4 g5 32. Bf5 gxf4 33. Kxf4 Ne5 34.
+b3 Kg7 35. Na4 Rh8 36. b4 cxb4 37. Rxb4 Rh3 38. Be4 Nfxg4 39. c5 Nf2 40. Rxb7
+Rh4+ 41. Kg3 Rxe4 42. c6 Rxa4 43. c7 Ne4+ 44. Kf4 Rc4 45. Kf5 Ng3+ 46. Kg5 f6#
+0-1
+

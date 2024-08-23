@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.07.30"]
+[Round "-"]
+[White "malik8055"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r1bqkb1r/pp1p1ppp/2n1pn2/8/2Q1P3/5N2/PPP2PPP/RNB1KB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "B21"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Smith-Morra-Gambit-2...cxd4-3.Qxd4-Nc6"]
+[UTCDate "2024.07.30"]
+[UTCTime "21:29:25"]
+[WhiteElo "1833"]
+[BlackElo "1804"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won - game abandoned"]
+[StartTime "21:29:25"]
+[EndDate "2024.07.30"]
+[EndTime "21:32:03"]
+[Link "https://www.chess.com/game/live/116113841727"]
+
+1. e4 { [%clk 0:09:57.7] } 1... c5 { [%clk 0:09:55.7] } 2. d4
+{ [%clk 0:09:55.9] } 2... cxd4 { [%clk 0:09:46.5] } 3. Qxd4
+{ [%clk 0:09:52.8] } 3... Nc6 { [%clk 0:09:29.7] } 4. Qc4 { [%clk 0:09:46.7] }
+4... Nf6 { [%clk 0:09:20.4] } 5. Nf3 { [%clk 0:09:44.1] } 5... e6
+{ [%clk 0:09:13.2] } 0-1
+

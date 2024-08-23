@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "VitaliySnatenkov"]
+[Black "Swetlove"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/uZqRnTgc"]
+[BlackTitle "IM"]
+[WhiteElo "2500"]
+[BlackElo "2630"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Accelerated Move Order"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:37:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-9"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Nf6 5. Qc2 Nbd7 6. a3 Bd6 7. c5 Bc7 8. f4 b6
+9. b4 a5 10. b5 bxc5 11. bxc6 Nb8 12. Bb5 cxd4 13. exd4 O-O 14. Nf3 Ba6 15. a4
+Bxb5 16. axb5 Ne8 17. O-O Nd6 18. Ba3 Re8 19. Bxd6 Qxd6 20. f5 Nxc6 21. bxc6
+Qxc6 22. fxe6 Rxe6 23. Qd3 Rae8 24. Ng5 Rg6 25. Nxf7 Re7 26. Ne5 Bxe5 27. dxe5
+Rxe5 28. Qb5 Qc8 29. Qxa5 Reg5 30. Qa8 Rxg2+ 31. Kh1 Rc6 32. Qxc8+ Rxc8 33.
+Kxg2 Rxc3 34. Ra8+ 1-0
+

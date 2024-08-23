@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "DeepBlue44"]
+[Black "MarkosianDavid"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/AvJhl8sq"]
+[BlackTitle "GM"]
+[WhiteElo "2391"]
+[BlackElo "2569"]
+[ECO "A02"]
+[Opening "Bird Opening: From's Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:22:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. f4 e5 2. Nf3 e4 3. Ng5 Nf6 4. d3 d5 5. dxe4 h6 6. Nxf7 Kxf7 7. e5 Ne4 8. Nd2
+Bc5 9. e3 Qh4+ 10. g3 Nxg3 11. Nf3 Qh5 12. hxg3 Qxh1 13. Qxd5+ Be6 14. Qxb7 Nd7
+15. f5 Bxf5 16. e6+ Bxe6 17. Ne5+ Nxe5 18. Qxh1 Rad8 19. Qh4 Nf3+ 20. Kf2 Nxh4
+21. gxh4 Rd1 22. Be2 Rh1 23. Kg2 Bd5+ 24. Kg3 Bd6+ 25. Kf2 Rh2+ 26. Ke1 Bg3+
+27. Kd1 Rd8 28. Bh5+ g6 29. Be2 Bf3+ 30. Bd2 Rxe2 31. b3 Re1# 0-1
+

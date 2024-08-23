@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Despair_Captain"]
+[Black "DrHerbst"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/10tTauZk"]
+[WhiteElo "2500"]
+[BlackElo "2455"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:22:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 d5 2. Nf3 f5 3. c4 c6 4. Nc3 e6 5. Bf4 Nf6 6. e3 Bb4 7. Bd3 O-O 8. O-O
+Bd7 9. Ne5 Be8 10. Qc2 Nbd7 11. h3 Nxe5 12. Bxe5 Bh5 13. f3 Bg6 14. Ne2 Nd7 15.
+Bh2 Qe7 16. Nf4 Bf7 17. e4 e5 18. dxe5 g5 19. exd5 gxf4 20. e6 Bg6 21. exd7
+cxd5 22. Bxf4 d4 23. Rfe1 Qxd7 24. c5 Ba5 25. Re5 Bc7 26. Rd5 Qc6 27. Bc4 Kg7
+28. Qd3 Bxf4 29. Qxd4+ Qf6 30. Qxf4 Qxb2 31. Rd7+ Kh8 32. Rad1 Rae8 33. Qd4+
+Qxd4+ 34. R1xd4 Re5 35. Bd5 b6 36. c6 Rc8 37. c7 Rxd5 38. R4xd5 f4 39. Rd8+ Kg7
+40. Rxc8 b5 41. Rcd8 b4 42. R8d7+ Kh6 43. c8=Q b3 44. Qc1 a6 45. Qxf4# 1-0
+

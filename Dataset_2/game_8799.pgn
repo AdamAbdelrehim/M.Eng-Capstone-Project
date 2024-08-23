@@ -1,0 +1,42 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.05.04"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "rishi101"]
+[Result "1/2-1/2"]
+[CurrentPosition "r1b2r1k/pp2b3/7Q/3qp3/3n4/8/PPP2PPP/R1B2RK1 b - -"]
+[Timezone "UTC"]
+[ECO "C40"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Latvian-Mayet-Attack-3...fxe4"]
+[UTCDate "2023.05.04"]
+[UTCTime "05:42:45"]
+[WhiteElo "1602"]
+[BlackElo "1561"]
+[TimeControl "60"]
+[Termination "Game drawn by repetition"]
+[StartTime "05:42:45"]
+[EndDate "2023.05.04"]
+[EndTime "05:44:16"]
+[Link "https://www.chess.com/game/live/76918155513"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.9] }
+2... f5 { [%clk 0:00:59.4] } 3. Bc4 { [%clk 0:00:59.8] } 3... fxe4
+{ [%clk 0:00:58.5] } 4. Ng5 { [%clk 0:00:59.6] } 4... d5 { [%clk 0:00:58.4] }
+5. Bb5+ { [%clk 0:00:56.3] } 5... c6 { [%clk 0:00:57.3] } 6. d3
+{ [%clk 0:00:52.9] } 6... cxb5 { [%clk 0:00:54] } 7. Qh5+ { [%clk 0:00:50.5] }
+7... g6 { [%clk 0:00:51.4] } 8. Qe2 { [%clk 0:00:45] } 8... h6
+{ [%clk 0:00:46.8] } 9. Nxe4 { [%clk 0:00:41.1] } 9... dxe4
+{ [%clk 0:00:45.5] } 10. dxe4 { [%clk 0:00:40.7] } 10... Nf6
+{ [%clk 0:00:43.6] } 11. Qxb5+ { [%clk 0:00:39.5] } 11... Nc6
+{ [%clk 0:00:40.6] } 12. O-O { [%clk 0:00:35.9] } 12... Be7
+{ [%clk 0:00:37.8] } 13. Nc3 { [%clk 0:00:35.4] } 13... O-O
+{ [%clk 0:00:35.7] } 14. Nd5 { [%clk 0:00:31.7] } 14... Nxd5
+{ [%clk 0:00:32.5] } 15. exd5 { [%clk 0:00:31.6] } 15... Nd4
+{ [%clk 0:00:31.3] } 16. Qd3 { [%clk 0:00:30] } 16... Qxd5 { [%clk 0:00:29.1] }
+17. Qxg6+ { [%clk 0:00:25.3] } 17... Kh8 { [%clk 0:00:20.8] } 18. Qxh6+
+{ [%clk 0:00:25.2] } 18... Kg8 { [%clk 0:00:19.3] } 19. Qg6+
+{ [%clk 0:00:25.1] } 19... Kh8 { [%clk 0:00:17.4] } 20. Qh6+ { [%clk 0:00:25] }
+20... Kg8 { [%clk 0:00:16.4] } 21. Qg6+ { [%clk 0:00:24.9] } 21... Kh8
+{ [%clk 0:00:15.7] } 22. Qh6+ { [%clk 0:00:24.7] } 1/2-1/2
+

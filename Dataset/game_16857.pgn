@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "DR_speedrun_2700"]
+[Black "iakov98"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/PzAP5iBz"]
+[BlackTitle "IM"]
+[WhiteElo "2594"]
+[BlackElo "2676"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:05:52"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. a3 Ne7 6. Nc3 dxc4 7. Bxc4 Nd7 8. Nge2
+Nb6 9. Bb3 Qd7 10. Ng3 Bg6 11. h4 h6 12. h5 Bh7 13. Nce4 Nf5 14. Be3 Nxg3 15.
+Nxg3 Nd5 16. Qf3 Rd8 17. Rc1 Be7 18. O-O O-O 19. Ne4 Bxe4 20. Qxe4 Rfe8 21. Bc2
+f5 22. exf6 Nxf6 23. Qg6 Kh8 24. Rfe1 Bf8 25. Bxh6 gxh6 26. Qxf6+ Qg7 27. Qg6
+Qxg6 28. Bxg6 Re7 29. Re4 Bg7 30. Rce1 Rd6 31. Bf5 Bxd4 32. Rxe6 Rexe6 33. Bxe6
+Bxb2 34. a4 Bc3 35. Re3 Bd4 36. Re4 Kg7 37. Bf5 Kf6 38. Bg6 c5 39. g3 c4 40.
+Kg2 c3 41. Rf4+ Ke5 42. Rf5+ Ke6 43. Rf7 Rb6 44. f4 Rb2+ 45. Kf3 Kd6 46. Rf8 c2
+47. Rc8 Bc5 48. Bxc2 Rxc2 49. g4 Rc3+ 50. Ke4 Rc4+ 51. Kf5 Rxa4 52. g5 hxg5 53.
+fxg5 Rh4 54. Kg6 Be3 55. Rd8+ Kc5 56. Re8 Kd4 57. Rd8+ Ke4 58. Re8+ Kd4 59.
+Rd8+ Ke4 60. Rf8 Kd3 61. Rf5 Rg4 62. h6 Bxg5 63. Rxg5 Rh4 64. Rh5 Rg4+ 65. Rg5
+Rd4 66. Kg7 Rd6 67. Rg6 Rd7+ 68. Kf6 Rd8 69. Kg5 b5 70. Rf6 Rd5+ 71. Rf5 Rd4
+72. Rf4 Rd8 73. Rf3+ Ke4 74. Rf5 1-0
+

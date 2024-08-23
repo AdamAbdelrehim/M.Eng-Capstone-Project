@@ -1,0 +1,40 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "InanisBot"]
+[Black "ChessatronBot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/g1hkD1An"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2486"]
+[BlackElo "2503"]
+[ECO "D92"]
+[Opening "Grünfeld Defense: Three Knights Variation, Hungarian Attack"]
+[TimeControl "900+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:34:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 d5 5. Bf4 O-O 6. Rc1 Nc6 7. e3 Be6 8. b3
+Ne4 9. h3 Nxc3 10. Rxc3 h6 11. Be2 Re8 12. O-O Rc8 13. Bg3 Qd7 14. Rc1 Red8 15.
+a3 a6 16. Re1 Na5 17. c5 Bf5 18. b4 Nc6 19. Qd2 Nb8 20. Nh4 Be6 21. Bd3 g5 22.
+Nf3 Bf5 23. Ne5 Bxe5 24. Bxe5 Nc6 25. Bg3 Bxd3 26. Qxd3 Re8 27. Red1 h5 28. Rb1
+Ra8 29. a4 h4 30. Bh2 Kg7 31. Qe2 f6 32. f4 gxf4 33. b5 axb5 34. axb5 Na5 35.
+Bxf4 Nc4 36. e4 c6 37. b6 Qe6 38. Rbc1 Ra4 39. Re1 Qxe4 40. Qxe4 dxe4 41. Rxe4
+f5 42. Re6 Kf7 43. Rce1 Na5 44. Bd6 Rxd4 45. Rxe7+ Rxe7 46. Rxe7+ Kf6 47. Kh2
+Nc4 48. Rxb7 Nxd6 49. cxd6 Ke6 50. g4 fxg4 51. hxg4 Rxg4 52. d7 Rd4 53. Rc7
+Rxd7 54. Rxc6+ Kd5 55. Rc7 Rd6 56. b7 Rb6 57. Kg2 Rb3 58. Kh2 Rb2+ 59. Kh3 Kd6
+60. Rg7 Rb4 61. Rg6+ Kc7 62. Rg7+ Kc6 63. Rh7 Rxb7 64. Rxh4 Rg7 65. Rf4 Kd5 66.
+Rf6 Ke5 67. Ra6 Rg1 68. Kh2 Rc1 69. Ra7 Rc3 70. Rf7 Ke4 71. Kg1 Rc2 72. Ra7 Rb2
+73. Re7+ Kf3 74. Ra7 Rd2 75. Ra1 Rg2+ 76. Kh1 Rb2 77. Ra7 Rc2 78. Ra1 Rd2 79.
+Ra7 Rd1+ 80. Kh2 Rc1 81. Rb7 Rc2+ 82. Kg1 Rg2+ 83. Kh1 Rd2 84. Rb1 Kg3 85. Re1
+Rd3 86. Rb1 Kh3 87. Rc1 Rb3 88. Rd1 Rc3 89. Rb1 Ra3 90. Rd1 Kg3 91. Kg1 Rc3 92.
+Rb1 Rc2 93. Re1 Rc3 94. Kf1 Kf3 95. Rd1 Rc2 96. Ra1 Kg3 97. Re1 Kf3 98. Re7
+Rc1+ 99. Re1 Rc7 100. Re6 Rc2 101. Re5 Rf2+ 102. Kg1 Rc2 103. Re7 Rg2+ 104. Kh1
+Rc2 105. Re5 Rc1+ 106. Kh2 Rc7 107. Kh1 Kf4 108. Re6 Ra7 109. Rb6 Ra1+ 110. Kh2
+Ke4 111. Re6+ Kf5 112. Re7 Kf4 113. Re2 Kf3 114. Re7 1/2-1/2
+

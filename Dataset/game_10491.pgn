@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "GhostStrikes"]
+[Black "koromarbel"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/0FGD82Fe"]
+[WhiteElo "2556"]
+[BlackElo "2434"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:49:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "-36"]
+[BlackRatingDiff "+8"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a3 b6 7. Bd3 Bb7 8. O-O
+Nbd7 9. f4 Rc8 10. Be3 Rxc3 11. bxc3 Nxe4 12. f5 Qa8 13. c4 g6 14. fxg6 hxg6
+15. Qf3 Ne5 16. Qf4 Bh6 17. Qxh6 Rxh6 18. Bxh6 Ng4 19. Bf4 Qc8 20. Rab1 Qc5 21.
+Rbd1 Qxd4+ 22. Kh1 0-1
+

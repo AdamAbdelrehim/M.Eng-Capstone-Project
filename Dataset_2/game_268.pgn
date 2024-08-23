@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.29"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Jackga217"]
+[Result "1-0"]
+[CurrentPosition "r1bq1b1r/pppknppp/2Np4/8/2B1P3/8/PPP2PPP/RNBQK2R w KQ -"]
+[Timezone "UTC"]
+[ECO "C45"]
+[ECOUrl "https://www.chess.com/openings/Scotch-Game-Scotch-Gambit-4...d6-5.Nxd4"]
+[UTCDate "2021.01.29"]
+[UTCTime "02:11:49"]
+[WhiteElo "1219"]
+[BlackElo "846"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "02:11:49"]
+[EndDate "2021.01.29"]
+[EndTime "02:13:03"]
+[Link "https://www.chess.com/game/live/6380234681"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:57.4] }
+2... Nc6 { [%clk 0:09:59.9] } 3. Bc4 { [%clk 0:09:53.9] } 3... d6
+{ [%clk 0:09:58.5] } 4. d4 { [%clk 0:09:50] } 4... exd4 { [%clk 0:09:40.6] } 5.
+Nxd4 { [%clk 0:09:47.1] } 5... Nge7 { [%clk 0:09:33.9] } 6. Nxc6
+{ [%clk 0:09:44.2] } 6... Kd7 { [%clk 0:09:31.5] } 1-0
+

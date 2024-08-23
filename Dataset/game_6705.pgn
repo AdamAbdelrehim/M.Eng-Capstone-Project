@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Voinov"]
+[Black "FastCavalier"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/gs0cmvHp"]
+[WhiteElo "2488"]
+[BlackElo "2531"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:09:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Be3 Bd6 7. Qd2 O-O
+8. O-O-O Be6 9. Kb1 Nd7 10. Nf3 Nb6 11. Bf4 Bc4 12. Bxd6 Qxd6 13. Bxc4 Nxc4 14.
+Qc3 b5 15. Rhe1 Rfe8 16. Rxe8+ Rxe8 17. Re1 Rxe1+ 18. Qxe1 Kf8 19. b3 Na3+ 20.
+Kb2 b4 21. Qe4 g6 22. Qh4 Kg7 23. Qg3 Qe6 24. Qc7 Qe4 25. Ne5 Qxc2+ 26. Ka1
+Qb1# 0-1
+

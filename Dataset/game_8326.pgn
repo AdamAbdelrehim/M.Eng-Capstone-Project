@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "thehighpriestess"]
+[Black "Giri_Anish18"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/UmIxyZTM"]
+[BlackTitle "FM"]
+[WhiteElo "2426"]
+[BlackElo "2544"]
+[ECO "A62"]
+[Opening "Benoni Defense: Fianchetto Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:08:25"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 c5 5. d5 O-O 6. Nc3 e6 7. Nf3 exd5 8. cxd5
+d6 9. O-O Re8 10. Nd2 Nbd7 11. h3 a6 12. a4 b6 13. Nc4 Ne5 14. Na3 b5 15. axb5
+axb5 16. Ncxb5 Ba6 17. Nc3 Qb6 18. Kh2 h6 19. f4 Neg4+ 20. hxg4 Nxg4+ 21. Kh1
+Bxc3 22. bxc3 Bxe2 23. Qe1 Bb5 24. Nxb5 Kg7 25. Rxa8 Rxe1 26. Rxe1 Qxb5 27. Ra2
+Qd3 0-1
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ChesterF"]
+[Black "BertramicAttack"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/vqsQLc9K"]
+[WhiteTitle "IM"]
+[WhiteElo "2551"]
+[BlackElo "2477"]
+[ECO "C79"]
+[Opening "Ruy Lopez: Morphy Defense, Steinitz Deferred"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:06:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. c3 Bd7 7. h3 g5 8. d3 g4
+9. hxg4 Nxg4 10. Re1 Rg8 11. Nbd2 Qf6 12. Nf1 h5 13. d4 O-O-O 14. b4 h4 15. b5
+axb5 16. Bxb5 Kb8 17. Rb1 h3 18. g3 h2+ 19. N1xh2 Nxh2 20. Nxh2 exd4 21. Bxc6
+Bxc6 22. cxd4 d5 23. e5 Qe6 24. Qf3 Bh6 25. Bxh6 Qxh6 26. Kg2 Rh8 27. Rh1 Qh3+
+28. Kg1 Qh7 29. Re1 Qg6 30. Nf1 Rxh1+ 31. Qxh1 Qg7 32. Ne3 Rh8 33. Qf3 Bd7 34.
+Nxd5 Bc6 35. Qf6 Qh7 36. Qh4 Qxh4 37. gxh4 Bxd5 0-1
+

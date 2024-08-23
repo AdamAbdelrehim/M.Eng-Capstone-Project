@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Knights4base"]
+[Black "WerkNeu"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/rdtXemVK"]
+[WhiteTitle "IM"]
+[WhiteElo "2584"]
+[BlackElo "2399"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Pirc Invitation"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:25:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. Nf3 d6 2. g3 Bg4 3. Bg2 Nf6 4. O-O e5 5. d4 e4 6. Nfd2 d5 7. c4 c6 8. Nc3
+Bb4 9. Qb3 Bxc3 10. bxc3 Bxe2 11. Qxb7 Nbd7 12. Re1 Bd3 13. Qxc6 O-O 14. cxd5
+Rc8 15. Qd6 Rxc3 16. Nxe4 Nxe4 17. Bxe4 Bxe4 18. Rxe4 Nb6 19. Qxd8 Rxd8 20. d6
+h6 21. Bd2 Rd3 22. Bb4 Nd5 23. Bc5 a6 24. Rae1 Kh7 25. Re8 Rd7 26. R8e7 Rd8 27.
+Rxf7 Nf6 28. Ree7 Rg8 29. Rxf6 a5 30. d7 Rd1+ 31. Kg2 Rb1 32. Re8 Rb8 33. Rxg8
+Kxg8 34. Rc6 Rd8 35. Rc8 Kf7 36. Rxd8 Ke6 37. d5+ Kxd5 38. Rc8 Kc4 39. d8=Q h5
+40. Qd4+ Kb5 41. Rb8+ Ka6 42. Qd6# 1-0
+

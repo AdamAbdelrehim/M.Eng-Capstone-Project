@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "SevanB"]
+[Black "wallywally"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/cyBuYFtf"]
+[WhiteTitle "IM"]
+[WhiteElo "2566"]
+[BlackElo "2700"]
+[ECO "B42"]
+[Opening "Sicilian Defense: Kan Variation, Modern Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:02:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qc7 6. O-O Nf6 7. Nd2 d6 8. f4
+g6 9. N2f3 Bg7 10. e5 dxe5 11. fxe5 Nfd7 12. Bf4 Nxe5 13. Nxe5 Bxe5 14. Bxe5
+Qxe5 15. Nf3 Qxb2 16. Rb1 Qg7 17. Ng5 O-O 18. Qf3 Nc6 19. Ne4 f5 20. Ng5 h6 21.
+Nh3 e5 22. Bc4+ Kh7 23. Bd5 e4 24. Qb3 g5 25. Kh1 Ne7 26. Bxb7 Rb8 27. Nxg5+
+Qxg5 28. Qa3 Bxb7 29. Rbd1 e3 30. Rg1 Rbd8 31. Rb1 Be4 32. Rb4 Rg8 33. Rxe4
+fxe4 34. Qb4 Qxg2+ 35. Rxg2 Rd1+ 36. Rg1 Rdxg1# 0-1
+

@@ -1,0 +1,26 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "yobot_v2"]
+[Black "raspfish"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/fuyC9Y8U"]
+[WhiteElo "2750"]
+[BlackElo "2730"]
+[ECO "D44"]
+[Opening "Semi-Slav Defense: Botvinnik Variation"]
+[TimeControl "1500+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "03:26:34"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+1"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. Nf3 e6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. h4 Be7 12. exf6 Nxf6 13. Be2 Bb7 14. Rh3 b4 15.
+Na4 Ne4 16. Be3 Qa5 17. Kf1 O-O-O 18. Qc2 Qf5 19. Rc1 Rxh4 20. Rxh4 Bxh4 21.
+Bf3 Nd6 22. Qxf5 Nxf5 23. Nc5 Nxe3+ 24. fxe3 Bg5 25. Rxc4 Bxe3 26. Rxb4 Ba8 27.
+Nb3 Kc7 28. Ke2 Bg1 29. Kf1 Be3 30. Ke2 Bg1 31. Ra4 Bb7 32. Kf1 Be3 33. Ke2 Bg1
+34. Kf1 Be3 35. Ke2 Bg1 1/2-1/2
+

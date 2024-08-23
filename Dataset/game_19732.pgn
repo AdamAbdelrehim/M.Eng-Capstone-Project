@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "manneredmonkey"]
+[Black "Buhmann"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/M1WsYRW9"]
+[WhiteTitle "NM"]
+[BlackTitle "GM"]
+[WhiteElo "2587"]
+[BlackElo "2737"]
+[ECO "A11"]
+[Opening "English Opening: Caro-Kann Defensive System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:04:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. c4 c6 2. g3 d5 3. Bg2 Na6 4. Nf3 Nf6 5. O-O g6 6. b3 Bg7 7. Bb2 O-O 8. e3
+Bg4 9. h3 Bxf3 10. Bxf3 e6 11. d4 b5 12. Nd2 Ne8 13. cxb5 cxb5 14. Qe2 Qb6 15.
+Rfc1 Nd6 16. Bg2 Rfc8 17. Qd3 Nb4 18. Qb1 Rxc1+ 19. Bxc1 Rc8 20. a3 Nc2 21. Ra2
+Ne1 22. Bf1 Ne4 23. Nxe4 dxe4 24. Kh2 Qc7 25. Bd2 Nf3+ 26. Kg2 f5 27. Bxb5 h5
+28. Bc4 Qd7 29. h4 Kh7 30. Rc2 e5 31. d5 f4 32. exf4 Nxh4+ 33. gxh4 Qg4+ 34.
+Kf1 exf4 35. Ke1 Re8 36. Qd1 Qg1+ 37. Bf1 e3 38. fxe3 Qg3+ 39. Ke2 Rxe3+ 40.
+Bxe3 Qxe3# 0-1
+

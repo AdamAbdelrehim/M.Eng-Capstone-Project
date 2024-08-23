@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "colnago_master"]
+[Black "Rimac_C2"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/fb1GaaMK"]
+[WhiteElo "2354"]
+[BlackElo "2531"]
+[ECO "D83"]
+[Opening "Grünfeld Defense: Brinckmann Attack, Grünfeld Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:39:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. h3 c5 7. dxc5 Qa5 8. Rc1
+dxc4 9. Bxc4 Nc6 10. Nf3 Rd8 11. Qe2 Qxc5 12. O-O Qh5 13. Ng5 e6 14. g4 Qh4 15.
+Kg2 e5 16. Nf3 Bxg4 17. hxg4 Qxg4+ 18. Bg3 e4 19. Nd4 Nxd4 20. Qxg4 Nxg4 21.
+exd4 Rxd4 22. Nb5 Rd2 23. Kh3 h5 24. Rcd1 Rxb2 25. Rd7 Rf8 26. Nd6 Nh6 27. Rxb7
+Rxb7 28. Nxb7 Nf5 29. Nd6 Nxd6 30. Bxd6 Rc8 31. Bb3 Rc3+ 32. Kg2 Rd3 33. Bc5
+Rf3 34. Rd1 Kh7 35. Rd7 h4 36. Rxf7 h3+ 37. Kg1 Rxf7 38. Bxf7 a6 39. Be6 Be5
+40. Bxh3 Kg7 41. Bc8 Kf6 1-0
+

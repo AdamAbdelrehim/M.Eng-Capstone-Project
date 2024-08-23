@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "cn_ua"]
+[Black "HL7"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/5h9ZDdVT"]
+[WhiteTitle "IM"]
+[WhiteElo "2622"]
+[BlackElo "2488"]
+[ECO "E92"]
+[Opening "King's Indian Defense: Petrosian Variation, Stein Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:57:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. c4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. d4 O-O 5. e4 d6 6. Be2 e5 7. d5 a5 8. Bg5 Na6
+9. Nd2 h6 10. Be3 Nc5 11. O-O Nfd7 12. b3 f5 13. f3 f4 14. Bf2 g5 15. Rb1 Rf6
+16. a3 Rg6 17. b4 Na6 18. c5 h5 19. Bxa6 bxa6 20. Qa4 g4 21. Qxa5 g3 22. cxd6
+Qh4 23. hxg3 fxg3 24. Bxg3 Qxg3 25. Rf2 Bh6 26. Nf1 Qh4 27. Qxc7 Bf4 28. Ne2
+Rg7 29. Nxf4 exf4 30. Qc3 Nf6 31. Qe5 Bh3 32. Rbb2 Re8 33. Qd4 Nd7 34. Nd2 Ne5
+35. Nc4 Nxc4 36. Qxc4 Rc8 37. Qf1 Kh8 38. e5 Rcg8 39. e6 Qf6 40. d7 h4 41. Rbd2
+Bf5 42. Kh1 h3 43. gxh3 Rg1+ 44. Qxg1 Rxg1+ 45. Kxg1 Qa1+ 46. Rf1 Qf6 47. Rg2
+Bxh3 48. Rh2 Qd4+ 49. Kh1 1-0
+

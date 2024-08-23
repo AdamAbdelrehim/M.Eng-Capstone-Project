@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "AlexD64"]
+[Black "GuilleRosario"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/9S1vexq9"]
+[WhiteElo "2560"]
+[BlackElo "2533"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Keres Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:58:57"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 c5 2. Ne2 Nc6 3. g3 g6 4. Bg2 Bg7 5. O-O d6 6. c3 Rb8 7. d4 cxd4 8. cxd4
+Nf6 9. Nbc3 O-O 10. h3 Nd7 11. Be3 a6 12. Rc1 b5 13. f4 Bb7 14. e5 Na5 15. b3
+Bxg2 16. Kxg2 Qb6 17. Qd3 Qb7+ 18. Qe4 f5 19. exf6 Nxf6 20. Qxb7 Rxb7 21. d5
+Rc7 22. Bb6 Rxc3 23. Nxc3 Nb7 24. Rfe1 Kf7 25. Bd4 Rc8 26. Ne4 Rxc1 27. Ng5+
+Ke8 28. Rxc1 Kd7 29. Ne6 Nxd5 30. Nxg7 Na5 31. Kf3 Nc6 32. Bb2 Ncb4 33. Rd1 Nc7
+34. a3 Nbd5 35. f5 a5 36. g4 b4 37. axb4 axb4 38. h4 Nc3 39. Rd3 N7b5 40. fxg6
+hxg6 41. h5 gxh5 42. gxh5 e5 43. Bxc3 1-0
+

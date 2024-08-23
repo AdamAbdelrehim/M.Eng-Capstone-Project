@@ -1,0 +1,30 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "karpen-b"]
+[Black "Hoon_Bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/PC4rJdhd"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2971"]
+[BlackElo "2902"]
+[ECO "E00"]
+[Opening "Catalan Opening"]
+[TimeControl "600+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:33:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+1"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Be7 5. Nf3 d5 6. Bg2 c6 7. O-O O-O 8. Qc2
+b6 9. Nc3 Nbd7 10. e4 dxc4 11. e5 Nd5 12. Ne4 h6 13. g4 c5 14. g5 cxd4 15. gxh6
+Qc7 16. hxg7 Rd8 17. Neg5 d3 18. Qd1 Nxe5 19. Re1 Nxf3+ 20. Qxf3 Bxg5 21. Bxg5
+f6 22. Bxf6 Nxf6 23. Qxf6 d2 24. Red1 Bb7 25. Qxe6+ Kxg7 26. Qg4+ Kf6 27. Qh4+
+Kg7 28. Qg5+ Kh7 29. Kh1 Bxg2+ 30. Qxg2 Qg7 31. Qe4+ Qg6 32. Qh4+ Qh6 33. Qe7+
+Qg7 34. Qh4+ Qh6 35. Qe4+ Qg6 36. Qf4 Qh6 37. Qf5+ Qg6 38. Qh3+ Qh6 39. Qf3 Qg5
+40. Qh3+ Qh6 41. Qg4 Qc6+ 42. f3 Rd4 43. Qh5+ Qh6 44. Qf5+ Qg6 45. Qh3+ Qh6 46.
+Qf5+ Qg6 47. Qh3+ Qh6 48. Qf5+ 1/2-1/2
+

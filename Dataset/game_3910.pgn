@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "xiaochess"]
+[Black "soham0705"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/lMKIgsGa"]
+[WhiteElo "2840"]
+[BlackElo "2725"]
+[ECO "E61"]
+[Opening "King's Indian Defense: Fianchetto Variation, Benjamin Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:51:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. g3 d6 6. Bg2 c6 7. O-O Qb6 8. h3
+Qa6 9. b3 b5 10. cxb5 cxb5 11. Bb2 Bb7 12. a3 Qb6 13. Qd3 a6 14. e4 Nbd7 15. e5
+Nd5 16. Ne4 dxe5 17. dxe5 Rfd8 18. Rac1 Nxe5 19. Nxe5 Nf4 20. Qxd8+ Rxd8 21.
+gxf4 g5 22. fxg5 Bxe4 23. Bxe4 Qe6 24. f4 Qxb3 25. Rf2 Qg3+ 26. Bg2 Qe3 27. Ng4
+Qb6 28. Bxg7 Kxg7 29. Kh2 Rd3 30. Re2 Qd6 31. Rf1 Rxa3 32. Nh6 e6 33. Kh1 f5
+34. Re5 Qd7 35. Rfe1 Kf8 36. Rxe6 Ra1 37. Rf6+ Kg7 38. Rxa1 1-0
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "MackWin"]
+[Black "Mondano"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/UWxR1CPV"]
+[WhiteElo "2480"]
+[BlackElo "2507"]
+[ECO "E73"]
+[Opening "King's Indian Defense: Semi-Averbakh System"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:57:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Be3 c5 7. d5 b5 8. cxb5
+Qa5 9. Bd2 e6 10. Qc2 exd5 11. Nxd5 Qd8 12. Nxf6+ Bxf6 13. Nf3 Nd7 14. O-O Bb7
+15. Bf4 Re8 16. Bxd6 Bxe4 17. Qb3 Nb6 18. Bxc5 Bd5 19. Bxb6 axb6 20. Bc4 Bxc4
+21. Qxc4 Bxb2 22. Rad1 Qf6 23. Rd7 Rac8 24. Qd5 Rc5 25. Qb3 Qf5 26. Rfd1 Rxb5
+27. Qa4 Rc8 28. Nh4 Qc5 29. h3 Bf6 30. Nf3 Kg7 31. Qg4 Rb2 32. Rf1 h5 33. Qe6
+Rf8 34. Qb3 Rxb3 35. axb3 Qb4 36. Rfd1 Qxb3 37. g4 hxg4 38. hxg4 g5 39. Nd4
+Bxd4 40. R7xd4 f6 41. Rd7+ Kg6 42. Rc7 Qf3 43. Rdd7 Qxg4+ 44. Kf1 Qh4 45. Rg7+
+Kf5 46. Rcd7 Qh1+ 47. Ke2 Re8+ 48. Kd3 Qd1+ 49. Kc4 Rc8+ 50. Kb5 Qb3+ 51. Ka6
+Qc4+ 52. Kb7 Qc6+ 53. Ka7 Ra8# 0-1
+

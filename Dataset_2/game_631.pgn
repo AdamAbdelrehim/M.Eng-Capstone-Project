@@ -1,0 +1,42 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.06"]
+[Round "-"]
+[White "firas3d"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "3r1r1k/pp4Qp/1q1P1ppP/b1p1p3/2B5/P7/1PP2PP1/2KR3R b - -"]
+[Timezone "UTC"]
+[ECO "A40"]
+[ECOUrl "https://www.chess.com/openings/Englund-Gambit-Declined"]
+[UTCDate "2021.03.06"]
+[UTCTime "09:27:24"]
+[WhiteElo "1305"]
+[BlackElo "1280"]
+[TimeControl "600"]
+[Termination "firas3d won by checkmate"]
+[StartTime "09:27:24"]
+[EndDate "2021.03.06"]
+[EndTime "09:34:02"]
+[Link "https://www.chess.com/game/live/8761604699"]
+
+1. d4 { [%clk 0:09:44] } 1... e5 { [%clk 0:09:53.9] } 2. d5 { [%clk 0:09:43] }
+2... f6 { [%clk 0:09:53.8] } 3. e4 { [%clk 0:09:39.3] } 3... Bc5
+{ [%clk 0:09:47.5] } 4. Nc3 { [%clk 0:08:58.2] } 4... d6 { [%clk 0:09:37.7] }
+5. Qf3 { [%clk 0:08:36.5] } 5... c6 { [%clk 0:09:17.2] } 6. Be3
+{ [%clk 0:08:27.2] } 6... Bb4 { [%clk 0:09:10.2] } 7. Ne2 { [%clk 0:08:23.1] }
+7... Ne7 { [%clk 0:09:00] } 8. O-O-O { [%clk 0:08:14.3] } 8... cxd5
+{ [%clk 0:08:55.9] } 9. Nxd5 { [%clk 0:08:07.1] } 9... Nxd5
+{ [%clk 0:08:45.9] } 10. exd5 { [%clk 0:08:03.2] } 10... O-O
+{ [%clk 0:08:41.6] } 11. a3 { [%clk 0:07:56.8] } 11... Ba5 { [%clk 0:08:37.9] }
+12. h4 { [%clk 0:07:48.6] } 12... Na6 { [%clk 0:08:31.2] } 13. h5
+{ [%clk 0:07:38.7] } 13... Nb8 { [%clk 0:08:01] } 14. Ng3 { [%clk 0:07:33.8] }
+14... Nd7 { [%clk 0:07:53.4] } 15. Nf5 { [%clk 0:07:21.6] } 15... Nc5
+{ [%clk 0:07:49.2] } 16. Bxc5 { [%clk 0:07:14.6] } 16... dxc5
+{ [%clk 0:07:47.1] } 17. d6 { [%clk 0:07:10] } 17... Bxf5 { [%clk 0:07:44.9] }
+18. Qxf5 { [%clk 0:07:08.8] } 18... Qb6 { [%clk 0:07:36.2] } 19. Bc4+
+{ [%clk 0:07:01.8] } 19... Kh8 { [%clk 0:07:33.8] } 20. h6 { [%clk 0:06:57.7] }
+20... g6 { [%clk 0:07:28.2] } 21. Qe6 { [%clk 0:06:51.3] } 21... Rae8
+{ [%clk 0:07:04.4] } 22. Qd7 { [%clk 0:06:43.7] } 22... Rd8
+{ [%clk 0:06:52.1] } 23. Qg7# { [%clk 0:06:41.6] } 1-0
+

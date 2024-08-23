@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "jhedigm"]
+[Black "elsas"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/J3RAcd3z"]
+[WhiteTitle "FM"]
+[BlackTitle "FM"]
+[WhiteElo "2520"]
+[BlackElo "2475"]
+[ECO "E67"]
+[Opening "King's Indian Defense: Fianchetto Variation, Debrecen Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:48:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 d6 5. d4 O-O 6. Nf3 Nbd7 7. O-O c6 8. h3
+d5 9. cxd5 cxd5 10. Ne5 e6 11. f4 Nxe5 12. fxe5 Ne8 13. e4 Nc7 14. exd5 Nxd5
+15. Nxd5 exd5 16. Kh2 Be6 17. Bf4 Qb6 18. Rf2 Rac8 19. Qd2 Rc4 20. Rd1 Rfc8 21.
+b3 Rc3 22. Rdf1 h5 23. h4 Rc2 24. Qe3 R8c3 25. Rxc2 Rxc2 26. Rf2 Rxf2 27. Qxf2
+Qc6 28. Bh3 Bxh3 29. Kxh3 Qe6+ 30. Kh2 Qf5 31. Qd2 Bf8 32. Be3 Qe4 33. Bf2 Qf3
+34. Kg1 a6 35. Qg5 Bb4 36. Qd8+ Kg7 37. Qb6 Bd2 38. Qd6 Kh7 39. Qd7 Kg8 40. e6
+fxe6 41. Qxe6+ Qf7 42. Qc8+ Kh7 43. Qc2 Bb4 44. Qc8 Bd6 45. Qd8 Qc7 46. Qe8
+Bxg3 47. Qe3 Bxf2+ 48. Kxf2 Qh2+ 49. Kf1 Qxh4 0-1
+

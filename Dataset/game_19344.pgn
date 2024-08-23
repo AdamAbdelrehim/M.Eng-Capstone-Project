@@ -1,0 +1,36 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Lynx_BOT"]
+[Black "ChessatronBot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/dboy983m"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2560"]
+[BlackElo "2493"]
+[ECO "A10"]
+[Opening "English Opening: Anglo-Lithuanian Variation"]
+[TimeControl "900+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:05:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. c4 Nc6 2. g3 e5 3. d3 Bc5 4. a3 d5 5. cxd5 Qxd5 6. Nf3 Bg4 7. Bg2 O-O-O 8.
+Nc3 Qd7 9. b4 Bd4 10. Nxd4 Nxd4 11. h3 Bh5 12. g4 Bg6 13. Bb2 Nf6 14. Rc1 Qe7
+15. Qa4 Kb8 16. Nb5 a6 17. Nxc7 Rc8 18. Bxd4 exd4 19. Nxa6+ bxa6 20. Rxc8+ Rxc8
+21. Qxa6 Qa7 22. Qb5+ Kc7 23. f4 h6 24. a4 Kd8 25. f5 Bh7 26. a5 Nd7 27. a6 Rc2
+28. Qa5+ Ke7 29. b5 Qc5 30. Kf2 Ne5 31. Be4 Nc4 32. Qa4 Nb6 33. Qb3 Rc3 34. Qb1
+f6 35. Qa2 Qd6 36. Kf3 Ra3 37. Qe6+ Qxe6 38. fxe6 Bxe4+ 39. Kxe4 Kxe6 40. Rc1
+Kd7 41. Kxd4 Ra4+ 42. Kc5 Kc7 43. Rb1 Ra2 44. e4 Ra3 45. Kb4 Rxd3 46. Rc1+ Kd7
+47. a7 Na8 48. h4 Re3 49. Rc6 Rxe4+ 50. Ka5 Rxg4 51. Rc5 g5 52. hxg5 fxg5 53.
+Ka6 Re4 54. Kb7 Re8 55. b6 g4 56. Rc4 Kd6 57. Rxg4 Kc5 58. Rg6 Kb5 59. Rxh6 Rg8
+60. Rh5+ Ka4 61. Ka6 Rg6 62. Rb5 Rh6 63. Rb1 Ka3 64. Kb7 Rh8 65. Kc6 Rh6+ 66.
+Kc5 Rh5+ 67. Kc4 Nxb6+ 68. Rxb6 Ra5 69. Rb7 Ka2 70. Kb4 Ra3 71. Kc5 Ra4 72. Kb6
+Kb3 73. Rb8 Kc4 74. a8=Q Rxa8 75. Rxa8 Kd5 76. Ra5+ Ke4 77. Ra4+ Kf5 78. Kc6
+Ke5 79. Rh4 Kf5 80. Kd5 Kg5 81. Rb4 Kg6 82. Ke6 Kg7 83. Rg4+ Kf8 84. Rg5 Ke8
+85. Rg8# 1-0
+

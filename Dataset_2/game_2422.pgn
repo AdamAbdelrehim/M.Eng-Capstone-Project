@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.19"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "HANAFI1969"]
+[Result "0-1"]
+[CurrentPosition "rn1qk2r/pbp1ppbp/1p1p2p1/8/3PPP2/2NBnN2/PPP3PP/R2Q1RK1 w kq -"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Owens-Defense-2.Nc3-Bb7"]
+[UTCDate "2021.10.19"]
+[UTCTime "19:13:51"]
+[WhiteElo "1580"]
+[BlackElo "1608"]
+[TimeControl "600"]
+[Termination "HANAFI1969 won by resignation"]
+[StartTime "19:13:51"]
+[EndDate "2021.10.19"]
+[EndTime "19:14:41"]
+[Link "https://www.chess.com/game/live/28409958853"]
+
+1. e4 { [%clk 0:09:59.9] } 1... b6 { [%clk 0:09:57.7] } 2. Nc3
+{ [%clk 0:09:56.1] } 2... Bb7 { [%clk 0:09:56.9] } 3. d4 { [%clk 0:09:54.5] }
+3... g6 { [%clk 0:09:55.5] } 4. f4 { [%clk 0:09:46.4] } 4... Bg7
+{ [%clk 0:09:53.9] } 5. Nf3 { [%clk 0:09:45.8] } 5... d6 { [%clk 0:09:51.9] }
+6. Bd3 { [%clk 0:09:42.2] } 6... Nf6 { [%clk 0:09:44.9] } 7. Be3
+{ [%clk 0:09:40.2] } 7... Ng4 { [%clk 0:09:41.8] } 8. O-O { [%clk 0:09:37.3] }
+8... Nxe3 { [%clk 0:09:40.5] } 0-1
+

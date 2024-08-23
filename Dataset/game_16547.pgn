@@ -1,0 +1,28 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "expositor"]
+[Black "ChessatronBot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/gI9QITXx"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2813"]
+[BlackElo "2517"]
+[ECO "B42"]
+[Opening "Sicilian Defense: Kan Variation, Modern Variation"]
+[TimeControl "900+3"]
+[UTCDate "2024.06.03"]
+[UTCTime "02:22:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qc7 6. O-O Nf6 7. Qe2 d6 8. c4
+Be7 9. Nc3 Nc6 10. Nxc6 bxc6 11. Be3 Bb7 12. c5 dxc5 13. f3 Qa5 14. Rac1 Nd7
+15. b3 Bf6 16. Na4 Bd4 17. f4 O-O-O 18. Kh1 Rhf8 19. Bd2 Qc7 20. b4 cxb4 21.
+Bxb4 Rg8 22. Bxa6 Nb8 23. Bxb7+ Qxb7 24. Bc5 Qa6 25. Qc2 Bxc5 26. Nxc5 Qa7 27.
+Rb1 Qa5 28. Qc4 g6 29. Rb4 Qc7 30. Na6 Qd6 31. Nxb8 Kc7 32. e5 h5 33. exd6+
+Rxd6 34. Qc5 f6 35. Na6+ Kd7 36. Rb7+ Ke8 37. Qxd6 c5 38. Qb8# 1-0
+

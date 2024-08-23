@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.07"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Socrates_barcenas"]
+[Result "1-0"]
+[CurrentPosition "rnbqk1nr/ppp2Q2/3p1b1p/8/2B1P3/5N2/PPP2PPP/RNB1K2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C41"]
+[ECOUrl "https://www.chess.com/openings/Philidor-Defense-3.Bc4"]
+[UTCDate "2021.10.07"]
+[UTCTime "19:40:24"]
+[WhiteElo "1277"]
+[BlackElo "1254"]
+[TimeControl "300"]
+[Termination "AdamAbdelrehim won by checkmate"]
+[StartTime "19:40:24"]
+[EndDate "2021.10.07"]
+[EndTime "19:40:42"]
+[Link "https://www.chess.com/game/live/27374470909"]
+
+1. e4 { [%clk 0:05:00] } 1... e5 { [%clk 0:05:00] } 2. Nf3 { [%clk 0:04:59.2] }
+2... d6 { [%clk 0:04:59.4] } 3. Bc4 { [%clk 0:04:58.6] } 3... h6
+{ [%clk 0:04:58.3] } 4. d4 { [%clk 0:04:58] } 4... exd4 { [%clk 0:04:57.2] } 5.
+Qxd4 { [%clk 0:04:57.9] } 5... Be7 { [%clk 0:04:56] } 6. Qxg7
+{ [%clk 0:04:55.5] } 6... Bf6 { [%clk 0:04:54.9] } 7. Qxf7#
+{ [%clk 0:04:50.9] } 1-0
+

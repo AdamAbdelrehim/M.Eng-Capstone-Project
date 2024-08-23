@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.01.29"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "canasusa"]
+[Result "1-0"]
+[CurrentPosition "4R1k1/p4p1p/5Q2/2q5/8/8/PPP3PP/7K b - -"]
+[Timezone "UTC"]
+[ECO "B32"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Open-Lowenthal-Variation-5.Nxc6-bxc6"]
+[UTCDate "2023.01.29"]
+[UTCTime "02:11:49"]
+[WhiteElo "1893"]
+[BlackElo "1863"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "02:11:49"]
+[EndDate "2023.01.29"]
+[EndTime "02:21:03"]
+[Link "https://www.chess.com/game/live/68697236405"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:58.5] }
+2... Nc6 { [%clk 0:09:59.2] } 3. d4 { [%clk 0:09:57.4] } 3... cxd4
+{ [%clk 0:09:57.2] } 4. Nxd4 { [%clk 0:09:57.3] } 4... e5 { [%clk 0:09:56] } 5.
+Nxc6 { [%clk 0:09:55.9] } 5... bxc6 { [%clk 0:09:53.2] } 6. Bc4
+{ [%clk 0:09:55.2] } 6... Nf6 { [%clk 0:09:49] } 7. f3 { [%clk 0:09:49.6] }
+7... d5 { [%clk 0:09:44.3] } 8. exd5 { [%clk 0:09:48] } 8... cxd5
+{ [%clk 0:09:43.8] } 9. Bb5+ { [%clk 0:09:45.2] } 9... Bd7 { [%clk 0:09:37.1] }
+10. Bxd7+ { [%clk 0:09:39.5] } 10... Qxd7 { [%clk 0:09:34.5] } 11. O-O
+{ [%clk 0:09:36.2] } 11... Bc5+ { [%clk 0:09:33.3] } 12. Kh1
+{ [%clk 0:09:34.8] } 12... O-O { [%clk 0:09:32.4] } 13. Bg5
+{ [%clk 0:09:29.9] } 13... Qc6 { [%clk 0:09:12.9] } 14. Re1
+{ [%clk 0:09:24.5] } 14... e4 { [%clk 0:09:10.1] } 15. Nc3 { [%clk 0:08:35.6] }
+15... exf3 { [%clk 0:08:56.1] } 16. Qxf3 { [%clk 0:08:35.5] } 16... Rad8
+{ [%clk 0:07:17.8] } 17. Rad1 { [%clk 0:08:23.8] } 17... Qb6
+{ [%clk 0:07:00.8] } 18. Bxf6 { [%clk 0:08:13.1] } 18... gxf6
+{ [%clk 0:06:47.7] } 19. Nxd5 { [%clk 0:07:42.6] } 19... Rxd5
+{ [%clk 0:06:46.1] } 20. Rxd5 { [%clk 0:07:34.4] } 20... Kh8
+{ [%clk 0:06:23.6] } 21. Rxc5 { [%clk 0:06:23.6] } 21... Qxc5
+{ [%clk 0:06:15.1] } 22. Qxf6+ { [%clk 0:06:22.2] } 22... Kg8
+{ [%clk 0:06:12.1] } 23. Re5 { [%clk 0:05:57] } 23... Re8 { [%clk 0:05:13.9] }
+24. Rxe8+ { [%clk 0:05:49] } 1-0
+

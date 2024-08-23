@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "xiaochess"]
+[Black "BlunderPandaZz"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/OJrCup2Y"]
+[BlackTitle "GM"]
+[WhiteElo "2849"]
+[BlackElo "2641"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:48:47"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. Nf3 d5 2. d4 c6 3. Bf4 Nf6 4. e3 Bg4 5. h3 Bh5 6. c4 e6 7. Nbd2 Bd6 8. Bxd6
+Qxd6 9. Qb3 Qc7 10. Ne5 Nbd7 11. f4 Bg6 12. Bd3 Bxd3 13. Qxd3 O-O 14. Rc1 Qb6
+15. O-O Rac8 16. c5 Qc7 17. b4 b6 18. Rb1 Nxe5 19. fxe5 Nd7 20. e4 a5 21. a3
+axb4 22. axb4 Ra8 23. exd5 cxd5 24. Nf3 h6 25. Ra1 bxc5 26. bxc5 Qc6 27. Kh2
+Rxa1 28. Rxa1 Ra8 29. Rxa8+ Qxa8 30. Qb5 Nb8 31. Qe8+ Kh7 32. Qxf7 Qc6 33. Nh4
+Qd7 34. Qf8 Nc6 35. Nf3 Ne7 36. Qf7 1-0
+

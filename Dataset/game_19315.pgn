@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Sadzin"]
+[Black "chess95-22"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/lHUlCyjp"]
+[WhiteElo "2523"]
+[BlackElo "2482"]
+[ECO "B54"]
+[Opening "Sicilian Defense: Prins Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:59:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 e5 6. Nb3 Be6 7. c4 Be7 8. Be3
+O-O 9. Nc3 Nbd7 10. Be2 a6 11. O-O Rb8 12. a4 Nh5 13. g3 Nb6 14. Nd5 Nxd5 15.
+cxd5 Bh3 16. Rf2 Bg5 17. f4 exf4 18. gxf4 Bxf4 19. Bxf4 Nxf4 20. Rxf4 Qg5+ 21.
+Rg4 Bxg4 22. Bxg4 h5 23. Kh1 hxg4 24. Qe2 Rfe8 25. Rg1 f5 26. Nd2 Rbc8 27. Qd3
+Qf4 28. Rf1 fxe4 29. Qd4 Qe5 30. Qe3 Rc2 31. b3 Qxd5 32. Nc4 b5 33. axb5 axb5
+34. Nb6 Qd2 35. Qg3 e3 36. Qxg4 e2 37. Rg1 Qh6 38. Nd7 e1=Q 39. Nf6+ Qxf6 0-1
+

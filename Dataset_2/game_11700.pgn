@@ -1,0 +1,38 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.08"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "hanaharith"]
+[Result "1-0"]
+[CurrentPosition "r1q2rk1/pp3pp1/2n3bp/8/2pPB3/P3BN1P/2Q2PP1/1R3RK1 b - -"]
+[Timezone "UTC"]
+[ECO "B13"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Panov-Attack"]
+[UTCDate "2024.03.08"]
+[UTCTime "04:11:52"]
+[WhiteElo "1864"]
+[BlackElo "1910"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "04:11:52"]
+[EndDate "2024.03.08"]
+[EndTime "04:13:36"]
+[Link "https://www.chess.com/game/live/103609927743"]
+
+1. e4 { [%clk 0:09:54.9] } 1... c6 { [%clk 0:09:58.8] } 2. d4
+{ [%clk 0:09:52.5] } 2... d5 { [%clk 0:09:57.3] } 3. exd5 { [%clk 0:09:52.4] }
+3... cxd5 { [%clk 0:09:56.2] } 4. c4 { [%clk 0:09:52.3] } 4... Nc6
+{ [%clk 0:09:54.1] } 5. Nc3 { [%clk 0:09:50.5] } 5... Nf6 { [%clk 0:09:51.2] }
+6. Nf3 { [%clk 0:09:48.9] } 6... Bg4 { [%clk 0:09:49.7] } 7. Be2
+{ [%clk 0:09:46.7] } 7... h6 { [%clk 0:09:47.5] } 8. h3 { [%clk 0:09:45.3] }
+8... Bh5 { [%clk 0:09:45.5] } 9. O-O { [%clk 0:09:43.1] } 9... e6
+{ [%clk 0:09:44] } 10. Be3 { [%clk 0:09:39.1] } 10... Bb4 { [%clk 0:09:42.2] }
+11. a3 { [%clk 0:09:31.4] } 11... Bxc3 { [%clk 0:09:40.2] } 12. bxc3
+{ [%clk 0:09:31.3] } 12... Ne4 { [%clk 0:09:38.9] } 13. Qc2
+{ [%clk 0:09:27.4] } 13... Bg6 { [%clk 0:09:36] } 14. Bd3 { [%clk 0:09:25.8] }
+14... O-O { [%clk 0:09:30.4] } 15. cxd5 { [%clk 0:09:23.1] } 15... exd5
+{ [%clk 0:09:28.8] } 16. Rab1 { [%clk 0:09:20] } 16... Qc8 { [%clk 0:09:26.6] }
+17. c4 { [%clk 0:09:09.1] } 17... dxc4 { [%clk 0:09:23.4] } 18. Bxe4
+{ [%clk 0:09:06.7] } 1-0
+

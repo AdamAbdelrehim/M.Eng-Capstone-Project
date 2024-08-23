@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "piotrek212"]
+[Black "sergeikim2003"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/4dehCq75"]
+[BlackTitle "FM"]
+[WhiteElo "2472"]
+[BlackElo "2539"]
+[ECO "E68"]
+[Opening "King's Indian Defense: Fianchetto Variation, Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:41:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 d6 5. Nc3 O-O 6. Nf3 Nbd7 7. O-O e5 8. e4
+exd4 9. Nxd4 Re8 10. Re1 Nc5 11. Qc2 c6 12. h3 a5 13. Be3 a4 14. b3 Qa5 15.
+Nxa4 Nxa4 16. bxa4 Qxa4 17. Nb3 Be6 18. c5 dxc5 19. Bxc5 Nd7 20. Be3 Bxa1 21.
+Rxa1 Bxb3 0-1
+

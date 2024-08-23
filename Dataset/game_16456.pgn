@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "rdarruda"]
+[Black "rrs03"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/jsr6EM7K"]
+[WhiteElo "2433"]
+[BlackElo "2561"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "01:52:58"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. Nf3 Nf6 2. d4 d5 3. c4 e6 4. e3 Be7 5. Nc3 O-O 6. Bd3 c6 7. O-O Nbd7 8. e4
+dxe4 9. Nxe4 Qc7 10. Bg5 Re8 11. Qe2 h6 12. Bh4 e5 13. Rfe1 Nh5 14. Bxe7 Rxe7
+15. Nxe5 Nxe5 16. dxe5 Nf4 17. Qf3 Nxd3 18. Qxd3 Qxe5 19. Nf6+ Qxf6 20. Qd8+
+Kh7 21. Qxe7 Qg6 22. Rad1 Be6 23. b3 b5 24. cxb5 cxb5 25. Qb4 a6 26. Qe4 Rc8
+27. Qxg6+ Kxg6 28. Re2 Rc6 29. f3 Kf6 30. Red2 a5 31. Kf2 a4 32. bxa4 bxa4 33.
+a3 Rc3 34. Rd3 Rc2+ 35. R1d2 Rc1 36. Rd4 Bb3 37. Rd6+ Ke7 38. Ra6 g6 39. Rd4
+Rc2+ 40. Kg3 Ra2 41. Rdxa4 Bxa4 42. Rxa4 Kf6 43. Ra6+ Kf5 44. h4 g5 45. h5 f6
+46. a4 Ra3 47. Kh3 g4+ 48. Kg3 gxf3 49. gxf3 Kg5 50. Ra5+ f5 51. Kf2 Kf4 52.
+Ke2 Re3+ 53. Kd2 Rxf3 54. Ra6 Ra3 55. a5 Kg5 56. Kc2 Kxh5 57. Kb2 Ra4 58. Kb3
+Ra1 0-1
+

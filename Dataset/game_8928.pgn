@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "v_vs"]
+[Black "Mr_Patient"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/CqB8wPbv"]
+[WhiteElo "2459"]
+[BlackElo "2577"]
+[ECO "C00"]
+[Opening "Rat Defense: Small Center Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "06:05:30"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+8"]
+
+1. e4 e6 2. d4 d6 3. Nc3 g6 4. Nf3 Bg7 5. h4 h6 6. h5 g5 7. Bc4 Ne7 8. Bb3 Nd7
+9. Qe2 c6 10. e5 d5 11. Nd1 c5 12. c3 Nc6 13. Ne3 Qb6 14. Qd1 Bf8 15. O-O a5
+16. Re1 Qa7 17. a4 b6 18. Ng4 Ba6 19. Be3 O-O-O 20. Bc2 Kb8 21. Nd2 Rc8 22. Qf3
+Nd8 23. Rac1 Bg7 24. dxc5 Nxc5 25. b4 Nd3 26. Bxd3 Bxd3 27. Bxb6 Qxb6 28. Qxd3
+Ka8 29. Nb3 Nb7 30. Nxa5 Nxa5 31. bxa5 Qxa5 32. c4 Rxc4 33. Ne3 Rcc8 34. Rxc8+
+Rxc8 35. Rb1 Bxe5 36. Qb3 Rb8 37. Qc2 Rxb1+ 38. Qxb1 Qxa4 39. Qh7 Qa1+ 40. Nf1
+Bg7 0-1
+

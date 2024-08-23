@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "NameTheGame"]
+[Black "alfredogto"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/7yk07QtL"]
+[WhiteElo "2692"]
+[BlackElo "2656"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:57:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-8"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qf6 5. Nf3 Qg6 6. Bd3 Bc5 7. Nc3 Qxg2 8.
+Rf1 d6 9. Nd5 Kd8 10. Nf4 Qg4 11. Rg1 Qd7 12. Rxg7 Ne5 13. Nd5 c6 14. Bg5+ Ke8
+15. Rxg8+ Rxg8 16. Nf6+ Kf8 17. Nxd7+ Bxd7 18. Bh6+ Ke8 19. Nxe5 Rg1+ 20. Bf1
+Bh3 21. Qh5 Rxf1+ 22. Kd2 Rxf2+ 23. Kc3 dxe5 24. Qxe5+ Be7 25. Qh8+ Kd7 26.
+Qxa8 Rf3+ 27. Kd2 Rf2+ 28. Ke1 Rf1+ 29. Ke2 Rxa1 30. Qxb7+ Ke8 31. Qxc6+ Kd8
+32. Bd2 Rh1 33. Ba5# 1-0
+

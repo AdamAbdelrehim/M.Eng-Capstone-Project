@@ -1,0 +1,41 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.12.12"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "lujic"]
+[Result "1-0"]
+[CurrentPosition "2b1r3/3p1ppk/p6p/8/1p3Q2/8/PPP2PPP/1K1R3R b - -"]
+[Timezone "UTC"]
+[ECO "C70"]
+[ECOUrl "https://www.chess.com/openings/Ruy-Lopez-Opening-Morphy-Defense-Caro-Variation-5.Bb3"]
+[UTCDate "2021.12.12"]
+[UTCTime "06:41:04"]
+[WhiteElo "1538"]
+[BlackElo "1531"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "06:41:04"]
+[EndDate "2021.12.12"]
+[EndTime "06:45:20"]
+[Link "https://www.chess.com/game/live/33029990139"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:59.9] } 2. Nf3
+{ [%clk 0:09:58.3] } 2... Nc6 { [%clk 0:09:58.6] } 3. Bb5 { [%clk 0:09:46.9] }
+3... a6 { [%clk 0:09:56.9] } 4. Ba4 { [%clk 0:09:44.9] } 4... b5
+{ [%clk 0:09:55.9] } 5. Bb3 { [%clk 0:09:43.7] } 5... h6 { [%clk 0:09:55.5] }
+6. d4 { [%clk 0:09:40.2] } 6... exd4 { [%clk 0:09:53.7] } 7. Nxd4
+{ [%clk 0:09:38.4] } 7... Qf6 { [%clk 0:09:51.5] } 8. Nxc6 { [%clk 0:09:27] }
+8... Qxc6 { [%clk 0:09:49.8] } 9. Bd5 { [%clk 0:09:24.9] } 9... Qb6
+{ [%clk 0:09:35.6] } 10. Bxa8 { [%clk 0:09:21.1] } 10... Nf6
+{ [%clk 0:09:23.4] } 11. Be3 { [%clk 0:09:14.8] } 11... Qa5+
+{ [%clk 0:09:20.6] } 12. Nc3 { [%clk 0:09:09.7] } 12... b4 { [%clk 0:09:19.5] }
+13. Nd5 { [%clk 0:08:43.7] } 13... Nxe4 { [%clk 0:09:17.3] } 14. Nxc7+
+{ [%clk 0:08:30.3] } 14... Qxc7 { [%clk 0:09:13.9] } 15. Bxe4
+{ [%clk 0:08:28.9] } 15... Bd6 { [%clk 0:09:05.4] } 16. Qd4
+{ [%clk 0:08:20.6] } 16... O-O { [%clk 0:08:40.8] } 17. O-O-O
+{ [%clk 0:08:00.9] } 17... Bf4 { [%clk 0:08:20] } 18. Bxf4 { [%clk 0:07:52.3] }
+18... Qxf4+ { [%clk 0:08:18.2] } 19. Kb1 { [%clk 0:07:49.2] } 19... Re8
+{ [%clk 0:08:14.8] } 20. Bh7+ { [%clk 0:07:46.4] } 20... Kxh7
+{ [%clk 0:08:11.8] } 21. Qxf4 { [%clk 0:07:46.3] } 1-0
+

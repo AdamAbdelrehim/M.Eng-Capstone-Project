@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.06"]
+[Round "-"]
+[White "nairit1234"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "1R6/ppp2kpp/5p2/6r1/8/P1P5/2P2PqP/6K1 w - -"]
+[Timezone "UTC"]
+[ECO "A40"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Horwitz-Defense-2.Nf3"]
+[UTCDate "2021.10.06"]
+[UTCTime "05:44:37"]
+[WhiteElo "1061"]
+[BlackElo "1113"]
+[TimeControl "60"]
+[Termination "AdamAbdelrehim won by checkmate"]
+[StartTime "05:44:37"]
+[EndDate "2021.10.06"]
+[EndTime "05:45:58"]
+[Link "https://www.chess.com/game/live/27238211387"]
+
+1. Nf3 { [%clk 0:01:00] } 1... e6 { [%clk 0:00:57] } 2. d4 { [%clk 0:00:59.9] }
+2... d5 { [%clk 0:00:56.4] } 3. Nc3 { [%clk 0:00:59.8] } 3... Nc6
+{ [%clk 0:00:55.8] } 4. e3 { [%clk 0:00:59.5] } 4... Nf6 { [%clk 0:00:55.2] }
+5. Bd3 { [%clk 0:00:59.2] } 5... Bb4 { [%clk 0:00:54.5] } 6. O-O
+{ [%clk 0:00:58.9] } 6... O-O { [%clk 0:00:53.4] } 7. Bd2 { [%clk 0:00:58] }
+7... Bd7 { [%clk 0:00:53.3] } 8. a3 { [%clk 0:00:57.1] } 8... Bxc3
+{ [%clk 0:00:52.6] } 9. Bxc3 { [%clk 0:00:57] } 9... Re8 { [%clk 0:00:48.7] }
+10. e4 { [%clk 0:00:56.3] } 10... dxe4 { [%clk 0:00:46.7] } 11. Bxe4
+{ [%clk 0:00:53.3] } 11... Nxe4 { [%clk 0:00:46.3] } 12. Qe2
+{ [%clk 0:00:52.9] } 12... Nxc3 { [%clk 0:00:45.4] } 13. bxc3
+{ [%clk 0:00:52.5] } 13... e5 { [%clk 0:00:43.5] } 14. dxe5
+{ [%clk 0:00:51.3] } 14... Nxe5 { [%clk 0:00:42.8] } 15. Nxe5
+{ [%clk 0:00:50.3] } 15... f6 { [%clk 0:00:41.9] } 16. Rae1
+{ [%clk 0:00:45.2] } 16... Rxe5 { [%clk 0:00:41] } 17. Qc4+
+{ [%clk 0:00:44.1] } 17... Be6 { [%clk 0:00:38.2] } 18. Qb5
+{ [%clk 0:00:41.4] } 18... Rxb5 { [%clk 0:00:34.9] } 19. Rxe6
+{ [%clk 0:00:36.9] } 19... Qd7 { [%clk 0:00:32.9] } 20. Rfe1
+{ [%clk 0:00:35.3] } 20... Rg5 { [%clk 0:00:29.7] } 21. Re7
+{ [%clk 0:00:34.3] } 21... Qd5 { [%clk 0:00:25.5] } 22. Re8+
+{ [%clk 0:00:31.3] } 22... Rxe8 { [%clk 0:00:23.6] } 23. Rxe8+
+{ [%clk 0:00:31.2] } 23... Kf7 { [%clk 0:00:22.7] } 24. Rb8
+{ [%clk 0:00:29.8] } 24... Qxg2# { [%clk 0:00:21.6] } 0-1
+

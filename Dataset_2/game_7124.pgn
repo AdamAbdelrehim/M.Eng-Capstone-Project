@@ -1,0 +1,34 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.01.22"]
+[Round "-"]
+[White "Ronilo1117"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1bqk2r/pp2bppp/3p1n2/1N2N3/2B1P3/8/PP2QPPP/R2R2K1 w kq -"]
+[Timezone "UTC"]
+[ECO "B53"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Tartakower-Variation"]
+[UTCDate "2023.01.22"]
+[UTCTime "06:36:29"]
+[WhiteElo "1955"]
+[BlackElo "1902"]
+[TimeControl "600"]
+[Termination "Ronilo1117 won by resignation"]
+[StartTime "06:36:29"]
+[EndDate "2023.01.22"]
+[EndTime "06:38:12"]
+[Link "https://www.chess.com/game/live/68108504115"]
+
+1. e4 { [%clk 0:09:59.2] } 1... c5 { [%clk 0:09:59] } 2. Nf3
+{ [%clk 0:09:57.2] } 2... d6 { [%clk 0:09:58.1] } 3. d4 { [%clk 0:09:52.8] }
+3... cxd4 { [%clk 0:09:57.3] } 4. c3 { [%clk 0:09:51.8] } 4... dxc3
+{ [%clk 0:09:55.5] } 5. Nxc3 { [%clk 0:09:49.7] } 5... Nc6 { [%clk 0:09:54.1] }
+6. Bc4 { [%clk 0:09:48.5] } 6... e6 { [%clk 0:09:52.4] } 7. O-O
+{ [%clk 0:09:47] } 7... Nf6 { [%clk 0:09:51.9] } 8. Qe2 { [%clk 0:09:45.8] }
+8... Be7 { [%clk 0:09:47] } 9. Rd1 { [%clk 0:09:43.5] } 9... Qc7
+{ [%clk 0:09:46.5] } 10. Bf4 { [%clk 0:09:41] } 10... e5 { [%clk 0:09:43] } 11.
+Nb5 { [%clk 0:09:36] } 11... Qd7 { [%clk 0:09:35.2] } 12. Bxe5
+{ [%clk 0:09:30.6] } 12... Nxe5 { [%clk 0:09:08] } 13. Nxe5
+{ [%clk 0:09:26.7] } 13... Qd8 { [%clk 0:09:03] } 1-0
+

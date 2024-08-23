@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "kvadrik"]
+[Black "fan_of_adele"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/tau2d2cm"]
+[WhiteElo "2487"]
+[BlackElo "2586"]
+[ECO "E40"]
+[Opening "Nimzo-Indian Defense: Normal Line"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:53:15"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. a3 Bxc3+ 6. bxc3 O-O 7. Nf3 c5 8. Be2
+Qc7 9. cxd5 exd5 10. O-O Rd8 11. a4 Ne4 12. Bb2 Nc6 13. Nd2 Bf5 14. Nxe4 Bxe4
+15. dxc5 Ne5 16. Qd4 Nc6 17. Qd1 Rac8 18. a5 Nxa5 19. Qa4 b6 20. cxb6 axb6 21.
+Ba3 Qxc3 22. Bb4 Qf6 23. Bxa5 bxa5 24. Qxa5 Qg5 25. g3 Rd6 26. Qa3 Rh6 27. f3
+Qh5 28. Rf2 Bf5 29. g4 Qg5 30. Rg2 Be6 31. f4 Qh4 32. g5 Rg6 33. Bd3 Qh3 34.
+Bxg6 hxg6 35. Rc1 Re8 36. Rg3 Qf5 37. Qc3 Bd7 38. Re1 Re4 39. Qd2 Qe6 40. Rg2
+Bc6 41. Rge2 d4 42. exd4 Qg4+ 43. Kf1 Rxf4+ 44. Rf2 Bb5+ 45. Re2 Rxd4 46. Qe1
+Qh3+ 47. Kg1 Bc6 48. Re8+ Kh7 0-1
+

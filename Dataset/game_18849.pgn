@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Jora_Barygin"]
+[Black "rdm89"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/wCMJMLZ0"]
+[BlackTitle "FM"]
+[WhiteElo "2608"]
+[BlackElo "2630"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Maróczy Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:52:06"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. d3 Nf6 2. e4 e5 3. Nc3 Nc6 4. f4 d6 5. Nf3 Bg4 6. Be2 Be7 7. O-O Qd7 8. h3
+Bxf3 9. Bxf3 Nd4 10. Be3 c5 11. fxe5 dxe5 12. b3 h6 13. a4 g5 14. Bg4 Nxg4 15.
+hxg4 h5 16. gxh5 g4 17. Nd5 Rxh5 18. Bxd4 exd4 19. Rf4 Rg5 20. Qf1 Rg7 21. Rf5
+Qd6 22. Qf4 Qxf4 23. Rxf4 Bd6 24. e5 Bb8 25. Re1 a5 26. Kf2 Ra6 27. Kg3 Re6 28.
+Rf5 Kd8 29. Re4 Reg6 30. Nf4 Rh6 31. Nh5 Rgh7 32. Nf6 Rg7 33. Nxg4 Rhg6 34. Kf3
+Ke7 35. Ref4 Bc7 36. Rf6 Rg5 37. R6f5 R5g6 38. g3 Bb8 39. Nf6 Rxg3+ 40. Ke2
+Rg2+ 41. Rf2 Rxf2+ 42. Rxf2 Bxe5 43. Nd5+ Kd6 44. Nb6 f6 45. Nc4+ Ke6 46. Rf3
+Rg2+ 47. Rf2 Rxf2+ 48. Kxf2 Kf5 49. Kf3 b6 50. Nxb6 Bc7 51. Nc4 Ke6 52. Nd2 f5
+53. Ne4 fxe4+ 54. Kxe4 Bd6 55. c3 Be5 56. cxd4 Bxd4 57. Kf3 Kd5 58. Ke2 Ke5 59.
+Kd2 Kf4 60. b4 cxb4 61. Kc2 Ke3 62. Kb3 Kxd3 63. Ka2 Kc4 64. Kb1 b3 65. Kc1 Kb4
+66. Kb1 Kxa4 0-1
+

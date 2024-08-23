@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "positionaloldman"]
+[Black "Punchen"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/igXrm4sP"]
+[WhiteElo "2573"]
+[BlackElo "2547"]
+[ECO "A09"]
+[Opening "Réti Opening: Advance Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:34:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. Nf3 d5 2. c4 d4 3. b4 g5 4. g3 g4 5. Nh4 e5 6. d3 Bxb4+ 7. Nd2 Nf6 8. Bg2
+O-O 9. h3 Nc6 10. Rb1 Re8 11. hxg4 Nxg4 12. Be4 Qf6 13. Nf3 Bf5 14. a3 Bxe4 15.
+axb4 Bg6 16. b5 e4 17. dxe4 Nce5 18. O-O Rad8 19. Rb3 Qe6 20. Nxe5 Nxe5 21. f4
+Qh3 22. fxe5 Rxe5 23. Nf3 Qxg3+ 0-1
+

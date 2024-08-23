@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "riga1960"]
+[Black "manneredmonkey"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/U8NuRnKP"]
+[BlackTitle "NM"]
+[WhiteElo "2568"]
+[BlackElo "2553"]
+[ECO "B07"]
+[Opening "Pirc Defense: Sveshnikov System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:57:18"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. Nc3 g6 3. e4 d6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 e5 7. O-O c6 8. h3 b5
+9. a3 Bb7 10. Bg5 h6 11. Be3 Nbd7 12. Qd2 Kh7 13. Rad1 a6 14. dxe5 dxe5 15. f4
+Re8 16. f5 g5 17. g4 Qe7 18. Qe1 Red8 19. Qf2 Bf8 20. Bf3 a5 21. h4 gxh4 22.
+Qxh4 Ng8 23. g5 b4 24. f6 Qe8 25. Na4 c5 26. b3 Ra6 27. Bg4 Kh8 28. Bf5 bxa3
+29. Nec3 Nb8 30. Rxd8 Qxd8 31. Rd1 Rd6 32. Rf1 Nc6 33. Nd5 Nd4 34. c4 Nxb3 35.
+Nxc5 Rxd5 36. Nxb7 Qc7 37. cxd5 Qxb7 38. g6 fxg6 39. f7 gxf5 40. fxg8=Q+ Kxg8
+41. Rxf5 a2 42. Rxf8+ Kxf8 43. Qf6+ Qf7 44. Bxh6+ Kg8 45. Qd8+ Kh7 46. Qh4
+a1=Q+ 47. Bc1+ Kg8 0-1
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "BTSJ2000"]
+[Black "Rashal01"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/B86K5qkR"]
+[WhiteElo "2527"]
+[BlackElo "2366"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Closed, Anti-Sveshnikov Variation, with d6"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:25:34"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e5 4. Bc4 d6 5. d3 Be7 6. h3 Be6 7. Be3 Nd4 8. Nd5
+Nf6 9. Nxf6+ Bxf6 10. c3 Nxf3+ 11. Qxf3 Qd7 12. a4 a6 13. O-O O-O 14. Kh1 b5
+15. Bd5 Bxd5 16. exd5 Qb7 17. b3 bxa4 18. bxa4 Qb2 19. Rfc1 e4 20. Qxe4 Bxc3
+21. Rab1 Qa3 22. Qc4 Bf6 23. Bf4 Rfd8 24. Rb3 Qa2 25. Rb8 Qxf2 26. Rxa8 Rxa8
+27. Bxd6 Bd4 28. Bh2 Re8 29. Bg1 Re1 30. Rxe1 Qxe1 31. Kh2 Bxg1+ 32. Kh1 Bf2+
+33. Kh2 Qg1# 0-1
+

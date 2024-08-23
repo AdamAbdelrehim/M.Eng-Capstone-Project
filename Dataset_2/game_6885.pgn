@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.12.27"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Sergey_142"]
+[Result "0-1"]
+[CurrentPosition "r1b1kbnr/ppp2ppp/8/2n1p3/3q4/3B4/PPP3PP/RNBQK1NR w kq -"]
+[Timezone "UTC"]
+[ECO "B07"]
+[ECOUrl "https://www.chess.com/openings/Pirc-Defense-Antal-Defense"]
+[UTCDate "2022.12.27"]
+[UTCTime "19:37:16"]
+[WhiteElo "1800"]
+[BlackElo "1841"]
+[TimeControl "600"]
+[Termination "Sergey_142 won by resignation"]
+[StartTime "19:37:16"]
+[EndDate "2022.12.27"]
+[EndTime "19:40:01"]
+[Link "https://www.chess.com/game/live/65908939617"]
+
+1. e4 { [%clk 0:09:56.9] } 1... d6 { [%clk 0:09:55.4] } 2. d4
+{ [%clk 0:09:30] } 2... Nd7 { [%clk 0:09:50.6] } 3. f4 { [%clk 0:09:19.7] }
+3... e5 { [%clk 0:09:35.6] } 4. fxe5 { [%clk 0:09:11.9] } 4... Qh4+
+{ [%clk 0:09:32.9] } 5. Ke2 { [%clk 0:09:03.4] } 5... Qxe4+ { [%clk 0:09:31] }
+6. Kf2 { [%clk 0:08:59.2] } 6... dxe5 { [%clk 0:09:18.3] } 7. Bd3
+{ [%clk 0:08:49.8] } 7... Qxd4+ { [%clk 0:09:15.1] } 8. Ke1
+{ [%clk 0:08:30.3] } 8... Nc5 { [%clk 0:09:05.5] } 0-1
+

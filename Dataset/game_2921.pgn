@@ -1,0 +1,29 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "caissa-x"]
+[Black "bot_adario"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/AzoH2cJI"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3039"]
+[BlackElo "2707"]
+[ECO "B07"]
+[Opening "Pirc Defense"]
+[TimeControl "600+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:36:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 Bg7 5. Qd2 O-O 6. O-O-O d5 7. e5 Ng4 8. f4
+c6 9. Kb1 f6 10. Nf3 Nxe3 11. Qxe3 Bg4 12. Be2 Nd7 13. h4 e6 14. Nd2 Bxe2 15.
+Nxe2 Qe8 16. Qh3 h6 17. exf6 Nxf6 18. g4 Rd8 19. h5 gxh5 20. gxh5 Rd7 21. Rdg1
+Kh7 22. Rg6 Re7 23. Rhg1 a5 24. a3 b5 25. Nc1 Qd8 26. Ncb3 Qc8 27. Nc5 b4 28.
+a4 e5 29. f5 exd4 30. Ne6 Rff7 31. Nf3 b3 32. cxb3 Rb7 33. Qg2 Qg8 34. Ne5 Rbe7
+35. Nxf7 Rxf7 36. Nxg7 Kh8 37. Ne6 Qxg6 38. Qxg6 Rh7 39. Qxf6+ Rg7 40. Qxg7#
+1-0
+

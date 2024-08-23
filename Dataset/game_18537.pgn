@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "frisby_super"]
+[Black "ich2"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/UlPWfFo7"]
+[BlackTitle "IM"]
+[WhiteElo "2467"]
+[BlackElo "2500"]
+[ECO "A53"]
+[Opening "Old Indian Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:07:02"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. Nc3 Bf5 5. Bg5 Bg7 6. e3 O-O 7. Be2 Ne4 8. Nxe4
+Bxe4 9. O-O c5 10. Nd2 Bf5 11. e4 Bc8 0-1
+

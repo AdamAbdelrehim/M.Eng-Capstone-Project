@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "FOTTY_1338"]
+[Black "LagraveSamuell"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/0ahDyOkg"]
+[BlackTitle "FM"]
+[WhiteElo "2451"]
+[BlackElo "2593"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed, Korchnoi Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:50:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+8"]
+
+1. e4 c5 2. Nc3 e6 3. g3 d5 4. exd5 exd5 5. Bg2 d4 6. Nce2 Nf6 7. d3 Bd6 8. Nf3
+O-O 9. O-O Nc6 10. c3 dxc3 11. bxc3 Bg4 12. d4 cxd4 13. Nexd4 Nxd4 14. Qxd4 Rc8
+15. Bg5 Bf5 16. Rad1 Be7 17. Qxa7 Qc7 18. Rfe1 Rfe8 19. Bf4 Qxc3 20. Qxb7 Bc5
+21. Be5 Bxf2+ 22. Kh1 Qa5 23. Rf1 Ng4 24. h3 Ne3 25. Rxf2 Nxd1 26. Rd2 Ne3 27.
+g4 Be6 28. Kh2 Nxg2 29. Kxg2 h6 30. Qb2 f6 31. Bg3 Bd5 32. Rf2 Rc3 33. Qd2 Qc5
+34. h4 Ree3 35. Kh2 Rxf3 36. Rxf3 Rxf3 37. h5 Rc3 38. Kh3 Rc2 39. Qf4 Bg2+ 40.
+Kh4 Qg5+ 41. Qxg5 hxg5# 0-1
+

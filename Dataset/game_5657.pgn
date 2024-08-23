@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "nooartur"]
+[Black "Lesoeru"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ewjE7BXa"]
+[WhiteTitle "IM"]
+[WhiteElo "2589"]
+[BlackElo "2595"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:35:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Be3 Bd6 7. Qd2 O-O
+8. Bd3 Nd7 9. Ne2 Re8 10. O-O Nf8 11. Bf4 Ng6 12. Bxd6 Qxd6 13. Rfe1 Bg4 14. c3
+Rad8 15. Ng3 Qf4 16. Qxf4 Nxf4 17. Bf1 Be6 18. f3 Kf8 19. Kf2 f5 20. a3 h6 21.
+Rad1 g5 22. Ne2 Nd5 23. g3 Nb6 24. Nc1 Bd5 25. f4 g4 26. Rxe8+ Rxe8 27. Re1 Re6
+28. Re5 Be4 29. Nd3 Nd7 30. Rxe6 fxe6 31. Ne5 Nf6 32. Bc4 Bd5 33. Bd3 Ke7 34.
+Ke3 h5 35. c4 Be4 36. Be2 Bh1 37. b4 Ne4 38. Bd3 Nd6 39. c5 Ne8 40. a4 Nf6 41.
+Bc4 Bd5 42. b5 Bxc4 43. Nxc4 Nd5+ 44. Kd3 h4 45. Ne5 cxb5 46. axb5 h3 47. Nc4
+Nxf4+ 48. Ke3 Nd5+ 49. Kd3 f4 50. Ne5 fxg3 51. Nxg4 g2 0-1
+

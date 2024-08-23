@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.27"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "edmond_07"]
+[Result "0-1"]
+[CurrentPosition "r3r1k1/pppq1ppp/2n2b2/3p2B1/3P4/2P2b1P/PP2BPP1/R2QR1K1 w - -"]
+[Timezone "UTC"]
+[ECO "B01"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Modern-Variation-3.Nf3-Nxd5"]
+[UTCDate "2023.04.27"]
+[UTCTime "14:16:06"]
+[WhiteElo "1862"]
+[BlackElo "1912"]
+[TimeControl "600"]
+[Termination "edmond_07 won by resignation"]
+[StartTime "14:16:06"]
+[EndDate "2023.04.27"]
+[EndTime "14:19:30"]
+[Link "https://www.chess.com/game/live/76344079667"]
+
+1. e4 { [%clk 0:10:00] } 1... d5 { [%clk 0:09:59.5] } 2. exd5
+{ [%clk 0:09:54.8] } 2... Nf6 { [%clk 0:09:58] } 3. Nf3 { [%clk 0:09:49.5] }
+3... Nxd5 { [%clk 0:09:55.7] } 4. Be2 { [%clk 0:09:47.4] } 4... Bg4
+{ [%clk 0:09:53.6] } 5. O-O { [%clk 0:09:45.2] } 5... e6 { [%clk 0:09:49] } 6.
+h3 { [%clk 0:09:44.4] } 6... Bh5 { [%clk 0:09:46.8] } 7. d3
+{ [%clk 0:09:41.1] } 7... Be7 { [%clk 0:09:38.1] } 8. Bd2 { [%clk 0:09:39.2] }
+8... O-O { [%clk 0:09:20.7] } 9. Nc3 { [%clk 0:09:34.9] } 9... Nc6
+{ [%clk 0:09:02.6] } 10. Nxd5 { [%clk 0:09:32.7] } 10... exd5
+{ [%clk 0:08:52.1] } 11. c3 { [%clk 0:09:26] } 11... Bf6 { [%clk 0:08:44.9] }
+12. d4 { [%clk 0:09:23.9] } 12... Re8 { [%clk 0:08:38.9] } 13. Re1
+{ [%clk 0:09:14.1] } 13... Qd7 { [%clk 0:08:34.5] } 14. Bg5
+{ [%clk 0:09:03.7] } 14... Bxf3 { [%clk 0:07:56.8] } 0-1
+

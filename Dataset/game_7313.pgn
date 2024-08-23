@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Nebonik"]
+[Black "simplesimpson03"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/E4lWGkFR"]
+[WhiteTitle "GM"]
+[WhiteElo "2439"]
+[BlackElo "2512"]
+[ECO "D70"]
+[Opening "Neo-Grünfeld Defense: Goglidze Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:49:04"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 g6 3. f3 d5 4. cxd5 Nxd5 5. e4 Nb6 6. Be3 Bg7 7. Nc3 O-O 8. Qd2
+e5 9. d5 c6 10. O-O-O cxd5 11. exd5 N8d7 12. h4 Nf6 13. h5 Bd7 14. hxg6 fxg6
+15. Kb1 Rc8 16. d6 e4 17. Nh3 Na4 18. Nxa4 Bxa4 19. b3 Bc6 20. Bc4+ Kh8 21. Nf4
+Qe8 22. Ne6 exf3 23. Bh6 Be4+ 24. Ka1 Bxh6 25. Qxh6 Rf7 26. Ng5 Rg7 27. Rd4
+fxg2 28. Re1 Qe5 0-1
+

@@ -1,0 +1,32 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "B-the-bot"]
+[Black "weiawaga"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/b8qm2NVn"]
+[WhiteTitle "BOT"]
+[WhiteElo "3056"]
+[BlackElo "2717"]
+[ECO "E04"]
+[Opening "Catalan Opening: Open Defense, Modern Sharp Variation"]
+[TimeControl "600+5"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:36:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "+23"]
+[BlackRatingDiff "-2"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Nf3 Nc6 6. Qa4 Bb4+ 7. Bd2 Nd5 8.
+Bxb4 Nxb4 9. O-O Rb8 10. Na3 a6 11. Ne5 O-O 12. Bxc6 Nxc6 13. Nxc6 bxc6 14.
+Nxc4 Qxd4 15. Rfd1 Qe4 16. Rd2 Rb5 17. b3 e5 18. Rc1 h5 19. f3 Qg6 20. Ne3 a5
+21. Qc4 Rb6 22. Kf2 Re8 23. Rdc2 e4 24. f4 h4 25. Rg1 Ra6 26. Qa4 Qd6 27. Rc4
+Qe6 28. Rc5 Qh3 29. Rg2 Qd7 30. Rxa5 Rb6 31. Qa3 Rb5 32. Rxb5 cxb5 33. Qc5 Qd2
+34. gxh4 b4 35. Qg5 Qd4 36. h5 Kh7 37. Rg3 c5 38. f5 Qe5 39. h6 gxh6 40. Rh3
+Re6 41. Qd8 Re8 42. Qh4 Qd6 43. Ke1 Rh8 44. Rg3 Qd8 45. Qh5 Rf8 46. Nd5 Qxd5
+47. Rg6 fxg6 48. fxg6+ Kg7 49. Qxd5 Kxg6 50. Qxc5 Rg8 51. Qxb4 Kf7 52. a4 Rg1+
+53. Kf2 Rg5 54. Ke3 Rg2 55. Qc4+ Be6 56. Qc7+ Ke8 57. Qc6+ Kf7 58. a5 Rg1 59.
+a6 Ra1 60. Qb7+ Kf6 61. a7 Ra3 62. a8=Q Rxa8 63. Qxa8 Bxb3 64. Kxe4 Be6 65.
+Qd8+ Kf7 66. Ke5 Ba2 67. Qf6+ Kg8 68. Qg6+ Kf8 69. Kf6 Bb1 70. Qf7# 1-0
+

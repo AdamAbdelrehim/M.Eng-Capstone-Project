@@ -1,0 +1,38 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "YoBot_v2"]
+[Black "BitByByte"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/AsawQVoY"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3054"]
+[BlackElo "2900"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:18:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. e3 h6 7. Bh4 Be7 8. Bd3
+O-O 9. Nge2 Nbd7 10. O-O b5 11. Rc1 Re8 12. Nb1 Bb7 13. Nd2 a5 14. Bf5 Qc7 15.
+Bg3 Qd8 16. Bh4 Qc7 17. Nc3 Ba6 18. Qf3 Ra7 19. Bg3 Qb7 20. Rfe1 b4 21. Na4 Bb5
+22. Qd1 Bf8 23. Nf3 Ne4 24. Bf4 Nd6 25. Bb1 Raa8 26. Nc5 Nxc5 27. dxc5 Ne4 28.
+Nd4 Bxc5 29. Nf5 Bf8 30. Qg4 Kh8 31. f3 Nf6 32. Qh4 Ng8 33. Qg3 Re6 34. Nd4
+Ree8 35. Be5 Ne7 36. Bd6 a4 37. Kh1 Ng8 38. Be5 Ne7 39. Bd6 Rac8 40. Qg4 Kg8
+41. Bc5 Rcd8 42. Bxb4 Bc4 43. Bc5 Ng6 44. Bxf8 Nxf8 45. b3 axb3 46. axb3 Bxb3
+47. Nf5 Ne6 48. Nxh6+ Kf8 49. Nxf7 Qxf7 50. Qb4+ c5 51. Qxb3 c4 52. Qc3 Nc5 53.
+Rcd1 Qf6 54. Qa3 Qd6 55. Qa2 Qf6 56. h3 Kg8 57. e4 Qc3 58. Rc1 Qb4 59. e5 Nd3
+60. Bxd3 cxd3 61. Rcd1 Qd4 62. Qa1 Qxa1 63. Rxa1 d2 64. Re2 g5 65. Rd1 Kf7 66.
+Kh2 Ke6 67. Rdxd2 Rf8 68. Rd4 Rf4 69. Rd3 Rf5 70. Ra3 Rxe5 71. Ra6+ Rd6 72.
+Rxe5+ Kxe5 73. Rxd6 Kxd6 74. Kg1 Kc5 75. Kf1 Kc4 76. Ke2 Kc3 77. Kd1 Kd3 78. g3
+Kd4 79. h4 gxh4 80. gxh4 Ke5 81. h5 Kf6 82. f4 d4 83. Kc2 Kf5 84. Kd2 d3 85.
+Kxd3 Kf6 86. Ke4 Kg7 87. f5 Kh6 88. f6 Kh7 89. Kd4 Kg8 90. h6 Kf7 91. h7 Kxf6
+92. h8=Q+ Kf5 93. Qe5+ Kg6 94. Qe6+ Kg7 95. Ke5 Kh8 96. Qg4 Kh7 97. Kf6 Kh8 98.
+Qg7# 1-0
+

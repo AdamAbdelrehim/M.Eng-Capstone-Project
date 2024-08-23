@@ -1,0 +1,23 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Bugzilla"]
+[Black "Anastasia_Kremo"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/SGasNM3o"]
+[WhiteTitle "IM"]
+[WhiteElo "2714"]
+[BlackElo "2407"]
+[ECO "A48"]
+[Opening "East Indian Defense"]
+[TimeControl "720+3"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:27:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-2"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nbd2 d5 4. b4 Bg7 5. e3 O-O 6. c4 c6 7. a4 a5 8. b5 dxc4
+9. Bxc4 c5 10. dxc5 Nfd7 11. Ba3 Bxa1 12. Qxa1 Qc7 13. Ne4 1-0
+

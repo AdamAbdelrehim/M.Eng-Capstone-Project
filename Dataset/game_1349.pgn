@@ -1,0 +1,48 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "pawn_git"]
+[Black "ELO_1500"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/warzXGP9"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2700"]
+[BlackElo "2894"]
+[ECO "B51"]
+[Opening "Sicilian Defense: Moscow Variation"]
+[TimeControl "180+5"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:26:17"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bxd7+ Bxd7 6. d4 cxd4 7. Qxd4 e5 8.
+Qd3 Rc8 9. Rd1 Qc7 10. Nc3 h6 11. Nd2 Bg4 12. f3 Be6 13. Nf1 Nf6 14. Ne3 Be7
+15. a4 O-O 16. a5 Rfd8 17. Kh1 d5 18. exd5 Bxd5 19. Nexd5 Nxd5 20. Nxd5 Rxd5
+21. Qxd5 Rd8 22. c4 Rxd5 23. cxd5 Qc4 24. d6 Bxd6 25. Bxh6 Bc5 26. Bd2 Bf2 27.
+Bc3 f6 28. Rd7 Qb5 29. Rd8+ Kf7 30. Rdd1 Bc5 31. Re1 Qd7 32. Red1 Qe6 33. Rd2
+Qc6 34. Rdd1 Kg8 35. Rd8+ Kh7 36. Re1 Qb5 37. Rd5 Qc6 38. Rdd1 Qa4 39. Rc1 Bf2
+40. Re4 Qd7 41. Ra1 Qd3 42. Rb4 Qd5 43. Re4 Bc5 44. Ree1 Bf2 45. Re4 Ba7 46.
+Rc1 Qd3 47. Rb4 Qd7 48. Re4 Kg8 49. Ree1 Bf2 50. Rcd1 Qa4 51. Ra1 Qc2 52. Rac1
+Qa4 53. Re4 Qd7 54. Rf1 Bc5 55. Ra1 Bf2 56. Rf1 Bc5 57. Rc1 Kh7 58. Ra1 Qd3 59.
+Ree1 Qd5 60. Rec1 Ba7 61. Rd1 Qb5 62. Re1 Bf2 63. Re4 Qd5 64. Rf1 Ba7 65. Ra1
+Kg8 66. Rc1 Qd7 67. Ra1 Kh7 68. Ree1 Bf2 69. Re2 Ba7 70. Rc1 Kh6 71. Rd2 Qb5
+72. Rd6 Kh7 73. Re1 Bc5 74. Rd5 Qc6 75. Rdd1 Ba7 76. Rc1 Qb5 77. Red1 g5 78.
+Ra1 Kg8 79. Rd8+ Kf7 80. Rad1 Kg6 81. Ra1 Bc5 82. Rd5 Qc6 83. Rd3 Qe6 84. Rd2
+Be3 85. Rd3 Bc5 86. Rd8 Qc4 87. Rd7 Qb5 88. Rd5 Qc4 89. Rd7 Qb3 90. Rd2 Ba7 91.
+Rd6 Bc5 92. Rd3 Kf7 93. Re1 Kg6 94. Ra1 Bf2 95. Rd2 Ba7 96. Rd6 Qb5 97. Re1 Kf7
+98. Red1 Bc5 99. R6d5 Qa4 100. R5d2 Ke6 101. Re1 g4 102. fxg4 Qxg4 103. Rd3 Bf2
+104. h3 Qg6 105. Red1 Qe4 106. Rd6+ Kf7 107. Rd7+ Kg6 108. Rd8 Bc5 109. Rg8+
+Kf7 110. Rg3 Bf2 111. Rgd3 Be3 112. Rd6 Bf4 113. Bd2 Bg3 114. Bc3 Bh4 115. Rd7+
+Kg6 116. R7d6 Qf5 117. Rb6 Qe4 118. Rbd6 Qf4 119. Rb6 Qc4 120. Rxb7 e4 121. Rb6
+e3 122. Rb4 Qe2 123. Rc1 Bg5 124. Rg1 f5 125. Re1 Qd3 126. Rd4 Qc2 127. Rd6+
+Kf7 128. Rxa6 f4 129. Rg1 e2 130. Ra7+ Ke6 131. Ra6+ Kd5 132. Rb6 f3 133. gxf3
+Be3 134. Be1 Qd3 135. Rb8 Kc6 136. Rgg8 Qd1 137. Rgc8+ Kd5 138. Rd8+ Kc6 139.
+Rdc8+ Kd5 140. Rd8+ Ke5 141. Re8+ Kf6 142. Rf8+ Kg6 143. Rg8+ Kh5 144. Rh8+ Kg6
+145. Rhg8+ Kh5 146. Rh8+ Kg5 147. Rhg8+ Kf6 148. Rgf8+ Ke7 149. Rfe8+ Kf7 150.
+Rf8+ Ke6 151. Rfe8+ Kf7 152. Rf8+ Ke6 153. Rfe8+ Kf5 154. Rf8+ Kg5 155. Rg8+
+Kf5 156. Rgf8+ Ke5 157. Rfe8+ Kf4 158. Rf8+ Ke5 159. Rfe8+ 1/2-1/2
+

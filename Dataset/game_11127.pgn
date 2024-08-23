@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "patriarzo"]
+[Black "LabutinAa"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/cPEwP275"]
+[WhiteElo "2365"]
+[BlackElo "2512"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:19:42"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Ne5 Nd7 7. Nxg6 hxg6
+8. d4 e6 9. Ne4 Ngf6 10. Nc3 Bd6 11. g3 Qe7 12. Bg2 O-O 13. O-O c5 14. dxc5
+Nxc5 15. Nb5 Bb8 16. Bg5 a6 17. Nc3 Ba7 18. Qf3 Rac8 19. Rad1 b5 20. Ne2 Ncd7
+21. c3 Qc5 22. Be3 Qc7 23. Bxa7 Qxa7 24. Qb7 Rc7 25. Qxa7 Rxa7 26. Rd6 Nc5 27.
+Rfd1 g5 28. Nd4 Nfe4 29. Rc6 Rd8 30. Re1 f5 31. Nxe6 Nxe6 32. Rxe6 Rd2 33. Bxe4
+fxe4 34. R6xe4 Rxb2 35. R1e2 Rb1+ 36. Kg2 Rc7 37. Re6 a5 38. R2e3 Rb2 39. R6e5
+Rb7 40. Re2 Rxe2 41. Rxe2 Kf7 42. Re5 Kf6 43. Rc5 b4 44. cxb4 axb4 45. g4 Ra7
+46. Rb5 Ra4 47. Rf5+ Kg6 48. Rb5 Kf6 49. h3 g6 50. Rb6+ Kg7 51. Kg3 Ra3+ 52. f3
+Ra4 53. Rb7+ Kf6 54. Rb6+ Kg7 55. h4 gxh4+ 56. Kxh4 Rxa2 57. Rxb4 Ra7 58. Kg5
+Ra5+ 59. Kh4 Kh6 60. Kg3 Ra3 61. Re4 Rb3 62. Rf4 Kg5 63. Re4 Rb1 64. Re5+ Kf6
+65. Ra5 Rg1+ 66. Kf4 Rb1 67. Ra6+ Kg7 68. Ra5 Kh6 69. Kg3 Rb2 70. Ra6 Rb5 71.
+Rc6 Re5 72. Ra6 Re1 73. Rc6 Rg1+ 0-1
+

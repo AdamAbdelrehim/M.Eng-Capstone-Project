@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "www68"]
+[Black "AnnaSchach"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/X0hJxDqU"]
+[BlackTitle "WIM"]
+[WhiteElo "2556"]
+[BlackElo "2344"]
+[ECO "E92"]
+[Opening "King's Indian Defense: Petrosian Variation, Stein Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:19:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+
+1. Nf3 Nf6 2. d4 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. d5 a5 8. Nd2 Na6
+9. h4 h5 10. Nf3 Nc5 11. Ng5 Qe7 12. f3 Nh7 13. Be3 f5 14. Nxh7 Kxh7 15. Bxc5
+dxc5 16. d6 Qxd6 17. Qxd6 cxd6 18. O-O-O Rd8 19. Nb5 Bf8 20. Rd3 Be6 21. b3
+fxe4 22. fxe4 a4 23. Kb2 axb3 24. axb3 Bc8 25. g4 Bxg4 26. Bxg4 hxg4 27. Rg1
+Rd7 28. Rxg4 Rad8 29. h5 gxh5 30. Rh3 Kh6 31. Rgh4 Be7 32. Rxh5+ Kg6 33. Nc3
+Bg5 34. Nd5 Bf4 35. R5h4 Kg5 36. Rh5+ Kg6 37. R5h4 Kg5 38. Rh1 Rf7 39. Rh5+ Kg6
+40. R5h4 Bg5 41. Rg4 Rf2+ 42. Kc3 Rg8 43. Rhg1 Kh5 44. Ne7 Rf3+ 45. Kc2 Rg7 46.
+Nf5 Rg8 47. R4g2 Rh3 48. Nxd6 Kh4 49. Nf7 Ra8 50. Rg4+ Kh5 51. Rxg5+ Kh4 52.
+R1g4# 1-0
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Aggressive-Python"]
+[Black "bancsoo"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/X513ADlt"]
+[BlackTitle "GM"]
+[WhiteElo "2779"]
+[BlackElo "2802"]
+[ECO "C78"]
+[Opening "Ruy Lopez: Morphy Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:43:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-6"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. d3 d6 8. a4
+Bd7 9. Nc3 O-O 10. Nd5 Nxd5 11. Bxd5 Rb8 12. axb5 axb5 13. Be3 Kh8 14. d4 exd4
+15. Nxd4 Nxd4 16. Bxd4 Bf6 17. c3 Bxd4 18. Qxd4 Be6 19. Ra7 Bxd5 20. Qxd5 Qe7
+21. b4 Rfe8 22. f3 Qd7 23. Rd1 f6 24. Rda1 h6 25. R1a6 Kh7 26. Qc6 Qe6 27. Qxc7
+Rg8 28. Rxd6 Qb3 29. Rd7 Qc2 1-0
+

@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "melgabry"]
+[Black "arno111"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/PvC9cC0g"]
+[WhiteElo "2492"]
+[BlackElo "2525"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:05:03"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. b3 d5 2. Bb2 e6 3. e3 Nf6 4. Nf3 Be7 5. a3 O-O 6. d4 b6 7. Bd3 c5 8. Nbd2
+Bb7 9. O-O Nbd7 10. Ne5 Rc8 11. f4 Ne4 12. Bxe4 dxe4 13. c4 f6 14. Ng4 f5 15.
+Ne5 Nxe5 16. dxe5 Qd3 17. Re1 Rfd8 18. Nf1 b5 19. Rc1 bxc4 20. bxc4 1-0
+

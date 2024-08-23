@@ -1,0 +1,38 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.11.16"]
+[Round "-"]
+[White "TastefulPrince"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r2q1rk1/ppp1n2p/4bp2/8/3PBR2/P7/1P4PP/RNQ3K1 b - -"]
+[Timezone "UTC"]
+[ECO "A40"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Mikenas-Defense"]
+[UTCDate "2020.11.16"]
+[UTCTime "05:23:54"]
+[WhiteElo "1003"]
+[BlackElo "795"]
+[TimeControl "300"]
+[Termination "TastefulPrince won on time"]
+[StartTime "05:23:54"]
+[EndDate "2020.11.16"]
+[EndTime "05:31:36"]
+[Link "https://www.chess.com/game/live/5754364962"]
+
+1. d4 { [%clk 0:04:59.9] } 1... Nc6 { [%clk 0:04:58.3] } 2. Bf4
+{ [%clk 0:04:59] } 2... f6 { [%clk 0:04:31.4] } 3. e3 { [%clk 0:04:57.8] } 3...
+g5 { [%clk 0:04:25] } 4. Bg3 { [%clk 0:04:50.8] } 4... Bg7 { [%clk 0:04:21.4] }
+5. Bd3 { [%clk 0:04:45.8] } 5... e5 { [%clk 0:04:13.9] } 6. c3
+{ [%clk 0:04:39.8] } 6... Nge7 { [%clk 0:04:05.8] } 7. Ne2 { [%clk 0:04:34.9] }
+7... d5 { [%clk 0:03:55.9] } 8. O-O { [%clk 0:04:27.2] } 8... Bg4
+{ [%clk 0:03:49.1] } 9. f3 { [%clk 0:04:18.5] } 9... Bf5 { [%clk 0:03:37.4] }
+10. e4 { [%clk 0:03:26.7] } 10... Be6 { [%clk 0:03:08.1] } 11. a3
+{ [%clk 0:02:45.3] } 11... O-O { [%clk 0:02:12.8] } 12. Qc1
+{ [%clk 0:02:41.5] } 12... Bh6 { [%clk 0:00:41.6] } 13. f4 { [%clk 0:02:37.5] }
+13... gxf4 { [%clk 0:00:07] } 14. Bxf4 { [%clk 0:02:32.2] } 14... exf4
+{ [%clk 0:00:06.1] } 15. Nxf4 { [%clk 0:02:31.2] } 15... Bxf4
+{ [%clk 0:00:04.6] } 16. Rxf4 { [%clk 0:02:29.4] } 16... Nxd4
+{ [%clk 0:00:04.1] } 17. cxd4 { [%clk 0:02:27.9] } 17... dxe4
+{ [%clk 0:00:02.6] } 18. Bxe4 { [%clk 0:02:27.2] } 1-0
+

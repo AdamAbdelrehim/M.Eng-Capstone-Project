@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "MMM_Zhukovskiy"]
+[Black "Muszyn21"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/qm5woeOo"]
+[WhiteElo "2584"]
+[BlackElo "2508"]
+[ECO "D77"]
+[Opening "Neo-Grünfeld Defense: Classical Variation, Modern Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:41:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-11"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 Nf6 5. O-O O-O 6. c4 dxc4 7. a4 Nc6 8. Na3
+Be6 9. Ng5 Bd5 10. e4 Nxd4 11. exd5 Nxd5 12. Nxc4 e5 13. Nf3 Re8 14. Nfxe5 Bxe5
+15. Nxe5 Nb4 16. Nf3 Nbc2 17. Rb1 Ne2+ 18. Kh1 Qxd1 19. Rxd1 Rad8 20. Bg5 Rxd1+
+21. Rxd1 1-0
+

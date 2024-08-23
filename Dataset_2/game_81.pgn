@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.04"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "jepbarroco"]
+[Result "1-0"]
+[CurrentPosition "r2qkbnr/ppp2ppp/2n5/3QP3/4P1b1/5N2/PPP2PPP/RNB1KB1R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C45"]
+[ECOUrl "https://www.chess.com/openings/Scotch-Game"]
+[UTCDate "2021.01.04"]
+[UTCTime "20:44:48"]
+[WhiteElo "858"]
+[BlackElo "791"]
+[TimeControl "300"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "20:44:48"]
+[EndDate "2021.01.04"]
+[EndTime "20:46:05"]
+[Link "https://www.chess.com/game/live/6143967896"]
+
+1. e4 { [%clk 0:05:00] } 1... e5 { [%clk 0:04:58.6] } 2. Nf3
+{ [%clk 0:04:58.9] } 2... Nc6 { [%clk 0:04:57.1] } 3. d4 { [%clk 0:04:55.7] }
+3... d5 { [%clk 0:04:42.4] } 4. dxe5 { [%clk 0:04:47.8] } 4... Bg4
+{ [%clk 0:04:26.8] } 5. Qxd5 { [%clk 0:04:33.9] } 1-0
+

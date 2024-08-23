@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Caminero85"]
+[Black "RafaelVarane"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/sNsbHNBW"]
+[WhiteElo "2749"]
+[BlackElo "2618"]
+[ECO "E71"]
+[Opening "King's Indian Defense: Makogonov Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:11:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Nf3 e5 7. d5 a5 8. Bg5 Na6
+9. Nd2 Bd7 10. Be2 Qb8 11. h4 h6 12. Be3 c6 13. h5 g5 14. a3 cxd5 15. cxd5 b5
+16. b4 axb4 17. axb4 Rc8 18. Qb3 Ng4 19. Bxg4 Bxg4 20. f3 Bd7 21. g4 Qc7 22.
+Rc1 Bf6 23. Kf2 Qb7 24. Rc2 Bd8 25. Rhc1 Bb6 26. Nd1 Bxe3+ 27. Nxe3 Rxc2 28.
+Rxc2 Rc8 29. Ke2 Rxc2 30. Nxc2 Qb6 31. Qe3 Qc7 32. Kd1 Kf8 33. Qa3 Qb6 34. Kc1
+Nb8 35. Qe3 Qa6 36. Kb2 Be8 37. Nb3 Nd7 38. Na5 Nb6 39. Kc3 Qc8+ 40. Kb3 Nc4
+41. Qc3 Qa6 42. Na3 Nxa5+ 43. bxa5 b4 44. Qxb4 Qd3+ 45. Qc3 Qd1+ 46. Kb4 Qa4#
+0-1
+

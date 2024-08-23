@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Bierblitz"]
+[Black "Bala77"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/VfsdiJEk"]
+[BlackTitle "NM"]
+[WhiteElo "2569"]
+[BlackElo "2524"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:47:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. f4 g6 2. Nf3 Bg7 3. e4 d5 4. e5 c5 5. d4 Nc6 6. dxc5 Bg4 7. Nc3 Nh6 8. Qxd5
+Bxf3 9. Qxd8+ Rxd8 10. gxf3 Nd4 11. Bd3 Nxf3+ 12. Kf2 Nd4 13. a4 a6 14. Ne4
+Nhf5 15. Bc4 Nxc2 16. Rb1 Rd4 17. Bb3 Nb4 18. Nc3 Nd3+ 19. Kf3 Nh4+ 20. Kg4 g5
+21. Be3 Rb4 22. Kxg5 Ng2 23. Bc2 Ndxf4 24. Rhf1 Nxe3 25. Rxf4 Rxf4 26. Kxf4
+Nxc2 0-1
+

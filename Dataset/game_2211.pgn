@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "FastCavalier"]
+[Black "Podrebo"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ZGuqN6Ga"]
+[BlackTitle "FM"]
+[WhiteElo "2529"]
+[BlackElo "2668"]
+[ECO "C10"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:55:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Be7 7. Nxf6+ Nxf6
+8. c3 O-O 9. O-O b6 10. Ne5 Bb7 11. Bg5 c5 12. dxc5 Qd5 13. Nf3 Qxc5 14. Qe2
+Bxf3 0-1
+

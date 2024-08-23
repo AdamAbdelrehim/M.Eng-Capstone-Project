@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.07"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Rayan-1994"]
+[Result "0-1"]
+[CurrentPosition "r1b1k2r/pp1n1ppp/2p2n2/6q1/1b2P3/2NQ4/PPP1N1PP/R3KB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "B07"]
+[ECOUrl "https://www.chess.com/openings/Lion-Defense-Anti-Philidor-Lions-Cave-Variation"]
+[UTCDate "2022.07.07"]
+[UTCTime "18:08:30"]
+[WhiteElo "1797"]
+[BlackElo "1901"]
+[TimeControl "600"]
+[Termination "Rayan-1994 won by resignation"]
+[StartTime "18:08:30"]
+[EndDate "2022.07.07"]
+[EndTime "18:11:13"]
+[Link "https://www.chess.com/game/live/50956240437"]
+
+1. e4 { [%clk 0:10:00] } 1... d6 { [%clk 0:09:59.1] } 2. d4
+{ [%clk 0:09:58.1] } 2... Nf6 { [%clk 0:09:58.3] } 3. Nc3 { [%clk 0:09:55.7] }
+3... Nbd7 { [%clk 0:09:57] } 4. f4 { [%clk 0:09:52.7] } 4... e5
+{ [%clk 0:09:55.7] } 5. fxe5 { [%clk 0:09:48] } 5... dxe5 { [%clk 0:09:55.6] }
+6. Nf3 { [%clk 0:09:41.3] } 6... exd4 { [%clk 0:09:47.7] } 7. Nxd4
+{ [%clk 0:09:35.9] } 7... Bb4 { [%clk 0:09:44.8] } 8. Bg5 { [%clk 0:09:14.9] }
+8... c6 { [%clk 0:09:31] } 9. Qd3 { [%clk 0:08:52.8] } 9... Qa5
+{ [%clk 0:09:24] } 10. Ne2 { [%clk 0:08:12.6] } 10... Qxg5 { [%clk 0:09:18.7] }
+0-1
+

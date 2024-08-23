@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Boreminator"]
+[Black "VonSinnen"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/4Adlarb4"]
+[WhiteElo "2514"]
+[BlackElo "2546"]
+[ECO "A48"]
+[Opening "Torre Attack: Fianchetto Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:09:56"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. c3 d5 6. e3 Bf5 7. Be2 c5 8. O-O
+cxd4 9. cxd4 Nc6 10. Qb3 Qc8 11. Rac1 Rd8 12. Ne5 Bd7 13. Qa3 Bf8 14. Nxc6 Bxc6
+15. Qb3 Qf5 16. Bxf6 Qxf6 17. Bb5 e5 18. dxe5 Qxe5 19. Nf3 Qf6 20. Nd4 Rac8 21.
+Rc2 Bxb5 22. Qxb5 Rxc2 23. Nxc2 b6 24. Nd4 Bc5 25. Nf3 d4 26. b4 Be7 27. Nxd4
+Qd6 28. a3 Rc8 29. g3 Bf6 30. Rd1 Bxd4 31. exd4 Rc2 32. Qe8+ Kg7 33. Qe5+ Qxe5
+34. dxe5 Re2 35. Rd7 Rxe5 36. Rxa7 h5 37. h4 Re1+ 38. Kg2 Ra1 39. a4 Ra3 40. a5
+bxa5 41. Rxa5 Rb3 42. Rb5 f5 43. Kf1 Kf6 44. Rb6+ Ke5 45. Rxg6 Rxb4 46. Rg5 Ke4
+47. Kg2 f4 48. Rxh5 f3+ 49. Kh3 Rb2 50. Kg4 Rxf2 51. Rh8 Rf1 52. Re8+ Kd3 53.
+h5 1-0
+

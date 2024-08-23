@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.01.30"]
+[Round "-"]
+[White "gig0byte"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "6rk/ppp1np1p/5R2/8/P3p3/1P2P1q1/2QP3r/5RK1 w - -"]
+[Timezone "UTC"]
+[ECO "A01"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Larsen-Attack-Classical-Variation-2.Bb2"]
+[UTCDate "2023.01.30"]
+[UTCTime "19:53:13"]
+[WhiteElo "1596"]
+[BlackElo "1586"]
+[TimeControl "60"]
+[Termination "AdamAbdelrehim won by checkmate"]
+[StartTime "19:53:13"]
+[EndDate "2023.01.30"]
+[EndTime "19:54:40"]
+[Link "https://www.chess.com/game/live/68847401385"]
+
+1. b3 { [%clk 0:01:00] } 1... d5 { [%clk 0:00:59.9] } 2. Bb2
+{ [%clk 0:00:59.7] } 2... e5 { [%clk 0:00:59.8] } 3. g3 { [%clk 0:00:58.8] }
+3... Nc6 { [%clk 0:00:59] } 4. Bg2 { [%clk 0:00:58.4] } 4... Nf6
+{ [%clk 0:00:57.7] } 5. e3 { [%clk 0:00:58.1] } 5... Bd6 { [%clk 0:00:57.2] }
+6. Ne2 { [%clk 0:00:57.7] } 6... Be6 { [%clk 0:00:56.9] } 7. O-O
+{ [%clk 0:00:57.3] } 7... O-O { [%clk 0:00:56.4] } 8. f4 { [%clk 0:00:56.9] }
+8... e4 { [%clk 0:00:55.2] } 9. a4 { [%clk 0:00:55.6] } 9... Qd7
+{ [%clk 0:00:54.8] } 10. Na3 { [%clk 0:00:55.2] } 10... Bh3
+{ [%clk 0:00:54.2] } 11. c4 { [%clk 0:00:54.6] } 11... Bxg2 { [%clk 0:00:53] }
+12. Kxg2 { [%clk 0:00:54.3] } 12... Rae8 { [%clk 0:00:50.2] } 13. cxd5
+{ [%clk 0:00:53.3] } 13... Nxd5 { [%clk 0:00:48.3] } 14. Nc4
+{ [%clk 0:00:51.8] } 14... Nf6 { [%clk 0:00:46.5] } 15. Bxf6
+{ [%clk 0:00:49.9] } 15... gxf6 { [%clk 0:00:45.3] } 16. Nxd6
+{ [%clk 0:00:48.4] } 16... Qxd6 { [%clk 0:00:45.2] } 17. f5
+{ [%clk 0:00:47.6] } 17... Kh8 { [%clk 0:00:44.4] } 18. Nf4
+{ [%clk 0:00:46.3] } 18... Rg8 { [%clk 0:00:43.4] } 19. Nh5
+{ [%clk 0:00:45.1] } 19... Re5 { [%clk 0:00:40.7] } 20. Qc2
+{ [%clk 0:00:43.5] } 20... Ne7 { [%clk 0:00:38.3] } 21. Rf4
+{ [%clk 0:00:35.9] } 21... Rxf5 { [%clk 0:00:37.3] } 22. Raf1
+{ [%clk 0:00:35] } 22... Rxh5 { [%clk 0:00:35.3] } 23. Rxf6
+{ [%clk 0:00:33.1] } 23... Rxh2+ { [%clk 0:00:30.2] } 24. Kg1
+{ [%clk 0:00:17.3] } 24... Qxg3# { [%clk 0:00:28.3] } 0-1
+

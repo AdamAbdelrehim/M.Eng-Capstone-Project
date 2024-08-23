@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Zadokhlik"]
+[Black "korkmaz_halil"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/zoT5m6RB"]
+[WhiteElo "2553"]
+[BlackElo "2458"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:23:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-9"]
+
+1. e4 g6 2. Nc3 Bg7 3. Bc4 d6 4. d3 e6 5. f4 Nd7 6. Nf3 Nb6 7. Bb3 a6 8. O-O
+Nf6 9. Qe1 O-O 10. f5 exf5 11. Qh4 fxe4 12. Bg5 exd3 13. Ne4 Nbd7 14. Nfd2 dxc2
+15. Nxf6+ Nxf6 16. Ne4 Nxe4 17. Bxd8 Bd4+ 18. Kh1 Nf2+ 19. Rxf2 Bxf2 20. Qxf2
+Rxd8 21. Qxf7+ Kh8 22. Qf6# 1-0
+

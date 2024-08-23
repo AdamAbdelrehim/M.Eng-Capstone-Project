@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "EmmanuelJimenez"]
+[Black "dataanalystboi789"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/p4FAwNWe"]
+[WhiteTitle "IM"]
+[WhiteElo "2602"]
+[BlackElo "2595"]
+[ECO "A05"]
+[Opening "Zukertort Opening: Nimzo-Larsen Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:06:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. Nf3 Nf6 2. b3 g6 3. Bb2 Bg7 4. g3 b6 5. Bg2 Bb7 6. O-O O-O 7. c4 c5 8. d3 d5
+9. cxd5 Bxd5 10. Nc3 Bb7 11. e3 Nc6 12. Qe2 Qd7 13. Rfd1 Rfd8 14. Rac1 Ba6 15.
+Ne1 Rac8 16. a3 Ne5 17. Bf1 Qe6 18. f4 Neg4 19. e4 Qxb3 20. e5 Bb7 21. exf6
+Bxf6 22. Bg2 Bd4+ 0-1
+

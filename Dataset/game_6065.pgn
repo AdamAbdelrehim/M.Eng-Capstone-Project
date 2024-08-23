@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "FIDE-Trainer1984"]
+[Black "Pescaderocalvo"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/7oAkC9ft"]
+[WhiteElo "2482"]
+[BlackElo "2602"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:28:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Bc4 a6 5. Nce2 Nc6 6. d4 cxd4 7. Nxd4 Nxd4 8.
+Qxd4 d6 9. Ne2 Nf6 10. f3 g6 11. Be3 Bg7 12. Qb6 Qxb6 13. Bxb6 O-O 14. O-O-O
+Nd7 15. Bd4 Bxd4 16. Nxd4 b5 17. Bd5 Ra7 18. Nc6 Rc7 19. Nxe7+ Kg7 20. Nc6 Nb6
+21. Na5 Nxd5 22. Rxd5 Be6 23. Rxd6 Rfc8 24. Rd2 Bxa2 25. b3 b4 26. Kb2 Rc5 27.
+Nb7 1-0
+

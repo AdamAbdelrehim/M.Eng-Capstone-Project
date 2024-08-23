@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Mikheil_Kekelidze"]
+[Black "jacf18"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/CzQt116a"]
+[WhiteElo "2539"]
+[BlackElo "2534"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "05:22:29"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. e3 c5 2. Nf3 d5 3. c4 e6 4. cxd5 exd5 5. d4 Nf6 6. Nc3 Nc6 7. Be2 Be6 8. O-O
+h6 9. b3 Bd6 10. dxc5 Bxc5 11. Bb2 O-O 12. Rc1 Qe7 13. Nb5 Rfd8 14. Nbd4 Nxd4
+15. Nxd4 Rac8 16. Bd3 Ne4 17. Qh5 Qg5 18. Qxg5 hxg5 19. Nxe6 fxe6 20. Bxe4 dxe4
+21. Rfd1 Bb6 22. Rxd8+ Rxd8 23. Bc3 Kf7 24. Kf1 e5 25. Ke2 Ke6 26. Bd2 g4 27.
+h3 gxh3 28. gxh3 Rh8 29. Rg1 Rh7 30. Rg3 Kf6 31. Bc3 g5 32. Kf1 Kf5 33. Ke2 Bc5
+34. Bd2 a6 35. a4 b5 36. axb5 axb5 37. Bc3 Ra7 38. Rg1 Ra2+ 39. Bd2 Bb4 40. Rd1
+Kg6 41. Ke1 Be7 42. Rc1 Kh5 43. Rc6 Ra1+ 44. Ke2 Ra2 45. Kd1 Ba3 46. Re6 Ra1+
+47. Ke2 Bb2 48. f3 Ra2 0-1
+

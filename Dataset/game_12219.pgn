@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ucitel"]
+[Black "Gaius_Baltar"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/jNsVe2kQ"]
+[WhiteElo "2731"]
+[BlackElo "2819"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Goldman Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:54:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. e4 c6 2. Nc3 d5 3. Qf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Ne2 O-O
+8. d4 Re8 9. O-O Nd7 10. Bb3 Nf8 11. Be3 Ng6 12. Rfd1 Qc7 13. g3 Bd7 14. h4 Ne7
+1/2-1/2
+

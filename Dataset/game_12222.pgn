@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Centodienci"]
+[Black "hajeko"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/cEeoxy8X"]
+[WhiteTitle "CM"]
+[BlackTitle "CM"]
+[WhiteElo "2547"]
+[BlackElo "2542"]
+[ECO "C45"]
+[Opening "Scotch Game: Schmidt Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:55:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+6"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 dxc6 6. e5 Qxd1+ 7. Kxd1 Ng4
+8. Ke1 Bc5 9. f3 Nxe5 10. Bf4 Bd6 11. Nc3 Nxf3+ 12. gxf3 Bxf4 13. Bc4 O-O 14.
+Kf2 Be5 15. Rhg1 Bd4+ 0-1
+

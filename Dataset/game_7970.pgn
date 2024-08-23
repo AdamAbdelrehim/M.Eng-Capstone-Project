@@ -1,0 +1,35 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "BitByByte"]
+[Black "ELO_1500"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/VWOx4aby"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2892"]
+[BlackElo "2974"]
+[ECO "D47"]
+[Opening "Semi-Slav Defense: Meran Variation"]
+[TimeControl "1200+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "00:14:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. c4 c6 2. Nf3 d5 3. e3 Nf6 4. Nc3 e6 5. d4 Nbd7 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bd6 9. O-O O-O 10. Qc2 Bb7 11. e4 e5 12. h3 exd4 13. Nxd4 Nc5 14. Rd1 Qc7 15.
+Bg5 Bh2+ 16. Kh1 Be5 17. Nf3 h6 18. Be3 Nxd3 19. Rxd3 b4 20. Na4 Nxe4 21. Nc5
+Nxc5 22. Bxc5 Rfd8 23. Nxe5 Qxe5 24. Re3 Qd5 25. Rae1 a5 26. a3 bxa3 27. bxa3
+Ba6 28. Bb6 Rdb8 29. Bc7 Rf8 30. Rg3 Rae8 31. Rd1 Qc4 32. Qf5 Re6 33. Be5 g6
+34. Rd7 Bc8 35. Re7 Qd5 36. Kh2 c5 37. a4 c4 38. f4 Rc6 39. Qh5 Kh7 40. Qh4 Bf5
+41. Bc3 Re6 42. Bb2 Rxe7 43. Qxe7 Rg8 44. Re3 Bc8 45. Re5 Qb7 46. Qxb7 Bxb7 47.
+Rxa5 Re8 48. Re5 Rxe5 49. fxe5 h5 50. Bc3 g5 51. g3 Kg6 52. g4 hxg4 53. hxg4
+Kg7 54. Kg3 Kf8 55. e6 fxe6 56. Bd2 e5 57. Bxg5 c3 58. Kf2 Bc8 59. Ke3 Kg7 60.
+Kd3 Bxg4 61. Kxc3 e4 62. Kd4 e3 63. Kxe3 Kh7 64. a5 Bf5 65. a6 Bh3 66. Kd4 Kg8
+67. Bd2 Kh8 68. a7 Bg2 69. Ke3 Bd5 70. Bc3+ Kh7 71. Bb4 Bb7 72. Bd2 Bh1 73. Kd4
+Kg8 74. Ke5 Bc6 75. Kd6 Bf3 76. Kc7 Kf8 77. Be1 Be4 78. Bg3 Bh1 79. Kb8 Kf7 80.
+Bh4 Kg7 81. Be1 Kf6 82. Bh4+ Kg7 83. a8=Q Bxa8 84. Kxa8 1/2-1/2
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Heisenberg3"]
+[Black "Alpha_Zero_System"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/pMMWIor9"]
+[WhiteElo "2372"]
+[BlackElo "2507"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Modern Variations"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:29:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-3"]
+
+1. e4 c5 2. Nf3 d6 3. g3 g6 4. Bg2 Bg7 5. O-O Nc6 6. c3 Nf6 7. Re1 O-O 8. d4
+cxd4 9. cxd4 d5 10. e5 Ne4 11. Nc3 Nxc3 12. bxc3 Bg4 13. Qb3 Na5 14. Qb5 a6 15.
+Qb4 Rc8 16. Ba3 Re8 17. Nd2 b5 18. h3 Bf5 19. Rac1 Nc4 20. Nb3 g5 21. Nc5 Qb6
+22. g4 Bg6 23. e6 Rxc5 24. exf7+ Bxf7 25. Qxc5 Qa5 26. Bb4 Qxa2 27. Ra1 Qd2 28.
+Rxe7 Rf8 29. Rxf7 Rxf7 30. Bxd5 Qxf2+ 31. Kh1 Kh8 32. Bxf7 Qf3+ 33. Kg1 Qg3+
+34. Kf1 Qf3+ 35. Ke1 Qe3+ 36. Kf1 Nd2+ 37. Kg2 Qf3+ 38. Kg1 Qg3+ 39. Kh1 Qxh3+
+40. Kg1 Qg3+ 41. Kh1 Qh3+ 42. Kg1 Qg3+ 43. Kh1 Qh3+ 1/2-1/2
+

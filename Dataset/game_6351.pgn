@@ -1,0 +1,29 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "RaspFish"]
+[Black "CruelKen"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/mCgifoWc"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3022"]
+[BlackElo "3003"]
+[ECO "E35"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Noa Variation"]
+[TimeControl "360+3"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:09:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. cxd5 exd5 6. Bg5 h6 7. Bh4 g5 8. Bg3
+Nc6 9. e3 h5 10. Bb5 h4 11. Be5 O-O 12. h3 Nxe5 13. dxe5 Ne4 14. Bd3 f5 15. a3
+Bxc3+ 16. bxc3 Bd7 17. Rb1 Qe8 18. c4 f4 19. cxd5 fxe3 20. fxe3 Qxe5 21. Bxe4
+Rae8 22. Rxb7 Qg3+ 23. Kd2 Rf1 24. Rb1 Rf2+ 25. Ne2 Bf5 26. d6 Bxe4 27. Qc4+
+Kh7 28. d7 Qd6+ 29. Ke1 Qxd7 30. Kxf2 Qf5+ 31. Nf4 gxf4 32. Qxc7+ Kg8 33. Qc4+
+Kh7 34. Qc7+ Kg8 35. Qc4+ Kg7 36. Qd4+ Kg6 37. Rbf1 Bxg2 38. Kxg2 Qg5+ 39. Kf2
+fxe3+ 40. Kf3 Qg3+ 1/2-1/2
+

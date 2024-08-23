@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "SerHio1963"]
+[Black "MattLoncke"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/AJytVVbd"]
+[WhiteElo "2543"]
+[BlackElo "2520"]
+[ECO "E61"]
+[Opening "King's Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:41:45"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 d6 5. Bg2 O-O 6. e3 Nc6 7. Nge2 e5 8. h3
+Re8 9. O-O exd4 10. exd4 Bf5 11. Bg5 h6 12. Be3 Ne4 13. Rc1 Nxc3 14. Nxc3 Bd7
+15. Qd2 Kh7 16. Rfd1 a6 17. b3 Rb8 18. a4 Ne7 19. g4 Nc6 20. Nd5 Ne7 21. Nf4
+Bc6 22. d5 Bd7 23. c5 Ng8 24. c6 bxc6 25. dxc6 Bc8 26. b4 Nf6 27. Nd5 Nxd5 28.
+Bxd5 Be6 29. Rb1 Bxd5 30. Qxd5 Qh4 31. Kg2 Qe7 32. b5 axb5 33. Rxb5 Ra8 34. a5
+Qe4+ 35. Qxe4 Rxe4 36. Rc1 Be5 37. Kf3 Ra4 38. Bd2 Ra3+ 39. Kg2 Ra6 40. Rb7 d5
+41. Re1 Bd6 42. Rc1 Ra2 43. Be1 d4 44. Kf3 d3 45. Ke3 d2 46. Bxd2 Rxd2 47. Kxd2
+Bf4+ 48. Kc2 Bxc1 49. Kxc1 Rxc6+ 50. Kd2 Kg7 51. Ra7 Kf6 52. Ra8 Kg5 53. Rf8 f6
+54. Ke3 Ra6 55. f4+ Kh4 56. Kf3 Rxa5 57. Rxf6 Ra3+ 58. Ke4 Kxh3 59. Rxg6 Ra4+
+60. Kf5 Ra5+ 61. Kf6 Ra6+ 62. Kg7 Rxg6+ 63. Kxg6 c5 64. f5 c4 65. f6 c3 66. f7
+c2 67. f8=Q c1=Q 68. Qf3+ Kh4 69. Qf5 Qc6+ 70. Kh7 Qd7+ 0-1
+

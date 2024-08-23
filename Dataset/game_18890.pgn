@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "VanTierry"]
+[Black "FastCavalier"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/tzFrsMhI"]
+[WhiteElo "2603"]
+[BlackElo "2568"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:57:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bg5 Qb6 6. Bd3 Qxd4 7. Nf3 Qg4 8. Bxf5
+Qxf5 9. O-O e6 10. c4 Ne7 11. Qb3 b6 12. cxd5 Nxd5 13. Nc3 Bc5 14. Nxd5 exd5
+15. Qc3 O-O 16. b4 f6 17. exf6 gxf6 18. Bh6 Bd6 19. Bxf8 Kxf8 20. Rfe1 Kf7 21.
+Nd4 Qd7 22. Qd3 Kf8 1-0
+

@@ -1,0 +1,40 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.05.24"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "KittyReaper"]
+[Result "0-1"]
+[CurrentPosition "r2qr1k1/p4pp1/2Q2n1p/2P5/1P6/P1b4P/5pP1/R4R1K w - -"]
+[Timezone "UTC"]
+[ECO "B13"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Panov-Attack-4...Nf6-5.Nf3-Nc6-6.Nc3"]
+[UTCDate "2023.05.24"]
+[UTCTime "01:18:36"]
+[WhiteElo "2016"]
+[BlackElo "2055"]
+[TimeControl "600"]
+[Termination "KittyReaper won by resignation"]
+[StartTime "01:18:36"]
+[EndDate "2023.05.24"]
+[EndTime "01:20:54"]
+[Link "https://www.chess.com/game/live/78630078133"]
+
+1. e4 { [%clk 0:10:00] } 1... c6 { [%clk 0:10:00] } 2. d4 { [%clk 0:09:57.9] }
+2... d5 { [%clk 0:09:59.3] } 3. exd5 { [%clk 0:09:57.8] } 3... cxd5
+{ [%clk 0:09:58.5] } 4. c4 { [%clk 0:09:57.7] } 4... Nf6 { [%clk 0:09:55.1] }
+5. Nf3 { [%clk 0:09:57.3] } 5... Nc6 { [%clk 0:09:53.4] } 6. Nc3
+{ [%clk 0:09:56.8] } 6... Bg4 { [%clk 0:09:51.8] } 7. Be2 { [%clk 0:09:56] }
+7... e6 { [%clk 0:09:51.1] } 8. O-O { [%clk 0:09:54.8] } 8... Bd6
+{ [%clk 0:09:49.8] } 9. c5 { [%clk 0:09:48.9] } 9... Bc7 { [%clk 0:09:48.7] }
+10. Bg5 { [%clk 0:09:45.6] } 10... h6 { [%clk 0:09:44.4] } 11. Be3
+{ [%clk 0:09:36.3] } 11... O-O { [%clk 0:09:42.6] } 12. h3 { [%clk 0:09:35.5] }
+12... Bxf3 { [%clk 0:09:25.1] } 13. Bxf3 { [%clk 0:09:34] } 13... Re8
+{ [%clk 0:09:23.6] } 14. a3 { [%clk 0:09:32] } 14... e5 { [%clk 0:09:22.8] }
+15. dxe5 { [%clk 0:09:25.5] } 15... Bxe5 { [%clk 0:09:18.7] } 16. b4
+{ [%clk 0:09:10.1] } 16... d4 { [%clk 0:09:17.6] } 17. Bxc6
+{ [%clk 0:09:09.1] } 17... bxc6 { [%clk 0:09:16.6] } 18. Qf3
+{ [%clk 0:08:55.3] } 18... dxe3 { [%clk 0:09:10.9] } 19. Qxc6
+{ [%clk 0:08:53.3] } 19... exf2+ { [%clk 0:09:06] } 20. Kh1
+{ [%clk 0:08:49.9] } 20... Bxc3 { [%clk 0:09:04.6] } 0-1
+

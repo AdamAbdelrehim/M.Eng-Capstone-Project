@@ -1,0 +1,38 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.11.16"]
+[Round "-"]
+[White "eduard-dushanbaev"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "1B2r1k1/p2n1pbp/2p2np1/q1Pp4/P2P4/2NQ1P2/4N1PP/1R3RK1 b - -"]
+[Timezone "UTC"]
+[ECO "D80"]
+[ECOUrl "https://www.chess.com/openings/Grunfeld-Defense-Schlechter-Makogonov-Variation"]
+[UTCDate "2023.11.16"]
+[UTCTime "04:07:46"]
+[WhiteElo "1902"]
+[BlackElo "1873"]
+[TimeControl "600"]
+[Termination "eduard-dushanbaev won by resignation"]
+[StartTime "04:07:46"]
+[EndDate "2023.11.16"]
+[EndTime "04:11:42"]
+[Link "https://www.chess.com/game/live/93846556851"]
+
+1. d4 { [%clk 0:10:00] } 1... Nf6 { [%clk 0:09:58.9] } 2. c4 { [%clk 0:09:57] }
+2... g6 { [%clk 0:09:57.6] } 3. Nc3 { [%clk 0:09:55] } 3... d5
+{ [%clk 0:09:57.1] } 4. e3 { [%clk 0:09:52.5] } 4... Bg7 { [%clk 0:09:55.3] }
+5. c5 { [%clk 0:09:44.6] } 5... O-O { [%clk 0:09:38.3] } 6. Bd3
+{ [%clk 0:09:40.9] } 6... b6 { [%clk 0:09:30.7] } 7. b4 { [%clk 0:09:27.7] }
+7... bxc5 { [%clk 0:09:27.1] } 8. bxc5 { [%clk 0:09:26.2] } 8... c6
+{ [%clk 0:09:25.5] } 9. Nge2 { [%clk 0:09:20.1] } 9... Re8 { [%clk 0:09:24.7] }
+10. O-O { [%clk 0:09:18.4] } 10... e5 { [%clk 0:09:22.8] } 11. f3
+{ [%clk 0:08:58.8] } 11... exd4 { [%clk 0:09:10.3] } 12. exd4
+{ [%clk 0:08:56.8] } 12... Ba6 { [%clk 0:08:59.1] } 13. Bg5
+{ [%clk 0:08:39.5] } 13... Bxd3 { [%clk 0:08:32.8] } 14. Qxd3
+{ [%clk 0:08:37.9] } 14... Nbd7 { [%clk 0:08:31] } 15. a4 { [%clk 0:08:31.2] }
+15... Rb8 { [%clk 0:08:28.9] } 16. Rab1 { [%clk 0:08:27.5] } 16... Qc7
+{ [%clk 0:08:24.9] } 17. Bf4 { [%clk 0:08:15.2] } 17... Qa5
+{ [%clk 0:08:09.7] } 18. Bxb8 { [%clk 0:08:11.5] } 1-0
+

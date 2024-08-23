@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "DonkinDonat"]
+[Black "emateu26"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/kXcSuhNQ"]
+[WhiteElo "2641"]
+[BlackElo "2448"]
+[ECO "A15"]
+[Opening "English Opening: Anglo-Indian Defense, King's Indian Formation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:25:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+
+1. c4 Nf6 2. Nf3 g6 3. d3 Bg7 4. e3 O-O 5. a3 d6 6. Be2 e5 7. Nc3 Nc6 8. Qc2 a5
+9. h3 Bd7 10. Bd2 Qe7 11. g4 Ne8 12. O-O-O Kh8 13. Rdg1 a4 14. h4 Na5 15. h5 g5
+16. h6 Bf6 17. Nd5 Qd8 18. Bc3 Nb3+ 19. Kb1 Be7 20. d4 f6 21. dxe5 dxe5 22. Rd1
+c6 23. Nxe5 cxd5 24. Rxd5 fxe5 25. Bxe5+ Bf6 26. Rhd1 Bxe5 27. Rxd7 Qf6 28.
+Qxh7# 1-0
+

@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "prof28"]
+[Black "Kastling"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ORD2pJLf"]
+[WhiteElo "2516"]
+[BlackElo "2382"]
+[ECO "C64"]
+[Opening "Ruy Lopez: Classical Variation, Cordel Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:05:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 f5 5. d4 fxe4 6. dxc5 exf3 7. Qxf3 Nf6 8.
+Bc4 d5 9. cxd6 cxd6 10. Bg5 Qe7 11. O-O Be6 12. Bxe6 Qxe6 13. Bxf6 gxf6 14.
+Qh5+ Qf7 15. Qxf7+ Kxf7 16. Nd2 Rad8 17. f4 Ke6 18. Ne4 f5 19. Ng5+ Kf6 20.
+Rad1 h6 21. Nf3 Rhe8 22. Kf2 exf4 23. Nd4 Ne5 24. h3 a6 25. Ne2 f3 26. gxf3 Nc4
+27. Rg1 Nxb2 28. Rb1 Nd3+ 29. Kf1 b5 30. Nd4 Rc8 31. Rb3 Nc1 32. Ra3 Nd3 33.
+Ne2 Rc6 34. h4 Re3 35. Rg3 f4 36. Rh3 Kf5 37. h5 Ke5 38. Nd4 Re1+ 39. Kg2 Rc8
+40. Rh4 Rg8+ 41. Rg4 Rxg4+ 42. fxg4 Ke4 43. Rxa6 f3+ 44. Nxf3 Re2+ 45. Kg3 Re3
+46. Rxd6 Rxf3+ 47. Kh4 Nf4 48. g5 Rh3+ 49. Kg4 hxg5 50. Rd4+ Ke5 51. Rb4 Rxh5
+52. Rxb5+ Kf6 53. Rb6+ Kg7 54. Rb4 Kh6 55. Rb6+ Ng6 56. a4 Rh4+ 57. Kg3 Rxa4
+58. Rb4 Rxb4 59. cxb4 Ne5 60. b5 Kg6 61. b6 Kf5 62. b7 Nc6 63. Kf3 g4+ 64. Kg3
+Kg5 65. Kg2 Kf4 66. Kf2 g3+ 67. Kg2 Kg4 68. Kg1 Kf3 69. Kf1 g2+ 70. Kg1 Nb8 71.
+Kh2 Kf2 0-1
+

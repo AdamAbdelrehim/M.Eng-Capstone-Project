@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "boyblack90"]
+[Black "Stallion28"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/DslKg0bB"]
+[WhiteElo "2483"]
+[BlackElo "2583"]
+[ECO "A36"]
+[Opening "English Opening: Symmetrical Variation, Ultra-Symmetrical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "06:45:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. c4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. a3 a5 6. Rb1 e6 7. d3 Nge7 8. Nf3 d5
+9. O-O O-O 10. h4 h6 11. Bf4 b6 12. cxd5 Nxd5 13. Nxd5 exd5 14. d4 cxd4 15.
+Nxd4 Nxd4 16. Rc1 Bg4 17. f3 Be6 18. Be3 Nf5 19. Bxh6 Bxh6 20. f4 Nxg3 21. Qb3
+Nxf1 0-1
+

@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Egor-Kovalev"]
+[Black "manneredmonkey"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/2P2L0s89"]
+[WhiteTitle "FM"]
+[BlackTitle "NM"]
+[WhiteElo "2587"]
+[BlackElo "2553"]
+[ECO "B07"]
+[Opening "Pirc Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:06:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. h4 Bg7 5. h5 Nxh5 6. g4 Nf6 7. g5 Nfd7 8. Be3
+Nb6 9. Qd2 Nc6 10. O-O-O a5 11. f4 a4 12. d5 Na5 13. Bd4 Nac4 14. Bxc4 Nxc4 15.
+Qd3 e5 16. Qxc4 exd4 17. Nb5 O-O 18. Qxc7 a3 19. b3 Bg4 20. Re1 d3 21. Qxd8
+Bb2+ 22. Kd2 Rfxd8 23. Kxd3 Ra6 24. Rh4 Bd7 25. Nd4 Rc8 26. c4 b5 27. Nxb5 Bxb5
+28. cxb5 Rc3+ 29. Kd2 Rb6 30. Rh3 Rc5 31. Ne2 Rbxb5 32. Reh1 Rb4 33. Kd3 Rc8
+34. Rxh7 Re8 35. e5 Kf8 36. Rh8+ Ke7 37. exd6+ Kd7 38. Rxe8 Kxe8 39. Rh3 Kd7
+40. Re3 Kxd6 41. Re4 Rb5 42. Nc3 Rb8 43. Rc4 Rh8 44. Rc6+ Kd7 45. Ne4 Rh3+ 46.
+Kc4 Rf3 47. Nc5+ Kd8 48. d6 Rxf4+ 49. Kb5 Bd4 50. Nb7+ Ke8 51. Rc8+ Kd7 52.
+Rc7+ Ke6 53. Re7+ Kd5 54. d7 Bf6 55. d8=Q# 1-0
+

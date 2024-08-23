@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.04.08"]
+[Round "-"]
+[White "Jackga217"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1bqkbnr/pp1ppppp/2n5/2P5/4P3/8/PPP2PPP/RNBQKBNR b KQkq -"]
+[Timezone "UTC"]
+[ECO "B21"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Smith-Morra-Gambit"]
+[UTCDate "2021.04.08"]
+[UTCTime "04:12:31"]
+[WhiteElo "1194"]
+[BlackElo "1297"]
+[TimeControl "1800"]
+[Termination "Jackga217 won by resignation"]
+[StartTime "04:12:31"]
+[EndDate "2021.04.08"]
+[EndTime "04:12:49"]
+[Link "https://www.chess.com/game/live/11594036501"]
+
+1. e4 { [%clk 0:30:00] } 1... c5 { [%clk 0:30:00] } 2. d4 { [%clk 0:29:54.7] }
+2... Nc6 { [%clk 0:29:55.2] } 3. dxc5 { [%clk 0:29:51.9] } 1-0
+

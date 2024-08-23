@@ -1,0 +1,28 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "caissa-x"]
+[Black "RaspFish"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/5u3b3cx4"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3038"]
+[BlackElo "3024"]
+[ECO "C45"]
+[Opening "Scotch Game: Schmidt Variation"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:33:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. exd5 cxd5
+8. O-O Be7 9. c4 d4 10. Bg5 O-O 11. Nd2 Rb8 12. Rb1 Rb6 13. c5 Re6 14. Rc1 h6
+15. Bf4 Nd5 16. Bg3 Bg5 17. Rc4 Ba6 18. Rxd4 Bf6 19. Bxc7 Qxc7 20. Rxd5 Bb7 21.
+Rd6 Rxd6 22. cxd6 Qxd6 23. Ne4 Bxe4 24. Bxe4 Rd8 25. Qxd6 Rxd6 26. Rc1 g6 27.
+g3 Bxb2 28. Rc8+ Kg7 29. Kg2 Bd4 30. Rc6 Rd7 31. Rc2 Bb6 32. Bf3 Rd6 33. Be2
+Rd5 34. Kf1 Rd4 35. Kg2 Rd6 1/2-1/2
+

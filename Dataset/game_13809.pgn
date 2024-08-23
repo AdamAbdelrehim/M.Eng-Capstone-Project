@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "taras1977"]
+[Black "lew_777"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/5jIvk4X1"]
+[WhiteElo "2407"]
+[BlackElo "2500"]
+[ECO "C46"]
+[Opening "Three Knights Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:27:24"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Nxe5 Bxf2+ 5. Kxf2 Nxe5 6. d4 Qf6+ 7. Kg1 Ne7
+8. dxe5 Qb6+ 0-1
+

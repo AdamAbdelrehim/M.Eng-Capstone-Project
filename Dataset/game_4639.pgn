@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "KeyzerSoze"]
+[Black "bessel"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Z5FvGWw4"]
+[WhiteTitle "IM"]
+[WhiteElo "2514"]
+[BlackElo "2377"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:34:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. Bc4 e6 7. d4 Bd6 8.
+c3 Qc7 9. Qe2 b6 10. Bh6 Rg8 11. O-O-O Bb7 12. Kb1 Nd7 13. Bxe6 O-O-O 14. Bxf7
+Rxg2 15. Rhg1 Rxg1 16. Rxg1 Bxh2 17. Rg7 Bf4 18. Bxf4 Qxf4 19. Be6 c5 20. Nd2
+Qd6 21. Nc4 Qc7 22. d5 Kb8 23. d6 Qc6 24. Bxd7 Rxd7 25. Qe8+ Bc8 26. Rxd7 Qxd7
+27. Qe7 Qf5+ 28. Kc1 Bd7 29. Ne3 Qe6 30. f4 Qxe7 31. dxe7 Kc7 32. Nd5+ Kd6 33.
+Nxf6 Kxe7 34. Nxh7 Ke6 35. Nf8+ Ke7 36. Nxd7 Kxd7 37. Kd2 Ke6 38. Ke3 Kf5 39.
+Kf3 b5 40. b4 cxb4 41. cxb4 a6 42. a3 Ke6 43. Ke4 Kd6 44. f5 Ke7 45. Kd5 Kf6
+46. Kc5 Kxf5 47. Kb6 Ke5 48. Kxa6 Kd6 49. Kxb5 Kc7 50. a4 Kb7 51. a5 Ka7 52. a6
+Ka8 53. Ka5 Kb8 54. b5 Ka8 55. b6 Kb8 56. Kb5 Ka8 57. Kc6 Kb8 58. b7 Ka7 59.
+Kc7 Kxa6 60. b8=Q Ka5 61. Qb3 Ka6 62. Qa4# 1-0
+

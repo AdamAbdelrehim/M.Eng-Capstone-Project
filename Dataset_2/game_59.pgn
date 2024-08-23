@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.02"]
+[Round "-"]
+[White "AnuragNema"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r3kbnr/ppp1pppp/2nq4/1B1pN3/3P2b1/4P3/PPP2PPP/RNBQK2R w KQkq -"]
+[Timezone "UTC"]
+[ECO "D00"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-1...d5-2.e3"]
+[UTCDate "2021.01.02"]
+[UTCTime "12:07:19"]
+[WhiteElo "1075"]
+[BlackElo "1055"]
+[TimeControl "600"]
+[Termination "AnuragNema won by resignation"]
+[StartTime "12:07:19"]
+[EndDate "2021.01.02"]
+[EndTime "12:08:49"]
+[Link "https://www.chess.com/game/live/6121963884"]
+
+1. d4 { [%clk 0:10:00] } 1... d5 { [%clk 0:09:58.5] } 2. e3
+{ [%clk 0:09:58.6] } 2... Nc6 { [%clk 0:09:47.9] } 3. Nf3 { [%clk 0:09:56.3] }
+3... Bg4 { [%clk 0:09:43.7] } 4. Bb5 { [%clk 0:09:53.6] } 4... Qd7
+{ [%clk 0:09:20.2] } 5. Ne5 { [%clk 0:09:36.9] } 5... Qd6 { [%clk 0:09:03.1] }
+1-0
+

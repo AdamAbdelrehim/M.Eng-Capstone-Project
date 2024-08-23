@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.06.07"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Tryingchessagain24"]
+[Result "0-1"]
+[CurrentPosition "r1br2k1/p4ppp/1p2q3/8/1b1n4/4N1P1/PP2KP1P/R2QNB1R w - -"]
+[Timezone "UTC"]
+[ECO "B13"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Panov-Modern-Carlsbad-Line"]
+[UTCDate "2024.06.07"]
+[UTCTime "15:15:43"]
+[WhiteElo "1908"]
+[BlackElo "1909"]
+[TimeControl "600"]
+[Termination "Tryingchessagain24 won by resignation"]
+[StartTime "15:15:43"]
+[EndDate "2024.06.07"]
+[EndTime "15:19:10"]
+[Link "https://www.chess.com/game/live/111512525079"]
+
+1. e4 { [%clk 0:10:00] } 1... c6 { [%clk 0:09:58.4] } 2. d4
+{ [%clk 0:09:57.9] } 2... d5 { [%clk 0:09:57.4] } 3. exd5 { [%clk 0:09:57.8] }
+3... cxd5 { [%clk 0:09:55.3] } 4. c4 { [%clk 0:09:57.3] } 4... Nf6
+{ [%clk 0:09:43] } 5. Nc3 { [%clk 0:09:55.6] } 5... Nc6 { [%clk 0:09:34.8] } 6.
+Bg5 { [%clk 0:09:54] } 6... e6 { [%clk 0:09:08.4] } 7. cxd5 { [%clk 0:09:48] }
+7... exd5 { [%clk 0:08:59] } 8. Bxf6 { [%clk 0:09:43.2] } 8... Qxf6
+{ [%clk 0:08:50.4] } 9. Nxd5 { [%clk 0:09:41.7] } 9... Qe6+
+{ [%clk 0:08:38.6] } 10. Ne3 { [%clk 0:09:36.6] } 10... Bb4+
+{ [%clk 0:08:36.6] } 11. Ke2 { [%clk 0:09:33.2] } 11... O-O { [%clk 0:08:29] }
+12. Nf3 { [%clk 0:09:23.7] } 12... Rd8 { [%clk 0:08:22] } 13. g3
+{ [%clk 0:09:20.8] } 13... b6 { [%clk 0:08:10.3] } 14. Ne1 { [%clk 0:09:05.9] }
+14... Nxd4+ { [%clk 0:07:41.9] } 0-1
+

@@ -1,0 +1,36 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Predator_Shark"]
+[Black "chesspawnrookking"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/7QKMcZps"]
+[WhiteElo "2516"]
+[BlackElo "2538"]
+[ECO "C00"]
+[Opening "French Defense: Wing Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "04:24:59"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. b4 cxb4 5. a3 bxa3 6. d4 Nc6 7. c3 Nge7 8. Bd3
+Nf5 9. g4 Nh4 10. Nbd2 Be7 11. Rg1 O-O 12. Nxh4 Bxh4 13. Nf3 Be7 14. g5 Na5 15.
+Rg3 Bd7 16. Nd2 Bxg5 17. Nf3 Bxc1 18. Rxc1 h6 19. Qd2 Kh8 20. Ke2 f5 21. Rcg1
+Rf7 22. h4 Nc4 23. Bxc4 dxc4 24. Ng5 hxg5 25. hxg5 g6 26. Rh3+ Rh7 27. Rxh7+
+Kxh7 28. d5 Kg7 29. Rh1 exd5 30. Qf4 Be6 31. Rh6 Qb6 32. Qh4 Bg8 33. e6 Qxe6+
+34. Kf1 Re8 35. Qd4+ Qe5 36. Qxa7 Qe2+ 37. Kg2 Qg4+ 38. Kf1 Qxg5 39. Rh3 Re7
+40. Qxa3 Qf6 41. Rg3 Qe5 42. Re3 Qxe3 43. fxe3 Rd7 44. Qc5 Be6 45. Kg2 Kf6 46.
+Qd4+ Kg5 47. Kf3 Rh7 48. Qe5 Bf7 49. Qe7+ Kh6 50. Qxb7 Kg7 51. Qe7 Rh3+ 52. Kg2
+Rh5 53. Qe5+ Kf8 54. Kg3 Rg5+ 55. Kf4 Rg4+ 56. Kf3 Re4 57. Qd6+ Kg7 58. Qc5 g5
+59. Qd6 g4+ 60. Kf2 Bg6 61. Qd7+ Kh6 62. Qxd5 Kg5 63. Qd8+ Kh5 64. Qh8+ Kg5 65.
+Qg7 Kh5 66. Qf6 Kh6 67. Kg3 Kh7 68. Kh4 g3+ 69. Kxg3 Rg4+ 70. Kf3 Re4 71. Qf8
+Bh5+ 72. Kf2 Bg4 73. Qf6 Kg8 74. Qg6+ Kf8 75. Qg5 Ke8 76. Qf6 Kd7 77. Qg7+ Ke8
+78. Qg5 Kf7 79. Qh6 Kg8 80. Qh7+ Kf8 81. Qh8+ Ke7 82. Qh7+ Ke6 83. Ke1 Ke5 84.
+Kd2 Kd5 85. Qg6 Ke5 86. Qg7+ Ke6 87. Qf8 Kd7 88. Qe8+ Kxe8 89. Kc2 Ke7 90. Kb2
+Re6 91. Ka3 Re4 92. Kb4 Ke6 93. Kb5 Rxe3 94. Kb4 Rd3 95. Kb5 Rxc3 96. Kc6 f4
+97. Kc5 f3 98. Kb6 f2 99. Kc6 f1=Q 100. Kc5 Qe2 101. Kb6 1/2-1/2
+

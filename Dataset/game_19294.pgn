@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "ChessatronBot"]
+[Black "odonata-bot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/FyOGDUsW"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2451"]
+[BlackElo "2640"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Mengarini Variation"]
+[TimeControl "180+3"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:56:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. a3 Nc6 3. b4 Nf6 4. b5 Nd4 5. c3 Ne6 6. e5 Nd5 7. Nf3 g6 8. Qb3 Nb6
+9. d4 d6 10. d5 c4 11. Bxc4 Nc5 12. Qa2 Bg4 13. Bf4 Bxf3 14. gxf3 Bg7 15. exd6
+O-O 16. O-O exd6 17. Bg3 h5 18. h4 Bf6 19. Nd2 Bxh4 20. f4 Re8 21. Kg2 Qf6 22.
+Rac1 Kg7 23. Qc2 Bxg3 24. fxg3 Re3 25. Kh2 Rae8 26. Rf2 h4 27. g4 Rg3 28. g5
+Rxg5 29. Qa2 Rg3 30. Bf1 Nbd7 31. Kh1 Ne5 32. Nb3 Ne4 33. f5 Ng4 34. Rf4 Qg5
+35. Rxg4 Qxg4 36. Kh2 Qf4 37. f6+ Kh6 38. Bh3 Rxh3+ 39. Kg1 Qg3+ 40. Qg2 Qe3+
+41. Kf1 Rh1+ 42. Qg1 Rxg1# 0-1
+

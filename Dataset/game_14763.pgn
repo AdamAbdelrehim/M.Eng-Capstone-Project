@@ -1,0 +1,37 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "solistabot"]
+[Black "BitByByte"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/mrocQVq7"]
+[BlackTitle "BOT"]
+[WhiteElo "3020"]
+[BlackElo "2800"]
+[ECO "A34"]
+[Opening "English Opening: Symmetrical Variation, Fianchetto Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:03:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. c4 c5 2. Nc3 Nf6 3. g3 d5 4. cxd5 Nxd5 5. Bg2 Nxc3 6. bxc3 Nc6 7. Bxc6+ bxc6
+8. Qa4 Qb6 9. Ba3 e5 10. Nf3 Qb5 11. Qe4 f6 12. O-O Be6 13. d3 Bd6 14. c4 Qa4
+15. Nh4 O-O 16. Nf5 Bxf5 17. Qxf5 Rfe8 18. Bc1 e4 19. Be3 g6 20. Qh3 f5 21.
+Rfd1 Bf8 22. Rd2 exd3 23. exd3 Qa5 24. Qg2 Bg7 25. Rb1 Bd4 26. Bf4 Re6 27. Qf3
+Rae8 28. Kg2 Qa6 29. Bg5 Qc8 30. a4 Qc7 31. h4 a5 32. Bf4 Qa7 33. Rdd1 Qd7 34.
+h5 Re2 35. Rd2 R2e7 36. Rb6 Re6 37. Rd1 Re2 38. Rf1 R2e6 39. Rfb1 Re2 40. Rf1
+R2e6 41. Bd2 Re2 42. Bg5 Ra2 43. hxg6 hxg6 44. Rxc6 Re6 45. Rxe6 Qxe6 46. Qa8+
+Kf7 47. Qa7+ Kg8 48. Qa8+ Kf7 49. Qa7+ Kg8 50. Qxa5 Qc6+ 51. Kh3 Rxa4 52. Qd8+
+Kg7 53. Qe7+ Kg8 54. Be3 Bxe3 55. fxe3 Ra8 56. e4 Rf8 57. Kg2 Re8 58. Qg5 Rf8
+59. Qh6 Rf6 60. Qh4 Rd6 61. Rh1 Rxd3 62. Qh7+ Kf8 63. Qh8+ Kf7 64. Rh4 Rd6 65.
+Kh3 Rf6 66. Rh7+ Ke6 67. Qd8 fxe4 68. Rc7 Qd6 69. Re7+ Kf5 70. Qc8+ Re6 71. Rd7
+Qxd7 72. Qxd7 Kf6 73. Qd8+ Kg7 74. Qc7+ Kf8 75. Qxc5+ Ke8 76. Kg4 e3 77. Qc8+
+Ke7 78. Qxe6+ Kxe6 79. Kf3 e2 80. Kxe2 Kd7 81. g4 Kd6 82. g5 Kc6 83. Ke3 Kb6
+84. Kd4 Kc6 85. c5 Kb7 86. c6+ Kxc6 87. Ke5 Kc7 88. Kf6 Kd7 89. Kxg6 Ke7 90.
+Kh6 Kd6 91. g6 Ke6 92. g7 Kd5 93. g8=Q+ Kc5 94. Qd8 Kc6 95. Qa5 Kb7 96. Kh7 Kb8
+97. Kg8 Kc8 98. Qa7 Kd8 99. Kf7 Kc8 100. Ke6 Kd8 101. Qb8# 1-0
+

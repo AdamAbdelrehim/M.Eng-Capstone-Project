@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.05.02"]
+[Round "-"]
+[White "rezanaghdipour"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "1n1R3k/6p1/p1b4p/1pb5/4P3/5P2/PPP1Q1PP/7K b - -"]
+[Timezone "UTC"]
+[ECO "B21"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Smith-Morra-Gambit"]
+[UTCDate "2022.05.02"]
+[UTCTime "07:17:59"]
+[WhiteElo "1471"]
+[BlackElo "1492"]
+[TimeControl "60"]
+[Termination "rezanaghdipour won by resignation"]
+[StartTime "07:17:59"]
+[EndDate "2022.05.02"]
+[EndTime "07:19:10"]
+[Link "https://www.chess.com/game/live/45214795487"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. d4 { [%clk 0:00:59.4] }
+2... d6 { [%clk 0:00:59.7] } 3. Nf3 { [%clk 0:00:58.9] } 3... cxd4
+{ [%clk 0:00:58.9] } 4. Nxd4 { [%clk 0:00:58.1] } 4... Nf6 { [%clk 0:00:58.8] }
+5. Nc3 { [%clk 0:00:57.1] } 5... a6 { [%clk 0:00:58.3] } 6. Bc4
+{ [%clk 0:00:56.5] } 6... e6 { [%clk 0:00:58] } 7. O-O { [%clk 0:00:55.6] }
+7... Be7 { [%clk 0:00:57.5] } 8. Qe2 { [%clk 0:00:55.1] } 8... O-O
+{ [%clk 0:00:57.3] } 9. Rd1 { [%clk 0:00:54.5] } 9... b5 { [%clk 0:00:56.4] }
+10. Bb3 { [%clk 0:00:53.6] } 10... Bb7 { [%clk 0:00:56] } 11. Bxe6
+{ [%clk 0:00:51.2] } 11... fxe6 { [%clk 0:00:54.9] } 12. Nxe6
+{ [%clk 0:00:49.8] } 12... Qe8 { [%clk 0:00:54] } 13. Nc7 { [%clk 0:00:47.8] }
+13... Qc6 { [%clk 0:00:52.1] } 14. Nxa8 { [%clk 0:00:45.2] } 14... Bxa8
+{ [%clk 0:00:52] } 15. f3 { [%clk 0:00:42.5] } 15... Bd8 { [%clk 0:00:49.6] }
+16. Bg5 { [%clk 0:00:41.3] } 16... Bb6+ { [%clk 0:00:49] } 17. Kh1
+{ [%clk 0:00:40.4] } 17... h6 { [%clk 0:00:48.6] } 18. Bxf6
+{ [%clk 0:00:39.7] } 18... Rxf6 { [%clk 0:00:48] } 19. Nd5 { [%clk 0:00:39.1] }
+19... Rf8 { [%clk 0:00:45.5] } 20. Ne7+ { [%clk 0:00:37.9] } 20... Kh8
+{ [%clk 0:00:43.3] } 21. Nxc6 { [%clk 0:00:37.5] } 21... Bxc6
+{ [%clk 0:00:42.7] } 22. Rxd6 { [%clk 0:00:35.9] } 22... Rd8
+{ [%clk 0:00:40.1] } 23. Rad1 { [%clk 0:00:31.1] } 23... Rxd6
+{ [%clk 0:00:38.9] } 24. Rxd6 { [%clk 0:00:30.5] } 24... Bc5
+{ [%clk 0:00:37.9] } 25. Rd8+ { [%clk 0:00:28] } 1-0
+

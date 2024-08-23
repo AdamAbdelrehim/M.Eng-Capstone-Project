@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Cor64"]
+[Black "Stallion28"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/XAuAcu14"]
+[WhiteElo "2521"]
+[BlackElo "2580"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:20:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 d5 2. exd5 Nf6 3. Nc3 Nxd5 4. Nxd5 Qxd5 5. Nf3 Bg4 6. Be2 Nc6 7. d4 O-O-O
+8. c3 e5 9. Be3 exd4 10. Nxd4 Bxe2 11. Nxe2 Qxg2 12. Rg1 Rxd1+ 13. Rxd1 Qe4 14.
+Ng3 Qe6 15. b3 Bc5 16. Rd3 Ne5 0-1
+

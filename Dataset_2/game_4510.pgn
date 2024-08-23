@@ -1,0 +1,37 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.04.02"]
+[Round "-"]
+[White "Jedu87"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r5k1/ppp2ppp/2nb1B2/3p4/1P4Q1/P2PP1P1/2PN1PKP/R4R2 b - -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Polish-Opening-Bugayev-Attack"]
+[UTCDate "2022.04.02"]
+[UTCTime "19:35:05"]
+[WhiteElo "1480"]
+[BlackElo "1461"]
+[TimeControl "60"]
+[Termination "Jedu87 won by resignation"]
+[StartTime "19:35:05"]
+[EndDate "2022.04.02"]
+[EndTime "19:35:53"]
+[Link "https://www.chess.com/game/live/42667169017"]
+
+1. a3 { [%clk 0:01:00] } 1... e5 { [%clk 0:00:59.9] } 2. b4
+{ [%clk 0:00:59.9] } 2... d5 { [%clk 0:00:59.5] } 3. Bb2 { [%clk 0:00:59.7] }
+3... Nf6 { [%clk 0:00:59.2] } 4. Bxe5 { [%clk 0:00:58.6] } 4... Nc6
+{ [%clk 0:00:58.5] } 5. Bb2 { [%clk 0:00:58] } 5... Bd6 { [%clk 0:00:58.4] } 6.
+g3 { [%clk 0:00:57.4] } 6... O-O { [%clk 0:00:58] } 7. Bg2 { [%clk 0:00:56.9] }
+7... Qe7 { [%clk 0:00:57] } 8. d3 { [%clk 0:00:56.2] } 8... Bf5
+{ [%clk 0:00:55.1] } 9. Nd2 { [%clk 0:00:54.9] } 9... Rfe8 { [%clk 0:00:54.7] }
+10. Ngf3 { [%clk 0:00:51.7] } 10... Bg4 { [%clk 0:00:53.6] } 11. O-O
+{ [%clk 0:00:50.6] } 11... Qe6 { [%clk 0:00:50.8] } 12. e3 { [%clk 0:00:49.2] }
+12... Bh3 { [%clk 0:00:50.1] } 13. Ng5 { [%clk 0:00:47] } 13... Bxg2
+{ [%clk 0:00:44.6] } 14. Nxe6 { [%clk 0:00:45.6] } 14... Rxe6
+{ [%clk 0:00:42.5] } 15. Kxg2 { [%clk 0:00:44.4] } 15... Ng4
+{ [%clk 0:00:41.3] } 16. Qxg4 { [%clk 0:00:41.9] } 16... Rf6 { [%clk 0:00:41] }
+17. Bxf6 { [%clk 0:00:39.6] } 1-0
+

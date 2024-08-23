@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Artur_Arustamyan"]
+[Black "the-chess-gambler"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/3OIImC8P"]
+[WhiteElo "2582"]
+[BlackElo "2509"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:55:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+2"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d3 a5 6. Nbd2 O-O 7. h3 d5 8. Bb3
+dxe4 9. dxe4 Nh5 10. O-O Nf4 11. Nc4 Qxd1 12. Rxd1 Ne2+ 13. Kf1 Nxc1 14. Raxc1
+a4 15. Bc2 f6 16. b4 axb3 17. Bxb3 Be6 18. Ke2 Rfd8 19. Ne3 Bxb3 20. Rxd8+ Nxd8
+21. axb3 Ra2+ 22. Rc2 Rxc2+ 23. Nxc2 Kf7 24. Nd2 Ke6 25. b4 Bb6 26. Ne3 Bxe3
+27. Kxe3 Nf7 28. h4 h5 29. g3 Nd6 30. f3 g6 31. Kd3 b6 32. c4 f5 33. exf5+ gxf5
+34. c5 bxc5 35. bxc5 Nb5 36. Kc4 c6 37. Nf1 Nd4 38. Nh2 Ne2 39. g4 fxg4 40.
+fxg4 hxg4 41. Nxg4 Ng3 42. Ne3 Nh5 43. Kd3 Ng3 44. Kc4 Nh5 45. Kb4 Ng3 46. Ka5
+Nf5 47. Nc4 Nxh4 48. Kb6 Nf5 49. Kxc6 Nd4+ 50. Kb6 e4 51. c6 Nxc6 52. Kxc6 e3
+53. Nxe3 1/2-1/2
+

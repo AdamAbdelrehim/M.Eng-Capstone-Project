@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "on_my_zadachi_tasks"]
+[Black "NameTheGame"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/2PfWVcfk"]
+[WhiteElo "2676"]
+[BlackElo "2719"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:50:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Nd4 4. Bc4 e6 5. Nge2 Ne7 6. O-O d5 7. exd5 exd5 8.
+Nxd5 Nxd5 9. Nxd4 cxd4 10. Re1+ Ne7 11. Qh5 g6 12. Qe5 Rg8 13. Qf6 Rg7 14. d3
+Be6 15. Bh6 Nd5 16. Bb5+ Qd7 17. Bxd7+ Kxd7 18. Qxd4 Rg8 19. Bxf8 Rgxf8 20. c4
+Rfe8 21. cxd5 Bf5 22. g4 1-0
+

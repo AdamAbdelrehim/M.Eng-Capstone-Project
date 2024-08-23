@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "RaspFish"]
+[Black "Weiawaga"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/R0mSoNgK"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2995"]
+[BlackElo "2659"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:03:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 c5 4. e3 Nc6 5. Nbd2 Qb6 6. dxc5 Qxb2 7. Rb1 Qc3 8.
+Bb5 Qxc5 9. O-O a6 10. Bxc6+ Qxc6 11. c4 dxc4 12. Ne5 Qe6 13. Ndxc4 b5 14. Qf3
+Rb8 15. Na5 g5 16. Rfd1 gxf4 17. Nec6 Bb7 18. Nxb7 Rc8 19. exf4 Qg4 20. Qa3 Rg8
+21. g3 Qe6 22. Na7 Qb6 23. Nd6+ exd6 24. Nxc8 Qc5 25. Qxa6 Ne4 26. Nxd6+ Nxd6
+27. Rbc1 Nc4 28. Re1+ Kd8 29. Qa8+ Kc7 30. Re8 Kd7 31. Qd8+ Kc6 32. a4 Qd6 33.
+Qa8+ Kc5 34. Qb7 Qxf4 35. Qxb5+ Kd6 36. Rxc4 Qxc4 37. Qxc4 Be7 38. Rxg8 Bf6 39.
+Rc8 Ke5 40. Rc5+ Kd6 41. Qd5+ Ke7 42. Rc7+ Ke8 43. Qxf7+ Kd8 44. Qd7# 1-0
+

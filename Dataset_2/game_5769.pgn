@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.30"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "PPM70"]
+[Result "0-1"]
+[CurrentPosition "r2qk2r/p2b1ppp/2p1p3/1B1n4/8/2P1BP2/P1P3PP/R2QK2R w KQkq -"]
+[Timezone "UTC"]
+[ECO "B40"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-French-Variation-3.d4"]
+[UTCDate "2022.07.30"]
+[UTCTime "18:46:59"]
+[WhiteElo "1792"]
+[BlackElo "1807"]
+[TimeControl "600"]
+[Termination "PPM70 won by resignation"]
+[StartTime "18:46:59"]
+[EndDate "2022.07.30"]
+[EndTime "18:49:41"]
+[Link "https://www.chess.com/game/live/52945808553"]
+
+1. e4 { [%clk 0:10:00] } 1... e6 { [%clk 0:09:58.9] } 2. d4
+{ [%clk 0:09:58.2] } 2... c5 { [%clk 0:09:55.8] } 3. Nf3 { [%clk 0:09:55.6] }
+3... cxd4 { [%clk 0:09:53.2] } 4. Nxd4 { [%clk 0:09:51] } 4... Nc6
+{ [%clk 0:09:51.3] } 5. Nc3 { [%clk 0:09:48.1] } 5... Nf6 { [%clk 0:09:46.5] }
+6. Be3 { [%clk 0:09:45.3] } 6... Bb4 { [%clk 0:09:41.6] } 7. f3
+{ [%clk 0:09:39.5] } 7... Bxc3+ { [%clk 0:09:36.5] } 8. bxc3
+{ [%clk 0:09:39.4] } 8... d5 { [%clk 0:09:31.4] } 9. Bb5 { [%clk 0:09:23.2] }
+9... Bd7 { [%clk 0:09:27] } 10. exd5 { [%clk 0:08:46.5] } 10... Nxd5
+{ [%clk 0:09:23.8] } 11. Nxc6 { [%clk 0:08:36.6] } 11... bxc6
+{ [%clk 0:09:07.8] } 0-1
+

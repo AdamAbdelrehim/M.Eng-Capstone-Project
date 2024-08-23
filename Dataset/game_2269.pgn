@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "eugmind"]
+[Black "PostacuVelemajstor"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/9QLldhuQ"]
+[WhiteElo "2510"]
+[BlackElo "2345"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Lasker-Dunne Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:01:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 g6 4. Ne2 Bg7 5. O-O d6 6. c3 e6 7. d4 cxd4 8. cxd4
+d5 9. e5 Nge7 10. Nbc3 O-O 11. f4 b6 12. Be3 Ba6 13. Re1 Nb4 14. Nc1 Rc8 15. a3
+Nbc6 16. Bf2 Na5 17. Nd3 h5 18. Rc1 Bxd3 19. Qxd3 Nc4 20. Qe2 Qd7 21. h3 Rc7
+22. g4 hxg4 23. hxg4 Rfc8 24. Bf3 Nxa3 25. Kg2 Nc4 26. Rh1 b5 27. Ra1 b4 28.
+Na4 Nb6 29. Nc5 Qe8 30. Qd3 Nd7 31. Na6 Rb7 32. Bh4 Rb6 33. Be2 Nc6 34. f5 exf5
+35. gxf5 Ndxe5 36. dxe5 Nxe5 37. Qh3 gxf5 38. Qxf5 Rg6+ 39. Kf1 Nc4 40. Bxc4
+Rxc4 41. Re1 Qb5 42. Re2 Re4 43. Rh2 Qxa6 44. Qxd5 Rge6 45. Qd8+ Re8 46. Qd1
+Rxe2 47. Rxe2 Rxe2 48. Qxe2 Qxe2+ 49. Kxe2 Bxb2 50. Kd3 a5 51. Kc4 Bc3 52. Kb5
+f5 53. Ka4 Kf7 54. Bg3 Ke6 55. Bf4 Kd5 56. Bc1 Ke4 57. Kb3 f4 58. Kc2 f3 59.
+Kb3 Kd3 60. Bg5 Ke2 61. Be7 f2 62. Bc5 f1=Q 63. Ka4 Qb1 64. Kb5 Qa2 65. Bb6 b3
+66. Bc5 b2 67. Kc6 b1=Q 68. Bd6 Qc4+ 69. Kd7 Qbb5+ 70. Kd8 Qcc6 71. Bc7 Qd7#
+0-1
+

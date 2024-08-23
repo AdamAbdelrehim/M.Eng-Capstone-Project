@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Levonal"]
+[Black "VitorBronson"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/MXLddQt8"]
+[BlackTitle "NM"]
+[WhiteElo "2665"]
+[BlackElo "2442"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Breyer Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:15:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-3"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Bd6 5. d4 exd4 6. exd5 cxd5 7. Bb5+ Nc6 8.
+O-O Ne7 9. Nxd4 O-O 10. N2b3 a6 11. Be2 Nf5 12. Nxf5 Bxf5 13. Bf3 Nb4 14. Nd4
+Be4 15. c3 Nd3 16. Be2 Nf4 17. Bxf4 Bxf4 18. g3 Be5 19. Qb3 b5 20. Nc6 Qc7 21.
+Nxe5 Qxe5 22. Rfe1 Qf5 23. Rad1 Rac8 24. Qa3 Rc6 25. f3 Bc2 26. Rd2 Rh6 27. Rc1
+Qh5 28. Bf1 Bf5 29. Rf2 Qg5 30. Re1 Be6 31. Qxa6 b4 32. cxb4 d4 33. Qa5 Qf6 34.
+Qe5 Bxa2 35. Qxf6 Rxf6 36. Rd1 Rd6 37. Rfd2 Rfd8 38. b5 Bb3 39. Rc1 g6 40. Kf2
+Rb6 41. Rc6 Rxc6 42. bxc6 Ba4 43. c7 Rc8 44. Rxd4 Rxc7 45. Rxa4 Rc2+ 46. Be2
+Rxb2 47. Ra7 Kg7 48. Ke3 Rb3+ 49. Bd3 Rb2 50. h4 Rg2 51. g4 Rb2 52. Bc4 Kf6 53.
+Rxf7+ Ke5 54. Rxh7 g5 55. hxg5 Kd6 56. Bd3 Kc5 57. g6 Rb8 58. Rh5+ Kd6 59. Rg5
+Re8+ 60. Kf2 Ke7 61. g7 Rg8 62. Bc4 Kf6 63. Bxg8 Kxg5 64. Bc4 Kf6 65. g8=Q Ke5
+66. Qd5+ Kf6 67. Qf5+ Ke7 68. Qe6+ Kd8 69. Qf7 Kc8 70. g5 Kb8 71. g6 Kc8 72. g7
+Kb8 73. g8=Q# 1-0
+

@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "FIDE-Trainer1984"]
+[Black "Philidor23"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/cGswS9eb"]
+[WhiteElo "2520"]
+[BlackElo "2451"]
+[ECO "B07"]
+[Opening "King's Pawn Game: Maróczy Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:47:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. e4 d6 2. d4 e5 3. dxe5 dxe5 4. Qxd8+ Kxd8 5. Bc4 f6 6. f4 Nd7 7. Nf3 Bd6 8.
+fxe5 Nxe5 9. Nc3 Nxc4 0-1
+

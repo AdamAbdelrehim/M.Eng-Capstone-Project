@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.02"]
+[Round "-"]
+[White "NJMulla"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1b1kb1r/pp3ppp/2n1pn2/3q4/3P4/2N2N2/PP3PPP/R1BQKB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "B22"]
+[ECOUrl "https://www.chess.com/openings/Alapin-Sicilian-Defense-Barmen-Defense-4.d4-cxd4"]
+[UTCDate "2022.11.02"]
+[UTCTime "16:19:18"]
+[WhiteElo "1859"]
+[BlackElo "1843"]
+[TimeControl "600"]
+[Termination "NJMulla won by resignation"]
+[StartTime "16:19:18"]
+[EndDate "2022.11.02"]
+[EndTime "16:20:04"]
+[Link "https://www.chess.com/game/live/61144849179"]
+
+1. e4 { [%clk 0:09:59.9] } 1... c5 { [%clk 0:09:59.4] } 2. c3
+{ [%clk 0:09:58.7] } 2... d5 { [%clk 0:09:58] } 3. exd5 { [%clk 0:09:57.6] }
+3... Qxd5 { [%clk 0:09:51.2] } 4. d4 { [%clk 0:09:57.5] } 4... cxd4
+{ [%clk 0:09:50] } 5. Nf3 { [%clk 0:09:47.2] } 5... Nc6 { [%clk 0:09:44] } 6.
+cxd4 { [%clk 0:09:45.2] } 6... Nf6 { [%clk 0:09:38] } 7. Nc3
+{ [%clk 0:09:42.7] } 7... e6 { [%clk 0:09:37.5] } 1-0
+

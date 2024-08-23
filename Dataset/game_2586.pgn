@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sutcunuri"]
+[Black "Itachi_Ut"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/73DDSIjb"]
+[WhiteTitle "CM"]
+[BlackTitle "FM"]
+[WhiteElo "2612"]
+[BlackElo "2597"]
+[ECO "A50"]
+[Opening "Indian Defense: Normal Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:50:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 a6 4. e4 d6 5. Nf3 b6 6. Bd3 Bb7 7. Qe2 Be7 8. h4 c5
+9. e5 Nfd7 10. d5 Nxe5 11. Nxe5 dxe5 12. dxe6 f6 13. Qh5+ 1-0
+

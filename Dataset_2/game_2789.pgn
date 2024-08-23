@@ -1,0 +1,38 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.11.11"]
+[Round "-"]
+[White "buranidin"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r4r2/ppp2pQk/3b1B2/8/8/1P4Pq/P1P2PbP/RN3RK1 b - -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Kings-Fianchetto-Opening-1...d5-2.Bg2-Nf6"]
+[UTCDate "2021.11.11"]
+[UTCTime "19:07:19"]
+[WhiteElo "1247"]
+[BlackElo "1200"]
+[TimeControl "60"]
+[Termination "buranidin won by checkmate"]
+[StartTime "19:07:19"]
+[EndDate "2021.11.11"]
+[EndTime "19:08:14"]
+[Link "https://www.chess.com/game/live/30396590911"]
+
+1. g3 { [%clk 0:01:00] } 1... d5 { [%clk 0:00:59.2] } 2. Bg2
+{ [%clk 0:00:59.9] } 2... Nf6 { [%clk 0:00:58.3] } 3. b3 { [%clk 0:00:59.4] }
+3... e5 { [%clk 0:00:57.8] } 4. Bb2 { [%clk 0:00:59] } 4... Nc6
+{ [%clk 0:00:57.4] } 5. Nf3 { [%clk 0:00:58.4] } 5... Be6 { [%clk 0:00:57] } 6.
+Nxe5 { [%clk 0:00:56.7] } 6... Nxe5 { [%clk 0:00:56.3] } 7. Bxe5
+{ [%clk 0:00:56.4] } 7... Bd6 { [%clk 0:00:55.7] } 8. Bb2 { [%clk 0:00:55.9] }
+8... O-O { [%clk 0:00:54.4] } 9. O-O { [%clk 0:00:54.9] } 9... Qe7
+{ [%clk 0:00:54.1] } 10. d3 { [%clk 0:00:54.2] } 10... h5 { [%clk 0:00:51.9] }
+11. e4 { [%clk 0:00:51.7] } 11... dxe4 { [%clk 0:00:51.1] } 12. dxe4
+{ [%clk 0:00:51.3] } 12... Qd7 { [%clk 0:00:50.2] } 13. e5 { [%clk 0:00:49.9] }
+13... Bh3 { [%clk 0:00:48.2] } 14. exf6 { [%clk 0:00:47.9] } 14... gxf6
+{ [%clk 0:00:47.3] } 15. Qxh5 { [%clk 0:00:43.6] } 15... Bxg2
+{ [%clk 0:00:44.7] } 16. Bxf6 { [%clk 0:00:41.9] } 16... Qh3
+{ [%clk 0:00:39.7] } 17. Qg5+ { [%clk 0:00:39] } 17... Kh7 { [%clk 0:00:36.1] }
+18. Qg7# { [%clk 0:00:38] } 1-0
+

@@ -1,0 +1,41 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Nam-stockfish"]
+[Black "PetersBot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/UdpIHUaM"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2890"]
+[BlackElo "2969"]
+[ECO "E05"]
+[Opening "Catalan Opening: Open Defense, Classical Line"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:11:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-2"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Ne5 Nc6 8.
+Bxc6 bxc6 9. Nxc6 Qe8 10. Nxe7+ Qxe7 11. Qa4 e5 12. dxe5 Qxe5 13. Nc3 Ne4 14.
+Re1 Nxc3 15. bxc3 Qxc3 16. Ba3 Rd8 17. Be7 Rd7 18. Bc5 Qe5 19. Qxc4 Rd5 20.
+Rac1 h6 21. a3 a5 22. Be3 c5 23. Bf4 Qd4 24. e4 Qxc4 25. Rxc4 Rd3 26. Re3 Rxe3
+27. Bxe3 Bh3 28. f3 Rb8 29. Bc1 Be6 30. Rxc5 Rc8 31. Rxc8+ Bxc8 32. g4 f6 33.
+Kf2 a4 34. Kg3 Bb7 35. Bd2 Kh7 36. Kf2 Kg6 37. Ke3 Bc8 38. Kd4 Be6 39. Kc3 Kf7
+40. Bc1 Kg6 41. Kd3 h5 42. gxh5+ Kxh5 43. Kd4 Kh4 44. Bd2 Kh3 45. Bf4 Bf7 46.
+Ke3 Bb3 47. Bd6 g6 48. Be7 Kxh2 49. Bxf6 Kg3 50. f4 Bc2 51. e5 Bb3 52. Bg5 Kg4
+53. Bh6 Kf5 54. Bg5 Kg4 55. Kd2 Be6 56. Kd3 Kf5 57. Kd2 Bd5 58. Kd3 Bb3 59. Bh6
+Be6 60. Kd2 Bc4 61. Kc3 Bb3 62. Kb2 Ke6 63. Bg5 Kf5 64. Kc3 Ke6 65. Kb4 Bc2 66.
+Kc3 Bb3 67. Kd2 Kd7 68. Ke3 Bd5 69. Bh4 Ke6 70. Kf2 Kf5 71. Bg5 Ke6 72. Bh6 Kd7
+73. Bf8 Ke8 74. Bg7 Kf7 75. Bf6 Ke8 76. Bh4 Bc4 77. Kf3 Bg8 78. Kg4 Bc4 79. Kf3
+Bb3 80. Ke3 Kf7 81. Kf3 Bd1+ 82. Ke3 Bb3 83. Bg5 Be6 84. Kd4 Bb3 85. Bh4 g5 86.
+fxg5 Kg6 87. Kc5 Kf5 88. Kd6 Bf7 89. g6 Bxg6 90. e6 Be8 91. e7 Bb5 92. Kc7 Ke6
+93. Bg3 Kxe7 94. Bd6+ Ke6 95. Kb6 Be2 96. Bg3 Kd5 97. Ka7 Kc5 98. Bh4 Kd5 99.
+Be1 Bd1 100. Bb4 Kc4 101. Bd6 Bb3 102. Bf4 Bc2 103. Be3 Be4 104. Kb6 Bc2 105.
+Bc5 Bd3 106. Bb4 Be2 107. Bc5 Bh5 108. Bf8 Bg6 109. Kc7 Bd3 110. Kd6 Bb1 111.
+Ke7 Kc3 112. Ke8 Kc2 113. Bd6 Kd2 114. Bb4+ Ke2 115. Kf7 Ba2+ 116. Kg6 Bb1+
+117. Kh6 Ba2 118. Bd6 Bb1 119. Bb4 Ba2 120. Bc5 Bb1 121. Bb4 1/2-1/2
+

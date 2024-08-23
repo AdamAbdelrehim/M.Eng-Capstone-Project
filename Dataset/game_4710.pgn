@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "silence404"]
+[Black "thomasasv"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/rYa3Y1F5"]
+[WhiteElo "2797"]
+[BlackElo "2588"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Scheveningen Variation, English Attack, with f3"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:44:08"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e6 7. Be3 Be7 8. Qd2
+h5 9. O-O-O b5 10. Kb1 Bb7 11. Bd3 Nbd7 12. Rhe1 O-O 13. h3 h4 14. g4 hxg3 15.
+Rg1 Nh5 16. Nce2 Bh4 17. Nc1 Nc5 18. Nde2 e5 19. c3 Qe7 20. Bc2 Rad8 21. Qe1
+Ne6 22. Nd3 g6 23. Bb3 d5 24. Nxe5 dxe4 25. f4 g2 26. Bf2 Bxf2 27. Qxf2 Nexf4
+28. Nxf4 Qxe5 29. Nxg6 e3 30. Qxf7+ Rxf7 31. Rxd8+ Kg7 32. Nxe5 Rf1+ 33. Rd1 e2
+34. Re1 Nf4 35. Kc2 Nxh3 36. Rxg2+ Bxg2 37. Rxe2 Nf4 38. Re3 Rf2+ 39. Kc1 Rf1+
+40. Kd2 Rf2+ 41. Ke1 Rxb2 42. Rg3+ Kf6 43. Ng4+ Kf5 44. Ne3+ Ke4 45. Bc2+ Ke5
+46. Kd2 Be4 47. Rg5+ Kf6 48. Rg8 Bxc2 49. Nxc2 Rxa2 50. Rf8+ Ke5 51. Ra8 Nd5
+52. Re8+ Kd6 53. Rh8 Kc5 54. Rh6 b4 55. cxb4+ Kc4 56. Rh5 Nxb4 57. Ke3 Nxc2+
+58. Ke4 Nb4 59. Rh8 a5 60. Rc8+ Kb3 61. Rb8 a4 62. Rh8 a3 63. Rh3+ Ka4 64. Rh4
+Rb2 65. Rh7 a2 66. Ra7+ Kb3 67. Ra8 1-0
+

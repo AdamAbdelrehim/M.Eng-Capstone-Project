@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "chesstutgood"]
+[Black "capa21"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/h2nKXp1g"]
+[WhiteTitle "FM"]
+[WhiteElo "2590"]
+[BlackElo "2673"]
+[ECO "D11"]
+[Opening "Slav Defense: Quiet Variation, Pin Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:52:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Nc3 Bd6 8. Bd3
+O-O 9. O-O Nbd7 10. e4 e5 11. exd5 exd4 12. dxc6 Ne5 0-1
+

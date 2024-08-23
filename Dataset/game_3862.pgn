@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "factorial14"]
+[Black "sergeybabenko"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/KNMMLhB2"]
+[WhiteTitle "FM"]
+[WhiteElo "2576"]
+[BlackElo "2480"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:44:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. h3 Qc7 6. Nf3 Nc6 7. c3 g6 8. O-O
+Bf5 9. Be2 h5 10. Be3 e6 11. Nbd2 Ne4 12. a4 h4 13. Nxe4 Bxe4 14. Bg5 Be7 15.
+Bxe7 Qxe7 16. Bd3 Bxd3 17. Qxd3 a6 18. Rfe1 Qf6 19. a5 Kf8 20. b4 Kg7 21. Re3
+Rac8 22. Rae1 g5 23. Nd2 Qg6 24. Qe2 Ne7 25. Nb3 Nf5 26. Rd3 Nd6 27. Nc5 Rc7
+28. Re3 Qf5 29. Rf3 Qg6 30. Qe5+ Kh7 31. Qxd6 1-0
+

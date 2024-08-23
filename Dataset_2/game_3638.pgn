@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.02.17"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "DruSean"]
+[Result "0-1"]
+[CurrentPosition "rn2kb1r/pp1b1ppp/2p2n2/2q5/2B1PP2/2N5/PPP3PP/R1BQ1RK1 w kq -"]
+[Timezone "UTC"]
+[ECO "C41"]
+[ECOUrl "https://www.chess.com/openings/Philidor-Defense-3.Bc4"]
+[UTCDate "2022.02.17"]
+[UTCTime "19:26:00"]
+[WhiteElo "1660"]
+[BlackElo "1681"]
+[TimeControl "600"]
+[Termination "DruSean won by resignation"]
+[StartTime "19:26:00"]
+[EndDate "2022.02.17"]
+[EndTime "19:26:42"]
+[Link "https://www.chess.com/game/live/38864984475"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:59.9] } 2. Nf3
+{ [%clk 0:09:59.4] } 2... d6 { [%clk 0:09:59] } 3. Bc4 { [%clk 0:09:58.8] }
+3... c6 { [%clk 0:09:58.3] } 4. d4 { [%clk 0:09:58] } 4... Bd7
+{ [%clk 0:09:57.1] } 5. dxe5 { [%clk 0:09:56.5] } 5... dxe5
+{ [%clk 0:09:56.7] } 6. Nxe5 { [%clk 0:09:53.8] } 6... Qa5+
+{ [%clk 0:09:56.2] } 7. Nc3 { [%clk 0:09:45.2] } 7... Qxe5 { [%clk 0:09:55] }
+8. O-O { [%clk 0:09:41.5] } 8... Nf6 { [%clk 0:09:53.9] } 9. f4
+{ [%clk 0:09:39.2] } 9... Qc5+ { [%clk 0:09:52.3] } 0-1
+

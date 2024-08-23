@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Hoon_Bot"]
+[Black "zlatana75"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/DP1orFN1"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2864"]
+[BlackElo "3031"]
+[ECO "A00"]
+[Opening "Ware Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:38:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-3"]
+
+1. a4 Nf6 2. c3 e5 3. d4 exd4 4. cxd4 d5 5. Nc3 Nc6 6. Bg5 Nb4 7. e3 c6 8. Bd3
+Nxd3+ 9. Qxd3 a5 10. Nf3 b6 11. Ne5 Qd6 12. O-O-O Be7 13. Bxf6 gxf6 14. Nf3 Be6
+15. Nh4 Qd7 16. h3 b5 17. axb5 a4 18. e4 a3 19. exd5 cxd5 20. b3 a2 21. Kb2 O-O
+22. Ka1 Kh8 23. Rd2 Bb4 24. Rc1 Rfc8 25. Rdc2 Ba3 26. Rd1 Bb4 27. Rdc1 Ba3 28.
+Rd1 Bf8 29. Rdc1 Bh6 30. f4 Bxf4 31. Rf1 Bd6 32. Rxf6 Bb4 33. Rh6 Bf5 34. Nxf5
+Bxc3+ 35. Rxc3 Rxc3 36. Qxc3 Qxf5 37. Qe1 f6 38. Rh4 Qd3 39. Rf4 Rg8 40. g4 Rb8
+41. b4 Rb7 42. g5 Re7 43. Qc1 Rc7 44. Qe1 Re7 45. Qc1 Rc7 46. Qe1 Re7 1/2-1/2
+

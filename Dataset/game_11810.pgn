@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "zblabunda"]
+[Black "DrLaPompa"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ZWVIU12H"]
+[WhiteElo "2540"]
+[BlackElo "2402"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:03:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c3 g6 3. Nf3 Bg7 4. h3 O-O 5. Bf4 d5 6. Nbd2 c5 7. e3 Nc6 8. dxc5
+a6 1-0
+

@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Alphaperro"]
+[Black "domore"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/aUDMHVZF"]
+[WhiteElo "2502"]
+[BlackElo "2451"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:22:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. e3 Bd6 6. Bd3 O-O 7. Nge2 c6 8. f3
+Re8 9. O-O Nbd7 10. e4 dxe4 11. fxe4 Qb6 12. Kh1 Bf8 13. e5 Nd5 14. Nxd5 cxd5
+15. Nf4 Qc6 16. Qf3 Nb6 17. Nh5 Qe6 18. Bg5 Qg4 19. Qxf7+ 1-0
+

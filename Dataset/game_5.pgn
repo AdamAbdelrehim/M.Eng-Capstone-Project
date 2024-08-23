@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "jshutzman"]
+[Black "Odirovski"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/TCfCkWVk"]
+[BlackTitle "IM"]
+[WhiteElo "2480"]
+[BlackElo "2561"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Sämisch Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "00:01:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 e6 4. Ne4 f5 5. exf6 Nxf6 6. Nxf6+ Qxf6 7. d4 d5 8.
+Nf3 Nc6 9. c3 Bd6 10. Bb5 Bd7 11. O-O a6 12. Bxc6 Bxc6 13. Re1 O-O 14. Bg5 Qg6
+15. Bh4 Bb5 16. Bg3 Rf6 17. Ne5 Qf5 18. a4 Be8 19. a5 Bb5 20. b3 h5 21. Bh4 g5
+22. c4 Be8 23. g4 hxg4 24. Bg3 Bh5 25. c5 Bf8 26. Qd2 Rh6 27. Qb4 Rb8 28. Nd7
+Rd8 29. Nxf8 Rxf8 30. Qxb7 Rh7 31. Re5 Qd3 32. Qc6 Qxd4 33. Rae1 Bf7 34. Qxa6
+Qxc5 35. Qe2 Qb4 36. Rxg5+ Rg7 37. Rxg7+ Kxg7 38. Be5+ Kh7 39. Rd1 Bg6 40. Qxg4
+Qxg4+ 41. Kf1 Qxd1+ 42. Kg2 Qg4+ 43. Bg3 Be4+ 44. f3 Qxf3+ 45. Kh3 Rf5 46. Kh4
+Rh5# 0-1
+

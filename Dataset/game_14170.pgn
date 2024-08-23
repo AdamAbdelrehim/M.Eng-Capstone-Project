@@ -1,0 +1,32 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/iIi9Dx9K"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "RebelJohnny"]
+[Black "AwwwB"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/X4lhRQGn"]
+[WhiteTitle "CM"]
+[WhiteElo "2547"]
+[BlackElo "2330"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:02:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8.
+Qc2 Re8+ 9. Ne2 h5 10. O-O Qc7 11. h3 Be6 12. Ng3 Bxg3 13. fxg3 Nd7 14. Bf4 Qb6
+15. Rae1 c5 16. Be3 Rac8 17. dxc5 Qc7 18. b4 b6 19. Ba6 Rcd8 20. Bf4 Qc6 21.
+Qe2 bxc5 22. Bd3 Bxh3 23. Qxe8+ Rxe8 24. Rxe8+ Nf8 25. Rxf8+ Kxf8 26. gxh3 cxb4
+27. cxb4 Qb6+ 28. Kg2 Qxb4 29. Rb1 Qa3 30. Rb8+ Ke7 31. Rb7+ Kd8 32. Bc4 g5 33.
+Bd2 Qc5 34. Rb8+ Kc7 35. Rb1 Kd8 36. Bb3 Qc6+ 37. Kf2 h4 38. gxh4 gxh4 39. Be3
+Qc3 40. Rd1+ Ke8 41. Kf3 a5 42. Rd2 Kf8 43. Rd4 Qe1 44. Rf4 Qh1+ 45. Kf2 Qh2+
+46. Ke1 Qxh3 47. Ke2 Qg2+ 48. Kd3 Qg6+ 49. Ke2 h3 50. Rh4 Qg2+ 51. Kd3 h2 52.
+Bh6+ Ke7 53. Bf4 h1=Q 54. Rxh1 Qxh1 55. Be3 f5 56. Bc5+ Kd7 57. Kc4 f4 58. Ba4+
+Kc7 59. Kb5 Qc6+ 60. Kxa5 Qxc5+ 61. Ka6 f3 62. Bc6 Qxc6+ 63. Ka5 Qc3+ 64. Ka4
+f2 65. a3 Qc4+ 66. Ka5 f1=Q 67. a4 Qe1# 0-1
+

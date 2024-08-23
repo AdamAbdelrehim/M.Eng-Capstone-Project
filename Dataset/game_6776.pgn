@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "rfwkkk"]
+[Black "toomanymanoevres"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/F1HDiLfU"]
+[WhiteElo "2909"]
+[BlackElo "2913"]
+[ECO "C18"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:21:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "-33"]
+[BlackRatingDiff "+6"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Nc6 7. Qg4 g6 8. h4
+h6 9. h5 g5 10. f4 f5 11. Qg3 g4 12. dxc5 Qa5 13. Bd2 Qxc5 14. Bd3 Na5 15. Qf2
+Qxf2+ 16. Kxf2 Ne7 17. Ne2 Bd7 18. Nd4 Rc8 19. Rhb1 b6 20. a4 Kf7 21. Be1 Rc7
+22. Nb5 Bxb5 23. axb5 Rd8 24. Rb4 Rdd7 25. Ke2 Nc4 26. Raa4 Na5 27. Kd2 Rc8 28.
+Bh4 Rdc7 29. Ra3 Nc4+ 30. Bxc4 dxc4 31. Bxe7 Kxe7 32. Ke2 Rd8 33. Rba4 Rdd7 34.
+Ra1 Kd8 35. Rd1 Rxd1 36. Kxd1 Kc8 37. Kd2 Kb7 38. Ke3 Rc5 39. Kd4 Rxb5 40. Kxc4
+Rc5+ 41. Kd3 Rd5+ 42. Ke3 a5 43. c4 Rd1 44. c5 Re1+ 45. Kd2 Rg1 46. cxb6 Kxb6
+47. Rd4 Rxg2+ 48. Kc3 Rf2 49. Rd6+ Kc5 50. Rxe6 Rxf4 51. Rg6 Rf3+ 52. Kd2 Rh3
+53. Rxh6 f4 54. Rg6 g3 55. e6 Kd6 56. h6 a4 57. Ke2 a3 58. Kf3 a2 59. e7+ Kxe7
+60. Ra6 Rxh6 61. Rxa2 Rh1 62. c4 Rf1+ 63. Kg2 Rc1 64. Kf3 Rxc4 65. Ra6 Kf7 66.
+Rb6 Rc1 67. Rb2 Rf1+ 0-1
+

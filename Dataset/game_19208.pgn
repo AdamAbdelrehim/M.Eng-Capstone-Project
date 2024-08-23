@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Digora"]
+[Black "Ersenov"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/lkUCjXeQ"]
+[WhiteTitle "GM"]
+[WhiteElo "2620"]
+[BlackElo "2540"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Levitsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:42:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 d5 2. Bg5 h6 3. Bh4 c5 4. dxc5 Qa5+ 5. Nc3 g5 6. Bg3 Bg7 7. Qd2 Nf6 8. e4
+dxe4 9. Nxe4 Qxd2+ 10. Nxd2 Bf5 11. O-O-O Nc6 12. Bb5 O-O-O 13. Bxc6 bxc6 14.
+Ngf3 Ne4 15. Rhe1 Nxg3 16. hxg3 e6 17. Ne5 Bxe5 18. Rxe5 Rd5 19. Nf3 Rhd8 20.
+Rexd5 cxd5 21. Rh1 g4 22. Nd4 Be4 23. f3 gxf3 24. gxf3 e5 25. fxe4 exd4 26.
+exd5 Rxd5 27. Rxh6 Rg5 28. Rf6 Rxg3 29. Rxf7 Kb8 30. b4 d3 31. cxd3 Rxd3 32.
+Kc2 Rh3 33. Kb2 Rg3 34. Kc2 Rh3 35. Rd7 Ra3 36. Kb2 Rh3 37. a4 Rg3 38. Kc2 Rh3
+39. Rd3 Rh4 40. Kc3 Rh7 41. Kc4 Kb7 42. b5 Kc7 43. Rd4 Kb7 44. Kb4 Kc7 45. Ka5
+Kb7 46. c6+ Kb8 47. Ka6 1-0
+

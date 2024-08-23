@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "solistabot"]
+[Black "AKS-Mantissa"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/QToZx5t5"]
+[BlackTitle "BOT"]
+[WhiteElo "3028"]
+[BlackElo "2728"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:34:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Bd7 6. Be3 c5 7. dxc5 Qc7 8. c4 dxc4
+9. Nf3 Bxg4 10. Nbd2 Nd7 11. Be2 c3 12. Nc4 cxb2 13. Rb1 e6 14. Rxb2 Bxc5 15.
+O-O Bh3 16. Re1 b6 17. Rd2 Rd8 18. Nd4 Kf8 19. Kh2 Bxd4 20. Rxd4 Bf5 21. Bc1 a6
+22. Ba3+ Ne7 23. Qd2 b5 24. Qa5 Rc8 25. Qxc7 Rxc7 26. Red1 Kg8 27. Rxd7 Rxd7
+28. Rxd7 bxc4 29. Rxe7 c3 30. Re8+ Kh7 31. Rxh8+ Kxh8 32. Bxa6 Kh7 33. Bb4 c2
+34. Ba3 g5 35. hxg5 hxg5 36. Bb2 Kg8 37. a4 Kf8 38. a5 Ke8 39. Kg3 g4 40. Bb5+
+Kd8 41. Bc1 Kc8 42. a6 Be4 43. Kxg4 Bg6 44. Kf4 Bf5 45. Be2 Bg6 46. Bf3 Kb8 47.
+Be3 c1=Q 48. a7+ Kc7 49. Bxc1 Bh5 50. Bg2 Be2 51. a8=Q Bf3 52. Qxf3 Kd8 53. Qb7
+f6 54. exf6 e5+ 55. Kxe5 Ke8 56. Qe7# 1-0
+

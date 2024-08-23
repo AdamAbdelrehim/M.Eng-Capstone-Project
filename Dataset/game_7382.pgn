@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Midnight_Mushroom"]
+[Black "DanielaAndrade"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/5mDxxaWj"]
+[WhiteElo "2502"]
+[BlackElo "2520"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:59:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. b3 e5 2. Bb2 d6 3. e3 g6 4. f4 Bg7 5. Nf3 Nc6 6. Bb5 Bg4 7. h3 Bxf3 8. Qxf3
+Ne7 9. O-O O-O 10. Nc3 a6 11. Bxc6 Nxc6 12. f5 gxf5 13. Qxf5 Ne7 14. Qf3 d5 15.
+Ne2 f5 16. Qg3 Ng6 17. d4 e4 18. Nf4 Nxf4 19. Rxf4 Kh8 20. Raf1 Qd7 21. Rh4 Rf6
+22. Qg5 Raf8 23. Bc1 R8f7 24. Bd2 Kg8 25. Be1 Rg6 26. Qf4 Qe7 27. Rh5 c5 28.
+Bh4 Qe6 29. c3 Bf8 30. Rxf5 Rxf5 31. Qxf5 Qxf5 32. Rxf5 cxd4 33. cxd4 Rd6 34.
+g4 Rd7 35. Bg3 Bb4 36. Kf2 Kg7 37. Be5+ Kg8 38. Kg3 Rf7 39. Kf4 Rxf5+ 40. Kxf5
+Kf7 41. h4 Be7 42. g5 Bf8 43. h5 Ke7 44. g6 hxg6+ 45. hxg6 Bh6 46. Bf4 Bg7 47.
+Bg5+ Kd6 48. Bf6 Bh6 49. g7 Bxg7 50. Bxg7 Kc6 51. Ke5 Kb5 52. Kxd5 Kb4 53. Bf8+
+Kc3 54. Kxe4 Kb2 55. d5 Kxa2 56. d6 Kxb3 57. d7 b5 58. d8=Q a5 59. Qxa5 Kc4 60.
+Qb4# 1-0
+

@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.08.23"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "atreja3553"]
+[Result "0-1"]
+[CurrentPosition "rn1qk2r/pp3ppp/4b3/8/2P5/4N3/PP1b1PPP/R3KBNR w KQkq -"]
+[Timezone "UTC"]
+[ECO "C01"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Exchange-Monte-Carlo-Variation-4...Nf6-5.Nc3"]
+[UTCDate "2022.08.23"]
+[UTCTime "03:56:58"]
+[WhiteElo "1619"]
+[BlackElo "1657"]
+[TimeControl "180"]
+[Termination "atreja3553 won by resignation"]
+[StartTime "03:56:58"]
+[EndDate "2022.08.23"]
+[EndTime "03:58:54"]
+[Link "https://www.chess.com/game/live/54965787669"]
+
+1. e4 { [%clk 0:03:00] } 1... e6 { [%clk 0:02:59.9] } 2. d4
+{ [%clk 0:02:56.3] } 2... d5 { [%clk 0:02:59.8] } 3. exd5 { [%clk 0:02:54.8] }
+3... exd5 { [%clk 0:02:55.9] } 4. c4 { [%clk 0:02:54.7] } 4... Nf6
+{ [%clk 0:02:53.1] } 5. Nc3 { [%clk 0:02:50.1] } 5... c5 { [%clk 0:02:50.8] }
+6. dxc5 { [%clk 0:02:48.3] } 6... Bxc5 { [%clk 0:02:46.9] } 7. Nxd5
+{ [%clk 0:02:45.1] } 7... Ng4 { [%clk 0:02:41] } 8. Qe2+ { [%clk 0:02:24.4] }
+8... Be6 { [%clk 0:02:37.1] } 9. Be3 { [%clk 0:02:04.2] } 9... Nxe3
+{ [%clk 0:02:30] } 10. Nxe3 { [%clk 0:02:04.1] } 10... Bb4+
+{ [%clk 0:02:27.1] } 11. Qd2 { [%clk 0:01:56.2] } 11... Bxd2+
+{ [%clk 0:02:24.1] } 0-1
+

@@ -1,0 +1,37 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "yobot_v2"]
+[Black "ultron81"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/zdt1zWNg"]
+[WhiteElo "3015"]
+[BlackElo "2839"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Defense"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:45:58"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 d6 2. e4 g6 3. Nc3 Bg7 4. Be3 a6 5. Nf3 Nd7 6. a4 Ngf6 7. h3 e6 8. e5
+dxe5 9. dxe5 Ng8 10. Qe2 Nxe5 11. Nxe5 Bxe5 12. Rd1 Bd7 13. g4 h5 14. Bg2 hxg4
+15. hxg4 Rxh1+ 16. Bxh1 c6 17. Qd2 Qc7 18. a5 c5 19. f4 Bxc3 20. Qxc3 O-O-O 21.
+Bxc5 Nf6 22. Qd4 Bc6 23. Qxf6 Rxd1+ 24. Kxd1 Bxh1 25. Bb6 Qd7+ 26. Kc1 Bc6 27.
+b3 Qe8 28. Qe5 Qe7 29. Kb2 f6 30. Qe3 Bd7 31. Qc3+ Bc6 32. Bc5 Qd8 33. Bb4 e5
+34. fxe5 fxe5 35. Qxe5 Qd7 36. Qh8+ Qe8 37. Qf6 Qe4 38. Bd6 Be8 39. Bf4 Qd5 40.
+Qc3+ Qc6 41. Qe5 Kd8 42. Qd4+ Qd7 43. Qa7 Qd5 44. Qb6+ Kd7 45. Bg3 Qc6 46. Qd4+
+Kc8 47. Qf4 Kd7 48. Qd4+ Kc8 49. Qe5 Kd8 50. Bh4+ Kc8 51. Qe7 Qd7 52. Qc5+ Qc6
+53. Qd4 Qd7 54. Qc5+ Qc6 55. Qe5 Qb5 56. Qe6+ Qd7 57. Qc4+ Qc6 58. Qd3 Qd7 59.
+Qc3+ Qc6 60. Qh8 Qd7 61. Qc3+ Qc6 62. Qe1 Qd7 63. Qe5 Qb5 64. Qe6+ Qd7 65. Qf6
+Qd2 66. Qe5 Qd7 67. Bg3 Qc6 68. Bf2 Qb5 69. Bc5 Bf7 70. Qh8+ Qe8 71. Qc3 Qc6
+72. Qh8+ Qe8 73. Qg7 Qe6 74. Bb6 Qd5 75. Bf2 Be8 76. Bb6 Qd6 77. g5 Qc6 78. Qe5
+Kd7 79. Qd4+ Qd6 80. Qa4+ Qc6 81. Qg4+ Qe6 82. Qd1+ Qd6 83. Qh1 Kc8 84. Qh3+
+Qd7 85. Qc3+ Qc6 86. Qh3+ Qd7 87. Qc3+ Qc6 88. Qh8 Qe6 89. Qd4 Qe7 90. Qc4+ Bc6
+91. Qg8+ Be8 92. Qh8 Qe6 93. Bg1 Qc6 94. Bh2 Kd8 95. Qh7 Kc8 96. Qh3+ Bd7 97.
+Qh8+ Be8 98. Qe5 Kd7 99. Qf4 Qd5 100. Qf6 Kc8 101. Bg3 Kd7 102. Bh2 Qc6 103.
+Qd4+ Kc8 104. Qf4 Kd7 105. Qd4+ 1-0
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "dhfernandez"]
+[Black "Punchen"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/qGUNeR2C"]
+[WhiteTitle "GM"]
+[WhiteElo "2699"]
+[BlackElo "2526"]
+[ECO "A09"]
+[Opening "Réti Opening: Advance Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:26:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. Nf3 d5 2. c4 d4 3. b4 g5 4. Bb2 Bg7 5. Nxg5 e5 6. h4 h6 7. Ne4 f5 8. Nc5 b6
+9. Nd3 e4 10. Nf4 Ne7 11. e3 O-O 12. Qb3 d3 13. f3 Bxb2 14. Qxb2 Nbc6 15. Rh3
+Kh7 16. Nc3 Ng6 17. Nxg6 Kxg6 18. Nd5 Ne7 19. Rg3+ Kh5 1-0
+

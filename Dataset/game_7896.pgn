@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "FIDE-Trainer1984"]
+[Black "HardTrainingPlan"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/RlVx83rm"]
+[WhiteElo "2531"]
+[BlackElo "2484"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:53:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 c5 6. e4 Nxc3 7. Bxc3 cxd4 8.
+Qxd4 Qxd4 9. Bxd4 Bb4+ 10. Ke2 O-O 11. Ke3 Nc6 12. Nf3 e5 13. Nxe5 Nxd4 14.
+Kxd4 Rd8+ 15. Kc4 a5 16. Kb5 f6 17. Bc4+ Kf8 18. Nd3 Bd7+ 19. Kb6 Ra6+ 20. Kc7
+Rc8+ 21. Kxd7 Rac6 22. Nxb4 R8c7+ 23. Kd8 Rc8+ 24. Kd7 R8c7+ 25. Kd8 Rc8+ 26.
+Kd7 1/2-1/2
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Boreminator"]
+[Black "simplesimpson03"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/2yvI5Ycs"]
+[WhiteElo "2529"]
+[BlackElo "2481"]
+[ECO "A46"]
+[Opening "Torre Attack: Classical Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:55:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 b6 4. Nbd2 Bb7 5. e4 Be7 6. Bd3 h6 7. Bh4 g5 8. Bg3
+Nc6 9. c3 d6 10. Qe2 Nh5 11. Ba6 Qc8 12. Bxb7 Qxb7 13. O-O O-O-O 14. a4 Nf4 15.
+Bxf4 gxf4 16. b4 Rdg8 17. a5 Rg6 18. axb6 cxb6 19. Ra2 Rhg8 20. g3 fxg3 21.
+fxg3 h5 22. Kh1 h4 23. gxh4 f5 24. b5 Na5 25. d5 fxe4 26. Qxe4 exd5 27. Qf5+
+Kb8 28. Nd4 Bxh4 29. Rxa5 bxa5 30. Nc6+ Kc7 31. Qxd5 Kc8 32. Nc4 Qd7 33. Nxd6+
+Rxd6 34. Qxg8+ Kb7 35. Qb8# 1-0
+

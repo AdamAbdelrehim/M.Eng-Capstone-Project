@@ -1,0 +1,40 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.12.29"]
+[Round "-"]
+[White "mahommed123"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "3Q2k1/ppp3pp/4q3/n3p3/8/B1P1P3/P2P2PP/R5K1 b - -"]
+[Timezone "UTC"]
+[ECO "A16"]
+[ECOUrl "https://www.chess.com/openings/English-Opening-Anglo-Indian-Anglo-Grunfeld-Defense-3.cxd5-Nxd5"]
+[UTCDate "2021.12.29"]
+[UTCTime "09:08:40"]
+[WhiteElo "1675"]
+[BlackElo "1638"]
+[TimeControl "600"]
+[Termination "mahommed123 won by resignation"]
+[StartTime "09:08:40"]
+[EndDate "2021.12.29"]
+[EndTime "09:13:44"]
+[Link "https://www.chess.com/game/live/34507806279"]
+
+1. c4 { [%clk 0:09:58.5] } 1... Nf6 { [%clk 0:09:51.6] } 2. Nc3
+{ [%clk 0:09:56.4] } 2... d5 { [%clk 0:09:46.6] } 3. cxd5 { [%clk 0:09:52.9] }
+3... Nxd5 { [%clk 0:09:44.8] } 4. e3 { [%clk 0:09:51.2] } 4... e5
+{ [%clk 0:09:39.2] } 5. Nge2 { [%clk 0:09:48.6] } 5... Nc6 { [%clk 0:09:25.8] }
+6. Ng3 { [%clk 0:09:42.7] } 6... Nxc3 { [%clk 0:09:20.4] } 7. bxc3
+{ [%clk 0:09:38.4] } 7... Bd6 { [%clk 0:09:16.6] } 8. Be2 { [%clk 0:09:36] }
+8... O-O { [%clk 0:08:57.7] } 9. O-O { [%clk 0:09:33.4] } 9... f5
+{ [%clk 0:08:39.5] } 10. Bb2 { [%clk 0:09:27.1] } 10... f4 { [%clk 0:08:36] }
+11. Ne4 { [%clk 0:09:25.5] } 11... fxe3 { [%clk 0:08:31.6] } 12. fxe3
+{ [%clk 0:09:18.4] } 12... Be6 { [%clk 0:08:18.9] } 13. Bg4
+{ [%clk 0:09:15.2] } 13... Qd7 { [%clk 0:08:03.9] } 14. Bxe6+
+{ [%clk 0:09:11.1] } 14... Qxe6 { [%clk 0:08:03.8] } 15. Qh5
+{ [%clk 0:09:09.1] } 15... Be7 { [%clk 0:07:42.6] } 16. Rxf8+
+{ [%clk 0:08:58.6] } 16... Rxf8 { [%clk 0:07:38] } 17. Ng5 { [%clk 0:08:43.1] }
+17... Bxg5 { [%clk 0:07:11.6] } 18. Qxg5 { [%clk 0:08:41.6] } 18... Na5
+{ [%clk 0:06:55.5] } 19. Ba3 { [%clk 0:08:36.7] } 19... Rd8
+{ [%clk 0:06:33.2] } 20. Qxd8+ { [%clk 0:08:33.6] } 1-0
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "seculars"]
+[Black "ilprofessore87"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/DxpoxsNP"]
+[WhiteElo "2378"]
+[BlackElo "2518"]
+[ECO "B00"]
+[Opening "Pirc Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "03:45:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 Nfd7 4. f4 c5 5. Nf3 cxd4 6. Nxd4 g6 7. Bc4 Bg7 8.
+O-O O-O 9. Be3 a6 10. a4 Nc6 11. Nxc6 bxc6 12. Qd2 Rb8 13. Rab1 Qa5 14. f5 Rxb2
+15. Nd5 Qxd2 16. Nxe7+ Kh8 17. Bxd2 Rxc2 18. Nxc8 Rxc8 19. Bxa6 Ra8 20. Bb7
+Rxa4 21. Bf4 Rxe4 22. Bxd6 Ree2 23. Bc8 Rxg2+ 24. Kh1 Ne5 25. Rf4 Rxh2+ 26. Kg1
+Nf3+ 27. Rxf3 Bd4+ 28. Kf1 Rh1# 0-1
+

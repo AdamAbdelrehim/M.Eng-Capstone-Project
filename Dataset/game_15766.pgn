@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "energeiakoss"]
+[Black "TorVik-1"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/JZifkqCe"]
+[BlackTitle "FM"]
+[WhiteElo "2513"]
+[BlackElo "2568"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:34:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 f6 7. O-O Qb6 8. dxc5
+Bxc5 9. b4 Be7 10. exf6 Nxf6 11. Bf4 O-O 12. Nbd2 Ne4 13. Be3 Nxc3 14. Bxb6
+Nxd1 15. Bc5 Nc3 16. Bd3 e5 0-1
+

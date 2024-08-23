@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "jgeg"]
+[Black "silence404"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/OIcGWJi1"]
+[WhiteTitle "FM"]
+[WhiteElo "2618"]
+[BlackElo "2774"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:02:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. e3 Bf5 7. Qf3 Bg6 8.
+Bxf6 Qxf6 9. Qxf6 gxf6 10. Nge2 Nd7 11. Nf4 Bd6 12. g3 Ke7 13. Kd2 Rhe8 14. h4
+h5 15. Bd3 Bxd3 16. Kxd3 Bxf4 17. gxf4 f5 18. Rag1 Rg8 19. Rg5 Rxg5 20. hxg5
+Rh8 21. Ne2 h4 22. Rh3 Nf8 23. Ng1 Ng6 24. Nf3 f6 25. Ke2 a6 26. Kf1 a5 27. Kg2
+a4 28. Rh1 Kf7 29. Kh3 Ra8 30. Rc1 Ra6 31. Nxh4 fxg5 32. fxg5 Nxh4 33. Kxh4 Kg6
+34. f4 Ra8 35. Kg3 Rh8 36. Kg2 Re8 37. Re1 Ra8 38. Rh1 Ra6 39. Rh6+ Kg7 40. Kf3
+Rb6 41. Rh2 Rb4 42. Rd2 Rb5 43. Ke2 Rb6 44. Kd3 Ra6 45. Kc3 Ra8 46. Rh2 Re8 47.
+Rh3 Ra8 48. Kb4 Ra6 49. Kc5 Ra5+ 50. Kd6 Rb5 51. Rh2 Kg6 52. Ke6 Rb4 53. Rh8
+Kg7 54. Ra8 b5 55. Kxf5 Rxb2 56. Ra7+ Kf8 57. Kf6 Ke8 58. g6 Rxa2 59. g7 Rg2
+60. f5 Rg3 61. Ra8+ Kd7 62. g8=Q Rxg8 63. Rxg8 b4 64. Rb8 b3 65. Ke5 Kc7 66.
+Rb4 c5 67. dxc5 Kc6 68. Kd4 a3 69. Rxb3 a2 70. Ra3 1-0
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Alex_Lidsky"]
+[Black "Bala77"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/HeLFv3az"]
+[BlackTitle "NM"]
+[WhiteElo "2524"]
+[BlackElo "2554"]
+[ECO "A57"]
+[Opening "Benko Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:08:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 e6 5. Nc3 a6 6. e4 axb5 7. Bxb5 Qa5 8. Bd2
+Nxe4 9. dxe6 fxe6 10. Bd3 Nxd2 11. Qxd2 Nc6 12. Nf3 Nb4 13. Bb1 Ba6 14. Qg5
+Nd3+ 15. Bxd3 Bxd3 16. Ne5 c4 17. h4 Bb4 18. Nxd3 Bxc3+ 19. bxc3 Qxc3+ 20. Qd2
+Qxa1+ 21. Nc1 Qe5+ 22. Ne2 O-O 23. O-O d5 24. Nd4 Rxa2 25. Qxa2 Qxd4 26. Qa6
+Qf6 27. g3 h6 28. Re1 Qxf2+ 0-1
+

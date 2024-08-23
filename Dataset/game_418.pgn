@@ -1,0 +1,27 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "PetersBot"]
+[Black "caissa-x"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/bpiUNL3Q"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2962"]
+[BlackElo "3038"]
+[ECO "C88"]
+[Opening "Ruy Lopez: Closed"]
+[TimeControl "600+3"]
+[UTCDate "2024.06.01"]
+[UTCTime "02:31:35"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. h3
+Bb7 9. d3 d5 10. exd5 Nxd5 11. a4 Nd4 12. Nbd2 Nxb3 13. Nxb3 f6 14. Na5 Qc8 15.
+c3 c5 16. Qb3 Kh8 17. d4 cxd4 18. Nxb7 Qxb7 19. cxd4 Bb4 20. Re2 bxa4 21. Qxa4
+exd4 22. Nxd4 h6 23. Nf3 Rfb8 24. Bd2 Qb5 25. Qd1 Rd8 26. Qf1 Bxd2 27. Rxd2
+Qxf1+ 28. Kxf1 Nb4 29. Rad1 Rxd2 30. Rxd2 a5 31. Nd4 Rd8 32. Ke2 Re8+ 33. Kf3
+h5 34. Nf5 Nc6 35. Ne3 Rb8 36. Ke2 Kh7 37. Kd1 Rb4 38. Kc2 Nd4+ 39. Kc3 Nb5+
+40. Kc2 Nd4+ 41. Kc3 Nb5+ 42. Kc2 Nd4+ 1/2-1/2
+

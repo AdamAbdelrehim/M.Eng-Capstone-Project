@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Mischuk_D"]
+[Black "BigOleDoinks"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/TmLpiQVz"]
+[WhiteTitle "IM"]
+[WhiteElo "2636"]
+[BlackElo "2633"]
+[ECO "E71"]
+[Opening "King's Indian Defense: Makogonov Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:59:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Be3 e5 7. d5 Na6 8. g4 Nc5
+9. f3 a5 10. Qd2 c6 11. h4 h5 12. g5 Ne8 13. Bh3 cxd5 14. cxd5 f5 15. gxf6 Bxf6
+16. Bxc8 Rxc8 17. O-O-O b5 18. Kb1 b4 19. Nce2 Bg7 20. Bg5 Qb6 21. Nc1 Nc7 22.
+Rh2 Nb5 23. Ka1 Nd4 24. Rg2 a4 25. Be3 Kh7 26. Bxd4 exd4 27. Nh3 a3 28. Ng5+
+Kh8 29. Nd3 b3 30. Ne6 Nxe6 31. dxe6 Rc2 32. Qg5 axb2+ 33. Nxb2 d3 34. e5 bxa2
+35. Rxc2 dxc2 36. Rg1 Rb8 37. Qc1 dxe5 38. Rg2 e4 39. Rxc2 exf3 40. e7 Qe6 41.
+Qd1 Qxe7 42. Qxf3 Qe1+ 43. Kxa2 Qa5+ 44. Kb1 Qb5 45. Qe2 Qxe2 46. Rxe2 Rxb2+
+47. Rxb2 Bxb2 48. Kxb2 Kg7 49. Kc3 Kf6 50. Kd4 Kf5 51. Ke3 Kg4 52. Kf2 Kxh4 53.
+Kg2 Kg4 54. Kh2 h4 55. Kg2 h3+ 56. Kh2 Kh4 57. Kg1 Kg3 58. Kh1 g5 59. Kg1 g4
+60. Kh1 Kf2 61. Kh2 g3+ 62. Kxh3 g2 63. Kg4 g1=Q+ 64. Kf4 Qg3+ 65. Ke4 Qe3+ 66.
+Kd5 Kf3 67. Kc4 Qe4+ 68. Kc3 Ke3 69. Kb3 Qd4 70. Kc2 Qc4+ 71. Kb2 Kd3 72. Ka3
+Qb5 73. Ka2 Kc2 74. Ka1 Qa4# 0-1
+

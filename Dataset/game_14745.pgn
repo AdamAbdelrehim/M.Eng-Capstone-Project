@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "kasparik_garik"]
+[Black "Trebor23"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/gigYSyed"]
+[WhiteElo "2580"]
+[BlackElo "2412"]
+[ECO "A00"]
+[Opening "Kádas Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:01:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. h4 d5 2. h5 c5 3. h6 Nxh6 4. b4 e5 5. bxc5 Bxc5 6. e3 Nc6 7. Bb2 Bd6 8. Nf3
+Qe7 9. Bb5 Bg4 10. Qc1 Bxf3 11. gxf3 O-O-O 12. Nc3 Qe6 13. Ba3 f5 14. Rb1 f4
+15. Bxd6 Qxd6 16. Qb2 Nf5 17. Ba6 Rd7 18. Bxb7+ Kd8 19. Bxc6 Qxc6 20. Qb8+ Qc8
+21. Qxe5 Re7 22. Qxd5+ Ke8 23. Ne4 fxe3 24. fxe3 1-0
+

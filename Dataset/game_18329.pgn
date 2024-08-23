@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Pastukhov_Nicolay"]
+[Black "NewTwist"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/kfYukfWt"]
+[WhiteElo "2523"]
+[BlackElo "2670"]
+[ECO "E74"]
+[Opening "King's Indian Defense: Averbakh Variation, Benoni Defense, Advance Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:36:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Be2 d6 6. Bg5 c5 7. d5 h6 8. Be3 e6
+9. Nf3 exd5 10. exd5 Re8 11. O-O Rxe3 12. fxe3 a6 13. a4 Bf5 14. Bd3 Bg4 15. h3
+Bxf3 16. Rxf3 Qe7 17. Qd2 Nbd7 18. Rf4 Re8 19. Re1 h5 20. b3 Bh6 21. Rf3 Ne5
+22. Rg3 h4 23. Rf3 Nxf3+ 24. gxf3 Bxe3+ 25. Kg2 Bxd2 0-1
+

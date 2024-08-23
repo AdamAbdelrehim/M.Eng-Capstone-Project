@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "mick_chess"]
+[Black "Rory_Sutherland"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/0bTSo1PO"]
+[WhiteElo "2725"]
+[BlackElo "2736"]
+[ECO "C72"]
+[Opening "Ruy Lopez: Morphy Defense, Modern Steinitz Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:00:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 d6 5. O-O Bd7 6. c3 g6 7. d4 Bg7 8. h3 Nf6
+9. Re1 b5 10. Bc2 O-O 11. dxe5 Nxe5 12. Nxe5 dxe5 13. Qf3 c5 14. Nd2 c4 15. Nf1
+h6 16. b3 Be6 17. bxc4 Bxc4 18. Ba3 Re8 19. Ne3 Be6 20. Red1 Qc8 21. Nd5 Nxd5
+22. exd5 Bd7 23. Rac1 f5 24. d6 e4 25. Qe3 Kh7 26. Bb3 Bc6 27. c4 Qd7 28. cxb5
+axb5 29. Bc5 g5 30. Bd4 f4 31. Qc3 Bxd4 32. Qxd4 e3 33. fxe3 Rxe3 34. Bd5 Bxd5
+35. Rc7 Bc6 36. Qc5 Kg6 37. Rxd7 Bxd7 38. Qc7 Bxh3 39. gxh3 Rxa2 40. Qc5 Rg3+
+41. Kf1 Rxh3 42. Qd5 f3 43. Qxa2 Rh1+ 44. Kf2 1-0
+

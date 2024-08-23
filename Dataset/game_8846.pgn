@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "zlatana75"]
+[Black "RaspFish"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/FUxKEeGu"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3029"]
+[BlackElo "2984"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Gubinsky-Melts Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "05:41:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 g6 6. Be2 Bg7 7. Nb5 Qd8 8.
+c4 O-O 9. O-O Ne8 10. Re1 Nd6 11. Nc3 Bg4 12. Bf4 Nd7 13. Ne5 Be6 14. c5 Nf5
+15. Nf3 Nf6 16. Qd2 b6 17. Nb5 Bd5 18. Nxc7 Rc8 19. Nxd5 Nxd5 20. Rad1 Nxf4 21.
+Qxf4 bxc5 22. dxc5 Qc7 23. Qxc7 Rxc7 24. g4 Nh6 25. Rc1 Bxb2 26. Rc2 Bg7 27. h3
+Rfc8 28. Rec1 Kf8 29. Ng5 Be5 30. Rc4 Kg7 31. c6 Ng8 32. Nf3 Bd6 33. Nd4 a6 34.
+Bf3 Nf6 35. Nb3 Rb8 36. Na5 e6 37. Nb7 Be7 38. Rb1 h5 39. gxh5 Nxh5 40. Bxh5
+gxh5 41. Rb6 Ra8 42. Nc5 Bxc5 43. Rxc5 Rd8 44. Rxa6 Kf8 45. Rc3 Ke7 46. Ra4 Rd2
+47. Kf1 e5 48. Ke1 Rb2 49. a3 Ke6 50. Rac4 Ra2 51. a4 f6 52. Rc2 Ra3 53. R2c3
+Ra1+ 54. Kd2 Rf1 55. Ke3 Ra1 56. Kd2 Rf1 57. Ke3 Ra1 58. h4 Kd5 59. Kd2 Rf1 60.
+Ke3 Ra1 61. Kd3 Rd1+ 62. Kc2 Rf1 63. f3 f5 64. Kb3 Rb1+ 65. Ka3 Ra1+ 66. Kb4
+Rb1+ 67. Rb3 Rxb3+ 68. Kxb3 e4 69. fxe4+ fxe4 70. Rc3 Kd4 71. Kb4 e3 72. Rc1 e2
+73. Kb5 Kd5 74. Re1 Rxc6 75. Rxe2 Rc5+ 76. Kb6 Rc6+ 77. Kb7 Rc4 78. a5 Rb4+ 79.
+Kc7 Rc4+ 80. Kb6 Rb4+ 81. Kc7 Rc4+ 1/2-1/2
+

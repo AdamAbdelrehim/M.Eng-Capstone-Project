@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "prowlingcat"]
+[Black "DaniloBesedes"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/NONTsoYu"]
+[BlackTitle "FM"]
+[WhiteElo "2466"]
+[BlackElo "2535"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Englund Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:31:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Bf4 Qb4+ 5. Bd2 Qxb2 6. Nc3 Bb4 7. Rb1 Qa3
+8. Nd5 Bxd2+ 9. Qxd2 Kd8 10. Ng5 Nh6 11. e6 fxe6 12. Nxe6+ dxe6 13. Nb6+ Qd6
+14. Qg5+ Qe7 15. Rd1+ Ke8 16. Qxe7+ Kxe7 17. Nxa8 Bd7 18. Nxc7 a6 19. e4 Rc8
+20. Nxa6 bxa6 21. Bxa6 Ra8 22. Bc4 Ne5 23. Bb3 Bb5 24. f4 Nc4 25. Kf2 Ng4+ 26.
+Kf3 Nf6 27. g4 Na3 28. g5 Nd7 29. h4 Nc5 30. Rhe1 Bc6 31. Rd2 Nb5 32. a4 Nc3
+33. Rd4 N3xe4 34. Rdxe4 Nxe4 35. Rxe4 Bxe4+ 36. Kxe4 Kd6 37. f5 exf5+ 38. Kxf5
+Rf8+ 39. Kg4 Ke5 40. h5 Rf4+ 41. Kg3 Rb4 42. Bg8 Kf5 43. Bxh7+ Kxg5 44. Bg6
+Rxa4 45. Kf3 Kf6 46. Ke3 Ke5 47. Kd3 Kd5 48. Bf7+ Kc5 49. c3 Rf4 50. Bg6 Kd5
+51. Bf7+ Rxf7 0-1
+

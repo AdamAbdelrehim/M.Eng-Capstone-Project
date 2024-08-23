@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Poblesk"]
+[Black "theberzerking"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Dv95qJX5"]
+[WhiteElo "2497"]
+[BlackElo "2537"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:12:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Qe2 Bf5 6. Nxf6+ gxf6 7. d3 Nd7
+8. Bd2 e6 9. O-O-O Be7 10. h3 Bg6 11. Bc3 Nb6 12. g4 Nd5 13. Bd2 Qc7 14. Nh4
+O-O-O 15. Ng2 h5 16. gxh5 Bxh5 17. f3 Qg3 18. Be1 Qxf3 19. Qxf3 Bxf3 20. Rd2 f5
+21. Bg3 Bg5 22. c3 Rdg8 23. Rh2 Bxd2+ 0-1
+

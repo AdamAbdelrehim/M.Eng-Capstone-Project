@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "mick_chess"]
+[Black "Agent_000"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/hpTSfzso"]
+[WhiteElo "2765"]
+[BlackElo "2801"]
+[ECO "B92"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:20:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Be6 10. Re1 Nc6 11. a3 Rc8 12. Bf3 Na5 13. Nxa5 Qxa5 14. Qd2 Qc7 15.
+h3 b5 16. g4 h6 17. Rad1 Nd7 18. Bg2 Nb6 19. Bxb6 Qxb6 20. Nd5 Bxd5 21. exd5 f5
+22. gxf5 Rxf5 23. Be4 Rf4 24. Kg2 Rcf8 25. f3 Bh4 26. Re2 Qd8 27. Kh2 Bg5 28.
+Qd3 Rh4 29. Rg1 Qd7 30. Rg4 Bf4+ 31. Kg2 Qe7 32. c4 bxc4 33. Qxc4 h5 34. Rg6
+Qd7 35. Kf1 Qxh3+ 36. Reg2 Bh6 37. Rg3 Qd7 38. Ke2 Rhf4 39. Qc6 Qd8 40. Rg6 Kh8
+41. Rxd6 Qf6 42. Rxf6 R4xf6 43. Qc5 Rd8 44. d6 Rfxd6 45. Kf2 Rd2+ 46. Kg3 R2d6
+47. Kh3 Rf6 48. Qxe5 Rdf8 49. Qxh5 Re6 50. Rg6 Ref6 51. Rxf6 Rxf6 52. Qe8+ Rf8
+53. Qxf8# 1-0
+

@@ -1,0 +1,31 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "simbelmyne-bot"]
+[Black "Hoon_Bot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/eWn07YsX"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2632"]
+[BlackElo "2900"]
+[ECO "E14"]
+[Opening "Queen's Indian Defense: Spassky System"]
+[TimeControl "600+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:15:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+
+1. Nf3 Nf6 2. e3 e6 3. c4 b6 4. d4 d5 5. Nc3 Bd6 6. cxd5 exd5 7. Bd3 O-O 8. Ne5
+c5 9. O-O Bb7 10. Nb5 Be7 11. Qf3 Ne4 12. Qh5 g6 13. Qe2 f6 14. Nf3 f5 15. Bc2
+Nd7 16. a4 a6 17. Nc3 Bd6 18. h3 Qe7 19. a5 g5 20. axb6 g4 21. hxg4 fxg4 22.
+Ne5 Bxe5 23. Nxe4 dxe4 24. dxe5 Nxe5 25. Rd1 Qh4 26. Bb3+ Kg7 27. Bd2 Rxf2 28.
+Bc3 Rxe2 29. Bxe5+ Kf8 30. Rf1+ Ke8 31. Ba4+ Ke7 32. Rad1 Bd5 33. b7 g3 34.
+Bf6+ Qxf6 35. Rxf6 Kxf6 36. bxa8=Q Bxa8 37. Bb3 Rxb2 38. Bc4 Ke5 39. Bxa6 Bd5
+40. Rc1 c4 41. Kf1 Rf2+ 42. Kg1 Ra2 43. Bb5 Rb2 44. Ba6 Rb6 45. Bc8 Rb3 46. Ba6
+Rxe3 47. Bb5 c3 48. Ba4 Bc4 49. Bc2 Re2 50. Ba4 e3 51. Rd1 Rf2 52. Bb5 e2 53.
+Rd5+ Kxd5 54. Bxc4+ Kxc4 55. Kh1 e1=Q# 0-1
+

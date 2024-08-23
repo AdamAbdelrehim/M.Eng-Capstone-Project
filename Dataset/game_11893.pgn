@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "EnisMetin"]
+[Black "ViennaDragon"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/yqnEXmIc"]
+[WhiteElo "2540"]
+[BlackElo "2533"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Kennedy Variation, Paulsen Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:12:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. e4 Nc6 2. d4 e5 3. dxe5 Nxe5 4. Nf3 Ng6 5. h4 Bc5 6. h5 Nf8 7. Bc4 h6 8.
+Bxf7+ Kxf7 9. Qd5+ Ne6 10. Ne5+ Ke8 11. Ng6 Nf6 12. Qf5 Rg8 13. e5 Nd4 14. Qd3
+Nd5 15. c3 d6 16. cxd4 Bb4+ 17. Bd2 Bxd2+ 18. Nxd2 Qg5 19. exd6 Bf5 20. Qb5+ c6
+21. Qxb7 1-0
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "MaxFifth"]
+[Black "fsalguero"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/1OO87nyN"]
+[BlackTitle "FM"]
+[WhiteElo "2380"]
+[BlackElo "2515"]
+[ECO "A57"]
+[Opening "Benko Gambit Declined: Main Line"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:05:15"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 b4 5. a3 bxa3 6. Rxa3 g6 7. Nc3 Bg7 8. e4 d6
+9. e5 dxe5 10. Nxe5 O-O 11. Be2 Nxd5 12. Qxd5 Qxd5 13. Nxd5 Bxe5 14. Nxe7+ Kg7
+15. Bf3 Re8 16. Bxa8 Rxe7 17. O-O Bd4 18. Be3 Bxb2 19. Rb3 Be5 20. Bxc5 Rc7 21.
+Rxb8 Rxc5 22. Rb5 Rxb5 23. cxb5 Bd4 24. Rc1 Be6 25. Kf1 Bb6 26. Bc6 Kf6 27. Ke2
+Ke5 28. h3 h5 29. Rc3 h4 30. Rc2 Kd4 31. Kf3 g5 32. Rd2+ Kc5 33. Re2 a5 34.
+Re5+ Kb4 0-1
+

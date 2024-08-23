@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "eugmind"]
+[Black "Asilbek_Sobirov99"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/NXZME7Ax"]
+[WhiteElo "2509"]
+[BlackElo "2407"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Lasker-Dunne Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:33:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+25"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 e5 4. c4 Nd4 5. Ne2 d6 6. Nxd4 cxd4 7. d3 Ne7 8. b4
+Nc6 9. Bd2 Be7 10. O-O O-O 11. b5 Nb8 12. a4 a5 13. bxa6 Nxa6 14. Na3 Nc5 15.
+Qc2 Bd7 16. Nb5 Bc6 17. Rfb1 Qd7 18. f4 f5 19. fxe5 fxe4 20. exd6 exd3 21. Qd1
+Bxg2 22. dxe7 Rf1+ 23. Qxf1 Bxf1 0-1
+

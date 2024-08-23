@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.22"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "cellophanebrain"]
+[Result "0-1"]
+[CurrentPosition "r2qkbnr/ppp2ppp/2np4/4P3/2B1P3/8/PPP2PPP/RNBb1K1R w kq -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-3...d6-4.d4-Bg4"]
+[UTCDate "2022.03.22"]
+[UTCTime "16:20:20"]
+[WhiteElo "1377"]
+[BlackElo "1398"]
+[TimeControl "60"]
+[Termination "cellophanebrain won by resignation"]
+[StartTime "16:20:20"]
+[EndDate "2022.03.22"]
+[EndTime "16:20:34"]
+[Link "https://www.chess.com/game/live/41704882961"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:00:59.9] } 2. Nf3
+{ [%clk 0:00:59.3] } 2... Nc6 { [%clk 0:00:59.3] } 3. Bc4 { [%clk 0:00:58.9] }
+3... d6 { [%clk 0:00:58.6] } 4. d4 { [%clk 0:00:58.5] } 4... Bg4
+{ [%clk 0:00:58.1] } 5. dxe5 { [%clk 0:00:56.7] } 5... Bxf3
+{ [%clk 0:00:56.5] } 6. Kf1 { [%clk 0:00:55.4] } 6... Bxd1 { [%clk 0:00:55.1] }
+0-1
+

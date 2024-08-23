@@ -1,0 +1,31 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ELO_1500"]
+[Black "pawn_git"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/RGFkEm9z"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2694"]
+[BlackElo "2540"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Three Knights, Vienna Variation"]
+[TimeControl "1800+10"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:54:50"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 h6 7. Bxf6 Qxf6 8.
+Bxc4 c5 9. O-O O-O 10. e5 Qd8 11. Qe2 cxd4 12. Rad1 Qa5 13. Rxd4 Bxc3 14. bxc3
+Nc6 15. Rdd1 Qxc3 16. Bd3 Rd8 17. Qe4 g6 18. h4 h5 19. Bc4 Bd7 20. Rd3 Qa5 21.
+g4 hxg4 22. Qxg4 b5 23. h5 bxc4 24. hxg6 cxd3 25. Qh5 fxg6 26. Qxg6+ Kf8 27.
+Qf6+ Ke8 28. Qh8+ Ke7 29. Qg7+ Ke8 30. Qg8+ Ke7 31. Qg7+ Ke8 32. Qg8+ Ke7 33.
+Qg5+ Ke8 34. Qh5+ Ke7 35. Qh7+ Ke8 36. Qh8+ Ke7 37. Qh7+ Ke8 38. Qg6+ Ke7 39.
+Qg5+ Ke8 40. Qg6+ Ke7 41. Qf6+ Ke8 42. Rc1 d2 43. Qh8+ Ke7 44. Qh7+ Ke8 45.
+Qg8+ Ke7 46. Qh7+ Ke8 47. Qh8+ Ke7 48. Qg7+ Ke8 49. Qg8+ Ke7 50. Qg5+ Ke8 51.
+Qg6+ Ke7 52. Qg7+ Ke8 53. Qg6+ Ke7 54. Qf6+ Ke8 55. Qg6+ 1/2-1/2
+

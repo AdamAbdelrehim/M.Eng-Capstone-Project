@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "SugarMagnolia"]
+[Black "koromarbel"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ql4Mlv6c"]
+[WhiteElo "2544"]
+[BlackElo "2412"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, Lipnitsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:34:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Qe2 Nbd7 8. f3
+b5 9. Bb3 Nc5 10. g4 Bb7 11. g5 Nfd7 12. Be3 Be7 13. h4 Rc8 14. O-O-O O-O 15.
+Kb1 Nb6 16. Rhg1 b4 17. Nd5 exd5 18. Nf5 Re8 19. Bxd5 Nxd5 20. exd5 Bf8 21. Qf2
+Qd7 22. Nh6+ Kh8 23. Bd4 Bxd5 24. Ng4 Be6 25. h5 Bxg4 26. Rxg4 Ne6 27. Be3 Kg8
+28. f4 Nc5 29. f5 Ne4 30. Qf4 Qc6 31. Rc1 Re5 32. g6 fxg6 33. hxg6 h6 34. Bd4
+Rce8 35. Bxe5 Rxe5 36. f6 Nxf6 37. Qc4+ Qxc4 38. Rxc4 a5 39. Rc8 Rg5 40. a3
+Rxg6 41. axb4 h5 42. bxa5 h4 43. a6 Nd5 44. a7 Nb6 45. Rb8 Nd7 46. Rf1 Nxb8 47.
+axb8=Q Rf6 48. Rxf6 1-0
+

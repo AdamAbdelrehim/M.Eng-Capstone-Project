@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ekfj4cxjx8vkco0acjx2"]
+[Black "Gertrude_Weichsel"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/xIHtZcG8"]
+[WhiteElo "2773"]
+[BlackElo "2603"]
+[ECO "C47"]
+[Opening "Four Knights Game"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:08:50"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. h3 d5 5. exd5 Nxd5 6. Bb5 Nxc3 7. bxc3 Bd6 8.
+O-O O-O 9. Re1 Bd7 10. Bxc6 Bxc6 11. Nxe5 Bd5 12. c4 Be6 13. d3 Re8 14. Bb2 Qg5
+15. Qf3 b6 16. Re3 Bc5 17. d4 Bd6 18. Rae1 h6 19. d5 Bf5 20. g4 Bg6 21. Nxg6
+Rxe3 22. Rxe3 Qxg6 23. Qe2 f6 24. Kg2 Qg5 25. Bc1 Qg6 26. Re6 h5 27. f4 hxg4
+28. hxg4 Kf7 29. Be3 Rh8 30. Bf2 Qh7 31. Bg3 Qh1+ 32. Kf2 Rh2+ 33. Bxh2 Qxh2+
+34. Kf3 Qxf4+ 35. Kg2 Qh2+ 36. Kf3 Qh3+ 37. Ke4 Be5 38. Qf3 Qh7+ 39. Qf5 Qh1+
+40. Qf3 Qe1+ 41. Kd3 Qc3+ 42. Ke4 Qxc4+ 43. Ke3 Qc3+ 44. Kf2 Qxc2+ 45. Kf1 Qb1+
+46. Kg2 Qxa2+ 47. Kf1 Qb1+ 48. Kg2 Qc2+ 49. Kf1 Qc4+ 50. Kg2 Qc2+ 51. Kf1 a5
+52. Rxe5 Qb1+ 53. Kf2 Qb2+ 54. Re2 Qd4+ 55. Qe3 Qxg4 56. Qe8# 1-0
+

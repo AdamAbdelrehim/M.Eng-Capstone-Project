@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Miguelss"]
+[Black "checmeit"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/hTnL06km"]
+[WhiteTitle "NM"]
+[WhiteElo "2564"]
+[BlackElo "2596"]
+[ECO "A05"]
+[Opening "Zukertort Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:15:39"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. Nf3 Nf6 2. g3 b6 3. Bg2 Bb7 4. O-O g6 5. d3 d5 6. Nc3 Bg7 7. e4 dxe4 8. Ng5
+Qd7 9. dxe4 O-O 10. e5 Bxg2 11. exf6 exf6 12. Kxg2 fxg5 13. Bxg5 Qc6+ 14. Qf3
+Qxf3+ 15. Kxf3 Nc6 16. Be3 Ne5+ 17. Ke2 Nc4 18. Bc1 Rfe8+ 19. Kf3 Rad8 20. Rb1
+Bxc3 21. bxc3 Nd2+ 22. Bxd2 Rxd2 23. Rbc1 Ree2 24. h4 h5 25. c4 Rxc2 26. Rxc2
+Rxc2 27. Rd1 Rxc4 28. Rd7 a5 29. Ke3 a4 30. Kd3 b5 31. Rd5 c6 32. Rd6 Kf8 33.
+Rd7 Ke8 34. Rc7 Kf8 35. Rd7 Kg7 36. Rd6 Rc5 37. Kd4 Rc2 38. a3 Rd2+ 39. Kc5
+Rxd6 40. Kxd6 b4 41. axb4 a3 42. Kxc6 a2 43. b5 a1=Q 44. b6 Qc3+ 45. Kb7 Kf6
+46. Ka7 Qa5+ 47. Kb7 Ke7 48. Kc7 Qc5+ 49. Kb7 Kd7 50. Ka7 Kc6 51. Ka8 0-1
+

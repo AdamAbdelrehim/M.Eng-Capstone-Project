@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Zakharov_s_d"]
+[Black "Bierblitz"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/gXhqCBfw"]
+[WhiteElo "2449"]
+[BlackElo "2528"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Dutch Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:02:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. b3 f5 2. Bb2 Nf6 3. e3 d6 4. h3 e5 5. g4 fxg4 6. hxg4 Bxg4 7. f3 Be6 8. Bh3
+Qd7 9. Qe2 Nc6 10. Nc3 O-O-O 11. O-O-O Kb8 12. Bxe6 Qxe6 13. Nh3 Be7 14. Rdg1
+g6 15. Ng5 Qg8 16. e4 h6 17. Nh3 g5 18. Nb5 a6 19. Nc3 Qe6 20. Qe3 Rdf8 21. Ne2
+Nh5 22. Ng3 Nf4 23. Nf5 Bf6 24. Kb1 Ne7 25. Nxe7 Bxe7 26. Nxf4 exf4 27. Qe2 Bf6
+28. d4 h5 29. c4 Rfg8 30. b4 g4 31. b5 axb5 32. cxb5 g3 33. b6 cxb6 34. Qb5 Bd8
+35. Rxh5 Rxh5 36. Qxh5 Qc4 37. Qh7 g2 38. d5 Qf1+ 39. Bc1 Rg3 40. Qd7 Qxg1 41.
+Qxd8+ Ka7 42. Qxd6 Qxc1+ 43. Kxc1 g1=Q+ 44. Kb2 Qc5 45. Qxf4 Rg2+ 46. Kb3 Rc2
+47. a4 Qc4+ 48. Ka3 Ra2# 0-1
+

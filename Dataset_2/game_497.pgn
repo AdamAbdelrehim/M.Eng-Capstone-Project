@@ -1,0 +1,36 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.26"]
+[Round "-"]
+[White "Jackga217"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "3r1b1r/pppk2pp/2np4/8/6P1/3Q1N1P/PPP2P2/R3K2R w KQ -"]
+[Timezone "UTC"]
+[ECO "A40"]
+[ECOUrl "https://www.chess.com/openings/Englund-Gambit-2.dxe5"]
+[UTCDate "2021.02.26"]
+[UTCTime "01:48:06"]
+[WhiteElo "1130"]
+[BlackElo "1292"]
+[TimeControl "1800"]
+[Termination "Jackga217 won by resignation"]
+[StartTime "01:48:06"]
+[EndDate "2021.02.26"]
+[EndTime "01:51:12"]
+[Link "https://www.chess.com/game/live/8043199481"]
+
+1. d4 { [%clk 0:30:00] } 1... e5 { [%clk 0:30:00] } 2. dxe5
+{ [%clk 0:29:53.2] } 2... Ke7 { [%clk 0:29:59.2] } 3. Bf4 { [%clk 0:29:50.7] }
+3... f6 { [%clk 0:29:03.5] } 4. exf6+ { [%clk 0:29:47.5] } 4... Nxf6
+{ [%clk 0:28:57.9] } 5. Nd2 { [%clk 0:29:42.8] } 5... d6 { [%clk 0:28:52] } 6.
+Ngf3 { [%clk 0:29:39.9] } 6... Bg4 { [%clk 0:28:48.5] } 7. h3
+{ [%clk 0:29:35.7] } 7... Bh5 { [%clk 0:28:40.9] } 8. g4 { [%clk 0:29:31.7] }
+8... Bg6 { [%clk 0:28:39.6] } 9. e4 { [%clk 0:29:28.4] } 9... Nxe4
+{ [%clk 0:28:29.6] } 10. Bd3 { [%clk 0:29:22.2] } 10... Nxd2
+{ [%clk 0:28:22.3] } 11. Qxd2 { [%clk 0:29:18.6] } 11... Bxd3
+{ [%clk 0:28:22.2] } 12. Qxd3 { [%clk 0:29:15.8] } 12... Nc6
+{ [%clk 0:28:09.2] } 13. Bg5+ { [%clk 0:29:13.1] } 13... Kd7
+{ [%clk 0:28:01.4] } 14. Bxd8 { [%clk 0:29:10.2] } 14... Rxd8
+{ [%clk 0:27:59.4] } 1-0
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "skonov"]
+[Black "topiatwins"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/jErBdjZl"]
+[BlackTitle "NM"]
+[WhiteElo "2448"]
+[BlackElo "2577"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "02:03:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 g6 4. Nc3 Nc6 5. h4 h5 6. Nb5 Bg4 7. f3 e5 8. dxe5 a6
+9. exf6 axb5 10. fxg4 Qxf6 11. c3 hxg4 12. Bxb5 Rxh4 13. Rxh4 Qxh4+ 14. Kf1 g5
+15. Qxd5 gxf4 16. Bxc6+ bxc6 17. Qxc6+ Ke7 18. Qxa8 fxe3 19. Qe4+ 1-0
+

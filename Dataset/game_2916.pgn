@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Boreminator"]
+[Black "MattLoncke"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/hz2lxABE"]
+[WhiteElo "2524"]
+[BlackElo "2525"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Symmetrical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:35:52"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+
+1. b3 b6 2. Bb2 Bb7 3. e3 e6 4. Nf3 f5 5. g3 Nf6 6. Bg2 g6 7. O-O Bg7 8. c4 O-O
+9. Nc3 d6 10. Rc1 Nbd7 11. b4 Qe7 12. Qc2 a5 13. a3 axb4 14. axb4 Rab8 15. Ra1
+Ra8 16. d3 e5 17. Nb5 c6 18. Nc3 Rxa1 19. Rxa1 Ra8 20. Rxa8+ Bxa8 21. Qa4 Qe8
+22. Nd2 Qc8 23. Ba3 Bb7 24. b5 c5 25. Qa7 Bxg2 26. Kxg2 Qb8 27. Qa6 Kf7 28. Nd5
+Nxd5 29. cxd5 Bf6 30. Nc4 Bd8 31. e4 Bc7 32. Bc1 Nf6 33. f3 Nd7 34. Bg5 Kg7 35.
+Bd2 h6 36. Ne3 fxe4 37. dxe4 Nf6 38. Nc4 Nd7 39. Bc3 Kf7 40. h3 Kg8 41. f4 exf4
+42. gxf4 Qe8 43. Kf3 Qb8 44. h4 Kf7 45. h5 gxh5 46. Ne3 Qg8 47. Qb7 Qb8 48. Qc6
+Nf8 49. Nf5 Qc8 50. Nxh6+ Kg6 51. Nf5 Kh7 52. Bf6 Ng6 53. Bg5 Kh8 54. Bf6+ Kh7
+55. Kg3 h4+ 56. Nxh4 Nxh4 57. Bxh4 Qg8+ 58. Bg5 Qf7 59. e5 dxe5 60. Qh6+ Kg8
+61. d6 exf4+ 62. Bxf4 Bd8 63. Kg4 Qd7+ 64. Kh5 Qf7+ 65. Qg6+ Qxg6+ 66. Kxg6 Kf8
+67. Be5 Ke8 68. Kf5 Kd7 69. Ke4 Bh4 70. Kd5 Be1 71. Bf6 Bd2 72. Bd8 Bf4 73.
+Bxb6 Bxd6 74. Bxc5 Bxc5 75. Kxc5 Kc7 76. b6+ Kb7 77. Kb5 Kb8 78. Kc5 Kc8 79.
+Kc6 Kb8 80. b7 Ka7 81. Kc7 Ka6 82. b8=Q 1-0
+

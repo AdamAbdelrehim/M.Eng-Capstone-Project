@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "El_Sudaca"]
+[Black "mowilli"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/eRUDHTLP"]
+[WhiteElo "2423"]
+[BlackElo "2537"]
+[ECO "A51"]
+[Opening "Indian Defense: Budapest Defense, Fajarowicz Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:21:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ne4 4. Nf3 Nc6 5. Nbd2 Nc5 6. Nb3 Nxb3 7. Qxb3 Bb4+
+8. Bd2 Bxd2+ 9. Kxd2 Qe7 10. Qc3 O-O 11. e3 Re8 12. Bd3 b6 13. Be4 Bb7 14. Rad1
+Rab8 15. Kc2 Nb4+ 16. Kb3 Bxe4 17. Qxb4 Bc2+ 18. Kc3 Qxb4+ 19. Kxb4 a5+ 20. Kc3
+Bxd1 21. Rxd1 Re7 22. a3 Kf8 23. b4 axb4+ 24. axb4 Ra8 25. Kb3 Ke8 26. b5 h6
+27. h4 h5 28. Kb2 g6 29. Kb3 Re6 30. Kb2 Ke7 31. Kb3 Ra5 32. Kb2 Ra7 33. Kb3
+Ra8 34. Kb2 c5 35. bxc6 Rxc6 36. Kb3 Rc5 37. e4 b5 38. Rd5 Rxc4 39. Rxb5 Rxe4
+40. Rb7 Ra1 41. Kb2 Rd1 42. Kc3 Rd5 43. Ra7 Re2 44. Kc4 Rd1 45. Rb7 Rc2+ 0-1
+

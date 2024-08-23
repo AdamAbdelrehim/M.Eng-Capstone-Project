@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "tacticstrategy2"]
+[Black "durasno"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/LzGG7RiJ"]
+[WhiteElo "2398"]
+[BlackElo "2528"]
+[ECO "C10"]
+[Opening "French Defense: Rubinstein Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:51:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ Qxf6 6. Nf3 h6 7. g3 Nc6 8.
+Bg2 Bd6 9. O-O O-O 10. c4 Rd8 11. Be3 Bc5 12. d5 Bxe3 13. fxe3 exd5 14. cxd5
+Qxb2 15. dxc6 Rxd1 16. Rfxd1 bxc6 17. Nd4 Bg4 18. Rdc1 Qd2 19. Re1 Re8 20. h3
+Rxe3 21. hxg4 Rxe1+ 0-1
+

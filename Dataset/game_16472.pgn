@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "RRS03"]
+[Black "manneredmonkey"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/codefduL"]
+[WhiteTitle "FM"]
+[BlackTitle "NM"]
+[WhiteElo "2565"]
+[BlackElo "2565"]
+[ECO "B09"]
+[Opening "Pirc Defense: Austrian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "01:59:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. e4 d6 2. Nc3 Nf6 3. d4 g6 4. f4 Bg7 5. e5 Nfd7 6. Nf3 c5 7. Be3 cxd4 8. Bxd4
+Nc6 9. e6 Nxd4 10. exd7+ Bxd7 11. Nxd4 Qb6 12. Nb3 O-O 13. Be2 e6 14. Qd2 a5
+15. a4 Rfc8 16. Bf3 d5 17. Qf2 d4 18. Ne4 Qb4+ 19. Qd2 Rxc2 20. Qxb4 axb4 21.
+Nec5 Bc6 22. Bxc6 bxc6 23. a5 Bf8 24. Nd3 c5 25. Rc1 Rxc1+ 26. Ndxc1 c4 27.
+Nxd4 Rxa5 28. Kd2 Bg7 29. Nce2 Ra2 30. Kc2 c3 31. Rb1 g5 32. fxg5 e5 33. Nf5
+Bh8 34. Kb3 Ra8 35. bxc3 bxc3 36. Nxc3 e4 37. Nxe4 Be5 38. Nf6+ Kh8 39. h4 h6
+40. Nxh6 Kg7 41. Nhg4 Bf4 42. Rf1 Bd2 43. Kc2 Ra2+ 44. Kb3 Ra8 45. Nh5+ Kg6 46.
+Ng3 Kg7 47. Rf6 Rb8+ 48. Kc2 Be1 49. Nf5+ Kf8 50. g6 Rc8+ 51. Kd1 Rc7 52. g7+
+1-0
+

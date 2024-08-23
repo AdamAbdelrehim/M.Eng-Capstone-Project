@@ -1,0 +1,39 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.28"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Vitoshki"]
+[Result "1-0"]
+[CurrentPosition "rn4k1/3r1qpp/1pp2p2/4p3/2B1P3/1Q3N2/PPP2PPP/R3K2R b KQ -"]
+[Timezone "UTC"]
+[ECO "C40"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Damiano-Defense"]
+[UTCDate "2021.01.28"]
+[UTCTime "04:57:51"]
+[WhiteElo "1190"]
+[BlackElo "1217"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won - game abandoned"]
+[StartTime "04:57:51"]
+[EndDate "2021.01.28"]
+[EndTime "05:09:27"]
+[Link "https://www.chess.com/game/live/6370434673"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:53.5] } 2. Nf3
+{ [%clk 0:09:58.9] } 2... f6 { [%clk 0:09:51.4] } 3. d4 { [%clk 0:09:56.5] }
+3... d6 { [%clk 0:09:48.3] } 4. Nc3 { [%clk 0:09:49.9] } 4... c6
+{ [%clk 0:09:44.3] } 5. d5 { [%clk 0:09:37.8] } 5... Bg4 { [%clk 0:09:33.5] }
+6. dxc6 { [%clk 0:09:32.3] } 6... bxc6 { [%clk 0:09:30.2] } 7. Be2
+{ [%clk 0:09:30.7] } 7... Bd7 { [%clk 0:09:25.9] } 8. Be3 { [%clk 0:09:19.6] }
+8... Ne7 { [%clk 0:09:21] } 9. Qxd6 { [%clk 0:09:09.8] } 9... Nc8
+{ [%clk 0:09:17.6] } 10. Qd2 { [%clk 0:08:52.4] } 10... Bb4 { [%clk 0:08:53] }
+11. Qd3 { [%clk 0:08:42.5] } 11... O-O { [%clk 0:08:31.4] } 12. Bd2
+{ [%clk 0:08:20.1] } 12... Rf7 { [%clk 0:08:19.6] } 13. Na4
+{ [%clk 0:07:58.3] } 13... Ba5 { [%clk 0:08:00.4] } 14. Bxa5
+{ [%clk 0:07:40.3] } 14... Qe8 { [%clk 0:04:49.1] } 15. Nc5
+{ [%clk 0:07:16.4] } 15... Nb6 { [%clk 0:04:38.8] } 16. Nxd7 { [%clk 0:07:09] }
+16... Rxd7 { [%clk 0:04:36.2] } 17. Qb3+ { [%clk 0:07:02.3] } 17... Qf7
+{ [%clk 0:04:15.4] } 18. Bxb6 { [%clk 0:06:48.4] } 18... axb6
+{ [%clk 0:04:11.9] } 19. Bc4 { [%clk 0:06:45.9] } 1-0
+

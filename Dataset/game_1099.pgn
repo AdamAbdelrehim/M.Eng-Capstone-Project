@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Kairatkost1986"]
+[Black "soosoo01"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/3Z0kLiq0"]
+[WhiteElo "2419"]
+[BlackElo "2511"]
+[ECO "A09"]
+[Opening "Réti Opening: Advance Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:18:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+30"]
+
+1. Nf3 d5 2. c4 d4 3. b4 Nf6 4. Bb2 c5 5. e3 dxe3 6. fxe3 cxb4 7. d4 e6 8. c5
+b6 9. Qa4+ Bd7 10. Qxb4 bxc5 11. dxc5 Nc6 12. Qa3 Ne4 13. Bd4 Rc8 14. Bd3 Nxd4
+15. exd4 Nxc5 16. dxc5 Bxc5 17. Qb2 Bc6 18. Bb5 Qa5+ 19. Nc3 O-O 20. Rc1 Bxf3
+21. gxf3 Ba3 0-1
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "dubic"]
+[Black "tottenham-hotspur"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/9PihVxjC"]
+[WhiteElo "2461"]
+[BlackElo "2507"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:34:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6 7. Bd3 h6 8. Bh4
+Nbd7 9. Nge2 O-O 10. Qc2 Re8 11. O-O Ne4 12. Bxe7 Qxe7 13. Bxe4 dxe4 14. Rfd1
+Nf6 15. d5 cxd5 16. Nxd5 Nxd5 17. Rxd5 Be6 18. Rd4 f5 19. b3 Rac8 20. Qb2 Bf7
+21. Rad1 Rc7 22. Ng3 g6 23. Ne2 Rec8 24. g3 Rc2 0-1
+

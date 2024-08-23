@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "toomanymanoevres"]
+[Black "bob_2004"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/huhe5GeL"]
+[BlackTitle "FM"]
+[WhiteElo "2924"]
+[BlackElo "2721"]
+[ECO "A14"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:15:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. Nf3 Be7 5. O-O O-O 6. b3 d4 7. e3 c5 8. Ne5
+Nbd7 9. exd4 cxd4 10. Nxd7 Nxd7 11. d3 e5 12. Qe2 Re8 13. Na3 Nc5 14. Bb2 Bf5
+15. Qxe5 Bxd3 16. Rfd1 Bg6 17. Qxd4 Qxd4 18. Bxd4 Ne6 19. Bb2 Rab8 20. Nb5 a6
+21. Nd6 1-0
+

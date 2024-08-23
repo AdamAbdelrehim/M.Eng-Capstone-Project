@@ -1,0 +1,36 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "YoBot_v2"]
+[Black "RaspFish"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/yG4JOrdZ"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3052"]
+[BlackElo "3036"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Defense"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "06:31:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+
+1. d4 g6 2. e4 d6 3. Nc3 Bg7 4. Be3 c6 5. f4 Nf6 6. h3 O-O 7. Nf3 Nbd7 8. e5
+Nd5 9. Nxd5 cxd5 10. Bd3 Qb6 11. Qd2 dxe5 12. fxe5 f6 13. O-O-O fxe5 14. dxe5
+Qc7 15. Bb5 e6 16. Bxd7 Bxd7 17. Kb1 Rac8 18. Bd4 a5 19. Rhe1 Be8 20. Rc1 b5
+21. Nh2 h5 22. Nf3 b4 23. c3 Qb7 24. cxb4 Rxc1+ 25. Rxc1 Qxb4 26. Bc3 Qe4+ 27.
+Ka1 Qf4 28. Bxa5 g5 29. Qxf4 Rxf4 30. Bd2 Rf5 31. Bxg5 Bxe5 32. Re1 Bg7 33.
+Rxe6 Bb5 34. Bh6 Bf6 35. Bg5 Bg7 36. Re1 d4 37. a3 Rc5 38. Bf4 d3 39. Rc1 Rc2
+40. Rxc2 dxc2 41. Ne1 Bf1 42. Nxc2 Bxg2 43. h4 Bf6 44. Bg3 Kf7 45. Kb1 Bc6 46.
+b3 Ke6 47. Ne3 Bd4 48. Nc4 Be4+ 49. Kc1 Bc5 50. Kd2 Kd5 51. Kc3 Bd4+ 52. Kd2
+Bc5 53. Kc3 Bd4+ 54. Kb4 Bc2 55. a4 Bc5+ 56. Kc3 Bd1 57. Nd2 Be3 58. Nb1 Bd4+
+59. Kb4 Bc5+ 60. Kb5 Be2+ 61. Ka5 Kc6 62. Bf4 Bd3 63. Nd2 Bc2 64. Bg5 Bd6 65.
+Nf3 Bd1 66. Nd4+ Kd5 67. Nb5 Bxb3 68. Nxd6 Kxd6 69. Bc1 Bd1 70. Bb2 Bc2 71. Kb5
+Bb1 72. a5 Ba2 73. a6 Bb1 74. a7 Bd3+ 75. Kb6 Be4 76. Ba3+ Kd7 77. Bc5 Bh1 78.
+a8=Q Bxa8 79. Bg1 Bh1 80. Bf2 Bg2 81. Be1 Bf1 82. Bd2 Be2 83. Bc1 Bd1 84. Bb2
+Bc2 85. Ba1 Bb1 86. Kc5 Ba2 87. Bb2 Bb1 88. Ba1 Ba2 89. Bb2 Bb1 90. Ba1 1/2-1/2
+

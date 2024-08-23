@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "evilhamburger"]
+[Black "Grandstodge"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/RY4DQZBz"]
+[WhiteElo "2648"]
+[BlackElo "2531"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation, Monte Carlo Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:29:50"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Bb4+ 5. Nc3 Nf6 6. Nf3 O-O 7. Bd3 Bg4 8.
+Be3 dxc4 9. Bxc4 Nbd7 10. O-O Nb6 11. Be2 c6 12. Ne5 Bxe2 13. Qxe2 Nbd5 14.
+Rac1 Bd6 15. Bg5 Be7 16. f4 h6 17. Bh4 Re8 18. Qf3 Nxc3 19. bxc3 Nd5 20. Bf2 f6
+21. Ng6 Bd6 22. c4 Ne7 23. f5 Nxg6 24. fxg6 Qc7 25. g3 b6 26. c5 bxc5 27. dxc5
+Be5 28. Rfd1 Rad8 29. Rxd8 Rxd8 30. Rd1 Rxd1+ 31. Qxd1 Kf8 32. Qb3 f5 33. Qe6
+f4 34. gxf4 Bxf4 35. Bh4 Bg5 36. Bg3 Qe7 37. Bd6 1-0
+

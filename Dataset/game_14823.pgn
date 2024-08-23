@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "VoinTeka"]
+[Black "luoaR"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/j9EWIQmP"]
+[WhiteElo "2578"]
+[BlackElo "2517"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Main Line"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:11:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 c6 4. Nxe4 e5 5. dxe5 Qxd1+ 6. Kxd1 Be6 7. Bd3 Nd7
+8. f4 O-O-O 9. Be3 c5 10. b3 Bd5 11. Ke2 f6 12. exf6 Ngxf6 13. Nxf6 Nxf6 14.
+Nf3 Bd6 15. h3 Rhe8 16. Kf2 Nh5 17. Bxh7 Nxf4 18. Bf5+ Kc7 19. Rhe1 Rf8 20. Bg4
+Rf6 21. Rad1 Rdf8 22. Bxf4 1-0
+

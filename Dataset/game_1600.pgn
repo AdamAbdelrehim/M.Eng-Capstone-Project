@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Lopuh99"]
+[Black "Stormeman100100"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/kZOJ4ZE6"]
+[BlackTitle "IM"]
+[WhiteElo "2625"]
+[BlackElo "2598"]
+[ECO "C00"]
+[Opening "French Defense: Two Knights Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:19:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nd7 5. Bc4 Ngf6 6. Qe2 Nxe4 7. Qxe4 Nf6
+8. Qe2 c5 9. O-O Be7 10. d4 cxd4 11. Rd1 O-O 12. Bf4 Nd5 13. Bg3 b6 14. Rxd4
+Bb7 15. Rad1 Qc8 16. Bb3 Bf6 17. Ne5 Rd8 18. Rc4 Nc7 19. Nxf7 Rxd1+ 20. Qxd1
+1-0
+

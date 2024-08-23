@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "HomeAp"]
+[Black "NoahSkyler"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/gFxb2Weh"]
+[WhiteElo "2589"]
+[BlackElo "2581"]
+[ECO "A43"]
+[Opening "Benoni Defense: Old Benoni"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "04:01:00"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 c5 2. c3 cxd4 3. cxd4 d5 4. Nc3 Nc6 5. Nf3 Nf6 6. Bg5 e6 7. e3 Be7 8. Bd3
+h6 9. Bh4 a6 10. O-O b5 11. Rc1 Bb7 12. Ne2 Rc8 13. Ne5 Nxe5 14. dxe5 Nd7 15.
+Bxe7 Qxe7 16. f4 Rxc1 17. Qxc1 Qc5 18. Nd4 Ke7 19. Qd2 Rc8 20. a3 f6 21. Qf2
+fxe5 22. fxe5 Nxe5 23. Qh4+ g5 24. Qxh6 Nxd3 25. Qxe6+ Kd8 26. Qg8+ Kc7 27.
+Qh7+ Kb8 28. Qxd3 Qc4 29. Qf5 Re8 30. Qxg5 Qd3 31. Re1 Qd2 32. Re2 Qc1+ 33. Kf2
+Rf8+ 34. Kg3 Qc7+ 35. Kh4 Qxh2+ 36. Kg4 Qh7 37. Qe5+ Ka8 38. Ne6 Qg6+ 39. Ng5
+Rg8 0-1
+

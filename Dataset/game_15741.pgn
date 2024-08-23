@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "sapphire_phoenix"]
+[Black "starbox2010"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/AzqxyexI"]
+[WhiteElo "2766"]
+[BlackElo "2678"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Milner-Barry Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:29:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. Re1
+Rc8 9. Nbd2 dxc3 10. bxc3 Na5 11. Rb1 Qc7 12. Nb3 Nxb3 13. axb3 Ne7 14. Be3 Nc6
+15. b4 h6 16. b5 Na5 17. Nd4 b6 18. Qg4 Qxc3 19. Bf1 Nc4 20. Rec1 Nxe3 21. Qf4
+Qxc1 22. Rxc1 Rxc1 23. Qxe3 Rc7 24. Qg3 g6 25. h4 h5 26. Bd3 Bc5 27. Nf3 Be7
+28. Qf4 Rc3 29. Qd2 Rc5 30. Qa2 Rc7 31. Qd2 Kd8 32. g3 Kc8 33. Qf4 Rf8 34. Nd4
+Kb8 35. Be2 Bc5 36. Nc6+ Bxc6 37. bxc6 Rxc6 38. Bd3 Rc7 39. Kg2 a5 40. Bb5 Ka7
+41. Qa4 Rfc8 42. Bd7 Rd8 43. Bb5 Bb4 44. Bd3 Rc5 45. Kh3 d4 46. Be4 d3 47. Bf3
+d2 48. Qb3 Rc3 49. Qd1 Rxf3 50. Qxf3 d1=Q 51. Qxf7+ Qd7 52. Qxg6 Be1 53. Qe4
+Bxf2 0-1
+

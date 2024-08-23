@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "AlexeyLV"]
+[Black "idefixfix"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/OAPakIv7"]
+[WhiteElo "2575"]
+[BlackElo "2470"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Slav Formation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:33:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. g3 d5 2. Bg2 c6 3. d3 g6 4. Nf3 Bg7 5. O-O Nf6 6. Nbd2 O-O 7. e4 dxe4 8.
+dxe4 Nbd7 9. e5 Nd5 10. e6 fxe6 11. Qe2 e5 12. Nc4 Qc7 13. Re1 Nb4 14. c3 Nd5
+15. Bd2 b6 16. Ncxe5 Nxe5 17. Nxe5 Bf5 18. c4 Nf6 19. Nxc6 Rae8 20. Bc3 e5 21.
+Nxe5 Ne4 22. Bxe4 Bxe5 23. Bd5+ 1-0
+

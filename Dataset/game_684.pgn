@@ -1,0 +1,31 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Nikitosik-ai"]
+[Black "YoBot_v2"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/IpTNe8A1"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2679"]
+[BlackElo "2747"]
+[ECO "D38"]
+[Opening "Queen's Gambit Declined: Ragozin Defense"]
+[TimeControl "1500+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:08:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8. Qb3
+c5 9. cxd5 exd5 10. dxc5 Bxc3+ 11. Qxc3 Qxc3+ 12. bxc3 Nd7 13. Rd1 Nf6 14. Nd4
+Bd7 15. f3 Rfc8 16. Nb3 Ba4 17. Rd4 Bxb3 18. axb3 Rxc5 19. Kd2 Rac8 20. Bd3 a5
+21. h4 R8c7 22. Rc1 Kf8 23. Rc2 g5 24. b4 axb4 25. Rxb4 Nd7 26. Bb5 Ne5 27. Be2
+Ng6 28. h5 Nh4 29. g4 Ng2 30. Bf1 Nh4 31. f4 d4 32. exd4 Nf3+ 33. Kd1 Rxc3 34.
+Rxc3 Rxc3 35. fxg5 Nxg5 36. Be2 Nf3 37. Bxf3 Rxf3 38. Kd2 Rf4 39. Kd3 Rxg4 40.
+Rxb7 Rg5 41. Kc4 Rxh5 42. d5 f6 43. d6 Rh1 44. Rb2 f5 45. d7 Rc1+ 46. Kb3 Rd1
+47. Rf2 Rxd7 48. Rxf5+ Ke7 49. Rf1 h5 50. Rh1 h4 51. Rxh4 Rd1 52. Rh2 Ra1 53.
+Ra2 Rxa2 54. Kxa2 1/2-1/2
+

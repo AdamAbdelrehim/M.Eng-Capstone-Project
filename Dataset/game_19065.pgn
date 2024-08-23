@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Gvierous-Lady"]
+[Black "FabienLibiszewski"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/RW0Jjq3n"]
+[BlackTitle "GM"]
+[WhiteElo "2526"]
+[BlackElo "2588"]
+[ECO "E91"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:21:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 d6 4. d4 Bg7 5. Be2 O-O 6. Nf3 c5 7. d5 e6 8. dxe6
+Bxe6 9. Bf4 Nc6 10. Qxd6 Qb6 11. Bc1 Rad8 12. Qf4 Nh5 13. Qe3 Nb4 0-1
+

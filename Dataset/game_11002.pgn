@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ChessatronBot"]
+[Black "bot_adario"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Zysye2dx"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2449"]
+[BlackElo "2617"]
+[ECO "B36"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+[TimeControl "180+3"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:00:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Nf6 6. Nc3 d6 7. Nxc6 bxc6 8.
+h3 Bg7 9. Qa4 O-O 10. Be3 Rb8 11. O-O-O c5 12. e5 Nd7 13. exd6 Bxc3 14. bxc3
+exd6 15. Rxd6 Qe7 16. Rd2 Ne5 17. Rb2 Bf5 18. Rb5 a6 19. Qxa6 Qh4 20. Qa4 Rxb5
+21. Qxb5 Qe4 22. Qb2 Kg7 23. f3 Qxe3+ 24. Qd2 Qxd2+ 25. Kxd2 Ra8 26. f4 Nd7 27.
+g4 Be4 28. Rg1 Rxa2+ 29. Ke3 Bc6 30. Be2 Ra3 31. Kd3 Kg8 32. Rg3 Ra8 33. Re3
+Kf8 34. h4 h6 35. g5 hxg5 36. hxg5 Re8 37. Rh3 Be4+ 38. Kd2 Nb6 39. Kc1 Bf5 40.
+Rh8+ Ke7 41. Rxe8+ Kxe8 42. Kb2 f6 43. gxf6 Kf7 44. Bf3 Nxc4+ 45. Kc1 Kxf6 46.
+Be2 Nd6 47. Ba6 Ke6 48. Be2 Kd5 49. Kd2 Ke4 50. Bf1 Kxf4 51. Bg2 Be4 52. Bh3 g5
+53. Bd7 Bf5 54. Bc6 Ne4+ 55. Ke1 Nxc3 56. Bg2 Ke3 57. Bh3 g4 58. Bf1 Be4 59.
+Bc4 g3 60. Bf1 Ne2 61. Kd1 g2 62. Bxg2 Bxg2 63. Kc2 c4 64. Kb2 Kd4 65. Ka3 c3
+66. Kb3 Bc6 67. Kb4 c2 68. Kb3 c1=Q 69. Ka2 Bd5# 0-1
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "VoinTeka"]
+[Black "CarlosPujol"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/iwFn5Ycr"]
+[BlackTitle "FM"]
+[WhiteElo "2559"]
+[BlackElo "2510"]
+[ECO "D01"]
+[Opening "Richter-Veresov Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:36:18"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e4 dxe4 6. Bb5+ Bd7 7. dxc5 Qa5
+8. Qe2 f5 9. Qc4 Bg7 10. Ne2 Bxb5 11. Qxb5+ Qxb5 12. Nxb5 Na6 13. O-O-O Rc8 14.
+Nxa7 Rxc5 15. Nd4 e6 16. Nab5 Ke7 17. Kb1 Rd8 18. c3 Rcd5 19. Kc2 R5d7 20. Nb3
+f4 21. Rxd7+ Rxd7 22. Rd1 f5 23. Rxd7+ Kxd7 24. Na5 Be5 25. b4 f3 26. gxf3 Bxh2
+27. fxe4 fxe4 28. Kd2 Bf4+ 29. Ke2 h5 30. a4 b6 31. Nc4 Kc6 32. Nd4+ Kb7 33.
+Nxe6 Bh6 34. Nd6+ Kc6 35. Nxe4 Kd5 36. N6g5 Kc4 37. f4 Nc7 38. Kf3 Nd5 39. Nf7
+Bg7 40. Ne5+ Kb3 41. Nd7 Kxa4 42. c4 Nxb4 43. Nxb6+ Kb3 44. c5 Nc6 45. Nd6 Kb4
+46. Nd7 Nd4+ 47. Ke4 Ne6 48. c6 1-0
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "loasis"]
+[Black "cn_ua"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/MF5oObNI"]
+[BlackTitle "IM"]
+[WhiteElo "2459"]
+[BlackElo "2622"]
+[ECO "A56"]
+[Opening "Benoni Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:47:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. c4 c5 3. e3 g6 4. Nf3 Bg7 5. Nc3 O-O 6. Be2 cxd4 7. Nxd4 d5 8. O-O
+Nc6 9. Nxc6 bxc6 10. cxd5 cxd5 11. Bf3 Bb7 12. Bd2 e6 13. Rc1 Rc8 14. b3 Qe7
+15. Qe2 Rfd8 16. Na4 Qd6 17. Rxc8 Rxc8 18. Rc1 Rxc1+ 19. Bxc1 Qc6 20. Bb2 Ba6
+21. Qd2 Qb5 22. h3 h5 23. Nc3 Qf1+ 24. Kh2 Nd7 25. Na4 Ne5 26. Nc5 Nxf3+ 27.
+gxf3 Be2 28. Kg3 g5 29. Qc1 Bxb2 0-1
+

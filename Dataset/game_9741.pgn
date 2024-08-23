@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "zombieblitz"]
+[Black "BenHascom"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/b2critFV"]
+[WhiteElo "2482"]
+[BlackElo "2562"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Three Knights Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:51:47"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 a6 5. cxd5 exd5 6. Bg5 Be6 7. e3 Nbd7 8.
+Bd3 Bd6 9. O-O c6 10. Rc1 Qc7 11. h3 h6 12. Bxf6 Nxf6 13. e4 dxe4 14. Bxe4 Bf4
+15. Rc2 Nxe4 16. Nxe4 O-O 17. Nc5 Bf5 18. Re2 Rad8 19. Rfe1 Bd6 20. Qb3 Bc8 21.
+Ne5 b6 22. Ncd3 c5 23. dxc5 bxc5 24. Nf4 Rfe8 25. Nxf7 Rxe2 26. Nxh6+ Kh8 27.
+Rxe2 Bxf4 28. Nf7+ Qxf7 0-1
+

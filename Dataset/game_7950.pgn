@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "firegus16"]
+[Black "vvchessli"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/XM6eWoYR"]
+[WhiteElo "2530"]
+[BlackElo "2647"]
+[ECO "E15"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Traditional Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "00:08:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 d5 6. O-O Nbd7 7. b3 Be7 8. Bb2
+O-O 9. Nbd2 Ne4 10. Qc2 Nxd2 11. Nxd2 c5 12. dxc5 Nxc5 13. Rad1 Rc8 14. Qb1 Qc7
+15. cxd5 Bxd5 16. Bxd5 exd5 17. Nf3 Rfd8 18. Qf5 Qc6 19. Rd2 Ne4 20. Rd3 Qe6
+21. Qf4 Bf6 22. Bxf6 Qxf6 23. Qxf6 Nxf6 24. Rfd1 Rc2 25. R3d2 Rdc8 26. Nd4 Rxd2
+27. Rxd2 Ne4 28. Rd3 Rc3 29. Rd1 Kf8 30. Kg2 g6 31. Nb5 Rc2 32. Rxd5 Rxa2 33.
+Kf3 Nc5 34. b4 Ne6 35. Rd7 Ng5+ 36. Kg4 Ne4 37. Kf3 Nf6 38. Rxa7 Rb2 39. Nd6
+Nd5 40. Rxf7+ Kg8 41. Rb7 Rxb4 42. Ne4 Rb3+ 43. e3 b5 44. h4 b4 45. g4 Rb1 46.
+h5 gxh5 47. gxh5 b3 48. h6 b2 49. Rg7+ Kf8 50. Rb7 Ke8 51. Rb8+ Kd7 52. Rb7+
+Kc6 53. Rb3 Nb6 54. Ke2 Nc4 55. Kd3 Rc1 56. Nc3 Ne5+ 57. Kd2 Nf3+ 58. Kd3 Ne1+
+59. Kd2 Nf3+ 60. Kd3 Ne5+ 61. Kd2 Rh1 62. Rxb2 Nc4+ 63. Kc2 Nxb2 64. Kxb2 Rxh6
+65. Kb3 Rh2 66. f4 Rh3 67. Ne4 Rxe3+ 68. Nc3 Rf3 69. Kc4 Rxf4+ 70. Kd3 Rf3+ 71.
+Ke4 Rxc3 72. Kd4 Rc5 73. Ke4 Rg5 74. Kf4 Rg6 75. Kf5 Kd6 76. Kf4 Ke7 77. Kf5
+Kf7 78. Kf4 Kg7 79. Kf3 h5 80. Kf2 h4 81. Kf3 h3 82. Kf2 h2 83. Kf3 h1=Q+ 84.
+Kf2 Qh2+ 85. Ke3 Qh3+ 86. Kf4 Qh4+ 87. Kf5 Qh5+ 88. Ke4 Rg4+ 89. Kf3 Qh3+ 90.
+Kf2 0-1
+

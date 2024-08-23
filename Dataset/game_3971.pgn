@@ -1,0 +1,25 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "xxxmax"]
+[Black "ChessStrawberry2020"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/CPU6eVlG"]
+[WhiteElo "2494"]
+[BlackElo "2651"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:01:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h6 5. g4 Be4 6. f3 Bh7 7. Nh3 e6 8. Nf2 Be7
+9. h5 c5 10. Be3 Nc6 11. c3 Rc8 12. Na3 cxd4 13. Bxd4 Nxd4 14. Qxd4 Bc5 15.
+Qa4+ Kf8 16. Nb5 Qb6 17. Nd1 a6 18. Nd4 Ne7 19. Kd2 Nc6 20. Nxc6 Rxc6 21. Bd3
+Bxd3 22. Kxd3 Be7 23. Qb3 Qc7 24. f4 Rc4 25. Rf1 b5 26. Ne3 Re4 27. Nc2 Bg5 28.
+fxg5 Qxe5 29. Rae1 Qg3+ 30. Kd2 Qxg4 31. Rxe4 dxe4 32. g6 f6 1-0
+

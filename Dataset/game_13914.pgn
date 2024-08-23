@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Bashirov_Galim"]
+[Black "ti-ga"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/poaA1JPG"]
+[WhiteElo "2434"]
+[BlackElo "2515"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Accepted, Kan Formation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:39:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Nf3 a6 6. a4 Nc6 7. Bc4 Nf6 8. O-O
+d6 9. Qe2 Be7 10. Rd1 Qc7 11. Bf4 Ne5 12. Bb3 Bd7 13. Rac1 Qb8 14. Nxe5 dxe5
+15. Be3 Bc6 16. Bb6 O-O 17. a5 Bb4 18. f3 Qe8 19. Qc4 Qe7 20. Na4 h6 21. Nc5
+Bxc5+ 22. Bxc5 Qc7 23. Bxf8 Rxf8 24. Qb4 Nh5 25. Qb6 Qe7 26. Rxc6 bxc6 27. Qxa6
+Qg5 28. Qxc6 Qe3+ 29. Kh1 Qxb3 30. a6 Qxd1# 0-1
+

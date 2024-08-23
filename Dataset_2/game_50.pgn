@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.12.27"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "VertCanadian"]
+[Result "0-1"]
+[CurrentPosition "rnb1kbnr/pppp1ppp/4p3/8/3Pq3/6P1/PPP2P1P/RNBQKBNR w KQkq -"]
+[Timezone "UTC"]
+[ECO "C00"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Normal-Variation"]
+[UTCDate "2020.12.27"]
+[UTCTime "19:03:13"]
+[WhiteElo "1045"]
+[BlackElo "1057"]
+[TimeControl "600"]
+[Termination "VertCanadian won by resignation"]
+[StartTime "19:03:13"]
+[EndDate "2020.12.27"]
+[EndTime "19:03:47"]
+[Link "https://www.chess.com/game/live/6073748294"]
+
+1. e4 { [%clk 0:09:59] } 1... e6 { [%clk 0:09:57.8] } 2. d4
+{ [%clk 0:09:57.9] } 2... Qh4 { [%clk 0:09:56] } 3. g3 { [%clk 0:09:44.3] }
+3... Qxe4+ { [%clk 0:09:53.2] } 0-1
+

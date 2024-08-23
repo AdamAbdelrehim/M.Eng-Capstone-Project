@@ -1,0 +1,42 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "AKS-Mantissa"]
+[Black "Hoon_Bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/uELdK8dj"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2784"]
+[BlackElo "2898"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+[TimeControl "600+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:58:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Be7 6. e4 dxe4 7. fxe4 c5 8. d5
+exd5 9. exd5 O-O 10. Be2 a6 11. Bf4 Bd6 12. Qd2 Re8 13. O-O-O Bf5 14. Nf3 Qc7
+15. Bxd6 Qxd6 16. Rhe1 Nbd7 17. Nh4 Bg6 18. g3 Re7 19. Qf4 Qxf4+ 20. gxf4 Rae8
+21. Kd2 Ne4+ 22. Nxe4 Bxe4 23. Bg4 Nf6 24. Nf5 Bxf5 25. Bxf5 Rxe1 26. Rxe1 Rxe1
+27. Kxe1 Ne8 28. b4 Nd6 29. Bd3 b6 30. Kd2 Kf8 31. Kc3 Ke7 32. Kb3 g6 33. h4
+Nb7 34. bxc5 bxc5 35. Kc2 Nd6 36. Kc3 Nb7 37. Kb3 Kd8 38. Ka4 Kc7 39. Bb1 f6
+40. Bd3 Nd6 41. Kb3 Kb6 42. Kc3 Kb7 43. Kb3 Kc7 44. Kc3 Kb6 45. Bc2 Ka5 46. Kb3
+Kb6 47. Kc3 Ne8 48. Bd3 f5 49. Be2 Nf6 50. Kd2 Kc7 51. Kc3 Kb6 52. Bf3 Kc7 53.
+Be2 Kb8 54. Bf3 Ne8 55. Kd3 Nd6 56. Be2 Nb7 57. h5 Nd6 58. Kc3 Ka7 59. Kd3 Kb6
+60. hxg6 hxg6 61. Kc2 Kb7 62. Bd3 Ka7 63. Bf1 Kb7 64. Bd3 Kc8 65. Kb3 Kc7 66.
+Ka4 Ne8 67. Ka5 Kb7 68. Bc2 Nd6 69. Bd3 Nf7 70. Bf1 Ka7 71. Be2 Nd6 72. Bf1
+Nb7+ 73. Ka4 Nd6 74. Ka5 Nb7+ 75. Ka4 Kb6 76. Kb3 Nd6 77. Bd3 Ne8 78. Kc2 Nf6
+79. Be2 Kc7 80. Bf3 Nh7 81. Kd2 Kd7 82. Be2 Nf6 83. Kc2 Ne4 84. Bf3 Nd6 85. Be2
+Nc8 86. Bf1 Kc7 87. Be2 Kb6 88. Kb3 Nd6 89. Bd3 Ne8 90. Be2 Nf6 91. Kc2 Kc7 92.
+Bf3 Kd6 93. Kd3 a5 94. Bd1 Nd7 95. Kc2 Ke7 96. Kb3 Nb6 97. Bf3 Kd7 98. Kc3 Ke8
+99. Kb3 Ke7 100. Bg2 Kd7 101. Bf1 Kc8 102. Kc2 Kd8 103. Kb3 Ke7 104. Bg2 Kf6
+105. d6 g5 106. fxg5+ Kxg5 107. Bb7 Kf6 108. Bc8 f4 109. Bg4 Kf7 110. Kc3 f3
+111. Bxf3 Ke6 112. d7 Kxd7 113. Kb3 Kd6 114. Bg2 Ke5 115. Kc3 Na4+ 116. Kb3 Nb6
+117. Kc3 Kf4 118. Bh1 Na4+ 119. Kb3 Nb6 120. Kc3 Kf5 121. Bd5 Kf6 122. Bc6 Nc8
+123. Kb3 Nb6 124. Bg2 Kf7 125. Bb7 Ke6 126. Bg2 Ke5 1/2-1/2
+

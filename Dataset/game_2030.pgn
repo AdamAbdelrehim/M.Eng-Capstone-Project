@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "tigerovich"]
+[Black "garnek123"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/WdqGlDeQ"]
+[BlackTitle "FM"]
+[WhiteElo "2334"]
+[BlackElo "2513"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:33:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c6 4. d4 c5 5. c3 Nc6 6. Bd3 Bd7 7. O-O Nge7 8. Bg5
+cxd4 9. cxd4 Qb6 10. Nc3 h6 11. Be3 Ng6 12. Bxg6 fxg6 13. Qc2 Kf7 14. Nh4 Ne7
+15. Rac1 Rc8 16. Qb1 g5 17. Nf3 Nf5 18. h3 Be7 19. a3 Rhf8 20. b4 Kg8 21. Qd3
+Rc4 22. Nd2 Rc7 23. Ne2 Rfc8 24. Nb3 Bb5 25. Qd2 Qa6 26. Rxc7 Rxc7 27. Re1 Qxa3
+28. Rb1 Bxb4 29. Qd1 Ba4 30. Kh2 Nxe3 31. fxe3 Qa2 32. Nec1 Qxb1 0-1
+

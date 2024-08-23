@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.12.06"]
+[Round "-"]
+[White "Rkup"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1bqkb2/1pp1n3/p1n2Qp1/3pp3/8/1P2P3/PBPP1PPP/RN2KB1R b KQq -"]
+[Timezone "UTC"]
+[ECO "A01"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Larsen-Attack-Modern-Variation-2.Bb2-Nc6-3.e3-a6"]
+[UTCDate "2022.12.06"]
+[UTCTime "18:49:55"]
+[WhiteElo "1782"]
+[BlackElo "1764"]
+[TimeControl "600"]
+[Termination "Rkup won by resignation"]
+[StartTime "18:49:55"]
+[EndDate "2022.12.06"]
+[EndTime "18:52:11"]
+[Link "https://www.chess.com/game/live/64091629061"]
+
+1. b3 { [%clk 0:09:51.5] } 1... e5 { [%clk 0:09:57.5] } 2. Bb2
+{ [%clk 0:09:48.5] } 2... Nc6 { [%clk 0:09:50.4] } 3. e3 { [%clk 0:09:46.7] }
+3... a6 { [%clk 0:09:49.8] } 4. Nf3 { [%clk 0:09:42.3] } 4... f6
+{ [%clk 0:09:45.9] } 5. Nh4 { [%clk 0:08:58.6] } 5... d5 { [%clk 0:09:41.9] }
+6. Qh5+ { [%clk 0:08:50.7] } 6... g6 { [%clk 0:09:39.7] } 7. Nxg6
+{ [%clk 0:08:49] } 7... hxg6 { [%clk 0:09:30.5] } 8. Qxh8 { [%clk 0:08:43] }
+8... Nge7 { [%clk 0:09:29.3] } 9. Qxf6 { [%clk 0:08:36.4] } 1-0
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "ynzj1515"]
+[Black "adask10"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/gGJtfePy"]
+[WhiteElo "2588"]
+[BlackElo "2667"]
+[ECO "B03"]
+[Opening "Alekhine Defense: Exchange Variation, Voronezh Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:22:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. exd6 cxd6 6. Nc3 g6 7. Be3 Bg7 8. Rc1
+O-O 9. b3 Bf5 10. g4 Bd7 11. Bg2 Nc6 12. d5 Ne5 13. h3 f5 14. f4 Nf7 15. g5 Re8
+16. Nge2 e5 17. dxe6 Rxe6 18. Bd4 Bc6 19. Bxc6 bxc6 20. Bxg7 Kxg7 21. O-O c5
+22. Re1 Qe7 23. Ng3 Re8 24. Kf2 h6 25. h4 hxg5 26. hxg5 Rh8 27. Nf1 Rh4 28. Qf3
+Rh8 29. Rxe6 Qxe6 30. Re1 Qd7 31. Ne3 Rh2+ 32. Kg3 Rh8 33. Ned5 Qd8 34. Nxb6
+axb6 35. Nd5 Re8 36. Qc3+ Kf8 37. Rh1 Qa8 38. Rh7 Qxa2 39. Qg7# 1-0
+

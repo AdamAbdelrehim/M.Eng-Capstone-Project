@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "afchex"]
+[Black "ilprofessore87"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/xYAI54OX"]
+[WhiteElo "2391"]
+[BlackElo "2535"]
+[ECO "B00"]
+[Opening "Pirc Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:19:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. f4 exd4 5. Qxd4 Nc6 6. Bb5 Be7 7. Nf3 O-O 8.
+Bxc6 bxc6 9. h3 c5 10. Qd3 a5 11. a4 Ba6 12. Qd1 Re8 13. Kf2 Bf8 14. Re1 Bb7
+15. Qd3 Qd7 16. f5 Qc6 17. Bg5 Nxe4+ 18. Qxe4 Rxe4 19. Nxe4 d5 20. Ng3 c4 21.
+Nd4 Bc5 22. Be3 Qb6 23. c3 Qxb2+ 24. Kg1 Qxc3 25. Rac1 Qxe3+ 26. Rxe3 Bxd4 27.
+Nf1 Re8 28. Kf2 Ba6 29. Kf3 Bxe3 30. Nxe3 d4 31. Nxc4 Bb7+ 32. Kf2 Bc6 33. Nxa5
+Bxa4 34. Rxc7 Rd8 35. Ke2 h5 36. g4 h4 37. Kd2 Re8 38. Nc4 Bb3 39. Nd6 Re3 40.
+Rc8+ Kh7 41. Rb8 Bd5 42. Rd8 Rxh3 43. Ne8 Bf3 44. Rxd4 Rg3 45. Ke3 Rxg4 46. Rd7
+Re4+ 47. Kxf3 Rxe8 48. Rxf7 Kh6 49. Kg4 Re4+ 50. Kh3 Ra4 51. f6 g5 52. Rb7 Rf4
+53. f7 Kg6 54. Ra7 Rxf7 55. Ra6+ Rf6 56. Ra8 Rf3+ 57. Kg4 Rf4+ 58. Kh3 Rf3+ 59.
+Kg4 Rg3# 0-1
+

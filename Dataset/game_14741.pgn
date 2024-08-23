@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "energeiakoss"]
+[Black "skin_ticket"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/YjcJfXi0"]
+[WhiteElo "2489"]
+[BlackElo "2646"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:00:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 e5 7. Nde2 Be7 8.
+O-O Be6 9. f4 exf4 10. Nxf4 Nc6 11. Nxe6 fxe6 12. Bc4 Qd7 13. Bf4 b5 14. Bb3
+Rd8 15. Qd3 O-O 16. Qh3 Nd4 17. e5 dxe5 18. Bxe5 Nxb3 19. axb3 Qc6 20. Rfe1 b4
+21. Bxf6 Rxf6 22. Ne4 Rg6 23. Qf3 Qxc2 24. Rxa6 Qxb2 25. Rf1 Bf6 26. Rxe6 Rf8
+27. Kh1 Be7 28. Qxf8+ Bxf8 29. Re8 Qxg2# 0-1
+

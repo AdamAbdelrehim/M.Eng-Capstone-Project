@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Darthweber"]
+[Black "sharpaxe"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/7bs3xXDS"]
+[WhiteElo "2502"]
+[BlackElo "2411"]
+[ECO "A05"]
+[Opening "King's Indian Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:57:02"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 c6 4. O-O Nbd7 5. d3 e5 6. Nbd2 Bd6 7. e4 O-O 8. Re1
+Re8 9. c3 a5 10. b3 h6 11. Bb2 dxe4 12. dxe4 Nc5 13. Qc2 Bc7 14. Bf1 Bg4 15. h3
+Bh5 16. Rad1 Qb8 17. Bg2 b5 18. g4 Bg6 19. Nh4 Bh7 20. Nf5 Ne6 21. Nf3 Nf4 22.
+Bf1 a4 23. Bc1 axb3 24. axb3 Bxf5 25. gxf5 N6h5 26. Be3 Rd8 27. c4 b4 28. c5
+Qa7 29. Kh2 Kf8 30. Bc4 Rxd1 31. Rxd1 Rd8 32. Rxd8+ Bxd8 33. Qb2 f6 34. Qd2 Be7
+35. Nh4 1-0
+

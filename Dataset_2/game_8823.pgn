@@ -1,0 +1,49 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2023.04.29"]
+[Round "-"]
+[White "Von_Dizen"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "5rk1/3Qnppp/p6r/8/2Np2P1/RP4q1/2PP4/5R1K w - - 1 30"]
+[Timezone "UTC"]
+[ECO "B21"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-McDonnell-Attack-2...d5-3.e5-Nc6"]
+[UTCDate "2023.04.29"]
+[UTCTime "06:36:47"]
+[WhiteElo "165"]
+[BlackElo "635"]
+[TimeControl "1/604800"]
+[Termination "AdamAbdelrehim won by checkmate"]
+[StartTime "06:36:47"]
+[EndDate "2023.05.05"]
+[EndTime "19:44:24"]
+[Link "https://www.chess.com/game/daily/510097189"]
+
+1. e4 { [%clk 167:59:56] } 1... c5 { [%clk 167:59:23] } 2. f4
+{ [%clk 167:59:46] } 2... d5 { [%clk 167:59:47] } 3. e5 { [%clk 163:09:05] }
+3... Nc6 { [%clk 167:18:20] } 4. Nf3 { [%clk 167:59:51] } 4... Bg4
+{ [%clk 167:59:43] } 5. Bb5 { [%clk 167:55:05] } 5... a6 { [%clk 167:59:32] }
+6. Bxc6+ { [%clk 167:59:48] } 6... bxc6 { [%clk 164:01:26] } 7. O-O
+{ [%clk 167:45:28] } 7... e6 { [%clk 167:59:49] } 8. h3 { [%clk 167:42:17] }
+8... Bxf3 { [%clk 165:10:14] } 9. Qxf3 { [%clk 167:57:39] } 9... Ne7
+{ [%clk 162:25:42] } 10. b3 { [%clk 164:50:34] } 10... Ng6 { [%clk 167:58:35] }
+11. Ba3 { [%clk 159:36:14] } 11... Be7 { [%clk 161:04:14] } 12. Nc3
+{ [%clk 160:00:07] } 12... O-O { [%clk 167:52:19] } 13. Na4
+{ [%clk 166:41:37] } 13... c4 { [%clk 167:41:45] } 14. Bb2 { [%clk 167:16:38] }
+14... cxb3 { [%clk 167:59:36] } 15. axb3 { [%clk 167:59:33] } 15... c5
+{ [%clk 167:59:37] } 16. Ba3 { [%clk 167:59:33] } 16... Rc8
+{ [%clk 150:46:39] } 17. g4 { [%clk 162:01:51] } 17... c4 { [%clk 148:52:37] }
+18. f5 { [%clk 160:43:23] } 18... Nxe5 { [%clk 160:16:01] } 19. Qf4
+{ [%clk 151:43:50] } 19... Bxa3 { [%clk 159:35:48] } 20. Rxa3
+{ [%clk 156:14:17] } 20... Nc6 { [%clk 167:35:32] } 21. Qe3
+{ [%clk 167:05:06] } 21... d4 { [%clk 167:33:40] } 22. Qe4 { [%clk 167:57:39] }
+22... exf5 { [%clk 167:59:19] } 23. Qxf5 { [%clk 166:55:46] } 23... Qd6
+{ [%clk 167:58:57] } 24. Nb6 { [%clk 160:48:44] } 24... Qg3+
+{ [%clk 166:59:38] } 25. Kh1 { [%clk 167:53:47] } 25... Qxh3+
+{ [%clk 167:59:51] } 26. Kg1 { [%clk 167:59:49] } 26... Qg3+
+{ [%clk 167:59:41] } 27. Kh1 { [%clk 167:59:08] } 27... Ne7
+{ [%clk 167:59:52] } 28. Qd7 { [%clk 163:45:13] } 28... Rc6
+{ [%clk 167:51:37] } 29. Nxc4 { [%clk 167:51:55] } 29... Rh6#
+{ [%clk 167:59:30] } 0-1
+

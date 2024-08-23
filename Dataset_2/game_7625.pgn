@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.02.20"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "LeviX7"]
+[Result "0-1"]
+[CurrentPosition "rn2k2r/ppp2ppp/4bn2/q3b3/8/1PN5/PBPPQPPP/R3KB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "C42"]
+[ECOUrl "https://www.chess.com/openings/Petrovs-Defense-Classical-Variation"]
+[UTCDate "2023.02.20"]
+[UTCTime "18:58:53"]
+[WhiteElo "1654"]
+[BlackElo "1697"]
+[TimeControl "180"]
+[Termination "LeviX7 won by resignation"]
+[StartTime "18:58:53"]
+[EndDate "2023.02.20"]
+[EndTime "18:59:44"]
+[Link "https://www.chess.com/game/live/70658627453"]
+
+1. e4 { [%clk 0:02:59.8] } 1... e5 { [%clk 0:02:59.9] } 2. Nf3
+{ [%clk 0:02:58.5] } 2... Nf6 { [%clk 0:02:58] } 3. Nxe5 { [%clk 0:02:56.6] }
+3... d5 { [%clk 0:02:56.4] } 4. exd5 { [%clk 0:02:53.5] } 4... Qxd5
+{ [%clk 0:02:56.3] } 5. Qe2 { [%clk 0:02:51.2] } 5... Be6 { [%clk 0:02:48.5] }
+6. Nc3 { [%clk 0:02:43.1] } 6... Qa5 { [%clk 0:02:45.1] } 7. b3
+{ [%clk 0:02:39.5] } 7... Bd6 { [%clk 0:02:41.7] } 8. Bb2 { [%clk 0:02:35.9] }
+8... Bxe5 { [%clk 0:02:40.5] } 0-1
+

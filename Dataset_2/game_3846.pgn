@@ -1,0 +1,41 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.06"]
+[Round "-"]
+[White "sudharman"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r6r/1b1k1p1p/pq1pnQ2/1p4P1/4PP2/2N4B/PPP4P/2KR3R w - -"]
+[Timezone "UTC"]
+[ECO "B99"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Open-Najdorf-Main-Line"]
+[UTCDate "2022.03.06"]
+[UTCTime "01:49:18"]
+[WhiteElo "2011"]
+[BlackElo "1740"]
+[TimeControl "600"]
+[Termination "sudharman won by resignation"]
+[StartTime "01:49:18"]
+[EndDate "2022.03.06"]
+[EndTime "01:55:18"]
+[Link "https://www.chess.com/game/live/40270213021"]
+
+1. e4 { [%clk 0:09:58.5] } 1... c5 { [%clk 0:09:59] } 2. Nf3
+{ [%clk 0:09:56.9] } 2... d6 { [%clk 0:09:57.7] } 3. d4 { [%clk 0:09:55.5] }
+3... cxd4 { [%clk 0:09:55.5] } 4. Nxd4 { [%clk 0:09:54] } 4... Nf6
+{ [%clk 0:09:55.3] } 5. Nc3 { [%clk 0:09:52.2] } 5... a6 { [%clk 0:09:55] } 6.
+Bg5 { [%clk 0:09:50.4] } 6... e6 { [%clk 0:09:51.4] } 7. f4
+{ [%clk 0:09:48.8] } 7... Be7 { [%clk 0:09:47.3] } 8. Qf3 { [%clk 0:09:47.3] }
+8... Nbd7 { [%clk 0:09:40.5] } 9. O-O-O { [%clk 0:09:17.7] } 9... Qc7
+{ [%clk 0:09:04.7] } 10. g4 { [%clk 0:09:15.1] } 10... b5 { [%clk 0:09:02.3] }
+11. Bxf6 { [%clk 0:09:13.2] } 11... Bxf6 { [%clk 0:08:36.8] } 12. g5
+{ [%clk 0:08:53.8] } 12... Be7 { [%clk 0:08:29.1] } 13. Qh5 { [%clk 0:08:39] }
+13... Bb7 { [%clk 0:08:06.6] } 14. Nxe6 { [%clk 0:08:28.9] } 14... Qb6
+{ [%clk 0:07:54.6] } 15. Nxg7+ { [%clk 0:08:14.9] } 15... Kf8
+{ [%clk 0:07:46.5] } 16. Nf5 { [%clk 0:08:08.3] } 16... Nc5
+{ [%clk 0:07:27.2] } 17. Qh6+ { [%clk 0:07:35.2] } 17... Ke8
+{ [%clk 0:07:19.8] } 18. Nxe7 { [%clk 0:07:30.1] } 18... Kxe7
+{ [%clk 0:07:09.6] } 19. Qf6+ { [%clk 0:07:28.1] } 19... Kd7
+{ [%clk 0:07:03.8] } 20. Bh3+ { [%clk 0:07:18.6] } 20... Ne6
+{ [%clk 0:06:57.8] } 1-0
+

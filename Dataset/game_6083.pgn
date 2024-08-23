@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "grandmatt"]
+[Black "Retourdeflamme2700"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/MhMLgrt9"]
+[WhiteElo "2483"]
+[BlackElo "2547"]
+[ECO "D15"]
+[Opening "Slav Defense: Three Knights Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:31:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-6"]
+
+1. Nf3 c6 2. d4 d5 3. c4 Nf6 4. Nc3 Bg4 5. Ne5 Bf5 6. cxd5 cxd5 7. Qa4+ Nbd7 8.
+Bg5 e6 9. e4 Bxe4 10. Nxe4 dxe4 11. Bxf6 gxf6 12. Nxd7 1-0
+

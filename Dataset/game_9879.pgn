@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Cann_Karo"]
+[Black "silasdo"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/oj1JyJKq"]
+[WhiteElo "2593"]
+[BlackElo "2600"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:15:51"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. O-O Nd7 5. h3 Bxf3 6. Bxf3 e5 7. d3 Ngf6 8.
+Bg2 Bc5 9. Nd2 O-O 10. c4 Re8 11. Qc2 Rc8 12. e3 b5 13. b3 Nf8 14. Bb2 d4 15.
+exd4 Bxd4 16. Bxd4 exd4 17. a4 a6 18. axb5 axb5 19. Ra7 Ne6 20. Rfa1 h6 21. b4
+Rc7 22. c5 Rxa7 23. Rxa7 Nd5 24. Bxd5 Qxd5 25. Ne4 Ng5 26. h4 Nxe4 27. dxe4
+Rxe4 28. Ra8+ Kh7 29. f3 d3 30. fxe4 dxc2 0-1
+

@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "tonyforpresident"]
+[Black "aceg39"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/fo2UM1oz"]
+[WhiteElo "2658"]
+[BlackElo "2652"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:01:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 d5 2. Bf4 e6 3. e3 Bd6 4. Nf3 f5 5. Bxd6 Qxd6 6. c4 c6 7. Nbd2 Nf6 8. Ne5
+Nbd7 9. Ndf3 Qe7 10. Bd3 Nxe5 11. Nxe5 Nd7 12. Qh5+ Kf8 13. Ng6+ hxg6 14. Qxh8+
+Kf7 15. O-O dxc4 16. Bxc4 Nb6 17. Bb3 Bd7 18. Qh3 g5 19. Qxf5+ Kg8 20. Qe5 g4
+21. f4 Nd5 22. e4 Nf6 23. f5 Re8 24. fxe6 Bxe6 25. Bxe6+ Qxe6 26. Qxe6+ Rxe6
+27. e5 Nd5 28. Kf2 Re7 29. Ke2 c5 30. dxc5 Rxe5+ 31. Kd3 Nb4+ 32. Kc4 Na6 33.
+b4 Re4+ 34. Kd5 Rxb4 35. Rab1 Ra4 36. Rxb7 Ra5 37. Rc1 Rxa2 38. c6 Rxg2 39.
+Rxa7 Nb4+ 40. Ke4 Nxc6 41. Rxc6 Rxh2 42. Rg6 Rh7 43. Rxg4 Kf8 44. Rf4+ Kg8 45.
+Rff7 Rh4+ 46. Kf3 Kh8 47. Rfb7 Rh3+ 48. Kg4 Rh1 49. Rb8+ Kh7 50. Raa8 Kg6 51.
+Kf3 Rh3+ 52. Kg2 Rh5 53. Rb6+ Kh7 54. Rb3 Re5 55. Rh3+ Kg6 56. Ra7 Re2+ 57. Kf3
+Re1 58. Rg3+ Kf6 59. Rgxg7 Rf1+ 60. Ke2 Rh1 61. Raf7+ Ke6 62. Rf1 Rh2+ 63. Rf2
+Rh4 64. Rg6+ Ke5 65. Rg3 Ke4 66. Re3+ Kd4 67. Ref3 Rh1 68. Rf4+ Ke5 69. Ra4 Rh3
+70. Rf3 Kd5 71. Rxh3 Kc5 72. Rh5+ Kb6 73. Rg4 Kc7 74. Rg6 Kd7 75. Rh7+ Ke8 76.
+Rg8# 1-0
+

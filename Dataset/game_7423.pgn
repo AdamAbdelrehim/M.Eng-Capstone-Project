@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Heart_of_Fire_Cat"]
+[Black "FastCavalier"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/5aoPCVtj"]
+[WhiteTitle "CM"]
+[WhiteElo "2548"]
+[BlackElo "2549"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:05:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 c6 2. d4 d5 3. f3 e5 4. dxe5 Qb6 5. Nc3 Bb4 6. exd5 cxd5 7. Qxd5 Nc6 8.
+Bd2 Be6 9. Qb5 Qc7 10. O-O-O O-O-O 11. Bd3 Nge7 12. f4 Nd5 13. Nxd5 Rxd5 14.
+Qa4 Bxd2+ 15. Rxd2 Rhd8 16. Qe4 Rd4 17. Qe3 Nb4 18. Kd1 Nxc2 19. Qe2 Nb4 20. f5
+Rxd3 21. fxe6 Rxd2+ 0-1
+

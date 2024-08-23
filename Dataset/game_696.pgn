@@ -1,0 +1,23 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "BGIlehoangbach"]
+[Black "Kurald_Ganorin"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/UaMpckz7"]
+[WhiteElo "2973"]
+[BlackElo "2890"]
+[ECO "C20"]
+[Opening "King's Pawn Game: Alapin Opening"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:11:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "-132"]
+[BlackRatingDiff "+12"]
+
+1. e4 e5 2. Ne2 g5 3. g3 h5 4. Bg2 h4 5. O-O d5 6. exd5 hxg3 7. hxg3 Bh3 8. Re1
+Qd7 9. Kf1 Bxg2+ 10. Kg1 Qh3 11. f4 Bc5+ 12. Nd4 Bxd4+ 13. Re3 Qh2+ 14. Kf2
+Be4+ 15. Ke1 Qg1+ 16. Ke2 Rh2# 0-1
+

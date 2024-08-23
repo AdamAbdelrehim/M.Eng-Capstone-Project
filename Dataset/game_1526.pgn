@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "qasdfgi"]
+[Black "ie1"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/fYT062Qp"]
+[WhiteElo "2675"]
+[BlackElo "2668"]
+[ECO "C53"]
+[Opening "Italian Game: Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:03:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. d4 exd4 6. cxd4 Bb4+ 7. Nc3 Nf6 8.
+O-O Bxc3 9. bxc3 Nxe4 10. d5 Ne5 11. Re1 Nf6 12. Nxe5 dxe5 13. Rxe5+ Kf8 14.
+Ba3+ Kg8 15. Be7 Qd7 16. Qb3 Ng4 17. Re2 Qf5 18. Rae1 h5 19. h3 Nh6 20. Re5 Qg6
+21. Rg5 Qb6 22. Qxb6 axb6 23. Bf6 Nf5 24. Re8+ Kh7 25. Rxh5+ Nh6 26. Rxh6+ gxh6
+27. Rxh8+ 1-0
+

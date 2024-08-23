@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "walaasarwat"]
+[Black "sparrow1"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/qNoWE1bG"]
+[WhiteElo "2396"]
+[BlackElo "2515"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:25:50"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 c6 2. d4 b5 3. f3 Qb6 4. c4 bxc4 5. Bxc4 e6 6. Nc3 d5 7. exd5 cxd5 8.
+Bb5+ Bd7 9. Qa4 a6 10. Bxd7+ Nxd7 11. Nge2 Nf6 12. O-O Bd6 13. Qc2 O-O 14. Kh1
+Rfc8 15. Bg5 h6 16. Bh4 Rab8 17. Rab1 a5 18. Qd3 Qb4 19. a3 Qb3 20. Bg3 Bxg3
+21. hxg3 Rc6 22. g4 Rc4 23. Rfd1 a4 24. Nf4 Nf8 25. Nce2 Qb6 26. Qd2 Qd6 27.
+Rdc1 Qc7 28. Rxc4 Qxc4 29. Rc1 Qa2 30. Nd3 Ng6 31. Qc2 Qb3 32. Qxb3 Rxb3 33.
+Rc3 Rb8 34. Rc2 Nd7 35. Nc5 Nb6 36. Nc1 Nf8 37. N1d3 f6 38. Rc3 Kf7 39. b3 Ra8
+40. bxa4 Nxa4 41. Nxa4 Rxa4 42. Nc5 Rxd4 43. a4 Rd1+ 44. Kh2 Ra1 45. Rb3 Ng6
+46. Rb7+ Ne7 47. Ra7 d4 48. a5 f5 49. gxf5 exf5 50. a6 Ra5 51. Rc7 d3 52. Nxd3
+Rxa6 53. Nf4 Rd6 54. Ra7 g5 55. Nh5 Re6 56. Ng3 Kg6 57. Ra5 h5 58. Kg1 h4 59.
+Nh1 Nc6 60. Ra6 Kh5 61. Nf2 Re1+ 62. Kh2 Ne5 63. Nh3 Re2 64. Kg1 Rc2 65. Ra5
+Rc1+ 66. Kh2 Re1 67. f4 Ng4# 0-1
+

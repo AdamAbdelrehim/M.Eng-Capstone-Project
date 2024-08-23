@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Iskamor"]
+[Black "ynzj1515"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/NMRkwq22"]
+[WhiteElo "2480"]
+[BlackElo "2537"]
+[ECO "A56"]
+[Opening "Benoni Defense: Czech Benoni Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "03:31:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 c5 2. d5 Nf6 3. c4 e5 4. Nc3 d6 5. e4 Be7 6. Nf3 Nbd7 7. h3 h5 8. Bg5 Nf8
+9. Qd2 N8h7 10. Be3 h4 11. Bd3 Nh5 12. O-O-O Bd7 13. Rdg1 O-O 14. g4 hxg3 15.
+fxg3 a6 16. g4 Nf4 17. Bxf4 exf4 18. Qxf4 b5 19. e5 dxe5 20. Nxe5 Bg5 0-1
+

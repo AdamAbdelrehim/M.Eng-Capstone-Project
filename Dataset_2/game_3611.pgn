@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.02.16"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Eng_mwahid2003"]
+[Result "1-0"]
+[CurrentPosition "r1bqkbnr/pppp1ppp/2n5/4p3/2B1P3/5N2/PPPP1PPP/RNBQK2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game"]
+[UTCDate "2022.02.16"]
+[UTCTime "09:54:42"]
+[WhiteElo "1570"]
+[BlackElo "1690"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won - game abandoned"]
+[StartTime "09:54:42"]
+[EndDate "2022.02.16"]
+[EndTime "09:56:28"]
+[Link "https://www.chess.com/game/live/38744345675"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:59.8] } 2. Nf3
+{ [%clk 0:09:57.9] } 2... Nc6 { [%clk 0:09:57.9] } 3. Bc4 { [%clk 0:09:57.3] }
+1-0
+

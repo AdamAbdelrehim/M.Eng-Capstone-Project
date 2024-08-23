@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Dabar1"]
+[Black "IMaDale"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ChXYnNRf"]
+[BlackTitle "IM"]
+[WhiteElo "2495"]
+[BlackElo "2566"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:18:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. e4 c6 2. Ne2 d5 3. e5 d4 4. f3 Qd5 5. f4 g5 6. d3 gxf4 7. Bxf4 Nd7 8. c4
+Qa5+ 9. Nd2 Nxe5 10. Bxe5 Qxe5 11. Nf3 Qe3 12. Qd2 Qxd2+ 13. Kxd2 c5 14. b4 b6
+15. bxc5 bxc5 16. Rb1 Nf6 17. Nf4 Bh6 18. g3 Ng4 19. h3 Ne3 20. Be2 Rg8 21.
+Rhg1 f6 22. Ke1 e5 23. Nd5 Nxd5 24. cxd5 Be3 25. Rg2 Bxh3 26. Rh2 Rxg3 0-1
+

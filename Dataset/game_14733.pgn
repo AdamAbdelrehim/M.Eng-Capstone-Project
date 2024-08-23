@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Amroeljawich"]
+[Black "nooartur"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/7q7F7swE"]
+[WhiteTitle "FM"]
+[BlackTitle "IM"]
+[WhiteElo "2529"]
+[BlackElo "2549"]
+[ECO "A48"]
+[Opening "Queen's Pawn Game: Barry Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:59:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 c6 5. Qd2 b5 6. a3 Nbd7 7. h4 h5 8. Ne5
+Nxe5 9. Bxe5 Bh6 10. e3 Nd7 11. Bxh8 1-0
+

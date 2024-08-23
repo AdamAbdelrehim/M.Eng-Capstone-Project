@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Aurora615"]
+[Black "MachineGunTerror"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/k6G3mKNP"]
+[WhiteElo "2548"]
+[BlackElo "2480"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Classical Variation"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:55:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-6"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bf5 6. Ne5 e6 7. g4 Bg6 8. h4
+c6 9. Bd2 Qb6 10. Qe2 Qxd4 11. O-O-O Nbd7 12. Nxd7 1-0
+

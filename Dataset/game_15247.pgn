@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "TheBeagles"]
+[Black "FastCavalier"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/KPdhIIQp"]
+[WhiteElo "2610"]
+[BlackElo "2556"]
+[ECO "A46"]
+[Opening "Yusupov-Rubinstein System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:09:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 g6 4. Bd3 Bg7 5. O-O b6 6. e4 d6 7. Re1 O-O 8. Nbd2
+Nbd7 9. Nf1 Bb7 10. Ng3 e5 11. c3 Re8 12. a4 a6 13. Qc2 Nf8 14. h3 Ne6 15. dxe5
+dxe5 16. Nxe5 Nc5 17. Bf4 Rxe5 18. Bxe5 Qxd3 19. Rac1 Qxc2 20. Rxc2 Nd3 0-1
+

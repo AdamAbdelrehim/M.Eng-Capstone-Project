@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.08.18"]
+[Round "-"]
+[White "FurryFold"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r2q2nr/1pp1k1pp/p1n1bp2/3pp3/1b6/1PNBP3/PBPPQPPP/R3K1NR w KQ -"]
+[Timezone "UTC"]
+[ECO "A01"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Larsen-Attack-Modern-Variation-2.Bb2-Nc6-3.e3-d5-4.Bb5"]
+[UTCDate "2024.08.18"]
+[UTCTime "18:20:25"]
+[WhiteElo "1972"]
+[BlackElo "1901"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won - game abandoned"]
+[StartTime "18:20:25"]
+[EndDate "2024.08.18"]
+[EndTime "18:26:05"]
+[Link "https://www.chess.com/game/live/117744025827"]
+
+1. b3 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:52.9] } 2. Bb2
+{ [%clk 0:09:58.3] } 2... Nc6 { [%clk 0:09:52.6] } 3. e3 { [%clk 0:09:56.6] }
+3... d5 { [%clk 0:09:51.6] } 4. Bb5 { [%clk 0:09:54.9] } 4... f6
+{ [%clk 0:09:49.2] } 5. Nc3 { [%clk 0:09:37.3] } 5... a6 { [%clk 0:09:36.6] }
+6. Bd3 { [%clk 0:09:31] } 6... Bb4 { [%clk 0:09:28.8] } 7. Qh5+
+{ [%clk 0:09:27] } 7... Ke7 { [%clk 0:09:20.7] } 8. Qe2 { [%clk 0:08:20.3] }
+8... Be6 { [%clk 0:08:57] } 0-1
+

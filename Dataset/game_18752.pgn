@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "AlInGaN"]
+[Black "vafin_niyaz"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/2zw46Fga"]
+[WhiteElo "2510"]
+[BlackElo "2426"]
+[ECO "E05"]
+[Opening "Catalan Opening: Open Defense, Classical Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:37:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Qc2 a6 8. a4
+Bd7 9. Qxc4 Bc6 10. Bf4 Nbd7 11. Nc3 Bd6 12. Bd2 Qe7 13. Ng5 Bxg2 14. Kxg2 e5
+15. Nd5 Nxd5 16. Qxd5 exd4 17. Qxb7 Qxe2 18. Rad1 Nc5 19. Qc6 Rad8 20. Rfe1 Qh5
+21. Bc1 d3 22. b4 Nb3 23. Rxd3 Nxc1 24. Qxc1 Bxb4 25. Rxd8 Rxd8 26. Qxc7 Qxg5
+27. Re5 Qd2 28. Rf5 Qd7 0-1
+

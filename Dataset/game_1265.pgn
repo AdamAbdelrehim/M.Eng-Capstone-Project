@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Super_FM"]
+[Black "chesschampion9999"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/8EkjstK6"]
+[WhiteTitle "FM"]
+[WhiteElo "2435"]
+[BlackElo "2621"]
+[ECO "E10"]
+[Opening "Blumenfeld Countergambit"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:06:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 b5 5. cxb5 exd5 6. b3 a6 7. bxa6 Nc6 8. e3
+Ne4 9. Bb2 Qa5+ 10. Nbd2 Nc3 11. Qc2 Nxa2 12. Bxg7 Bxg7 13. Rxa2 Qb6 14. Ra4
+Nb4 15. Qb1 O-O 16. Be2 Bxa6 17. Bxa6 Rxa6 18. O-O Rxa4 19. bxa4 c4 20. Nh4 c3
+21. Nb3 c2 22. Qc1 Rc8 23. Nf5 Bf6 24. Nbd4 Nd3 25. Qd2 Qb1 26. Nxc2 Qxc2 27.
+Qa5 Ne5 28. Nd6 Rc5 29. Qa8+ Kg7 30. Ne8+ Kg6 31. Nd6 Bg7 32. Qd8 Qd3 33. Qh4
+Rc6 34. Ne8 f5 35. Qg3+ Kf7 36. Nxg7 Ng4 37. Nh5 Rg6 38. Nf4 1-0
+

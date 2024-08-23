@@ -1,0 +1,30 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Botyuliirma"]
+[Black "ELO_1500"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/TVFE8b5Y"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2694"]
+[BlackElo "2695"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+[TimeControl "1800+20"]
+[UTCDate "2024.06.01"]
+[UTCTime "02:18:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e5 7. Nde2 h5 8. Be3
+Nbd7 9. a4 Qa5 10. Bd2 Qb6 11. Nc1 Nc5 12. Bd3 Qxb2 13. Rb1 Qa3 14. Qf3 Be7 15.
+N1e2 Nxd3+ 16. cxd3 O-O 17. O-O Bd7 18. Bg5 Bd8 19. Rxb7 Bc6 20. Bc1 Qc5 21.
+Rb3 Qa7 22. Ng3 Qd7 23. Bg5 Nxe4 24. dxe4 Bxg5 25. Qxh5 Bf6 26. Rfb1 g6 27. Qh6
+Rac8 28. Nf5 d5 29. g4 gxf5 30. Qxf6 fxe4 31. Ne2 Qe6 32. Qg5+ Qg6 33. Qxe5
+Rfe8 34. Qf4 e3 35. fxe3 Re4 36. Qf2 Bxa4 37. Rb8 Rxb8 38. Rxb8+ Re8 39. Nf4
+Qd6 40. Rxe8+ Bxe8 41. Qd2 d4 42. Qxd4 Qxd4 43. exd4 a5 44. Ne2 Bd7 45. Kf2 a4
+46. Nc3 a3 47. d5 f5 48. gxf5 Bxf5 49. h4 Bb1 1/2-1/2
+

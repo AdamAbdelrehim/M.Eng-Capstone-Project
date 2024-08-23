@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "MarkusMaischberger"]
+[Black "Booksinleather"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Ly4PMszE"]
+[WhiteElo "2519"]
+[BlackElo "2343"]
+[ECO "B17"]
+[Opening "Caro-Kann Defense: Karpov Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:49:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bf4 Ngf6 6. Nxf6+ gxf6 7. Bc4 e5
+8. Bg3 exd4 9. Qxd4 Bh6 10. Bd6 Qa5+ 11. b4 Qf5 12. Nf3 Rg8 13. Nh4 Qg4 14. Nf3
+Qxg2 15. Rg1 Qxg1+ 16. Nxg1 Rxg1+ 17. Ke2 Rxa1 18. Qxa1 Nf8 19. Qxf6 Ng6 20.
+Qxf7+ Kd8 21. Bc7# 1-0
+

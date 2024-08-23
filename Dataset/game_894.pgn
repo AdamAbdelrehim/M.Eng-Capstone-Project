@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "weiawaga"]
+[Black "pawn_git"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/GkAq5pxf"]
+[BlackTitle "BOT"]
+[WhiteElo "2658"]
+[BlackElo "2692"]
+[ECO "A46"]
+[Opening "Torre Attack: Classical Defense"]
+[TimeControl "420+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "05:10:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "-1"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 Be7 4. Nbd2 d5 5. e3 h6 6. Bf4 c5 7. c3 O-O 8. Ne5
+Bd7 9. g4 Qb6 10. Rb1 Be8 11. h4 Nfd7 12. g5 f6 13. Nxd7 Nxd7 14. gxh6 g6 15.
+Nf3 Bd6 16. Rg1 cxd4 17. Bxd6 Qxd6 18. cxd4 Kh7 19. Bd3 Kxh6 20. Qc2 Rg8 21.
+Rc1 e5 22. dxe5 Nxe5 23. Nxe5 Qxe5 24. Qc7 Rg7 25. Qxe5 fxe5 26. Rg5 Re7 27. e4
+Rd8 28. Rc5 dxe4 29. Bxe4 Rd4 30. f3 Red7 31. Rcxe5 Bf7 32. Rg2 Rd1+ 33. Kf2
+R1d2+ 34. Kg3 Rxg2+ 35. Kxg2 Bxa2 36. Ra5 Rd2+ 37. Kg3 Rxb2 38. Rxa7 b6 39. Kf4
+Bb1 40. Ke5 Bxe4 41. fxe4 b5 42. Ke6 b4 43. e5 b3 44. Rb7 Kh5 45. Rb4 Rb1 46.
+Ke7 b2 47. e6 Kh6 48. Rb5 Kh7 49. Rb3 Kg7 50. Rb6 Kh7 51. Rb3 Kg7 52. Rb4 Kh7
+53. Rb3 1/2-1/2
+

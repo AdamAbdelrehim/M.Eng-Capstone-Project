@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.06"]
+[Round "-"]
+[White "Floress"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1bq1rk1/pp3ppQ/4pb1p/3p4/1n1P4/2N1PN2/PPB2PPP/R3K2R b KQ -"]
+[Timezone "UTC"]
+[ECO "D43"]
+[ECOUrl "https://www.chess.com/openings/Semi-Slav-Defense-Anti-Meran-Gambit-5...Be7-6.e3-h6"]
+[UTCDate "2021.10.06"]
+[UTCTime "00:39:47"]
+[WhiteElo "1092"]
+[BlackElo "1098"]
+[TimeControl "60"]
+[Termination "Floress won by checkmate"]
+[StartTime "00:39:47"]
+[EndDate "2021.10.06"]
+[EndTime "00:40:14"]
+[Link "https://www.chess.com/game/live/27219659021"]
+
+1. d4 { [%clk 0:01:00] } 1... d5 { [%clk 0:00:59.3] } 2. c4
+{ [%clk 0:00:59.4] } 2... e6 { [%clk 0:00:57.6] } 3. Nc3 { [%clk 0:00:58] }
+3... Nf6 { [%clk 0:00:56.8] } 4. Nf3 { [%clk 0:00:57.5] } 4... c6
+{ [%clk 0:00:54.2] } 5. Bg5 { [%clk 0:00:57] } 5... Be7 { [%clk 0:00:52.8] } 6.
+e3 { [%clk 0:00:56.4] } 6... h6 { [%clk 0:00:52.4] } 7. Bxf6
+{ [%clk 0:00:55.4] } 7... Bxf6 { [%clk 0:00:52.3] } 8. Bd3 { [%clk 0:00:54.6] }
+8... O-O { [%clk 0:00:50.9] } 9. cxd5 { [%clk 0:00:53.6] } 9... cxd5
+{ [%clk 0:00:49.8] } 10. Bc2 { [%clk 0:00:53.5] } 10... Nc6 { [%clk 0:00:48] }
+11. Qd3 { [%clk 0:00:53.4] } 11... Nb4 { [%clk 0:00:47.1] } 12. Qh7#
+{ [%clk 0:00:52.6] } 1-0
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "bazintolya"]
+[Black "calito1969"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/q8bqmCRd"]
+[BlackTitle "IM"]
+[WhiteElo "2464"]
+[BlackElo "2566"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Scandinavian Variation, Bogoljubow Variation, Vehre Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:38:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nc6 2. e4 d5 3. Nc3 Nf6 4. e5 Nd7 5. e6 fxe6 6. Bd3 g6 7. h4 Bg7 8. h5
+Nf8 9. hxg6 hxg6 10. Rxh8 Bxh8 11. Bb5 e5 12. dxe5 Bxe5 13. Nxd5 Qd6 14. Nf3
+Be6 15. Bxc6+ bxc6 16. Nxe5 Qxe5+ 17. Ne3 Rd8 18. Qe2 g5 19. g3 Ng6 20. c3 Qe4
+21. Bd2 Ne5 0-1
+

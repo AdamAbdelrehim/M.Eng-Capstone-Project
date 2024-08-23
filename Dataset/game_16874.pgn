@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "SergioGeorgini"]
+[Black "Arscft"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/mFKNjHc2"]
+[WhiteElo "2574"]
+[BlackElo "2412"]
+[ECO "B51"]
+[Opening "Sicilian Defense: Moscow Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:11:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+25"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. Ba4 a6 5. c4 g6 6. d4 Bg7 7. d5 b5 8. cxb5
+axb5 9. Bc2 Ngf6 10. O-O O-O 11. Re1 Ng4 12. h3 Nge5 13. Nfd2 Nb6 14. Nc3 b4
+15. Ne2 Ba6 16. Nf1 Qd7 17. Rb1 Rfb8 18. b3 c4 19. Nf4 c3 20. Ng3 Bb5 21. Ra1
+Ra7 22. a4 bxa3 23. Rxa3 Rxa3 24. Bxa3 Ra8 25. Bb4 Bh6 26. Nge2 Bxe2 27. Nxe2
+Bd2 28. Rf1 Ra2 29. Bxc3 Bxc3 30. Nxc3 Ra3 31. Qd4 Nc8 32. f4 Qc7 33. fxe5 dxe5
+34. Qb4 Ra6 35. Bd3 Ra8 36. Kh2 Nd6 37. Nb5 Qb6 38. Rc1 Rb8 39. Rc6 Qe3 40. Bc4
+Qxe4 41. Nxd6 Qf4+ 42. Kh1 Rxb4 43. Rc8+ Kg7 44. Ne8+ Kh6 0-1
+

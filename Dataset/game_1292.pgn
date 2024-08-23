@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Cerdifixer"]
+[Black "Bala77"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/PbtSncLD"]
+[WhiteTitle "IM"]
+[BlackTitle "NM"]
+[WhiteElo "2548"]
+[BlackElo "2510"]
+[ECO "E10"]
+[Opening "Blumenfeld Countergambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:14:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 c5 4. d5 b5 5. e4 Nxe4 6. Bd3 Qa5+ 7. Nbd2 Nf6 8. O-O
+Ba6 9. Re1 Be7 10. a4 bxc4 11. Nxc4 Bxc4 12. Bxc4 O-O 13. d6 Bd8 14. Bd2 Qb6
+15. Bc3 Nc6 16. Ne5 Nd4 17. b4 Nf5 18. bxc5 Qxc5 19. Qf3 Rc8 20. Rac1 Qxd6 21.
+Bd3 Rxc3 22. Rxc3 Ba5 23. Nc4 Qd4 24. Rcc1 Bxe1 25. Rxe1 d5 26. Ne5 Ne4 27. Nd7
+Rd8 0-1
+

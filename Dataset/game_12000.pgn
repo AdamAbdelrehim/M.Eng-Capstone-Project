@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "DimaRman"]
+[Black "DrLaPompa"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/38lCEX2n"]
+[WhiteElo "2500"]
+[BlackElo "2401"]
+[ECO "C40"]
+[Opening "Elephant Gambit"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:26:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 e5 2. Nf3 d5 3. d4 dxe4 4. Nxe5 Bd6 5. Nc3 Bxe5 6. dxe5 Qxd1+ 7. Nxd1 Nc6
+8. Nc3 Bf5 9. Bb5 Ne7 10. Bg5 a6 11. Ba4 b5 12. Bb3 Nxe5 13. O-O-O f6 14. Be3
+Rd8 15. Bc5 Nd7 16. Bxe7 Kxe7 17. Nd5+ Kd6 18. Ne3+ 1-0
+

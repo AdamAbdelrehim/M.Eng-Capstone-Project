@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Chess-Network"]
+[Black "bancsoo"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/v4HjGdCt"]
+[WhiteTitle "NM"]
+[BlackTitle "GM"]
+[WhiteElo "2663"]
+[BlackElo "2792"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:28:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. f4 g6 2. e4 Bg7 3. Nf3 d6 4. g3 Nf6 5. d3 O-O 6. Bg2 c5 7. O-O Nc6 8. c3 Rb8
+9. a4 a6 10. h3 b5 11. axb5 axb5 12. g4 b4 13. c4 Ne8 14. f5 Nd4 15. Nbd2 Nxf3+
+16. Nxf3 Nf6 17. Bg5 Nd7 18. Qd2 Ne5 19. Nxe5 Bxe5 20. Bh6 Re8 21. Bf4 Bg7 22.
+Rf2 Bd7 23. Raf1 Ra8 24. Be3 Ra2 25. fxg6 fxg6 26. d4 Be6 27. e5 Bxc4 28. Rc1
+cxd4 29. Qxd4 Be6 30. Bd5 Qd7 31. Bc6 Bxe5 32. Qxb4 Qd8 33. Bxe8 Qxe8 34. Bd4
+Bg3 35. Rf3 Bh4 36. Rcf1 Bd5 37. Rf8+ Qxf8 38. Rxf8+ Kxf8 39. Qb8+ Kf7 40. Qh8
+Ra1+ 41. Kh2 Rh1# 0-1
+

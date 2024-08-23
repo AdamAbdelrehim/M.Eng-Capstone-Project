@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "strategistas"]
+[Black "NothingSpecialBTW"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/YrmwL079"]
+[WhiteElo "2376"]
+[BlackElo "2513"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:00:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 c5 5. Nf3 c4 6. Be2 Nf6 7. O-O Be7 8. b3
+cxb3 9. axb3 O-O 10. c4 Nc6 11. Nc3 Bf5 12. Bg5 Ne4 13. Nxe4 dxe4 14. Bxe7 Qxe7
+15. Ne1 Rad8 16. d5 a6 17. Nc2 Ne5 18. Ne3 Bc8 19. Qd4 f5 20. c5 f4 21. d6 Qg5
+22. Bc4+ Kh8 23. Nd5 Nf3+ 0-1
+

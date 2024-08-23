@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.22"]
+[Round "-"]
+[White "rookiehsn"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rn2kb1r/p4ppp/1p1pb3/1PpN2B1/4n3/6P1/P1P1QP1P/R3KBNR w KQkq -"]
+[Timezone "UTC"]
+[ECO "B20"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Wing-Gambit"]
+[UTCDate "2021.08.22"]
+[UTCTime "04:30:39"]
+[WhiteElo "1483"]
+[BlackElo "1488"]
+[TimeControl "600"]
+[Termination "rookiehsn won by resignation"]
+[StartTime "04:30:39"]
+[EndDate "2021.08.22"]
+[EndTime "04:33:17"]
+[Link "https://www.chess.com/game/live/23345440731"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:10:00] } 2. b4 { [%clk 0:09:48.7] }
+2... b6 { [%clk 0:09:52.7] } 3. d4 { [%clk 0:09:30.9] } 3... d6
+{ [%clk 0:09:48.4] } 4. d5 { [%clk 0:09:22.1] } 4... Nf6 { [%clk 0:09:36] } 5.
+Nc3 { [%clk 0:09:15] } 5... e6 { [%clk 0:09:32.6] } 6. b5 { [%clk 0:09:12] }
+6... exd5 { [%clk 0:09:28.2] } 7. Nxd5 { [%clk 0:09:10.3] } 7... Nxe4
+{ [%clk 0:09:17.3] } 8. Qe2 { [%clk 0:09:08] } 8... Qh4 { [%clk 0:09:02.4] } 9.
+g3 { [%clk 0:08:59] } 9... Qg5 { [%clk 0:08:37.1] } 10. Bxg5
+{ [%clk 0:08:52.5] } 10... Be6 { [%clk 0:08:37] } 1-0
+

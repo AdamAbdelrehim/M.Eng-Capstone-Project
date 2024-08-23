@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ChosAlexeu"]
+[Black "shaxMSTAtist"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/a97C74Dl"]
+[WhiteTitle "IM"]
+[WhiteElo "2544"]
+[BlackElo "2433"]
+[ECO "C16"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:35:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+8"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 Ne7 5. a3 Bxc3+ 6. bxc3 b6 7. Bd3 Ba6 8. Ne2
+Bxd3 9. cxd3 c5 10. O-O Nbc6 11. dxc5 bxc5 12. Qa4 O-O 13. f4 Rc8 14. Be3 d4
+15. Bf2 dxc3 16. Bxc5 Qxd3 17. Qd1 Rfd8 18. Qxd3 Rxd3 19. Rac1 Nd5 20. Rf3 Rxf3
+21. gxf3 Na5 22. Bxa7 Nb3 23. Rb1 Nd2 24. Rd1 Nxf3+ 25. Kf2 Nh4 26. Rc1 Nf5 27.
+Rc2 Kf8 28. Kf3 Ke8 29. Ke4 Kd7 30. Kd3 Ra8 31. Bc5 Ra4 32. Nxc3 Nxc3 33. Rxc3
+Rxf4 34. Rb3 Rf3+ 35. Kc4 Rxb3 36. Kxb3 Kc6 37. Bf8 Kb5 38. a4+ Ka6 39. Kc4 g5
+40. Bb4 g4 41. Kd3 h5 42. Ke4 h4 43. Be1 g3 44. hxg3 h3 45. Kf3 Ne3 46. Kxe3 h2
+47. g4 h1=Q 48. Bg3 Qg2 49. Kf4 Qd2+ 50. Kf3 Qc3+ 51. Kf4 Qc4+ 52. Kg5 Qxa4 53.
+Kf6 Qb3 54. Bh4 Qf3+ 55. Ke7 Qxg4 56. Bf6 Qf5 57. Kxf7 Kb5 58. Ke7 Kc4 59. Kd6
+Kd4 60. Kd7 Kd5 61. Ke7 Qxe5 62. Bxe5 Kxe5 63. Kd7 Kd5 64. Kc7 e5 65. Kb6 e4
+66. Kb5 e3 67. Kb4 e2 68. Kc3 e1=Q+ 69. Kd3 Qe4+ 70. Kc3 Qd4+ 71. Kb3 Qc5 72.
+Kb2 Qc4 73. Kb1 Qc3 74. Ka2 Qb4 75. Ka1 Kc4 76. Ka2 Kc3 77. Ka1 Qb2# 0-1
+

@@ -1,0 +1,36 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.08"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "OLI14"]
+[Result "0-1"]
+[CurrentPosition "r2q1rk1/4bppp/p2p4/1pp5/8/P2BB3/1PP2PPP/R4RK1 b - -"]
+[Timezone "UTC"]
+[ECO "C45"]
+[ECOUrl "https://www.chess.com/openings/Scotch-Game-Scotch-Gambit-Dubois-Reti-Defense"]
+[UTCDate "2021.10.08"]
+[UTCTime "20:19:56"]
+[WhiteElo "1307"]
+[BlackElo "1337"]
+[TimeControl "300"]
+[Termination "OLI14 won by resignation"]
+[StartTime "20:19:56"]
+[EndDate "2021.10.08"]
+[EndTime "20:21:12"]
+[Link "https://www.chess.com/game/live/27463247417"]
+
+1. e4 { [%clk 0:05:00] } 1... e5 { [%clk 0:05:00] } 2. Nf3 { [%clk 0:04:59.2] }
+2... Nc6 { [%clk 0:04:58.9] } 3. Bc4 { [%clk 0:04:58.5] } 3... Nf6
+{ [%clk 0:04:57.7] } 4. d4 { [%clk 0:04:57.9] } 4... exd4 { [%clk 0:04:56] } 5.
+Nxd4 { [%clk 0:04:57.3] } 5... Nxd4 { [%clk 0:04:54.7] } 6. Qxd4
+{ [%clk 0:04:56.6] } 6... d6 { [%clk 0:04:49] } 7. Nc3 { [%clk 0:04:54.4] }
+7... c5 { [%clk 0:04:46.4] } 8. Qd1 { [%clk 0:04:53.4] } 8... Be7
+{ [%clk 0:04:44.8] } 9. Be3 { [%clk 0:04:52.4] } 9... O-O { [%clk 0:04:43.5] }
+10. O-O { [%clk 0:04:50.6] } 10... a6 { [%clk 0:04:38.5] } 11. Qd2
+{ [%clk 0:04:49.3] } 11... b5 { [%clk 0:04:36.9] } 12. Be2 { [%clk 0:04:47.3] }
+12... Bb7 { [%clk 0:04:34.8] } 13. a3 { [%clk 0:04:34] } 13... Nxe4
+{ [%clk 0:04:30.3] } 14. Nxe4 { [%clk 0:04:32] } 14... Bxe4
+{ [%clk 0:04:28.8] } 15. Qd3 { [%clk 0:04:30.7] } 15... Bxd3
+{ [%clk 0:04:27.2] } 16. Bxd3 { [%clk 0:04:27.4] } 0-1
+

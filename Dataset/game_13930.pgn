@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Booksinleather"]
+[Black "man_man_lai"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/2opPGzOL"]
+[WhiteElo "2363"]
+[BlackElo "2523"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Bayonet Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:40:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. g4 Bd7 5. f4 h5 6. g5 g6 7. Bd3 Qb6 8. Nf3 c5 9.
+dxc5 Qxc5 10. Qe2 e6 11. Be3 Qc7 12. c3 Bc5 13. Bd2 a6 14. b4 Ba7 15. a4 Ne7
+16. Nh4 Nbc6 17. b5 axb5 18. axb5 Bf2+ 19. Kxf2 Rxa1 20. bxc6 bxc6 21. Rc1 Bc8
+22. Be3 Qa5 23. c4 Ba6 24. cxd5 Bxd3 25. Qxd3 cxd5 26. Bc5 Kd7 27. Bxe7 Kxe7
+28. Nxg6+ fxg6 29. Qxg6 Rf8 30. Rc6 Rxf4+ 31. Kg3 Rg4+ 32. Kh3 Ra3+ 33. Nc3
+Rxc3+ 34. Rxc3 Qxc3+ 35. Qd3 Qxd3# 0-1
+

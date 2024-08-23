@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Labourdonais"]
+[Black "Chuvak1603"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/AG7nDcj8"]
+[WhiteElo "2585"]
+[BlackElo "2478"]
+[ECO "A40"]
+[Opening "Polish Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:44:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+
+1. d4 b5 2. e3 Bb7 3. Nf3 a6 4. a4 c6 5. c4 b4 6. c5 a5 7. Nbd2 d5 8. cxd6 exd6
+9. Nc4 Nf6 10. b3 g6 11. Bb2 Bg7 12. Rc1 O-O 13. Be2 Re8 14. O-O Ne4 15. Qc2
+Nd7 16. Bd3 Ndf6 17. Nfd2 Nxd2 18. Qxd2 c5 19. dxc5 dxc5 20. Rfd1 Qd5 21. f3
+Qc6 22. Qc2 Qc7 23. Bf1 Ba6 24. e4 Rad8 25. Be5 Rxe5 26. Nxe5 Rxd1 27. Qxd1
+Bxf1 28. Kxf1 Qxe5 29. Qd8+ Bf8 30. Qxa5 Qb2 31. Rd1 Qxb3 32. Qb5 c4 33. Rd8
+Kg7 34. a5 c3 35. a6 c2 36. Rc8 Qb1+ 37. Kf2 b3 38. a7 b2 39. a8=Q c1=Q 40. Kg3
+Qe1+ 41. Kh3 Qbc1 42. Qe5 Qh6+ 0-1
+

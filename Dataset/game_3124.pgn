@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "cn_ua"]
+[Black "sevanb"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/d7nqMBC9"]
+[WhiteTitle "IM"]
+[WhiteElo "2603"]
+[BlackElo "2570"]
+[ECO "D11"]
+[Opening "Slav Defense: Quiet Variation, Pin Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:05:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. e3 Bg4 5. h3 Bh5 6. g4 Bg6 7. Ne5 Nbd7 8. Nxg6
+hxg6 9. Nc3 e6 10. Bg2 dxc4 11. e4 Bb4 12. g5 Nh5 13. Qa4 Qa5 14. Qxa5 Bxa5 15.
+O-O e5 16. Be3 Bb6 17. Rfd1 O-O-O 18. Rac1 exd4 19. Bxd4 Bxd4 20. Rxd4 Ne5 21.
+Rcd1 Rxd4 22. Rxd4 Nf4 23. Kf1 Rh5 24. Ne2 Nxg2 25. Kxg2 Rxg5+ 26. Ng3 Nd3 27.
+Rxc4 Nxb2 28. Rd4 Ra5 29. f4 b5 30. e5 Nc4 31. Ne4 Rxa2+ 32. Kf3 Ra3+ 33. Kf2
+Kc7 34. Ng5 a5 35. Nxf7 Rxh3 36. e6 Re3 37. Rxc4 Rxe6 38. Rc3 Rf6 39. Ne5 Rxf4+
+40. Ke3 Rf6 41. Ke4 b4 42. Rc5 a4 43. Ra5 a3 44. Nc4 c5 45. Rxc5+ Rc6 46. Rxc6+
+Kxc6 47. Kd4 a2 48. Na5+ Kb5 49. Nb3 g5 50. Kd3 g4 51. Kc2 g3 52. Nd4+ Kc4 53.
+Ne2 b3+ 54. Kb2 g2 55. Ng1 Kd4 56. Nf3+ Ke3 57. Ng1 Kf2 58. Nh3+ Kg3 59. Ng1 g5
+60. Ka1 g4 61. Kb2 Kf2 0-1
+

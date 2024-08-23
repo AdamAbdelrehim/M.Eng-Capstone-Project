@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "sugarmagnolia"]
+[Black "Acehunter1"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/jDqK1bvA"]
+[BlackTitle "FM"]
+[WhiteElo "2506"]
+[BlackElo "2418"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Accepted, Fianchetto Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "02:19:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. c3 dxc3 5. Nxc3 Nc6 6. Bc4 Bg7 7. O-O d6 8. e5
+Nxe5 9. Nxe5 Bxe5 10. Qa4+ Bd7 11. Qb3 e6 12. Qxb7 Qb6 13. Qxa8+ Ke7 14. Bb3
+Bc6 15. Qc8 d5 16. Re1 Bb7 17. Rxe5 Bxc8 18. Nxd5+ Kd6 19. Nxb6 Kxe5 20. Nxc8
+Nf6 21. Nxa7 Rb8 22. Nc6+ 1-0
+

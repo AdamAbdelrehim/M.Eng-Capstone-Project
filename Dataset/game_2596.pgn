@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "caropawn10"]
+[Black "aymoon111"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/gSGKjVi7"]
+[WhiteTitle "FM"]
+[BlackTitle "IM"]
+[WhiteElo "2654"]
+[BlackElo "2727"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game: Modern Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:52:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. d5 d6 5. h4 Nf6 6. e4 e6 7. Be2 exd5 8. exd5
+Nbd7 9. h5 O-O 10. hxg6 fxg6 11. Be3 Ne5 12. Nh3 Nfg4 13. Bg5 Bf6 14. Qd2 Qe7
+15. f3 Nxc4 16. Bxf6 Rxf6 17. Qg5 Nge3 18. Nf4 Bf5 19. Rc1 Re8 20. Kf2 Nxb2 21.
+Rce1 Ng4+ 22. fxg4 Qe3+ 23. Kf1 Nd3 24. Nxd3 Qxg5 25. gxf5 Qxf5+ 26. Kg1 Rxe2
+27. Rxe2 Qxd3 28. Rh3 Qd4+ 29. Rhe3 Rf5 30. Kh2 Rh5+ 31. Kg3 Qh4+ 32. Kf3 Rf5#
+0-1
+

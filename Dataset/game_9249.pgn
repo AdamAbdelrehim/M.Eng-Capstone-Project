@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "kalog_08"]
+[Black "thickgreenphlegm"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Rvzc6wL6"]
+[WhiteElo "2362"]
+[BlackElo "2504"]
+[ECO "D01"]
+[Opening "Rapport-Jobava System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:17:50"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. Nc3 d5 2. d4 Nf6 3. Bf4 g6 4. e3 Bg7 5. h4 h6 6. Nf3 O-O 7. Ne5 a6 8. g4
+Nbd7 9. Be2 c6 10. g5 hxg5 11. hxg5 Nh7 12. Nxd7 Bxd7 13. Bg4 Qc8 14. Bxd7 Qxd7
+15. Qf3 Qf5 16. O-O-O e5 17. dxe5 Bxe5 18. Bxe5 Qxf3 0-1
+

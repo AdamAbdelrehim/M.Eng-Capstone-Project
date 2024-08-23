@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "BigOleDoinks"]
+[Black "brentmeir"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/lvdaoqqa"]
+[WhiteElo "2638"]
+[BlackElo "2464"]
+[ECO "D12"]
+[Opening "Slav Defense: Quiet Variation, Schallopp Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:33:39"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Bg6 7. Nxg6 hxg6 8. g3
+Nbd7 9. Bg2 Be7 10. O-O O-O 11. Qe2 Re8 12. Rd1 Qb6 13. b3 Rad8 14. Bb2 Qa5 15.
+a3 dxc4 16. bxc4 Nb6 17. c5 Na4 18. Nxa4 Qxa4 19. Bc3 b6 20. cxb6 axb6 21. Rdb1
+Rb8 22. Bb4 c5 23. Bc3 Nd5 24. Bb2 c4 25. e4 Nf6 26. Bc3 b5 27. Bb4 Bxb4 28.
+Rxb4 Qa5 29. Qb2 Rec8 30. Rc1 Ne8 31. a4 c3 32. Qb1 c2 33. Qb2 Nd6 34. axb5
+Rxb5 35. Rxb5 Nxb5 36. Bf1 Qa3 37. Qxa3 Nxa3 38. Be2 Rc3 39. Kf1 Nb1 40. Ke1
+Kf8 41. Bb5 Ke7 42. Ba4 Rc4 43. Bxc2 Na3 44. Kd2 Rxd4+ 45. Kc3 Rd6 46. Bb3 Rc6+
+47. Kd2 Rxc1 48. Kxc1 Nb5 49. Kd2 Nd4 50. Bd1 Nc6 51. f4 Nb4 52. Ke3 Na6 53. e5
+Nc5 54. Bf3 f6 55. h4 Nd7 56. Kd4 fxe5+ 57. fxe5 Nb6 58. Be4 Nd7 59. Bxg6 Nf8
+60. Be4 Nd7 61. g4 Nb6 62. g5 Nd7 63. h5 Kf8 64. h6 gxh6 65. gxh6 1-0
+

@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "silence404"]
+[Black "Assassinations"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/tlSXO4Zt"]
+[WhiteElo "2813"]
+[BlackElo "2767"]
+[ECO "C78"]
+[Opening "Ruy Lopez: Morphy Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:03:20"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+16"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8. d4
+Bb6 9. h3 O-O 10. Be3 Re8 11. Nbd2 exd4 12. cxd4 Na5 13. Bc2 Bb7 14. Qb1 h6 15.
+Re1 c5 16. d5 c4 17. Nd4 Qc7 18. N2f3 Bc8 19. b4 Nb7 20. Bd2 Bd7 21. Bc3 Nd8
+22. a3 Nh5 23. Qc1 g5 24. Nxg5 f6 25. Ngf3 Nf7 26. g4 Ng7 27. Nf5 Nxf5 28. gxf5
+Kh7 29. Kh2 Ne5 30. Nxe5 dxe5 31. Qd2 Rg8 32. Rg1 Qd6 33. Rg3 Rxg3 34. fxg3 Rg8
+35. Re1 Bd8 36. g4 Be7 37. Qe3 a5 38. Bd2 Bf8 39. Rg1 axb4 40. axb4 Qa6 41. Rg2
+Qa2 42. Bc1 Qa1 43. h4 Qd4 44. Qe2 Bxb4 45. g5 Bxf5 46. Qh5 fxg5 47. exf5 Qxh4+
+48. Qxh4 gxh4 49. f6+ Kh8 50. Rxg8+ Kxg8 51. Bg6 Bf8 52. Kh3 b4 53. Kxh4 c3 54.
+Bc2 Kf7 55. Kg4 Kxf6 56. Bb3 Bd6 57. Kf3 Kf5 58. Bc2+ Kf6 59. Ke4 h5 60. Bb3 h4
+61. Be3 h3 62. Bg1 Bc5 63. Bh2 Bd4 64. d6 Bc5 65. Bxe5+ Kg6 66. d7 Be7 67. Bc7
+Bd8 68. Bd6 h2 69. Be5 h1=Q+ 0-1
+

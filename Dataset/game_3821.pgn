@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "simbelmyne-bot"]
+[Black "Nimfish"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Uhj5ZUbf"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2544"]
+[BlackElo "2309"]
+[ECO "A06"]
+[Opening "Zukertort Opening"]
+[TimeControl "300+3"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:40:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. Nf3 d5 2. e3 c5 3. d4 Nf6 4. c4 cxd4 5. exd4 Bg4 6. cxd5 Nxd5 7. Be2 e6 8.
+O-O Nc6 9. Nc3 Bb4 10. Bg5 f6 11. Nxd5 Qxd5 12. Be3 O-O 13. h3 Bh5 14. Rc1 b5
+15. g4 Be8 16. Ne1 Bg6 17. Nd3 Bxd3 18. Qxd3 Rad8 19. a3 Be7 20. Rfd1 a6 21.
+Bf1 Na5 22. Rc7 Nc4 23. Rxe7 Qd6 24. Ra7 Qb8 25. Rxa6 Qc8 26. Ra7 Qb8 27. Re7
+Qd6 28. Rb7 Nxb2 29. Qb3 Nxd1 30. Qxd1 f5 31. gxf5 exf5 32. d5 Qxd5 33. Qxd5+
+Rxd5 34. Bxb5 Rd1+ 35. Kh2 h6 36. a4 f4 37. Bb6 Rf5 38. Bc4+ Kh7 39. a5 Rg5 40.
+Rf7 Rdg1 41. Bd5 Re1 42. Bf3 Ra1 43. Rxf4 Ra3 44. h4 Rb5 45. Be4+ Kg8 46. Bg6
+Rbxa5 47. Bxa5 Rxa5 48. Rc4 Ra8 49. Rc7 Rb8 50. h5 Kf8 51. Kg3 Kg8 52. Kf4 Kf8
+53. Ke5 Rb5+ 54. Kd6 Rb6+ 55. Kd7 Rb8 56. Rc8+ Rxc8 57. Kxc8 Ke7 58. f3 Kf6 59.
+f4 Ke7 60. f5 Kf6 61. Kd8 Ke5 62. Ke7 Kd4 63. Kf7 Ke3 64. Kxg7 Kf4 65. f6 Ke3
+66. Bb1 Kf3 67. f7 Kf2 68. f8=Q+ Ke3 69. Qb4 Kf2 70. Qe4 Kg3 71. Qe3+ Kg2 72.
+Bf5 Kf1 73. Bh3# 1-0
+

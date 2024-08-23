@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "LittleOyster"]
+[Black "vrencianlehel"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/X7CEYa0R"]
+[WhiteElo "2616"]
+[BlackElo "2467"]
+[ECO "B84"]
+[Opening "Sicilian Defense: Scheveningen Variation, Classical Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:11:45"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Be2 a6 7. O-O b5 8. f4
+Bb7 9. e5 dxe5 10. fxe5 Bc5 11. Be3 Nd5 12. Nxd5 Qxd5 13. Bf3 Qxe5 14. Bxb7
+Qxe3+ 15. Kh1 Ra7 16. Qh5 O-O 17. Qxc5 Rxb7 18. Rae1 Qh6 19. Rxe6 g6 20. Re2
+Nd7 21. Qd5 Ra7 22. Nc6 Rc7 23. Qd6 Qh5 24. Ref2 Rb7 25. Ne7+ Kg7 26. Qxa6 Rb6
+27. Qa7 Rd6 28. Qc7 Qc5 29. Qb7 Re6 30. Nf5+ gxf5 0-1
+

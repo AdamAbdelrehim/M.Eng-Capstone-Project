@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "mmsanchezchess"]
+[Black "Mischuk_D"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/BbIlQit9"]
+[WhiteTitle "IM"]
+[BlackTitle "IM"]
+[WhiteElo "2671"]
+[BlackElo "2681"]
+[ECO "C19"]
+[Opening "French Defense: Winawer Variation, Poisoned Pawn Variation, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:16:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 Nbc6 11. f4 Bd7 12. Qd3 dxc3 13. Rg1 Na5 14. g4
+Rc8 15. h4 a6 16. Rb1 Bb5 17. Rxb5 axb5 18. Qxb5+ Kf8 19. h5 Nc4 20. Qb4 Nd2
+21. Rg3 Ne4 22. Rg1 Kg7 23. Nd4 Nc6 24. Nxc6 Qxc6 25. f5 Qc5 26. Qxc5 Rxc5 27.
+f6+ Kh7 28. g5 Rcc8 29. Bd3 Kh8 30. g6 Rc7 31. Rg4 Ra8 32. g7+ Kg8 33. h6 Ra4
+34. h7+ Kxh7 35. g8=Q# 1-0
+

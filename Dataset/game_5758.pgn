@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "MV_Maple"]
+[Black "Barry_Lindon"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/XGUnTBvj"]
+[WhiteElo "2626"]
+[BlackElo "2534"]
+[ECO "D10"]
+[Opening "Slav Defense: Winawer Countergambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:48:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "-21"]
+[BlackRatingDiff "+7"]
+
+1. d4 d5 2. c4 c6 3. Nc3 e5 4. cxd5 cxd5 5. e4 dxe4 6. d5 f5 7. g4 Nf6 8. gxf5
+Bxf5 9. Bg2 Nbd7 10. Nge2 Bb4 11. Qb3 Qa5 12. O-O Nc5 13. Qc4 Rc8 14. a3 Nd3
+15. Qb5+ Qxb5 16. Nxb5 Bc5 17. b4 a6 18. bxc5 axb5 19. Ng3 g6 20. Bg5 Nxd5 21.
+Nxe4 Bxe4 22. Bxe4 N5f4 23. Bxf4 Nxf4 24. Bxb7 Rxc5 25. Rfd1 Ke7 26. Rab1 Rb8
+27. Be4 Rc3 28. a4 b4 29. a5 Ra3 30. Ra1 Ne2+ 31. Kg2 Nc3 32. a6 Nxd1 33. a7
+Rd8 0-1
+

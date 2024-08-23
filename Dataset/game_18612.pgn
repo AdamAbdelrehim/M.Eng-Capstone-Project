@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "fischerz"]
+[Black "Dabar1"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/XXnBz7XC"]
+[WhiteElo "2504"]
+[BlackElo "2473"]
+[ECO "A40"]
+[Opening "Mikenas Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:17:39"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nc6 2. Nf3 d6 3. Bg5 h6 4. Bh4 g5 5. Bg3 Bg7 6. c3 f5 7. e3 e5 8. dxe5
+dxe5 9. Qxd8+ Kxd8 10. h3 f4 11. exf4 exf4 12. Bh2 Nf6 13. Nbd2 Re8+ 14. Be2
+Bf5 15. Kf1 Kc8 16. g3 fxg3 17. Bxg3 Ne4 18. Nxe4 Bxe4 19. Rg1 Rf8 20. Nd2 Bd5
+21. Bg4+ Kb8 22. Nb3 b6 23. Rd1 Bc4+ 24. Kg2 Kb7 25. Bf3 Rxf3 26. Kxf3 Rf8+ 27.
+Kg2 Be2 28. Rd7 Bf3+ 29. Kh2 Be5 30. Re1 Bxg3+ 31. Kxg3 Kc8 32. Rh7 Rf6 33. Nd4
+Nxd4 34. cxd4 Bd5 35. Ree7 Rf3+ 36. Kg4 Rxf2 37. Rxc7+ Kb8 38. Rce7 Bf3+ 39.
+Kg3 1-0
+

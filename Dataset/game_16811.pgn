@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "johndoe695"]
+[Black "drawingchest"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/v0R4hgN8"]
+[BlackTitle "FM"]
+[WhiteElo "2565"]
+[BlackElo "2550"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "03:51:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 e6 2. c4 d6 3. g3 f5 4. Bg2 Nf6 5. Nc3 Be7 6. Nh3 O-O 7. O-O d5 8. b3 c6
+9. Ng5 Ne4 10. Ngxe4 fxe4 11. f3 exf3 12. Bxf3 Nd7 13. e4 dxc4 14. e5 cxb3 15.
+Qxb3 Nb6 16. Be3 Nd5 17. Bd2 Qb6 18. Qc4 Bd7 19. Bg4 Rxf1+ 20. Rxf1 Rf8 21. Rb1
+Qc7 22. Ne4 b5 23. Qc2 Qb6 24. Nc5 Bxc5 25. dxc5 Qb8 26. Qe4 Qc8 27. Be2 Be8
+28. Rf1 Bg6 29. Rxf8+ Qxf8 30. Qd4 Bf5 31. g4 Bg6 32. h4 h6 33. h5 Bb1 34. a3
+Qe7 35. Kg2 Qh4 36. Bf3 Bf5 37. a4 a6 38. axb5 axb5 39. Be1 Qxe1 40. gxf5 Ne3+
+41. Kh3 Qf1+ 42. Kh4 Nxf5+ 0-1
+

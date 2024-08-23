@@ -1,0 +1,39 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "BitByByte"]
+[Black "YoBot_v2"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/aXijh7BU"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2896"]
+[BlackElo "3028"]
+[ECO "A20"]
+[Opening "English Opening: King's English Variation"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:31:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 c6 4. d4 e4 5. d5 Bb4+ 6. Bd2 Qe7 7. Nc3 O-O 8. e3
+Bxc3 9. Bxc3 cxd5 10. cxd5 d6 11. Ne2 Nbd7 12. Rc1 Nc5 13. O-O a5 14. Bd4 b6
+15. Nf4 Ng4 16. Rc3 g5 17. Nh5 f5 18. f4 exf3 19. Bxf3 Ne5 20. Be2 Bd7 21. Qc2
+Rae8 22. Qd1 Rd8 23. Qc2 Qf7 24. Rd1 Qg6 25. Rf1 Qh6 26. g4 fxg4 27. Bxe5 Rxf1+
+28. Bxf1 dxe5 29. Ng3 Qf6 30. Bg2 Rf8 31. b3 Be8 32. a3 Bg6 33. e4 Qf4 34. b4
+Nd7 35. Qe2 axb4 36. axb4 h5 37. Qe1 h4 38. Ne2 Qf7 39. Rc7 h3 40. Bh1 Ra8 41.
+Qd2 b5 42. Nc1 Qf6 43. Rc6 Qf4 44. Rxg6+ Kh7 45. Qxf4 exf4 46. Rc6 Ne5 47. Rc5
+Ra1 48. d6 g3 49. hxg3 fxg3 50. Kf1 Rb1 51. Rc3 Kh6 52. Ke2 Rb2+ 53. Kd1 Rh2
+54. Rxg3 Rxh1+ 55. Kc2 g4 56. d7 Nxd7 57. Rxg4 Nf6 58. Rg3 Nxe4 59. Re3 h2 60.
+Rh3+ Kg6 61. Ne2 Ng5 62. Rh8 Nh7 63. Re8 Rf1 64. Ng3 Rf2+ 65. Kd1 Rf3 66. Re2
+Rxg3 67. Rxh2 Ng5 68. Rf2 Nf3 69. Ke2 Nd4+ 70. Ke1 Nc6 71. Kd2 Rg4 72. Ke3 Rxb4
+73. Kd3 Rd4+ 74. Kc2 b4 75. Kb2 Na5 76. Kc2 b3+ 77. Kc3 Rc4+ 78. Kb2 Rh4 79.
+Ka3 Rh3 80. Kb4 Nc6+ 81. Kc4 Ne5+ 82. Kd4 Nd3 83. Rf1 b2 84. Kc3 Rf3 85. Rxf3
+b1=Q 86. Rxd3 Kf5 87. Rd5+ Ke4 88. Rd4+ Ke3 89. Rd5 Qe4 90. Rd1 Qc6+ 91. Kb4
+Qb6+ 92. Kc4 Qa6+ 93. Kb4 Qc6 94. Rg1 Qe4+ 95. Ka5 Qd5+ 96. Kb6 Kd2 97. Rb1
+Qe6+ 98. Kc7 Qe5+ 99. Kd8 Qh8+ 100. Ke7 Qh7+ 101. Kf8 Qxb1 102. Ke7 Qb6 103.
+Kf7 Kd3 104. Kg7 Ke4 105. Kh8 Qg1 106. Kh7 Ke5 107. Kh8 Kf6 108. Kh7 Qg7# 0-1
+

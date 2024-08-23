@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "firegus16"]
+[Black "Greifax"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/lPjhxpHf"]
+[WhiteElo "2557"]
+[BlackElo "2614"]
+[ECO "A56"]
+[Opening "Benoni Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:35:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 c5 3. e3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O cxd4 7. exd4 d5 8. h3
+Nc6 9. Nc3 Be6 10. Re1 dxc4 11. Bf1 Bd5 12. Nxd5 Qxd5 13. Qc2 b5 14. a4 a6 15.
+Bg5 e6 16. Rad1 Rab8 17. Qc3 Ne4 18. Qe3 Nxg5 19. Nxg5 Nxd4 20. Ne4 Rfd8 21.
+Nc3 Qf5 22. axb5 axb5 23. Qg3 h5 24. Ne4 Nc2 25. Re2 Be5 26. Rxd8+ Rxd8 27. Qh4
+Rd4 28. f3 Nb4 29. Qe7 Nd5 30. Qe8+ Kg7 31. Qxb5 Nf4 32. Qb7 Nxe2+ 33. Bxe2 Qf4
+34. Qb5 h4 35. Bxc4 Rd1+ 36. Bf1 Bd4+ 37. Kh1 Qc1 38. Kh2 Rxf1 39. Ng3 Qf4 40.
+Qe5+ 0-1
+

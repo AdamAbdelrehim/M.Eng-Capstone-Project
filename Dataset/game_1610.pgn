@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Zakharov_s_d"]
+[Black "Chess_Antistress"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/l9cSLWcD"]
+[WhiteElo "2440"]
+[BlackElo "2523"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:22:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. b3 d5 2. Bb2 Nf6 3. e3 Bf5 4. f4 e6 5. Nf3 Be7 6. Nc3 O-O 7. Ne2 c5 8. Ng3
+Nc6 9. Nxf5 exf5 10. Bd3 Ne4 11. O-O Bf6 12. Bxf6 Qxf6 13. c3 Rfe8 14. Qc2 a6
+15. a3 b5 16. b4 c4 17. Be2 g6 18. a4 Kg7 19. axb5 axb5 20. Qb2 h6 21. Rxa8
+Rxa8 22. Ra1 Qd8 23. d3 Nd6 24. Nd4 Nxd4 25. exd4 Qe8 26. Kf2 Qb8 27. g3 Ra7
+28. dxc4 Ne4+ 29. Kg2 dxc4 30. Bf3 Nf6 31. Rd1 Re7 32. d5 Ne8 33. Qd2 Nd6 34.
+Qd4+ Kh7 35. Qc5 Ra7 36. Rd2 Ra3 37. Qd4 Qd8 38. Qe5 Qb6 39. Re2 Ra1 40. Rf2 h5
+41. h4 Rc1 42. Qf6 Re1 43. Re2 Qg1+ 44. Kh3 Rxe2 45. Bxe2 Qh1# 0-1
+

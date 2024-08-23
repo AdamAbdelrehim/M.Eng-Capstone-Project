@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sleepheaddefence"]
+[Black "Kitteneitor"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/xRUlMGJ2"]
+[WhiteElo "2524"]
+[BlackElo "2343"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:01:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 a6 4. Be3 b5 5. Qd2 Bb7 6. f3 d6 7. h4 h5 8. Nh3 Nd7
+9. Ng5 c5 10. dxc5 Nxc5 11. Bd4 Nf6 12. O-O-O Rc8 13. Kb1 Qc7 14. Nd5 Bxd5 15.
+exd5 O-O 16. g4 Na4 17. gxh5 Nxh5 18. Bxg7 Nxg7 19. Bd3 Nh5 20. Rdg1 Kg7 21.
+Bxg6 Qc4 22. Bxh5 Rh8 23. Ne6+ Kh7 24. Rg7# 1-0
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "GG21982"]
+[Black "vrencianLehel"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/OFRxkCLm"]
+[BlackTitle "FM"]
+[WhiteElo "2628"]
+[BlackElo "2489"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:45:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+8"]
+
+1. d3 d5 2. d4 Nf6 3. e3 c5 4. f4 Nc6 5. c3 Bf5 6. Nf3 e6 7. Bd3 Bxd3 8. Qxd3
+Bd6 9. O-O O-O 10. Nbd2 cxd4 11. exd4 Bxf4 12. Nb3 Bxc1 13. Raxc1 Qd6 14. Nc5
+b6 15. Nb3 Rfe8 16. Ng5 h6 17. Rxf6 hxg5 18. Rf3 e5 19. Qf5 f6 20. Rh3 Ne7 21.
+Qh7+ Kf7 22. dxe5 Qxe5 23. Nd4 Rh8 24. Qd3 Rxh3 25. Qxh3 Rh8 26. Qxh8 Qe3+ 27.
+Kf1 Qxc1+ 28. Ke2 Qxb2+ 29. Kd3 Qb1+ 30. Nc2 Ng6 31. Qh5 Qxa2 32. Nd4 Qb1+ 33.
+Ke3 Kg8 34. h4 Qc1+ 35. Kd3 Nf4# 0-1
+

@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "The_Vengeful_One"]
+[Black "Cultureindustry1"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/JSSRhX8v"]
+[WhiteElo "2514"]
+[BlackElo "2451"]
+[ECO "E92"]
+[Opening "King's Indian Defense: Petrosian Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:14:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+9"]
+
+1. c4 Nf6 2. Nf3 g6 3. Nc3 Bg7 4. d4 d6 5. e4 O-O 6. Be2 e5 7. d5 Na6 8. O-O
+Nc5 9. Qc2 a5 10. Bg5 h6 11. Be3 Nfd7 12. Nd2 f5 13. f3 h5 14. b3 Kh7 15. a3
+Bh6 16. Bxh6 Kxh6 17. b4 Na6 18. Rab1 Qg5 19. Qd3 Nf6 20. exf5 gxf5 21. f4 Qg6
+22. fxe5 dxe5 23. Qe3+ Kh7 24. Qxe5 Rg8 25. Bf3 Bd7 26. Qf4 Rae8 27. c5 Re7 28.
+c6 bxc6 29. dxc6 Bc8 30. Nc4 axb4 31. axb4 Rge8 32. b5 Nc5 33. Nd5 Nxd5 34.
+Bxd5 Ne4 35. Rb3 Rg7 36. Bxe4 Rxe4 37. Rg3 Rxf4 38. Rxf4 Qf6 39. Rxg7+ Kxg7 40.
+Ne3 Qe5 41. Rf3 f4 42. Nf1 Bg4 43. Rf2 Qe1 44. h3 Be2 45. Rxf4 Bxb5 46. Rf2
+Bxc6 47. Rf5 h4 48. Kh2 Qe2 49. Rg5+ Kf6 50. Rg4 Qxf1 51. g3 Bd5 52. Rf4+ Qxf4
+53. gxf4 Kf5 54. Kg1 c5 55. Kh2 c4 56. Kg1 Kxf4 57. Kf2 c3 58. Ke2 c2 59. Kd3
+Kg3 60. Kxc2 Kxh3 61. Kd2 Kg2 62. Ke3 h3 63. Kd4 h2 64. Kxd5 h1=Q 65. Ke5 Kg3
+66. Kf5 Qf3+ 67. Ke5 Qf4+ 68. Kd5 Kg4 69. Kc5 Qf5+ 70. Kd4 Kf4 71. Kc3 Qe5+ 72.
+Kc4 Qe4+ 73. Kc5 Kf5 74. Kd6 Qe5+ 75. Kc6 Kf6 76. Kd7 Kf7 77. Kc6 Qd4 78. Kc7
+Ke6 79. Kc6 Qc4+ 80. Kb6 Kd6 81. Ka7 Qb3 82. Ka6 Kc6 83. Ka5 Qa3# 0-1
+

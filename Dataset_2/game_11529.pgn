@@ -1,0 +1,41 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.02.14"]
+[Round "-"]
+[White "Northbrew"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "2n2rk1/1bprbp1p/pq2pnp1/1p2N1N1/1P1PP3/P5P1/1BQ2PBP/2R2RK1 b - -"]
+[Timezone "UTC"]
+[ECO "A15"]
+[ECOUrl "https://www.chess.com/openings/English-Opening-Anglo-Indian-Defense-2.g3-e6-3.Bg2"]
+[UTCDate "2024.02.14"]
+[UTCTime "16:35:24"]
+[WhiteElo "1908"]
+[BlackElo "1895"]
+[TimeControl "600"]
+[Termination "Northbrew won by resignation"]
+[StartTime "16:35:24"]
+[EndDate "2024.02.14"]
+[EndTime "16:40:55"]
+[Link "https://www.chess.com/game/live/101667670909"]
+
+1. c4 { [%clk 0:10:00] } 1... Nf6 { [%clk 0:09:59.9] } 2. g3
+{ [%clk 0:09:58.9] } 2... e6 { [%clk 0:09:59.2] } 3. Bg2 { [%clk 0:09:57.2] }
+3... d5 { [%clk 0:09:58.9] } 4. Nf3 { [%clk 0:09:56] } 4... dxc4
+{ [%clk 0:09:57.1] } 5. Qa4+ { [%clk 0:09:54] } 5... Nc6 { [%clk 0:09:45.5] }
+6. Qxc4 { [%clk 0:09:52.5] } 6... Qd5 { [%clk 0:09:42] } 7. Qa4
+{ [%clk 0:09:37.8] } 7... b5 { [%clk 0:09:27.4] } 8. Qd1 { [%clk 0:09:34.2] }
+8... Bb7 { [%clk 0:09:17.6] } 9. Nc3 { [%clk 0:09:32.4] } 9... Qc5
+{ [%clk 0:09:12] } 10. d4 { [%clk 0:09:24] } 10... Qb6 { [%clk 0:08:59.2] } 11.
+a3 { [%clk 0:09:17.4] } 11... a6 { [%clk 0:08:57.8] } 12. O-O
+{ [%clk 0:09:15.3] } 12... Rd8 { [%clk 0:08:54.8] } 13. e3 { [%clk 0:09:06.2] }
+13... Be7 { [%clk 0:08:50.5] } 14. b4 { [%clk 0:09:02] } 14... O-O
+{ [%clk 0:08:48.8] } 15. Qc2 { [%clk 0:08:53.6] } 15... Na7
+{ [%clk 0:08:35.2] } 16. Bb2 { [%clk 0:08:40.4] } 16... Nd5
+{ [%clk 0:08:27.8] } 17. Ne4 { [%clk 0:08:31.8] } 17... Nc8
+{ [%clk 0:08:20.6] } 18. Neg5 { [%clk 0:08:23.4] } 18... g6
+{ [%clk 0:07:46.4] } 19. e4 { [%clk 0:08:08.6] } 19... Nf6 { [%clk 0:07:38] }
+20. Rac1 { [%clk 0:07:48] } 20... Rd7 { [%clk 0:07:24.4] } 21. Ne5
+{ [%clk 0:07:33.9] } 1-0
+

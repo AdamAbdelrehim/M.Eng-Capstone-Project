@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Chessblitzer27"]
+[Black "cn_ua"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/5vew9LS6"]
+[BlackTitle "IM"]
+[WhiteElo "2679"]
+[BlackElo "2644"]
+[ECO "E65"]
+[Opening "King's Indian Defense: Fianchetto Variation, Yugoslav Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:09:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. c4 Nf6 2. Nc3 g6 3. g3 Bg7 4. Bg2 O-O 5. d4 d6 6. Nf3 c5 7. O-O cxd4 8. Nxd4
+Nc6 9. Nxc6 bxc6 10. Bxc6 Rb8 11. Bg2 Bb7 12. Bxb7 Rxb7 13. Qc2 Qc8 14. b3 Qh3
+15. f3 d5 16. Bg5 dxc4 17. bxc4 Rc8 18. Rab1 Rbc7 19. Bxf6 Bxf6 20. Nd5 Rxc4
+21. Nxf6+ exf6 22. Qd3 Kg7 23. Rb7 Rc1 24. Rb1 Qxf1# 0-1
+

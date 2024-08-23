@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Dug_Polk"]
+[Black "schnucki45"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/9EsqD59f"]
+[WhiteElo "2499"]
+[BlackElo "2542"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "05:10:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-8"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 Bf5 4. e3 e6 5. c4 c6 6. Qb3 Qb6 7. c5 Qxb3 8. axb3
+a6 9. b4 Nbd7 10. b5 cxb5 11. Bxb5 Rc8 12. Ba4 Be7 13. h3 Bd8 14. Nc3 Bc7 15.
+g3 Ke7 16. Ke2 Bxf4 17. gxf4 Ne4 18. Nxe4 Bxe4 19. Rhc1 Nb8 20. b4 Nc6 21. b5
+axb5 22. Bxb5 Ra8 23. Bxc6 Bxf3+ 24. Kxf3 bxc6 25. Rcb1 Rhb8 26. Rxb8 Rxa1 27.
+Rb6 Kd7 28. Rb7+ Ke8 29. Rc7 Ra6 30. f5 exf5 31. Kf4 Ra2 32. f3 Ra3 33. Rxc6
+g5+ 34. Kxg5 Rxe3 35. Kxf5 Rxf3+ 36. Ke5 Rxh3 37. Kxd5 h5 38. Rh6 h4 39. Kd6
+Kf8 40. c6 Kg7 41. Rh5 Kg6 42. Rc5 Ra3 43. c7 Ra8 44. c8=Q Rxc8 45. Rxc8 f5 46.
+Ke5 1-0
+

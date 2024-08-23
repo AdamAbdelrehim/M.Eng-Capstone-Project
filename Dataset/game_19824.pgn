@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Brnsk_Wolf"]
+[Black "HandKnit"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/VGlbWFR2"]
+[BlackTitle "CM"]
+[WhiteElo "2350"]
+[BlackElo "2516"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:18:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 c5 4. Nf3 Nc6 5. Nbd2 Qb6 6. dxc5 Qxb2 7. Rb1 Qc3 8.
+Bb5 g6 9. e4 Nxe4 10. Be5 Qxc5 11. Bxh8 Qxf2# 0-1
+

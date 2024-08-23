@@ -1,0 +1,36 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.11.15"]
+[Round "-"]
+[White "xxxabnerxxx"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1b2Q1k/ppp3pp/3p4/4N3/3Pr2q/2P5/P1P3PP/R4RK1 b - -"]
+[Timezone "UTC"]
+[ECO "C30"]
+[ECOUrl "https://www.chess.com/openings/Kings-Gambit-Declined-Petrov-Defense"]
+[UTCDate "2021.11.15"]
+[UTCTime "05:15:10"]
+[WhiteElo "1177"]
+[BlackElo "1186"]
+[TimeControl "60"]
+[Termination "xxxabnerxxx won by checkmate"]
+[StartTime "05:15:10"]
+[EndDate "2021.11.15"]
+[EndTime "05:16:31"]
+[Link "https://www.chess.com/game/live/30692331575"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:00:59.6] } 2. f4
+{ [%clk 0:00:59.3] } 2... Nf6 { [%clk 0:00:59.2] } 3. Nf3 { [%clk 0:00:58.4] }
+3... exf4 { [%clk 0:00:57.8] } 4. Nc3 { [%clk 0:00:56.8] } 4... Nc6
+{ [%clk 0:00:55.2] } 5. d4 { [%clk 0:00:55.4] } 5... Bb4 { [%clk 0:00:50.1] }
+6. Bd3 { [%clk 0:00:51.7] } 6... Bxc3+ { [%clk 0:00:44.1] } 7. bxc3
+{ [%clk 0:00:50.5] } 7... O-O { [%clk 0:00:41.9] } 8. O-O { [%clk 0:00:49.4] }
+8... Re8 { [%clk 0:00:40.9] } 9. Bxf4 { [%clk 0:00:48.2] } 9... Nxe4
+{ [%clk 0:00:38.9] } 10. Bxe4 { [%clk 0:00:43.3] } 10... Rxe4
+{ [%clk 0:00:37.9] } 11. Be5 { [%clk 0:00:32.7] } 11... Nxe5
+{ [%clk 0:00:36.4] } 12. Nxe5 { [%clk 0:00:31.7] } 12... d6
+{ [%clk 0:00:35.2] } 13. Qf3 { [%clk 0:00:29.7] } 13... Qh4
+{ [%clk 0:00:28.1] } 14. Qxf7+ { [%clk 0:00:25.4] } 14... Kh8
+{ [%clk 0:00:22.7] } 15. Qf8# { [%clk 0:00:24.2] } 1-0
+

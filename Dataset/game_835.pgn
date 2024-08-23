@@ -1,0 +1,33 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ELO_1500"]
+[Black "PetersBot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/T4G08Ebr"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2696"]
+[BlackElo "2677"]
+[ECO "D41"]
+[Opening "Queen's Gambit Declined: Semi-Tarrasch Defense"]
+[TimeControl "1800+5"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:55:08"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 c5 5. cxd5 cxd4 6. Qxd4 exd5 7. e4 dxe4 8.
+Bb5+ Nc6 9. Qxd8+ Kxd8 10. Ng5 Be6 11. O-O Bb4 12. Ncxe4 Nxe4 13. Nxe4 Ke7 14.
+Bg5+ f6 15. Be3 Rhd8 16. a3 Nd4 17. Ba4 Ba5 18. Nc5 b5 19. Nxe6 Kxe6 20. Bd1
+Rac8 21. Ra2 Kf7 22. b4 Bb6 23. g3 Rc3 24. Kg2 g6 25. Re1 Rd3 26. a4 bxa4 27.
+Bxa4 g5 28. Bd1 Kg6 29. Ba4 h5 30. Raa1 h4 31. Red1 Rxd1 32. Rxd1 hxg3 33. hxg3
+g4 34. Rh1 f5 35. Rh6+ Kf7 36. Bd1 Kg7 37. Ba4 Rd5 38. Rh5 Kf6 39. Rh8 Kg6 40.
+Rh6+ Kg7 41. Rh5 Kf6 42. Rh1 Kg6 43. Rd1 Rd6 44. Rh1 Rd5 45. Bc1 Nf3 46. Be8+
+Kf6 47. Ba4 Rd3 48. Bc2 Rd8 49. Bd1 Nd4 50. Rh6+ Kg7 51. Bg5 Rd5 52. Rh1 Kf7
+53. Be3 Kg7 54. Bf4 Kg6 55. Rh6+ Kg7 56. Rh1 Ne6 57. Bc1 Rd3 58. Be2 Rb3 59.
+Bc4 Rf3 60. Rf1 Nd4 61. Rd1 Rc3 62. Bd5 Rc2 63. Be3 Ne2 64. Bxb6 axb6 65. Bb7
+Rb2 66. Rd5 f4 67. Rg5+ Kf6 68. Rxg4 Rxb4 69. Rh4 Nxg3 70. fxg3 Rb2+ 71. Kf3
+fxg3 72. Kxg3 b5 73. Bh1 b4 74. Rxb4 Rxb4 75. Kg2 Rb1 76. Kh2 Rxh1+ 77. Kxh1
+1/2-1/2
+

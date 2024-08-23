@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Masaker100"]
+[Black "saillok"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/27th9p4G"]
+[WhiteElo "2504"]
+[BlackElo "2434"]
+[ECO "C26"]
+[Opening "Vienna Game: Mieses Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:42:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 d5 4. exd5 Nxd5 5. Nge2 Nxc3 6. Nxc3 Bd7 7. Bg2 Bc6
+8. Bxc6+ Nxc6 9. d3 Bc5 10. Be3 Nd4 11. Ne4 Be7 12. c3 Ne6 13. Qa4+ c6 14.
+O-O-O O-O 15. f4 b5 16. Qc2 exf4 17. gxf4 b4 18. Rhg1 bxc3 19. Qxc3 Kh8 20. f5
+Nc7 21. Qxg7# 1-0
+

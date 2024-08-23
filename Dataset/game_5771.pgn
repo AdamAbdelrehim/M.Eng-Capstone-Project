@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "HATilay"]
+[Black "zxcvbnm595"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/fEMofRCU"]
+[WhiteTitle "FM"]
+[WhiteElo "2545"]
+[BlackElo "2649"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:50:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6 bxc6 7. Bd3 d5 8.
+O-O Be7 9. Qf3 O-O 10. Re1 Bb7 11. Bf4 Re8 12. Rad1 Qa5 13. Be5 Nd7 14. exd5
+Nxe5 15. Rxe5 cxd5 16. Bxh7+ Kf8 17. Rh5 Bf6 18. Bd3 Ke7 19. Ne2 Rh8 20. Nf4
+Kd6 21. c4 Rab8 22. cxd5 e5 23. Rxh8 Rxh8 24. Rc1 Qd2 25. Bf1 Qxc1 0-1
+

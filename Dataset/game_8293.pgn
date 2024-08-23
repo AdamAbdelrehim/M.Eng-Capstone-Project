@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "T-Stevenson"]
+[Black "buildorderbot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Oai14RzR"]
+[WhiteElo "2614"]
+[BlackElo "2612"]
+[ECO "B00"]
+[Opening "Ware Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:58:10"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 a5 2. d4 a4 3. Nf3 h5 4. a3 h4 5. h3 b6 6. c4 Ra5 7. Nc3 Bb7 8. Bd3 Nc6
+9. Nxa4 e5 10. Be3 exd4 11. Nxd4 Ne5 12. Nc3 Nxd3+ 13. Qxd3 Nf6 14. O-O Be7 15.
+Nf5 O-O 16. b4 Re5 17. Bd4 Re6 18. e5 Nh7 19. Nd5 Bg5 20. f4 Bh6 21. Nxh6+ Rxh6
+22. f5 Ng5 23. Be3 Rh7 24. f6 Ne6 25. Rad1 g6 26. Ne7+ Kh8 27. Qxd7 Qa8 28. Qd2
+Rh5 29. Bh6 Rd8 30. Bg7+ Kh7 31. Qf2 Rxd1 32. Rxd1 Qxa3 33. Nd5 Qb3 34. Rd2
+Qxc4 35. Ne3 Qxb4 36. Rd7 Ng5 37. Rd8 Nxh3+ 38. gxh3 Qb1+ 39. Nf1 g5 40. e6 Qe4
+41. Qd2 g4 42. Rh8+ Kg6 43. Rh6+ Kf5 44. Ne3+ Kxe6 0-1
+

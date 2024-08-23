@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.09.13"]
+[Round "-"]
+[White "richblessing"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "k7/pp3r1p/1qnQR3/3p4/3P1P2/3B4/PPP4P/2KR4 b - -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Van-Geet-Opening-Reversed-Nimzowitsch-Variation-2.Nf3-Nc6"]
+[UTCDate "2021.09.13"]
+[UTCTime "18:46:20"]
+[WhiteElo "1484"]
+[BlackElo "1471"]
+[TimeControl "600"]
+[Termination "richblessing won by resignation"]
+[StartTime "18:46:20"]
+[EndDate "2021.09.13"]
+[EndTime "18:55:13"]
+[Link "https://www.chess.com/game/live/25297849093"]
+
+1. Nc3 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:57.8] } 2. Nf3
+{ [%clk 0:09:59.1] } 2... Nc6 { [%clk 0:09:55.9] } 3. d3 { [%clk 0:09:57.2] }
+3... d5 { [%clk 0:09:54.4] } 4. d4 { [%clk 0:09:56.1] } 4... e4
+{ [%clk 0:09:47.4] } 5. Ne5 { [%clk 0:09:49.2] } 5... Nxe5 { [%clk 0:09:35.8] }
+6. dxe5 { [%clk 0:09:47.7] } 6... Bb4 { [%clk 0:09:35.7] } 7. Bd2
+{ [%clk 0:09:41.4] } 7... Bxc3 { [%clk 0:09:33.3] } 8. Bxc3
+{ [%clk 0:09:39.9] } 8... f6 { [%clk 0:09:24.5] } 9. e3 { [%clk 0:09:28.9] }
+9... Ne7 { [%clk 0:09:11.2] } 10. exf6 { [%clk 0:09:26.2] } 10... gxf6
+{ [%clk 0:09:10.4] } 11. Bxf6 { [%clk 0:09:24.2] } 11... Rf8
+{ [%clk 0:09:06.4] } 12. Qh5+ { [%clk 0:09:15.9] } 12... Rf7
+{ [%clk 0:09:02.6] } 13. O-O-O { [%clk 0:08:53.1] } 13... Be6
+{ [%clk 0:08:51.5] } 14. Bc4 { [%clk 0:08:49.3] } 14... c6 { [%clk 0:08:48] }
+15. f3 { [%clk 0:08:40.3] } 15... exf3 { [%clk 0:08:41.6] } 16. gxf3
+{ [%clk 0:08:37.1] } 16... Qb6 { [%clk 0:08:11.3] } 17. Bd4
+{ [%clk 0:08:20.7] } 17... c5 { [%clk 0:07:55.5] } 18. Bd3 { [%clk 0:07:22.3] }
+18... cxd4 { [%clk 0:07:46.9] } 19. exd4 { [%clk 0:07:20.8] } 19... O-O-O
+{ [%clk 0:07:22.7] } 20. Rhe1 { [%clk 0:06:39.6] } 20... Kb8
+{ [%clk 0:06:59.3] } 21. Qe5+ { [%clk 0:06:30.3] } 21... Rd6
+{ [%clk 0:06:48.8] } 22. f4 { [%clk 0:05:18.5] } 22... Nc6 { [%clk 0:06:30.4] }
+23. Qxd6+ { [%clk 0:05:15.3] } 23... Ka8 { [%clk 0:06:13.2] } 24. Rxe6
+{ [%clk 0:05:12.3] } 1-0
+

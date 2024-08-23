@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Hoon_Bot"]
+[Black "SolistaBot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/NoeIFRkW"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2882"]
+[BlackElo "3016"]
+[ECO "A00"]
+[Opening "Amar Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:59:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. Nh3 d5 2. d4 Nf6 3. Nf4 c5 4. c3 Nc6 5. e3 e5 6. dxe5 Nxe5 7. Bb5+ Bd7 8. a4
+a6 9. Be2 Qc7 10. O-O O-O-O 11. Nxd5 Nxd5 12. Qxd5 Bc6 13. Qb3 c4 14. Qc2 h5
+15. Na3 Ng4 16. g3 Bxa3 17. bxa3 Ne5 18. Qf5+ Bd7 19. Qf4 Bh3 20. e4 Bxf1 21.
+Kxf1 Rhe8 22. Be3 g6 23. Rb1 Rd6 24. Bd4 Nd3 25. Bxd3 cxd3 26. f3 Qd7 27. Rb4
+Qe6 28. Qe3 f5 29. e5 Qd5 30. Rb2 Rde6 31. Kg2 Rxe5 32. Bxe5 Rxe5 33. Qf4 g5
+34. Qd4 Qxd4 35. cxd4 Rd5 36. Kf2 Rxd4 37. Ke3 Rxa4 38. Rb3 Kc7 39. Rxd3 Kc6
+40. Kd2 Kc5 41. Kc2 f4 42. Kb3 Rd4 43. Rc3+ Kd5 44. Rc7 fxg3 45. Rg7 g4 46.
+hxg3 Rd3+ 47. Kb2 Rxf3 48. Rg5+ Ke4 49. Rxh5 Rxg3 50. Rh7 Re3 51. Kc2 Rxa3 0-1
+

@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "i_love_1C"]
+[Black "BonessaSagittova"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Ln9opYam"]
+[WhiteElo "2608"]
+[BlackElo "2528"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:10:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. Nf3 O-O 5. Be2 d6 6. O-O Nfd7 7. h3 e5 8. Bh2
+Kh8 9. c4 Nc6 10. Nc3 f5 11. Rb1 exd4 12. Nxd4 Nde5 13. Nxc6 Nxc6 14. Nd5 Be6
+15. Qd2 a5 16. b3 Bf7 17. Rfd1 Nb4 18. Nf4 g5 19. Nh5 Bxh5 20. Bxh5 Nc6 21. Bf3
+Ra7 22. c5 Ne5 23. Be2 f4 24. exf4 gxf4 25. cxd6 f3 26. Bxe5 Bxe5 27. Bxf3 cxd6
+28. Qe3 b6 29. Rbc1 Raf7 30. Rc2 Qe7 31. Bd5 Rxf2 32. Qxf2 Rxf2 33. Rxf2 Bd4
+34. Rxd4 Qe1+ 35. Rf1 Qe3+ 36. Kh1 Qxd4 37. Bf3 Qb2 38. Rd1 Qxa2 39. Rxd6 Qxb3
+40. Be4 Qb4 41. Rd8+ Kg7 42. Rd7+ Kf6 43. Bxh7 a4 44. Bg8 a3 45. Kh2 Qf4+ 46.
+Kh1 Qg5 47. Ba2 Qc1+ 48. Kh2 Qb2 49. Bd5 Ke5 50. Bg8 a2 51. Bxa2 Qxa2 52. Rd3
+b5 53. h4 b4 54. h5 Qe6 55. Re3+ Kf5 56. Rxe6 Kxe6 57. g4 b3 58. g5 b2 59. h6
+b1=Q 0-1
+

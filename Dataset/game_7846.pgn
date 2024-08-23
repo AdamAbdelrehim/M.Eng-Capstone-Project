@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "i_love_1C"]
+[Black "FIDE-Trainer1984"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Wp5nrnWt"]
+[WhiteElo "2560"]
+[BlackElo "2525"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Accelerated London System, Steinitz Countergambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:38:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 d5 2. Bf4 c5 3. e3 Nc6 4. c3 Nf6 5. Nd2 Bf5 6. Qb3 Qc8 7. Ngf3 e6 8. c4
+cxd4 9. Nxd4 Nxd4 10. exd4 Be7 11. Be2 O-O 12. O-O dxc4 13. Nxc4 Nd5 14. Bg3 f6
+15. Rac1 Qd7 16. Ne3 Nxe3 17. fxe3 Rac8 18. Rxc8 Rxc8 19. Rxf5 Rc1+ 20. Rf1 1-0
+

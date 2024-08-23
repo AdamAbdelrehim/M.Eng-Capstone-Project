@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.21"]
+[Round "-"]
+[White "wesam777"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1bBnrk1/pp3pp1/2n5/2b5/4p3/1BP4P/PP3PQ1/RN2K1NR b KQ -"]
+[Timezone "UTC"]
+[ECO "C20"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Napoleon-Attack"]
+[UTCDate "2021.02.21"]
+[UTCTime "06:16:39"]
+[WhiteElo "1009"]
+[BlackElo "938"]
+[TimeControl "180"]
+[Termination "wesam777 won by resignation"]
+[StartTime "06:16:39"]
+[EndDate "2021.02.21"]
+[EndTime "06:18:30"]
+[Link "https://www.chess.com/game/live/7627279665"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:03:00] } 2. Qf3 { [%clk 0:02:59.7] }
+2... Nf6 { [%clk 0:02:55.5] } 3. Bc4 { [%clk 0:02:59.4] } 3... c6
+{ [%clk 0:02:45] } 4. c3 { [%clk 0:02:58.5] } 4... d5 { [%clk 0:02:44] } 5.
+exd5 { [%clk 0:02:57.7] } 5... cxd5 { [%clk 0:02:41.8] } 6. Bb3
+{ [%clk 0:02:56.9] } 6... Nc6 { [%clk 0:02:36.4] } 7. h3 { [%clk 0:02:50.7] }
+7... Bc5 { [%clk 0:02:31.4] } 8. g4 { [%clk 0:02:49.1] } 8... h6
+{ [%clk 0:02:21] } 9. d3 { [%clk 0:02:44] } 9... O-O { [%clk 0:02:11.2] } 10.
+g5 { [%clk 0:02:41.3] } 10... hxg5 { [%clk 0:02:04.8] } 11. Bxg5
+{ [%clk 0:02:39.9] } 11... e4 { [%clk 0:01:55.5] } 12. dxe4
+{ [%clk 0:02:37.4] } 12... dxe4 { [%clk 0:01:54.2] } 13. Qg2
+{ [%clk 0:02:36.4] } 13... Ne8 { [%clk 0:01:47] } 14. Bxd8 { [%clk 0:02:33.5] }
+1-0
+

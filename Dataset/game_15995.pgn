@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "RavenEngine"]
+[Black "PurpleHunter"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/u7r0z1O3"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2512"]
+[BlackElo "2597"]
+[ECO "C45"]
+[Opening "Scotch Game: Potter Variation"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "23:21:38"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nb3 Bb6 6. Nc3 d6 7. Bf4 Nf6 8.
+Qd2 a5 9. Bb5 a4 10. Bxa4 Rxa4 11. Nxa4 Nxe4 12. Qe2 Bxf2+ 13. Kf1 f5 14. Nc3
+O-O 15. Nxe4 fxe4 16. Qxf2 g5 17. Qe3 Rxf4+ 18. Kg1 d5 19. Nd4 Qd6 20. Ne2 h6
+21. Nxf4 gxf4 22. Qc3 d4 23. Qd2 e3 24. Qd3 Ne5 25. Qe4 f3 26. Rf1 f2+ 27. Rxf2
+exf2+ 28. Kxf2 c5 29. Rf1 Ng4+ 30. Ke1 Kg7 31. Rf4 Ne3 32. g3 b6 33. Kd2 Bd7
+34. Qf3 Bc6 35. Qe2 Qe6 36. b3 Bh1 37. Kc1 Be4 38. c4 Bg6 39. h4 h5 40. Kd2 Qh3
+41. Rf3 Qh1 42. Rxe3 dxe3+ 43. Qxe3 Qg2+ 44. Ke1 Qe4 45. Kf2 Kf7 46. Qxe4 Bxe4
+47. Ke3 Bf5 48. Kd2 Kf6 49. a3 Ke5 50. Ke3 Be6 51. Kd3 Bd7 52. b4 Be8 53. b5
+Bg6+ 54. Ke3 Be4 55. a4 Bf5 56. Kf2 Bc2 57. Ke3 Bxa4 58. Kd3 Bd1 59. Kd2 Bf3
+60. g4 Bxg4 61. Kd3 Be6 62. Kc3 Ke4 63. Kd2 Kd4 64. Ke2 Bxc4+ 65. Kf3 Bxb5 66.
+Kf2 c4 67. Ke1 c3 68. Kd1 Bd3 69. Kc1 b5 70. Kd1 Ke3 71. Kc1 b4 72. Kd1 b3 73.
+Kc1 b2+ 74. Kd1 b1=Q# 0-1
+

@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "HugoBerthier"]
+[Black "yoruv"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/v0dPY3IM"]
+[WhiteElo "2440"]
+[BlackElo "2524"]
+[ECO "A40"]
+[Opening "Montevideo Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:40:38"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nc6 2. d5 Nb8 3. e4 d6 4. c4 e5 5. Nc3 Nf6 6. g3 Be7 7. Bh3 Bxh3 8. Nxh3
+Nbd7 9. Be3 Nf8 10. Qe2 Qd7 11. Ng5 Ng6 12. h4 h6 13. Nf3 Ng4 14. Nd2 Nxe3 15.
+Qxe3 a6 16. O-O-O O-O 17. Kb1 Rfb8 18. Nb3 b5 19. c5 b4 20. Ne2 a5 21. c6 Qc8
+22. Qd3 a4 23. Nd2 Bf6 24. Nc4 Qd8 25. Ne3 Ne7 26. Rdg1 Ng6 27. Nf5 Ne7 28. g4
+Nxf5 29. gxf5 Bxh4 30. Ng3 Bg5 31. Nh5 f6 32. Qg3 Rb5 33. f4 exf4 34. Nxf4 Qe7
+35. Ne6 Rc5 36. Qd3 a3 37. b3 Rc3 38. Qb5 Qe8 39. Qxb4 Re3 40. Re1 Rxe1+ 41.
+Rxe1 Rc8 42. Qxa3 Qh5 43. Qb2 Qh4 44. Qe2 Qg3 45. Kb2 Bf4 46. Nxf4 Qxf4 47. Qe3
+Qe5+ 48. Qc3 Qh2+ 49. Kb1 Re8 50. a4 Qh4 51. a5 Rxe4 52. Rxe4 Qxe4+ 53. Kb2
+Qxd5 54. a6 Qb5 55. Qc4+ Qxc4 56. bxc4 h5 57. a7 Kh7 58. a8=Q Kh6 59. Qe8 Kg5
+60. Qg6+ Kf4 61. Qxh5 Ke5 62. Qg6 d5 63. cxd5 Kxd5 64. Qxg7 Ke5 65. Qxc7+ Kxf5
+66. Qd7+ Ke5 67. c7 f5 68. c8=Q f4 69. Qf5+ Kd4 70. Qxf4+ Kd5 71. Qd2+ Ke4 72.
+Qf8 Ke5 73. Qe8+ Kf6 74. Qdd7 1-0
+

@@ -1,0 +1,46 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "RaspFish"]
+[Black "PetersBot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/0iPvYChg"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2977"]
+[BlackElo "2972"]
+[ECO "A00"]
+[Opening "Saragossa Opening"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:53:39"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. c3 e5 2. d3 d5 3. Nf3 Nc6 4. Nbd2 h6 5. e4 Bg4 6. Qa4 Bd7 7. exd5 Nd4 8. Qd1
+Nxf3+ 9. Qxf3 Nf6 10. Nc4 Bg4 11. Qg3 Qxd5 12. Qxe5+ Qxe5+ 13. Nxe5 Be6 14. Be2
+Bd6 15. Nf3 a5 16. a4 O-O-O 17. O-O Rhe8 18. Re1 g5 19. Bd2 c5 20. d4 g4 21.
+Nh4 cxd4 22. cxd4 Bc7 23. g3 Kb8 24. Ng2 Bb3 25. Ra3 Bc2 26. Be3 h5 27. Rc1 Bh7
+28. Bb5 Re6 29. Nf4 Re7 30. Bd3 Bxd3 31. Rxd3 b6 32. Rc6 Rd6 33. Rc4 Kb7 34.
+Kf1 Rdd7 35. Ng2 Rd5 36. Bf4 Bxf4 37. Nxf4 Rdd7 38. d5 Re5 39. Rcd4 Rc7 40. h4
+Kc8 41. Rd1 Kd7 42. d6 Rc2 43. Kg1 Rec5 44. Nd3 Rf5 45. Re1 Nd5 46. Nf4 Rc5 47.
+Re2 Nxf4 48. Re7+ Kd8 49. gxf4 b5 50. b4 axb4 51. Rxb4 Rcd5 52. axb5 Rxd6 53.
+Re5 Rxe5 54. fxe5 Rd5 55. b6 Kc8 56. Rf4 Rxe5 57. Rxf7 Rb5 58. Rf6 Kb7 59. Kg2
+Rb3 60. Rh6 Rb5 61. Rf6 Rb3 62. Rh6 Rb5 63. Re6 Ka6 64. Rg6 Rb3 65. Rh6 Rb5 66.
+Rg6 Rb3 67. Rh6 Rb5 68. Rf6 Rb3 69. Rf5 Kxb6 70. Rxh5 Kc6 71. Rg5 Kd6 72. Rxg4
+Ke6 73. Rf4 Rb1 74. Kh3 Rh1+ 75. Kg4 Rg1+ 76. Kh3 Rh1+ 77. Kg4 Rg1+ 78. Kf3 Rh1
+79. Kg2 Ra1 80. Rf8 Ke7 81. Rf4 Ra8 82. Kh3 Rh8 83. Kg4 Rg8+ 84. Kf5 Kf7 85.
+Ke5+ Ke7 86. Kf5 Kf7 87. Rc4 Rf8 88. f4 Ke7+ 89. Kg4 Rg8+ 90. Kf5 Rf8+ 91. Ke5
+Kf7 92. f5 Re8+ 93. Kf4 Re1 94. Kg5 Rg1+ 95. Rg4 Ra1 96. h5 Kg7 97. h6+ Kh7 98.
+Rg2 Rb1 99. Rd2 Rg1+ 100. Kh5 Rh1+ 101. Kg5 Rg1+ 102. Kf6 Ra1 103. Re2 Rb1 104.
+Re8 Ra1 105. Re2 Rb1 106. Re4 Ra1 107. Re3 Rb1 108. Re2 Ra1 109. Re4 Rb1 110.
+Re8 Ra1 111. Re4 Rb1 112. Rd4 Ra1 113. Kg5 Rg1+ 114. Kf6 Ra1 115. Rd2 Rb1 116.
+Rh2 Ra1 117. Kg5 Rb1 118. f6 Rb5+ 119. Kg4 Rb4+ 120. Kg5 Rb5+ 121. Kf4 Rb1 122.
+Kf5 Rb5+ 123. Kf4 Rb1 124. Kf5 Rb5+ 125. Ke6 Rb6+ 126. Ke5 Rb5+ 127. Kd6 Rb6+
+128. Ke7 Rb7+ 129. Ke8 Rb8+ 130. Ke7 Rb7+ 131. Ke6 Rb6+ 132. Kf7 Rb7+ 133. Kf8
+Rb8+ 134. Kf7 Rb7+ 135. Ke8 Rb8+ 136. Kd7 Rb7+ 137. Kd8 Rb8+ 138. Kd7 Rb7+ 139.
+Kd6 Rb6+ 140. Ke5 Rb5+ 141. Ke4 Rb4+ 142. Ke3 Rb3+ 143. Kd4 Rb4+ 144. Kd5 Rb5+
+145. Ke4 Rb4+ 146. Kd5 Rb5+ 147. Ke4 1/2-1/2
+

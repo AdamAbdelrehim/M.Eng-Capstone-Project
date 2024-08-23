@@ -1,0 +1,37 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "expositor"]
+[Black "PurpleHunter"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/sAheulap"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2748"]
+[BlackElo "2598"]
+[ECO "C45"]
+[Opening "Scotch Game: Schmidt Variation"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:54:54"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. Nc3 Bb4 8.
+exd5 cxd5 9. O-O O-O 10. h3 c6 11. Bf4 h6 12. Qf3 Re8 13. a3 Bd6 14. Rfe1 Be6
+15. Ne2 c5 16. Bb5 Re7 17. Rad1 a6 18. Bd3 Qc7 19. b4 Bxf4 20. Nxf4 c4 21. Bf1
+a5 22. b5 a4 23. Rb1 Qc5 24. Qc3 Rb8 25. Nd3 Qd6 26. Ne5 Bd7 27. b6 Bf5 28. Qd4
+Re6 29. Nf3 Be4 30. b7 Qa6 31. Qc3 Rxb7 32. Rxb7 Qxb7 33. Nd4 Ra6 34. f3 Bg6
+35. g4 Qb8 36. Kg2 h5 37. Qe3 h4 38. Qf2 Qf4 39. Ne2 Qd6 40. Qxh4 Qxa3 41. Nf4
+Qc5 42. Nxg6 fxg6 43. Qg5 Qa5 44. Re5 a3 45. Bxc4 a2 46. Bxa2 Qxa2 47. Qxg6 Qa5
+48. Re2 Nd7 49. Re8+ Nf8 50. Qd3 Rd6 51. h4 Qa4 52. Rc8 Qd7 53. Qc3 Re6 54. Qc5
+Rf6 55. h5 Qe6 56. Qc3 Rf7 57. Ra8 Re7 58. Qd3 Qc6 59. Rd8 Rd7 60. Rb8 Rd6 61.
+Kh3 Qd7 62. Ra8 Rf6 63. Kg2 Rc6 64. Kh3 Qd6 65. Qf5 Rc7 66. Ra5 Rd7 67. Kg2 Qc6
+68. g5 g6 69. hxg6 Nxg6 70. Ra8+ Kg7 71. Ra6 Nh4+ 72. Kh3 Nxf5 73. Rxc6 Ne7 74.
+Re6 Rc7 75. Kg3 Kf7 76. Rf6+ Kg8 77. Re6 Nf5+ 78. Kf4 Rf7 79. Rf6 Rxf6 80. gxf6
+Nd4 81. Ke5 Nxc2 82. Kf5 d4 83. Ke4 Kf7 84. Kd3 Nb4+ 85. Kxd4 Nc2+ 86. Ke5 Na3
+87. f4 Nb5 88. f5 Nc3 89. Kd6 Na4 90. Kc6 Nb2 91. Kd7 Nd3 92. Kc7 Ne5 93. Kd8
+Nf3 94. Kc8 Nd2 95. Kd7 1-0
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "mick_chess"]
+[Black "Bashkirtsev_Ivan12"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/5bmRTCiq"]
+[WhiteElo "2777"]
+[BlackElo "2729"]
+[ECO "B70"]
+[Opening "Sicilian Defense: Dragon Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:22:51"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-16"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Bc4 Bg7 7. Bb3 Nc6 8. f3
+O-O 9. Be3 Nxd4 10. Bxd4 Bd7 11. Qd2 b5 12. O-O-O a5 13. a4 bxa4 14. Bxa4 Qc7
+15. h4 Bxa4 16. Nxa4 h5 17. g4 hxg4 18. h5 gxh5 19. Bxf6 Bxf6 20. Rxh5 Rfc8 21.
+Rdh1 Qb7 22. Qh6 Rc5 23. Rxc5 dxc5 24. Rg1 1-0
+

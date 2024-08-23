@@ -1,0 +1,43 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "zlatana75"]
+[Black "RaspFish"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/LuWYK0js"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3027"]
+[BlackElo "2983"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:09:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+0"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. Be3 Nf6 5. Qd2 c6 6. a4 O-O 7. f3 Nbd7 8. h4 h5
+9. Nh3 a6 10. Be2 e5 11. Ng5 d5 12. g4 Rb8 13. dxe5 Nxe5 14. Ba7 Ra8 15. Bd4
+Re8 16. O-O-O dxe4 17. Ncxe4 Nxe4 18. Nxe4 c5 19. Bxc5 Qxd2+ 20. Rxd2 hxg4 21.
+Nd6 Rf8 22. fxg4 Bxg4 23. Bxg4 Nxg4 24. Re2 Rfd8 25. h5 b6 26. Bb4 a5 27. hxg6
+fxg6 28. Ba3 Ne5 29. c3 Ra7 30. Kc2 Rad7 31. Rd1 g5 32. Rg1 Rxd6 33. Bxd6 Rxd6
+34. Rxg5 Ng6 35. Kb3 Nf4 36. Re7 Ne6 37. Rg4 Kf8 38. Ra7 Rc6 39. Rc4 Nc5+ 40.
+Kc2 Bf6 41. b4 axb4 42. cxb4 Ne6 43. Rxc6 Nd4+ 44. Kd3 Nxc6 45. Rb7 Nxb4+ 46.
+Kc4 b5+ 47. Kxb5 Be7 48. Rd7 Ke8 49. Rd1 Nc2 50. a5 Bg5 51. a6 Be3 52. Kc4 Ba7
+53. Rd2 Ne3+ 54. Kb5 Nf5 55. Kc6 Ne7+ 56. Kb7 Bg1 57. Rd1 Bf2 58. Kc7 Bg3+ 59.
+Kb7 Bf2 60. Rd3 Bg1 61. Rg3 Bf2 62. Rd3 Bg1 63. Kc7 Bh2+ 64. Kb6 Bg1+ 65. Kb7
+Kf7 66. Rd1 Be3 67. Kc7 Ba7 68. Kd6 Nf5+ 69. Ke5 Ne7 70. Kd6 Nf5+ 71. Ke5 Ne7
+72. Rb1 Nc8 73. Kd5 Ke7 74. Kc6 Bf2 75. Kc7 Nd6 76. Rb2 Ne8+ 77. Kc6 Bg1 78.
+Rb1 Bf2 79. Re1+ Kd8 80. Rf1 Ba7 81. Rf7 Bg1 82. Rf1 Ba7 83. Kb7 Bc5 84. Rd1+
+Ke7 85. Kc6 Bf2 86. Rd2 Bg1 87. Rd7+ Ke6 88. Rd1 Ba7 89. Re1+ Kf7 90. Rf1+ Ke6
+91. Re1+ Kf7 92. Ra1 Nf6 93. Kb7 Bf2 94. Rb1 Be3 95. Kc6 Ne8 96. Rb6 Bxb6 97.
+Kxb6 Nd6 98. Kc6 Nc8 99. Kc7 Na7 100. Kb6 Nc8+ 101. Kc7 Na7 102. Kb6 Nc8+ 103.
+Kb7 Nd6+ 104. Kc6 Nc8 105. Kb7 Nd6+ 106. Kb8 Nb5 107. Kc8 Na7+ 108. Kb7 Nb5
+109. Kc6 Na7+ 110. Kb7 Nb5 111. Kc6 Na7+ 112. Kc7 Ke7 113. Kb6 Kd7 114. Kb7 Kd8
+115. Kb6 Nb5 116. Kxb5 Kc8 117. Kc6 Kb8 118. Kb6 Ka8 119. Kc5 Ka7 120. Kb5 Kb8
+121. Kb6 Ka8 122. Kc6 Ka7 123. Kb5 Kb8 124. Kb4 Kc7 125. Kc5 Kb8 126. Kb4 Kc8
+127. Kc4 Kb8 128. Kb5 Kc7 129. Kc5 Kc8 130. Kc6 Kb8 131. Kb6 1/2-1/2
+

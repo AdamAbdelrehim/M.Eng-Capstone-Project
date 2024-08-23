@@ -1,0 +1,36 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "zlatana75"]
+[Black "RaspFish"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/NmQhBurS"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3034"]
+[BlackElo "2984"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Main Line"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:59:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 c4 7. Nbd2 Na5 8. Be2 h6
+9. h4 Bd7 10. Rb1 O-O-O 11. g3 Ne7 12. h5 Kb8 13. Nf1 Nc8 14. Bf4 Be7 15. Ne3
+Ka8 16. Qc2 Rdf8 17. Kf1 Qd8 18. Re1 Nb6 19. Kg2 Ba4 20. Qb1 Nd7 21. Ng4 Qe8
+22. Nh4 Rfg8 23. Rh3 Nc6 24. Bd2 Bd8 25. Reh1 Ba5 26. Qc1 Bd8 27. Qb1 a6 28.
+Ne3 Ba5 29. Nf1 Nf8 30. f4 f6 31. Kf2 Ne7 32. Ne3 fxe5 33. fxe5 Nh7 34. Neg2
+Rf8+ 35. Kg1 Qf7 36. Nf4 Ng5 37. R3h2 Ne4 38. Qe1 Rhg8 39. Bg4 Nf5 40. Nhg6
+Nexg3 41. Nxf8 Qxf8 42. Nxe6 Qf7 43. Bxf5 Nxf5 44. Nf4 Ne7 45. Rf2 Bc2 46. Kh2
+Bd8 47. Rg1 Ka7 48. Qe2 Be4 49. Be1 Qe8 50. Ne6 g5 51. hxg6 Nxg6 52. Nc5 Bb1
+53. Rff1 b6 54. Qd1 bxc5 55. Qxb1 Bg5 56. Qf5 Rf8 57. Qh3 cxd4 58. cxd4 Rf4 59.
+Rxf4 Nxf4 60. Qf3 Nd3 61. Bg3 Kb6 62. b3 Qb5 63. a4 Qb4 64. e6 Qd2+ 65. Rg2 Ne1
+66. a5+ Kc6 67. Bxe1 Qxe1 68. Re2 Qh4+ 69. Kg2 Bf6 70. bxc4 Qg5+ 71. Kf1 Be7
+72. cxd5+ Kd6 73. Kf2 Qh4+ 74. Ke3 Bf6 75. Qf4+ Kxd5 76. Qxh4 Bxh4 77. Kf4 Be7
+78. Kf5 h5 79. Rb2 Bh4 80. Rb7 Kc6 81. Ra7 Kd6 82. Rd7+ Kc6 83. d5+ Kc5 84. e7
+Bxe7 85. Rxe7 Kxd5 86. Re6 Kc5 87. Rxa6 1-0
+

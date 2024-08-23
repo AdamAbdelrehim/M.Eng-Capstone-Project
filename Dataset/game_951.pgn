@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "drawingchest"]
+[Black "hhcuuid"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/LCk34giD"]
+[WhiteTitle "FM"]
+[WhiteElo "2581"]
+[BlackElo "2625"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "05:33:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c6 5. Nf3 Bf5 6. Bc4 e6 7. Bd2 Nd7 8.
+Qe2 Ngf6 9. d5 cxd5 10. Nxd5 Qd8 11. Ne3 Bg6 12. O-O-O a6 13. h4 Qc7 14. h5
+Bxh5 15. Rxh5 Nxh5 16. Nd5 Qd8 17. Ng5 Nhf6 18. Nxe6 fxe6 19. Qxe6+ Be7 20.
+Nc7+ Qxc7 0-1
+

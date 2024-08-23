@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "thanozz"]
+[Black "silence404"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/EFwH98fA"]
+[WhiteElo "2786"]
+[BlackElo "2802"]
+[ECO "A05"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:15:52"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 c5 6. d4 cxd4 7. Nxd4 Nc6 8.
+Nc3 Nxd4 9. Qxd4 d6 10. Qd3 a6 11. Bd2 Rb8 12. Rac1 Bf5 13. e4 Bd7 14. a4 Bc6
+15. Rfd1 a5 16. Nd5 Nd7 17. b3 Nc5 18. Qb1 e6 19. Nc3 Qb6 20. Nb5 Bxb5 21. cxb5
+Bd4 22. Bxa5 Bxf2+ 23. Kxf2 Nd3+ 24. Ke2 Nxc1+ 25. Qxc1 Qxa5 26. Rxd6 Rfd8 27.
+Qd2 Qc7 28. e5 Rdc8 29. Be4 Qc5 30. Qd4 Qc1 31. h4 h5 32. Rd7 Kg7 33. Qd2 Qg1
+34. Qf4 Qh2+ 35. Ke3 Qg1+ 36. Kd2 Qc1+ 37. Ke2 Qxf4 38. gxf4 Rc3 39. Bxb7 Rxb3
+40. Bc6 Rc8 41. a5 Ra3 42. a6 Rxc6 43. bxc6 Rxa6 44. c7 Rc6 45. Kd3 g5 46. fxg5
+Kg6 47. Ke4 Rc4+ 48. Kd3 Rc1 49. Kd4 Kf5 50. Rxf7+ Kg6 51. Rf6+ Kg7 52. Rxe6
+Rxc7 53. Rd6 Rc1 54. Kd5 Re1 55. Ke6 Rh1 56. Kf5 Rf1+ 57. Ke4 Re1+ 58. Kd5 Rb1
+59. Ke6 Re1 60. Rd7+ Kg6 61. Kd6 Rb1 62. e6 Ra1 63. Ke7 Rd1 64. Ke8 Re1 65. e7
+Rf1 66. Kd8 Kf5 67. e8=Q Kg4 68. Qxh5+ Kh3 69. g6 Rf3 0-1
+

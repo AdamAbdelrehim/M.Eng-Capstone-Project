@@ -1,0 +1,38 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.31"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "brandonpeate"]
+[Result "1-0"]
+[CurrentPosition "rn4k1/ppp3Q1/5B1r/7p/5qp1/2N5/PPPR1PPP/2K2B1R b - -"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Goldsmith-Defense"]
+[UTCDate "2022.10.31"]
+[UTCTime "00:36:34"]
+[WhiteElo "1397"]
+[BlackElo "544"]
+[TimeControl "60"]
+[Termination "AdamAbdelrehim won by checkmate"]
+[StartTime "00:36:34"]
+[EndDate "2022.10.31"]
+[EndTime "00:37:30"]
+[Link "https://www.chess.com/game/live/60915568870"]
+
+1. e4 { [%clk 0:00:58.2] } 1... h5 { [%clk 0:00:58.2] } 2. Nf3
+{ [%clk 0:00:57.6] } 2... g5 { [%clk 0:00:57.5] } 3. d4 { [%clk 0:00:56.6] }
+3... f5 { [%clk 0:00:56.7] } 4. exf5 { [%clk 0:00:55.8] } 4... e5
+{ [%clk 0:00:55.7] } 5. Nc3 { [%clk 0:00:55.7] } 5... d5 { [%clk 0:00:54.4] }
+6. dxe5 { [%clk 0:00:54.8] } 6... d4 { [%clk 0:00:53.1] } 7. Nxd4
+{ [%clk 0:00:53.6] } 7... g4 { [%clk 0:00:51.4] } 8. f6 { [%clk 0:00:53.3] }
+8... Be7 { [%clk 0:00:48.4] } 9. Bg5 { [%clk 0:00:52.9] } 9... Bxf6
+{ [%clk 0:00:47] } 10. exf6 { [%clk 0:00:51.7] } 10... Nxf6
+{ [%clk 0:00:46.5] } 11. Qe2+ { [%clk 0:00:49.4] } 11... Be6
+{ [%clk 0:00:42.9] } 12. O-O-O { [%clk 0:00:48.3] } 12... Qxd4
+{ [%clk 0:00:38.7] } 13. Qxe6+ { [%clk 0:00:45.8] } 13... Kf8
+{ [%clk 0:00:36.7] } 14. Bxf6 { [%clk 0:00:43.9] } 14... Qf4+
+{ [%clk 0:00:35.9] } 15. Rd2 { [%clk 0:00:40.7] } 15... Rh6
+{ [%clk 0:00:34.2] } 16. Qe7+ { [%clk 0:00:39.9] } 16... Kg8
+{ [%clk 0:00:32.9] } 17. Qg7# { [%clk 0:00:39.8] } 1-0
+

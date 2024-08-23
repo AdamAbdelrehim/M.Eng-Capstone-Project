@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "random_fan"]
+[Black "bravadochess"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/wYrQ8TLX"]
+[BlackTitle "IM"]
+[WhiteElo "2482"]
+[BlackElo "2568"]
+[ECO "D01"]
+[Opening "Richter-Veresov Attack: Veresov Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "01:46:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Bf5 4. Bxf6 exf6 5. e3 Bb4 6. Bd3 Qd7 7. Ne2 c6 8.
+a3 Ba5 9. Bxf5 Qxf5 10. O-O Nd7 11. e4 dxe4 12. Ng3 Qg6 13. Ncxe4 O-O 14. Qf3
+Bc7 15. Nf5 Rfe8 16. Rfe1 Kf8 17. c3 Rad8 18. Re2 Nb6 19. Rae1 Nd5 20. Nc5 Rxe2
+21. Rxe2 Nf4 0-1
+

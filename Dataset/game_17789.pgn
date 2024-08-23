@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "firegus16"]
+[Black "Frostwrath"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/aMNnlp09"]
+[WhiteElo "2558"]
+[BlackElo "2477"]
+[ECO "B14"]
+[Opening "Caro-Kann Defense: Panov Attack, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:59:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. e3 cxd4 6. exd4 Bb4 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 a6 10. Bg5 b5 11. Bd3 Bb7 12. Qe2 h6 13. Bh4 g5 14. Bg3 Nc6 15.
+Rad1 Kg7 16. Ne4 Nxd4 17. Nxd4 Qxd4 18. Nxf6 Qxf6 19. Be5 Be7 20. Bxf6+ Bxf6
+21. Be4 Bxe4 22. Qxe4 Bxb2 23. Rd7 Rac8 24. Qxe6 Rfd8 25. Qxf7+ 1-0
+

@@ -1,0 +1,36 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.04"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Christtaaa"]
+[Result "0-1"]
+[CurrentPosition "2r2rk1/pp1n1ppp/4pn2/3p4/3q4/1PP5/P1QN1PPP/R3R1K1 w - -"]
+[Timezone "UTC"]
+[ECO "C02"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Advance-Paulsen-Euwe-Variation"]
+[UTCDate "2022.10.04"]
+[UTCTime "05:22:44"]
+[WhiteElo "1750"]
+[BlackElo "1777"]
+[TimeControl "600"]
+[Termination "Christtaaa won by resignation"]
+[StartTime "05:22:44"]
+[EndDate "2022.10.04"]
+[EndTime "05:24:53"]
+[Link "https://www.chess.com/game/live/58600154965"]
+
+1. e4 { [%clk 0:10:00] } 1... e6 { [%clk 0:09:59.9] } 2. d4
+{ [%clk 0:09:58.3] } 2... d5 { [%clk 0:09:59.8] } 3. e5 { [%clk 0:09:55.5] }
+3... c5 { [%clk 0:09:59.2] } 4. c3 { [%clk 0:09:55.1] } 4... Nc6
+{ [%clk 0:09:57.5] } 5. Nf3 { [%clk 0:09:54.7] } 5... Bd7 { [%clk 0:09:55.7] }
+6. Bb5 { [%clk 0:09:54.2] } 6... Nxe5 { [%clk 0:09:54.4] } 7. Bxd7+
+{ [%clk 0:09:42.8] } 7... Nxd7 { [%clk 0:09:54.3] } 8. Be3 { [%clk 0:09:38.6] }
+8... cxd4 { [%clk 0:09:50.9] } 9. Bxd4 { [%clk 0:09:38.5] } 9... Ngf6
+{ [%clk 0:09:45.9] } 10. O-O { [%clk 0:09:37.3] } 10... Bc5 { [%clk 0:09:45] }
+11. Re1 { [%clk 0:09:33.8] } 11... Bxd4 { [%clk 0:09:42.8] } 12. Nxd4
+{ [%clk 0:09:31.4] } 12... O-O { [%clk 0:09:42.3] } 13. Nd2
+{ [%clk 0:09:24.9] } 13... Qb6 { [%clk 0:09:41.2] } 14. b3 { [%clk 0:09:19.7] }
+14... Rac8 { [%clk 0:09:24.2] } 15. Qc2 { [%clk 0:09:13.6] } 15... Qxd4
+{ [%clk 0:08:47.8] } 0-1
+

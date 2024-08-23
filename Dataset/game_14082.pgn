@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "B_moradi"]
+[Black "KingRussellHantz"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/TsYhDp9W"]
+[WhiteElo "2346"]
+[BlackElo "2516"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:54:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
+h5 9. Nd5 Bxd5 10. exd5 Nbd7 11. c4 g6 12. Be2 Bg7 13. O-O Qc7 14. Rc1 b6 15.
+f4 O-O 16. f5 a5 17. Kh1 Nc5 18. Bg5 Nfe4 19. Be3 Qe7 20. Nxc5 bxc5 21. Bd3 Qh4
+22. Qf3 gxf5 23. g3 Qh3 24. Bxe4 fxe4 25. Qxe4 f5 26. Qg2 Qg4 27. h3 Qg6 28.
+Rf2 Rab8 29. Rcf1 a4 30. Qf3 Kh7 31. Kh2 Rb4 32. Qe2 e4 33. Qc2 Rxb2 34. Qxa4
+Rxf2+ 35. Rxf2 Be5 36. Bf4 Re8 37. Qd7+ Kg8 38. Bxe5 Rxe5 39. Qd8+ Kg7 40. Qd7+
+Qf7 41. Qxd6 Re7 42. Qf4 e3 43. Re2 Qf6 44. d6 Re4 45. Qf3 Qxd6 46. Qxf5 Qd4
+47. Qg5+ Kf7 48. Qxh5+ Ke7 49. Qf5 Qxc4 50. Rb2 Re6 51. Rb7+ Kd6 52. Rb6+ Ke7
+53. Rb7+ Kd6 54. Rb6+ Kd7 55. Qf7+ Re7 56. Qxc4 e2 57. Qd5+ Ke8 58. Rb8# 1-0
+

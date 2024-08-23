@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "matamancos2"]
+[Black "Frostwrath"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/FZKwaMzk"]
+[WhiteElo "2547"]
+[BlackElo "2518"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "03:38:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
+Nbd7 9. g4 b5 10. Qd2 b4 11. Nd5 Bxd5 12. exd5 a5 13. g5 Nh5 14. Bb5 Be7 15. a3
+O-O 16. axb4 Nf4 17. bxa5 Bxg5 18. O-O-O Nc5 19. Nxc5 Rxa5 20. Qb4 Nd3+ 21.
+Nxd3 Bxe3+ 22. Kb1 Qa8 23. c3 Rb8 24. Bc6 Qa7 25. Qc4 Ra1+ 26. Kc2 Rxd1 27.
+Rxd1 Bg5 28. Qe4 Qa2 29. Nb4 Qa7 30. Qe2 Qb6 31. Ra1 f6 32. Ra6 h5 33. Rxb6
+Rxb6 34. Qe4 Rb8 35. Qg6 Rf8 36. Bd7 Re8 37. Be6+ Rxe6 38. dxe6 f5 39. Qxg5 Kf8
+40. Qxf5+ Ke8 41. Qf7+ Kd8 42. Qd7# 1-0
+

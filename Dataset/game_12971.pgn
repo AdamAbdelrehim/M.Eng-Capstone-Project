@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "KZAAM"]
+[Black "legitimatez"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/33Kw9G2K"]
+[WhiteElo "2516"]
+[BlackElo "2568"]
+[ECO "B54"]
+[Opening "Sicilian Defense: Prins Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:40:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 Nc6 6. c4 e5 7. Nc2 Be7 8. Nc3
+O-O 9. Be3 Ne8 10. Be2 f5 11. O-O f4 12. Bf2 Nc7 13. Qd2 g5 14. Rfd1 Qe8 15.
+Rac1 h5 16. b4 g4 17. b5 Nd8 18. Nb4 Rf7 19. Ncd5 Bf8 20. Nxc7 Rxc7 21. Nd5 Rf7
+22. c5 g3 23. hxg3 fxg3 24. Be3 dxc5 25. Bxc5 Ne6 26. Bxf8 Qxf8 27. Rc2 Nd4 28.
+Rc4 Be6 29. Rdc1 Qg7 30. Rc7 Raf8 31. Rxf7 Rxf7 32. a4 h4 33. Bd1 h3 34. gxh3
+Nxf3+ 35. Bxf3 Rxf3 36. Nc7 Bxh3 37. Ne8 Qg6 38. Qd5+ Kh7 39. Rc7+ Kh6 40. Qd2+
+Kh5 41. Ng7+ Kh4 42. Nf5+ Qxf5 43. exf5 Rf1# 0-1
+

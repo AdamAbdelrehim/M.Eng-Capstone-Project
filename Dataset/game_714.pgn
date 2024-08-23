@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "BGIlehoangbach"]
+[Black "Kurald_Ganorin"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/jmDVcwwi"]
+[WhiteElo "2698"]
+[BlackElo "2925"]
+[ECO "B01"]
+[Opening "Scandinavian Defense"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:15:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "-24"]
+[BlackRatingDiff "+5"]
+
+1. e4 d5 2. e5 Bf5 3. Be2 g5 4. Nf3 e6 5. O-O h5 6. c4 g4 7. Ne1 Bc5 8. g3 h4
+9. Kh1 hxg3 10. fxg3 Qg5 11. d4 Qh5 12. Rf2 Be4+ 13. Rg2 Qxh2# 0-1
+

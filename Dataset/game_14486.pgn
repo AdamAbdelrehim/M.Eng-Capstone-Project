@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "maminatetka"]
+[Black "FIDE-Trainer1984"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/0X6y175F"]
+[WhiteElo "2406"]
+[BlackElo "2510"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack, Open Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:30:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 c6 2. c4 e5 3. Nc3 Bc5 4. h3 d6 5. a3 a5 6. Nf3 Qb6 7. Qe2 Qa7 8. g3 Na6
+9. Bg2 Nc7 10. O-O Ne6 11. d3 Nf6 12. Be3 Nd7 13. Bxc5 Qxc5 14. Kh2 Nd4 15.
+Nxd4 Qxd4 16. Qe3 Nc5 17. Rfd1 Nb3 18. Rab1 a4 19. Qxd4 Nxd4 20. f4 f6 21. Rd2
+Ke7 22. Ne2 Nb3 23. Rdd1 Be6 24. f5 Bf7 25. Kg1 Rhb8 26. Kf2 b5 27. cxb5 c5 28.
+Nc1 Nd4 29. Ne2 Nxb5 30. Ke3 Ra6 31. Nc3 Nd4 32. g4 Bb3 33. Rd2 Rab6 34. Bf3 g5
+35. Bd1 Nb5 36. Ne2 Bxd1 37. Rbxd1 Nd4 38. Rb1 Rb3 39. Nc3 Rxc3 40. bxc3 Rxb1
+41. cxd4 exd4+ 42. Kf3 Rb3 43. h4 h6 44. hxg5 hxg5 45. Ke2 d5 46. Rb2 Kd6 47.
+Rc2 Rxa3 48. Ra2 Rxa2+ 49. Kf3 a3 50. e5+ Kxe5 51. Kg3 Rd2 0-1
+

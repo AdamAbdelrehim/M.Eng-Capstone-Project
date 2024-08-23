@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "LeSabroso"]
+[Black "loasis"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/i1ILHMNV"]
+[WhiteElo "2521"]
+[BlackElo "2446"]
+[ECO "E60"]
+[Opening "Indian Defense: King's Indian Variation, Fianchetto Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:52:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+5"]
+
+1. g3 Nf6 2. Bg2 g6 3. d4 Bg7 4. c4 O-O 5. Nc3 d6 6. e4 Na6 7. Nge2 e5 8. O-O
+exd4 9. Nxd4 c6 10. h3 Nc5 11. b4 Ne6 12. Bb2 Nxd4 13. Qxd4 Nd5 14. Qxg7+ Kxg7
+15. Nxd5+ f6 16. Nf4 a5 17. b5 g5 18. Nh5+ Kg6 19. g4 Be6 20. Rac1 Rc8 21. f4
+gxf4 22. Nxf4+ Kf7 23. Nh5 Kg6 24. Nf4+ Kf7 25. Nh5 Kg6 26. Nf4+ 1/2-1/2
+

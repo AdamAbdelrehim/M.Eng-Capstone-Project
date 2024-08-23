@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "BumbleBeeTuna"]
+[Black "Elmarmalade"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/OVeL65XC"]
+[BlackTitle "GM"]
+[WhiteElo "2318"]
+[BlackElo "2565"]
+[ECO "E92"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:23:36"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Nf3 e5 7. Bg5 h6 8. Bh4
+exd4 9. Nxd4 Re8 10. f3 Nc6 11. Nc2 Ne5 12. O-O c6 13. Bf2 Nh5 14. Qd2 Be6 15.
+b3 g5 16. g3 Qf6 17. f4 gxf4 18. Bxh5 Qg5 19. Be2 fxg3 20. Qxg5 gxf2+ 21. Rxf2
+hxg5 22. Rd1 Nxc4 23. Bxc4 Bxc4 24. Rxd6 Bxc3 25. bxc4 Rxe4 26. Rd7 Rf8 27.
+Rxb7 Rxc4 28. Rxa7 Be5 29. Kg2 Rg4+ 30. Kf3 Rh4 31. Rg2 f6 32. Ne3 Rh3+ 33. Ke4
+Re8 34. Nf5 Ba1+ 35. Re7 Ra8 36. Nd6 Ra5 37. Rg1 Be5 38. Nc4 Ra4 39. Rc1 Kf8
+40. Rd7 Rh4+ 41. Kd3 Rxh2 42. Nxe5 Rh3+ 43. Ke2 Rxa2+ 44. Rd2 Rh2+ 45. Kd3
+Raxd2+ 46. Ke4 fxe5 47. Kxe5 Rhf2 48. Rxc6 Kg7 49. Ke4 Rf6 50. Ke3 Rd7 51. Rc8
+Kg6 52. Rg8+ Kh5 53. Ra8 Kg4 54. Ke4 Rf4+ 55. Ke3 Re7+ 56. Kd3 Kf3 57. Rh8 Rd7+
+58. Kc3 g4 59. Rh1 g3 60. Rf1+ Kg4 61. Rg1 1-0
+

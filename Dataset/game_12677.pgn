@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Igor_Akimov32"]
+[Black "yoruv"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/LdP3d1Bb"]
+[WhiteElo "2549"]
+[BlackElo "2544"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Williams Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:58:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+
+1. e4 Nc6 2. Nf3 d6 3. d4 Bg4 4. Bc4 Nf6 5. Nc3 e5 6. dxe5 dxe5 7. Qxd8+ Rxd8
+8. Ng5 Bh5 9. a3 Nd4 10. Bd3 h6 11. Nh3 c6 12. f3 Bc5 13. Na4 Be7 14. Be3 b5
+15. Nc3 Bc5 16. Kf2 Ke7 17. Ng1 Nxc2 18. Bxc5+ Ke6 19. Bxc2 Rd2+ 20. Nge2 Rxc2
+21. Rad1 Nd7 22. Rd6+ Ke7 23. Rd2+ Nxc5 24. Rxc2 Rd8 25. Rd1 Rc8 26. b4 Ne6 27.
+Nxb5 a6 28. Nd6 Rc7 29. Nf5+ Kf6 30. Rd6 c5 31. bxc5 g6 32. Nfg3 Ke7 33. Nxh5
+gxh5 34. Rxa6 Nxc5 35. Rxc5 Rxc5 36. Rxh6 Ra5 37. Rxh5 Ke6 38. f4 Rxa3 39.
+Rxe5+ Kf6 40. g4 Kg6 41. Rg5+ Kh6 42. Rf5 Kg6 43. g5 Rd3 44. Ng3 Rd2+ 45. Kf3
+Rxh2 46. Kg4 Kg7 47. Rf6 Kg8 48. Nf5 Rg2+ 49. Kf3 Rh2 50. Nh6+ Kh8 51. Nxf7+
+Kg7 52. Rh6 Ra2 53. Ne5 Ra1 54. Rg6+ Kh7 55. Rc6 Ra7 56. g6+ Kg7 57. f5 Kh6 58.
+f6 Rb7 59. g7 Kh7 60. Rc8 Rb2 61. Rh8# 1-0
+

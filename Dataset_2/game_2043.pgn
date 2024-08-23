@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.09.21"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Arturo00"]
+[Result "1-0"]
+[CurrentPosition "B7/5p1p/1P2pkp1/2n5/8/2P4P/P4PP1/4K2R b K -"]
+[Timezone "UTC"]
+[ECO "B01"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Main-Line-4.d4-c6"]
+[UTCDate "2021.09.21"]
+[UTCTime "04:35:39"]
+[WhiteElo "1486"]
+[BlackElo "1473"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "04:35:39"]
+[EndDate "2021.09.21"]
+[EndTime "04:39:35"]
+[Link "https://www.chess.com/game/live/25937958105"]
+
+1. e4 { [%clk 0:10:00] } 1... d5 { [%clk 0:09:58.2] } 2. exd5
+{ [%clk 0:09:56.3] } 2... Qxd5 { [%clk 0:09:58.1] } 3. Nc3 { [%clk 0:09:55.6] }
+3... Qa5 { [%clk 0:09:55.3] } 4. d4 { [%clk 0:09:54.9] } 4... c6
+{ [%clk 0:09:49.1] } 5. Bd2 { [%clk 0:09:54] } 5... Qd8 { [%clk 0:09:46] } 6.
+Nf3 { [%clk 0:09:49.7] } 6... Bg4 { [%clk 0:09:41.6] } 7. Be2
+{ [%clk 0:09:47.3] } 7... e6 { [%clk 0:09:34] } 8. h3 { [%clk 0:09:44.6] } 8...
+Bxf3 { [%clk 0:09:31.3] } 9. Bxf3 { [%clk 0:09:44.5] } 9... Qxd4
+{ [%clk 0:09:23.7] } 10. Be3 { [%clk 0:09:42.9] } 10... Qxd1+
+{ [%clk 0:09:21.1] } 11. Rxd1 { [%clk 0:09:42.8] } 11... Nf6
+{ [%clk 0:09:16.6] } 12. Nb5 { [%clk 0:09:31.6] } 12... Na6
+{ [%clk 0:09:08.2] } 13. Nxa7 { [%clk 0:09:13.3] } 13... Bb4+
+{ [%clk 0:08:59] } 14. c3 { [%clk 0:09:08] } 14... Ba5 { [%clk 0:08:46.1] } 15.
+b4 { [%clk 0:09:04.5] } 15... Bd8 { [%clk 0:08:43.1] } 16. Nxc6
+{ [%clk 0:09:01.7] } 16... bxc6 { [%clk 0:08:38.9] } 17. Bxc6+
+{ [%clk 0:08:59.8] } 17... Kf8 { [%clk 0:08:31.3] } 18. Bxa8 { [%clk 0:08:58] }
+18... g6 { [%clk 0:08:27.2] } 19. Rxd8+ { [%clk 0:08:34.8] } 19... Kg7
+{ [%clk 0:08:24.2] } 20. Rxh8 { [%clk 0:08:19.2] } 20... Kxh8
+{ [%clk 0:08:20.6] } 21. Bd4 { [%clk 0:08:17.2] } 21... Kg7
+{ [%clk 0:08:20.5] } 22. Bxf6+ { [%clk 0:08:11.8] } 22... Kxf6
+{ [%clk 0:08:18.7] } 23. b5 { [%clk 0:08:11.3] } 23... Nc5 { [%clk 0:08:16.8] }
+24. b6 { [%clk 0:08:09.9] } 1-0
+

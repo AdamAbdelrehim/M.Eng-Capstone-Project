@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "ChessOKRU"]
+[Black "comicsclub"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/UHdyC77k"]
+[WhiteTitle "NM"]
+[WhiteElo "2501"]
+[BlackElo "2585"]
+[ECO "A48"]
+[Opening "Queen's Pawn Game: Torre Attack, Grünfeld Variation, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:28:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. Bd3 c5 7. c3 b6 8. O-O
+Bb7 9. Qb1 Nc6 10. b4 cxb4 11. cxb4 Rc8 12. a3 h6 13. Bh4 g5 14. Bg3 Nh5 15.
+Rc1 Nxg3 16. hxg3 e6 17. Ra2 Qd6 18. Rac2 Ne7 19. g4 Rxc2 20. Rxc2 Rc8 21.
+Rxc8+ Bxc8 22. Qc2 Bd7 23. g3 a5 24. Qc3 axb4 25. axb4 Qb8 26. Qa3 Nc8 27. Bb1
+Nd6 28. Qd3 Kf8 29. Ne5 Bb5 30. Qh7 Qc7 31. Bd3 Qc1+ 32. Nf1 Be8 33. f4 Qe1 34.
+Nf3 Qxb4 35. fxg5 hxg5 36. Nxg5 Qc3 37. Qh4 Qxd3 38. Nh7+ Kg8 39. Ng5 b5 40.
+Nf3 b4 41. Qd8 Bf8 42. Ne5 Qa6 43. g5 Qc8 44. Qf6 Bg7 45. Qf4 Bxe5 46. dxe5 Nf5
+47. g4 Ne7 48. Ng3 Ng6 49. Qf6 Qc5 50. Kf2 Qe7 51. Nh5 Qxf6+ 52. exf6 b3 53.
+Nf4 Nxf4 54. exf4 b2 0-1
+

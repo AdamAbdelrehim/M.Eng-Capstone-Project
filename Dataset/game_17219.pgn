@@ -1,0 +1,28 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "leokatz21"]
+[Black "SearchNDestroy"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/lwejAAlm"]
+[BlackTitle "NM"]
+[WhiteElo "2311"]
+[BlackElo "2566"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:46:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8.
+Qc2 h5 9. Ne2 h4 10. Be3 Re8 11. O-O-O Nd7 12. h3 b5 13. Rhg1 Nb6 14. g3 Nd5
+15. Bd2 Bf5 16. Bxf5 Rxe2 17. gxh4 Rxf2 18. Bh7+ Kh8 19. Kb1 Ne3 20. Bxe3 Rxc2
+21. Bxc2 Qd7 22. Rg4 Re8 23. Rdg1 Rxe3 24. a3 Qe6 25. d5 Re1+ 26. Ka2 Qxd5+ 27.
+c4 Qd2 28. R1g2 Re2 29. Re4 Qxc2 30. Rgxe2 Qc1 31. cxb5 cxb5 32. Re1 Qc5 33.
+R1e3 Be5 34. Re2 a5 35. Kb1 b4 36. a4 b3 37. R4e3 Qc4 38. Re4 Qd3+ 39. Kc1 Bf4+
+40. Rxf4 Qxe2 41. h5 Qe1# 0-1
+

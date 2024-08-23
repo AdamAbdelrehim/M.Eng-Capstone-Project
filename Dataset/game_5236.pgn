@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Weiawaga"]
+[Black "odonata-bot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ayspVgR2"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2661"]
+[BlackElo "2630"]
+[ECO "A46"]
+[Opening "Indian Defense: Knights Variation"]
+[TimeControl "420+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:45:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b5 4. Nbd2 Bb7 5. Nb3 a5 6. a4 b4 7. Bg2 Be7 8. Bg5
+O-O 9. O-O d6 10. Nfd2 Bxg2 11. Kxg2 Nbd7 12. Bxf6 Bxf6 13. Nc4 d5 14. Ncxa5
+Qc8 15. e4 dxe4 16. Qe2 c5 17. dxc5 Bxb2 18. Ra2 Bc3 19. Qb5 Qc7 20. Rd1 Ne5
+21. Nc4 f5 22. Qb6 Qf7 23. Nxe5 Bxe5 24. Rf1 f4 25. Qxb4 Qf5 26. Qc4 f3+ 27.
+Kh1 Qh3 28. Rg1 Rf6 29. Qf1 Qh5 30. Qc1 g5 31. h4 Rf4 32. Qxf4 gxf4 33. c3 Kh8
+34. Nd2 fxg3 35. fxg3 Bxg3 36. Rd1 Qxh4+ 37. Kg1 Qh2+ 38. Kf1 Qh1# 0-1
+

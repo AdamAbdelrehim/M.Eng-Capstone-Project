@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "eugmind"]
+[Black "Dzon_Vejn"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/n6BdngHj"]
+[WhiteElo "2515"]
+[BlackElo "2340"]
+[ECO "C56"]
+[Opening "Italian Game: Scotch Gambit, Max Lange Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:56:00"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O Nf6 6. Re1 O-O 7. e5 Ng4 8. h3
+Nh6 9. Bxh6 gxh6 10. Nbd2 d5 11. Bd3 f6 12. exf6 Qxf6 13. Nf1 Bxh3 14. N1h2 Bf5
+15. Bxf5 Qxf5 16. Qd2 Qg6 17. a3 Rae8 18. Rxe8 Rxe8 19. Re1 Re4 20. Nf1 Qe6 21.
+Ng3 Rxe1+ 22. Nxe1 Ne5 23. Nd3 Bb6 24. Nxe5 Qxe5 25. Qxh6 d3 26. Nh5 Qe1+ 27.
+Kh2 Qe5+ 28. f4 Qd4 29. cxd3 Qg1+ 30. Kh3 Qh1+ 31. Kg4 Qxg2+ 32. Kf5 Qg6+ 33.
+Qxg6+ hxg6+ 34. Kxg6 c5 35. Nf6+ Kf8 36. Nxd5 Ba5 37. Kf6 b5 38. b4 cxb4 39.
+axb4 Bd8+ 40. Ke6 a5 41. bxa5 Bxa5 42. Nf6 b4 43. Nd7+ Ke8 44. Nc5 Bb6 45. Nb3
+Kf8 46. d4 Bd8 47. f5 Ke8 48. d5 Bc7 49. d6 Bxd6 50. Kxd6 Kf7 51. Ke5 Ke7 52.
+f6+ Kf7 53. Kf5 Kf8 54. Ke6 Ke8 55. f7+ Kf8 56. Nc5 Kg7 57. Ke7 Kg6 58. f8=Q b3
+59. Qf6+ Kh5 60. Qf5+ Kh4 61. Ne4 b2 62. Qg5+ 1-0
+

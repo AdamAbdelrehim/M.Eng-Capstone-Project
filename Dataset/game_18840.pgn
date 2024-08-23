@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "DragonMaster3000"]
+[Black "Marblemaster"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/gboX7Zde"]
+[WhiteElo "2526"]
+[BlackElo "2564"]
+[ECO "B09"]
+[Opening "Pirc Defense: Austrian Attack, Dragon Formation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:50:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 c5 6. dxc5 Qa5 7. Bb5+ Bd7 8. Qe2
+O-O 9. Bxd7 Nbxd7 10. O-O Nxc5 11. Kh1 Rac8 12. e5 Nfd7 13. exd6 exd6 14. Bd2
+Rfe8 15. Qf2 Qb4 16. Rab1 Ne4 17. Nxe4 Qxe4 18. c3 Nc5 19. Ng5 Qc2 20. Be3 Qxf2
+21. Bxf2 Re2 22. Nh3 Nd3 23. Bxa7 Ra8 24. Rfd1 Nxb2 25. Ng1 Rc2 0-1
+

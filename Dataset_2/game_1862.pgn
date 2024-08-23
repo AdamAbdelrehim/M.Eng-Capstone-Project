@@ -1,0 +1,42 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.23"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "luislaw"]
+[Result "1-0"]
+[CurrentPosition "2r4k/1p4p1/1p3b1p/2p5/8/5N1P/PPP2PP1/1K1RR3 w - -"]
+[Timezone "UTC"]
+[ECO "C55"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Anti-Fried-Liver-Defense"]
+[UTCDate "2021.08.23"]
+[UTCTime "17:51:36"]
+[WhiteElo "1520"]
+[BlackElo "1552"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "17:51:36"]
+[EndDate "2021.08.23"]
+[EndTime "17:56:36"]
+[Link "https://www.chess.com/game/live/23479921475"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:59.4] }
+2... Nc6 { [%clk 0:09:57.8] } 3. Bc4 { [%clk 0:09:58.8] } 3... h6
+{ [%clk 0:09:56.2] } 4. d4 { [%clk 0:09:58.1] } 4... exd4 { [%clk 0:09:54.3] }
+5. Nxd4 { [%clk 0:09:58] } 5... Nxd4 { [%clk 0:09:53.3] } 6. Qxd4
+{ [%clk 0:09:57.9] } 6... d6 { [%clk 0:09:52.4] } 7. Be3 { [%clk 0:09:48.8] }
+7... Be6 { [%clk 0:09:50.6] } 8. Nd2 { [%clk 0:09:36] } 8... c5
+{ [%clk 0:09:47.1] } 9. Qd3 { [%clk 0:09:32.4] } 9... Nf6 { [%clk 0:09:42.2] }
+10. O-O-O { [%clk 0:09:24.9] } 10... Be7 { [%clk 0:09:26] } 11. Bxe6
+{ [%clk 0:09:15.3] } 11... fxe6 { [%clk 0:09:23.8] } 12. Nf3
+{ [%clk 0:09:14.9] } 12... Ng4 { [%clk 0:09:07.7] } 13. Rhe1
+{ [%clk 0:09:04.6] } 13... Rc8 { [%clk 0:08:55.8] } 14. h3 { [%clk 0:08:57.2] }
+14... Nxe3 { [%clk 0:08:49] } 15. Qxe3 { [%clk 0:08:57.1] } 15... O-O
+{ [%clk 0:08:30.1] } 16. Kb1 { [%clk 0:08:47.2] } 16... Bf6 { [%clk 0:08:14] }
+17. e5 { [%clk 0:08:42.9] } 17... Be7 { [%clk 0:08:11.1] } 18. exd6
+{ [%clk 0:08:31.9] } 18... Bf6 { [%clk 0:07:58.7] } 19. Qxe6+
+{ [%clk 0:08:13] } 19... Kh8 { [%clk 0:07:55.1] } 20. d7 { [%clk 0:07:48.7] }
+20... Qb6 { [%clk 0:07:53.4] } 21. Qxb6 { [%clk 0:07:30.1] } 21... axb6
+{ [%clk 0:07:51.6] } 22. dxc8=Q { [%clk 0:07:26.6] } 22... Rxc8
+{ [%clk 0:07:51.2] } 1-0
+

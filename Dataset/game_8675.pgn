@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "firegus16"]
+[Black "NkNiner"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ic9Q3VaL"]
+[WhiteElo "2571"]
+[BlackElo "2489"]
+[ECO "D08"]
+[Opening "Queen's Gambit Declined: Albin Countergambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "04:35:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. a3 Nc6 5. Nf3 Bg4 6. Nbd2 Nge7 7. g3 Ng6 8. Bg2
+Qe7 9. O-O Ngxe5 10. b4 Nxf3+ 11. Nxf3 Rd8 12. Re1 g6 13. Bg5 f6 14. Bf4 Bg7
+15. Qb3 O-O 16. Rad1 Be6 17. e3 Qf7 18. Nd2 g5 19. exd4 Nxd4 20. Qc3 gxf4 21.
+Bxb7 c6 22. Ba6 f5 23. Qc1 f3 24. Qb1 Ne2+ 25. Kh1 Nc3 26. Qc2 Nxd1 27. Rxd1
+Qd7 28. c5 Bh6 29. Bc4 Bxc4 30. Qxc4+ Rf7 31. Qc2 Bxd2 32. Qc4 Qd5 33. Qh4 Rdd7
+34. Qh5 Qe4 35. Rxd2 Qe1# 0-1
+

@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "DanielPerchman"]
+[Black "Kusudaaina030"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/he2FOMry"]
+[WhiteElo "2525"]
+[BlackElo "2488"]
+[ECO "B07"]
+[Opening "Pirc Defense: Bayonet Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:46:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Nf6 4. Be2 Bg7 5. h4 O-O 6. h5 c5 7. hxg6 hxg6 8. dxc5
+dxc5 9. Qxd8 Rxd8 10. Nf3 Nc6 11. Be3 Nb4 12. Rc1 b6 13. a3 Nc6 14. Bc4 Ng4 15.
+Ng5 Nce5 16. Bd5 Rb8 17. Bf4 e6 18. Bxe5 Bxe5 19. Bc4 Bxc3+ 20. bxc3 b5 21. Be2
+Nf6 22. e5 Nd5 23. Ne4 c4 24. Nf6+ Kg7 25. Rh7+ Kf8 26. Rh8+ Ke7 27. Rxd8 Kxd8
+28. Nxd5 exd5 29. Rd1 Be6 30. Bf3 Kc7 31. Bxd5 Re8 32. Bxe6 Rxe6 33. f4 f6 34.
+Rd5 Kc6 35. Rd6+ Rxd6 36. exd6 Kxd6 37. Ke2 Kc5 38. Ke3 Kb6 39. Kd4 Ka5 40. Kd5
+Ka4 41. Ke6 f5 42. Kf6 Kxa3 43. Kxg6 Kb2 44. Kxf5 a5 45. g4 a4 46. g5 a3 47. g6
+a2 48. g7 a1=Q 49. g8=Q Kxc2 50. Qc8 Qxc3 51. Qc5 b4 52. Ke6 b3 53. f5 b2 54.
+f6 b1=Q 55. f7 Qbe1+ 56. Kd7 Qd3+ 57. Kc6 Qee4+ 58. Kb5 Qd7+ 59. Kb4 Qeb7+ 60.
+Kxc4 Qb3# 0-1
+

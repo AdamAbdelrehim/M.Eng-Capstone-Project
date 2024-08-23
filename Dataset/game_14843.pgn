@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "wr_7"]
+[Black "Homer_J"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/CjZOlKLI"]
+[BlackTitle "FM"]
+[WhiteElo "2507"]
+[BlackElo "2417"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Queen's Knight Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:14:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 d5 2. c4 e6 3. Nc3 h6 4. Nf3 Nf6 5. Bf4 Bd6 6. Bxd6 Qxd6 7. e3 O-O 8. Ne5
+a6 9. f4 c5 10. cxd5 exd5 11. Be2 Nc6 12. Nxc6 bxc6 13. Bf3 Re8 14. Kf2 Rb8 15.
+b3 cxd4 16. Qxd4 c5 17. Qd2 d4 18. exd4 cxd4 19. Ne2 d3 20. Ng3 Qd4+ 21. Kf1
+Qxa1+ 0-1
+

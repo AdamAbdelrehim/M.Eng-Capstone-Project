@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Siyay_25"]
+[Black "CrawfurdMan"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/XUoX7WdE"]
+[WhiteElo "2698"]
+[BlackElo "2701"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:14:42"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 Bf5 4. Bg2 e6 5. c4 c6 6. Nc3 h6 7. O-O Nbd7 8. Qb3
+Qb6 9. c5 Qxb3 10. axb3 Be7 11. b4 O-O 12. Nd2 a6 13. Nb3 g5 14. f3 Bg6 15. e4
+Ne8 16. f4 Nc7 17. f5 Bh7 18. Na5 Rab8 19. g4 Nb5 20. Nxb5 axb5 21. h4 Kg7 22.
+e5 gxh4 23. f6+ Nxf6 24. exf6+ Bxf6 25. Rxf6 Kxf6 26. Bf4 Ra8 27. Rf1 Kg7 28.
+Bd6 Rfd8 29. Be7 Rd7 30. Bxh4 Bg6 31. Bf6+ Kh7 32. Kh2 Rg8 33. Rf4 Bd3 34. Bh3
+Be4 35. Be5 Rg6 36. Kg3 h5 37. Kh4 hxg4 38. Bxg4 f5 39. Bh3 Rd8 40. Rf2 Rdg8
+41. Bf4 Kg7 42. Be5+ Kf7 43. Kh5 Rg1 44. Nxb7 Rh1 45. Nd6+ Ke7 46. Kh4 Bg2 47.
+Rxg2 Rxg2 48. Bg3 Rgg1 49. Nc8+ Kd7 50. Nd6 f4 51. Bxf4 Rf1 52. Bg3 Rf3 53. Nf7
+Rxf7 54. Kg4 Rh7 55. Bg2 Rg7+ 56. Kf3 Rb1 57. Be5 Rxb2 58. Bxg7 Rb3+ 59. Kf4
+Rxb4 60. Be5 Rc4 61. Bh3 Rc2 62. Kg5 Rf2 63. Bg4 Rg2 64. Kg6 Rxg4+ 65. Kf6 Rxd4
+66. Kg7 Rg4+ 67. Kf8 b4 68. Kf7 b3 69. Bd6 b2 70. Kf8 b1=Q 71. Kf7 1-0
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "bouzidian"]
+[Black "Cor64"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/R6stfrUr"]
+[WhiteTitle "CM"]
+[WhiteElo "2425"]
+[BlackElo "2505"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:21:52"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. e4 c5 2. c3 d6 3. d4 cxd4 4. cxd4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. d5 Nb8 8. h3
+Bxf3 9. Qxf3 a6 10. Bd3 Nbd7 11. Qg3 g6 12. f4 Bg7 13. O-O O-O 14. Be3 Re8 15.
+Rae1 Rc8 16. Qf3 b5 17. g4 Nc5 18. Bb1 b4 19. Ne2 e6 20. dxe6 Rxe6 21. Nd4 Rxe4
+22. Bxe4 Nfxe4 23. f5 g5 24. f6 Bxf6 25. Nf5 Rc7 26. Bxc5 Nxc5 27. Nh6+ Kg7 28.
+Re8 Bd4+ 29. Kh1 Qxe8 30. Nf5+ Kg6 31. Nxd4 Qe5 32. Qf5+ Qxf5 33. Nxf5 Ne4 34.
+Re1 d5 35. Re2 Kf6 36. Kg2 Ke5 37. h4 h5 38. hxg5 hxg4 39. Ne3 g3 40. Ng4+ Kf4
+41. Nh6 d4 42. Ng8 d3 43. Re1 Rc2+ 44. Kg1 d2 45. Rf1+ Ke3 46. Ne7 Rc1 47. Nf5+
+Kd3 48. Nxg3 Rxf1+ 49. Nxf1 d1=Q 0-1
+

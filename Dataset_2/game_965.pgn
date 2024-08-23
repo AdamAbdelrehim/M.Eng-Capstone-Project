@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.04.25"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "azarigoli"]
+[Result "1-0"]
+[CurrentPosition "r1b1kbnr/pppp1pp1/7p/8/2BQN3/8/PPP2PPP/R1B1K2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C55"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Anti-Fried-Liver-Defense"]
+[UTCDate "2021.04.25"]
+[UTCTime "07:31:48"]
+[WhiteElo "1298"]
+[BlackElo "1296"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "07:31:48"]
+[EndDate "2021.04.25"]
+[EndTime "07:34:10"]
+[Link "https://www.chess.com/game/live/13074750861"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:59.4] } 2. Nf3
+{ [%clk 0:09:58.2] } 2... Nc6 { [%clk 0:09:51] } 3. Bc4 { [%clk 0:09:56.8] }
+3... h6 { [%clk 0:09:27.9] } 4. d4 { [%clk 0:09:52] } 4... Qe7
+{ [%clk 0:09:24.7] } 5. Nc3 { [%clk 0:09:02] } 5... exd4 { [%clk 0:09:04.9] }
+6. Nxd4 { [%clk 0:08:55.5] } 6... Qxe4+ { [%clk 0:08:59.9] } 7. Nxe4
+{ [%clk 0:08:53.2] } 7... Nxd4 { [%clk 0:08:55.9] } 8. Qxd4
+{ [%clk 0:08:51.2] } 1-0
+

@@ -1,0 +1,29 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "odonata-bot"]
+[Black "Hoon_Bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/hAM3YGLw"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2727"]
+[BlackElo "2899"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, Berlin Wall"]
+[TimeControl "600+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:09:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 Bd7 10. h3 h6 11. b3 Ke8 12. Bb2 h5 13. Rad1 Be7 14. Ne4
+Rd8 15. Rfe1 Be6 16. Rxd8+ Bxd8 17. Nfg5 Bxg5 18. Nxg5 c5 19. Rd1 Rh6 20. f3
+Rg6 21. Nxe6 Rxe6 22. g4 Nd4 23. Bxd4 cxd4 24. Rxd4 Rxe5 25. Kf2 Ke7 26. f4 Ra5
+27. a4 Rc5 28. c4 hxg4 29. hxg4 Rc6 30. a5 Rd6 31. Re4+ Kd7 32. Ke2 c5 33. Re5
+Re6 34. Rxe6 fxe6 35. g5 Kc7 36. Kf3 g6 37. Ke4 Kd6 38. Kf3 Kd7 39. Ke4 Kd6 40.
+Kd3 Kd7 41. Ke4 Kd8 42. Ke5 Ke7 43. Ke4 Kf8 44. Ke5 Ke7 45. Ke4 Kd6 1/2-1/2
+

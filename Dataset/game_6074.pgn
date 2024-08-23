@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "mowilli"]
+[Black "john-lennon_42"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/wlV6PgmN"]
+[WhiteElo "2541"]
+[BlackElo "2408"]
+[ECO "B51"]
+[Opening "Sicilian Defense: Moscow Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:30:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nc6 4. O-O Nf6 5. Re1 e6 6. Bxc6+ bxc6 7. e5 Nd7 8.
+exd6 Bxd6 9. Nc3 O-O 10. d3 f5 11. Rxe6 Ne5 12. Rxe5 Bxe5 13. Nxe5 f4 14. Nf3
+Bg4 15. h3 Bh5 16. Bd2 Qf6 17. Ne4 Qe6 18. Nxc5 Qd5 19. b4 Rae8 20. c4 Qf5 21.
+Bc3 g5 22. Nd4 Qg6 23. f3 Re3 24. Qd2 Rfe8 25. Ne4 Qf7 26. Nc2 R3xe4 27. fxe4
+g4 28. Rf1 f3 29. Qg5+ Bg6 30. Qxg4 a5 31. Rxf3 Qe7 32. Qf4 axb4 33. Nxb4 Qa7+
+34. Kh2 c5 35. Nd5 Qxa2 36. Qf6 Qxg2+ 37. Kxg2 Rxe4 38. Qg7# 1-0
+

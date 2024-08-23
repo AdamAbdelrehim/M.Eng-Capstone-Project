@@ -1,0 +1,38 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "gefuehlter_FM"]
+[Black "DimaGrand"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/gDr97mKK"]
+[WhiteElo "2747"]
+[BlackElo "2832"]
+[ECO "C42"]
+[Opening "Russian Game: Cozio Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:37:48"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-27"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Qe2 Qe7 6. Nc3 Nxc3 7. dxc3 Qxe2+
+8. Bxe2 Be7 9. Be3 Nc6 10. O-O-O Bd7 11. Nd4 Bf6 12. Nb5 Rc8 13. Bxa7 Nxa7 14.
+Nxa7 Ra8 15. Nb5 Bxb5 16. Bxb5+ c6 17. Bc4 d5 18. Bb3 b5 19. h4 Kd7 20. c4 bxc4
+21. Bxc4 Rhe8 22. g3 Kc7 23. Bb3 Re2 24. Rhf1 g6 25. c3 Rb8 26. Rd2 Re6 27. f4
+Re3 28. Rg2 Rbe8 29. Kd2 Kd6 30. h5 c5 31. g4 c4 32. Ba4 R8e4 33. Bc2 Re6 34.
+g5 Bd8 35. f5 R6e5 36. hxg6 hxg6 37. fxg6 fxg6 38. Bxg6 Rxg5 39. Rxg5 Bxg5 40.
+Kd1 Kc5 41. Bf7 Re5 42. Bg6 d4 43. Rf5 Rxf5 44. Bxf5 dxc3 45. bxc3 Bf6 46. Kc2
+Be5 47. Bg6 Bf6 48. Bf7 Bg7 49. Bg8 Bh8 50. a4 Bg7 51. Bf7 Bf6 52. Be8 Be5 53.
+a5 Bc7 54. a6 Bb6 55. Bd7 Ba7 56. Bc8 Bb6 57. Bb7 Ba7 58. Kd2 Bb6 59. Kc2 Ba7
+60. Kd2 Bb6 61. Ke3 Ba7 62. Ke2 Bb6 63. Kd2 Ba7 64. Kc2 Bb6 65. Kb2 Ba7 66. Ka3
+Bb6 67. Kb2 Ba7 68. Kc2 Bb6 69. Kd1 Ba7 70. Ke2 Bb6 71. Kf3 Ba7 72. Ke4 Bb6 73.
+Ke5 Ba7 74. Ke6 Kb6 75. Kd7 Bb8 76. Bd5 Be5 77. Bxc4 Bxc3 78. Bd3 Ka7 79. Be2
+Be1 80. Bf1 Bf2 81. Ke6 Bg1 82. Kd5 Bf2 83. Ke4 Bg1 84. Kf3 Bb6 85. Kg2 Bc7 86.
+Kh3 Bb6 87. Kg4 Bc7 88. Kf5 Bb6 89. Ke6 Bc7 90. Kd7 Bb6 91. Kc8 Bc5 92. Kd7 Bd4
+93. Kd6 Be3 94. Kd5 Bf2 95. Ke4 Bg1 96. Kd5 Bh2 97. Be2 Bg3 98. Bd3 Bh2 99. Ke4
+Bg3 100. Kf3 Bh2 101. Kg2 Bg1 102. Kh1 Bb6 103. Kg2 Bc5 104. Kf3 Bb6 105. Kf4
+Bc5 106. Ke4 Bb6 107. Kd5 Kb8 108. Kc6 Ba7 109. Kb5 Bc5 110. Kxc5 Ka7 111. Kb5
+Ka8 112. Ka5 1-0
+

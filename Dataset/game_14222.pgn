@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "philekhoob"]
+[Black "Labourdonais"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/uE2WKNFf"]
+[WhiteElo "2411"]
+[BlackElo "2583"]
+[ECO "C00"]
+[Opening "French Defense: King's Indian Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:07:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+3"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nf6 4. Ngf3 Be7 5. g3 c5 6. Bg2 O-O 7. O-O Nc6 8. Qe2
+b5 9. e5 Nd7 10. Re1 Rb8 11. Nf1 b4 12. h4 Re8 13. Bf4 Nf8 14. h5 h6 15. N1h2
+Nh7 16. Ng4 Ng5 17. Qd2 a5 18. Bxg5 Bxg5 19. Nxg5 Qxg5 20. Qxg5 hxg5 21. c3
+bxc3 22. bxc3 Ba6 23. Red1 Red8 24. h6 Rb2 25. hxg7 Kxg7 26. c4 Nb4 27. cxd5
+exd5 28. a3 Nxd3 29. Bf1 c4 30. Bxd3 cxd3 31. Rac1 Bc4 32. Kg2 Ra2 33. Nf6 Rxa3
+34. Rh1 Rh8 35. Rxh8 Kxh8 36. Rh1+ Kg7 37. Kf3 d2+ 38. Kg4 d1=Q+ 0-1
+

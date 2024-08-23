@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ChessplayerChao"]
+[Black "Workoutbobby"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/hY7IAfUh"]
+[WhiteElo "2512"]
+[BlackElo "2531"]
+[ECO "D59"]
+[Opening "Queen's Gambit Declined: Tartakower Defense, Makogonov Exchange Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:59:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+5"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Bg5 Be7 5. Nf3 h6 6. Bh4 O-O 7. e3 b6 8. cxd5
+Nxd5 9. Bxe7 Qxe7 10. Nxd5 exd5 11. Bd3 Be6 12. O-O c5 13. b3 Nd7 14. Rc1 Rfc8
+15. Ba6 Rc7 16. h3 Rb8 17. Re1 b5 18. Qd2 Qd6 19. Qa5 Qb6 20. Qa3 Rc6 21. dxc5
+Nxc5 22. Nd4 b4 23. Nxc6 bxa3 24. Ne7+ Kf8 0-1
+

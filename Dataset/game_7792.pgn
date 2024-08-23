@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sleepheaddefence"]
+[Black "Partake"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/uiGddmyK"]
+[WhiteElo "2514"]
+[BlackElo "2618"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:21:57"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bf5 6. Bc4 e6 7. O-O Nc6 8.
+Bd2 Bb4 9. a3 Bxc3 10. Bxc3 Qb6 11. h3 O-O-O 12. Bb3 Ne4 13. Qe2 Rhe8 14. Rfd1
+h6 15. Qe3 g5 16. Be1 Na5 17. Bxa5 Qxa5 18. c3 Qb6 19. Bc2 Nd6 20. Bxf5 exf5
+21. Qd2 Nc4 22. Qd3 Nd6 23. b4 Qc6 24. Ne5 Qe4 25. f3 Qxd3 26. Nxd3 Nc4 27. Re1
+f6 28. a4 b6 29. Kf2 a5 30. bxa5 Nxa5 31. Nb4 Nc4 32. Nc6 Rxe1 33. Rxe1 Rd6 34.
+Ne7+ Kb7 35. Nxf5 Rd5 36. Nxh6 Nb2 37. Ng4 Nxa4 38. Nxf6 Rf5 39. Ne4 Nb2 40. g4
+Rf8 41. Ke2 Rh8 42. Rh1 Rg8 43. h4 gxh4 44. Rxh4 Na4 45. Kd3 Nb2+ 46. Kc2 Nc4
+47. Rh7 Rf8 48. g5 Rxf3 49. g6 Ne3+ 50. Kd2 Nc4+ 51. Kc1 Rf1+ 52. Kc2 Rf4 53.
+g7 Rg4 54. Nf6 Rg2+ 55. Kd3 Nb2+ 56. Ke3 Rg6 57. g8=Q Nc4+ 58. Kf4 Rxf6+ 59.
+Kg5 Rc6 60. Qd5 Ne3 0-1
+

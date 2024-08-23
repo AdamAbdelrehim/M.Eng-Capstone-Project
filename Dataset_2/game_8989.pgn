@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.05.13"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "jor8a"]
+[Result "0-1"]
+[CurrentPosition "rn1qkbnr/ppp1pppp/8/3p2N1/4P3/8/PPPP1PPP/RNBbKB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "A06"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-Tennison-Gambit"]
+[UTCDate "2023.05.13"]
+[UTCTime "23:38:43"]
+[WhiteElo "1736"]
+[BlackElo "1730"]
+[TimeControl "60"]
+[Termination "jor8a won by resignation"]
+[StartTime "23:38:43"]
+[EndDate "2023.05.13"]
+[EndTime "23:38:49"]
+[Link "https://www.chess.com/game/live/77760109697"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.9] }
+2... Bg4 { [%clk 0:00:58.4] } 3. Ng5 { [%clk 0:00:59.6] } 3... Bxd1
+{ [%clk 0:00:58] } 0-1
+

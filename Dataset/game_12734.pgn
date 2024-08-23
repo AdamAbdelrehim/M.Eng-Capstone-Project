@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "LaLiMei"]
+[Black "vanImpe"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/7BKEBFnj"]
+[WhiteElo "2434"]
+[BlackElo "2509"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:06:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 g6 2. d4 Bg7 3. c3 d5 4. e5 c5 5. f4 Nc6 6. Nf3 Bg4 7. Be2 Bxf3 8. Bxf3
+cxd4 9. cxd4 Nh6 10. Nc3 e6 11. g4 Qh4+ 12. Kf1 O-O 13. Be3 Qe7 14. Qb3 f6 15.
+Kg2 fxe5 16. dxe5 d4 17. Bxc6 dxe3 18. Bxb7 Rab8 19. h3 Rxb7 20. Qc2 Rxf4 0-1
+

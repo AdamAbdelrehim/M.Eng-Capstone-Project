@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "positionaloldman"]
+[Black "Punchen"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/I6MQGATf"]
+[WhiteElo "2572"]
+[BlackElo "2548"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:40:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 g6 2. Nc3 Bg7 3. d4 c6 4. f3 d5 5. e5 Qb6 6. a4 a5 7. Ra3 f6 8. Rb3 Qc7
+9. exf6 Nxf6 10. Bd3 O-O 11. Nge2 Nbd7 12. Bf4 e5 13. dxe5 Nxe5 14. O-O Nh5 15.
+Bc1 Nxd3 16. Qxd3 Bf5 17. Qd2 d4 18. Nd1 Be6 19. Ra3 c5 20. Nf2 Rad8 21. Ne4
+Bd5 22. N2g3 Nf4 23. Nf2 h5 24. Re1 Bh6 25. Qd1 Rde8 26. Nfe4 h4 27. Ne2 Bxe4
+28. Nxf4 Bxf4 29. Bxf4 Qxf4 30. fxe4 Qf2+ 31. Kh1 Rxe4 32. Rg1 Re2 33. h3 Kg7
+34. Rb3 Rf7 35. Rb6 Rfe7 36. Qd3 Qg3 37. Qxg3 hxg3 38. c3 Re1 0-1
+

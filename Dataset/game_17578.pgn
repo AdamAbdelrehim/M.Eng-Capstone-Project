@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "caissa-x"]
+[Black "AKS-Mantissa"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/R47hmFW5"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2995"]
+[BlackElo "2744"]
+[ECO "A05"]
+[Opening "Zukertort Opening: Nimzo-Larsen Variation"]
+[TimeControl "90+3"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:20:34"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. Nf3 Nf6 2. b3 d5 3. Bb2 c5 4. e3 e6 5. d4 cxd4 6. exd4 b6 7. Bb5+ Nbd7 8.
+Nbd2 Be7 9. Ne5 a6 10. Bd3 Nxe5 11. dxe5 Nd7 12. O-O Nc5 13. Qg4 O-O 14. Rae1
+Qc7 15. Re3 Nxd3 16. Rg3 g6 17. cxd3 Qc2 18. Bc1 Qxa2 19. Nf3 Ra7 20. Qh5 Re8
+21. Bg5 Bxg5 22. Qxg5 Qa3 23. h4 Qe7 24. Qf4 Kg7 25. h5 Rf8 26. Rh3 b5 27. Rc1
+Bd7 28. Qe3 Rfa8 29. Ng5 h6 30. Nh7 d4 31. Qd2 g5 32. Nf6 Rc8 33. f4 Rc5 34.
+fxg5 Rxe5 35. gxh6+ Kh8 36. Rf1 Ra8 37. Rg3 Re2 38. Qg5 Rxg2+ 39. Rxg2 Qf8 40.
+Qg7+ Qxg7 41. hxg7# 1-0
+

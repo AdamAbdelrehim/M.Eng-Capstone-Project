@@ -1,0 +1,30 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "JasonHill"]
+[Black "Ilya_Churekov"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/B74OOe6h"]
+[WhiteElo "2471"]
+[BlackElo "2629"]
+[ECO "D07"]
+[Opening "Queen's Gambit Declined: Chigorin Defense, Exchange Variation, Costa's Line"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:27:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+9"]
+
+1. d4 Nc6 2. c4 d5 3. cxd5 Qxd5 4. e3 e5 5. Nc3 Bb4 6. Bd2 Bxc3 7. Bxc3 exd4 8.
+Ne2 Nf6 9. Nxd4 O-O 10. Nxc6 Qxc6 11. Rc1 Qe6 12. Bd4 c6 13. Bc4 Qd6 14. h3 Bf5
+15. O-O Rfd8 16. Qb3 Qe7 17. Rfd1 Nd5 18. Be2 Rd7 19. Bf3 Be4 20. Bc5 Qe5 21.
+Bxe4 Qxe4 22. Rd4 Qe5 23. Rcd1 Qc7 24. Qd3 Rad8 25. Ba3 c5 26. Rxd5 Rxd5 27.
+Qxd5 Rxd5 28. Rxd5 b6 29. b3 h6 30. Bb2 c4 31. bxc4 Qxc4 32. Rd8+ Kh7 33. Bd4
+Qxa2 34. Rd7 Kg6 35. g4 h5 36. gxh5+ Kxh5 37. Kg2 g5 38. Rd8 Kg6 39. Rg8+ Kf5
+40. Rd8 Qc4 41. Rd6 Qc7 42. Rf6+ Ke4 43. Rh6 Kd3 44. h4 gxh4 45. Rxh4 a5 46.
+Rf4 Qxf4 47. exf4 Kxd4 48. Kf3 a4 49. Kg4 a3 50. Kf5 a2 51. Kf6 a1=Q 52. f5 Qf1
+53. Kxf7 Qxf2 54. f6 b5 55. Kg7 b4 56. f7 b3 57. Kh8 b2 58. f8=Q Qxf8+ 59. Kh7
+Ke5 0-1
+

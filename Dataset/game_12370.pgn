@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "zblabunda"]
+[Black "licg"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/u41Qhu7S"]
+[BlackTitle "IM"]
+[WhiteElo "2540"]
+[BlackElo "2641"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:14:57"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c3 g6 3. Nf3 Bg7 4. h3 O-O 5. Bf4 d6 6. e3 c5 7. dxc5 dxc5 8. Qxd8
+Rxd8 9. Nbd2 Nc6 10. Bc7 Rd7 11. Bh2 Rd8 12. Bc7 Re8 13. Bb5 Bd7 14. O-O a6 15.
+Be2 b5 16. Nb3 c4 17. Nc5 Rec8 18. Nxd7 Nxd7 19. Bh2 Nc5 20. Nd4 e5 21. Nxc6
+Rxc6 22. Rfd1 e4 23. f3 f5 24. fxe4 fxe4 25. Rd5 h5 26. Bf4 Nd3 27. Bxd3 cxd3
+28. a3 Rac8 29. h4 Rc5 30. Rd7 a5 31. Kf2 b4 32. axb4 axb4 33. Raa7 Bh8 34. Bd6
+Rd5 35. Bxb4 Rxd7 36. Rxd7 Ra8 37. Kg3 Be5+ 38. Kh3 Ra2 39. Rd8+ Kf7 0-1
+

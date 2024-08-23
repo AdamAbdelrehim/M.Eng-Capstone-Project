@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sparrow1"]
+[Black "Mandetowitch"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/aPuJ3mtb"]
+[WhiteElo "2574"]
+[BlackElo "2522"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:39:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 g6 2. g3 Bg7 3. Bg2 c5 4. Ne2 Nc6 5. O-O d6 6. d3 e5 7. h3 Nge7 8. Be3
+O-O 9. Nd2 b6 10. a4 d5 11. f3 d4 12. Bf2 Be6 13. b3 Qd7 14. Kh2 a6 15. f4 f6
+16. Nf3 Kh8 17. g4 Bg8 18. f5 g5 19. h4 h6 20. hxg5 fxg5 21. Rh1 Bf6 22. Qd2
+Kg7 23. Kg1 Bf7 24. Ng3 b5 25. Be1 c4 26. Nh5+ Bxh5 27. Rxh5 Rac8 28. axb5 axb5
+29. bxc4 bxc4 30. Bg3 cxd3 31. cxd3 Qd6 32. Bf1 Nb4 33. Ra4 Nc2 34. Be2 Ne3 35.
+Ra2 Qc5 36. Bf2 Qc1+ 37. Ne1 Qxd2 38. Rxd2 Rc1 39. Kh2 Rb8 40. Ng2 Nc2 41. Kg3
+Rb3 42. Bd1 Rc3 43. Bxc2 R1xc2 44. Rxc2 Rxc2 45. Rh1 Rd2 46. Ra1 Rxd3+ 47. Kh2
+Rd2 48. Kg3 Kf7 49. Ne1 Nc8 50. Nf3 Rc2 51. Ra5 d3 52. Rd5 Rc4 53. Nd2 Rc3 54.
+Bc5 Ke8 55. Kf3 Ne7 56. Bxe7 Kxe7 57. Ke3 h5 58. gxh5 g4 59. Rxd3 Bg5+ 60. Ke2
+Rc2 61. Kd1 Ra2 62. Nf1 Rf2 63. Ng3 Bf4 64. Ke1 Ra2 65. Ne2 Kf6 66. Rd6+ Kg5
+67. f6 Ra1+ 68. Kf2 g3+ 69. Nxg3 Ra2+ 70. Ne2 Kxh5 71. f7 Ra8 72. Rf6 Rf8 73.
+Nxf4+ exf4 74. Kf3 Kg5 75. e5 1-0
+

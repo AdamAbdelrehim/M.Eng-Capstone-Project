@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "CruelKen"]
+[Black "YoBot_v2"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/E2PtOcCL"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3003"]
+[BlackElo "3014"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "06:49:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. e3 b6 5. Nc3 Bd6 6. Bd3 Bb7 7. O-O O-O 8. b3
+Nbd7 9. cxd5 exd5 10. Nb5 Be7 11. Ba3 c5 12. Rc1 Re8 13. Bb2 Ne4 14. Re1 a6 15.
+Nc3 Rc8 16. Ne2 Nd6 17. dxc5 bxc5 18. h3 Bf6 19. Bxf6 Qxf6 20. Nc3 g6 21. Bf1
+Nb6 22. a4 Ne4 23. Nxe4 dxe4 24. Nd2 Nd5 25. Nc4 Rcd8 26. Na5 Nb4 27. Qg4 Ba8
+28. Qf4 Qxf4 29. exf4 Kg7 30. Rxc5 Nd3 31. Bxd3 exd3 32. Rce5 Rxe5 33. fxe5 Rc8
+34. Rd1 Rc3 35. f3 Bd5 36. Kf2 Bxb3 37. Nxb3 Rxb3 38. Ke3 d2+ 39. Kxd2 Ra3 40.
+Rc1 Rxa4 41. Rc7 Kg8 42. Ke3 h5 43. Rc3 a5 44. g4 g5 45. gxh5 Rh4 46. Rc8+ Kg7
+47. Rc7 Kf8 48. Ra7 Rxh5 49. Rxa5 Rxh3 50. Ke4 Rh4+ 51. Kf5 Rf4+ 52. Kxg5 Rxf3
+53. Ra8+ Ke7 54. Kg4 Rf1 55. Ra6 f6 56. Rxf6 Rxf6 57. exf6+ Kxf6 1/2-1/2
+

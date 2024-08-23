@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Weiawaga"]
+[Black "InanisBot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/maSQMZGz"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2654"]
+[BlackElo "2426"]
+[ECO "C89"]
+[Opening "Ruy Lopez: Marshall Attack, Main Line"]
+[TimeControl "420+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:39:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Be7 5. O-O Nf6 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. d4 Bd6 13. Re1 Re8 14. Rxe8+ Qxe8
+15. Nd2 Nf4 16. Nf3 Ne2+ 17. Kf1 Nxc1 18. Rxc1 Ra7 19. Rc2 Re7 20. Re2 Be6 21.
+Qe1 Bxb3 22. axb3 Rxe2 23. Qxe2 Kf8 24. b4 Qxe2+ 25. Kxe2 Ke7 26. Ne5 Bxe5 27.
+dxe5 Ke6 28. f4 Kd5 29. Kd3 h5 30. b3 c5 31. g3 g6 32. h3 cxb4 33. cxb4 g5 34.
+h4 g4 35. Ke3 Ke6 36. Ke4 f5+ 37. Kd4 Ke7 38. Kd5 Kd7 39. e6+ Ke7 40. Ke5 Ke8
+41. Kd6 Kd8 42. e7+ Ke8 43. Ke6 a5 44. bxa5 b4 45. Kd6 Kf7 46. Kd7 Kg6 47.
+e8=Q+ Kh6 48. a6 Kg7 49. Ke6 Kh6 50. Kf7 Kh7 51. Kf6 Kh6 52. Qg6# 1-0
+

@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Grandstodge"]
+[Black "nodi21"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/cQkySk9O"]
+[WhiteElo "2519"]
+[BlackElo "2375"]
+[ECO "C10"]
+[Opening "French Defense: Paulsen Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:44:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. Nge2 Nf6 5. e5 Ne4 6. Nxe4 dxe4 7. Be3 f5 8.
+exf6 gxf6 9. Ng3 Qd5 10. a3 Bd7 11. c4 Qa5+ 12. Bd2 1-0
+

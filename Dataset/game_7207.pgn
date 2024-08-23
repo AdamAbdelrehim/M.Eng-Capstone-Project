@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "gravereaper"]
+[Black "NameTheGame"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/DKFaJq49"]
+[WhiteTitle "IM"]
+[WhiteElo "2814"]
+[BlackElo "2696"]
+[ECO "B03"]
+[Opening "Alekhine Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:32:02"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-4"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. d4 d6 5. exd6 exd6 6. Nc3 Be7 7. Bd3 O-O 8.
+Nge2 Na6 9. a3 c6 10. Be3 d5 11. c5 Nd7 12. O-O Nc7 13. Qd2 Re8 14. b4 Bf6 15.
+a4 Nf8 16. b5 Nce6 17. a5 a6 18. bxc6 bxc6 19. Na4 Ra7 20. Nb6 g6 21. Rab1 Nc7
+22. Nxc8 Qxc8 23. Rb6 Nb5 24. Nf4 Nd7 25. Qb4 Nxb6 26. axb6 Rae7 27. Bxb5 axb5
+28. h3 Qa8 29. Rb1 Qa6 30. Nxd5 cxd5 31. Qxb5 Qa2 32. b7 Rb8 33. c6 Kg7 34. Bf4
+Bxd4 35. Rf1 Be5 36. Bxe5+ Rxe5 37. c7 Ree8 38. Qxe8 Rxe8 39. c8=Q 1-0
+

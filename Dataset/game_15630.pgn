@@ -1,0 +1,36 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "expositor"]
+[Black "Hoon_Bot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/a6a81Je4"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2757"]
+[BlackElo "2880"]
+[ECO "C78"]
+[Opening "Ruy Lopez: Morphy Defense, Neo-Arkhangelsk Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:08:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. Nxe5 Nxe5 7. d4 b5 8.
+Bb3 Bxd4 9. Qxd4 d6 10. f4 Nc6 11. Qd3 O-O 12. Be3 Na5 13. Nd2 Bb7 14. Rae1 Re8
+15. Bf2 Nxb3 16. axb3 Qe7 17. e5 dxe5 18. Rxe5 Qd8 19. Rxe8+ Qxe8 20. Re1 Qc6
+21. Nf3 Re8 22. c4 Rxe1+ 23. Bxe1 h6 24. Qd4 Nd7 25. Bb4 Qg6 26. Ne1 Qf5 27.
+Bc3 f6 28. Qa7 Qe4 29. Qd4 Qe7 30. b4 Nb6 31. cxb5 axb5 32. Kf2 Qe8 33. Qc5 Bc6
+34. Qe3 Qxe3+ 35. Kxe3 Nd5+ 36. Kd4 Nxf4 37. Kc5 Be8 38. g3 Ne6+ 39. Kd5 Kf7
+40. Nc2 Nd8 41. Nd4 Ke7 42. Bd2 c6+ 43. Kc5 Kd7 44. Kb6 Bg6 45. Be3 h5 46. Bf4
+Be4 47. Nb3 Bd5 48. Nc5+ Ke7 49. Be3 Nf7 50. Nd3 g5 51. Kc7 Ke6 52. Nc5+ Kf5
+53. Nd7 Be6 54. Nf8 Ne5 55. Bf2 Bd5 56. Nd7 Ng4 57. Bg1 Bg2 58. b3 h4 59. Nb8
+h3 60. Nxc6 Ke4 61. Kd7 Bf1 62. Nd4 Nxh2 63. Bxh2 Kxd4 64. g4 Ke4 65. Ke6 Kf3
+66. Kxf6 Kxg4 67. Bd6 Bd3 68. Bc7 Kh4 69. Ke6 g4 70. Bd8+ Kg3 71. Bc7+ Kf3 72.
+Bh2 g3 73. Bg1 h2 74. Bb6 g2 75. Bc5 g1=Q 76. Bxg1 hxg1=Q 77. Kd6 Bc2 78. Kc7
+Bxb3 79. Kc6 Qe1 80. Kc5 Qxb4+ 81. Kb6 Qd6+ 82. Ka5 Ke3 83. Kxb5 Kd4 84. Ka5
+Qc6 85. Kb4 Qa4# 0-1
+

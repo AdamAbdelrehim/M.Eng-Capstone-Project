@@ -1,0 +1,38 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.08.10"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Arjun_Mohanlal"]
+[Result "0-1"]
+[CurrentPosition "r1b2rk1/pp3pp1/2p4p/2b5/2Q1Pq2/PBNK1N2/1PP3nP/R6R b - -"]
+[Timezone "UTC"]
+[ECO "B07"]
+[ECOUrl "https://www.chess.com/openings/Lion-Defense-Anti-Philidor-Lions-Cave-Variation"]
+[UTCDate "2022.08.10"]
+[UTCTime "16:21:20"]
+[WhiteElo "1805"]
+[BlackElo "1883"]
+[TimeControl "600"]
+[Termination "Arjun_Mohanlal won by resignation"]
+[StartTime "16:21:20"]
+[EndDate "2022.08.10"]
+[EndTime "16:28:20"]
+[Link "https://www.chess.com/game/live/53887290561"]
+
+1. e4 { [%clk 0:10:00] } 1... d6 { [%clk 0:09:54] } 2. d4 { [%clk 0:09:57.3] }
+2... Nf6 { [%clk 0:09:47.8] } 3. Nc3 { [%clk 0:09:54.4] } 3... Nbd7
+{ [%clk 0:09:41.4] } 4. f4 { [%clk 0:09:45.1] } 4... e5 { [%clk 0:09:35.1] } 5.
+fxe5 { [%clk 0:09:38.2] } 5... dxe5 { [%clk 0:09:30] } 6. Nf3
+{ [%clk 0:09:36.4] } 6... exd4 { [%clk 0:09:19.6] } 7. Nxd4
+{ [%clk 0:09:33.1] } 7... Bb4 { [%clk 0:09:11.8] } 8. Bg5 { [%clk 0:09:17] }
+8... O-O { [%clk 0:09:03.5] } 9. Bc4 { [%clk 0:09:09] } 9... h6
+{ [%clk 0:08:54.6] } 10. Bh4 { [%clk 0:09:04.9] } 10... Ne5
+{ [%clk 0:08:47.1] } 11. Bb3 { [%clk 0:08:54.3] } 11... Ng6
+{ [%clk 0:08:36.7] } 12. Bxf6 { [%clk 0:08:12] } 12... Qxf6
+{ [%clk 0:08:30.8] } 13. a3 { [%clk 0:07:24.9] } 13... Bc5 { [%clk 0:08:20.7] }
+14. Nf3 { [%clk 0:07:10.3] } 14... c6 { [%clk 0:08:04.1] } 15. Qe2
+{ [%clk 0:06:55.3] } 15... Nf4 { [%clk 0:07:52.5] } 16. Qc4 { [%clk 0:06:25] }
+16... Nxg2+ { [%clk 0:07:38] } 17. Kd2 { [%clk 0:06:09.7] } 17... Qf4+
+{ [%clk 0:07:27.9] } 18. Kd3 { [%clk 0:05:48.5] } 0-1
+

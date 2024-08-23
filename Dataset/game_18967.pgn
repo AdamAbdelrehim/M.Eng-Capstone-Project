@@ -1,0 +1,40 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "ChessatronBot"]
+[Black "simbelmyne-bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/GVmp5AcX"]
+[WhiteTitle "BOT"]
+[WhiteElo "2448"]
+[BlackElo "2549"]
+[ECO "A00"]
+[Opening "Barnes Opening"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:10:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. f3 e6 2. g3 d5 3. e3 Nf6 4. d3 Be7 5. c3 O-O 6. Bg2 b6 7. f4 c5 8. Nf3 Nc6
+9. O-O Re8 10. c4 Bb7 11. Nc3 d4 12. Ne5 Qc8 13. exd4 Nxd4 14. Bxb7 Qxb7 15.
+Nb5 Nxb5 16. cxb5 a6 17. Qb3 axb5 18. Qxb5 h5 19. Bd2 h4 20. gxh4 Nd5 21. h5
+Bd6 22. Rae1 Qe7 23. h6 gxh6 24. f5 Kh7 25. Qc4 Bxe5 26. Rxe5 b5 27. Qe4 Ra4
+28. b4 Rg8+ 29. Kh1 Nf6 30. Qh4 Qb7+ 31. Re4 Ng4 32. fxe6 fxe6 33. Rf6 Rg7 34.
+Rxh6+ Nxh6 35. Qxh6+ Kg8 36. Qxe6+ Kh7 37. Qh6+ Kg8 38. Qe6+ Kh7 39. Qh6+ Kg8
+40. Bc3 Rxb4 41. Bxb4 cxb4 42. Qd6 Kh7 43. Qxb4 Qc6 44. Qe1 Rg4 45. h3 Rg5 46.
+Qh4+ Kg6 47. Qf2 Rf5 48. Qg2+ Rg5 49. Qf2 Rf5 50. Qg3+ Rg5 51. Qe3 b4 52. Qf2
+Qc1+ 53. Kh2 Qc7+ 54. Rf4 Kh5 55. Qe2+ Kh6 56. Qe6+ Kh5 57. Qe8+ Kh6 58. Qh8+
+Kg6 59. Qf6+ Kh5 60. Qh8+ Kg6 61. Qf6+ Kh5 62. Kh1 Qb7+ 63. Re4 Qd5 64. Qh8+
+Kg6 65. Qe8+ Kh6 66. Qf8+ Rg7 67. Qxb4 Rc7 68. Qd2+ Kh7 69. Kg1 Rg7+ 70. Kh2
+Qc5 71. d4 Qc7+ 72. Re5 Qf7 73. Qc2+ Kg8 74. Rf5 Qg6 75. Qf2 Qe8 76. a4 Qb8+
+77. Re5 Rb7 78. Qg2+ Kh8 79. Qe4 Rb2+ 80. Kg3 Rb7 81. a5 Ra7 82. Kh2 Qb2+ 83.
+Qg2 Qb8 84. Qf2 Rf7 85. Qg3 Qb2+ 86. Qg2 Qb8 87. a6 Ra7 88. Qe2 Rf7 89. Kg2
+Rg7+ 90. Kh1 Qb1+ 91. Qe1 Qxe1+ 92. Rxe1 Ra7 93. Re6 Kg7 94. Rb6 Ra8 95. Kg2
+Rc8 96. d5 Rc2+ 97. Kg3 Rc3+ 98. Kg4 Kf7 99. a7 Ra3 100. Rb7+ Kf6 101. d6 Ra4+
+102. Kf3 Ra3+ 103. Ke4 Ke6 104. d7 Ra4+ 105. Kd3 Ke7 106. Rb8 Kxd7 107. a8=Q
+Rxa8 108. Rxa8 Ke6 109. Ke4 Kd6 110. h4 Ke6 111. h5 Kf6 112. h6 Kg6 113. Ra6+
+Kf7 114. Ra7+ Ke8 115. h7 Kf8 116. h8=Q# 1-0
+

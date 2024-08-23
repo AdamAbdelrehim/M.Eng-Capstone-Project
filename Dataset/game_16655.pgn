@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Pencil_2"]
+[Black "manneredmonkey"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/QCLAzzJh"]
+[BlackTitle "NM"]
+[WhiteElo "2630"]
+[BlackElo "2572"]
+[ECO "B08"]
+[Opening "Pirc Defense: Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "03:01:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d6 4. e4 Bg7 5. Bg5 h6 6. Bf4 c6 7. Bd3 O-O 8. Qd2
+Kh7 9. O-O-O b5 10. h4 b4 11. Ne2 Qa5 12. Kb1 Nh5 13. Be3 Nd7 14. Ng5+ hxg5 15.
+hxg5 Nb6 16. g4 Bxg4 17. Rh4 Be6 18. Nc1 Na4 19. Qe2 Nc3+ 20. bxc3 bxc3 21. Nb3
+Rfb8 22. Rdh1 Kg8 23. f4 Rb4 24. f5 Bxb3 25. cxb3 Rab8 26. Bc2 Ra4 27. Bd1 Ng3
+28. Rh8+ Bxh8 29. Rxh8+ Kxh8 30. Qh2+ Kg8 31. f6 exf6 32. gxf6 Nh5 33. Bxh5
+Rxb3+ 34. Kc1 0-1
+

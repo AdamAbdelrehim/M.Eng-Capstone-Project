@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Saeidbero"]
+[Black "Alex_Lidsky"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Nn3o8E1x"]
+[WhiteElo "2507"]
+[BlackElo "2516"]
+[ECO "B06"]
+[Opening "Modern Defense: Pseudo-Austrian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:38:27"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. f4 a6 5. Nf3 b5 6. a3 Bb7 7. Bd3 Nd7 8. Be3 c5
+9. O-O Ngf6 10. Kh1 c4 11. e5 cxd3 12. exf6 Nxf6 13. Qxd3 e6 14. Rae1 O-O 15.
+Bf2 Qc7 16. Bh4 Nd5 17. Ne2 Rac8 18. c3 Qc4 19. Qd2 Rfe8 20. Ng3 Qc6 21. Ne4 a5
+22. Nfg5 b4 23. axb4 axb4 24. cxb4 h6 25. Nf3 f5 26. b5 Qb6 27. Nc3 Nxc3 28.
+bxc3 Qxb5 29. Rb1 Qd5 30. Rfe1 Rc7 31. Qe3 Kf7 32. Re2 Rec8 33. Be1 Qe4 34.
+Qxe4 Bxe4 35. Rb6 Rxc3 36. Bxc3 Rxc3 37. Rd2 Rc1+ 38. Ng1 g5 39. fxg5 hxg5 40.
+h3 g4 41. Kh2 Bh6 42. Re2 d5 43. hxg4 fxg4 44. Rf2+ Ke7 45. Rb3 Rc8 46. Ne2 Bg5
+47. Ng3 Bf6 48. Rxf6 Kxf6 49. Nxe4+ dxe4 50. Kg3 Kf5 51. Rb5+ Kf6 52. Kxg4 Rc2
+53. Kf4 Rxg2 54. Kxe4 Re2+ 55. Kd3 Rh2 56. Rb8 Rh4 57. Rf8+ Ke7 58. Rf2 Kd6 59.
+Ra2 Rh3+ 60. Ke4 Rh4+ 61. Kd3 Rh3+ 62. Kc4 Rh4 63. Ra6+ Ke7 64. Ra5 Kf6 65. Ra7
+Kf5 66. Ra6 Ke4 67. d5 exd5+ 68. Kc5 1-0
+

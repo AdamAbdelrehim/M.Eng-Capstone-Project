@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.06.30"]
+[Round "-"]
+[White "Franquikarpov"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rnbr2k1/p3Bpbp/1p3np1/8/4P3/2N2P2/PPP3PP/R3KBNR b KQ -"]
+[Timezone "UTC"]
+[ECO "B07"]
+[ECOUrl "https://www.chess.com/openings/Pirc-Defense-Main-Line"]
+[UTCDate "2024.06.30"]
+[UTCTime "03:00:38"]
+[WhiteElo "1930"]
+[BlackElo "1857"]
+[TimeControl "600"]
+[Termination "Franquikarpov won by resignation"]
+[StartTime "03:00:38"]
+[EndDate "2024.06.30"]
+[EndTime "03:01:49"]
+[Link "https://www.chess.com/game/live/113455199965"]
+
+1. d4 { [%clk 0:09:59.9] } 1... Nf6 { [%clk 0:09:58.4] } 2. Nc3
+{ [%clk 0:09:55.9] } 2... g6 { [%clk 0:09:57.7] } 3. e4 { [%clk 0:09:50.5] }
+3... d6 { [%clk 0:09:53.2] } 4. f3 { [%clk 0:09:47] } 4... Bg7
+{ [%clk 0:09:51.9] } 5. Be3 { [%clk 0:09:46.1] } 5... O-O { [%clk 0:09:51.2] }
+6. Qd2 { [%clk 0:09:45.6] } 6... c5 { [%clk 0:09:50.4] } 7. dxc5
+{ [%clk 0:09:28.3] } 7... dxc5 { [%clk 0:09:47.3] } 8. Qxd8
+{ [%clk 0:09:18.8] } 8... Rxd8 { [%clk 0:09:46.6] } 9. Bxc5 { [%clk 0:09:18] }
+9... b6 { [%clk 0:09:45] } 10. Bxe7 { [%clk 0:09:12.9] } 1-0
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Andreikazan1"]
+[Black "Mikkel_Vinh"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/1DBlnqKq"]
+[BlackTitle "CM"]
+[WhiteElo "2564"]
+[BlackElo "2518"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Levitsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:48:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 d5 2. Bg5 c5 3. dxc5 Nf6 4. Nc3 e6 5. e4 d4 6. Bb5+ Nc6 7. e5 h6 8. exf6
+hxg5 9. fxg7 Bxg7 10. Ne4 Qd5 11. Qf3 Kf8 12. Bc4 Qe5 13. O-O-O Rh4 14. Nd6 Rf4
+15. Qh5 Qxc5 16. Nxc8 Rxc8 17. Bd3 Nb4 18. Qe2 Nxa2+ 19. Kb1 Nc3+ 20. bxc3 dxc3
+0-1
+

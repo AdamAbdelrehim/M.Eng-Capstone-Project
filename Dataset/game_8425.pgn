@@ -1,0 +1,33 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Weiawaga"]
+[Black "RaspFish"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/LbEAYUGM"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2707"]
+[BlackElo "3028"]
+[ECO "B67"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:43:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f3 Nxd4 10. Qxd4 Be7 11. Be3 h5 12. Rg1 Qc7 13. h3 h4 14. g4 hxg3
+15. Rxg3 Kf8 16. Rg1 b5 17. a3 Rb8 18. Kb1 a5 19. Na2 Rh5 20. Be2 d5 21. exd5
+Rxd5 22. Qh4 Rh5 23. Rxd7 Qh2 24. Qf4 Qxf4 25. Bxf4 Nxd7 26. Bxb8 Nxb8 27. c3
+Rxh3 28. f4 Bd6 29. Rf1 f5 30. Bxb5 Rh4 31. Re1 Kf7 32. Bc4 Rh6 33. b4 axb4 34.
+cxb4 Nc6 35. a4 Bxf4 36. a5 Ne5 37. Be2 g5 38. a6 Rh8 39. Kc2 Kf6 40. b5 Be3
+41. Nc3 g4 42. Na4 g3 43. Bf1 f4 44. b6 Nd7 45. b7 Rh2+ 46. Kd1 Rd2+ 47. Kc1
+Re2+ 48. Kd1 Rxe1+ 49. Kxe1 f3 50. Nc3 g2 51. Bxg2 fxg2 52. Ne2 g1=R+ 53. Nxg1
+Bxg1 54. Kd1 e5 55. Ke2 e4 56. Kd2 Nb8 57. a7 Bxa7 58. Kc3 e3 59. Kb2 e2 60.
+Kc3 e1=Q+ 61. Kc4 Qb1 62. Kc3 Qxb7 63. Kc2 Qb5 64. Kc3 Be3 65. Kc2 Nc6 66. Kd1
+Nd4 67. Ke1 Qe2# 0-1
+

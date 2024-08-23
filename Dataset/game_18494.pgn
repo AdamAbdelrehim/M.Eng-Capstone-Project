@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "MeekMammoth2"]
+[Black "ChessOKRU"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/dyJ5dAro"]
+[BlackTitle "NM"]
+[WhiteElo "2568"]
+[BlackElo "2507"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:01:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "-63"]
+[BlackRatingDiff "+6"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Bc4 O-O 7. O-O Nc6 8.
+Re1 Ng4 9. Nxc6 bxc6 10. h3 Ne5 11. Bf1 Ng6 12. f4 Bh4 13. Re2 Ba6 14. Re3 Bxf1
+15. Qxf1 a5 16. b3 Bf6 17. Bb2 Bd4 18. Qd3 c5 19. Rf1 a4 20. Nxa4 Rxa4 21. bxa4
+Bxb2 22. Kh1 Qa8 23. c3 Qxa4 24. Rb1 Ba3 25. g3 h5 26. Qd5 c4 27. h4 Bc5 28.
+Re2 Qa3 29. Qxc4 Ne7 30. Qb3 Qa8 31. Qb7 Qa5 32. Qb3 g6 33. Reb2 Bb6 34. Qc4
+Qa8 35. a4 d5 36. exd5 Nxd5 37. Kh2 Ne3 38. Qd3 Ng4+ 39. Kh3 Qxa4 40. f5 Nf2+
+41. Rxf2 Bxf2 42. fxg6 Qg4+ 43. Kg2 fxg6 44. Rf1 Qxg3+ 45. Qxg3 Bxg3 46. Rxf8+
+Kxf8 47. Kxg3 Kf7 48. Kf3 Kf6 49. Kf4 c6 50. c4 c5 51. Ke4 g5 52. hxg5+ Kxg5
+53. Kd5 h4 54. Kxc5 h3 55. Kb6 h2 56. c5 h1=Q 57. c6 Qb1+ 58. Ka7 Qa2+ 59. Kb7
+Qb3+ 60. Ka7 Qa4+ 61. Kb7 Qb5+ 62. Kc7 Kf6 63. Kd6 Qe5+ 64. Kd7 Qe7+ 65. Kc8
+Ke6 66. c7 Kd6 67. Kb7 Qxc7+ 68. Ka6 Qb8 69. Ka5 Kc5 70. Ka4 Qb4# 0-1
+

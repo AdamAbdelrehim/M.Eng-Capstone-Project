@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "qasdfgi"]
+[Black "drawingchest"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/2qRFQ6JK"]
+[BlackTitle "FM"]
+[WhiteElo "2668"]
+[BlackElo "2579"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "05:14:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 c5 2. Nf3 e6 3. g3 a6 4. Bg2 b5 5. a4 Bb7 6. axb5 axb5 7. Rxa8 Bxa8 8. d3
+d6 9. O-O Be7 10. Re1 Nd7 11. Na3 Qb6 12. Bd2 Ngf6 13. e5 dxe5 14. Nxe5 Bxg2
+15. Kxg2 Nxe5 16. Rxe5 O-O 17. Qf3 Rd8 18. h4 h6 19. h5 Qa6 20. Be3 c4 21. Nxb5
+cxd3 22. cxd3 Rxd3 23. Nc7 Qa1 24. Rb5 Rd1 25. Rb8+ Kh7 26. Ra8 Rg1+ 27. Kh2
+Qf1 28. Ra4 Bd6 29. Nb5 Bxg3+ 30. Qxg3 Rh1# 0-1
+

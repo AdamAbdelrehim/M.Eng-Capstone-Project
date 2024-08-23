@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Adrian_DelaCruz"]
+[Black "acacsj"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/1QMcrhzM"]
+[WhiteElo "2609"]
+[BlackElo "2397"]
+[ECO "A57"]
+[Opening "Benko Gambit Accepted: Pawn Return Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:03:25"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. b6 e6 6. Nc3 exd5 7. Nxd5 Nxd5 8.
+Qxd5 Nc6 9. Nf3 Rb8 10. e3 Be7 11. Be2 Qxb6 12. O-O O-O 13. Bd2 Qxb2 14. Rab1
+Qxb1 15. Rxb1 Rxb1+ 16. Be1 Nb4 17. Qe4 Rxe1+ 18. Nxe1 Bf6 19. a3 Nc6 20. h3
+Ne7 21. Bc4 d6 22. Qd3 d5 23. Bxd5 Rd8 24. Bxf7+ Kxf7 1-0
+

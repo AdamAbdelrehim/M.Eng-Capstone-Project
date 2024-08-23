@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "fankasp"]
+[Black "johndoe695"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/yO13pf31"]
+[WhiteElo "2381"]
+[BlackElo "2569"]
+[ECO "E45"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Bronstein (Byrne) Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "01:24:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Ne2 Ba6 6. a3 Bxc3+ 7. Nxc3 O-O 8.
+Bd3 d5 9. cxd5 Bxd3 10. Qxd3 exd5 11. O-O Qc8 12. f3 Re8 13. e4 Na6 14. e5 Nd7
+15. Nxd5 c5 16. f4 cxd4 17. b4 Nac5 18. bxc5 bxc5 19. Qg3 Qc6 20. Qf3 Kh8 21.
+Bd2 c4 22. Rad1 c3 23. Bc1 Qc5 24. Kh1 Rad8 25. Qe4 c2 26. Rxd4 Nb6 27. Rf2
+Rxd5 28. Rxd5 Qxf2 0-1
+

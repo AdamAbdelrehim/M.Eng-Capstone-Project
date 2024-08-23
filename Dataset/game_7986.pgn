@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "powerchess12345"]
+[Black "DaniloBesedes"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/bwkgX1za"]
+[BlackTitle "FM"]
+[WhiteElo "2428"]
+[BlackElo "2521"]
+[ECO "A42"]
+[Opening "Modern Defense: Kotov Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "00:19:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nc6 5. Nf3 Bg4 6. d5 Ne5 7. Be2 Bxf3 8. gxf3
+Nd7 9. Be3 Ngf6 10. Qd2 c6 11. h4 cxd5 12. cxd5 a6 13. f4 Rc8 14. h5 Nc5 15.
+hxg6 hxg6 16. Rxh8+ Bxh8 17. f3 b5 18. Kf2 b4 19. Rh1 Bg7 20. Nd1 Ncxe4+ 21.
+fxe4 Nxe4+ 22. Kf3 Nxd2+ 23. Bxd2 Qa5 24. a3 Qxd5+ 0-1
+

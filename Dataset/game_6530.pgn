@@ -1,0 +1,29 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Weiawaga"]
+[Black "Hoon_Bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/dRjCtBTK"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2707"]
+[BlackElo "2902"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Löwenthal Variation"]
+[TimeControl "900+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:45:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 Nf6 6. N1c3 Bb4 7. a3 Bxc3+ 8.
+Nxc3 O-O 9. Be3 d6 10. Qd2 Be6 11. O-O-O Qd7 12. Qxd6 Qc8 13. f3 Rd8 14. Qc5
+Nd7 15. Qb5 a6 16. Qe2 b5 17. Nd5 Qb7 18. h4 Nf6 19. Nxf6+ gxf6 20. Rxd8+ Rxd8
+21. h5 h6 22. Bxh6 b4 23. Qxa6 Qc7 24. Bd3 Nb8 25. Qb5 bxa3 26. bxa3 Nd7 27.
+Qb4 Nc5 28. Kd2 Rd4 29. Qc3 Bc4 30. Be3 Nxd3 31. Bxd4 exd4 32. Qxd4 Qa5+ 33.
+Ke2 Nb2+ 34. Ke3 Qg5+ 35. Kf2 Nd3+ 36. cxd3 Qd2+ 37. Kg3 Qg5+ 38. Kh2 Qh4+ 39.
+Kg1 Qe1+ 40. Kh2 Qh4+ 41. Kg1 Qe1+ 42. Kh2 Qh4+ 1/2-1/2
+

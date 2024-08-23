@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "DaanBrandenburg"]
+[Black "manneredmonkey"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/JKrWmGYY"]
+[BlackTitle "NM"]
+[WhiteElo "2581"]
+[BlackElo "2548"]
+[ECO "B07"]
+[Opening "Pirc Defense: 150 Attack, Sveshnikov-Jansa Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:12:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be3 c6 5. h3 Nbd7 6. g4 b5 7. Bg2 Nb6 8. b3 h5
+9. g5 Nfd7 10. Nge2 Bg7 11. O-O a6 12. f4 O-O 13. Ng3 Qc7 14. f5 c5 15. Kh1 Rb8
+16. Nce2 cxd4 17. Bxd4 Ne5 18. Nf4 Bd7 19. fxg6 fxg6 20. Ngxh5 gxh5 21. Qxh5
+Rxf4 22. Rxf4 Be8 23. g6 Bxg6 24. Qg5 Bh7 25. Rg1 Kh8 26. Rh4 e6 27. Bf3 Na8
+28. Bg4 Re8 29. Rxh7+ Kxh7 30. Qh5+ Bh6 31. Qxe8 Qf7 32. Qxf7+ Nxf7 33. Bxe6
+Ng5 34. Bf5+ Kg8 35. h4 1-0
+

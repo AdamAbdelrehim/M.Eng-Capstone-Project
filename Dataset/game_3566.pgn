@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "kmuruganim"]
+[Black "sparrow1"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/s2bPtaLO"]
+[WhiteElo "2513"]
+[BlackElo "2574"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:04:29"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 c6 2. c4 b5 3. cxb5 cxb5 4. e4 b4 5. Bc4 e6 6. Nf3 a5 7. O-O Nf6 8. Re1
+Ba6 9. Bxa6 Rxa6 10. Bg5 Be7 11. Nbd2 h6 12. Bxf6 Bxf6 13. e5 Be7 14. d5 exd5
+15. Qb3 O-O 16. Qxd5 Qb6 17. Nc4 Qe6 18. Rad1 Rc8 19. b3 a4 20. Qb5 Qc6 21. Nd4
+Qxb5 22. Nxb5 axb3 23. axb3 Ra2 24. Kf1 Rc6 25. Re2 Rca6 26. g3 Kf8 27. f4 g6
+28. Rdd2 Ra1+ 29. Kg2 Rb1 30. Rd3 Raa1 31. Rc2 Rc1 32. Rxc1 Rxc1 33. Nb6 Ke8
+34. Nd5 Nc6 35. Nd6+ Kf8 0-1
+

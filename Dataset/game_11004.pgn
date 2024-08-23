@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Nikitosikbot_v2"]
+[Black "bird_xx"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/o5SqpXQo"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3032"]
+[BlackElo "3051"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:00:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c5 4. c3 Nc6 5. e3 Nh5 6. dxc5 Nxf4 7. exf4 e6 8. b4
+a5 9. Qd2 Bd7 10. a4 axb4 11. cxb4 b6 12. b5 Na5 13. c6 Nb3 14. cxd7+ Qxd7 15.
+Qb2 Nxa1 16. Bd3 Rxa4 17. O-O Qe7 18. Nc3 Ra7 19. Ne2 Qb4 20. Qe5 Qd6 21. Qb2
+Qa3 22. Qe5 Qd6 23. Qb2 Qa3 24. Qe5 Qd6 1/2-1/2
+

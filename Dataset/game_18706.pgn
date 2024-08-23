@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "blindcrocodile"]
+[Black "alesha_kiselev"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/AMjroXdU"]
+[BlackTitle "CM"]
+[WhiteElo "2597"]
+[BlackElo "2481"]
+[ECO "A05"]
+[Opening "King's Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:30:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. g3 d5 2. Nf3 Nf6 3. c4 c6 4. Bg2 Bf5 5. cxd5 cxd5 6. Qb3 Qc8 7. Nc3 e6 8. d3
+Nc6 9. Bf4 a6 10. O-O b5 11. Rfc1 Qb7 12. Ne5 Nxe5 13. Bxe5 Nd7 14. Nxd5 1-0
+

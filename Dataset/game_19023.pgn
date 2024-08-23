@@ -1,0 +1,27 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "rookie1243"]
+[Black "Castle_by_hand"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/r7LAJuGT"]
+[WhiteElo "2516"]
+[BlackElo "2384"]
+[ECO "C00"]
+[Opening "French Defense: Two Knights Variation"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:16:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-8"]
+
+1. e4 e6 2. Nf3 d5 3. Nc3 d4 4. Ne2 c5 5. c3 Nc6 6. cxd4 Nf6 7. d3 cxd4 8. Qa4
+Bb4+ 9. Bd2 Bxd2+ 10. Nxd2 O-O 11. g3 e5 12. Bg2 a6 13. O-O b5 14. Qd1 Be6 15.
+h3 Nd7 16. f4 f6 17. Nf3 Qb6 18. g4 Rac8 19. a3 a5 20. Ng3 a4 21. fxe5 Ndxe5
+22. Nxe5 Nxe5 23. Nf5 Rc7 24. Qd2 Rfc8 25. Rf2 Qc5 26. g5 Bxf5 27. exf5 Qc2 28.
+Rd1 Qxd2 29. Rdxd2 fxg5 30. f6 g4 31. Bd5+ Kf8 32. fxg7+ Kxg7 33. Rf5 Rf8 34.
+Rxe5 Rc1+ 35. Kh2 gxh3 36. Kxh3 Rf6 37. Rg5+ Kf8 38. Re2 Rh6+ 39. Kg2 Rch1 40.
+Rg8# 1-0
+

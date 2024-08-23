@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "matamancos2"]
+[Black "Cor64"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/zmAglqFN"]
+[WhiteElo "2555"]
+[BlackElo "2555"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:17:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Nbd7 8. f3
+Be7 9. g4 b5 10. Qd2 h6 11. a4 b4 12. Nd5 Nxd5 13. exd5 Bh4+ 14. Bf2 Bxf2+ 15.
+Qxf2 a5 16. Bb5 O-O 17. Bc6 Ra6 18. O-O-O Qb6 19. Qe2 Nf6 20. h4 e4 21. Rdg1
+exf3 22. Qxf3 Nd7 23. g5 Ne5 24. Qh5 g6 25. gxh6 Qe3+ 26. Kb1 Kh7 27. Qg5 Qxg5
+28. hxg5 f6 29. gxf6 Rxf6 30. Nd4 Bg4 31. Bb5 Ra8 32. Nc6 Bh5 33. Nxe5 dxe5 34.
+c4 bxc3 35. bxc3 Rf2 36. c4 Raf8 37. Rc1 Bg4 38. Rhe1 Bf5+ 39. Ka1 Rd2 40. Red1
+Rh2 41. Rh1 Rd2 42. Rhd1 Rf2 43. c5 Be4 44. d6 Rg2 45. d7 Rff2 46. Bc4 Rf8 47.
+d8=Q Rxd8 48. Rxd8 Kxh6 49. Bb5 Kg5 50. c6 Bf5 51. c7 Kf4 52. Bd7 e4 53. Bxf5
+gxf5 54. c8=Q e3 55. Qc4+ Kf3 56. Rd3 f4 57. Qd5+ Kg3 58. Qg5+ Kf3 59. Rf1+ Ke2
+60. Qxg2+ Kxd3 61. Rxf4 Kc3 62. Rf3 Kd3 63. Qf2 Kc4 64. Rxe3 Kb4 65. Qf4+ Kc5
+66. Re5+ Kd6 67. Qf6+ Kd7 68. Re7+ Kd8 69. Qf8# 1-0
+

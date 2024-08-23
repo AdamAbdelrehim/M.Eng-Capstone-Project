@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "DR_speedrun_2700"]
+[Black "chessRoMania"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/pazaud3P"]
+[BlackTitle "IM"]
+[WhiteElo "2574"]
+[BlackElo "2538"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:40:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-14"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d5 4. exd5 Qxd5 5. d4 Bf5 6. Be3 e6 7. Nbd2 cxd4 8.
+Bc4 Qd6 9. Nxd4 Nxd4 10. Bxd4 Nf6 11. Qe2 a6 12. Rd1 Be7 13. Nf3 Qc6 14. O-O
+O-O 15. Ne5 Qe4 16. Qd2 Rad8 17. h3 Qh4 18. Nf3 Qh5 19. Qf4 Nd5 20. Qg3 Bd6 21.
+Qxg7# 1-0
+

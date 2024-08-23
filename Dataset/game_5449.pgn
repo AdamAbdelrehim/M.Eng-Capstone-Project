@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "DrawDenied_Twitch"]
+[Black "starker_laeufer"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/WspkBKua"]
+[WhiteTitle "GM"]
+[WhiteElo "2802"]
+[BlackElo "2315"]
+[ECO "C69"]
+[Opening "Ruy Lopez: Exchange Variation, King's Bishop Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:09:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "+0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 exd4 7. Qxd4 f6 8.
+Be3 Ne7 9. Nbd2 O-O 10. Nc4 Be6 11. Rad1 Nc8 12. Nxd6 cxd6 13. c4 Qe7 14. Rfe1
+Qf7 15. b3 Rd8 16. Qc3 d5 17. exd5 cxd5 18. Nd4 Bg4 19. f3 Bh5 20. Nf5 Ne7 21.
+Nxe7+ Qxe7 22. Bb6 1-0
+

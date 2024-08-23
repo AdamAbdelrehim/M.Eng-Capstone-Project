@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "raz_dwa_tri"]
+[Black "durasno"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/y9cwEv0A"]
+[WhiteElo "2422"]
+[BlackElo "2584"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "00:40:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-8"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d3 Nf6 5. O-O O-O 6. Re1 d6 7. h3 h6 8. c3
+Na5 9. Bb3 Nxb3 10. axb3 c5 11. d4 Qc7 12. Nbd2 Bd7 13. Nf1 Bc6 14. Ng3 Rfe8
+15. Nf5 Bf8 16. d5 Bd7 17. N3h4 g6 18. Nxh6+ Kh7 19. Nxf7 Bxh3 20. Ng5+ 1-0
+

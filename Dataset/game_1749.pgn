@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "solidskiskak"]
+[Black "cresbook2"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/5byDn0X7"]
+[WhiteElo "2504"]
+[BlackElo "2353"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:48:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. e3 Be7 7. Bd3 O-O 8.
+Nge2 Re8 9. Qc2 h6 10. Bh4 Ne4 11. Bxe7 Qxe7 12. Bxe4 dxe4 13. Ng3 f5 14. O-O
+Be6 15. f3 exf3 16. Rxf3 Nd7 17. Nxf5 Bxf5 18. Qxf5 Rf8 19. Qe4 Qd6 20. Raf1
+Nf6 21. Qh4 Rae8 22. h3 Nd5 23. Rxf8+ Rxf8 24. Rxf8+ Qxf8 25. Nxd5 cxd5 26. Qf4
+Qb4 27. b3 Qd2 28. Qe5 Kh7 29. Kh2 Qe2 30. a4 Qe1 31. Qf5+ Kh8 32. Qc8+ Kh7 33.
+Qxb7 Qxe3 34. Qxd5 Qf4+ 35. Kg1 Qe3+ 36. Kf1 Qd3+ 37. Kf2 Qd2+ 38. Kf3 Qd3+ 39.
+Kf4 Qd2+ 40. Ke5 Qg5+ 41. Kd6 Qd8+ 42. Kc5 Qc7+ 43. Kb4 Qb6+ 44. Ka3 Qg6 45. g4
+Qe8 46. a5 Qe1 47. Ka4 Qa1+ 48. Kb5 Qf1+ 49. Kc5 Qxh3 50. Qf5+ Kg8 51. Qe6+ Kh7
+52. Qf5+ Kg8 53. Qe6+ Kh7 54. Kc6 Qc3+ 55. Kb7 Qxd4 56. a6 Kh8 57. b4 Qxb4+ 58.
+Kxa7 Qd4+ 59. Ka8 Qd8+ 60. Kb7 Qd4 61. a7 Qb4+ 62. Kc8 Qc5+ 63. Kb8 Qb5+ 64.
+Ka8 Qb4 65. Qc8+ Kh7 66. Qf5+ Kh8 67. Qd7 Qe4+ 68. Qb7 Qxg4 69. Kb8 Qf4+ 70.
+Qc7 Qb4+ 71. Kc8 Qg4+ 72. Qd7 Qc4+ 73. Qc7 Qa6+ 74. Kd8 Qf6+ 75. Kd7 Qf7+ 76.
+Kc6 Qf3+ 77. Kd7 Kh7 78. Qc6 Qf7+ 79. Kd6 Qxa7 80. Qe4+ Kg8 81. Qe8+ Kh7 82.
+Qe4+ g6 83. Ke6 Qb6+ 84. Kf7 Qc7+ 85. Kf6 Qd6+ 86. Kf7 Qd7+ 87. Kf6 Qd8+ 88.
+Kf7 Qg8+ 89. Kf6 Qf8+ 90. Ke6 Qe8+ 91. Kd5 Qxe4+ 92. Kxe4 h5 0-1
+

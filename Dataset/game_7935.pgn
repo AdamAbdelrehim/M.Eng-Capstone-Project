@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "bot_adario"]
+[Black "Hoon_Bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/0hGbkd5r"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2617"]
+[BlackElo "2878"]
+[ECO "D08"]
+[Opening "Queen's Gambit Declined: Albin Countergambit"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "00:04:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. d4 d5 2. c4 e5 3. dxe5 Ne7 4. cxd5 Qxd5 5. Bd2 Qxe5 6. Nc3 Nbc6 7. e4 Bd7 8.
+Nf3 Qf6 9. Be3 Ng6 10. Nd5 Bb4+ 11. Nd2 Qd6 12. a3 Bxd2+ 13. Qxd2 f5 14. Qc2
+O-O-O 15. O-O-O Qe5 16. Bd3 fxe4 17. Bxe4 Rhe8 18. Nc3 Nge7 19. Bxh7 Bf5 20.
+Rxd8+ Rxd8 21. Bxf5+ Nxf5 22. Qe2 Nxe3 23. Qxe3 Qxe3+ 24. fxe3 Ne5 25. Rf1 Ng4
+26. Rf7 Rd7 27. Rf8+ Rd8 28. Rf7 Rd7 29. Rf8+ Rd8 30. Rf3 Nxh2 31. Rf4 b6 32.
+e4 c6 33. Nd1 Rd3 34. Rf7 Rg3 35. Rxa7 b5 36. e5 Rxg2 37. e6 Re2 38. e7 Ng4 39.
+a4 bxa4 40. Nc3 Re5 41. Nxa4 Nf6 42. Nb6+ Kb8 43. Nd7+ Kxa7 44. Nxe5 Kb7 45.
+Kc2 Kc7 46. Ng6 Kd7 47. Kd3 Nd5 48. e8=Q+ Kxe8 49. Ne5 c5 50. Kc4 Ne3+ 51. Kxc5
+g6 52. Kd4 Nd1 53. b3 g5 54. Ng4 Kd7 55. Kd3 Ke6 56. Ke4 Nb2 57. Nf2 g4 58.
+Nxg4 Nd1 59. Kd3 Kd5 60. Nf2 Nxf2+ 61. Ke3 Nd1+ 62. Kf3 Nb2 63. Kf4 Nd1 64. Kf5
+Nb2 65. b4 Nd1 66. Kg5 Nb2 67. Kf5 Nd1 68. b5 Nb2 69. b6 Nc4 70. b7 Nd6+ 71.
+Kg6 Nxb7 1/2-1/2
+

@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "LevPaukman"]
+[Black "ksxpjsy"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/eTXRZiyW"]
+[WhiteElo "2487"]
+[BlackElo "2550"]
+[ECO "D03"]
+[Opening "Queen's Pawn Game: Torre Attack, Gossip Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:06:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bg5 Ne4 4. Bf4 c5 5. c3 Nc6 6. e3 e6 7. Nbd2 f5 8. Bb5
+Bd7 9. Bxc6 Bxc6 10. O-O Be7 11. Ne5 Rc8 12. Nxe4 fxe4 13. Qh5+ g6 14. Nxg6
+hxg6 15. Qxh8+ Kd7 16. Qxd8+ Rxd8 17. f3 1-0
+

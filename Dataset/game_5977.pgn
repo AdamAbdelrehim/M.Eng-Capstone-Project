@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Apjoshua"]
+[Black "Antropterix"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/2PLV6OQn"]
+[WhiteTitle "FM"]
+[WhiteElo "2525"]
+[BlackElo "2362"]
+[ECO "A05"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:17:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 O-O 5. Bg2 d5 6. O-O c6 7. c4 a5 8. d3 Na6
+9. Nbd2 Bf5 10. Rb1 Qc8 11. Nd4 Bh3 12. cxd5 Nxd5 13. Rc1 Bxg2 14. Kxg2 Qg4 15.
+e3 Qxd1 16. Rfxd1 c5 17. Nc4 cxd4 18. Nxa5 b6 19. Nc6 dxe3 20. Bxg7 Kxg7 21.
+Re1 Nab4 22. Nxb4 Nxb4 23. Rxe3 Rxa2 24. Rc7 Nd5 0-1
+

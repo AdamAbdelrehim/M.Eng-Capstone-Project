@@ -1,0 +1,27 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Hoon_Bot"]
+[Black "Nikitosikbot_v2"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/15b1K6yr"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2898"]
+[BlackElo "3017"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation"]
+[TimeControl "600+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "23:55:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. d4 d5 2. Nf3 Nf6 3. c3 Bf5 4. Bf4 e6 5. Qb3 Qc8 6. Nbd2 h6 7. e3 Be7 8. Be2
+a5 9. a4 Nh5 10. Be5 Nd7 11. h3 Nhf6 12. Bf4 c6 13. O-O O-O 14. c4 b6 15. Rac1
+Qb7 16. Rfd1 Rfd8 17. Nh4 Be4 18. Bh2 dxc4 19. Bxc4 Bd5 20. Nhf3 Bf8 21. Ne1 c5
+22. Bxd5 Nxd5 23. Nc4 cxd4 24. Rxd4 Nc5 25. Qb5 f6 26. Rcd1 Rac8 27. Kf1 Kh8
+28. R1d2 Re8 29. Rd1 Red8 30. R1d2 Re8 31. Rd1 Red8 1/2-1/2
+

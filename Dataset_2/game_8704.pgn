@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.27"]
+[Round "-"]
+[White "acelen60"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r3kbnr/pppq1ppp/8/4p3/2Q5/6P1/PP1PPP1P/RNB1K1NR b KQkq -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Kings-Fianchetto-Opening...2.Bg2-e5-3.c4-dxc4"]
+[UTCDate "2023.04.27"]
+[UTCTime "01:02:43"]
+[WhiteElo "1909"]
+[BlackElo "1854"]
+[TimeControl "600"]
+[Termination "acelen60 won by resignation"]
+[StartTime "01:02:43"]
+[EndDate "2023.04.27"]
+[EndTime "01:03:16"]
+[Link "https://www.chess.com/game/live/76296153339"]
+
+1. g3 { [%clk 0:09:56.5] } 1... d5 { [%clk 0:09:58.6] } 2. Bg2
+{ [%clk 0:09:55.5] } 2... e5 { [%clk 0:09:57.9] } 3. c4 { [%clk 0:09:54.7] }
+3... dxc4 { [%clk 0:09:54.5] } 4. Qa4+ { [%clk 0:09:52.1] } 4... Nc6
+{ [%clk 0:09:51.4] } 5. Bxc6+ { [%clk 0:09:49.5] } 5... Bd7
+{ [%clk 0:09:50.5] } 6. Bxd7+ { [%clk 0:09:45.5] } 6... Qxd7
+{ [%clk 0:09:48.5] } 7. Qxc4 { [%clk 0:09:43.3] } 1-0
+

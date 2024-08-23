@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "GalimovaTS"]
+[Black "riga1960"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/w1Z22tqI"]
+[WhiteElo "2509"]
+[BlackElo "2538"]
+[ECO "D07"]
+[Opening "Queen's Gambit Declined: Chigorin Defense, Tartakower Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:12:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. c4 Nc6 2. d4 d5 3. Nc3 e5 4. cxd5 Nxd4 5. e3 Nf5 6. Nf3 Bd6 7. e4 Nh4 8.
+Bb5+ Kf8 9. O-O a6 10. Be2 Nxf3+ 11. Bxf3 g6 12. g3 h5 13. Bg2 h4 14. Be3 Nf6
+15. Bg5 h3 16. Bh1 Rh5 17. f4 Bc5+ 18. Rf2 Rxg5 19. Bf3 exf4 0-1
+

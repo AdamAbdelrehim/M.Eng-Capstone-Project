@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "domore"]
+[Black "CRBorn"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/bnRkV7LW"]
+[WhiteElo "2450"]
+[BlackElo "2552"]
+[ECO "B00"]
+[Opening "St. George Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "04:02:58"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 a6 2. d4 h6 3. Nc3 d6 4. Nf3 e6 5. Bc4 g6 6. O-O Bg7 7. a4 Ne7 8. Be3 b6
+9. Qd2 Nd7 10. Ne2 Bb7 11. Ng3 Nf6 12. Bd3 Ng4 13. c3 Nxe3 14. fxe3 O-O 15. Qe2
+e5 16. d5 c6 17. c4 c5 18. Nh4 Bc8 19. Nf3 Bd7 20. Qd2 Rb8 21. b4 Qc7 22. Rfb1
+Rfc8 23. Ne2 f5 24. exf5 Bxf5 25. e4 Bg4 26. h3 Bxf3 27. gxf3 Kh7 28. Rb2 h5
+29. Rab1 Bh6 30. Qe1 Ng8 31. Qg3 Nf6 32. f4 Re8 33. Kh2 exf4 34. Nxf4 Bxf4 35.
+Qxf4 Rf8 36. Qg5 Nd7 37. e5 Nxe5 38. Qxh5+ Kg7 39. Rg2 Rf6 40. Rbg1 Qf7 41. Be4
+cxb4 42. Qg5 Rh8 43. h4 a5 44. h5 Kf8 45. Re2 Rxh5+ 46. Qxh5 gxh5 47. Rgg2 Ng4+
+48. Kg3 Qg7 49. Kh4 Rf4 50. Bf3 Nf2+ 51. Kxh5 Rf5+ 52. Kh4 Qh6+ 53. Kg3 Nd3 54.
+Re4 Qf6 55. Rg4 Rxf3+ 56. Kh2 Nf4 57. R4g3 Nxg2 58. Rxf3 1-0
+

@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.02.06"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "lmaLoser"]
+[Result "0-1"]
+[CurrentPosition "rnbqkbnr/pppp2pp/8/5P2/4p3/5N2/PPPP1PPP/RNBQKB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "C40"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Latvian-Gambit-Accepted"]
+[UTCDate "2022.02.06"]
+[UTCTime "00:40:26"]
+[WhiteElo "1600"]
+[BlackElo "1591"]
+[TimeControl "600"]
+[Termination "lmaLoser won by resignation"]
+[StartTime "00:40:26"]
+[EndDate "2022.02.06"]
+[EndTime "00:41:10"]
+[Link "https://www.chess.com/game/live/37846820329"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:59.9] } 2. Nf3
+{ [%clk 0:09:58.7] } 2... f5 { [%clk 0:09:59.8] } 3. exf5 { [%clk 0:09:37.7] }
+3... e4 { [%clk 0:09:43.1] } 0-1
+

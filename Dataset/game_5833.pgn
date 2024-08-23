@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "stammargg"]
+[Black "tuzibaba"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/tt7Ib6u2"]
+[WhiteElo "2533"]
+[BlackElo "2428"]
+[ECO "E83"]
+[Opening "King's Indian Defense: Sämisch Variation, Yates Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:57:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f3 d6 6. Be3 Nc6 7. Qd2 a6 8. Nge2
+b5 9. a3 bxc4 10. h4 h5 11. g4 hxg4 12. h5 gxf3 13. Ng3 e5 14. d5 Nd4 15. Bxc4
+Ng4 16. h6 Bf6 17. h7+ Kh8 18. Bxd4 exd4 19. Nd1 Rb8 20. Nf2 Ne3 21. Bd3 Be5
+22. Nf1 Qg5 23. Nd1 Bf4 24. Nfxe3 dxe3 25. Qc3+ Be5 26. Qc2 Qg3+ 27. Kf1 Bh3+
+28. Rxh3 Qxh3+ 29. Kg1 Qg3+ 30. Kf1 Bd4 31. Ra2 e2+ 32. Bxe2 Qg1# 0-1
+

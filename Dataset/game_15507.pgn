@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "mboldysh"]
+[Black "FIDE-Trainer1984"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/pOgz9I3Z"]
+[WhiteElo "2491"]
+[BlackElo "2501"]
+[ECO "D30"]
+[Opening "Semi-Slav Defense: Quiet Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:47:25"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. Nf3 d5 2. d4 c6 3. c4 e6 4. e3 Nf6 5. Nbd2 c5 6. cxd5 exd5 7. dxc5 Bxc5 8.
+Nb3 Bb6 9. Bd2 O-O 10. Bc3 Ne4 11. Bd4 Bc7 12. Rc1 Nc6 13. Bd3 Bg4 14. h3 Bh5
+15. Be2 Re8 16. Nc5 Ba5+ 17. Kf1 Qe7 18. g4 Bg6 19. Kg2 Nxd4 20. Qxd4 Bb6 21.
+b4 Rac8 22. Rhd1 Red8 23. Qe5 Qxe5 24. Nxe5 Bxc5 25. bxc5 Nxc5 26. Nxg6 hxg6
+27. Bf3 Ne6 28. Rxc8 Rxc8 29. Bxd5 Rd8 30. Bb3 Rxd1 31. Bxd1 Kf8 32. f4 g5 33.
+Kf3 Ke7 34. Ke4 Kd6 35. Kf5 gxf4 36. exf4 Nd4+ 37. Ke4 Ne6 38. h4 b5 39. h5 f6
+40. Kf5 Nf8 41. g5 fxg5 42. fxg5 a5 43. h6 gxh6 44. gxh6 Ke7 45. Be2 b4 46. Bc4
+a4 47. Kg5 b3 48. axb3 axb3 49. Bxb3 Nh7+ 50. Kg6 Nf8+ 51. Kg7 Nd7 52. h7 Nf8
+53. h8=Q 1-0
+

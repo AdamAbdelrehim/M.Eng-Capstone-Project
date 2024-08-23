@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.05.13"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "luckyswapnil"]
+[Result "1-0"]
+[CurrentPosition "rnbqkbnr/pp2pppp/8/3p4/8/3P1N2/PPP2PPP/RNBQKB1R b KQkq -"]
+[Timezone "UTC"]
+[ECO "B10"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-2.Nf3-d5-3.exd5-cxd5"]
+[UTCDate "2023.05.13"]
+[UTCTime "23:45:52"]
+[WhiteElo "1744"]
+[BlackElo "1724"]
+[TimeControl "60"]
+[Termination "AdamAbdelrehim won - game abandoned"]
+[StartTime "23:45:52"]
+[EndDate "2023.05.13"]
+[EndTime "23:46:29"]
+[Link "https://www.chess.com/game/live/77760656449"]
+
+1. e4 { [%clk 0:01:00] } 1... c6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.3] }
+2... d5 { [%clk 0:00:59.3] } 3. exd5 { [%clk 0:00:59.2] } 3... cxd5
+{ [%clk 0:00:58.7] } 4. d3 { [%clk 0:00:58.7] } 1-0
+

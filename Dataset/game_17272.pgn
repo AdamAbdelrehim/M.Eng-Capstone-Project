@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "The_reverse_flash"]
+[Black "GuilleRosario"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/okCtccFL"]
+[WhiteElo "2516"]
+[BlackElo "2541"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game: Modern Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "06:01:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 g6 2. Nf3 Bg7 3. Nc3 c6 4. Bf4 d5 5. Qd2 Nf6 6. Ne5 O-O 7. f3 Nbd7 8.
+O-O-O a5 9. h4 a4 10. Bh6 a3 11. h5 Qb6 12. Bxg7 Qxb2# 0-1
+

@@ -1,0 +1,32 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "AKS-Mantissa"]
+[Black "weiawaga"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/4X1c8O70"]
+[WhiteTitle "BOT"]
+[WhiteElo "2787"]
+[BlackElo "2710"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:10:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. e3 Bd6 7. Bd3 h6 8. Bh4
+Be6 9. f4 Qe7 10. Nf3 Bg4 11. O-O g5 12. Bf2 Nbd7 13. h3 Bh5 14. g4 Nxg4 15.
+hxg4 Bxg4 16. e4 dxe4 17. Bxe4 O-O-O 18. Re1 Qf6 19. f5 Bc7 20. Qc2 Qd6 21. d5
+Bxf3 22. Bxf3 Ne5 23. Be4 Ng4 24. Bxa7 b6 25. dxc6 Rhe8 26. Nd5 Qg3+ 27. Qg2
+Rxd5 28. Qxg3 Bxg3 29. Bxd5 Bxe1 30. Bxb6 Bg3 31. Bxf7 Re2 32. b4 Bh2+ 33. Kf1
+Rc2 34. Re1 Rxc6 35. Be6+ Kb8 36. Bd4 Rc2 37. f6 Rd2 38. Re4 Rxd4 39. Rxd4 Nxf6
+40. Rd8+ Kc7 41. Rf8 Be5 42. a4 Kd6 43. Bh3 Ke7 44. Rh8 h5 45. a5 g4 46. a6 Bd4
+47. Bg2 Kd6 48. b5 Be3 49. Bc6 g3 50. Kg2 Bb6 51. Rh6 Ke6 52. Kxg3 Bc7+ 53. Kf3
+Bb6 54. Kf4 Bf2 55. Bg2 Ke7 56. Bh3 Nd5+ 57. Kf3 Bg1 58. Rg6 Nc7 59. Rxg1 Nxb5
+60. Rb1 Nc7 61. a7 Kd6 62. Rb8 Kc6 63. Rc8 Kd5 64. Rxc7 Kd4 65. a8=Q Ke5 66.
+Qe4+ Kd6 67. Rc6# 1-0
+

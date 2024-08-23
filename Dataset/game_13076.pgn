@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Mikkel_Vinh"]
+[Black "cibona"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/HCuXSvuA"]
+[WhiteTitle "CM"]
+[WhiteElo "2502"]
+[BlackElo "2519"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:54:21"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. c3 a6 6. Ba4 b5 7. Bc2 Bb7 8. d4
+cxd4 9. cxd4 Nb4 10. Nc3 Nxc2 11. Qxc2 Rc8 12. a3 Ng6 13. d5 Bc5 14. Bg5 f6 15.
+Be3 Bxe3 16. fxe3 O-O 17. Rad1 Qb6 18. Nd4 Rc4 19. Qe2 Ne5 20. Kh1 Rfc8 21.
+dxe6 dxe6 22. Qh5 R4c7 23. Qh3 Re7 24. Qg3 Kh8 25. Qh4 Rf8 26. Rde1 Nc4 27. Rf2
+Nxe3 28. Rxe3 Qxd4 29. Re1 Rd7 30. h3 Qe5 31. Qg4 Rd3 32. Rff1 g6 33. Qe2 Rfd8
+34. Rd1 R3d6 35. Rxd6 Rxd6 36. Rd1 Kg7 37. Rxd6 Qxd6 38. Qe3 f5 39. Qa7 Qc6 40.
+Qd4+ Kf7 41. Qh8 fxe4 42. Qxh7+ Kf6 43. Qh4+ Kf5 44. Ne2 e5 45. Ng3+ Ke6 46.
+Qg4+ Kd6 47. Qxg6+ Kc5 48. Qg7 Kd4 49. Nf5+ Kc4 50. Qxb7 Qxb7 51. Nd6+ Kd3 52.
+Nxb7 e3 53. Nc5+ Kd2 54. Ne4+ Ke1 55. h4 e2 56. Ng3 Kf2 57. Nxe2 Kxe2 58. h5 e4
+59. h6 e3 60. h7 Kd2 61. h8=Q e2 62. Qd4+ Kc1 63. Qe3+ Kd1 64. Qd3+ Ke1 65. g3
+Kf2 66. Qxe2+ Kxe2 67. g4 Kd3 68. g5 Kc2 69. g6 Kxb2 70. g7 Kxa3 71. g8=Q b4
+72. Qc4 a5 73. Kg1 a4 74. Kf1 1-0
+

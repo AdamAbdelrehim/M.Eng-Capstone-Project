@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "thebeagles"]
+[Black "silence404"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/8ura6UoS"]
+[WhiteElo "2608"]
+[BlackElo "2775"]
+[ECO "A46"]
+[Opening "Yusupov-Rubinstein System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:13:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. d4 Nf6 2. Nf3 e6 3. e3 c5 4. Bd3 b6 5. O-O Bb7 6. c4 Be7 7. Nc3 cxd4 8. exd4
+O-O 9. d5 exd5 10. cxd5 d6 11. Nd4 Nbd7 12. Re1 Ne5 13. Nf5 Nxd5 14. Nxd5 Bxd5
+15. Nxe7+ Qxe7 16. f4 Rad8 17. fxe5 dxe5 18. Qe2 e4 19. Bxe4 Bxe4 20. Qxe4 Qf6
+21. Qe2 h6 22. Be3 Rfe8 23. Qf2 Qc6 24. Rad1 Rxd1 25. Rxd1 Qe6 26. Bd4 f6 27.
+b3 Kh8 28. h3 Rd8 29. Re1 Qf7 30. Qe3 Qc7 31. Bb2 Qf7 32. Qe7 Qg8 33. Bxf6 Rc8
+34. Bb2 a5 35. Rf1 Re8 36. Bxg7+ Kh7 37. Qd7 Qe6 38. Qxe6 Rxe6 39. Bb2 Re2 40.
+Rf2 Re1+ 41. Kh2 b5 42. Rf5 Re2 43. Bd4 Rxa2 44. Rxb5 Kg6 45. Bb6 Rb2 46. Bxa5
+Kf6 47. Bc3+ Ke6 48. Rc5 Rb1 49. b4 Kd6 50. Bd4 h5 51. Rxh5 Rb3 52. Bc5+ Ke6
+53. Rh6+ Ke5 54. Rb6 Kf5 55. h4 Ke4 56. h5 Kf5 57. h6 Ra3 58. h7 Ra8 59. Rh6
+Rh8 60. Bd4 Re8 61. h8=Q Re7 62. Qf6+ Ke4 63. Rh4+ Kd3 64. Qxe7 Kc4 65. b5 Kb3
+66. Qc5 Ka4 67. b6 Kb3 68. b7 Ka4 69. Qc3 Kb5 70. b8=Q+ Ka6 71. Qa3# 1-0
+

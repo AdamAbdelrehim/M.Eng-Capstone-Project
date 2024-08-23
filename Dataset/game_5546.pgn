@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "dmufim"]
+[Black "BoringAlien"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ivJKxYoj"]
+[WhiteElo "2393"]
+[BlackElo "2517"]
+[ECO "D15"]
+[Opening "Slav Defense: Schlechter Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:22:17"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. Nf3 d5 2. c4 c6 3. d4 Nf6 4. Nc3 g6 5. Bg5 Ne4 6. Bh4 Bg7 7. e3 O-O 8. Bd3
+Nf6 9. O-O Be6 10. Qe2 Re8 11. Rac1 a6 12. Rfd1 Bg4 13. h3 Bxf3 14. Qxf3 e6 15.
+e4 dxe4 16. Nxe4 Nbd7 17. Nd6 Rf8 18. Nxb7 Qb6 19. Nd6 Qxd4 20. Bf1 Qxh4 0-1
+

@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "cstipro"]
+[Black "MashxBurnedead"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/0KLmlUzA"]
+[WhiteElo "2636"]
+[BlackElo "2620"]
+[ECO "E60"]
+[Opening "King's Indian Defense: Normal Variation, King's Knight Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:31:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+7"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. Bf4 d6 6. e3 c5 7. d5 Nh5 8. Bg5 h6
+9. Bh4 g5 10. Nd2 gxh4 11. Qxh5 e6 12. Bd3 exd5 13. cxd5 Nd7 14. O-O Ne5 15.
+Be2 b5 16. f4 Nc4 17. Nxc4 bxc4 18. Bxc4 Rb8 19. Rf2 Rb4 20. Bd3 Re8 21. Nd1
+Qf6 22. Rc1 Bd7 23. b3 a5 24. Nc3 Rxe3 25. Qd1 Rxf4 26. Rxf4 Qxf4 27. Ne2 Qe5
+28. h3 Qg5 29. Kh1 Bxh3 30. Qf1 Rxd3 31. gxh3 Qxd5+ 32. Qg2 Rd1+ 33. Rxd1 Qxd1+
+34. Kh2 d5 35. Qg4 Qf1 36. Nf4 Qf2+ 37. Kh1 Qf1+ 38. Kh2 Qf2+ 39. Kh1 Qc2 40.
+Nxd5 Qb1+ 41. Kh2 Qxa2+ 42. Kh1 Qb1+ 43. Kh2 Qc2+ 44. Kh1 Qc1+ 45. Qg1 Qxg1+
+46. Kxg1 Bd4+ 47. Kf1 Kg7 48. Ke2 Kg6 49. Kf3 Kf5 50. Nb6 Ke6 51. Nc4 Bc3 52.
+Ke4 f5+ 53. Kf4 Be1 54. Kf3 Kd5 55. Ne3+ Ke5 56. Nc4+ Kd4 57. Kf4 a4 58. Kxf5
+axb3 59. Nb2 c4 0-1
+

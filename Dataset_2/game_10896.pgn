@@ -1,0 +1,39 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.12"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "braveaple"]
+[Result "1-0"]
+[CurrentPosition "2k1rb1r/pp4p1/2p2n2/2qp1P2/3Q3p/1BN1B3/PPP2PPP/R3R1K1 b - -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Rousseau-Gambit"]
+[UTCDate "2023.12.12"]
+[UTCTime "19:53:14"]
+[WhiteElo "1933"]
+[BlackElo "1914"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "19:53:14"]
+[EndDate "2023.12.12"]
+[EndTime "19:59:24"]
+[Link "https://www.chess.com/game/live/96149701685"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:58] }
+2... Nc6 { [%clk 0:09:59.5] } 3. Bc4 { [%clk 0:09:56.9] } 3... f5
+{ [%clk 0:09:56.2] } 4. exf5 { [%clk 0:09:53.3] } 4... e4 { [%clk 0:09:56.1] }
+5. Qe2 { [%clk 0:09:49.9] } 5... Qe7 { [%clk 0:09:53.7] } 6. Ng1
+{ [%clk 0:09:48.5] } 6... Nf6 { [%clk 0:09:51.8] } 7. Nc3 { [%clk 0:09:44.3] }
+7... Nd4 { [%clk 0:09:00.8] } 8. Qd1 { [%clk 0:09:33.5] } 8... Nxf5
+{ [%clk 0:08:59.2] } 9. Nge2 { [%clk 0:09:26.1] } 9... c6 { [%clk 0:08:56.1] }
+10. Ng3 { [%clk 0:09:20.3] } 10... Nd4 { [%clk 0:08:48.6] } 11. O-O
+{ [%clk 0:09:13] } 11... d5 { [%clk 0:08:46.5] } 12. Bb3 { [%clk 0:09:10] }
+12... Be6 { [%clk 0:08:35.5] } 13. Re1 { [%clk 0:09:03.6] } 13... O-O-O
+{ [%clk 0:08:31.1] } 14. d3 { [%clk 0:09:02.5] } 14... h5 { [%clk 0:07:39.8] }
+15. dxe4 { [%clk 0:08:53.2] } 15... h4 { [%clk 0:07:37.3] } 16. Nf5
+{ [%clk 0:08:34.7] } 16... Bxf5 { [%clk 0:06:30] } 17. exf5
+{ [%clk 0:08:19.8] } 17... Qc5 { [%clk 0:06:24.8] } 18. Be3
+{ [%clk 0:08:16.1] } 18... Re8 { [%clk 0:06:01.4] } 19. Qxd4
+{ [%clk 0:08:11.2] } 1-0
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "positionaloldman"]
+[Black "whiteprocess"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/eaiWTi4M"]
+[WhiteElo "2544"]
+[BlackElo "2525"]
+[ECO "C48"]
+[Opening "Four Knights Game: Spanish Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:51:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 d6 5. d4 exd4 6. Nxd4 Bd7 7. f3 Be7 8.
+Be3 O-O 9. Qd2 Nxd4 10. Bxd4 c6 11. Bd3 b5 12. O-O-O a5 13. Rhe1 a4 14. e5 dxe5
+15. Bxe5 b4 16. Ne4 b3 17. a3 Nd5 18. c4 Nf6 19. Nxf6+ Bxf6 20. Bxh7+ Kxh7 21.
+Qxd7 Qxd7 22. Rxd7 Rfe8 23. f4 Bxe5 24. Rxe5 f6 25. Rxe8 Rxe8 26. Kd2 Re4 27.
+Kc3 Rxf4 28. Rd2 c5 29. Rd5 Rf2 30. Rxc5 Rxg2 31. Rb5 Rxh2 32. c5 Rc2+ 33. Kb4
+Rxb2 34. Kxa4 g5 35. Rxb3 Rc2 36. Kb5 g4 37. a4 f5 38. a5 f4 39. a6 f3 40. Rb1
+f2 41. c6 g3 42. a7 g2 43. a8=Q f1=Q+ 0-1
+

@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "very_slow"]
+[Black "Cor64"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/9znqgadE"]
+[WhiteElo "2497"]
+[BlackElo "2508"]
+[ECO "D06"]
+[Opening "Queen's Gambit Declined: Marshall Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:51:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. e4 Nb6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. h4
+h5 9. g4 hxg4 10. h5 c5 11. dxc5 Qxd1+ 12. Rxd1 N6d7 13. fxg4 Ne5 14. h6 1-0
+

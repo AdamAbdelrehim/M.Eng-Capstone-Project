@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Simba_Abessimba"]
+[Black "Tahin_Pekmez"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/doiZcXaU"]
+[BlackTitle "CM"]
+[WhiteElo "2516"]
+[BlackElo "2503"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Main Line"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:17:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 f6 7. Bd3 fxe5 8. Nxe5
+Nxe5 9. dxe5 Ne7 10. O-O g6 11. c4 Bg7 12. Nc3 O-O 13. Bg5 Nf5 14. cxd5 Bxe5
+15. Bc4 Kg7 16. Qc1 h6 17. Bd2 Rd8 18. Re1 exd5 19. Nxd5 Qd6 20. Bc3 Nd4 21. f4
+Bf6 22. Nxf6 Qxf6 23. Qe3 Bf5 24. Qe7+ Qxe7 25. Rxe7+ Kf6 26. Rf7# 1-0
+

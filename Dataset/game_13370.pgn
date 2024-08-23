@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "R_M_Smullyan"]
+[Black "FIDE-Trainer1984"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/0ArWFAAY"]
+[WhiteElo "2404"]
+[BlackElo "2540"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:31:50"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 Na6 8.
+Qc2 Nc7 9. Ne2 Kf8 10. Be3 h5 11. h3 h4 12. O-O-O b5 13. g3 Be6 14. Kb1 Bd5 15.
+Rhg1 hxg3 16. fxg3 Rxh3 17. Nf4 Bxf4 18. Bxf4 Ne6 19. Bc1 a5 20. Bf5 Rh8 21. g4
+g5 22. Rdf1 Kg7 23. Qf2 a4 24. a3 Qd6 25. Bc2 Nc7 26. Qf5 Qe6 27. Qf2 Rae8 28.
+Re1 Qd6 29. Ref1 Rh2 30. Qf5 Rxc2 31. Bxg5 Rxb2+ 32. Kxb2 Re2+ 33. Kc1 Qxa3+
+34. Kd1 fxg5 35. Qxg5+ Kf8 36. Kxe2 Bc4+ 37. Kf2 Qb2+ 38. Kg3 Bxf1 39. Rxf1
+Qxc3+ 40. Rf3 Qxd4 41. Qh6+ Ke7 42. Re3+ Ne6 43. Qg5+ Kd7 44. Qe5 Qxe5+ 45.
+Rxe5 1-0
+

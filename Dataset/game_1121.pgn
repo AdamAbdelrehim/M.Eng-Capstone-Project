@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "thundertwister"]
+[Black "ThomasASV"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/2fYTn1Yx"]
+[WhiteElo "2661"]
+[BlackElo "2592"]
+[ECO "A41"]
+[Opening "Wade Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:27:34"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. Nf3 d6 2. d4 Bg4 3. e4 Nf6 4. Nc3 e6 5. h3 Bxf3 6. Qxf3 d5 7. e5 Nfd7 8. Be3
+c5 9. Be2 Nc6 10. dxc5 Ndxe5 11. Qg3 Nd7 12. O-O-O Qa5 13. Rhe1 a6 14. a3 Bxc5
+15. Bxc5 Qxc5 16. Qxg7 Qf8 17. Qg5 Qe7 18. Qg3 O-O-O 19. Bxa6 Rhg8 20. Nxd5
+Rxg3 21. Nxe7+ Nxe7 22. fxg3 bxa6 23. Rf1 Ne5 24. Rde1 N7c6 25. Rf4 Rg8 26. g4
+Rd8 27. b4 Kc7 28. a4 Rb8 29. Re3 Kd6 30. c3 Ke7 31. Kc2 h6 32. Rfe4 f6 33. Re1
+Rc8 34. Rd1 Nb8 35. Kb3 Nbd7 36. Red4 Rc7 37. Rd6 a5 38. Ra6 Nc4 39. Rd4 Nde5
+40. b5 Ne3 41. Rxa5 Rb7 42. Ra6 Nd7 43. Kb4 Nc2+ 44. Ka5 Nxd4 45. cxd4 e5 46.
+dxe5 Nxe5 47. Ra8 Nc4+ 48. Kb4 Nd6 49. Rh8 Ke6 50. Rxh6 Ke5 51. h4 Rc7 52. b6
+Rc4+ 53. Ka5 Rc2 54. Ka6 Rb2 55. g5 Nc4 56. gxf6 Rxb6+ 57. Ka7 Rd6 58. a5 Nxa5
+59. f7 Rd7+ 60. Kb8 Rxf7 61. Rh5+ Rf5 62. Rh8 Nc6+ 63. Kc7 Kd5 64. Re8 Rf7+ 65.
+Kb6 Nd4 66. Re1 Rf6+ 67. Ka5 Rf8 68. Ka4 Rb8 69. Rd1 Kc5 70. Ka3 Kd5 71. Ka2
+Kc4 72. Ka1 Kc3 73. Rxd4 Kxd4 74. Ka2 Kc3 75. Ka3 1-0
+

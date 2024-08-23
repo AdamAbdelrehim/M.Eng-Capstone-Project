@@ -1,0 +1,41 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.01.20"]
+[Round "-"]
+[White "pabloscorofitz"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r4rk1/1p2b1pQ/pq2ppP1/2npP3/5P2/2Pb4/PP1N3P/R1B4K b - -"]
+[Timezone "UTC"]
+[ECO "A43"]
+[ECOUrl "https://www.chess.com/openings/Old-Benoni-Defense-2.e3-cxd4-3.exd4"]
+[UTCDate "2023.01.20"]
+[UTCTime "23:04:37"]
+[WhiteElo "1482"]
+[BlackElo "1475"]
+[TimeControl "60"]
+[Termination "pabloscorofitz won by checkmate"]
+[StartTime "23:04:37"]
+[EndDate "2023.01.20"]
+[EndTime "23:06:01"]
+[Link "https://www.chess.com/game/live/67995073907"]
+
+1. d4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. e3 { [%clk 0:00:59.1] }
+2... cxd4 { [%clk 0:00:59.3] } 3. exd4 { [%clk 0:00:58.3] } 3... Nf6
+{ [%clk 0:00:59.2] } 4. Bd3 { [%clk 0:00:55.8] } 4... e6 { [%clk 0:00:58.7] }
+5. f4 { [%clk 0:00:55.1] } 5... Be7 { [%clk 0:00:58.1] } 6. Nf3
+{ [%clk 0:00:54.5] } 6... O-O { [%clk 0:00:57.5] } 7. O-O { [%clk 0:00:53.9] }
+7... d5 { [%clk 0:00:57.1] } 8. c3 { [%clk 0:00:53.2] } 8... Nc6
+{ [%clk 0:00:56.4] } 9. Nbd2 { [%clk 0:00:52.6] } 9... a6 { [%clk 0:00:55.9] }
+10. Ne5 { [%clk 0:00:52.1] } 10... Nxe5 { [%clk 0:00:54.7] } 11. dxe5
+{ [%clk 0:00:51.1] } 11... Nd7 { [%clk 0:00:54.6] } 12. g4 { [%clk 0:00:49.9] }
+12... Nc5 { [%clk 0:00:53.5] } 13. Bc2 { [%clk 0:00:48.6] } 13... Qb6
+{ [%clk 0:00:51.9] } 14. Kh1 { [%clk 0:00:47.3] } 14... Bd7
+{ [%clk 0:00:46.8] } 15. g5 { [%clk 0:00:46.1] } 15... Bb5 { [%clk 0:00:46.2] }
+16. Rf3 { [%clk 0:00:44.6] } 16... f6 { [%clk 0:00:37.6] } 17. Bxh7+
+{ [%clk 0:00:43.2] } 17... Kxh7 { [%clk 0:00:36.4] } 18. Rh3+
+{ [%clk 0:00:42.5] } 18... Kg8 { [%clk 0:00:30.6] } 19. g6 { [%clk 0:00:41.8] }
+19... Bd3 { [%clk 0:00:14.1] } 20. Rh8+ { [%clk 0:00:38.4] } 20... Kxh8
+{ [%clk 0:00:10.7] } 21. Qh5+ { [%clk 0:00:37.9] } 21... Kg8
+{ [%clk 0:00:09.6] } 22. Qh7# { [%clk 0:00:37.8] } 1-0
+

@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Aborigen100500"]
+[Black "GuilleRosario"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/EyMh4Lny"]
+[WhiteTitle "NM"]
+[WhiteElo "2586"]
+[BlackElo "2523"]
+[ECO "A00"]
+[Opening "Van Geet Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:11:21"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. Nc3 f6 2. e4 Nh6 3. d4 Nf7 4. f4 c6 5. Nf3 g6 6. h4 d5 7. e5 Bg4 8. Be3 Bg7
+9. Be2 O-O 10. h5 g5 11. Nd2 gxf4 12. Bxf4 fxe5 13. dxe5 Nxe5 14. Bxg4 Rxf4 15.
+Be6+ Kh8 16. h6 Bf6 17. Qh5 Nbd7 18. O-O-O Nc5 19. g3 Rf2 20. Bf5 Qe8 21. Qh3
+b5 22. Rhf1 Rxf1 23. Nxf1 Nc4 24. Bd3 Nxb2 25. Kxb2 Na4+ 26. Kc1 Nxc3 27. Re1
+Qf7 28. Ne3 d4 29. Qf5 dxe3 30. Rxe3 Nd5 31. Rf3 Nb4 32. a3 Nxd3+ 33. Qxd3 Qd5
+34. Qxd5 cxd5 35. Rb3 a6 36. a4 bxa4 37. Ra3 a5 38. Rxa4 Bc3 39. Kd1 d4 40. Ke2
+Kg8 41. Kd3 Kf7 42. Ke4 Kg6 43. Kd5 Kxh6 44. Ke6 Kg5 45. Kxe7 Kg4 46. Ke6 Kxg3
+47. Kd5 h5 48. Kc4 h4 49. Kb3 h3 50. Rc4 Rb8+ 51. Ka2 Rb2+ 52. Ka3 h2 53. Rxd4
+Bxd4 54. c3 Bxc3 55. Ka4 h1=Q 0-1
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Blauregen"]
+[Black "Elmarmalade"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/SeUseRYH"]
+[BlackTitle "GM"]
+[WhiteElo "2409"]
+[BlackElo "2553"]
+[ECO "A70"]
+[Opening "Benoni Defense: Classical Variation, New York Variation"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:13:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. d4 c5 2. d5 g6 3. c4 Bg7 4. Nc3 d6 5. e4 Nf6 6. h3 e6 7. Nf3 exd5 8. cxd5 a6
+9. a4 Nbd7 10. Bd3 Nh5 11. O-O Ne5 12. Be2 Nxf3+ 13. Bxf3 Qh4 14. Bg4 Bd4 15.
+Bxc8 Rxc8 16. Qg4 Qxg4 17. hxg4 Nf6 18. g5 Ng4 19. Ne2 Bg7 20. Ra3 c4 21. f4
+O-O 22. Rg3 f5 23. gxf6 Nxf6 24. Nc3 Rfe8 25. f5 Nxe4 26. Nxe4 Rxe4 27. fxg6
+Bd4+ 28. Kh1 Rh4+ 29. Rh3 Rxh3+ 30. gxh3 hxg6 31. Rf4 Be5 32. Rg4 Kf7 33. Kg2
+b5 34. axb5 axb5 35. Kf3 Ra8 36. Rg2 Ra1 37. Be3 Rb1 38. Bf4 Rf1+ 0-1
+

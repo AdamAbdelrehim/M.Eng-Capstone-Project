@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Aprende_con_Ivan"]
+[Black "domore"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/chxYofen"]
+[WhiteElo "2551"]
+[BlackElo "2464"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:42:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Nbd7 6. Qc2 c6 7. e3 Be7 8.
+Bd3 Nh5 9. Bxe7 Qxe7 10. Nge2 g6 11. O-O Nb6 12. Rae1 O-O 13. Kh1 Ng7 14. Ng3
+h5 15. Nge2 Bf5 16. Nf4 Bxd3 17. Nxd3 Nc4 18. b3 Nd6 19. f3 Ngf5 20. Qf2 Rae8
+21. e4 dxe4 22. fxe4 Ng7 23. e5 Ndf5 24. Ne4 Rd8 25. Nf6+ Kh8 26. Re4 Ne6 27.
+Qd2 Neg7 28. Ref4 c5 29. Rxf5 Nxf5 30. Rxf5 Kg7 31. Nf4 Rxd4 32. N4xh5+ gxh5
+33. Qg5+ Kh8 34. Qh6# 1-0
+

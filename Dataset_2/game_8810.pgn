@@ -1,0 +1,42 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.05.05"]
+[Round "-"]
+[White "Kogut70"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "2r1r1k1/2P1ppbp/6p1/p2R4/3P1B2/4P2P/1P2NPP1/5RK1 b - -"]
+[Timezone "UTC"]
+[ECO "D93"]
+[ECOUrl "https://www.chess.com/openings/Grunfeld-Defense-Hungarian-Attack-5...O-O-6.e3"]
+[UTCDate "2023.05.05"]
+[UTCTime "00:47:47"]
+[WhiteElo "1953"]
+[BlackElo "1940"]
+[TimeControl "600"]
+[Termination "Kogut70 won by resignation"]
+[StartTime "00:47:47"]
+[EndDate "2023.05.05"]
+[EndTime "00:52:45"]
+[Link "https://www.chess.com/game/live/76986649555"]
+
+1. d4 { [%clk 0:09:57.2] } 1... Nf6 { [%clk 0:09:51.7] } 2. c4
+{ [%clk 0:09:56.3] } 2... g6 { [%clk 0:09:41.6] } 3. Nc3 { [%clk 0:09:56.2] }
+3... d5 { [%clk 0:09:40.2] } 4. Nf3 { [%clk 0:09:51.2] } 4... Bg7
+{ [%clk 0:09:38.6] } 5. Bf4 { [%clk 0:09:45.4] } 5... O-O { [%clk 0:09:37.3] }
+6. e3 { [%clk 0:09:41.2] } 6... a6 { [%clk 0:09:32.9] } 7. Rc1
+{ [%clk 0:09:34.2] } 7... dxc4 { [%clk 0:09:32.1] } 8. Bxc4
+{ [%clk 0:09:31.9] } 8... b5 { [%clk 0:09:31.8] } 9. Bb3 { [%clk 0:09:30] }
+9... Bb7 { [%clk 0:09:31.5] } 10. Ne2 { [%clk 0:09:01.6] } 10... c6
+{ [%clk 0:09:28.1] } 11. h3 { [%clk 0:08:50.8] } 11... a5 { [%clk 0:09:16.9] }
+12. a4 { [%clk 0:08:47.7] } 12... Na6 { [%clk 0:08:50.2] } 13. Ne5
+{ [%clk 0:08:38.7] } 13... c5 { [%clk 0:08:40.8] } 14. axb5
+{ [%clk 0:08:30.8] } 14... Nb4 { [%clk 0:08:14.5] } 15. O-O { [%clk 0:08:24] }
+15... Nfd5 { [%clk 0:08:07.7] } 16. Bxd5 { [%clk 0:08:16.2] } 16... Bxd5
+{ [%clk 0:08:04] } 17. Rxc5 { [%clk 0:08:11.6] } 17... Be6 { [%clk 0:07:54.5] }
+18. Nc6 { [%clk 0:08:04.5] } 18... Nxc6 { [%clk 0:07:52.1] } 19. bxc6
+{ [%clk 0:07:59.7] } 19... Rc8 { [%clk 0:07:50.7] } 20. Qa4
+{ [%clk 0:07:48.3] } 20... Bd5 { [%clk 0:07:48.3] } 21. c7 { [%clk 0:07:40.6] }
+21... Qe8 { [%clk 0:07:42.1] } 22. Qxe8 { [%clk 0:07:35.8] } 22... Rfxe8
+{ [%clk 0:07:40.4] } 23. Rxd5 { [%clk 0:07:35] } 1-0
+

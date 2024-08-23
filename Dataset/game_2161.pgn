@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "GgangbuVip"]
+[Black "ie1"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/9TUSyOPg"]
+[WhiteElo "2750"]
+[BlackElo "2663"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:50:16"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 e6 2. e4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Bd6 6. Qe2+ Qe7 7. Qxe7+ Kxe7
+8. O-O Kf8 9. Re1 Nc6 10. c3 Bg4 11. Ne5 Re8 12. Bf4 Nh5 13. g3 Nxf4 14. gxf4
+f6 15. Nd2 fxe5 16. fxe5 Be7 17. Nf1 g6 18. Ne3 Be6 19. f4 Kg7 20. f5 gxf5 21.
+Bxf5 Bxf5 22. Nxf5+ Kg6 23. Ne3 Bh4 24. Re2 Rhf8 25. Nxd5 Rf7 26. Rg2+ Kh6 27.
+Ne3 Ne7 28. Rd1 Rg8 29. Ng4+ Kh5 30. h3 Rf3 31. Kh2 Rg6 32. d5 Nf5 33. e6 Bg3+
+34. Kh1 Bd6 35. Nf2 Ng3+ 36. Kg1 Bc5 37. Re1 Nf5 38. Re2 Ne7 39. Rxg6 hxg6 40.
+c4 c6 41. dxc6 bxc6 42. Kg2 Rxf2+ 43. Rxf2 Bxf2 44. Kxf2 Kg5 45. Ke3 Kf5 46.
+Kd4 Kxe6 47. Kc5 Kd7 48. b4 Kc7 49. a4 g5 50. b5 cxb5 51. cxb5 Ng6 52. Kd5 Nf4+
+53. Ke4 Nxh3 54. a5 Nf4 55. Kf5 Ne6 56. Kxe6 g4 57. Kd5 g3 58. Kc5 g2 59. b6+
+axb6+ 0-1
+

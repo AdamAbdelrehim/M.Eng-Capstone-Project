@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Profnick"]
+[Black "tompinch"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ExDNKRT9"]
+[WhiteElo "2525"]
+[BlackElo "2369"]
+[ECO "D15"]
+[Opening "Slav Defense: Two Knights Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:39:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. Ne5 b5 6. g3 Bb7 7. Bg2 Qc8 8. O-O
+e6 9. e4 Nbd7 10. Ng4 Nxg4 11. Qxg4 Nf6 12. Qe2 Be7 13. Bg5 O-O 14. e5 Nd5 15.
+Bxe7 Nxe7 16. Ne4 Nf5 17. Rfd1 c5 18. dxc5 Bd5 19. Nd6 Nxd6 20. Bxd5 exd5 21.
+cxd6 Qc5 22. Qd2 Rfe8 23. Qxd5 Qxd5 24. Rxd5 b4 25. f4 f6 26. Rc1 fxe5 27. fxe5
+Kf7 28. Rxc4 Ke6 29. Rdc5 a5 30. Kg2 Rf8 31. Rf4 Rfc8 32. Rxc8 Rxc8 33. Rd4
+Rc2+ 34. Kf3 Rc8 35. d7 Rd8 36. Rd6+ Kxe5 37. Rd2 g5 38. Kg4 Ke6 39. Kxg5 Rxd7
+40. Rxd7 Kxd7 41. Kh6 a4 42. Kxh7 Ke6 43. g4 Ke5 44. h4 a3 45. bxa3 bxa3 46. g5
+Kd4 47. g6 Kc3 48. g7 Kb2 49. g8=Q 1-0
+

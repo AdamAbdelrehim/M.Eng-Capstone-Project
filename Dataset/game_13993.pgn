@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "spago"]
+[Black "zirva_safarov"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/zC4RPrmo"]
+[WhiteElo "2525"]
+[BlackElo "2501"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:45:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. e3 Be7 7. Qc2 O-O 8. Bd3
+h6 9. Bf4 Bd6 10. Bxd6 Qxd6 11. Nf3 Re8 12. h3 Nbd7 13. O-O-O b5 14. Kb1 a5 15.
+Rc1 a4 16. Ne2 Bb7 17. Bf5 Nb6 18. Qc5 Qd8 19. Ne5 Nfd7 20. Nxc6 Qf6 21. Bxd7
+Nxd7 22. Qxb5 Ba6 23. Qb7 Bxb7 0-1
+

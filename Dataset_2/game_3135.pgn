@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.12.10"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "salem254781"]
+[Result "0-1"]
+[CurrentPosition "rn1qkbnr/p1pp2pp/1p2p3/4Pp2/3P4/2NB4/PPP2PbP/R1BQK1NR w KQkq -"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Owens-Defense-2.d4-Bb7-3.Nc3-e6"]
+[UTCDate "2021.12.10"]
+[UTCTime "21:03:03"]
+[WhiteElo "1566"]
+[BlackElo "1556"]
+[TimeControl "600"]
+[Termination "salem254781 won by resignation"]
+[StartTime "21:03:03"]
+[EndDate "2021.12.10"]
+[EndTime "21:03:43"]
+[Link "https://www.chess.com/game/live/32909329415"]
+
+1. e4 { [%clk 0:10:00] } 1... e6 { [%clk 0:10:00] } 2. d4 { [%clk 0:09:56.6] }
+2... b6 { [%clk 0:09:59.9] } 3. Nc3 { [%clk 0:09:43.7] } 3... Bb7
+{ [%clk 0:09:59] } 4. Bd3 { [%clk 0:09:40.9] } 4... f5 { [%clk 0:09:55.6] } 5.
+e5 { [%clk 0:09:37.7] } 5... Bxg2 { [%clk 0:09:53.8] } 0-1
+

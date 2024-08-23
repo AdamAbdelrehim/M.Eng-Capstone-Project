@@ -1,0 +1,36 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "DimaGrand"]
+[Black "Al_Nouria"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/fDUpou16"]
+[WhiteElo "2828"]
+[BlackElo "2684"]
+[ECO "E48"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Bishop Attack, Classical Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:48:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Ne2 c5 7. cxd5 Nxd5 8. O-O
+Nc6 9. a3 Bxc3 10. Nxc3 cxd4 11. exd4 Nxc3 12. bxc3 e5 13. Bb2 exd4 14. cxd4
+Be6 15. Rc1 Rc8 16. Re1 Re8 17. Qh5 g6 18. Qh6 Bd5 19. Rxe8+ Qxe8 20. h4 Ne7
+21. Rxc8 Nxc8 22. h5 Nd6 23. Bc3 b5 24. Bb4 Nc4 25. Bc5 a5 26. hxg6 hxg6 27.
+Kh2 Qb8+ 28. g3 Qe8 29. Qg5 Qe6 30. Qd8+ Kh7 31. Qh4+ Kg8 32. Qd8+ Kh7 33. f4
+b4 34. axb4 a4 35. b5 a3 36. Qh4+ Kg8 37. Qd8+ Kh7 38. f5 gxf5 39. Qh4+ Kg8 40.
+g4 a2 41. Qd8+ Kh7 42. Bxf5+ Qxf5 43. gxf5 a1=Q 44. Qh4+ Kg8 45. Qd8+ Kh7 46.
+Qh4+ Kg7 47. f6+ Kg6 48. Be7 Qb2+ 49. Kg3 Qc1 50. Qh8 Qg1+ 51. Kf4 Qxd4+ 52.
+Kg3 Qd3+ 53. Kg4 Ne3+ 54. Kf4 Ng2+ 55. Ke5 Qe4+ 56. Kd6 Qe6+ 57. Kc7 Qe5+ 58.
+Kb6 Qd4+ 59. Ka6 Qa4+ 60. Kb6 Qd4+ 61. Ka6 Qa1+ 62. Kb6 Qg1+ 63. Kc7 Qa7+ 64.
+Kd6 Qb6+ 65. Kxd5 Qxb5+ 66. Kd6 Qd3+ 67. Kc7 Qc4+ 68. Kd8 Qd3+ 69. Kc7 Qc3+ 70.
+Kd7 Qd2+ 71. Ke8 Nf4 72. Qg7+ Kf5 73. Qxf7 Qd5 74. Qh7+ Ke6 75. Qg8+ Ke5 76.
+Qg5+ Ke4 77. Qg4 Qa8+ 78. Kf7 Qa2+ 79. Kg7 Qe6 80. Qxe6+ Nxe6+ 81. Kf7 Ng5+ 82.
+Kg6 Ne6 83. f7 Ke5 84. Ba3 Kd5 85. Kf6 Nc5 86. Bxc5 Kxc5 87. f8=Q+ Kd5 88. Qd8+
+Ke4 89. Qe7+ Kf4 90. Qe5+ Kg4 91. Qf5+ Kg3 92. Qe4 Kf2 93. Qd3 Ke1 94. Qc2 Kf1
+95. Qd2 Kg1 96. Qe2 Kh1 97. Kf5 Kg1 98. Kg4 Kh1 99. Kh3 Kg1 100. Qe1# 1-0
+

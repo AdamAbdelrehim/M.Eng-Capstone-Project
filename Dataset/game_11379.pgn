@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "one_last_trick"]
+[Black "alcolch"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/zcmpVCtp"]
+[WhiteElo "2526"]
+[BlackElo "2389"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:59:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+
+1. b3 a5 2. a4 d5 3. Bb2 c6 4. Nf3 Nd7 5. g3 Ngf6 6. Bg2 g6 7. O-O Bg7 8. d3
+O-O 9. Nbd2 Qc7 10. e4 e5 11. Re1 Re8 12. h3 b6 13. Nf1 d4 14. N3h2 b5 15. f4
+exf4 16. gxf4 Qxf4 17. Bc1 Qc7 18. Nf3 c5 19. axb5 Nb6 20. N1d2 Qd8 21. Nc4 Bd7
+22. Bd2 Bxb5 23. Bxa5 Bxc4 24. bxc4 Rxa5 25. Rxa5 Nxc4 26. Rxc5 Ne3 27. Qd2 Nd7
+28. Ra5 Nxc2 29. Rb1 Ne3 30. Ra7 Ne5 31. Nxe5 Bxe5 32. Rbb7 Qg5 33. Rxf7 Qg3
+34. Qa2 Qh2+ 35. Kf2 Qxg2+ 36. Ke1 Bg3+ 37. Rf2+ Kh8 38. Rf7 Qg1+ 39. Ke2 Qd1#
+0-1
+

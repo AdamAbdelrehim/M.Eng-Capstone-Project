@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "econpower"]
+[Black "Dmitrij_Osetrov"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Ey7b9soi"]
+[WhiteElo "2682"]
+[BlackElo "2563"]
+[ECO "E97"]
+[Opening "King's Indian Defense: Orthodox Variation, Modern System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:05:03"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Nd2 Nd7 10. b4 a5 11. Ba3 b6 12. bxa5 Rxa5 13. Bb4 Ra8 14. a4 Nc5 15. a5
+bxa5 16. Bxa5 Bd7 17. Bb4 f5 18. Bxc5 dxc5 19. Nb3 Qb8 20. Nxc5 Rd8 21. Nxd7
+Rxd7 22. Qb1 Rd8 23. c5 Rxa1 24. Qxa1 fxe4 25. Bc4 Qb4 26. d6+ Qxc4 27. dxe7
+Re8 28. Qa2 Qxa2 29. Nxa2 Rxe7 30. Nc3 e3 31. fxe3 e4 32. Nd5 Re5 33. Rd1 c6
+34. Nc3 Rxc5 35. Nxe4 Re5 36. Rd4 Kf7 37. Kf2 Ke7 38. Kf3 Rf5+ 39. Ke2 Bxd4 40.
+exd4 Ke6 41. Ke3 Rf8 42. Ng5+ Kd5 43. Nxh7 Re8+ 44. Kd3 Re6 45. h4 Re1 46. Nf6+
+Ke6 47. Ng4 Kd5 48. Ne5 Rd1+ 49. Ke3 Rxd4 50. Nxg6 Re4+ 51. Kf3 c5 52. h5 c4
+53. h6 c3 54. h7 Re8 55. Nf4+ Kc4 56. Ne2 c2 57. g4 Kd3 58. Nf4+ Kd2 59. Ne2
+Rxe2 60. h8=Q c1=Q 61. Qd4+ Ke1 62. Qe4 Qd2 63. Qxe2+ Qxe2+ 64. Kf4 Qf2+ 65.
+Kg5 Qe2 66. Kh5 Qe3 67. g5 Qe4 68. g6 Qe5+ 69. Kh6 1-0
+

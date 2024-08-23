@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Ti-Ga"]
+[Black "Winquitter"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/11WTHpM0"]
+[WhiteTitle "FM"]
+[WhiteElo "2520"]
+[BlackElo "2462"]
+[ECO "A20"]
+[Opening "English Opening: King's English Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:46:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. c4 e5 2. e3 Nc6 3. a3 Nf6 4. Qc2 d5 5. cxd5 Nxd5 6. Nf3 Bd6 7. b4 f6 8. Bb2
+Be6 9. Bb5 O-O 10. Bxc6 bxc6 11. Qxc6 Rb8 12. Nc3 Rb6 13. Qa4 Nxb4 14. axb4
+Rxb4 15. Qc2 Bc4 16. d3 Bxd3 17. Qxd3 Rxb2 18. O-O Kh8 19. Rxa7 f5 20. e4 Rb4
+21. h3 Rb3 22. Qc4 Rb4 23. Qe2 Qb8 24. Ra2 Qb7 25. exf5 e4 26. Ng5 Rxf5 27. Qh5
+h6 28. h4 Qc8 29. Rfa1 Rb8 30. Ra5 Kg8 31. Rxf5 Qxf5 32. Ncxe4 Qe5 33. g3 Qxa1+
+34. Kg2 Qe5 35. Qg6 hxg5 36. Nxg5 Qd5+ 37. Kh2 Ra8 38. Qh7+ Kf8 39. Qh8+ Ke7
+40. Qxg7+ Kd8 41. Qh8+ Kd7 42. Qg7+ Kc6 43. Qc3+ Qc5 44. Qe3 Qxe3 45. fxe3 Ra2+
+46. Kh3 Ra3 47. Kg4 Rxe3 48. h5 Rxg3+ 49. Kf5 Rg1 50. Kg6 Rh1 51. Kf5 Rxh5 52.
+Kg4 Rxg5+ 53. Kxg5 Kd5 54. Kg4 Kd4 55. Kf3 Kd3 56. Kg4 Bb4 57. Kf5 c5 58. Ke6
+c4 59. Kd5 c3 60. Kc6 c2 61. Kb5 c1=Q 62. Ka4 Qc3 63. Kb5 Qb3 64. Ka6 Bd2 65.
+Ka7 Kc4 66. Ka8 Kc5 67. Ka7 Kc6 68. Ka6 Qb6# 0-1
+

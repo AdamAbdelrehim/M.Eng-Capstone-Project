@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "javad1342"]
+[Black "asanovski"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/EES1GWLF"]
+[WhiteElo "2527"]
+[BlackElo "2554"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:25:35"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O d6 6. c3 a5 7. Re1 Ba7 8. Na3
+h6 9. Nc2 O-O 10. Be3 Bxe3 11. Nxe3 Be6 12. Bb5 Ne7 13. Ba4 Ng6 14. Bc2 c6 15.
+d4 exd4 16. Nxd4 Re8 17. g3 Bh3 18. Nef5 d5 19. exd5 Rxe1+ 20. Qxe1 Qxd5 21.
+Ne3 Qd7 22. Rd1 Re8 23. Ne2 Qc8 24. Nc4 Ne5 25. Nxe5 Rxe5 26. Qd2 Qe8 27. Nd4
+Ne4 28. Bxe4 Rxe4 29. f3 Re7 30. Kf2 c5 31. Nc2 Bf5 32. Ne3 Rd7 33. Qe2 Rxd1
+34. Qxd1 Be6 35. c4 Qd7 36. Qxd7 Bxd7 37. Ke2 Kf8 38. Kd3 Bc6 39. f4 g6 40. Ng4
+h5 41. Ne5 Bh1 42. Nd7+ Ke7 43. Nxc5 Kd6 44. Ne4+ Ke6 45. Kd4 Kf5 46. Nd6+ Kg4
+47. Nxf7 Kh3 48. Ne5 Kxh2 49. Nxg6 Kxg3 50. f5 Bc6 51. f6 Be8 52. Ne5 h4 53. f7
+Bxf7 54. Nxf7 h3 55. Ng5 h2 56. Ne4+ Kg2 0-1
+

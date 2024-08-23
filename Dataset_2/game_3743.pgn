@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.02.23"]
+[Round "-"]
+[White "Flood715"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r1bqkbnr/pppp1ppp/2n5/4p3/8/1P4P1/PBPPPP1P/RN1QKBNR b KQkq -"]
+[Timezone "UTC"]
+[ECO "A01"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Larsen-Attack"]
+[UTCDate "2022.02.23"]
+[UTCTime "16:30:37"]
+[WhiteElo "292"]
+[BlackElo "1700"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "16:30:37"]
+[EndDate "2022.02.23"]
+[EndTime "16:30:59"]
+[Link "https://www.chess.com/game/live/39372672064"]
+
+1. b3 { [%clk 0:09:53.1] } 1... Nc6 { [%clk 0:09:56.1] } 2. Bb2
+{ [%clk 0:09:51.9] } 2... e5 { [%clk 0:09:55] } 3. g3 { [%clk 0:09:45] } 0-1
+

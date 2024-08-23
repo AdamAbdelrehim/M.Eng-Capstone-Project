@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.08.16"]
+[Round "-"]
+[White "gussiefink"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "4R3/pp1k1Q1p/2pb3p/8/3q2n1/2NP3B/PPP5/7K b - -"]
+[Timezone "UTC"]
+[ECO "B10"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Two-Knights-Attack"]
+[UTCDate "2023.08.16"]
+[UTCTime "02:12:29"]
+[WhiteElo "1751"]
+[BlackElo "1683"]
+[TimeControl "180"]
+[Termination "gussiefink won by resignation"]
+[StartTime "02:12:29"]
+[EndDate "2023.08.16"]
+[EndTime "02:15:38"]
+[Link "https://www.chess.com/game/live/85891139397"]
+
+1. e4 { [%clk 0:03:00] } 1... c6 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:02:59.4] }
+2... d5 { [%clk 0:02:57.3] } 3. Nc3 { [%clk 0:02:59] } 3... e5
+{ [%clk 0:02:53.5] } 4. Nxe5 { [%clk 0:02:55.4] } 4... Qe7 { [%clk 0:02:52.3] }
+5. f4 { [%clk 0:02:53.2] } 5... f6 { [%clk 0:02:51] } 6. Nf3
+{ [%clk 0:02:45.3] } 6... Bg4 { [%clk 0:02:46.2] } 7. h3 { [%clk 0:02:42.7] }
+7... dxe4 { [%clk 0:02:40] } 8. hxg4 { [%clk 0:02:40.8] } 8... exf3+
+{ [%clk 0:02:38.8] } 9. Kf2 { [%clk 0:02:38.9] } 9... fxg2 { [%clk 0:02:37.3] }
+10. Bxg2 { [%clk 0:02:36.8] } 10... Nd7 { [%clk 0:02:35.3] } 11. Re1
+{ [%clk 0:02:35.2] } 11... Ne5 { [%clk 0:02:34.1] } 12. fxe5
+{ [%clk 0:02:34.2] } 12... O-O-O { [%clk 0:02:32.6] } 13. exf6
+{ [%clk 0:02:31.3] } 13... Qxf6+ { [%clk 0:02:32.1] } 14. Kg1
+{ [%clk 0:02:30.5] } 14... Qd4+ { [%clk 0:02:26.9] } 15. Kh1
+{ [%clk 0:02:27.9] } 15... Rd6 { [%clk 0:02:17.9] } 16. Bh3
+{ [%clk 0:02:23.1] } 16... Rh6 { [%clk 0:02:15] } 17. Qf3 { [%clk 0:02:21.9] }
+17... Bd6 { [%clk 0:02:00.2] } 18. d3 { [%clk 0:02:20.1] } 18... Nf6
+{ [%clk 0:01:47.8] } 19. Bxh6 { [%clk 0:02:16.8] } 19... gxh6
+{ [%clk 0:01:46.2] } 20. Re6 { [%clk 0:02:13.6] } 20... Rf8
+{ [%clk 0:01:33.9] } 21. Rae1 { [%clk 0:02:05.3] } 21... Nxg4
+{ [%clk 0:01:28.7] } 22. Re8+ { [%clk 0:02:01.9] } 22... Rxe8
+{ [%clk 0:01:13.2] } 23. Rxe8+ { [%clk 0:01:59] } 23... Kd7
+{ [%clk 0:01:13.1] } 24. Qf7+ { [%clk 0:01:54.9] } 1-0
+

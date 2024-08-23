@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "belogrivaya_loshadka"]
+[Black "ViennaDragon"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ZKN0gN3m"]
+[WhiteElo "2348"]
+[BlackElo "2530"]
+[ECO "B52"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:35:32"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c3 d5 7. exd5 Qxd5
+8. d4 e6 9. Be3 cxd4 10. Nxd4 Nf6 11. Qb3 Nxd4 12. Bxd4 Be7 13. Qxd5 Nxd5 14.
+Bxg7 Rg8 15. Bd4 Nf4 16. g3 Ne2+ 17. Kg2 Nxd4 18. cxd4 O-O-O 19. Rd1 Bf6 20.
+Na3 Bxd4 21. Nc4 Kb8 22. Rab1 Bc5 23. Ne5 Ka8 24. Nd7 Be7 25. Rd3 b6 26. Rbd1
+Kb7 27. Ne5 Rxd3 28. Rxd3 Bf6 29. Nxf7 Bxb2 30. Rd7+ Ka6 31. Nd6 h5 32. a4 Rg4
+33. f4 Rg7 34. Rxg7 Bxg7 35. h3 Ka5 36. Nc8 a6 37. g4 hxg4 38. hxg4 Bd4 39. f5
+exf5 40. gxf5 Kxa4 41. Kf3 b5 42. Ke4 Bf6 43. Kd3 b4 44. Nd6 b3 45. Ne4 Be5 46.
+Nc5+ Ka3 47. Nxa6 b2 0-1
+

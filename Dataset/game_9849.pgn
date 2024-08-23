@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "GoodKnightRookie"]
+[Black "Blue_Sphinx"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/QkYcCnfy"]
+[WhiteElo "2428"]
+[BlackElo "2604"]
+[ECO "D01"]
+[Opening "Rapport-Jobava System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:11:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 g6 4. e3 Bg7 5. h4 O-O 6. h5 c5 7. hxg6 hxg6 8. dxc5
+Nc6 9. Qd2 e5 10. Bg5 Be6 11. O-O-O Qa5 12. f3 Rfd8 13. g4 d4 14. Nb1 Qxa2 15.
+Bd3 Qa1 16. Ne2 a5 17. exd4 Nb4 18. Qc3 Na2+ 19. Kd2 Nxc3 20. Nbxc3 Qxd1+ 21.
+Rxd1 exd4 22. Ne4 Nxe4+ 23. Bxe4 f6 24. Bf4 Rac8 25. Bd6 f5 26. Bxb7 Bh6+ 27.
+Ke1 Rxd6 28. cxd6 Rxc2 29. Nxd4 1-0
+

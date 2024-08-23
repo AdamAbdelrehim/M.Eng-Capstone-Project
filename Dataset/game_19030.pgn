@@ -1,0 +1,42 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "RaspFish"]
+[Black "odonata-bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/vDLnQ6pU"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3038"]
+[BlackElo "2746"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:17:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e5 4. Bc4 Be7 5. Nd5 Nf6 6. O-O d6 7. d3 Nxd5 8.
+Bxd5 Be6 9. Bxe6 fxe6 10. c3 O-O 11. h3 Rf7 12. b4 cxb4 13. cxb4 Nxb4 14. Qb3
+Na6 15. Qxe6 Qc8 16. Qb3 Nc5 17. Qc4 Kf8 18. d4 Nxe4 19. Qd3 Qf5 20. Re1 Ng3
+21. Qxf5 Nxf5 22. dxe5 Nh4 23. Ng5 Rf5 24. Ne6+ Kf7 25. exd6 Bxd6 26. Rb1 b6
+27. Bg5 Ng6 28. Rbd1 Re5 29. Nd8+ Ke8 30. f4 Rxe1+ 31. Rxe1+ Kf8 32. f5 Ne5 33.
+Rd1 Nc4 34. Ne6+ Kg8 35. Kf2 Rc8 36. Kf3 Ne5+ 37. Ke4 Nf7 38. Be3 Rc4+ 39. Rd4
+Rc3 40. Ra4 Bb8 41. Bd4 Rg3 42. Kd5 Rxg2 43. Bxg7 Rxg7 44. Nxg7 Kxg7 45. Ke6
+Ng5+ 46. Ke7 h5 47. Rc4 Bg3 48. f6+ Kg6 49. Rc8 Be1 50. a3 h4 51. Rg8+ Kf5 52.
+f7 Nxf7 53. Kxf7 b5 54. Rg1 Bg3 55. Rd1 a6 56. Rd7 Bf2 57. Rd5+ Ke4 58. Ke6 Bg3
+59. Rd7 Bf2 60. Rd6 Kf4 61. Rd5 Ke4 62. Rd6 Kf4 63. Rd5 Bg1 64. Rd3 Ke4 65. Rd6
+Kf4 66. Rc6 a5 67. Rc1 Bf2 68. Rb1 a4 69. Kd5 Kg3 70. Ke4 Bc5 71. Rc1 Be7 72.
+Rc7 Bf6 73. Kf5 Ba1 74. Rc1 Bh8 75. Rc8 Ba1 76. Rc1 Bd4 77. Rd1 Bc5 78. Rc1 Bf8
+79. Rc8 Bd6 80. Ke6 Bf4 81. Kf5 Bd6 82. Ke6 Bf4 83. Rc3+ Kf2 84. Rc2+ Kg3 85.
+Rc3+ Kf2 86. Rc2+ Kg3 87. Kf5 Bd6 88. Rc3+ Kf2 89. Rd3 Bf8 90. Kg4 Ke2 91. Rd5
+Bxa3 92. Rxb5 Bc1 93. Kxh4 a3 94. Rb1 Bb2 95. Rg1 Kf2 96. Rb1 Kf3 97. Rd1 a2
+98. Re1 a1=Q 99. Rxa1 Bxa1 100. Kh5 Bh8 101. Kh4 Ke4 102. Kh5 Kd5 103. Kh6 Be5
+104. Kg5 Bb2 105. Kh5 Bh8 106. h4 Ke6 107. Kg5 Ba1 108. Kh5 Bc3 109. Kh6 Bh8
+110. Kg5 Ba1 111. Kh5 Kf5 112. Kh6 Bb2 113. h5 Ba1 114. Kh7 Bd4 115. h6 Be5
+116. Kg8 Ba1 117. Kf7 Bf6 118. Kf8 Ke6 119. Ke8 Bd4 120. Kd8 Kf6 121. Kc7 Ba1
+122. Kb8 Kg6 123. Ka8 Kxh6 1/2-1/2
+

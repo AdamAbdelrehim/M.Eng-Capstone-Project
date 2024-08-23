@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "PadawanAsokaTano"]
+[Black "Crimean_hunter"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/KLd4bpzB"]
+[WhiteElo "2643"]
+[BlackElo "2545"]
+[ECO "D46"]
+[Opening "Semi-Slav Defense: Chigorin Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "04:36:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 c6 5. e3 Bd6 6. Bd3 Nbd7 7. e4 dxc4 8. Bxc4
+Bb4 9. Qe2 O-O 10. O-O e5 11. dxe5 Ng4 12. e6 Nde5 13. exf7+ Kh8 14. Nxe5 Nxe5
+15. Bb3 Nxf7 16. f4 Nd6 17. Bc2 Qe7 18. Bd2 Bf5 19. exf5 Qxe2 20. Nxe2 Bxd2 21.
+Rad1 Nc4 22. b3 Be3+ 23. Kh1 Na3 24. Bd3 Rad8 25. g4 b5 26. Kg2 c5 27. Nc3 c4
+28. bxc4 bxc4 29. Be4 Rxd1 30. Rxd1 Bxf4 31. Rd7 a6 32. h4 Be5 33. Nd5 Nb5 34.
+Re7 Bd4 35. g5 Nd6 36. Bc2 h6 37. f6 gxf6 38. Rh7+ Kg8 39. Ne7# 1-0
+

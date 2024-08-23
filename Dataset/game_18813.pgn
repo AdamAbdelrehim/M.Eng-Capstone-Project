@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "cedchass25"]
+[Black "ilprofessore87"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/rhm7PRq1"]
+[WhiteTitle "FM"]
+[WhiteElo "2614"]
+[BlackElo "2566"]
+[ECO "B00"]
+[Opening "Pirc Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:46:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nge2 Be7 5. h3 O-O 6. g4 c6 7. Bg2 Nbd7 8. Be3
+exd4 9. Nxd4 1-0
+

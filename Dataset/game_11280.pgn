@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "positionaloldman"]
+[Black "whiteprocess"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/MZRFlFtl"]
+[BlackTitle "FM"]
+[WhiteElo "2562"]
+[BlackElo "2531"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:44:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bc4 e6 4. O-O a6 5. Re1 b5 6. Bf1 Bb7 7. c3 Nge7 8. d4
+cxd4 9. cxd4 d5 10. e5 h5 11. Bg5 Qb6 12. Na3 Nf5 13. Nc2 Rc8 14. Rc1 a5 15.
+Qd3 b4 16. Qb5 Qxb5 17. Bxb5 Be7 18. Bxe7 Kxe7 19. Bxc6 Rxc6 20. Ne3 Nxe3 21.
+fxe3 Rhc8 22. Rxc6 Rxc6 23. Kf2 Ba6 24. Rd1 a4 25. Rd2 Rc1 26. Ne1 Ra1 27. Nc2
+Rf1+ 28. Kg3 b3 29. axb3 axb3 30. Nb4 Bc4 31. Nd3 g5 32. h4 gxh4+ 33. Kxh4 Bxd3
+34. Rxd3 Rf2 35. Rxb3 Rxg2 36. Kxh5 Kf8 37. Rb8+ Kg7 38. Kh4 f6 39. exf6+ Kxf6
+40. Kh3 Re2 41. Rb3 Kf5 42. Kg3 Ke4 43. Rb6 Rxe3+ 44. Kf2 Kxd4 45. Rb8 Rh3 46.
+b4 e5 47. b5 e4 48. b6 Rb3 49. b7 e3+ 50. Kf3 Rb6 51. Rd8 Rxb7 0-1
+

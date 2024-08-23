@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "FastCavalier"]
+[Black "Nebonik"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/EdGI3kF8"]
+[BlackTitle "GM"]
+[WhiteElo "2530"]
+[BlackElo "2443"]
+[ECO "C25"]
+[Opening "Vienna Gambit, with Max Lange Defense: Knight Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:43:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 d6 5. d4 g5 6. h4 g4 7. Ng5 h6 8. Nxf7
+Kxf7 9. Bc4+ Kg7 10. Bxf4 Nf6 11. O-O Nh5 12. Be3 Qxh4 13. Rf7+ Kg6 14. e5 Nb4
+15. e6 Bxe6 16. Bxe6 Re8 17. d5 Bg7 18. Qf1 Ng3 19. Rxg7+ 1-0
+

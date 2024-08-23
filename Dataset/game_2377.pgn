@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "bob_2004"]
+[Black "ExplosiveBombBlind"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/oNCDlY9o"]
+[WhiteTitle "FM"]
+[WhiteElo "2749"]
+[BlackElo "2669"]
+[ECO "A54"]
+[Opening "Old Indian Defense: Two Knights Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:15:28"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 e4 5. Nd2 Qe7 6. Qc2 Bf5 7. e3 Nc6 8. a3 g6
+9. Be2 h5 10. b4 Bg7 11. Bb2 Nb8 12. O-O-O c6 13. h3 h4 14. g4 hxg3 15. fxg3
+Rxh3 16. Rxh3 Bxh3 17. Ncxe4 Nxe4 18. Qxe4 Nd7 19. Rh1 Bf5 20. Qf4 Nf6 21. g4
+Be6 22. g5 Nd7 23. Rh7 Bf8 24. e4 d5 25. exd5 cxd5 26. c5 O-O-O 27. Bb5 Bf5 28.
+Nf3 a6 29. Bf1 Nb8 30. Bc3 Nc6 31. Ne5 Nxe5 32. Qxe5 Qxe5 33. dxe5 d4 34. Bd2
+Be6 35. Bg2 Be7 36. Kc2 Kc7 37. Kd3 a5 38. Be4 axb4 39. axb4 b6 40. Bxg6 bxc5
+41. Bxf7 c4+ 42. Ke4 c3 43. Bxe6 cxd2 44. Rh1 Bxb4 45. Rd1 Be7 46. g6 Kc6 47.
+g7 Re8 48. g8=Q Rxg8 49. Bxg8 Kc5 50. Rxd2 Bg5 51. Rd3 Kc6 52. Rxd4 Kc7 53. Rd5
+Kc8 54. e6 Kc7 55. Bf7 1-0
+

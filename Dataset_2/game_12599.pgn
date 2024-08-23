@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.08.16"]
+[Round "-"]
+[White "121810NANNZ"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1bqkb1r/pp1npBpp/5n2/2p1N3/8/8/PPPP1PPP/RNBQK2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "B50"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-2.Nf3-d6"]
+[UTCDate "2024.08.16"]
+[UTCTime "18:59:54"]
+[WhiteElo "1860"]
+[BlackElo "1821"]
+[TimeControl "600"]
+[Termination "121810NANNZ won by checkmate"]
+[StartTime "18:59:54"]
+[EndDate "2024.08.16"]
+[EndTime "19:00:37"]
+[Link "https://www.chess.com/game/live/117573612329"]
+
+1. e4 { [%clk 0:09:58.1] } 1... c5 { [%clk 0:09:59.1] } 2. Nf3
+{ [%clk 0:09:55.5] } 2... d6 { [%clk 0:09:58.5] } 3. e5 { [%clk 0:09:49] } 3...
+dxe5 { [%clk 0:09:55.4] } 4. Bc4 { [%clk 0:09:41.3] } 4... Nf6
+{ [%clk 0:09:47] } 5. Nxe5 { [%clk 0:09:38.7] } 5... Nbd7 { [%clk 0:09:44.8] }
+6. Bxf7# { [%clk 0:09:35.8] } 1-0
+

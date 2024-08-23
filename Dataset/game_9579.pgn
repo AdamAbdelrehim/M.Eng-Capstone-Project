@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "johnsena67"]
+[Black "sephan"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/B1x4LFQF"]
+[WhiteElo "2373"]
+[BlackElo "2539"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Three Knights, Vienna Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:25:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. Bxc4 cxd4 8.
+Nxd4 Bxc3+ 9. bxc3 Qa5 10. Nb5 Nxe4 11. O-O a6 12. Nd6+ Nxd6 13. Qxd6 Qxg5 0-1
+

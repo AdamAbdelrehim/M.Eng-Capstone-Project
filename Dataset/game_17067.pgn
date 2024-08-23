@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "flo50"]
+[Black "manneredmonkey"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/UvdfhOpa"]
+[BlackTitle "NM"]
+[WhiteElo "2537"]
+[BlackElo "2597"]
+[ECO "B00"]
+[Opening "Pirc Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:03:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 d6 2. d4 Nf6 3. Bd3 e5 4. c3 g6 5. Ne2 Bg7 6. O-O O-O 7. f4 exd4 8. cxd4
+Nc6 9. Nbc3 Bg4 10. h3 Bxe2 11. Nxe2 Re8 12. e5 Nd5 13. Bc4 Nb6 14. Bb3 Na5 15.
+Bc2 Rc8 16. Qe1 c5 17. Qxa5 cxd4 18. Bb3 dxe5 19. fxe5 Rxe5 20. Rxf7 Rxa5 0-1
+

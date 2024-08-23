@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "SevanB"]
+[Black "Mikkel_Vinh"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/O8okCYu1"]
+[WhiteTitle "IM"]
+[BlackTitle "CM"]
+[WhiteElo "2545"]
+[BlackElo "2512"]
+[ECO "B31"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:10:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. c3 Bg7 5. d4 cxd4 6. cxd4 d5 7. Ne5 Bxe5 8.
+dxe5 d4 9. Bxc6+ bxc6 10. Qa4 Qb6 11. Nd2 Ba6 12. Nc4 Qb5 13. Qxb5 Bxb5 14. Na5
+f6 15. e6 f5 16. e5 h5 17. a4 Ba6 18. Nxc6 Bb7 19. Nxd4 O-O-O 20. Nb5 a6 21.
+Nc3 Nh6 22. Bxh6 Rxh6 23. h4 Kc7 24. O-O Rd4 25. f4 Rd2 26. Rf2 Rxf2 27. Kxf2
+Rh8 28. Rc1 Kb6 29. b4 Rd8 30. a5+ Ka7 31. Na4 Rd4 32. Rc7 Rxf4+ 33. Kg1 Rxb4
+34. Nc5 Kb8 35. Rxe7 Bc8 36. Nd7+ Kc7 37. Nb6+ Kd8 38. Nxc8 Kxc8 39. Rg7 Rxh4
+40. Rxg6 Ra4 41. e7 Kd7 42. Re6 Ke8 43. Kh2 Rxa5 44. Kg3 Rc5 45. Kf4 a5 46.
+Kxf5 a4 47. Kf6 a3 48. Rd6 Rc8 49. e6 a2 50. Ra6 Rb8 51. Rxa2 Rc8 52. Ra5 h4
+53. Rh5 Rc1 54. Rh8# 1-0
+

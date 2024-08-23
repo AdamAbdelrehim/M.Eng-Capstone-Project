@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "jgeg"]
+[Black "A-Liang"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/rSYE0ylN"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[WhiteElo "2617"]
+[BlackElo "2840"]
+[ECO "E24"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation, Accelerated"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:36:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 b6 6. f3 Ba6 7. e4 Nc6 8. e5
+Ng8 9. f4 Na5 10. c5 Bxf1 11. Kxf1 Ne7 12. Nf3 O-O 13. cxb6 axb6 14. Qd3 f6 15.
+exf6 Rxf6 16. Rb1 d5 17. g3 Nc4 18. Kg2 Nf5 19. Re1 Qe8 20. Ne5 Nxe5 21. fxe5
+Qg6 22. Rd1 Nh4+ 23. Kh1 Qxd3 24. Rxd3 Rf1# 0-1
+

@@ -1,0 +1,26 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "masterSH"]
+[Black "BattleBlitz"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/tbLuMFHT"]
+[WhiteElo "2547"]
+[BlackElo "2421"]
+[ECO "D46"]
+[Opening "Semi-Slav Defense: Chigorin Defense"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:20:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+14"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 dxc4 8.
+Bxc4 O-O 9. O-O c5 10. Rd1 cxd4 11. Rxd4 Qe7 12. e4 Ne5 13. Be2 Nxf3+ 14. Bxf3
+Be5 15. Rd1 b6 16. g3 Bb7 17. Bg5 h6 18. Be3 Rac8 19. Qa4 Bc6 20. Qa6 Bxc3 21.
+bxc3 Bxe4 22. Bxe4 Nxe4 23. c4 Rc6 24. Rd4 Nc3 25. Re1 Rfc8 26. Bd2 b5 27. Qa5
+b4 28. a3 Rxc4 29. Rxc4 Rxc4 30. axb4 Qd7 31. Be3 Qd3 32. Qxa7 Ne2+ 33. Kg2
+Qd5+ 34. Kf1 Rc2 35. f4 Qf3+ 36. Bf2 Qh1+ 37. Bg1 Nxg3+ 38. hxg3 Qg2# 0-1
+

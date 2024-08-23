@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.19"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "DenisGaraev"]
+[Result "0-1"]
+[CurrentPosition "5b1r/Np3pp1/1r3nkp/2pP3P/8/5PP1/PPP2K2/4R3 b - -"]
+[Timezone "UTC"]
+[ECO "C55"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Anti-Fried-Liver-Defense"]
+[UTCDate "2022.03.19"]
+[UTCTime "06:25:10"]
+[WhiteElo "1314"]
+[BlackElo "1504"]
+[TimeControl "180"]
+[Termination "DenisGaraev won by resignation"]
+[StartTime "06:25:10"]
+[EndDate "2022.03.19"]
+[EndTime "06:30:05"]
+[Link "https://www.chess.com/game/live/41410168123"]
+
+1. e4 { [%clk 0:02:59.5] } 1... e5 { [%clk 0:02:58.8] } 2. Nf3
+{ [%clk 0:02:58.1] } 2... Nc6 { [%clk 0:02:57.9] } 3. Bc4 { [%clk 0:02:57.3] }
+3... h6 { [%clk 0:02:56.5] } 4. d4 { [%clk 0:02:55.2] } 4... exd4
+{ [%clk 0:02:55.4] } 5. Nxd4 { [%clk 0:02:54.1] } 5... Nxd4
+{ [%clk 0:02:54.8] } 6. Qxd4 { [%clk 0:02:53.5] } 6... d6 { [%clk 0:02:52.1] }
+7. Nc3 { [%clk 0:02:51.3] } 7... c5 { [%clk 0:02:49.3] } 8. Qd5
+{ [%clk 0:02:47] } 8... Qe7 { [%clk 0:02:43] } 9. Nb5 { [%clk 0:02:31.4] } 9...
+Be6 { [%clk 0:02:37.8] } 10. Qd3 { [%clk 0:01:42.9] } 10... Bxc4
+{ [%clk 0:02:28.4] } 11. Qxc4 { [%clk 0:01:37.8] } 11... Nf6
+{ [%clk 0:02:27.7] } 12. f3 { [%clk 0:01:23.8] } 12... O-O-O
+{ [%clk 0:02:21.3] } 13. Nxa7+ { [%clk 0:01:18.8] } 13... Kb8
+{ [%clk 0:02:15] } 14. Nb5 { [%clk 0:01:04.2] } 14... d5 { [%clk 0:02:09.6] }
+15. Bf4+ { [%clk 0:00:56.1] } 15... Kc8 { [%clk 0:01:49.9] } 16. Na7+
+{ [%clk 0:00:49] } 16... Kd7 { [%clk 0:01:43.1] } 17. Qb5+ { [%clk 0:00:47.1] }
+17... Ke6 { [%clk 0:01:41.3] } 18. Qb6+ { [%clk 0:00:40.9] } 18... Rd6
+{ [%clk 0:01:32.7] } 19. exd5+ { [%clk 0:00:39] } 19... Kf5+
+{ [%clk 0:01:28.1] } 20. Kf2 { [%clk 0:00:25.4] } 20... Rxb6
+{ [%clk 0:01:26.3] } 21. Rhe1 { [%clk 0:00:19.1] } 21... Qxe1+
+{ [%clk 0:01:20.6] } 22. Rxe1 { [%clk 0:00:17.2] } 22... Kxf4
+{ [%clk 0:01:19.3] } 23. g3+ { [%clk 0:00:12.6] } 23... Kg5
+{ [%clk 0:01:16.6] } 24. h4+ { [%clk 0:00:07.3] } 24... Kg6
+{ [%clk 0:01:14.9] } 25. h5+ { [%clk 0:00:05.3] } 0-1
+

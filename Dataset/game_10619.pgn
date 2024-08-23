@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Micheliavelli"]
+[Black "terminator_t1000-01"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/9oeMz8NN"]
+[WhiteElo "2578"]
+[BlackElo "2429"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:08:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Bc4 e6 5. O-O Ne7 6. Bd3 a6 7. c4 O-O 8. Nc3 c5
+9. Be3 cxd4 10. Nxd4 e5 11. Nb3 Nbc6 12. Be2 Be6 13. Nd5 f5 14. Bb6 Qd7 15. Nc7
+Rac8 16. Nxe6 Qxe6 17. f3 Bh6 18. Qd3 Rce8 19. Rad1 Nc8 20. Bc7 Rf7 21. Bxd6
+Nxd6 22. Qxd6 Qxd6 23. Rxd6 Be3+ 24. Kh1 Nd4 25. Nxd4 exd4 26. Bd3 fxe4 27.
+fxe4 Rxf1+ 28. Bxf1 Rxe4 29. Bd3 Rf4 30. g3 Rf2 31. Rb6 Rd2 32. Be4 Rd1+ 33.
+Kg2 d3 34. Rxb7 d2 35. Rd7 Rg1+ 36. Kf3 d1=Q+ 37. Rxd1 Rxd1 38. Kxe3 Ra1 39. c5
+Kf8 40. Bd5 Rb1 41. b3 Rb2 42. a4 Rxh2 43. Kd4 Ke7 44. b4 Rh3 45. b5 axb5 46.
+axb5 Rxg3 47. b6 Rg1 48. c6 Rb1 49. Kc5 Rc1+ 50. Bc4 Kd8 51. c7+ Kc8 52. Kb5
+Rxc4 53. Kxc4 Kb7 54. Kd5 g5 55. Kd6 1-0
+

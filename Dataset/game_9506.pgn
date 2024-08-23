@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "prof28"]
+[Black "AndreyKostin"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/d2r2gOup"]
+[WhiteElo "2510"]
+[BlackElo "2384"]
+[ECO "B14"]
+[Opening "Caro-Kann Defense: Panov Attack, Fianchetto Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:14:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. e4 d5 2. exd5 Nf6 3. c4 c6 4. d4 cxd5 5. Nc3 g6 6. cxd5 Nxd5 7. Bc4 Nb6 8.
+Bb3 Bg7 9. Nf3 O-O 10. h3 Nc6 11. d5 Na5 12. O-O Nxb3 13. axb3 Bxc3 14. bxc3
+Qxd5 15. Qc2 Bf5 16. Qb2 Bxh3 17. c4 Qe4 18. Ng5 Qxg2# 0-1
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Masaker100"]
+[Black "laguun"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/YO6f8UaP"]
+[BlackTitle "FM"]
+[WhiteElo "2543"]
+[BlackElo "2471"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:21:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c6 4. e3 g6 5. h3 Bg7 6. Nbd2 O-O 7. Be2 Bf5 8. Nh4
+Be4 9. Nxe4 Nxe4 10. Nf3 c5 11. c3 Nc6 12. O-O Qb6 13. Qb3 c4 14. Qc2 Rac8 15.
+Rfd1 Qd8 16. Bh2 Qd7 17. Nd2 f5 18. Nxe4 fxe4 19. b3 b5 20. bxc4 bxc4 21. Rab1
+Rf7 22. Bg3 Rcf8 23. Qa4 e6 24. Qa6 h5 25. h4 Bf6 26. Rb5 Bd8 27. Rdb1 Bb6 28.
+a4 Rxf2 29. Bxf2 Nb8 30. Rxb6 Nxa6 31. Rxa6 Qe7 32. Bg3 Qa3 33. Rxe6 Qxc3 34.
+Bf4 Rxf4 35. exf4 Qxd4+ 36. Kh2 Kf7 37. Ra6 Qd2 38. Rb7+ Ke8 39. Raxa7 Qxf4+
+40. Kg1 Qe3+ 41. Kh1 Qc1+ 42. Kh2 Qf4+ 43. Kg1 Qc1+ 44. Bf1 Qe3+ 45. Kh1 Qf2
+46. Rb8# 1-0
+

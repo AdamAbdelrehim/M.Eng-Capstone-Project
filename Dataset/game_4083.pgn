@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Tulachessroom"]
+[Black "xiaochess"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/KiHQRVJl"]
+[WhiteTitle "NM"]
+[WhiteElo "2645"]
+[BlackElo "2831"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation, Stoltz Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:16:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 Nf6 4. e5 Nd5 5. Bc4 Nb6 6. Bb3 d5 7. d4 cxd4 8. cxd4
+Bg4 9. Be3 e6 10. Nbd2 Rc8 11. h3 Bh5 12. Rc1 Be7 13. Nf1 Na5 14. Rxc8 Qxc8 15.
+Ng3 Bxf3 16. Qxf3 Bb4+ 17. Kf1 Nxb3 18. axb3 Qc2 19. Kg1 Qxb3 20. Qg4 g6 21. h4
+h5 22. Qf3 Be7 23. Ne2 Qxb2 24. Kh2 Nc4 25. Nf4 Qc2 26. Rc1 Qf5 27. Rxc4 dxc4
+28. Qxb7 Kf8 29. Qxa7 Bxh4 30. Qc5+ Kg7 31. Qxc4 Bg5 32. Nh3 Bxe3 33. fxe3 h4
+34. Qe2 Qh5 35. Qf2 Qf5 36. Qe2 Rd8 37. Nf4 Rc8 38. Qf3 Rc2 39. Kg1 Qg5 40. Kh1
+Rc1+ 41. Kh2 Re1 42. Nh3 Qg3+ 43. Qxg3 hxg3+ 44. Kxg3 Rxe3+ 45. Kf4 Rd3 46. Ke4
+Rd2 47. Nf4 g5 48. Nh5+ Kg6 49. Nf6 Rxg2 0-1
+

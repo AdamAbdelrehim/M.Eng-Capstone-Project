@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "greomol"]
+[Black "Ibon17"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/a0YR5GnN"]
+[WhiteElo "2400"]
+[BlackElo "2518"]
+[ECO "C00"]
+[Opening "French Defense: King's Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:46:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. c3 a5 6. e5 Nd7 7. d4 f6 8. exf6
+Qxf6 9. Bd3 Bd6 10. Nf1 h6 11. Ne3 O-O 12. O-O Ne7 13. Ng4 Qf7 14. Bxh6 Qh5 15.
+Bxg7 Kxg7 16. h3 Nf6 17. Nge5 Bxe5 18. Nxe5 Qxd1 19. Raxd1 Nc6 20. Nf3 Bd7 21.
+Rfe1 Rae8 22. Bb5 Nb8 23. Bd3 Nh5 24. Ne5 Nf4 25. Bf1 Ng6 26. Ng4 Nc6 27. Bb5
+Rf5 28. g3 Nb8 29. Bd3 Rff8 30. f4 Ne7 31. Ne5 Nf5 32. Kf2 Re7 33. Rh1 Nc6 34.
+Nf3 Kf6 35. Rde1 Rg7 36. g4 Nd6 37. g5+ Kf7 38. Ke3 Ke7 39. h4 Nf5+ 40. Bxf5
+Rxf5 41. h5 Be8 42. g6 Bxg6 43. Reg1 Rf6 44. hxg6 Rfxg6 45. Rxg6 Rxg6 46. Rh7+
+Kd6 47. Ng5 Ne7 48. Nf7+ Kd7 49. Ne5+ Kd6 50. Rxe7 Rg3+ 51. Kf2 Kxe7 52. Kxg3
+Kf6 53. Kg4 b6 54. a4 c5 55. b4 cxb4 56. cxb4 axb4 57. Nd3 b3 58. Kf3 Kf5 59.
+Ke3 Kg4 60. Kd2 Kf3 61. Kc3 Ke3 62. Ne5 b2 63. Kxb2 Kxd4 64. Kb3 Ke4 65. Nd7 d4
+66. Nxb6 d3 67. Nc4 Kd5 68. Kc3 Kc5 69. Kxd3 Kb4 70. Kd4 Kxa4 71. Ke5 Kb5 72.
+Kxe6 Kxc4 73. f5 Kd3 74. f6 Ke4 75. f7 Ke3 76. f8=Q Kd4 77. Qd8+ Ke4 78. Qd5+
+Kf4 79. Qd3 Kg5 80. Qf3 Kg6 81. Qf4 Kh5 82. Qg3 Kh6 83. Kf6 Kh7 84. Qg7# 1-0
+

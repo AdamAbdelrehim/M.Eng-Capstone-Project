@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ValkyrieOdyssey"]
+[Black "Mrios"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/K2jB35qx"]
+[BlackTitle "FM"]
+[WhiteElo "2327"]
+[BlackElo "2506"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:20:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. g4 h6 8. Be3
+Be7 9. Bg2 Nbd7 10. f4 Qc7 11. Qf3 Rb8 12. O-O-O b5 13. g5 hxg5 14. fxg5 Ne5
+15. Qg3 Nh5 16. Qh2 b4 17. Nce2 Nc4 18. Bf2 Bxg5+ 19. Kb1 Bf6 20. b3 Na3+ 21.
+Kc1 e5 0-1
+

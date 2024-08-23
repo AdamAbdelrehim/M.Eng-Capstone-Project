@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "cn_ua"]
+[Black "MrLion3000"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/R17k4xFQ"]
+[WhiteTitle "IM"]
+[BlackTitle "CM"]
+[WhiteElo "2621"]
+[BlackElo "2624"]
+[ECO "A13"]
+[Opening "English Opening: Neo-Catalan"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:33:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 d4 5. O-O c5 6. b4 cxb4 7. a3 Nc6 8. d3 a5
+9. axb4 Bxb4 10. Ba3 Bd7 11. Qb3 O-O 12. Nbd2 e5 13. Rfb1 Qe7 14. Ng5 h6 15.
+Nge4 Ne8 16. Bxb4 Nxb4 17. c5 Be6 18. Qa4 Nc7 19. Nd6 Bd5 20. Nxb7 Bxg2 21.
+Kxg2 Ncd5 22. Nxa5 Qxc5 23. Ne4 Qe7 24. Nc6 Qb7 25. Na5 Qb6 26. Nd2 Rfb8 27.
+Ndc4 Qe6 28. Qd1 Nc3 29. Qb3 Nc6 30. Nb6 Nxb1 31. Qxe6 fxe6 32. Nxc6 Rxa1 33.
+Nxb8 Nc3 34. Kf3 Ra2 35. N8d7 Rxe2 36. Nc4 Rc2 37. Ndxe5 Nd1 38. Kg4 Nxf2+ 39.
+Kh4 Nd1 40. h3 Ne3 41. Nd6 Ng2+ 42. Kg4 Ne3+ 43. Kf3 Rc1 44. Ne4 Rf1+ 45. Nf2
+Nd1 46. Ke2 Rxf2+ 47. Kxd1 Rh2 48. Ng4 Rxh3 49. Nf6+ gxf6 50. Ke2 Rxg3 51. Kd2
+Re3 52. Kc2 f5 53. Kd2 f4 54. Kc2 f3 55. Kd2 f2 56. Kc2 f1=Q 57. Kd2 Qxd3+ 58.
+Kc1 Qe2 59. Kb1 Qf2 60. Kc1 Re1# 0-1
+

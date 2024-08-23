@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "thearcticcold"]
+[Black "Penicillium_salamii"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/XzWcddKJ"]
+[WhiteElo "2458"]
+[BlackElo "2600"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:55:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+
+1. e4 c6 2. d4 d5 3. f3 g6 4. Nc3 Bg7 5. Be3 Qb6 6. Rb1 e5 7. Nge2 Ne7 8. Qd2
+exd4 9. Bxd4 Bxd4 10. Nxd4 O-O 11. h4 dxe4 12. Nxe4 Nf5 13. Nxf5 Bxf5 14. Nf6+
+Kg7 15. Qc3 Kh6 16. h5 g5 17. Ng8+ Rxg8 18. Qf6+ Bg6 19. hxg6# 1-0
+

@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "superrandom_123456"]
+[Black "vladimir_bychkov"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/rBdm22Jn"]
+[WhiteElo "2561"]
+[BlackElo "2522"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Slav Invitation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:46:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. Nf3 c6 2. Nc3 d5 3. d4 Bf5 4. Bf4 e6 5. e3 Nd7 6. Bd3 Bxd3 7. Qxd3 Ngf6 8.
+O-O-O Bb4 9. Rhg1 Qa5 10. Kb1 Bxc3 11. Qxc3 Qxc3 12. bxc3 Ne4 13. Kb2 Nxf2 14.
+Rdf1 Ne4 15. g4 h6 16. h4 a5 17. g5 hxg5 18. hxg5 Ke7 19. Ne5 Nxe5 20. Bxe5
+Rag8 21. Kb3 f6 22. gxf6+ gxf6 23. Bf4 Nd2+ 24. Ka4 Nxf1 25. Rxf1 b6 26. Bc7
+Rg2 27. Rc1 b5+ 28. Kxa5 Kd7 29. Bf4 Ra8+ 30. Kb4 Rxa2 31. Rh1 e5 32. dxe5 fxe5
+33. Bxe5 Raxc2 34. Bd4 Rh2 35. Rg1 Rcg2 36. Rf1 Ra2 37. Kc5 Rh7 38. Rf6 Ra4 39.
+Rd6+ Ke7 40. Rxc6 Rc4+ 41. Kxb5 Rxc6 42. Kxc6 Ke6 43. Kc5 Rc7+ 44. Kb6 Rc4 45.
+Kb5 Kd7 46. Kb6 Kd6 47. Kb5 Rc8 48. Kb6 Rb8+ 49. Ka5 Kc6 50. Ka4 Rb1 51. Ka3
+Kb5 52. Ka2 Rf1 53. Kb3 Rh1 54. Be5 Rb1+ 55. Kc2 Re1 56. Kd3 Rd1+ 57. Kc2 Rh1
+58. Kd3 Rh4 59. Bf4 Kc5 60. Bg5 Rg4 61. Be7+ Kc6 62. Bf6 Kb5 63. Bd4 Rh4 64.
+Bf6 Re4 65. Bd4 Re8 66. Bf6 Ra8 67. Bd4 Ra1 68. Bf6 Rd1+ 69. Ke2 Rc1 70. Kd3
+Ka4 71. Kd4 Rd1+ 72. Kc5 Kb3 73. Bd4 Rd3 74. Kxd5 Ka4 75. e4 Kb5 76. e5 Rd1 77.
+e6 Re1 78. Kd6 Kc4 79. Kd7 1-0
+

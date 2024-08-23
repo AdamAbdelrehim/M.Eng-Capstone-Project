@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.02.21"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "fernandoinocencio"]
+[Result "1-0"]
+[CurrentPosition "8/5ppk/R6p/1p1p4/3Pb3/PnP2N2/5PPP/4R1K1 b - -"]
+[Timezone "UTC"]
+[ECO "B13"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Panov-Attack-4...e6-5.Nc3"]
+[UTCDate "2023.02.21"]
+[UTCTime "22:10:26"]
+[WhiteElo "1700"]
+[BlackElo "1718"]
+[TimeControl "180"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "22:10:26"]
+[EndDate "2023.02.21"]
+[EndTime "22:12:26"]
+[Link "https://www.chess.com/game/live/70756449063"]
+
+1. e4 { [%clk 0:03:00] } 1... c6 { [%clk 0:02:59.9] } 2. d4
+{ [%clk 0:02:58.6] } 2... d5 { [%clk 0:02:59.3] } 3. exd5 { [%clk 0:02:58.5] }
+3... cxd5 { [%clk 0:02:58.5] } 4. c4 { [%clk 0:02:58.4] } 4... e6
+{ [%clk 0:02:55.7] } 5. Nc3 { [%clk 0:02:57.7] } 5... Nc6 { [%clk 0:02:54.7] }
+6. Nf3 { [%clk 0:02:56.2] } 6... Nf6 { [%clk 0:02:53.6] } 7. Bg5
+{ [%clk 0:02:54.8] } 7... Bb4 { [%clk 0:02:50.2] } 8. a3 { [%clk 0:02:53.1] }
+8... Bxc3+ { [%clk 0:02:49.2] } 9. bxc3 { [%clk 0:02:53] } 9... O-O
+{ [%clk 0:02:48.3] } 10. cxd5 { [%clk 0:02:51.6] } 10... exd5
+{ [%clk 0:02:45.3] } 11. Qb3 { [%clk 0:02:46.2] } 11... Qd6
+{ [%clk 0:02:34.2] } 12. Bxf6 { [%clk 0:02:41.4] } 12... Qxf6
+{ [%clk 0:02:29.8] } 13. Be2 { [%clk 0:02:40.9] } 13... Qe6
+{ [%clk 0:02:24.8] } 14. Qc2 { [%clk 0:02:36.9] } 14... h6 { [%clk 0:02:21.5] }
+15. O-O { [%clk 0:02:35.4] } 15... Re8 { [%clk 0:02:20.2] } 16. Bb5
+{ [%clk 0:02:32] } 16... a6 { [%clk 0:02:18.6] } 17. Ba4 { [%clk 0:02:30.5] }
+17... b5 { [%clk 0:02:17.3] } 18. Bb3 { [%clk 0:02:29.7] } 18... Na5
+{ [%clk 0:02:16.6] } 19. Rfe1 { [%clk 0:02:24.5] } 19... Qf5
+{ [%clk 0:02:13.2] } 20. Rxe8+ { [%clk 0:02:20.6] } 20... Kh7
+{ [%clk 0:02:09.9] } 21. Qxf5+ { [%clk 0:02:19.4] } 21... Bxf5
+{ [%clk 0:02:07.3] } 22. Rxa8 { [%clk 0:02:18.4] } 22... Nxb3
+{ [%clk 0:02:06.5] } 23. Re1 { [%clk 0:02:14.9] } 23... Be4 { [%clk 0:02:04] }
+24. Rxa6 { [%clk 0:02:11.8] } 1-0
+

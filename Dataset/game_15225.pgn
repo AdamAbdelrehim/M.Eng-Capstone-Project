@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "PetersBot"]
+[Black "solistabot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/aPiTH8XY"]
+[WhiteTitle "BOT"]
+[WhiteElo "2975"]
+[BlackElo "3031"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:06:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "-1"]
+
+1. e4 e6 2. Nc3 d5 3. d4 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. Qd2 a6 10. h4 Nxd4 11. Bxd4 Bxd4 12. Qxd4 Qb6 13. Qxb6 Nxb6 14. h5 f6
+15. exf6 gxf6 16. Rh4 f5 17. g4 fxg4 18. Rxg4 Bd7 19. O-O-O O-O-O 20. h6 Rhf8
+21. Rh4 Rf6 22. Bd3 Rdf8 23. Ne2 Bb5 24. Bxb5 axb5 25. b3 Kd7 26. Rg1 Nc8 27.
+Rg7+ R8f7 28. Nd4 Nd6 29. Nf3 Rxh6 30. Ne5+ Kc7 31. Rxh6 Rxg7 32. Rxe6 d4 33.
+Nd3 h5 34. Rh6 Rg1+ 35. Kb2 Rh1 36. Rh7+ Kc6 37. Nb4+ Kc5 38. Nd3+ Kc6 39. Ka3
+Nf5 40. Kb4 Rh2 41. Ka5 Kd5 42. Rxb7 Ke4 43. Rc7 h4 44. Rc5 Rxc2 45. Rxc2 Kxd3
+46. Rc5 Ke4 47. Kb4 d3 48. Kc3 b4+ 49. Kd2 h3 50. Re5+ Kxf4 51. Re1 Ng3 52.
+Kxd3 h2 53. Kc4 h1=Q 54. Rxh1 Nxh1 55. Kxb4 Nf2 56. a3 Ng4 57. a4 Ke5 58. a5
+Kd6 59. a6 Kc6 60. a7 Kb7 61. a8=Q+ Kxa8 62. Ka3 Nh6 63. b4 Nf7 64. b5 Ng5 65.
+b6 Nh3 66. b7+ Kxb7 1/2-1/2
+

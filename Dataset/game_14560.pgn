@@ -1,0 +1,24 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/h08mQKsO"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "NeverEnough"]
+[Black "DmitryKryakvin"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/gjEH6t07"]
+[WhiteTitle "GM"]
+[BlackTitle "GM"]
+[WhiteElo "2815"]
+[BlackElo "2622"]
+[ECO "A46"]
+[Opening "Indian Defense: London System"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:36:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 c5 4. e3 cxd4 5. exd4 b6 6. c3 Be7 7. Nbd2 O-O 8. h3
+d6 9. Bd3 Ba6 10. Bxa6 Nxa6 11. O-O Nc7 1/2-1/2
+

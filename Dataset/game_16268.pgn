@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "manneredmonkey"]
+[Black "johndoe695"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/PBOJRkSm"]
+[WhiteTitle "NM"]
+[WhiteElo "2569"]
+[BlackElo "2588"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:42:37"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. c4 e6 2. g3 Nf6 3. Bg2 c5 4. Nf3 Be7 5. O-O O-O 6. b3 d5 7. e3 dxc4 8. bxc4
+Nc6 9. Bb2 Qc7 10. Qe2 Rd8 11. d3 Rb8 12. Rd1 b6 13. Nc3 Bb7 14. Rab1 a6 15.
+Ba1 Ba8 16. Ne1 Ne8 17. a4 Bf6 18. f4 Rd7 19. g4 h6 20. Nf3 Rbd8 21. g5 hxg5
+22. fxg5 Be7 23. Bh3 Nd6 24. g6 f5 25. Na2 Bf6 26. Bxf6 gxf6 27. Qb2 Kg7 28.
+Qxb6 Qxb6 29. Rxb6 Nxc4 30. Rxa6 Nxe3 31. Rd2 Nb4 32. Rxe6 Ng4 33. Nh4 Bd5 34.
+Nxf5+ Kxg6 35. Ne7+ Kg5 36. Nxd5 Rxd5 37. Nc3 Rxd3 38. Ne4+ Kf4 39. Re2 Rxh3
+40. Nf2 Nxf2 41. Rxf2+ Kg5 42. Rexf6 Rg8 43. Kg2 Rhh8 44. Kg3 Kh5+ 45. Kh3 Rg6
+46. R6f5+ Rg5 47. Rxg5+ Kxg5+ 48. Kg3 Ra8 49. Re2 Rxa4 50. Re5+ Kf6 51. Rxc5
+Ra3+ 52. Kg2 Ra2+ 53. Kg1 Nd3 54. Rc6+ Kf5 55. Rd6 Ne5 56. Rd5 Ke4 57. Rb5 Nf3+
+58. Kf1 Rxh2 59. Rb3 1-0
+

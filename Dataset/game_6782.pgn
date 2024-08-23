@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "MrPickles212"]
+[Black "FastCavalier"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/F3k8qqsU"]
+[WhiteElo "2455"]
+[BlackElo "2534"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:22:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 c6 2. d4 d5 3. f3 e6 4. c3 f5 5. Nd2 Nf6 6. e5 Nfd7 7. f4 c5 8. Ngf3 Nc6
+9. Bd3 g6 10. h4 b6 11. h5 Bg7 12. Ng5 Nf8 13. h6 1-0
+

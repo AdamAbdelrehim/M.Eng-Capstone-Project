@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Quillotamaster"]
+[Black "A_L_E"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/FvKJq7ou"]
+[BlackTitle "FM"]
+[WhiteElo "2352"]
+[BlackElo "2530"]
+[ECO "E87"]
+[Opening "King's Indian Defense: Sämisch Variation, Closed Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:33:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f3 d6 6. Be3 e5 7. d5 c6 8. g4 cxd5
+9. cxd5 a6 10. Bd3 b5 11. h4 Nbd7 12. h5 Nc5 13. Bc2 b4 14. Na4 Qa5 15. Nxc5
+dxc5 16. b3 c4 17. Ne2 Rd8 18. Ng3 Bb7 19. Qd2 Bxd5 20. exd5 Nxd5 21. Ne4 Nf4
+22. Qf2 cxb3 23. Bb6 bxc2 24. Bxa5 Nd3+ 25. Ke2 Nxf2 26. Kxf2 Rd4 27. Rhc1 Rc8
+28. Bb6 Rd5 29. g5 a5 30. h6 Bf8 31. Nf6+ Kh8 32. Nxd5 a4 33. Ke2 b3 34. axb3
+axb3 35. Be3 b2 36. Ra7 b1=Q 37. Rxf7 Qb5+ 38. Kf2 Qxd5 39. Ra7 Bc5 40. Rxc2
+Bxe3+ 41. Kxe3 Qd4+ 42. Ke2 Rxc2+ 43. Ke1 Qxa7 44. Kd1 Qf2 0-1
+

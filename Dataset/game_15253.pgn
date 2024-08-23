@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "domore"]
+[Black "Glidzhian_Gor"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/H2kMOxkT"]
+[BlackTitle "FM"]
+[WhiteElo "2474"]
+[BlackElo "2522"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Wade Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:09:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Bd3 Bb5 7. dxc5 Bxc5 8. b4
+Bxf2+ 9. Ke2 Bxd3+ 10. Qxd3 a5 11. Rf1 axb4 12. cxb4 Nc6 13. Rxf2 Nxb4 14. Qb3
+Qa6+ 15. Kd1 Nd3 16. Rd2 Nc5 17. Qc3 Ne4 18. Qd3 Nf2+ 19. Ke2 Nxd3 20. Rxd3 Ne7
+21. Bg5 Nc6 22. Nbd2 Nb4 0-1
+

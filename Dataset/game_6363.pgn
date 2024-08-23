@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "CarlosPujol"]
+[Black "StellarVoyager"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/lEhBuUr5"]
+[WhiteTitle "FM"]
+[WhiteElo "2509"]
+[BlackElo "2479"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Modern Variations"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:12:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+13"]
+
+1. e4 c5 2. Nf3 d6 3. Nd4 cxd4 0-1
+

@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.09"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "papolaki"]
+[Result "1/2-1/2"]
+[CurrentPosition "r1bqkbnr/pp1p1ppp/2n5/2p1p3/4P3/2N2N2/PPPP1PPP/R1BQKB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "B23"]
+[ECOUrl "https://www.chess.com/openings/Closed-Sicilian-Defense"]
+[UTCDate "2021.01.09"]
+[UTCTime "01:50:50"]
+[WhiteElo "1037"]
+[BlackElo "1011"]
+[TimeControl "600"]
+[Termination "Game drawn by agreement"]
+[StartTime "01:50:50"]
+[EndDate "2021.01.09"]
+[EndTime "01:51:53"]
+[Link "https://www.chess.com/game/live/6182719033"]
+
+1. e4 { [%clk 0:09:58.9] } 1... c5 { [%clk 0:09:58.8] } 2. Nc3
+{ [%clk 0:09:35.3] } 2... e5 { [%clk 0:09:52] } 3. Nf3 { [%clk 0:09:31] } 3...
+Nc6 { [%clk 0:09:46.9] } 1/2-1/2
+

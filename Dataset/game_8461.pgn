@@ -1,0 +1,37 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "yobot_v2"]
+[Black "RaspFish"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/7PgqXNe4"]
+[BlackTitle "BOT"]
+[WhiteElo "2750"]
+[BlackElo "2725"]
+[ECO "A81"]
+[Opening "Dutch Defense: Fianchetto Attack"]
+[TimeControl "1500+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:59:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+0"]
+
+1. d4 f5 2. g3 e6 3. c4 Nf6 4. Nf3 Bb4+ 5. Bd2 Be7 6. Nc3 O-O 7. Bg2 d5 8. O-O
+c6 9. Qc2 Ne4 10. Bf4 Nd7 11. Rad1 a5 12. Nxe4 fxe4 13. Ne5 Nxe5 14. Bxe5 Bd6
+15. Bxd6 Qxd6 16. f3 exf3 17. exf3 e5 18. cxd5 exd4 19. Rxd4 Be6 20. f4 cxd5
+21. Rfd1 Rad8 22. Bf3 Kh8 23. Qd2 Qb6 24. h4 h6 25. Kg2 Bf7 26. Qf2 Rfe8 27.
+R4d3 Qc7 28. a3 Rd6 29. R1d2 Re7 30. Rd4 Rd8 31. R4d3 Rd6 32. Kh2 Bg8 33. Rd4
+Bf7 34. Kg2 Bg8 35. Bd1 Bh7 36. Bf3 Be4 37. Bxe4 Rxe4 38. Rxd5 Rxd5 39. Rxd5
+Qc4 40. Rd2 b5 41. Kh3 Qc8+ 42. Kg2 Qe8 43. Qf3 Re3 44. Rd8 Qxd8 45. Qxe3 a4
+46. Kf2 Qd7 47. b4 h5 48. Ke2 Qd5 49. f5 Qg2+ 50. Kd3 Qd5+ 51. Ke2 Qg2+ 52. Ke1
+Kh7 53. Qd3 Kh8 54. Qd8+ Kh7 55. Qd3 Kh8 56. Kd1 Qb2 57. Qd8+ Kh7 58. Qd3 Kh8
+59. Qxb5 Qb3+ 60. Kd2 Qb2+ 61. Kd1 Qb1+ 62. Ke2 Qa2+ 63. Kf1 Qxa3 64. Qe2 Qc1+
+65. Kg2 a3 66. Qe8+ Kh7 67. Qg6+ Kg8 68. Qe8+ Kh7 69. Qg6+ Kh8 70. Qxh5+ Qh6
+71. Qe2 Qc6+ 72. Kh2 Qa8 73. Qa2 Qa4 74. b5 Qb4 75. Kh3 Qxb5 76. Qxa3 Qxf5+ 77.
+g4 Qb1 78. g5 g6 79. h5 gxh5 80. g6 Qxg6 81. Qa1+ Qg7 82. Qxg7+ Kxg7 83. Kg2
+Kf7 84. Kf1 Kg7 85. Ke1 Kf6 86. Kd1 Kf7 87. Ke1 Ke6 88. Kd1 Kf5 89. Ke1 Ke5 90.
+Kd1 Kd4 91. Ke1 h4 92. Kf1 Kd5 93. Ke1 Kc5 94. Kf1 Kd6 95. Ke1 Kc5 96. Kf1 Kd6
+97. Ke1 h3 98. Kf1 Ke5 99. Kg1 Kf4 100. Kf1 Ke4 101. Kg1 h2+ 102. Kxh2 1/2-1/2
+

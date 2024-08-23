@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "PurpleHunter"]
+[Black "Hoon_Bot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/MoxLAUcD"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2643"]
+[BlackElo "2871"]
+[ECO "A20"]
+[Opening "English Opening: King's English Variation"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:17:50"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 Bc5 4. Nc3 d6 5. e3 O-O 6. Nge2 Nc6 7. O-O Bb6 8. h3
+Ne7 9. d4 c6 10. dxe5 dxe5 11. b3 Bc5 12. Na4 Bb4 13. a3 Bd6 14. Bb2 Ng6 15. f4
+b5 16. fxe5 Nxe5 17. cxb5 cxb5 18. Nc5 Qe7 19. b4 Rb8 20. Nf4 Nc4 21. Bxf6 Qxf6
+22. Ne4 Qh6 23. Nxd6 Nxd6 24. Rc1 Nc4 25. Qd4 Bb7 26. e4 a6 27. h4 Rfd8 28. Qa7
+Qd6 29. Rfd1 Qxd1+ 30. Rxd1 Rxd1+ 31. Kh2 Rdd8 32. h5 h6 33. Kh3 Ne5 34. Kh2
+Bc6 35. Nd5 Ng4+ 36. Kh3 Bd7 37. Kh4 Ne5 38. Qxa6 Ra8 39. Qb6 Re8 40. Qe3 g5+
+41. hxg6 Nxg6+ 42. Kh5 Re5+ 43. Kxh6 Ra6 44. Nb6 Bg4 45. Qg5 Rxg5 46. Kxg5 Be2
+47. Nd5 Rxa3 48. Nf6+ Kf8 49. Nh5 Bxh5 50. Kxh5 Rxg3 51. Bf1 f6 52. Kh6 Nf4 53.
+Kh7 Rg4 54. Be2 Rh4+ 55. Bh5 Rxh5# 0-1
+

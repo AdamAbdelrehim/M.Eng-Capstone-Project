@@ -1,0 +1,31 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/GjtMaMjt"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "MidnightFox"]
+[Black "www68"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Lm3aOLXl"]
+[WhiteElo "2490"]
+[BlackElo "2570"]
+[ECO "E47"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Bishop Attack"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:44:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d6 6. Ne2 e5 7. a3 Bxc3+ 8. bxc3
+e4 9. Bc2 c6 10. Ng3 d5 11. O-O Re8 12. f3 exf3 13. gxf3 Bh3 14. Rf2 Nbd7 15.
+e4 dxc4 16. e5 Nd5 17. Bd2 Qh4 18. f4 b5 19. Qf3 Bg4 20. Qh1 f6 21. Re1 fxe5
+22. dxe5 Nc5 23. f5 Nd3 24. Bxd3 cxd3 25. Qe4 Rad8 26. c4 bxc4 27. Qxc4 h5 28.
+Qxc6 Nb6 29. f6 gxf6 30. exf6 Rxe1+ 31. Bxe1 Kf7 32. Ne4 Be6 33. Nd6+ Rxd6 34.
+Qxd6 Qg5+ 35. Qg3 Qxg3+ 36. hxg3 Nc4 37. a4 a5 38. Bc3 Bg4 39. Kf1 Ne3+ 40. Ke1
+Nf5 41. Kd2 Nxg3 42. Kxd3 Bd7 43. Rf4 Nf5 44. Bxa5 h4 45. Bc3 h3 46. Rf2 Bc6
+47. a5 Bg2 48. Be5 Ke6 49. Rxf5 Kxf5 50. f7 Kxe5 51. f8=Q h2 52. Qb8+ Kf5 53.
+Qxh2 Bc6 54. Kd4 Ke6 55. Qc7 Bh1 56. a6 Kf5 57. a7 Kg4 58. Qc8+ Kg3 59. a8=Q
+Bxa8 60. Qxa8 Kf4 61. Qe4+ Kg5 62. Qf3 Kh6 63. Ke5 Kg5 64. Qg3+ Kh6 65. Kf6 Kh5
+66. Qg5# 1-0
+

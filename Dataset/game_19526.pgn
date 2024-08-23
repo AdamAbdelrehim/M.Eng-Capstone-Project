@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Butzke_BOT"]
+[Black "RaspFish"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/ORU5mrp7"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2956"]
+[BlackElo "2990"]
+[ECO "C00"]
+[Opening "French Defense: St. George Defense"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:32:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. e4 e6 2. d4 a6 3. Bd3 d5 4. Nc3 c5 5. dxc5 Bxc5 6. exd5 exd5 7. Nxd5 Bxf2+
+8. Kxf2 Qxd5 9. Qf3 Qd4+ 10. Be3 Qh4+ 11. g3 Qe7 12. Bd4 Nf6 13. Bxf6 gxf6 14.
+Qf4 Be6 15. Nf3 Qc5+ 16. Kg2 Nd7 17. Rad1 O-O-O 18. Rhe1 Qc7 19. Qxc7+ Kxc7 20.
+a3 Nc5 21. Bf1 Rhe8 22. Kf2 Ne4+ 23. Kg1 Rxd1 24. Rxd1 Bg4 25. Rd3 Nd6 26. b3
+b5 27. Rc3+ Kd7 28. Kg2 Bf5 29. Kg1 Bg6 30. Bd3 Bxd3 31. Rxd3 f5 32. Nd4 Re5
+33. Kf2 Rc5 34. Rf3 Ke7 35. Rf4 Kf6 36. Ke2 Rd5 37. Ke3 Re5+ 38. Kd3 Rd5 39. c4
+bxc4+ 40. bxc4 Ra5 41. Nc2 Ne4 42. Kd4 Ng5 43. Kc3 Re5 44. Nd4 Ne6 45. Rf3 Ng5
+46. Rf4 Ne6 47. Rf3 Ng5 48. Rf1 Ne4+ 49. Kd3 h5 50. Nb3 Ng5 51. Kc3 Ne6 52. Nd4
+Re3+ 53. Kd2 Re5 54. Kc3 Re3+ 55. Kd2 Re5 56. Kc3 1/2-1/2
+

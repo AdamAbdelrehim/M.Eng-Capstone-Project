@@ -1,0 +1,44 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Nikitosikbot_v2"]
+[Black "CruelKen"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/fPuUCU8d"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3019"]
+[BlackElo "3004"]
+[ECO "A28"]
+[Opening "English Opening: Four Knights System, Nimzowitsch Variation"]
+[TimeControl "360+3"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:41:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e4 Bb4 5. d3 d6 6. a3 Bc5 7. b4 Bb6 8. Be3
+Bg4 9. Be2 Bxf3 10. Bxf3 Nd4 11. Na4 Nxf3+ 12. Qxf3 Bxe3 13. Qxe3 O-O 14. O-O
+Nh5 15. Nc3 Nf4 16. g3 Ne6 17. f4 Nd4 18. Rf2 c6 19. a4 f6 20. Kg2 a6 21. f5 b5
+22. axb5 axb5 23. Rxa8 Qxa8 24. cxb5 Qa3 25. Qd2 cxb5 26. Qa2+ Qxa2 27. Rxa2
+Rc8 28. Nd5 Rc2+ 29. Rxc2 Nxc2 30. Kf3 Kf7 31. Ke2 Nd4+ 32. Kd1 Nf3 33. Nc7 Nd4
+34. Nd5 Ke8 35. h3 Kd8 36. g4 h6 37. Kd2 Nf3+ 38. Ke3 Nd4 39. h4 Nc2+ 40. Kf3
+Nd4+ 41. Kg3 Nc2 42. Kf2 Kd7 43. Kf1 Kd8 44. Ke2 Nd4+ 45. Kd1 Nf3 46. h5 Nd4
+47. Kd2 Ke8 48. Ke3 Kd8 49. Kd2 Kd7 50. Kd1 Nc6 51. Kd2 Nd4 52. Kd1 Nc6 53. Ke2
+Ke8 54. Nc7+ Kd7 55. Nd5 Kd8 56. Kf2 Nd4 57. Ke1 Nc6 58. Kd2 Kc8 59. Kc3 Nd4
+60. Kb2 Kd8 61. Kc1 Nc6 62. Kc2 Kd7 63. Nb6+ Ke8 64. Nd5 Kd7 65. Kb1 Nd4 66.
+Kc1 Nc6 67. Kd1 Nd4 68. Kd2 Kc8 69. Kd1 Kd7 70. Kd2 Kd8 71. Ke3 Nc6 72. Kf3
+Nd4+ 73. Ke3 Kc8 74. Kf2 Kd7 75. Ke1 Kc6 76. Kf1 Kd7 77. Kf2 Kc8 78. Ke1 Nc6
+79. Kd2 Kd8 80. Nc3 Nxb4 81. Nxb5 Kd7 82. Kc3 Nc6 83. d4 Nd8 84. d5 Nf7 85. Kd3
+Ng5 86. Ke3 Nf7 87. Kd3 Nd8 88. Kc3 Nb7 89. Kd3 Nc5+ 90. Ke3 Na6 91. Kf3 Nc7
+92. Na7 Ke7 93. Nc8+ Kd7 94. Na7 Na6 95. Ke2 Nc5 96. Ke3 Kc7 97. Nb5+ Kd7 98.
+Na3 Kd8 99. Nb5 Nb7 100. Na7 Kc7 101. Ke2 Kb6 102. Nc6 Kb5 103. Kd3 Ka4 104.
+Ne7 Nc5+ 105. Ke3 Kb5 106. Ng8 Nb7 107. Ne7 Nc5 108. Ng6 Nd7 109. Nh8 Kb6 110.
+Nf7 Kc7 111. Kf3 Nf8 112. Ke2 Nd7 113. Kf3 Nf8 114. Nh8 Nh7 115. Ng6 Kd7 116.
+Ke2 Ng5 117. Ke3 Ke8 118. Kd3 Nh3 119. Ke3 Ng1 120. Nh4 Nh3 121. Ng6 Ng1 122.
+Nh4 Nh3 123. Ng2 Kd7 124. Ne1 Kc7 125. Nd3 Ng5 126. Nb2 Kb6 127. Nc4+ Kc5 128.
+Na5 Kb5 129. Nc6 Nf7 130. Ne7 Ng5 131. Ng6 Nh3 132. Nf8 Nf4 133. Kd2 Ka4 134.
+Ke3 1/2-1/2
+

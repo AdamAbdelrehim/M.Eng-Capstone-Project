@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "RowanDethron"]
+[Black "Rekcirts"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/EJBD2RFa"]
+[WhiteElo "2665"]
+[BlackElo "2538"]
+[ECO "B07"]
+[Opening "Pirc Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:10:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+8"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f3 c6 5. Be3 Nbd7 6. Qd2 e5 7. h4 h5 8. Nge2
+Qc7 9. O-O-O b5 10. f4 Ng4 11. Bg1 b4 12. Nb1 c5 13. fxe5 dxe5 14. d5 Bh6 15.
+Ng3 Bxd2+ 16. Nxd2 Nb6 17. Be2 O-O 18. Ngf1 c4 19. Ne3 c3 20. Nb3 cxb2+ 21. Kb1
+Na4 22. Rd2 Nc3+ 23. Kxb2 Nxe4 24. d6 Qc3+ 0-1
+

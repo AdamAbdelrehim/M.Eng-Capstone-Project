@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Marb2020"]
+[Black "MV_Maple"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ikOKgvOC"]
+[WhiteElo "2491"]
+[BlackElo "2605"]
+[ECO "C45"]
+[Opening "Scotch Game: Schmidt Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:54:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+11"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nxc6 bxc6 7. Bd3 d5 8.
+exd5 cxd5 9. O-O O-O 10. Bg5 c6 11. Bh4 Be7 12. Ne2 Rb8 13. b3 Rb4 14. Bg3 Re8
+15. c3 Rb6 16. Qc2 Bg4 17. f3 Bh5 18. Rad1 Bg6 19. Bxg6 hxg6 20. Bf2 Rb7 21. c4
+Qa5 22. cxd5 cxd5 23. Nd4 Rc7 24. Qd3 Rec8 25. a4 a6 26. Kh1 Rc3 27. Be1 Rxd3
+28. Bxa5 Rxd1 29. Rxd1 Kf8 30. b4 Rc4 31. g4 Bxb4 32. Bxb4+ Rxb4 33. g5 Nh5 34.
+Nc6 Rc4 35. Nb8 Rxa4 36. Re1 f6 37. Nd7+ Kf7 38. Nb6 Rd4 39. Ra1 Nf4 40. gxf6
+gxf6 41. Kg1 Rb4 42. Rxa6 g5 43. Kf2 Rb2+ 44. Ke3 Rxh2 45. Ra7+ Kg6 46. Nd7 Rh1
+47. Nf8+ Kf5 48. Ra6 Re1+ 49. Kd4 Re5 50. Kc3 Ne6 51. Nd7 Re3+ 52. Kd2 Rxf3 53.
+Ra5 Nf4 54. Nb6 Rf2+ 55. Ke1 Re2+ 56. Kd1 Re5 57. Nc4 dxc4 58. Ra6 Rd5+ 59. Kc1
+Re5 60. Kb1 Nd3 61. Rxf6+ Kxf6 62. Kc2 g4 63. Kc3 g3 64. Kc2 g2 65. Kc3 g1=Q
+66. Kc2 Qd4 67. Kb1 Qb2# 0-1
+

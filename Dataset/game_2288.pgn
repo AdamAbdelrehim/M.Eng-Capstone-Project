@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Lopuh99"]
+[Black "tom230"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ZMDXrIWw"]
+[WhiteElo "2630"]
+[BlackElo "2663"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:05:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Ng3 g6 6. d4 Bg7 7. c3 O-O 8. Bc4
+Nbd7 9. O-O b5 10. Bb3 a6 11. Re1 c5 12. Bf4 c4 13. Bc2 Bb7 14. Qe2 e6 15. Ne5
+Nxe5 16. dxe5 Nd5 17. Bd2 Qb6 18. h4 h5 19. Nxh5 gxh5 20. Qxh5 f5 21. exf6 Rxf6
+22. Bg5 Qxf2+ 23. Kh1 Qxc2 0-1
+

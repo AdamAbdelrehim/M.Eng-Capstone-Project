@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "GhostStrikes"]
+[Black "alteredboy"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/JSj0yopQ"]
+[WhiteElo "2537"]
+[BlackElo "2454"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:56:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+7"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O f6 7. c4 fxe5 8. Nxe5
+Nxe5 9. dxe5 Bc5 10. Nc3 Ne7 11. Bh5+ g6 12. Be2 dxc4 13. Bxc4 Qxd1 14. Rxd1
+Nd5 15. Bg5 O-O 16. Nxd5 exd5 17. Be2 Rae8 18. Bf6 Rxf6 19. exf6 Rxe2 0-1
+

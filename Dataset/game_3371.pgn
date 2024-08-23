@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sleepheaddefence"]
+[Black "Heisenberg3"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/dwbYBCfN"]
+[WhiteElo "2519"]
+[BlackElo "2380"]
+[ECO "C21"]
+[Opening "Center Game: Kieseritzky Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:40:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 d5 4. exd5 Qxd5 5. Qxd4 Qxd4 6. Nxd4 Bc5 7. Nb5 Bb6
+8. Bf4 Kd8 9. N1c3 a6 10. O-O-O+ Nd7 11. Nd4 Ngf6 12. Bc4 Ke7 13. Rhe1+ Kf8 14.
+Nf5 h6 15. Re7 Nh5 16. Rxf7+ Ke8 17. Nxg7+ Nxg7 18. Rxg7 Nf6 19. Be5 Rf8 20.
+Re1 Kd8 21. Rg6 Ne8 22. f3 Bf5 23. Rxh6 Kc8 24. Nd5 Ba5 25. Ne7+ Kb8 26. Rd1
+Ka7 27. Bd4+ Bb6 28. Bxb6+ cxb6 29. Nd5 b5 30. Bf1 Ng7 31. Ne3 Be6 32. b3 Rae8
+33. Rh7 Rg8 34. Nd5 Nf5 35. Nf6 Rh8 36. Re1 Rxh7 37. Nxh7 Nd4 38. c3 Rc8 39.
+Kb2 Bf5 40. cxd4 Rc2+ 41. Ka1 Bxh7 42. g4 Rxh2 43. f4 Rd2 44. f5 b4 45. g5 Bxf5
+46. a3 a5 47. axb4 axb4 48. Bc4 b5 49. Be6 Bg6 50. d5 Kb6 51. Rf1 Kc7 52. Rf6
+Rd1+ 53. Kb2 Rd2+ 54. Kc1 Rc2+ 55. Kd1 Bd3 56. Rf3 Be2+ 57. Kxc2 Bxf3 58. g6
+Be4+ 59. Kd2 Bxg6 60. Ke3 Kd6 61. Kd4 Bc2 62. Bg4 Bxb3 63. Be2 Bxd5 64. Bxb5 b3
+65. Bd3 b2 66. Bb1 Ba2 67. Bc2 b1=Q 68. Bxb1 1/2-1/2
+

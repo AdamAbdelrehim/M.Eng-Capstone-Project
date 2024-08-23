@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "GalimovaTS"]
+[Black "gmcyborek"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/nHVA6Ojz"]
+[WhiteElo "2512"]
+[BlackElo "2689"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation, Monte Carlo Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:26:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 d5 2. c4 e5 3. e3 exd4 4. exd4 Nf6 5. Nc3 Bb4 6. Bg5 O-O 7. cxd5 Qe8+ 8.
+Be2 Nxd5 9. Bd2 Bxc3 10. bxc3 Qe4 11. Nf3 Re8 12. c4 Nf6 13. Be3 Ng4 14. Bd3
+Nxe3 15. fxe3 Qxe3+ 16. Qe2 Qxe2+ 17. Bxe2 Nc6 18. h3 Bf5 19. Kf2 Rad8 20. Rhd1
+b6 21. d5 Nb4 22. Nd4 Bd7 23. a3 Na6 24. Nc6 Bxc6 25. dxc6 Nc5 26. Bg4 Kf8 27.
+Rd5 Rxd5 28. cxd5 Re5 29. d6 Ne4+ 30. Kf3 Nxd6 31. Rd1 Ke7 32. Bd7 f6 33. g4 h6
+34. Kg3 a5 35. Kg2 b5 36. Rb1 Re4 37. Rb3 b4 38. axb4 axb4 39. Rf3 Re5 40. Rb3
+Rb5 41. Rb1 b3 42. Re1+ Re5 43. Rb1 Rb5 44. Re1+ Kf8 45. Re6 b2 46. Rxd6 b1=Q
+47. Rd2 Rb2 48. Rf2 Qe4+ 49. Kg3 Qe3+ 50. Kg2 Qxf2+ 51. Kh1 Qe1# 0-1
+

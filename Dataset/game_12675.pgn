@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "FIDE-Trainer1984"]
+[Black "Masterasasin"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/x7ogyJYn"]
+[WhiteElo "2557"]
+[BlackElo "2548"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation, Svenonius Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:58:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. exd5 exd5 5. Bg5 Be7 6. Bd3 c6 7. h3 O-O 8. Qf3
+Re8 9. Nge2 Nbd7 10. O-O-O Nf8 11. g4 b5 12. Ng3 Qa5 13. Kb1 Ne6 14. Bxf6 Bxf6
+15. Nce2 Nxd4 16. Nxd4 Bxd4 17. Bxh7+ Kxh7 18. Rxd4 Be6 19. g5 Kg8 20. Qh5 Bd7
+21. b4 Qa3 22. Rh4 Kf8 23. Rf4 Be6 24. g6 d4 25. Qc5+ Re7 26. Qxd4 Bxa2+ 27.
+Ka1 Bb3+ 28. Kb1 Qa2+ 29. Kc1 Qxc2# 0-1
+

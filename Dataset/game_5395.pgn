@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "AlexeyLV"]
+[Black "General-Disarray"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/nqYNTs36"]
+[WhiteElo "2592"]
+[BlackElo "2533"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Symmetrical Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:03:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. g3 g6 2. Bg2 Bg7 3. e4 c5 4. f4 Nc6 5. d3 d6 6. Nf3 e6 7. O-O Nge7 8. c3 O-O
+9. Be3 b6 10. Bf2 e5 11. Na3 h6 12. Nc4 exf4 13. gxf4 d5 14. Nce5 Nxe5 15. Nxe5
+Bb7 16. Qg4 Kh7 17. Rad1 Qc7 18. Qg3 Rad8 19. h4 c4 20. h5 cxd3 21. hxg6+ fxg6
+22. exd5 Bxd5 23. Bxd5 Rxd5 24. Bd4 Qd6 25. Rxd3 Nf5 26. Qf2 Nxd4 27. cxd4 g5
+28. Rf3 Rxd4 29. Qc2+ Kg8 30. Qb3+ Qd5 31. Qxd5+ Rxd5 32. Ng6 Re8 33. f5 Bf6
+34. Rc1 Rd2 35. Rc6 Re1+ 36. Rf1 Bd4+ 0-1
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "BlueHorseshoe"]
+[Black "bravadochess"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/j4KzTgjD"]
+[BlackTitle "IM"]
+[WhiteElo "2560"]
+[BlackElo "2578"]
+[ECO "D52"]
+[Opening "Queen's Gambit Declined: Cambridge Springs Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:35:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 Nbd7 6. e3 Qa5 7. Nd2 Bb4 8. Rc1
+Ne4 9. Ndxe4 dxe4 10. Bh4 Qxa2 11. Qc2 Nb6 12. Be2 Na4 13. O-O Nxc3 14. Ra1
+Nxe2+ 15. Kh1 Nxd4 16. exd4 Qxa1 17. Rxa1 f5 18. d5 O-O 19. dxc6 bxc6 20. c5 a5
+21. Rd1 h6 22. Bg3 Ba6 23. Be5 Rfd8 24. h4 Bd3 25. Qb3 Rd5 26. Bd6 Kf7 27. Kh2
+Ra7 28. Rc1 Rb7 29. Qa4 Bb5 30. Qa1 Bd2 31. Rd1 g5 32. h5 e5 33. Qa2 a4 34.
+Rxd2 1-0
+

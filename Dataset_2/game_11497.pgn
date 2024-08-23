@@ -1,0 +1,41 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.02.07"]
+[Round "-"]
+[White "kiritomyb"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "3r1nk1/Nb1rbppp/1p1q4/2pnBP2/4p1N1/1P4P1/P1PPB2P/3RQRK1 b - -"]
+[Timezone "UTC"]
+[ECO "A03"]
+[ECOUrl "https://www.chess.com/openings/Birds-Opening-Dutch-Variation-2.Nf3-c5-3.e4"]
+[UTCDate "2024.02.07"]
+[UTCTime "21:59:22"]
+[WhiteElo "1959"]
+[BlackElo "1887"]
+[TimeControl "600"]
+[Termination "kiritomyb won by resignation"]
+[StartTime "21:59:22"]
+[EndDate "2024.02.07"]
+[EndTime "22:04:46"]
+[Link "https://www.chess.com/game/live/101082186431"]
+
+1. e4 { [%clk 0:09:58] } 1... c5 { [%clk 0:09:59.1] } 2. f4
+{ [%clk 0:09:56.1] } 2... d5 { [%clk 0:09:58] } 3. Nf3 { [%clk 0:09:55.6] }
+3... dxe4 { [%clk 0:09:56.2] } 4. Ne5 { [%clk 0:09:54.8] } 4... Nd7
+{ [%clk 0:09:50.6] } 5. Nc4 { [%clk 0:09:05.7] } 5... Ngf6 { [%clk 0:09:44] }
+6. Be2 { [%clk 0:09:03.6] } 6... b6 { [%clk 0:09:37.7] } 7. O-O
+{ [%clk 0:09:02] } 7... Bb7 { [%clk 0:09:36.6] } 8. Ne3 { [%clk 0:08:54.2] }
+8... e6 { [%clk 0:09:34.4] } 9. b3 { [%clk 0:08:51.3] } 9... Be7
+{ [%clk 0:09:31.8] } 10. Bb2 { [%clk 0:08:50] } 10... O-O { [%clk 0:09:31.2] }
+11. Nc3 { [%clk 0:08:48.7] } 11... Qc7 { [%clk 0:09:21.6] } 12. g3
+{ [%clk 0:08:46.2] } 12... Rfd8 { [%clk 0:09:18.3] } 13. Qe1
+{ [%clk 0:08:41.2] } 13... e5 { [%clk 0:09:16.9] } 14. f5 { [%clk 0:08:34.6] }
+14... Nf8 { [%clk 0:09:08.8] } 15. Rd1 { [%clk 0:08:14.7] } 15... Rd7
+{ [%clk 0:08:55.3] } 16. Nb5 { [%clk 0:08:10.6] } 16... Qc6
+{ [%clk 0:08:49.7] } 17. Bxe5 { [%clk 0:08:05.8] } 17... Rad8
+{ [%clk 0:08:40.5] } 18. Bb2 { [%clk 0:07:56.7] } 18... Nd5
+{ [%clk 0:08:31.5] } 19. Nxa7 { [%clk 0:07:44.8] } 19... Qh6 { [%clk 0:08:15] }
+20. Ng4 { [%clk 0:07:16.8] } 20... Qd6 { [%clk 0:08:02.4] } 21. Be5
+{ [%clk 0:07:13.1] } 1-0
+

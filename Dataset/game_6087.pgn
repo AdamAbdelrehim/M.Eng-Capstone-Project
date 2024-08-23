@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ecstasyuser"]
+[Black "L04d1ng"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ef9UeUuS"]
+[BlackTitle "GM"]
+[WhiteElo "2616"]
+[BlackElo "2719"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:31:51"]
+[Termination "Normal"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-7"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. c4 e6 5. Qb3 Qc7 6. d3 Bd6 7. Nc3 Nd7 8. O-O
+Ne7 9. cxd5 exd5 10. e4 dxe4 11. Nxe4 Nc5 12. Nxd6+ Qxd6 13. Qa3 Nd5 14. Re1+
+Kd8 15. d4 1-0
+

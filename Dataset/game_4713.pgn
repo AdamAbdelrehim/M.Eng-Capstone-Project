@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "munster1"]
+[Black "GalimovaTS"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/0Oh2An55"]
+[WhiteTitle "FM"]
+[WhiteElo "2512"]
+[BlackElo "2476"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:44:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Qe2 Nxe4 6. Qxe4 Be6 7. Bc4 Bxc4
+8. Qxc4 Qd5 9. Qe2 e6 10. O-O Be7 11. d4 O-O 12. c4 Qh5 13. Bf4 Nd7 14. Rac1
+Nf6 15. Rcd1 Rad8 16. Rfe1 Bd6 17. Bg3 Bxg3 18. fxg3 Rd7 19. h3 Rfd8 20. g4 Qa5
+21. a3 Qb6 22. Kh2 Qb3 23. g5 Ne8 24. Ne5 Re7 25. Rd3 Qa4 26. Red1 Nd6 27. Rc3
+Nf5 28. Qe4 Qxd1 0-1
+

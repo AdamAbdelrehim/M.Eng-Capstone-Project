@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Incognizance"]
+[Black "Bierblitz"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Ca5kMYTc"]
+[WhiteTitle "CM"]
+[WhiteElo "2373"]
+[BlackElo "2568"]
+[ECO "A84"]
+[Opening "Dutch Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:56:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 f5 2. c4 g6 3. h4 Nf6 4. Nc3 Bg7 5. h5 Nxh5 6. e4 fxe4 7. Rxh5 gxh5 8.
+Qxh5+ Kf8 9. Bh6 e6 10. Nxe4 d5 11. Ng5 Qf6 12. Bxg7+ Kxg7 13. O-O-O h6 14.
+N5f3 Nc6 15. Nh3 Bd7 16. Bd3 Be8 17. Qg4+ Kf8 18. Nf4 Bf7 19. Ne5 Nxe5 20. dxe5
+Qxe5 21. cxd5 exd5 22. Ng6+ Bxg6 23. Qxg6 Qg5+ 24. Qxg5 hxg5 0-1
+

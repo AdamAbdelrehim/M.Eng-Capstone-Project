@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sutcunuri"]
+[Black "train_account"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/9q9nxY2K"]
+[WhiteElo "2612"]
+[BlackElo "2576"]
+[ECO "D50"]
+[Opening "Queen's Gambit Declined: Modern Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:05:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Bb4 5. e3 h6 6. Bxf6 Qxf6 7. Nf3 O-O 8. Be2
+dxc4 9. Bxc4 c5 10. O-O cxd4 11. Qxd4 Qxd4 12. Nxd4 Bxc3 13. bxc3 Bd7 14. Rab1
+b6 15. Rfd1 Rc8 16. Be2 Nc6 17. Bf3 Nxd4 18. cxd4 Rab8 19. Rbc1 Kf8 20. Kf1 Ke7
+21. Ke2 Kd6 22. e4 Rxc1 23. Rxc1 Rc8 24. Rxc8 Bxc8 25. e5+ Kc7 26. d5 exd5 27.
+Bxd5 Be6 28. Bxe6 fxe6 29. Kd3 Kc6 30. Kd4 h5 31. g3 b5 32. h3 a5 33. g4 hxg4
+34. hxg4 g5 35. f3 b4 36. Kc4 Kb6 37. f4 gxf4 38. g5 f3 39. Kd3 a4 40. g6 b3
+41. axb3 axb3 42. g7 b2 43. Kc2 f2 44. g8=Q b1=Q+ 45. Kxb1 f1=Q+ 46. Kc2 Qe2+
+47. Kb3 Qxe5 48. Qd8+ Kc5 49. Kc2 Qe4+ 50. Kc3 Qc4+ 0-1
+

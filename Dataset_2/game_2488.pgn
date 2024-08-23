@@ -1,0 +1,39 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.23"]
+[Round "-"]
+[White "Fossil31"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "4rr1k/pp3ppp/3b4/1Bp5/2P1NPQ1/2B1P3/PP4PP/R3K2R b KQ -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Van-Geet-Opening-1...c5-2.Nf3"]
+[UTCDate "2021.10.23"]
+[UTCTime "01:08:52"]
+[WhiteElo "1282"]
+[BlackElo "1239"]
+[TimeControl "60"]
+[Termination "Fossil31 won by resignation"]
+[StartTime "01:08:52"]
+[EndDate "2021.10.23"]
+[EndTime "01:09:57"]
+[Link "https://www.chess.com/game/live/28690190525"]
+
+1. Nf3 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. Nc3
+{ [%clk 0:00:59.6] } 2... d5 { [%clk 0:00:59.9] } 3. d4 { [%clk 0:00:58.5] }
+3... Nf6 { [%clk 0:00:59.8] } 4. e3 { [%clk 0:00:57.7] } 4... e6
+{ [%clk 0:00:58.8] } 5. Bd3 { [%clk 0:00:56.9] } 5... Nbd7 { [%clk 0:00:58.6] }
+6. Qe2 { [%clk 0:00:56.2] } 6... e5 { [%clk 0:00:57.1] } 7. dxe5
+{ [%clk 0:00:55.1] } 7... Nxe5 { [%clk 0:00:55.8] } 8. Nxe5
+{ [%clk 0:00:54.1] } 8... Qe7 { [%clk 0:00:55.7] } 9. Bb5+ { [%clk 0:00:47.5] }
+9... Bd7 { [%clk 0:00:53.4] } 10. Nxd7 { [%clk 0:00:46.3] } 10... Nxd7
+{ [%clk 0:00:53.3] } 11. Nxd5 { [%clk 0:00:44.3] } 11... Qe5
+{ [%clk 0:00:50.5] } 12. c4 { [%clk 0:00:41.6] } 12... Bd6 { [%clk 0:00:47.6] }
+13. f4 { [%clk 0:00:40.7] } 13... Qe4 { [%clk 0:00:44.1] } 14. Bd2
+{ [%clk 0:00:37.3] } 14... O-O { [%clk 0:00:43.5] } 15. Bc3
+{ [%clk 0:00:35.3] } 15... Rae8 { [%clk 0:00:42.3] } 16. Qg4
+{ [%clk 0:00:32.9] } 16... Nf6 { [%clk 0:00:40.6] } 17. Nxf6+
+{ [%clk 0:00:30.5] } 17... Kh8 { [%clk 0:00:38.3] } 18. Nxe4
+{ [%clk 0:00:29.5] } 1-0
+

@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.05.26"]
+[Round "-"]
+[White "XiaomiChess"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rn1qkb1r/pp1bpQpp/3p1n2/2p5/2B1P3/8/PPPP1PPP/RNB1K1NR b KQkq -"]
+[Timezone "UTC"]
+[ECO "B20"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense"]
+[UTCDate "2022.05.26"]
+[UTCTime "15:21:29"]
+[WhiteElo "1398"]
+[BlackElo "1355"]
+[TimeControl "60"]
+[Termination "XiaomiChess won by checkmate"]
+[StartTime "15:21:29"]
+[EndDate "2022.05.26"]
+[EndTime "15:21:38"]
+[Link "https://www.chess.com/game/live/47317304719"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. Qh5 { [%clk 0:00:59.9] }
+2... d6 { [%clk 0:00:59.9] } 3. Bb5+ { [%clk 0:00:58.5] } 3... Bd7
+{ [%clk 0:00:58.6] } 4. Bc4 { [%clk 0:00:58.4] } 4... Nf6 { [%clk 0:00:57.2] }
+5. Qxf7# { [%clk 0:00:57] } 1-0
+

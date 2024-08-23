@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "MarioVillanueva"]
+[Black "Mischuk_D"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/33qhtqFE"]
+[WhiteTitle "IM"]
+[BlackTitle "IM"]
+[WhiteElo "2641"]
+[BlackElo "2670"]
+[ECO "A06"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:01:27"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. Nf3 d5 2. b3 Bg4 3. Bb2 Nd7 4. g3 Bxf3 5. exf3 e5 6. Qe2 Bd6 7. f4 Qe7 8.
+Nc3 c6 9. fxe5 Qxe5 10. O-O-O Qxe2 11. Bxe2 Ngf6 12. Rhe1 O-O 13. f4 Rfe8 14.
+Bf3 Kf8 15. d3 h5 16. Kd2 Rxe1 17. Rxe1 Re8 18. Rxe8+ Kxe8 19. a4 a5 20. Ne2 g6
+21. d4 Ke7 22. c4 Bb4+ 23. Kd3 Nf8 24. Nc3 Kd6 25. Na2 Ng4 26. Bxg4 hxg4 27.
+Nxb4 axb4 28. c5+ Kd7 29. Bc1 Ne6 30. Bd2 Ng7 31. Bxb4 Nf5 32. Bc3 Kc7 33. b4
+Kb8 34. b5 Ka7 35. Be1 Ng7 36. Bf2 Nf5 37. Kc3 Ng7 38. Kb4 Nf5 39. a5 Ne7 40.
+Bg1 Nf5 41. a6 Ne7 42. axb7 Kxb7 43. Bf2 Nf5 44. bxc6+ Kxc6 45. Ka5 Ne7 46. Ka6
+Nf5 47. Ka7 Kc7 48. Bg1 Ne7 49. Be3 Nf5 50. Bf2 Ne7 51. Ka6 Kc6 52. Be3 Nf5 53.
+Bf2 Ng7 54. Be1 Nf5 55. Bf2 Ng7 56. Ka7 Kc7 57. Be1 Nf5 58. Ba5+ Kc6 59. Bc3
+Ne3 60. Kb8 Nf1 61. Kc8 Nxh2 62. Kd8 Nf1 63. Be1 Ne3 64. Ke7 Nf5+ 65. Kxf7 Nxd4
+66. Kxg6 Nf3 67. Bf2 d4 68. f5 d3 69. Be3 Ne5+ 70. Kf6 Nc4 71. Bf4 Kxc5 72. Kg7
+d2 73. Bxd2 Nxd2 74. f6 Ne4 75. f7 Nxg3 76. f8=Q+ Kd5 77. Qf4 Ne4 78. Qxg4 Ke5
+79. Qh5+ Kf4 80. Qe2 Ng3 81. Qf1+ Ke4 82. Qg1 Kf4 83. Kf6 Ne4+ 84. Kg6 1-0
+

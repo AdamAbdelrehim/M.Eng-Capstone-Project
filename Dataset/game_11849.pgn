@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "LadySea"]
+[Black "EnisMetin"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/w1u1srRY"]
+[WhiteElo "2497"]
+[BlackElo "2544"]
+[ECO "E46"]
+[Opening "Nimzo-Indian Defense: Reshevsky Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:07:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 b6 6. a3 Be7 7. d5 a5 8. Ng3 Na6
+9. Be2 Nc5 10. O-O d6 11. e4 e5 12. Be3 Re8 13. b4 axb4 14. axb4 Rxa1 15. Qxa1
+Nb3 16. Qd1 Nd4 17. Bxd4 exd4 18. Qxd4 Nd7 19. f4 Bf6 20. Qd3 Ba6 21. Nb5 g6
+22. Rd1 Qe7 23. Nxc7 1-0
+

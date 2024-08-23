@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sparrow1"]
+[Black "Chessdraft"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/xgQXe5pa"]
+[WhiteElo "2543"]
+[BlackElo "2383"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Lasker-Dunne Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:08:12"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 c5 2. g3 Nc6 3. Bg2 g6 4. Ne2 Bg7 5. O-O d6 6. d3 Rb8 7. h4 Nf6 8. a4 Bg4
+9. f3 Bd7 10. Be3 e5 11. Qc1 h5 12. Nd2 Be6 13. b3 O-O 14. c4 Nd4 15. Nxd4 cxd4
+16. Bg5 Qc7 17. Kh2 Nd7 18. Nb1 Nc5 19. Qc2 a5 20. Na3 f6 21. Bd2 Rbe8 22. Nb5
+Qe7 23. Bxa5 f5 24. Bd2 f4 25. Be1 Bh6 26. Kh1 fxg3 27. Bxg3 Bf4 28. Be1 Be3
+29. b4 Nd7 30. f4 exf4 31. Nc7 Ne5 32. Nxe8 Rxe8 33. Qe2 Bg4 34. Bf3 Nxf3 35.
+Rxf3 Kh7 36. Qg2 Qe6 37. a5 Rg8 38. b5 g5 39. a6 bxa6 40. bxa6 gxh4 41. a7 h3
+42. Qf1 Qg6 43. Rxe3 dxe3 44. a8=Q Bf3+ 45. Kh2 Bg2 46. Qxg8+ Kxg8 47. Qxf4
+Bxe4 48. Qxe4 1-0
+

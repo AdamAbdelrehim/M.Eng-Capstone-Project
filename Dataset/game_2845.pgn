@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "KarolM2"]
+[Black "sparrow1"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/124NvUgq"]
+[WhiteElo "2413"]
+[BlackElo "2580"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:26:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. d4 c6 2. c4 b5 3. cxb5 cxb5 4. e4 b4 5. Nf3 a5 6. Be3 e6 7. Nbd2 Nf6 8. Rc1
+Be7 9. Bd3 Ba6 10. Qe2 O-O 11. O-O Bxd3 12. Qxd3 d5 13. e5 Nfd7 14. Rc2 Nb6 15.
+b3 a4 16. Rfc1 axb3 17. axb3 N8d7 18. Qb5 h6 19. h3 Qb8 20. Rc7 Rd8 21. Ne1 Ra7
+22. R7c6 Rb7 23. Qe2 Rc8 24. Rxc8+ Nxc8 25. Qa6 Rc7 26. Rxc7 Qxc7 27. Nd3 Na7
+28. Kh2 Bf8 29. h4 Nc6 30. h5 Ndb8 31. Qb5 Qd8 32. g3 Qd7 33. Nc5 Qa7 34. Nf3
+Bxc5 35. dxc5 Qa6 36. Qxa6 Nxa6 37. g4 Na5 38. Nd2 Nb7 39. c6 Na5 40. c7 Nxc7
+41. Bb6 Nxb3 42. Nxb3 Nb5 43. Bc5 Nc3 44. Bxb4 Nb5 45. Kg3 g6 46. f4 gxh5 47.
+gxh5 Kg7 48. Kg4 f6 49. Be7 fxe5 50. fxe5 Kf7 51. Bc5 Nc3 52. Be3 1-0
+

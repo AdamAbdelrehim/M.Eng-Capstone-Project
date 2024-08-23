@@ -1,0 +1,22 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/jaI6pU5N"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "SchachSchneider"]
+[Black "Joqat"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/gWbXdi66"]
+[WhiteElo "2526"]
+[BlackElo "2344"]
+[ECO "D16"]
+[Opening "Slav Defense: Soultanbeieff Variation"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:12:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. c4 c6 2. Nf3 d5 3. d4 Nf6 4. Nc3 dxc4 5. a4 e6 6. e3 c5 7. Bxc4 Nc6 8. O-O
+cxd4 9. exd4 Be7 10. d5 Nxd5 11. Nxd5 exd5 12. Qxd5 1/2-1/2
+

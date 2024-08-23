@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Bismarkbhobhojani"]
+[Black "QuantGuy"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/zFDDU6Zb"]
+[WhiteElo "2346"]
+[BlackElo "2518"]
+[ECO "C77"]
+[Opening "Ruy Lopez: Morphy Defense, Anderssen Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:12:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+9"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. O-O h6 8. c3 d6
+9. Be3 Bxe3 10. fxe3 O-O 11. Qe2 Na5 12. Bc2 c5 13. Nbd2 Nc6 14. a4 b4 15. Bb3
+Na5 16. Bc2 Rb8 17. d4 bxc3 18. bxc3 Rb2 19. Qd1 Nd7 20. Kh1 Re8 21. Bd3 Nf8
+22. Qc1 Qb6 23. Nc4 Nxc4 24. Bxc4 Be6 25. Bb5 Rxb5 26. axb5 axb5 27. Qa3 Bc4
+28. Rfe1 b4 29. cxb4 cxb4 30. Qa5 Qb7 31. Rec1 Be2 32. dxe5 Qxe4 33. Ne1 Rxe5
+34. Qa8 Qf5 35. Qb8 Qf1# 0-1
+

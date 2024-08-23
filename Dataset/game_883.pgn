@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sammartin1"]
+[Black "VitaliySnatenkov"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/XbQQe9P9"]
+[WhiteTitle "NM"]
+[WhiteElo "2482"]
+[BlackElo "2502"]
+[ECO "D01"]
+[Opening "Rapport-Jobava System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "05:07:34"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bf4 Bf5 4. e3 e6 5. Bd3 Bd6 6. Bg3 O-O 7. Nf3 a6 8. O-O
+Bxd3 9. Qxd3 Nbd7 10. e4 dxe4 11. Nxe4 Nxe4 12. Qxe4 Bxg3 13. fxg3 c6 14. c3
+Nf6 15. Qe2 Nd5 16. Ne5 f6 17. Nd3 Qe7 18. Rae1 Rae8 19. Nc5 e5 20. Qc4 Kh8 21.
+dxe5 fxe5 22. Rxf8+ Rxf8 23. Ne4 Qf7 24. Qc5 Kg8 25. h3 h6 26. c4 Nf6 27. Qxe5
+Qxc4 28. b3 Qb5 29. Nxf6+ Rxf6 30. Qe8+ Kh7 31. Qe4+ Qf5 32. Qxf5+ Rxf5 33. Re7
+Rb5 34. Kf2 a5 35. Re4 Kg6 36. Ke3 Kf6 37. Kd4 Rb4+ 38. Ke3 Rxe4+ 39. Kxe4 Ke6
+40. Kd4 b6 41. g4 g5 42. g3 Kd6 43. h4 b5 44. a4 bxa4 45. bxa4 c5+ 46. Kc4 Kc6
+47. h5 Kd6 48. Kb5 Kd5 49. Kxa5 c4 50. Kb6 Kd4 51. a5 c3 52. a6 c2 53. a7 c1=Q
+54. a8=Q Qb2+ 55. Kc7 Qc3+ 56. Kd8 1-0
+

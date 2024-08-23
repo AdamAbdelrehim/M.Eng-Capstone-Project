@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.07"]
+[Round "-"]
+[White "SorryFeather"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r5k1/pp4pp/4B3/2p1P1P1/2P5/4qr2/P6P/5R1K b - -"]
+[Timezone "UTC"]
+[ECO "C45"]
+[ECOUrl "https://www.chess.com/openings/Scotch-Game-3...exd4-4.Nxd4-Nxd4-5.Qxd4"]
+[UTCDate "2021.03.07"]
+[UTCTime "21:54:01"]
+[WhiteElo "915"]
+[BlackElo "896"]
+[TimeControl "60"]
+[Termination "SorryFeather won on time"]
+[StartTime "21:54:01"]
+[EndDate "2021.03.07"]
+[EndTime "21:56:03"]
+[Link "https://www.chess.com/game/live/8893030587"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.9] }
+2... Nc6 { [%clk 0:00:59.2] } 3. d4 { [%clk 0:00:59.8] } 3... exd4
+{ [%clk 0:00:57.7] } 4. Nxd4 { [%clk 0:00:59.7] } 4... Nxd4
+{ [%clk 0:00:56.9] } 5. Qxd4 { [%clk 0:00:59.6] } 5... Nf6 { [%clk 0:00:55.2] }
+6. c4 { [%clk 0:00:58.2] } 6... d6 { [%clk 0:00:53.9] } 7. Bg5
+{ [%clk 0:00:57.7] } 7... Be7 { [%clk 0:00:52.1] } 8. Nc3 { [%clk 0:00:56.4] }
+8... O-O { [%clk 0:00:52] } 9. g3 { [%clk 0:00:54.7] } 9... c5
+{ [%clk 0:00:48.5] } 10. Qd3 { [%clk 0:00:50.5] } 10... Bg4
+{ [%clk 0:00:47.6] } 11. Bg2 { [%clk 0:00:49.1] } 11... Nh5
+{ [%clk 0:00:41.3] } 12. Nd5 { [%clk 0:00:40] } 12... Bxg5 { [%clk 0:00:38.1] }
+13. O-O { [%clk 0:00:33.6] } 13... Bh6 { [%clk 0:00:29.5] } 14. f3
+{ [%clk 0:00:33] } 14... Bd7 { [%clk 0:00:24.3] } 15. g4 { [%clk 0:00:32.3] }
+15... Nf4 { [%clk 0:00:22.4] } 16. Qe3 { [%clk 0:00:28.6] } 16... Nh3+
+{ [%clk 0:00:16.1] } 17. Bxh3 { [%clk 0:00:21.8] } 17... Bxe3+
+{ [%clk 0:00:16] } 18. Nxe3 { [%clk 0:00:18.6] } 18... Qb6 { [%clk 0:00:13.4] }
+19. Rad1 { [%clk 0:00:17.4] } 19... Qxb2 { [%clk 0:00:11.5] } 20. Rxd6
+{ [%clk 0:00:16.5] } 20... Be6 { [%clk 0:00:07.7] } 21. Rxe6
+{ [%clk 0:00:15.2] } 21... fxe6 { [%clk 0:00:06.1] } 22. e5
+{ [%clk 0:00:13.9] } 22... Qd4 { [%clk 0:00:03.7] } 23. g5 { [%clk 0:00:11.4] }
+23... Qxe3+ { [%clk 0:00:02.2] } 24. Kh1 { [%clk 0:00:11.1] } 24... Rxf3
+{ [%clk 0:00:00.3] } 25. Bxe6+ { [%clk 0:00:10.5] } 1-0
+

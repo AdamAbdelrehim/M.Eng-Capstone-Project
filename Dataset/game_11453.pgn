@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "statham_13"]
+[Black "sushila1"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Ij9j7Kha"]
+[WhiteElo "2729"]
+[BlackElo "2780"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Mengarini Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:11:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. e4 c5 2. a3 e6 3. b4 cxb4 4. axb4 Bxb4 5. Bb2 Nf6 6. e5 Nd5 7. c4 Nb6 8. Ra3
+Nc6 9. Rg3 g6 10. Nf3 Ne7 11. Bd3 Nf5 12. Bxf5 gxf5 13. O-O Qc7 14. d3 Qc6 15.
+Nd4 Qa4 16. Qh5 Qa2 17. Bc3 Be7 18. Nb5 Rf8 19. Nd6+ Kd8 20. Nd2 Na4 21. Bd4
+Qxd2 22. Be3 Qb2 23. d4 Nc3 24. Kh1 Ne2 25. Rg7 Nxd4 26. Rxf7 Rxf7 27. Qxf7 Nc6
+28. Nb5 Qb4 29. Bg5 Bxg5 30. Qg8+ Ke7 31. Qg7+ Ke8 32. Nd6+ Qxd6 33. exd6 h6
+34. Qg8# 1-0
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "templario77"]
+[Black "AyYapim"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/BgbUX3t3"]
+[WhiteElo "2519"]
+[BlackElo "2407"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:32:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+
+1. e4 c5 2. Nc3 e6 3. Nge2 d5 4. exd5 exd5 5. d4 cxd4 6. Nxd4 Nc6 7. g3 Nxd4 8.
+Qxd4 Be6 9. Bg2 Rc8 10. O-O Bc5 11. Qxg7 Qf6 12. Bh6 Bd4 13. Qf8+ Kd7 14. Qb4
+Bxc3 15. bxc3 Nxh6 16. Qxb7+ Rc7 17. Qb5+ Ke7 18. Bxd5 Rhc8 19. Rfe1 Rc5 20.
+Qb4 a5 21. Qa3 Qxc3 22. Qxc3 Rxc3 23. Bxe6 fxe6 24. Rab1 Rxc2 25. Rb6 R8c6 26.
+Rb7+ Rc7 27. Rb6 R7c6 28. Rb7+ Kf6 29. Rxh7 Nf5 30. a4 Ra2 31. Re4 Rcc2 32. Rf4
+e5 33. Rf3 Kg6 34. Ra7 e4 35. Rf4 e3 36. Ra6+ Kg5 37. Rxa5 exf2+ 38. Kf1 Rc1+
+39. Kg2 f1=Q# 0-1
+

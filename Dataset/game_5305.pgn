@@ -1,0 +1,25 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/oNUIaDtp"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Evgeniy_Michshenko"]
+[Black "Artyom-Odegov"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ia8stk5K"]
+[BlackTitle "FM"]
+[WhiteElo "2519"]
+[BlackElo "2567"]
+[ECO "E91"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:53:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+8"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. e4 d6 6. Be2 Re8 7. h3 Nc6 8. Be3
+e5 9. dxe5 Nxe5 10. Nxe5 Rxe5 11. Qc2 Qe8 12. O-O-O Nxe4 13. Bf3 Nxc3 14. Qxc3
+Bf5 15. Qb3 b5 16. Bxa8 Qxa8 17. g4 Be4 18. Rhe1 Bf3 19. Rd2 Qc6 20. Kb1 bxc4
+21. Qc2 Be4 0-1
+

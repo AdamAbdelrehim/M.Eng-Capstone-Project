@@ -1,0 +1,37 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "schaakam"]
+[Black "nicoderboss"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/5mTCUoEA"]
+[WhiteElo "2653"]
+[BlackElo "2604"]
+[ECO "D77"]
+[Opening "Neo-Grünfeld Defense: Classical Variation, Modern Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:07:21"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d4 d5 6. c4 dxc4 7. Na3 c6 8. Nxc4
+Ne4 9. a4 Nd7 10. a5 Ndf6 11. Nfe5 Nd6 12. a6 Nxc4 13. Nxc4 bxa6 14. Bxc6 Rb8
+15. Bf4 Rb4 16. b3 Nd5 17. Bd2 Rb8 18. e4 Nb6 19. e5 Nxc4 20. bxc4 Qxd4 21. Be3
+Qxc4 22. Rc1 Qe6 23. Bxa7 Rb2 24. Bd4 Ra2 25. Ba1 Qg4 26. Bf3 Qa4 27. Qd5 Be6
+28. Qb7 Qb3 29. Rb1 Qxb7 30. Rxb7 Rc8 31. Rxe7 Bf8 32. Ra7 Bc5 33. Ra8 Rxa8 34.
+Bxa8 Bxf2+ 35. Rxf2 Rxa1+ 36. Kg2 Re1 37. Bb7 a5 38. Rd2 Rxe5 39. Rd8+ Kg7 40.
+Ra8 Rc5 41. Bf3 Bd5 42. Bxd5 Rxd5 43. h4 h5 44. Kf3 Rb5 45. Kf4 Rb4+ 46. Kf3
+Ra4 47. Ra6 Ra3+ 48. Kg2 Ra1 49. Kh3 a4 50. Kg2 a3 51. Kh2 a2 52. Kg2 Kf8 53.
+Kh2 Ke7 54. Ra7+ Ke6 55. Ra8 Kf5 56. Kg2 f6 57. Ra5+ Ke4 58. Ra4+ Ke3 59. Ra8
+Ke2 60. Re8+ Kd1 61. Rd8+ Ke1 62. Re8+ Kd2 63. Rd8+ Kc3 64. Rc8+ Kd4 65. Rd8+
+Kc5 66. Rc8+ Kd6 67. Ra8 Kc7 68. Ra3 Kb7 69. Ra4 Kb6 70. Ra3 Kb5 71. Ra8 Kb4
+72. Rb8+ Ka3 73. Ra8+ Kb2 74. Rb8+ Kc3 75. Rc8+ Kd4 76. Rd8+ Ke5 77. Re8+ Kd6
+78. Ra8 f5 79. Ra3 Kc5 80. Ra5+ Kd4 81. Ra3 Ke4 82. Ra8 Ke3 83. Re8+ Kd2 84.
+Ra8 Ke1 85. Re8+ Kd1 86. Ra8 Rc1 87. Rxa2 Rc4 88. Rf2 Rg4 89. Kf3 Ke1 90. Rg2
+Kf1 91. Ra2 Ke1 92. Ra1+ Kd2 93. Ra2+ Kd3 94. Ra3+ Kd4 95. Ra4+ Ke5 96. Ra5+
+Kf6 97. Ra6+ Kg7 98. Ra7+ Kh6 99. Ra8 f4 100. Ra7 fxg3 101. Kg2 Rxh4 102. Kxg3
+Rg4+ 0-1
+

@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "simbelmyne-bot"]
+[Black "ChessatronBot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/32ynv7d3"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2552"]
+[BlackElo "2446"]
+[ECO "A09"]
+[Opening "Réti Opening"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:35:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. Nf3 d5 2. c4 b6 3. cxd5 Qxd5 4. Nc3 Qd8 5. d4 Bb7 6. e4 Nd7 7. d5 c6 8. Bf4
+a6 9. Be2 cxd5 10. Nxd5 Bxd5 11. exd5 Ngf6 12. O-O Nc5 13. b4 Nce4 14. Qc2 Nd6
+15. Qc6+ Nd7 16. Rfe1 g6 17. Bd3 Nf5 18. Rac1 Ra7 19. Bxf5 gxf5 20. Nd4 Bg7 21.
+Nxf5 O-O 22. Nxe7+ Kh8 23. Nc8 Bb2 24. Nxa7 Bxc1 25. Bxc1 Re8 26. Bb2+ f6 27.
+Rxe8+ Qxe8 28. Bxf6+ Nxf6 29. Qxf6+ Kg8 30. Qe6+ Kf8 31. Qxe8+ Kxe8 32. b5 a5
+33. Nc8 Kd7 34. Nxb6+ Kd6 35. Na4 Kxd5 36. f4 h5 37. b6 Kc6 38. f5 Kd6 39. f6
+Ke6 40. h4 Kd7 41. b7 Ke6 42. b8=Q Kxf6 43. Qb6+ Kg7 44. Qc5 Kg6 45. Qxa5 Kh6
+46. Qg5+ Kh7 47. g4 hxg4 48. h5 Kh8 49. h6 Kh7 50. Qg7# 1-0
+

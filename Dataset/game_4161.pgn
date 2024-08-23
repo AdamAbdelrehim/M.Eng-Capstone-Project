@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Premier09"]
+[Black "SevanB"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/WnQ70H6H"]
+[BlackTitle "IM"]
+[WhiteElo "2553"]
+[BlackElo "2563"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game: Modern Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:28:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. d4 g6 2. c4 Bg7 3. e4 c5 4. d5 d6 5. Nf3 e6 6. Bd3 Ne7 7. dxe6 Bxe6 8. O-O
+Nbc6 9. Nc3 O-O 10. Bf4 h6 11. Be2 Qb6 12. Rb1 g5 13. Bg3 Rad8 14. Nd5 Qa5 15.
+a3 f5 16. exf5 Nxf5 17. b4 cxb4 18. axb4 Qa3 19. Nc7 Bf7 20. Nb5 Qa2 21. Qd3
+Bg6 22. Rb3 Nxg3 23. Qxg6 Nxe2+ 24. Kh1 0-1
+

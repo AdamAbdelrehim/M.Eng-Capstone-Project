@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "DanielaAndrade"]
+[Black "SevanB"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/XTdc3wGk"]
+[BlackTitle "IM"]
+[WhiteElo "2512"]
+[BlackElo "2560"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:33:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 c5 2. d3 Nc6 3. f4 d5 4. e5 h5 5. Be2 h4 6. c3 Nh6 7. Nh3 Nf5 8. Bg4 g6
+9. Qe2 Qb6 10. Qf2 d4 11. Ng5 Bh6 12. Ne4 Be6 13. Na3 O-O-O 14. Nc4 Bxc4 15.
+dxc4 Kb8 16. O-O f6 17. exf6 exf6 18. Nxf6 Nce7 19. Ne4 Rhf8 20. Bd2 Qxb2 21.
+Rfb1 Qc2 22. Nxc5 dxc3 23. Rxb7+ Ka8 24. Bf3 Rxd2 25. Na6 Nd5 26. Qxa7# 1-0
+

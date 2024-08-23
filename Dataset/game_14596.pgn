@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "satlan"]
+[Black "Yio05"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/yNDoyIZO"]
+[WhiteElo "2694"]
+[BlackElo "2499"]
+[ECO "B76"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:40:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O Nxd4 10. Bxd4 Be6 11. h4 Qa5 12. a3 Rfc8 13. h5 Rab8 14. hxg6 hxg6
+15. g4 b5 16. g5 Nh5 17. Bxg7 Kxg7 18. Qd4+ Kg8 19. Nd5 Bxd5 20. exd5 b4 21.
+Rxh5 gxh5 22. g6 bxa3 23. gxf7+ Kxf7 24. b3 Qc3 0-1
+

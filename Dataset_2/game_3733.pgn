@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.02.23"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "dammagen"]
+[Result "1-0"]
+[CurrentPosition "rn1Q1b1r/p1p1nkp1/5p2/1p2p2p/4P1b1/2N2N1P/PPP2PP1/R1B2RK1 b - -"]
+[Timezone "UTC"]
+[ECO "C40"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Damiano-Defense"]
+[UTCDate "2022.02.23"]
+[UTCTime "03:07:26"]
+[WhiteElo "1343"]
+[BlackElo "1131"]
+[TimeControl "180"]
+[Termination "AdamAbdelrehim won - game abandoned"]
+[StartTime "03:07:26"]
+[EndDate "2022.02.23"]
+[EndTime "03:09:04"]
+[Link "https://www.chess.com/game/live/39324570669"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:02:58.9] } 2. Nf3
+{ [%clk 0:02:51.5] } 2... f6 { [%clk 0:02:49.5] } 3. Bc4 { [%clk 0:02:50.4] }
+3... d6 { [%clk 0:02:46.2] } 4. d4 { [%clk 0:02:48.3] } 4... Ne7
+{ [%clk 0:02:43.4] } 5. dxe5 { [%clk 0:02:40.7] } 5... dxe5
+{ [%clk 0:02:41.8] } 6. Nc3 { [%clk 0:02:38.9] } 6... Bg4 { [%clk 0:02:39.8] }
+7. O-O { [%clk 0:02:33] } 7... h5 { [%clk 0:02:37.8] } 8. h3
+{ [%clk 0:02:30.9] } 8... b5 { [%clk 0:02:31.1] } 9. Bf7+ { [%clk 0:02:29.8] }
+9... Kxf7 { [%clk 0:02:29.3] } 10. Qxd8 { [%clk 0:02:28.4] } 1-0
+

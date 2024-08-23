@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "QuantGuy"]
+[Black "Terminator1977"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/KfwytWq7"]
+[WhiteElo "2533"]
+[BlackElo "2402"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:03:55"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-26"]
+[BlackRatingDiff "+8"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 a6 8. Ne2 b5
+9. h4 cxd4 10. Nexd4 Nxd4 11. Nxd4 Bc5 12. Be2 Qb6 13. h5 h6 14. Qd2 b4 15.
+O-O-O a5 16. Rh3 Ba6 17. Rg3 Kf8 18. f5 Bxe2 19. Qxe2 Bxd4 20. Bxd4 Qc6 21. Qg4
+Rg8 22. f6 g5 23. hxg6 Rxg6 24. Qh4 Rc8 25. c3 Rxg3 26. Qxg3 bxc3 27. Bxc3 Qc4
+28. Kb1 Qe4+ 29. Ka1 Qc2 30. Rh1 d4 31. Qg7+ Ke8 0-1
+

@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "CaptainBucko"]
+[Black "Beschuetzer"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/8j4ltv0J"]
+[WhiteElo "2508"]
+[BlackElo "2350"]
+[ECO "A56"]
+[Opening "Benoni Defense: Hromádka System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:55:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Bd3 O-O 7. Nf3 e6 8. h3 exd5
+9. cxd5 Re8 10. Be3 Na6 11. Bxa6 bxa6 12. Nd2 Rb8 13. Qc2 Rb4 14. a3 Rb8 15.
+O-O Nd7 16. Rab1 Ne5 17. b4 cxb4 18. axb4 f5 19. Rfc1 Qh4 20. Bxa7 Rb7 21. Bd4
+f4 22. Bxe5 Bxe5 23. Nf3 Qf6 24. Nxe5 Qxe5 25. Qd3 Bd7 26. Qxa6 Rc7 27. Qd3
+Rec8 28. Ne2 Rxc1+ 29. Rxc1 Rxc1+ 30. Nxc1 Qa1 31. Qc4 f3 32. Kh2 fxg2 33. Kxg2
+Qe5 34. Qd3 Qg5+ 35. Qg3 Qxc1 36. Qxd6 Qg5+ 37. Qg3 Qf6 38. f4 Qb2+ 39. Qf2
+Qxb4 40. Qe3 Bb5 41. Kg3 Qb1 42. e5 Qg1+ 43. Qxg1 Bd7 44. Qd4 Bf5 45. d6 Bd7
+46. Qc5 Kf7 47. Qc7 Ke6 48. Qd8 Bc6 49. Qe7+ Kd5 50. d7 Bxd7 51. Qxd7+ Ke4 52.
+Qe7 Kf5 53. Qf6+ Ke4 54. e6 g5 55. e7 gxf4+ 56. Qxf4+ Kd5 57. Qf7+ Kc6 58.
+e8=Q+ Kb6 59. Qfd7 Kc5 60. Qec8+ Kb4 61. Qdb7+ Ka3 62. Qca8# 1-0
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Heisenberg01"]
+[Black "SHINZOUWOSASAGEYO"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/RNCR1bkd"]
+[WhiteTitle "FM"]
+[WhiteElo "2798"]
+[BlackElo "2644"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "23:14:36"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. b3 a5 2. Bb2 a4 3. b4 a3 4. Nxa3 e5 5. Nc4 e4 6. a3 d5 7. Na5 Nf6 8. e3 Bd6
+9. c4 O-O 10. cxd5 Nxd5 11. Nc4 Nc6 12. Ne2 Bg4 13. Qc2 Ndxb4 14. axb4 Nxb4 15.
+Qxe4 Re8 16. Qb1 Qd7 17. Nd4 Bc5 18. Rxa8 Rxa8 19. Be2 Bxd4 20. Bxd4 Bxe2 21.
+Kxe2 Qg4+ 22. Kf1 c5 23. h3 Qe6 24. Qb3 cxd4 25. Kg1 dxe3 26. dxe3 b5 27. Qxb4
+bxc4 28. Kh2 Qe5+ 29. g3 c3 30. Rc1 Rc8 31. Qb7 Qc5 32. Rc2 h5 33. h4 Qf5 34.
+e4 Qc5 35. Kg2 g6 36. Qd5 Qb4 37. e5 Rc5 38. Qd8+ Kh7 39. e6 Qe4+ 40. Kg1 Qxc2
+41. exf7 Qb1+ 42. Kg2 Qb7+ 43. Kh2 Qxf7 44. Qd4 Rf5 45. f4 c2 46. Qc3 Qa2 47.
+Qc7+ Rf7 48. Kh3 c1=Q 49. Qxf7+ Qxf7 50. g4 Qf5 51. gxf5 1-0
+

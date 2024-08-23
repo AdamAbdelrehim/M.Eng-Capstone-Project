@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "ItwasBarzini"]
+[Black "reboare"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/0auXJH1o"]
+[WhiteElo "2572"]
+[BlackElo "2391"]
+[ECO "B07"]
+[Opening "Modern Defense: Geller's System"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "01:31:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+
+1. e4 g6 2. d4 Bg7 3. c3 d6 4. Nf3 Nc6 5. Be2 e5 6. dxe5 Nxe5 7. Nxe5 dxe5 8.
+Qxd8+ Kxd8 9. Na3 c6 10. Bg5+ f6 11. Bh4 Be6 12. Nc4 Kc7 13. a4 b6 14. f3 Ne7
+15. Bf2 Rhd8 16. b4 Rd7 17. O-O Rad8 18. Be3 g5 19. b5 Ng6 20. g3 h5 21. a5
+bxa5 22. Rxa5 cxb5 23. Rxa7+ Kb8 24. Na5 Rxa7 25. Bxa7+ Kc7 26. Rb1 Ra8 27.
+Bb6+ Kxb6 28. Rxb5+ Kc7 29. Rb7+ Kd6 30. Rxg7 Rxa5 31. Rxg6 Ke7 32. Rg7+ Kf8
+33. Rc7 Ra1+ 34. Kf2 Rc1 35. h4 gxh4 36. gxh4 Rc2 37. Ke3 Bf7 38. c4 Ke8 39. c5
+Ba2 40. Bb5+ Kd8 41. Rd7+ Kc8 42. c6 Bc4 43. Ba4 Re2# 0-1
+

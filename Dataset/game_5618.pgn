@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "DarkKnight97"]
+[Black "vistagausta"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/O1LWeSrS"]
+[WhiteTitle "GM"]
+[WhiteElo "2626"]
+[BlackElo "2873"]
+[ECO "B88"]
+[Opening "Sicilian Defense: Sozin Attack, Leonhardt Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:29:50"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 e6 7. Bg5 h6 8. Bh4
+Be7 9. Nxc6 bxc6 10. Qe2 d5 11. O-O-O O-O 12. Bb3 Nxe4 13. Nxe4 Bxh4 14. f4 a5
+15. a4 Qc7 16. Qg4 Be7 17. Ng3 Rb8 18. Rd3 Rb4 19. Rf1 e5 20. Qe2 e4 21. Rdd1
+Qb6 22. Nh5 g6 23. Ng3 Ba6 24. Qg4 Bxf1 25. Rxf1 Rxb3 26. cxb3 Rb8 27. Nf5 Bf8
+28. h4 Qxb3 29. Rf2 Qxa4 30. Kb1 h5 31. Qg5 Qd1+ 32. Ka2 Rb4 0-1
+

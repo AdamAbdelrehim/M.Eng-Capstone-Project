@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "BolvanBolvan"]
+[Black "raz_dwa_tri"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/c8PP1WLu"]
+[BlackTitle "FM"]
+[WhiteElo "2578"]
+[BlackElo "2511"]
+[ECO "A43"]
+[Opening "Benoni Defense: Old Benoni"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:38:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 c5 2. d5 d6 3. Nf3 e6 4. dxe6 Bxe6 5. e4 Nf6 6. Nc3 Nc6 7. Bg5 Be7 8. Qd2
+h6 9. Bh4 O-O 10. O-O-O Nxe4 11. Nxe4 Bxh4 12. Nxh4 Qxh4 13. Nxd6 Rad8 14. Qe3
+Qa4 15. a3 Nd4 16. Rxd4 cxd4 17. Qe5 Qc6 18. Ne4 d3 19. Nc3 d2+ 20. Kd1 Rfe8
+21. Be2 Qb6 0-1
+

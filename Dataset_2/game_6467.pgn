@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.22"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "brandonpeate"]
+[Result "1-0"]
+[CurrentPosition "r1b1kbnr/ppN2ppp/2npq3/4p3/2B1P3/5N2/PPPP1PPP/R1BQK2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game"]
+[UTCDate "2022.10.22"]
+[UTCTime "17:54:28"]
+[WhiteElo "1840"]
+[BlackElo "612"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "17:54:28"]
+[EndDate "2022.10.22"]
+[EndTime "17:55:27"]
+[Link "https://www.chess.com/game/live/60200398974"]
+
+1. e4 { [%clk 0:09:59.8] } 1... e5 { [%clk 0:09:56.6] } 2. Nf3
+{ [%clk 0:09:58.6] } 2... Nc6 { [%clk 0:09:50.2] } 3. Bc4 { [%clk 0:09:57] }
+3... Qf6 { [%clk 0:09:41.7] } 4. Nc3 { [%clk 0:09:48.9] } 4... d6
+{ [%clk 0:09:31.7] } 5. Nd5 { [%clk 0:09:45.5] } 5... Qe6 { [%clk 0:09:21.3] }
+6. Nxc7+ { [%clk 0:09:42.7] } 1-0
+

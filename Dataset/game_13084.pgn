@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Prebranac"]
+[Black "Alex_Lidsky"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/acBKWckM"]
+[WhiteElo "2366"]
+[BlackElo "2506"]
+[ECO "A43"]
+[Opening "Benoni Defense: Old Benoni"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:55:17"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. d4 c5 2. c3 cxd4 3. cxd4 g6 4. Nc3 Bg7 5. g3 d5 6. Bg2 Nf6 7. e3 O-O 8. Nge2
+Nc6 9. O-O Bg4 10. f3 Bf5 11. e4 dxe4 12. fxe4 Bg4 13. e5 Nd7 14. h3 Bxe2 15.
+Nxe2 Qb6 16. Kh2 Rad8 17. Qb3 Nxd4 18. Qxb6 Nxb6 19. Nxd4 Rxd4 20. Bxb7 Bxe5
+21. Be3 Rd3 22. Rae1 Bd6 23. Bh6 Rb8 24. Bf3 Nc4 25. b3 Nd2 26. Bxd2 Rxd2+ 27.
+Re2 Rxe2+ 28. Bxe2 Rd8 29. Bc4 e6 30. Kg2 Bc7 31. Rf2 Bb6 32. Re2 Rd1 33. g4 h6
+34. a3 Ra1 35. a4 Kf8 36. Rd2 Ke7 37. Bb5 a5 38. h4 Bc5 39. g5 hxg5 40. hxg5
+Rg1+ 41. Kh2 Rxg5 42. Rd7+ Kf6 43. Rc7 Bd6+ 0-1
+

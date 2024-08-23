@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Squatland"]
+[Black "mdynl123"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/WIpzAihJ"]
+[BlackTitle "FM"]
+[WhiteElo "2558"]
+[BlackElo "2499"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:27:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 h5 7. g3 e6 8. Bg2
+Qc7 9. O-O Bd7 10. Be3 Nc6 11. f4 Be7 12. Qd2 O-O 13. Rad1 Nxd4 14. Bxd4 Bc6
+15. Qe2 h4 16. g4 e5 17. Be3 exf4 18. Bxf4 Nd7 19. Qf2 Ne5 20. Ne2 Rac8 21. Nd4
+Bd7 22. c3 b5 23. Nf5 Bxf5 24. exf5 Nc4 25. Bd5 Qc5 26. Rd4 Bf6 27. Rfd1 Bxd4
+28. Rxd4 Ne5 29. g5 g6 30. f6 Rce8 31. Qxh4 Qxd4+ 32. cxd4 1-0
+

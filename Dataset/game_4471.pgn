@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "anonymousblitz"]
+[Black "AnythingButAverage"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/HownwPtE"]
+[WhiteElo "2784"]
+[BlackElo "2930"]
+[ECO "C78"]
+[Opening "Ruy Lopez: Morphy Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:13:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. d3 d6 8. c3 h6
+9. Re1 O-O 10. Nbd2 Bb6 11. Nf1 Ne7 12. d4 Ng6 13. Ng3 c5 14. dxe5 dxe5 15. Be3
+Qc7 16. h3 c4 17. Bc2 Bxe3 18. Rxe3 Be6 19. a4 Nf4 20. Re1 Rfd8 21. Qc1 g6 22.
+Ra3 Kg7 23. Qa1 Bxh3 24. gxh3 Qc8 25. Nf5+ gxf5 26. exf5 Qc6 27. Re3 Kh7 28.
+Kf1 Nxh3 29. axb5 axb5 30. Ra7 Rxa7 31. Qxa7 Rd7 32. Qb8 Rd2 33. Nxd2 Qh1+ 34.
+Ke2 Nf4# 0-1
+

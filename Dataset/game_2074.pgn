@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Strategistas"]
+[Black "Asabiyaa"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/9gd6H8kX"]
+[WhiteElo "2384"]
+[BlackElo "2563"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:38:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. e4 g6 2. d4 Bg7 3. c3 d6 4. f4 Nf6 5. Bd3 c5 6. d5 O-O 7. Nf3 e6 8. dxe6
+fxe6 9. O-O d5 10. e5 Nh5 11. g3 Nc6 12. Be3 b6 13. Nbd2 Bb7 14. Ng5 Qe7 15.
+Nxh7 Rf5 16. Ng5 d4 17. cxd4 cxd4 18. Bf2 Rxg5 19. fxg5 Nxe5 20. Be4 Bxe4 21.
+Nxe4 Qb7 22. Re1 Rf8 23. Kf1 Nf3 24. Re2 Nxh2+ 25. Ke1 Nf3+ 26. Kf1 Nxg5 27.
+Kg2 Nxe4 0-1
+

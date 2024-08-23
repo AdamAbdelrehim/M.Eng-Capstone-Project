@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "catur8x8"]
+[Black "Shinsei"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/9JRlrMnd"]
+[WhiteElo "2339"]
+[BlackElo "2504"]
+[ECO "A45"]
+[Opening "Trompowsky Attack: Classical Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:59:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. d4 Nf6 2. Bg5 e6 3. Bxf6 gxf6 4. e3 b6 5. g3 Bb7 6. Nf3 h5 7. Bg2 Be7 8. c4
+d5 9. Nh4 f5 10. Nf3 dxc4 11. Qa4+ Kf8 12. Qxc4 c5 13. Nbd2 cxd4 14. exd4 Nd7
+15. O-O h4 16. Nxh4 Bxg2 17. Nxg2 Nf6 18. Nf3 Rc8 19. Qb3 Qd5 20. Qxd5 Nxd5 21.
+Rac1 Kg7 22. Ne3 Nb4 23. a3 Nd3 24. Rb1 f4 25. Ng4 f5 26. Nge5 Nxe5 27. Nxe5
+fxg3 28. hxg3 Rhd8 29. Nf3 Rc2 30. Rfe1 Kf7 31. Re3 Bf6 32. Rbe1 Rd6 33. b4 b5
+34. Rd3 Ra2 35. Ne5+ Bxe5 36. Rxe5 a6 37. Rc5 Kf6 38. Kg2 Rd5 39. Rc6 Rc2 40.
+Rxc2 1-0
+

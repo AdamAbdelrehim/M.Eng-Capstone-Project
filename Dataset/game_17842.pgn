@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Karlos_ulsk"]
+[Black "ynzj1515"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/NUMagSKi"]
+[WhiteTitle "FM"]
+[WhiteElo "2549"]
+[BlackElo "2589"]
+[ECO "A46"]
+[Opening "Indian Defense: Polish Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:11:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. Nf3 b5 3. a4 b4 4. c4 e6 5. b3 Bb7 6. Bb2 Be7 7. Nbd2 d6 8. Qc2
+Nbd7 9. e4 c5 10. d5 O-O 11. Bd3 Ng4 12. h3 Nge5 13. Nxe5 Nxe5 14. Bxe5 dxe5
+15. O-O Bd6 16. Rae1 Qf6 17. Nf3 Rad8 18. Nh2 h5 19. Re3 Bb8 20. Rf3 Qh6 21.
+Rg3 Bc8 22. Nf3 f5 23. h4 f4 24. Rg5 Rde8 25. Qe2 exd5 26. cxd5 Bd6 27. Qc2 Bg4
+28. Be2 Re7 29. Nh2 Bc8 30. Rxh5 Qg6 31. Rg5 Qh6 32. g3 Ref7 33. Bg4 fxg3 34.
+fxg3 Rxf1+ 35. Nxf1 Bxg4 36. Rxg4 Qf6 37. Qe2 c4 38. bxc4 Bc5+ 39. Kg2 Qf2+ 40.
+Qxf2 Rxf2+ 41. Kh3 Rxf1 42. Rg6 b3 43. Rc6 b2 44. Rc8+ Kh7 45. Rb8 Bb6 46. c5
+b1=Q 47. cxb6 Qxe4 48. bxa7 Rh1# 0-1
+

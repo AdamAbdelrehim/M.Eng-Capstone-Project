@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "sparrow1"]
+[Black "Kassimov_Arnur"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Dz42iby2"]
+[WhiteElo "2550"]
+[BlackElo "2542"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Lasker-Dunne Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:09:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+11"]
+
+1. e4 c5 2. g3 d5 3. f3 e5 4. d3 Be6 5. Be3 Nc6 6. Ne2 d4 7. Bf2 c4 8. Bg2 cxd3
+9. cxd3 Rc8 10. O-O Bd6 11. f4 f6 12. Nd2 Nge7 13. Nf3 h6 14. fxe5 fxe5 15. a3
+O-O 16. b4 a5 17. b5 Nb8 18. a4 Nd7 19. h3 Nc5 20. Rb1 Rc7 21. g4 Nc8 22. Ng3
+Nb6 23. Nf5 Nbxa4 24. Bg3 Nc3 25. Qd2 Bxf5 26. exf5 e4 27. Bxd6 Qxd6 28. dxe4
+N5xe4 29. Qxd4 Ne2+ 0-1
+

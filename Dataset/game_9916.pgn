@@ -1,0 +1,38 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Tuzakli_Egitim"]
+[Black "Melor79"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/aIdTvz23"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[WhiteElo "2822"]
+[BlackElo "2606"]
+[ECO "C70"]
+[Opening "Ruy Lopez: Morphy Defense, Norwegian Variation"]
+[TimeControl "480+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:22:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "-19"]
+[BlackRatingDiff "+15"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Na5 6. O-O d6 7. c3 Nxb3 8. axb3
+Nf6 9. Re1 Bb7 10. d3 a5 11. c4 b4 12. Nbd2 Be7 13. Nf1 O-O 14. Ng3 g6 15. h3
+Re8 16. Bg5 Nd7 17. Be3 Bf6 18. Nh2 Qe7 19. Qd2 Nc5 20. Qc2 Ne6 21. Ra2 Ra6 22.
+Rea1 Rea8 23. Nf3 Nc5 24. Bxc5 dxc5 25. Nf1 h5 26. Ne3 c6 27. Qb1 Bc8 28. Qc2
+Qd6 29. Ra4 Kg7 30. Rd1 Bd8 31. Qe2 R6a7 32. Nf1 Rd7 33. Qe3 Qe7 34. Raa1 Bc7
+35. Ng3 Bb7 36. Rd2 Rf8 37. Rad1 Rdd8 38. Ra1 Rh8 39. Rad1 Bc8 40. Re1 h4 41.
+Nf1 Rh5 42. N1h2 Re8 43. Ng4 Rd8 44. Rde2 f6 45. Rd1 Be6 46. Ra1 Rhh8 47. Ree1
+Qd7 48. Ngh2 Bb6 49. Rad1 Rde8 50. Ra1 Re7 51. Red1 Qd6 52. Nf1 Bc8 53. N1h2
+Rh5 54. Ng4 Bc7 55. Ngh2 Bb6 56. Ne1 f5 57. Nc2 f4 58. Qe2 Re8 59. f3 Be6 60.
+Ne1 Rhh8 61. Kh1 Ra8 62. Ra4 g5 63. Qf2 Kf7 64. Ng4 Ke7 65. Rda1 Bd7 66. Qe2
+Be6 67. Nf2 Bd7 68. Nc2 Be6 69. Rd1 Bd7 70. Raa1 Be6 71. Qe1 Ra7 72. Ra2 Rha8
+73. Rda1 Bc7 74. Kg1 Bb6 75. Kf1 Kd7 76. Ra4 Ke7 77. Qd2 Bd7 78. R4a2 Be6 79.
+Ne1 Bd7 80. Nc2 Be6 81. d4 cxd4 82. Ra4 d3 83. Qxd3 Qc5 84. Qe2 Rd8 85. Ne1
+Rad7 86. Rxa5 Bxa5 87. Ned3 Qe3 88. Rxa5 Rxd3 89. Nxd3 Rxd3 90. Qxe3 fxe3 91.
+Rxe5 Rxb3 92. Ke1 Rxb2 93. f4 gxf4 94. c5 Kf6 95. Rh5 Bc4 96. Rf5+ Ke6 97. Kd1
+Bd3 98. Rxf4 Rb1# 0-1
+

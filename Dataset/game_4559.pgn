@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Chessboy1978"]
+[Black "Chess_diviner"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/8uKS2bGe"]
+[BlackTitle "IM"]
+[WhiteElo "2631"]
+[BlackElo "2636"]
+[ECO "E09"]
+[Opening "Catalan Opening: Closed Variation, Traditional Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:23:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Be7 5. Bg2 O-O 6. O-O Nbd7 7. Qc2 c6 8. Nbd2
+b6 9. e4 dxc4 10. Nxc4 Bb7 11. Bf4 c5 12. Rfe1 cxd4 13. Nxd4 Rc8 14. Qb3 Nc5
+15. Qe3 Ncxe4 16. Ne5 Bc5 17. Rad1 Qe7 18. a3 a5 19. g4 h6 20. h4 Nd6 21. g5
+hxg5 22. hxg5 Nd5 23. Bxd5 Bxd5 24. Qh3 Bxd4 25. Rxd4 Nf5 26. Rxd5 exd5 27.
+Qxf5 f6 28. Nf3 fxg5 29. Qxc8 Qxe1+ 30. Nxe1 Rxc8 31. Bxg5 d4 32. Kf1 Kf7 33.
+Ke2 Ke6 34. Kd3 Kd5 35. Bd2 Rf8 36. f4 Rh8 37. Nf3 Rh3 38. Ke2 Kc4 39. Ne5+ Kb3
+40. Nd7 b5 41. Bxa5 Kxb2 42. Nc5 Kc2 43. Ne4 Re3+ 44. Kf2 Rxe4 45. Kf3 Re8 46.
+Kg4 d3 47. Kg5 d2 48. Bxd2 Kxd2 49. Kg6 Rf8 50. a4 bxa4 51. f5 a3 52. Kg5 a2
+53. Kf4 a1=Q 54. Kg4 Qf6 55. Kh5 Qxf5+ 56. Kh4 Rh8+ 57. Kg3 Rh3+ 58. Kg2 Qf3+
+59. Kg1 Rh1# 0-1
+

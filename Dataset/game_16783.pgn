@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Robotc2354hv0"]
+[Black "BitByByte"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/JRPMbIdg"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2723"]
+[BlackElo "2794"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Three Knights, Vienna Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "03:42:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "+49"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bxc4 Nxe4 7. O-O Nxc3 8.
+bxc3 Bd6 9. Bd3 Nd7 10. Qe2 O-O 11. Qe4 g6 12. Re1 Nf6 13. Qe2 Bd7 14. Ne5 Bc6
+15. c4 Bb4 16. Bg5 h6 17. Be3 Bc3 18. Rab1 Bxd4 19. Bxh6 Re8 20. Bxg6 Bxe5 21.
+Bc2 Bxh2+ 22. Kxh2 Qd4 23. Kh3 e5 24. Rbd1 Bd7+ 25. Kg3 Qg4+ 26. Qxg4+ Bxg4 27.
+Rb1 Bc8 28. f3 a5 29. Rh1 Ra6 30. Rh4 Rd6 31. Rbh1 Rd4 32. R4h2 Rd6 33. c5 Rde6
+34. Kf2 e4 35. Rh3 Kh7 36. Bf8+ Kg6 37. Rh6+ Kf5 38. Bg7 Rd8 39. Bb3 e3+ 40.
+Ke1 Rg8 41. Bxf6 Rxg2 42. R1h5+ Kf4 43. Rh4+ Kf5 44. R4h5+ Kf4 45. Rh4+ Kf5 46.
+Bxe6+ Kxe6 47. R4h5 Rg6 48. Bg7 a4 49. Re5+ Kd7 50. Rxg6 fxg6 51. Ke2 Kc6 52.
+Kxe3 Bf5 53. Rxf5 gxf5 54. Kd4 Kb5 55. Bf8 f4 56. a3 Kc6 57. Bg7 Kd7 58. Kd5
+c6+ 59. Ke4 Kc7 60. Be5+ Kd7 61. Bxf4 Ke7 62. Bd2 Kd8 63. f4 Kc7 64. f5 b5 65.
+Ke5 Kc8 66. f6 Kd7 67. Bg5 b4 68. f7 Kc8 69. f8=Q+ Kb7 70. Ke6 bxa3 71. Bf4 a2
+72. Qb8+ Ka6 73. Qb6# 1-0
+

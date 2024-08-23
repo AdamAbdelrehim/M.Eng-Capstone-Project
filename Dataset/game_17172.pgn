@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "viento-de_poniente"]
+[Black "yusufkeremilgaz"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/V81lqxfZ"]
+[WhiteElo "2425"]
+[BlackElo "2500"]
+[ECO "A02"]
+[Opening "Bird Opening: Horsefly Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:32:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. f4 Nh6 2. Nf3 g6 3. d3 Bg7 4. e4 d5 5. Be2 c5 6. O-O Nc6 7. c3 O-O 8. a4 Bg4
+9. h3 Bxf3 10. Bxf3 dxe4 11. dxe4 f5 12. e5 Qc7 13. Na3 Rfd8 14. Qb3+ Kh8 15.
+Be3 Na5 16. Qb5 Rac8 17. Rad1 a6 18. Rxd8+ Qxd8 19. Qe2 e6 20. Rd1 Qc7 21. Qd3
+Nf7 22. Qd7 Qxd7 23. Rxd7 Nd8 24. Bxc5 Kg8 25. Bb6 Nac6 26. Nc4 Rb8 27. Nd6 Bf8
+28. Bxc6 Nxc6 29. Rxb7 Ra8 30. b4 Ne7 31. c4 Nc6 32. b5 axb5 33. axb5 Nb4 34.
+c5 Nd3 35. c6 Nxf4 36. c7 Nd5 37. c8=Q Rxc8 38. Nxc8 Nxb6 39. Nxb6 Bc5+ 40. Kf1
+Bd4 41. Nd7 Kf7 42. b6 Ke7 43. Nf6+ Kd8 44. Rd7+ Kc8 45. Rxd4 Kb8 46. Nxh7 Kb7
+47. Ng5 Kxb6 48. Nxe6 Kc6 49. Rd6+ Kb5 50. Nf4 g5 51. g3 g4 52. h4 Kc5 53. h5
+Kb5 54. h6 1-0
+

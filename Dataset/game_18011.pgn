@@ -1,0 +1,38 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Norgr"]
+[Black "Pepekan"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/3rvcXw30"]
+[WhiteElo "2341"]
+[BlackElo "2523"]
+[ECO "E87"]
+[Opening "King's Indian Defense: Sämisch Variation, Closed Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:41:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Be3 e5 7. d5 c6 8. Bd3 cxd5
+9. cxd5 a6 10. Nge2 Nbd7 11. b4 Ne8 12. Qd2 f5 13. exf5 gxf5 14. O-O Ndf6 15.
+Na4 e4 16. Bc2 b5 17. Nb6 Rb8 18. Nxc8 Rxc8 19. Rac1 Nc7 20. Nf4 Qd7 21. Bb3
+Kh8 22. Rfd1 Rfe8 23. Ne6 Nxe6 24. dxe6 Qe7 25. Rxc8 Rxc8 26. Qxd6 Re8 27. Qxe7
+Rxe7 28. Bg5 h6 29. Rd8+ Kh7 30. Bf4 Ne8 31. fxe4 fxe4 32. Bd5 Nf6 33. Bb3 Ne8
+34. Rd7 Bf6 35. Bd5 Kg8 36. Bxh6 Nc7 37. Bxe4 Rxe6 38. Bh7+ Kh8 39. Rxc7 Bd4+
+40. Kf1 Rxh6 41. Be4 Rxh2 42. Rc6 Rh1+ 43. Ke2 Ra1 44. Rxa6 Bc3 45. Bd3 Bxb4
+46. Bxb5 Kg7 47. Bd3 Rg1 48. Kf3 Rd1 49. Be4 Ra1 50. Kg4 Kf8 51. Bd5 Kg7 52.
+Kf5 Rf1+ 53. Bf3 Bc3 54. Ra7+ Kf8 55. a4 Ra1 56. g4 Rf1 57. Ke4 Re1+ 58. Kd3
+Bb4 59. Kc4 Bd2 60. Bd5 Rg1 61. Be6 Ra1 62. Rf7+ Ke8 63. Ra7 Be3 64. Ra8+ Ke7
+65. Bf5 Kf6 66. Ra6+ Ke7 67. Kb5 Bd2 68. Re6+ Kf7 69. Re2 Bc3 70. Rc2 Be1 71.
+Rc6 Rb1+ 72. Ka6 Ra1 73. Rc7+ Kf6 74. Rc4 Bd2 75. Bd7 Ke7 76. Bb5 Kf6 77. Kb7
+Kg5 78. Rd4 Bc3 79. Rc4 Bd2 80. Bd7 Be1 81. Rc5+ Kf6 82. Rf5+ Kg6 83. Re5 Bd2
+84. Re6+ Kg5 85. Rd6 Bc3 86. Rd5+ Kf6 87. g5+ Kg6 88. Be8+ Kg7 89. g6 Re1 90.
+Bf7 Rb1+ 91. Ka6 Ra1 92. a5 Be1 93. Rb5 Bd2 94. Kb6 Be3+ 95. Kb7 Bd2 96. a6 Be3
+97. Rb3 Bf2 98. Rf3 Bd4 99. Rd3 Bf2 100. Rd7 Kf6 101. Rc7 Rb1+ 102. Kc8 Ra1
+103. Kb7 Rb1+ 104. Ka8 Ra1 105. a7 Ra3 106. Rc6+ Kg7 107. Rc7 Kf6 108. Bd5
+Rxa7+ 109. Rxa7 Bxa7 110. Kxa7 Kxg6 1/2-1/2
+

@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Rumple_DarkOne"]
+[Black "schaakam"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/9r2G94Sp"]
+[WhiteElo "2618"]
+[BlackElo "2653"]
+[ECO "C07"]
+[Opening "French Defense: Tarrasch Variation, Open System, Süchting Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:26:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. c3 cxd4 5. cxd4 Nc6 6. Ngf3 dxe4 7. Nxe4 Nf6 8.
+Bd3 Be7 9. O-O O-O 10. Be3 h6 11. a3 b6 12. Bc2 Bb7 13. Qd3 Re8 14. Nxf6+ Bxf6
+15. Qh7+ Kf8 16. Rad1 Ne7 17. Ne5 Qd5 18. Be4 Qxe4 19. Nd7# 1-0
+

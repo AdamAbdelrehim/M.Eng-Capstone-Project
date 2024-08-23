@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "vogelj"]
+[Black "Bierblitz"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/N4D3W6CQ"]
+[WhiteElo "2464"]
+[BlackElo "2566"]
+[ECO "C05"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:27:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 Qb6 8. Nf3
+cxd4 9. cxd4 f6 10. exf6 Nxf6 11. O-O Bd6 12. Bg5 O-O 13. Bh4 Qxb2 14. Bg3 Bxg3
+15. hxg3 Qb6 16. Rb1 Qc7 17. Nf4 Bd7 18. Re1 Rae8 19. Qc2 b6 20. Ne5 Rc8 21.
+Rec1 Qd6 22. Nxd7 Nxd7 23. Bxh7+ Kh8 24. Ng6+ Kxh7 25. Nxf8+ Kg8 26. Nxd7 Qxd7
+27. Rb3 Ne7 28. Qd2 Rf8 29. Rf3 Nf5 30. Qb4 Rf7 31. Qc3 Nd6 32. Rxf7 Qxf7 33.
+Qc7 Nc4 34. Qxf7+ Kxf7 35. Kf1 Ke7 36. Ke2 Kd6 37. Kd3 b5 38. Rh1 e5 39. dxe5+
+Nxe5+ 40. Kd4 a5 41. Rh7 Nc6+ 42. Kc3 b4+ 43. Kb2 a4 44. Rxg7 Kc5 45. Rc7 Kb6
+46. Rd7 Kc5 47. g4 Ne5 48. Rc7+ Kb6 49. Rg7 Nc4+ 50. Kc1 d4 51. g5 d3 52. Rd7
+d2+ 53. Rxd2 Nxd2 54. Kxd2 1-0
+

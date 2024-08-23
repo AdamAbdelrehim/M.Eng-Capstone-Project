@@ -1,0 +1,48 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "YoBot_v2"]
+[Black "CruelKen"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/Tx4ILavx"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3013"]
+[BlackElo "3004"]
+[ECO "D41"]
+[Opening "Queen's Gambit Declined: Semi-Tarrasch Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:45:08"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 cxd4 6. Qxd4 exd5 7. e4 dxe4 8.
+Qxd8+ Kxd8 9. Ng5 Be6 10. Bd2 Bb4 11. g3 Ke7 12. Nxe6 fxe6 13. Bg2 Nc6 14. a3
+Bxc3 15. Bxc3 Rad8 16. O-O Nd4 17. Rae1 Nf3+ 18. Bxf3 exf3 19. Re3 Nd5 20. Rxf3
+Nxc3 21. Rxc3 Rc8 22. Rfc1 Rxc3 23. Rxc3 Rd8 24. Kg2 Rd7 25. Kf3 Kf6 26. Ke3
+Rd5 27. h4 Re5+ 28. Kd3 Rd5+ 29. Kc2 a5 30. Rc7 b5 31. Ra7 a4 32. Ra8 Rf5 33.
+f4 e5 34. Rf8+ Kg6 35. Rxf5 Kxf5 36. fxe5 Kxe5 37. Kc3 Kf5 38. Kb4 Kg4 39. Kxb5
+Kxg3 40. Kxa4 Kxh4 41. b3 g5 42. b4 g4 43. b5 g3 44. b6 g2 45. b7 g1=Q 46. b8=Q
+Qg4+ 47. Kb3 h5 48. a4 Qd1+ 49. Ka2 Qxa4+ 50. Kb1 Kh3 51. Qc8+ Qg4 52. Qc3+ Kg2
+53. Qb2+ Kg3 54. Qa3+ Qf3 55. Qd6+ Kg2 56. Qd2+ Kf1 57. Qc1+ Kf2 58. Qb2+ Kg1
+59. Qg7+ Qg2 60. Qh7 Qf3 61. Qg7+ Qg4 62. Qa7+ Kg2 63. Qa2+ Kf1 64. Qa6+ Kg2
+65. Qa2+ Kg3 66. Qa3+ Qf3 67. Qd6+ Kg2 68. Qd2+ Kg1 69. Qg5+ Kh2 70. Qd2+ Kg1
+71. Qg5+ Kf2 72. Qd2+ Kf1 73. Qc1+ Ke2 74. Qb2+ Ke3 75. Qc1+ Ke2 76. Qb2+ Ke1
+77. Qb4+ Kf1 78. Qc4+ Kg2 79. Qc2+ Kh3 80. Qc8+ Kg3 81. Qc7+ Qf4 82. Qc3+ Kg4
+83. Qg7+ Kf3 84. Qc3+ Qe3 85. Qf6+ Qf4 86. Qc3+ Qe3 87. Qf6+ Ke2 88. Qb2+ Ke1
+89. Qb4+ Ke2 90. Qb2+ Kd1 91. Qc2+ Ke1 92. Qc6 Qb3+ 93. Ka1 Qa3+ 94. Kb1 Qb3+
+95. Ka1 Qa3+ 96. Kb1 Qd3+ 97. Kc1 Qd1+ 98. Kb2 Qd4+ 99. Kc2 h4 100. Qh1+ Kf2
+101. Qh2+ Ke1 102. Qh1+ Kf2 103. Qh2+ Kf1 104. Qh1+ Ke2 105. Qg2+ Qf2 106. Qe4+
+Kf1+ 107. Kd1 Kg1 108. Qg6+ Qg2 109. Qb6+ Qf2 110. Qg6+ Qg2 111. Qb6+ Kh2 112.
+Qa6 h3 113. Ke1 Qg1+ 114. Ke2 Qg2+ 115. Ke1 Qg1+ 116. Ke2 Qg4+ 117. Ke1 Qe4+
+118. Kf1 Qf3+ 119. Ke1 Qh1+ 120. Ke2 Qe4+ 121. Kf1 Qb1+ 122. Ke2 Qc2+ 123. Ke1
+Qb1+ 124. Ke2 Qc2+ 125. Ke1 Qc3+ 126. Kf1 Qf3+ 127. Ke1 Qe3+ 128. Kf1 Qc1+ 129.
+Ke2 Qb2+ 130. Ke1 Qe5+ 131. Kf1 Qf5+ 132. Ke1 Qe5+ 133. Kf1 Qf4+ 134. Ke1 Qh4+
+135. Kf1 Qf4+ 136. Ke1 Qe3+ 137. Kf1 Qc1+ 138. Ke2 Qb2+ 139. Ke1 Qc3+ 140. Kf1
+Qg3 141. Qc4 Qf3+ 142. Ke1 Qh1+ 143. Kd2 Qf3 144. Ke1 Qh1+ 145. Kd2 Qg2+ 146.
+Ke1 Qg1+ 147. Ke2 Qg2+ 148. Ke1 Qg1+ 149. Ke2 Qg5 150. Qa4 Qg2+ 151. Ke1 Qg1+
+152. Ke2 Qg2+ 153. Ke1 Qg3+ 154. Ke2 Qe5+ 155. Kf1 Qf5+ 156. Ke1 Qb1+ 157. Ke2
+Qb2+ 158. Ke3 Qc3+ 159. Kf2 Qb2+ 160. Ke3 Qe5+ 161. Kf2 Qg3+ 162. Ke2 Qe1+
+1/2-1/2
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Incognizance"]
+[Black "viennadragon"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/3E7cgdSb"]
+[WhiteTitle "CM"]
+[WhiteElo "2359"]
+[BlackElo "2517"]
+[ECO "A61"]
+[Opening "Benoni Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:59:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. Bf4 a6 8. a4
+Bg7 9. h3 O-O 10. e3 Ne8 11. Nd2 Nd7 12. Nc4 Ne5 13. Nxe5 Bxe5 14. Bh6 Bg7 15.
+Bf4 Be5 16. Bh6 Ng7 17. Bd3 Re8 18. O-O Nf5 19. Bf4 Bxf4 20. exf4 Bd7 21. Ne4
+Rxe4 22. Bxe4 Nd4 23. Qd3 b5 24. axb5 Bxb5 25. Qe3 Bxf1 26. Rxf1 Qb6 27. Qd2
+Re8 28. Bd3 a5 29. Ra1 Nb3 0-1
+

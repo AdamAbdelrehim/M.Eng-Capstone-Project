@@ -1,0 +1,38 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "BitByByte"]
+[Black "RaspFish"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/LlVU0TZO"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2900"]
+[BlackElo "3034"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:22:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. e3 d5 2. Nf3 e6 3. c4 Nf6 4. d4 Be7 5. b3 c5 6. cxd5 Nxd5 7. dxc5 O-O 8. Bb2
+Na6 9. Bc4 Nxc5 10. O-O b6 11. Qe2 Bf6 12. Rd1 Bb7 13. Bxd5 Bxb2 14. Bxb7 Nxb7
+15. Rxd8 Rfxd8 16. Nbd2 Bxa1 17. Qf1 Bb2 18. g4 h6 19. h4 g6 20. g5 hxg5 21.
+hxg5 Nc5 22. Qb5 Rac8 23. Kg2 Rd5 24. Qc4 Rdd8 25. Qb5 Rd5 26. Qc4 Rdd8 27. Kf1
+Kg7 28. Qb4 Rd3 29. Qh4 Bc3 30. Nc4 Rd5 31. Qg3 Ba1 32. Kg2 b5 33. Nd6 Rd8 34.
+Nxb5 Nd3 35. Na3 Ne5 36. Nxe5 Bxe5 37. Qg4 Rh8 38. f4 Bb8 39. Nc4 Rf5 40. Nd2
+e5 41. fxe5 Bxe5 42. Nf3 Bb2 43. Qc4 Re8 44. Kf2 a5 45. Ke2 Re7 46. e4 Rf4 47.
+Ke3 Rg4 48. a4 Kh7 49. Kd3 Ba3 50. Qd5 Rg2 51. Nd4 Rg1 52. Ke2 Rc1 53. Nc6 Rc7
+54. Nd4 R1c5 55. Qd8 Rc1 56. Qd5 R1c5 57. Qd8 Bb4 58. Kf3 Rc3+ 59. Kf4 Re7 60.
+Nf3 Rxb3 61. Ne5 Ba3 62. Qd2 Rb1 63. Kf3 Rbb7 64. Qxa5 Bb2 65. Nd3 Bd4 66. Qd8
+Red7 67. Qe8 Bg7 68. Nb4 Re7 69. Qd8 Re6 70. Nd3 Ra7 71. Nf4 Rea6 72. Qd2 Rxa4
+73. Qh2+ Kg8 74. Nd5 Ra3+ 75. Kg4 Ra2 76. Ne7+ Kf8 77. Nxg6+ fxg6 78. Qb8+ Ke7
+79. Qb4+ Kd7 80. Qb5+ Kd8 81. Qd5+ Ke7 82. Qc5+ Ke8 83. Qb5+ Kf8 84. Qb8+ Kf7
+85. Qb3+ Ke7 86. Qb4+ Kd7 87. Qb5+ Kd6 88. Qd5+ Kc7 89. Qc4+ Kd6 90. Qd5+ Ke7
+91. Qc5+ Kd8 92. Qd5+ Kc7 93. Qc4+ Kb6 94. Qb4+ Ka6 95. Qc5 Rb2 96. Qc6+ Rb6
+97. Qa4+ Kb7 98. Qd7+ Ka6 99. Qa4+ Kb7 100. Qd7+ Ka6 101. Qa4+ 1/2-1/2
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Iskamor"]
+[Black "CRBorn"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Y8hI0GZb"]
+[WhiteElo "2467"]
+[BlackElo "2586"]
+[ECO "E92"]
+[Opening "King's Indian Defense: Petrosian Variation, Stein Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:32:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. Be2 e5 7. d5 a5 8. h3 Na6
+9. Bg5 Bd7 10. Nd2 Qe8 11. a3 a4 12. Qc2 Nc5 13. g4 h6 14. Be3 Nh7 15. Rg1 Kh8
+16. h4 f5 17. gxf5 gxf5 18. O-O-O f4 19. Bxc5 dxc5 20. Bg4 Bxg4 21. Rxg4 Nf6
+22. Rg2 Rg8 23. Rdg1 Bf8 24. Qd3 Rxg2 25. Rxg2 Bd6 26. Qh3 Qd7 27. Qf3 Rg8 28.
+Rxg8+ Kxg8 29. Kd1 Kf7 30. Ke2 Be7 31. Qg2 b6 32. Nf3 Bd6 33. Nh2 Qe8 34. f3 h5
+35. Qg5 Qd7 36. Qg2 Qe8 37. Nf1 Qd7 38. Nd2 Be7 39. Ndb1 Ne8 40. Nd1 Nd6 41.
+Nd2 b5 42. Nf2 bxc4 43. Nh3 Bxh4 44. Ng5+ Bxg5 45. Qxg5 Qb5 46. Qxh5+ Ke7 47.
+Qxe5+ Kd8 48. Qc3 Kc8 49. e5 Nf5 50. e6 Nd4+ 51. Kf2 Qe8 52. Qxc4 Qh8 53. Qxc5
+Qh2+ 54. Ke1 Qe2# 0-1
+

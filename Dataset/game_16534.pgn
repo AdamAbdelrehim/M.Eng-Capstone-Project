@@ -1,0 +1,37 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "InanisBot"]
+[Black "simbelmyne-bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/DnE5jN4P"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2425"]
+[BlackElo "2564"]
+[ECO "D34"]
+[Opening "Tarrasch Defense: Classical Variation"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "02:18:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. c4 Nf6 2. Nf3 c5 3. Nc3 Nc6 4. g3 e6 5. Bg2 Be7 6. O-O d5 7. cxd5 exd5 8. d4
+O-O 9. dxc5 Bxc5 10. Bg5 Be6 11. Bxf6 Qxf6 12. Nxd5 Qxb2 13. Ng5 Rad8 14. Qd3
+g6 15. Rad1 Qxa2 16. e3 Bd4 17. Nxe6 fxe6 18. Nf4 Be5 19. Qe4 Rxd1 20. Rxd1
+Bxf4 21. exf4 Rd8 22. Rxd8+ Nxd8 23. Qd3 Qa1+ 24. Bf1 Qa5 25. Qd7 Qd5 26. Qe8+
+Kg7 27. Qe7+ Nf7 28. h4 b5 29. Bh3 Qd1+ 30. Kh2 Qd6 31. Qxa7 b4 32. Qe3 e5 33.
+fxe5 Qxe5 34. Qb6 Qd6 35. Qb7 h5 36. Bg2 Qd2 37. Kh3 Qxf2 38. Qxb4 Nh6 39. Qc3+
+Qf6 40. Qc7+ Qf7 41. Qxf7+ Kxf7 42. Bd5+ Kf6 43. Be4 Ng4 44. Kg2 Ne5 45. Kf2 g5
+46. hxg5+ Kxg5 47. Ke3 Kg4 48. Kf2 h4 49. gxh4 Kxh4 50. Kg1 Kg3 51. Bd5 Ng4 52.
+Be6 Ne3 53. Bf5 Nd5 54. Bd3 Nf4 55. Bc2 Ne2+ 56. Kh1 Kf2 57. Bb3 Nd4 58. Bc4
+Nf5 59. Bd5 Ke3 60. Be6 Nd4 61. Bg8 Nb5 62. Bb3 Kf2 63. Bc4 Nd4 64. Bd5 Ke2 65.
+Be6 Kf3 66. Bg4+ Kf4 67. Bf3 Ke3 68. Be2 Ne6 69. Bd3 Nc5 70. Ba6 Kf2 71. Bb7
+Ne6 72. Ba6 Kg3 73. Bb7 Nf4 74. Ba6 Nd5 75. Bb7 Kf4 76. Bc8 Ke5 77. Bg4 Ne3 78.
+Bh5 Kf4 79. Bg6 Nd5 80. Be4 Kg3 81. Bf3 Nc3 82. Bh5 Ne4 83. Bf7 Kf4 84. Bh5 Nf6
+85. Be2 Ke3 86. Bd3 Kd4 87. Ba6 Nd5 88. Be2 Ke4 89. Bd3+ Ke3 90. Ba6 Nb4 91.
+Be2 Nd3 92. Bxd3 1/2-1/2
+

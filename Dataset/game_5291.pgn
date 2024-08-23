@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Elmarmalade"]
+[Black "pandagambit"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/O0OtJs0u"]
+[WhiteTitle "GM"]
+[WhiteElo "2551"]
+[BlackElo "2402"]
+[ECO "D08"]
+[Opening "Queen's Gambit Declined: Albin Countergambit, Normal Line"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:51:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. a3 Bg4 6. h3 Bxf3 7. exf3 Nxe5 8. f4
+Nc6 9. Bd3 Be7 10. Nd2 a5 11. Nf3 Nf6 12. O-O O-O 13. Re1 Re8 14. Bd2 Bf8 15.
+Qa4 Qd6 16. Qb5 b6 17. Ne5 Na7 18. Qa4 c5 19. b4 axb4 20. axb4 cxb4 21. Qb3
+Rec8 22. c5 bxc5 23. Qxf7+ Kh8 24. Rxa7 Rxa7 25. Qxa7 1-0
+

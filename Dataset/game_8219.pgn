@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "d4_bf4"]
+[Black "themadsponge"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/HumcKQjc"]
+[WhiteTitle "FM"]
+[WhiteElo "2316"]
+[BlackElo "2535"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:30:19"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-9"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. e3 c5 5. Nbd2 Bd6 6. c3 O-O 7. Bd3 Nc6 8. Bg3
+Qe7 9. Ne5 Nd7 10. Nxc6 bxc6 11. Qa4 Bb7 12. c4 e5 13. dxe5 Nxe5 14. Be2 a5 15.
+O-O g6 16. Rfd1 h5 17. Nf3 Nxf3+ 18. Bxf3 Bxg3 19. hxg3 Rfd8 20. Rac1 Qc7 21.
+Qa3 dxc4 22. Qxc5 Rxd1+ 23. Rxd1 Rd8 24. Rxd8+ Qxd8 25. Qxc4 Qd2 26. Qd4 Qe1+
+27. Kh2 Qxf2 28. Qb6 h4 29. Qd8+ Kg7 30. Qd4+ Kg8 31. gxh4 Ba6 32. h5 gxh5 33.
+Qd8+ Kg7 34. Qg5+ Kf8 35. Qh6+ Kg8 36. Qg5+ Kf8 37. Bxh5 Bf1 38. Bf3 c5 39.
+Qxc5+ Kg7 40. Qd4+ Kf8 41. Qd8+ Kg7 42. Qg5+ Kf8 43. Qg3 Qxe3 44. a3 Qd2 45.
+Qb8+ Kg7 46. Qe5+ Kf8 47. Kg3 Bd3 48. Qc5+ Kg7 49. Qd4+ Kf8 50. Qd8+ Kg7 51.
+Qh4 1-0
+

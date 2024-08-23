@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "silence404"]
+[Black "Assassinations"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/mtB1IBdj"]
+[WhiteElo "2812"]
+[BlackElo "2770"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:12:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-12"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
+d5 9. exd5 Nxd5 10. Nxd5 Qxd5 11. Qxd5 Bxd5 12. O-O-O Bxb3 13. axb3 Nd7 14. Bc4
+f6 15. Rhe1 Bc5 16. Bxc5 Nxc5 17. f4 Ke7 18. fxe5 f5 19. b4 Ne4 20. Bd5 1-0
+

@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Litke76"]
+[Black "sykv"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/AdM1Vqkn"]
+[WhiteElo "2487"]
+[BlackElo "2534"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Pin Variation, Koch Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:57:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. e5 Nd5 7. Bd2 Nxc3 8.
+bxc3 Be7 9. Qg4 Kf8 10. Bd3 b6 11. O-O Nc6 12. Qg3 d6 13. Nxc6 1-0
+

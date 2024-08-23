@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "yugie_wu"]
+[Black "vantierry"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ahCAmAz3"]
+[WhiteElo "2570"]
+[BlackElo "2619"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:01:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nf3 Nc6 3. b3 Nf6 4. e5 Nd5 5. Bb2 g6 6. g3 Bg7 7. Bg2 d6 8. O-O
+dxe5 9. Re1 f6 10. h3 O-O 11. d3 Be6 12. Nbd2 Qd7 13. Kh2 Bf7 14. Ne4 b6 15. a3
+Rad8 16. Qd2 h6 17. Re2 Nc7 18. Rae1 Ne6 19. Nc3 Ned4 20. Nxd4 Nxd4 21. Re3
+Rfe8 22. Qd1 Be6 23. Re4 Bf5 24. R4e3 Kh8 25. Nb1 b5 26. Nd2 Be6 27. Ne4 Qc7
+28. b4 cxb4 29. axb4 Qxc2 30. Bxd4 Qxd1 31. Nc5 exd4 32. Rxd1 dxe3 33. Nxe6 e2
+34. Re1 Rxd3 35. Rxe2 Rd6 36. Nc7 Rc8 37. Nxb5 Rb6 38. Nxa7 Rc7 39. Ra2 Rxb4
+40. Nc6 Rb6 41. Nd4 e5 42. Nf3 f5 43. Nh4 Kh7 44. Ra8 e4 45. Bf1 Rb2 46. Kg1
+Bd4 0-1
+

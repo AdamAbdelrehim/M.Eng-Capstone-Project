@@ -1,0 +1,28 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "magnusglad_bot"]
+[Black "RaspFish"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/i8PT3XOn"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2793"]
+[BlackElo "3029"]
+[ECO "C11"]
+[Opening "French Defense: Classical Variation, Burn Variation, Morozevich Line"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:40:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Be7 6. Bxf6 gxf6 7. Nf3 f5 8.
+Nc3 a6 9. g3 b5 10. Bg2 Bb7 11. Qe2 c5 12. O-O-O b4 13. Na4 Qa5 14. Nxc5 Bd5
+15. Rhg1 Qxa2 16. Ne5 Bxg2 17. Rxg2 Qa1+ 18. Kd2 Qxb2 19. Ke1 Bxc5 20. dxc5
+Qc3+ 21. Kf1 Qxc5 22. g4 Nc6 23. Nxc6 Qxc6 24. gxf5 Rd8 25. Re1 Rd6 26. Qg4 a5
+27. h3 h5 28. Qf4 Rf8 29. Kg1 Qc5 30. Rg5 Rd5 31. Qb8+ Rd8 32. Qb7 Rd7 33. Qb8+
+Rd8 34. Qf4 Rd5 35. Qb8+ Rd8 1/2-1/2
+

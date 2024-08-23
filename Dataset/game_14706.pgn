@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "javad1342"]
+[Black "Redomeiran"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Sr3UkYcF"]
+[WhiteElo "2561"]
+[BlackElo "2410"]
+[ECO "C41"]
+[Opening "Philidor Defense: Lion Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:54:56"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. a4 c6 8. a5
+Qc7 9. d5 cxd5 10. Bxd5 Nxd5 11. Nxd5 Qd8 12. Bd2 Nf6 13. Nxf6+ Bxf6 14. Bb4
+Be7 15. Ra3 Be6 16. b3 d5 17. Qe1 f6 18. Ra1 d4 19. Bxe7 Qxe7 20. c3 dxc3 21.
+Qxc3 Rfc8 22. Qe3 Qc5 23. Rfe1 Qxe3 24. Rxe3 Rc2 25. h3 Rac8 26. g4 Rb2 27. Nh4
+Rcc2 28. Rf3 Rxb3 29. Rxb3 Bxb3 30. Rb1 Rc3 31. Nf5 b5 32. axb6 axb6 33. Ne7+
+Kf7 34. Nd5 Bxd5 35. exd5 Rd3 36. Rxb6 Rxd5 37. Rb7+ Kg6 38. Kg2 Rd3 39. h4 h5
+40. gxh5+ Kh6 41. Ra7 Rd4 42. Kg3 Rf4 43. Rb7 Rf5 44. Rc7 Rxh5 45. Kg4 f5+ 46.
+Kg3 Kg6 47. Rc6+ Kf7 48. Rc7+ Kg8 49. Re7 e4 50. Re5 Kf7 51. Kh3 Kf6 52. Ra5 g5
+53. Ra7 Rxh4+ 54. Kg3 Rf4 55. Ra6+ Kg7 56. Ra7+ Kg6 57. Ra6+ Kh5 58. Ra8 Rf3+
+59. Kg2 Kg4 60. Ra5 Rb3 61. Rd5 Rb2 62. Kg1 f4 63. Re5 Re2 64. Kf1 f3 65. Re8
+e3 66. fxe3 Kg3 67. Re5 g4 68. Re8 Ra2 0-1
+

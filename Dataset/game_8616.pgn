@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "cbajedrez"]
+[Black "yoruv"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/L5wTRNoz"]
+[WhiteElo "2372"]
+[BlackElo "2548"]
+[ECO "A25"]
+[Opening "English Opening: King's English Variation, Reversed Closed Sicilian"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "04:02:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. c4 Nc6 2. Nc3 e5 3. g3 f5 4. Bg2 Nf6 5. e4 f4 6. gxf4 exf4 7. d4 g5 8. e5
+Qe7 9. Nge2 Nxe5 10. dxe5 Qxe5 11. Qd4 Qe7 12. Nd5 Nxd5 13. Qxh8 Nf6 14. Bd2 d6
+15. Bc3 Bg4 16. f3 Ne4 17. fxg4 O-O-O 18. Qd4 Nxc3 19. Qxc3 Bg7 20. Qb3 c6 21.
+Bf3 Bd4 22. O-O-O Bc5 23. Kb1 Re8 24. Qd3 Kc7 25. a3 a5 26. Nc3 Qg7 27. Ne4 Re7
+28. Nxd6 Re3 29. Nb5+ cxb5 30. Qd8# 1-0
+

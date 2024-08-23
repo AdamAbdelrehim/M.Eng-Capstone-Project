@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.05.14"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "queenslayer1987"]
+[Result "1-0"]
+[CurrentPosition "1k1R1b1r/ppp3p1/8/4nB2/8/5P1P/PPP3P1/6K1 b - -"]
+[Timezone "UTC"]
+[ECO "B01"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nc3-Qd8-4.Nf3"]
+[UTCDate "2023.05.14"]
+[UTCTime "00:19:54"]
+[WhiteElo "1752"]
+[BlackElo "1703"]
+[TimeControl "60"]
+[Termination "AdamAbdelrehim won by checkmate"]
+[StartTime "00:19:54"]
+[EndDate "2023.05.14"]
+[EndTime "00:21:01"]
+[Link "https://www.chess.com/game/live/77762522929"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. exd5 { [%clk 0:00:59] }
+2... Qxd5 { [%clk 0:00:59.9] } 3. Nc3 { [%clk 0:00:58.8] } 3... Qd8
+{ [%clk 0:00:59.8] } 4. Nf3 { [%clk 0:00:57.9] } 4... Nc6 { [%clk 0:00:59.7] }
+5. Bc4 { [%clk 0:00:57.4] } 5... Nf6 { [%clk 0:00:59.6] } 6. d4
+{ [%clk 0:00:56.8] } 6... e5 { [%clk 0:00:59.5] } 7. dxe5 { [%clk 0:00:55.4] }
+7... Qxd1+ { [%clk 0:00:58.5] } 8. Nxd1 { [%clk 0:00:55.3] } 8... Ng4
+{ [%clk 0:00:57.4] } 9. O-O { [%clk 0:00:52.3] } 9... Bf5 { [%clk 0:00:55.3] }
+10. h3 { [%clk 0:00:51.3] } 10... Nh6 { [%clk 0:00:52.6] } 11. Ne3
+{ [%clk 0:00:50.6] } 11... Bg6 { [%clk 0:00:50.3] } 12. Rd1
+{ [%clk 0:00:49.4] } 12... Rd8 { [%clk 0:00:47.9] } 13. Rxd8+
+{ [%clk 0:00:47.8] } 13... Kxd8 { [%clk 0:00:47.8] } 14. Nh4
+{ [%clk 0:00:45.6] } 14... Be4 { [%clk 0:00:45] } 15. f3 { [%clk 0:00:44.7] }
+15... Bg6 { [%clk 0:00:43.8] } 16. Nxg6 { [%clk 0:00:43.4] } 16... hxg6
+{ [%clk 0:00:43.7] } 17. Bd2 { [%clk 0:00:42.5] } 17... Nf5
+{ [%clk 0:00:42.6] } 18. Nxf5 { [%clk 0:00:41] } 18... gxf5
+{ [%clk 0:00:41.9] } 19. Bc3 { [%clk 0:00:40.9] } 19... Kc8
+{ [%clk 0:00:38.7] } 20. Rd1 { [%clk 0:00:40.4] } 20... f6 { [%clk 0:00:37.2] }
+21. Be6+ { [%clk 0:00:38.3] } 21... Kb8 { [%clk 0:00:35.7] } 22. Bxf5
+{ [%clk 0:00:34.8] } 22... fxe5 { [%clk 0:00:34.7] } 23. Bxe5
+{ [%clk 0:00:32.5] } 23... Nxe5 { [%clk 0:00:33.4] } 24. Rd8#
+{ [%clk 0:00:31.5] } 1-0
+

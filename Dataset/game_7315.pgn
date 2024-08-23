@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Biriyani"]
+[Black "on_my_zadachi_tasks"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ZdjPUXs2"]
+[WhiteTitle "GM"]
+[WhiteElo "2702"]
+[BlackElo "2662"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:49:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 Nf6 2. Bg5 g6 3. Bxf6 exf6 4. e3 d5 5. g3 Bg7 6. Bg2 O-O 7. Ne2 f5 8. O-O
+c6 9. Nd2 Nd7 10. c4 Nf6 11. Qc2 Be6 12. Rac1 dxc4 13. Nxc4 Bd5 14. f3 Re8 15.
+Qd2 Qe7 16. Kf2 h5 17. Nf4 h4 18. b3 Bh6 19. Ne5 Nd7 20. Nxd5 cxd5 21. Rc7 Rad8
+22. f4 Nxe5 23. Rxe7 Ng4+ 24. Kg1 Rxe7 25. Re1 Rde8 26. Bxd5 Rxe3 27. Rxe3 Rxe3
+28. Kg2 Bg7 29. Bf3 h3+ 30. Kxh3 Rxf3 31. d5 Rf2 0-1
+

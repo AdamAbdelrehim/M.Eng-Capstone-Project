@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.05.03"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "lesrivera22"]
+[Result "0-1"]
+[CurrentPosition "2r3k1/5ppp/4p3/Q2p4/3q1P2/8/P5PP/1r5K w - -"]
+[Timezone "UTC"]
+[ECO "B40"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Pin-Variation"]
+[UTCDate "2022.05.03"]
+[UTCTime "09:59:52"]
+[WhiteElo "1426"]
+[BlackElo "1445"]
+[TimeControl "60"]
+[Termination "lesrivera22 won by resignation"]
+[StartTime "09:59:52"]
+[EndDate "2022.05.03"]
+[EndTime "10:01:20"]
+[Link "https://www.chess.com/game/live/45310827591"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.6] }
+2... e6 { [%clk 0:00:59.5] } 3. d4 { [%clk 0:00:59.4] } 3... cxd4
+{ [%clk 0:00:58.9] } 4. Nxd4 { [%clk 0:00:59.3] } 4... Nf6 { [%clk 0:00:58.4] }
+5. Nc3 { [%clk 0:00:59.2] } 5... Bb4 { [%clk 0:00:57.9] } 6. Bd2
+{ [%clk 0:00:57.7] } 6... Bxc3 { [%clk 0:00:55.8] } 7. Bxc3
+{ [%clk 0:00:57.6] } 7... Nxe4 { [%clk 0:00:55.3] } 8. Bd3 { [%clk 0:00:55.7] }
+8... Nxc3 { [%clk 0:00:54.5] } 9. bxc3 { [%clk 0:00:55.6] } 9... Nc6
+{ [%clk 0:00:53.8] } 10. O-O { [%clk 0:00:55.5] } 10... O-O
+{ [%clk 0:00:50.3] } 11. Rb1 { [%clk 0:00:54.4] } 11... b6 { [%clk 0:00:47.3] }
+12. Re1 { [%clk 0:00:53.9] } 12... Bb7 { [%clk 0:00:45.7] } 13. Bb5
+{ [%clk 0:00:52.4] } 13... Nxd4 { [%clk 0:00:44.2] } 14. cxd4
+{ [%clk 0:00:52.3] } 14... d5 { [%clk 0:00:43] } 15. c3 { [%clk 0:00:50.9] }
+15... a5 { [%clk 0:00:41.2] } 16. f4 { [%clk 0:00:47.5] } 16... Ba6
+{ [%clk 0:00:39.8] } 17. Qa4 { [%clk 0:00:41.2] } 17... Bxb5
+{ [%clk 0:00:38.4] } 18. Qxb5 { [%clk 0:00:40] } 18... Rb8 { [%clk 0:00:37.9] }
+19. Qa6 { [%clk 0:00:35.9] } 19... Qc7 { [%clk 0:00:37] } 20. Rb5
+{ [%clk 0:00:34.1] } 20... Qxc3 { [%clk 0:00:35.6] } 21. Reb1
+{ [%clk 0:00:31.3] } 21... Qxd4+ { [%clk 0:00:33.2] } 22. Kh1
+{ [%clk 0:00:29.6] } 22... Rfc8 { [%clk 0:00:31.4] } 23. Rxb6
+{ [%clk 0:00:26.9] } 23... Rxb6 { [%clk 0:00:30.3] } 24. Qxa5
+{ [%clk 0:00:23] } 24... Rxb1+ { [%clk 0:00:25.5] } 0-1
+

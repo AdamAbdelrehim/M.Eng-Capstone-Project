@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "S_Ovsejevitsch"]
+[Black "BigbadUlf"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/cmzbYzhQ"]
+[WhiteElo "2622"]
+[BlackElo "2439"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:20:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+8"]
+
+1. e4 g6 2. d4 d6 3. c4 e5 4. d5 Nd7 5. Nc3 Bg7 6. Nge2 Ne7 7. g4 f5 8. gxf5
+gxf5 9. Rg1 O-O 10. Bg5 f4 11. Bh3 Kh8 12. Qc2 Bf6 13. Bh6 Rg8 14. O-O-O Rxg1
+15. Rxg1 Ng8 16. Rxg8+ Qxg8 17. Nb5 Bd8 18. Qc3 a6 19. Na3 Bf6 20. Be6 Qg6 21.
+Qh3 Nb6 22. f3 Bxe6 23. dxe6 Nc8 24. Nc3 c6 25. Nc2 Ne7 26. Ne1 Ng8 0-1
+

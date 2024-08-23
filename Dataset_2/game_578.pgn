@@ -1,0 +1,34 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.03"]
+[Round "-"]
+[White "rzohara"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rnb1qr2/ppp3Qk/3p3B/2b5/8/4P2P/PPP4P/RN2KB1R b KQ -"]
+[Timezone "UTC"]
+[ECO "A40"]
+[ECOUrl "https://www.chess.com/openings/Englund-Gambit-Soller-Gambit"]
+[UTCDate "2021.03.03"]
+[UTCTime "06:50:06"]
+[WhiteElo "871"]
+[BlackElo "833"]
+[TimeControl "60"]
+[Termination "rzohara won by checkmate"]
+[StartTime "06:50:06"]
+[EndDate "2021.03.03"]
+[EndTime "06:51:09"]
+[Link "https://www.chess.com/game/live/8493219263"]
+
+1. d4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. dxe5
+{ [%clk 0:00:59.2] } 2... f6 { [%clk 0:00:59.9] } 3. exf6 { [%clk 0:00:58.4] }
+3... Nxf6 { [%clk 0:00:59.8] } 4. Bg5 { [%clk 0:00:56.7] } 4... Bc5
+{ [%clk 0:00:57.4] } 5. e3 { [%clk 0:00:54.8] } 5... O-O { [%clk 0:00:55.2] }
+6. Nh3 { [%clk 0:00:53.2] } 6... Qe8 { [%clk 0:00:54.4] } 7. Qf3
+{ [%clk 0:00:50] } 7... d6 { [%clk 0:00:43.4] } 8. Qg3 { [%clk 0:00:48.4] }
+8... Ne4 { [%clk 0:00:41.3] } 9. Qg4 { [%clk 0:00:43.4] } 9... Nxf2
+{ [%clk 0:00:36.9] } 10. Qg3 { [%clk 0:00:38.7] } 10... Nxh3
+{ [%clk 0:00:35.1] } 11. gxh3 { [%clk 0:00:33.7] } 11... h6
+{ [%clk 0:00:34.1] } 12. Bxh6 { [%clk 0:00:32.4] } 12... Kh7
+{ [%clk 0:00:32.3] } 13. Qxg7# { [%clk 0:00:31.1] } 1-0
+

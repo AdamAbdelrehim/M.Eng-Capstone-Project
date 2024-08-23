@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "mboldysh"]
+[Black "vovasev"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Evwj7nL8"]
+[WhiteElo "2488"]
+[BlackElo "2547"]
+[ECO "E97"]
+[Opening "King's Indian Defense: Orthodox Variation, Bayonet Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:31:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. d4 d6 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. b4 Nh5 10. g3 f5 11. Ng5 Nf6 12. Bf3 f4 13. c5 a5 14. cxd6 cxd6 15. Qb3
+fxg3 16. fxg3 Qb6+ 17. Kg2 axb4 18. Rb1 h6 19. Ne6 Bxe6 20. dxe6 Nc6 21. e7+
+Rf7 22. Nd5 Nxd5 23. Qxd5 Nxe7 24. Qc4 Rc8 25. Qxb4 Qxb4 26. Rxb4 Nc6 27. Rb2
+Nd4 28. Be3 Rc3 29. Bxd4 exd4 30. Bg4 Rxf1 31. Kxf1 d3 32. Rxb7 Rc2 33. a4 Rxh2
+34. Rb3 d2 35. Rd3 Be5 36. a5 Bxg3 37. a6 Bh4 38. a7 Rh1+ 39. Ke2 Ra1 40. Rxd6
+Rxa7 41. Rxg6+ Kf7 42. Bh5 Kf8 43. Kxd2 Bg5+ 44. Kd3 Rd7+ 45. Kc4 Rd1 46. Re6
+Re1 47. Kd5 Kg7 48. Rg6+ Kf8 49. Rc6 Ke7 50. Rc7+ Kf6 51. Rf7# 1-0
+

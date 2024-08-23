@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "odonata-bot"]
+[Black "ChessatronBot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/u5TLIwj9"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2637"]
+[BlackElo "2444"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, l'Hermet Variation, Berlin Wall Defense"]
+[TimeControl "60+3"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:48:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5
+8. Qxd8+ Kxd8 9. Nc3 Be6 10. Rd1+ Kc8 11. Ng5 Be7 12. Nxe6 fxe6 13. Ne4 a5 14.
+Bg5 Re8 15. Bxe7 Rxe7 16. g4 Nh4 17. f4 Ng6 18. Rf1 a4 19. Kg2 a3 20. b3 h6 21.
+Kg3 b6 22. h4 Nf8 23. Rae1 Re8 24. h5 Nd7 25. Re3 c5 26. c4 Kb7 27. Nc3 Rf8 28.
+Nb5 Rf7 29. Rd1 Kc6 30. Red3 Re7 31. Kf3 Rf7 32. Ke4 Raf8 33. Rf1 Ra8 34. Rg1
+Raf8 35. Rf1 Ra8 36. Rd2 Kb7 37. Rfd1 Kc6 38. Ke3 Ra5 39. Rg1 Ra8 40. g5 hxg5
+41. Rxg5 Raf8 42. Rg6 Rh8 43. Rxe6+ Kb7 44. Red6 Nf8 45. Rh2 Rg8 46. Rh4 Ka6
+47. Rd8 g5 48. hxg6 Rxg6 49. Nxc7+ Rxc7 50. Rxf8 Ra7 51. Rh2 Rg3+ 52. Ke4 Rg1
+53. e6 Re1+ 54. Kd5 Ka5 55. Rb8 Kb4 56. Rxb6+ Kc3 57. Kxc5 Ra5+ 58. Kd6 Ra8 59.
+c5 Rd1+ 60. Ke7 Rd5 61. c6 Rc8 62. b4 Kd3 63. f5 Rc7+ 64. Kf6 Rd8 65. Ke5 Rg7
+66. Rb5 Ra8 67. Rc5 Rg4 68. Rh3+ Ke2 69. b5 Rc8 70. Rb3 Kd1 71. e7 Rh4 72. f6
+Rh7 73. Rd5+ Kc1 74. b6 Rg8 75. c7 Rh5+ 76. Ke6 Rxd5 77. Kxd5 Kd1 78. Ke6 Rg3
+79. Rxg3 Ke2 80. c8=Q Kf2 81. Rb3 Kg2 82. Qc2+ Kg1 83. Rb1# 1-0
+

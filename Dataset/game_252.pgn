@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sammartin1"]
+[Black "Frostwrath"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/TKV1fsBN"]
+[WhiteTitle "NM"]
+[WhiteElo "2476"]
+[BlackElo "2503"]
+[ECO "E27"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "01:34:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. f3 d6 7. e4 e5 8. Bd3
+Nc6 9. Ne2 b6 10. O-O Ba6 11. f4 Re8 12. fxe5 dxe5 13. d5 Na5 14. Bg5 Bxc4 15.
+Ng3 Bxd3 16. Qxd3 Nb3 17. Bxf6 gxf6 18. Nh5 Kh8 19. Nxf6 Rg8 20. Rf5 Rg6 21.
+Raf1 Nc5 22. Qh3 h6 23. Ng4 Qg8 24. Nxh6 Qh7 25. Nxf7+ Kg7 26. Rh5 Qg8 27. Rh8
+Qxh8 28. Nxh8 Rxh8 29. Rf7+ Kxf7 30. Qxh8 Nxe4 31. Qxe5 Nd6 32. h4 Rf6 33. h5
+Rf5 34. Qe6+ Kg7 35. Qg6+ Kh8 36. h6 Rf7 37. g4 Rd7 38. g5 Nf7 39. Qg7# 1-0
+

@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Alpha_Zero_System"]
+[Black "Pentakill11235"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/M221JmhQ"]
+[WhiteElo "2512"]
+[BlackElo "2457"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange, Alekhine Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:36:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd7
+8. Be3 O-O-O 9. Nd2 Nf6 10. f3 c5 11. Ne2 Bd6 12. Bf4 Bxf4 13. Nxf4 g5 14. Nd3
+b6 15. h3 h5 16. O-O-O Be6 17. a3 g4 18. hxg4 hxg4 19. Nf4 gxf3 20. gxf3 Rdg8
+21. Rxh8 Rxh8 22. Rg1 Nd7 23. Nxe6 fxe6 24. f4 Rh4 25. Rf1 Kd8 26. Kd1 Ke7 27.
+Ke2 Nb8 28. c3 Nc6 29. Ke3 b5 30. Nb3 c4 31. Nd2 Nb8 32. Rg1 Kf7 33. Nf3 Rh3
+34. Kf2 Kf6 35. Rg8 Nd7 36. Re8 Nc5 37. e5+ Kf5 38. Rf8+ Kg4 39. Rg8+ Kxf4 40.
+Rf8+ Kg4 41. Rg8+ Kf5 42. Rf8+ Kg6 43. Rf6+ Kg7 44. Ng5 Rh2+ 45. Ke3 Rxb2 46.
+Nxe6+ Nxe6 47. Rxe6 Kf7 48. Rxa6 c5 49. Rc6 b4 50. axb4 cxb4 51. cxb4 Rxb4 52.
+Kd4 Ke7 53. Rxc4 Rxc4+ 54. Kxc4 Ke6 55. Kd4 Ke7 56. Kd5 Kd7 57. e6+ Ke7 58. Ke5
+Ke8 59. Kd6 Kd8 60. e7+ Ke8 61. Ke6 1/2-1/2
+

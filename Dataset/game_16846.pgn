@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "foremangeor"]
+[Black "BrianART"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ZQyMAgPO"]
+[WhiteElo "2469"]
+[BlackElo "2510"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:02:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. b3 c6 2. Bb2 d5 3. Nf3 Nf6 4. e3 Bf5 5. c4 e6 6. Nc3 Nbd7 7. Be2 Bd6 8. O-O
+h6 9. Nd4 Bh7 10. cxd5 exd5 11. Bg4 Nxg4 12. Qxg4 Qg5 13. Qe2 O-O 14. f4 Qe7
+15. Rf3 Rfe8 16. Rg3 Bxf4 17. exf4 Qc5 18. Qf2 Nf6 19. Na4 Qd6 20. Nf3 Qxf4 21.
+Qd4 Re4 22. Qxf6 Qxf6 23. Bxf6 Bg6 24. Bb2 Rae8 25. h3 Re2 26. Nc3 R2e7 27. Rf1
+Bd3 28. Rf2 Rd8 29. Kh2 c5 30. Nxd5 Rxd5 31. Rxg7+ Kf8 32. Ne1 Bg6 33. Rxg6
+Rxe1 34. Rgf6 Re7 35. Rxh6 Ke8 36. Bf6 Re6 37. Rh8+ Kd7 38. Rd8+ Kc6 39. Rxd5
+Kxd5 40. Bc3 Re7 41. Rf5+ Ke6 42. Re5+ Kd6 43. Rxe7 Kxe7 44. h4 Ke6 45. g4 f5
+46. g5 f4 47. h5 Kf5 48. h6 b5 49. h7 Ke4 50. h8=Q Kd3 51. Qe5 Kc2 52. Qxc5 a6
+53. Qb6 f3 54. Qxa6 f2 55. Qf6 b4 56. Bxb4 Kd1 57. Qxf2 Kc2 58. d4+ Kd3 59.
+Qd2+ Ke4 60. d5 Ke5 61. d6 Ke6 62. d7 Kf5 63. Qf2+ Kg4 64. d8=Q Kh5 65. Qh8+
+Kg6 66. Qhf6+ Kh5 67. Q2f3+ Kh4 68. Qh3# 1-0
+

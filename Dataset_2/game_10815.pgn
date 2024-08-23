@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.03"]
+[Round "-"]
+[White "yusufidresi"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "2r2rk1/5ppp/p3p2b/1p2P3/2pP3Q/P1R1PR1P/1P4P1/1B4K1 b - -"]
+[Timezone "UTC"]
+[ECO "B20"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Bowdler-Attack-2...e6"]
+[UTCDate "2023.12.03"]
+[UTCTime "16:43:04"]
+[WhiteElo "1994"]
+[BlackElo "1930"]
+[TimeControl "600"]
+[Termination "yusufidresi won by resignation"]
+[StartTime "16:43:04"]
+[EndDate "2023.12.03"]
+[EndTime "16:49:31"]
+[Link "https://www.chess.com/game/live/95360946581"]
+
+1. e4 { [%clk 0:09:56.4] } 1... c5 { [%clk 0:09:59.2] } 2. Bc4
+{ [%clk 0:09:52.9] } 2... e6 { [%clk 0:09:50.5] } 3. d3 { [%clk 0:09:51.3] }
+3... a6 { [%clk 0:09:49.4] } 4. a3 { [%clk 0:09:49.6] } 4... b5
+{ [%clk 0:09:47.6] } 5. Ba2 { [%clk 0:09:47.7] } 5... Bb7 { [%clk 0:09:47.5] }
+6. Bf4 { [%clk 0:09:43.4] } 6... Nf6 { [%clk 0:09:45.1] } 7. Nf3
+{ [%clk 0:09:39.8] } 7... d6 { [%clk 0:09:12.8] } 8. O-O { [%clk 0:09:37.2] }
+8... Be7 { [%clk 0:08:34.1] } 9. Nbd2 { [%clk 0:09:34.9] } 9... O-O
+{ [%clk 0:08:30.1] } 10. h3 { [%clk 0:09:32.5] } 10... d5 { [%clk 0:08:20.3] }
+11. e5 { [%clk 0:09:13.1] } 11... Nfd7 { [%clk 0:08:19.1] } 12. c3
+{ [%clk 0:09:07.8] } 12... Nc6 { [%clk 0:08:17.1] } 13. d4 { [%clk 0:09:04.3] }
+13... cxd4 { [%clk 0:08:13.4] } 14. cxd4 { [%clk 0:09:02.5] } 14... Rc8
+{ [%clk 0:08:13] } 15. Rc1 { [%clk 0:08:57.8] } 15... Na5 { [%clk 0:07:58.6] }
+16. Be3 { [%clk 0:08:48.8] } 16... Nc4 { [%clk 0:07:53.2] } 17. Nxc4
+{ [%clk 0:08:46.1] } 17... dxc4 { [%clk 0:07:49.1] } 18. Bb1
+{ [%clk 0:08:44.4] } 18... Nb6 { [%clk 0:07:30.9] } 19. Nh2
+{ [%clk 0:08:36.8] } 19... Nd5 { [%clk 0:07:29] } 20. Qg4 { [%clk 0:08:24.2] }
+20... Nxe3 { [%clk 0:07:16.7] } 21. fxe3 { [%clk 0:08:21.9] } 21... Bg5
+{ [%clk 0:07:01.1] } 22. Rc3 { [%clk 0:07:59.9] } 22... Bh6
+{ [%clk 0:06:33.2] } 23. Nf3 { [%clk 0:07:49.7] } 23... Bxf3
+{ [%clk 0:06:10.3] } 24. Rxf3 { [%clk 0:07:44.9] } 24... Qh4
+{ [%clk 0:06:08.8] } 25. Qxh4 { [%clk 0:07:40.5] } 1-0
+

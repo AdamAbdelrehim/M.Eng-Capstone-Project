@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "stochasticvolatility"]
+[Black "titanictension"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/14nbsrHl"]
+[WhiteElo "2558"]
+[BlackElo "2640"]
+[ECO "A46"]
+[Opening "Indian Defense: Wade-Tartakower Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:30:59"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-9"]
+
+1. d4 Nf6 2. Nf3 d6 3. g3 Bg4 4. Bg2 c6 5. c4 Nbd7 6. Nc3 e5 7. O-O g6 8. b3
+Bg7 9. dxe5 dxe5 10. Ba3 Bf8 11. Bxf8 Kxf8 12. Ng5 h6 13. Nge4 Kg7 14. f4 Nxe4
+15. Nxe4 Re8 16. h3 Be6 17. Nd6 Qb6+ 18. Kh2 Red8 19. e4 exf4 20. gxf4 Nf6 21.
+e5 Ne8 22. Qd2 Nxd6 23. exd6 Qc5 24. Rad1 Rd7 25. Qc3+ Kh7 26. Qe5 b6 27. Be4
+Rad8 28. Bxg6+ fxg6 29. Qxe6 Qf5 30. Qxf5 gxf5 31. Rfe1 Rxd6 32. Re7+ Kg6 33.
+Rxd6+ Rxd6 34. Rxa7 Rd2+ 35. Kg3 Rd3+ 36. Kf2 Rxh3 37. Ra6 Kh5 38. Rxb6 Kg4 39.
+Rxc6 Kxf4 40. c5 Rh2+ 41. Ke1 Kf3 42. Rf6 f4 43. c6 Rc2 44. Kd1 Rc5 45. Rxh6
+Ke3 46. b4 Rd5+ 47. Kc2 f3 48. Re6+ Kf4 49. Rf6+ Kg3 50. c7 Rf5 51. Kb3 Rxf6
+52. c8=Q Rf4 53. Qg8+ Kf2 54. Qb8 Ke2 55. Qxf4 f2 56. Qf3+ Kf1 57. b5 Kg1 58.
+b6 f1=Q 59. Qf2+ 1-0
+

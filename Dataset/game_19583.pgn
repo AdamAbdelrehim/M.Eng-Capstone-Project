@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "INGENIEROCIVILL"]
+[Black "Fritzi_2003"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/h6LMsz6r"]
+[WhiteElo "2494"]
+[BlackElo "2698"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Mokele Mbembe"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:43:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+2"]
+
+1. e4 Nf6 2. e5 Ne4 3. c4 d5 4. d3 Nc5 5. Qf3 Be6 6. Be3 d4 7. Bf4 Nc6 8. Nh3
+h6 9. Qh5 g6 10. Qh4 Bg7 11. Bg3 Qd7 12. Nd2 g5 13. Nxg5 hxg5 14. Qxg5 Bh6 0-1
+

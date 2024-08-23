@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "vogelj"]
+[Black "MarkedSicilian"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/C9HKAqOE"]
+[WhiteElo "2473"]
+[BlackElo "2559"]
+[ECO "B04"]
+[Opening "Alekhine Defense: Modern Variation, Larsen Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:30:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 dxe5 5. Nxe5 c6 6. c4 Nb4 7. a3 Qxd4 8.
+axb4 Qxe5+ 9. Be2 Bg4 10. f3 Bf5 11. O-O Bxb1 12. Rxb1 e6 13. Re1 Bxb4 14. Bd2
+Qd4+ 0-1
+

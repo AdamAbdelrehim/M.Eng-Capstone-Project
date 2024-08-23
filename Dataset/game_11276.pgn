@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "suddenly_sad"]
+[Black "locobreath"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/pgfRgTAi"]
+[WhiteTitle "FM"]
+[WhiteElo "2590"]
+[BlackElo "2519"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:43:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. Nf3 c5 2. b3 Nc6 3. Bb2 Nf6 4. e3 e6 5. Bb5 Qc7 6. Bxc6 Qxc6 7. O-O d5 8. d3
+Bd6 9. Ne5 Qc7 10. f4 O-O 11. Nd2 Nd7 12. Qh5 f6 13. Nxd7 Bxd7 14. c4 Be8 15.
+Qh3 Bf7 16. Qg4 Kh8 17. e4 d4 18. f5 Bxh2+ 19. Kh1 Qg3 20. Qxg3 Bxg3 21. b4
+exf5 22. bxc5 fxe4 23. Nxe4 Be5 24. Rab1 Bg6 25. Ba3 Bxe4 26. dxe4 Rab8 27. c6
+Rf7 28. cxb7 Rfxb7 29. Rxb7 Rxb7 30. c5 Kg8 31. Kg1 Kf7 32. Kf2 Ke6 33. Ke2 Kd7
+34. Kd3 Kc6 35. Kc4 h5 36. Rh1 g6 37. Rf1 h4 38. Rh1 g5 39. Bb4 a5 40. Ba3 Rb8
+41. Kd3 Rh8 42. Rb1 g4 43. Kc4 h3 44. gxh3 gxh3 45. Rh1 h2 46. Bb2 Rh4 47. Bc1
+Rxe4 48. Bd2 Re2 49. Bxa5 Rxa2 50. Bb6 Rg2 51. Kd3 Rg1 0-1
+

@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "CoolGuy64Chess"]
+[Black "BenduEducation"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/w3ps7QCD"]
+[WhiteElo "2508"]
+[BlackElo "2531"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:19:50"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. Bf4 c5 3. d5 b5 4. e4 Nxe4 5. Nd2 Nf6 6. c4 bxc4 7. Bxc4 d6 8. Ne2
+g6 9. O-O Bg7 10. Qa4+ Nbd7 11. Nc3 O-O 12. Bb3 Nb6 13. Qa5 Bb7 14. Rfe1 Nbxd5
+15. Nxd5 Qxa5 0-1
+

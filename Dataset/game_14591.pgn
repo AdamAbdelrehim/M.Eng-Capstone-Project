@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "DR_speedrun_2700"]
+[Black "sergolvz"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/gDxJNu63"]
+[WhiteElo "2585"]
+[BlackElo "2592"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation, Stoltz Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:39:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 Nf6 4. e5 Nd5 5. Bc4 Nb6 6. Bb3 g6 7. d4 cxd4 8. Ng5
+Nxe5 9. cxd4 h6 10. dxe5 hxg5 11. Bxg5 Bg7 12. Qf3 O-O 13. Qg3 Qc7 14. Bf4 d5
+15. exd6 exd6 16. Nc3 Re8+ 17. Kf1 Be6 18. Bxd6 Qc6 19. h4 Rad8 20. Bf4 Bc4+
+21. Kg1 Rd3 22. Qg5 Bf6 23. Qh6 Bg7 24. Qg5 Bf6 25. Qg4 Rd4 26. h5 g5 27. g3
+Kh8 28. Qf5 Bd3 29. Qa5 gxf4 30. Bxf7 fxg3 31. Bxe8 gxf2+ 32. Kxf2 Rf4+ 33. Ke3
+Qf3+ 34. Kd2 Nc4+ 0-1
+

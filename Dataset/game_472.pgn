@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "AKS-Mantissa"]
+[Black "RaspFish"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/4jEVHbEz"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2710"]
+[BlackElo "2993"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Defense"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "02:54:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. Be3 a6 5. a4 Nf6 6. f3 O-O 7. Nge2 e5 8. dxe5
+dxe5 9. Qxd8 Rxd8 10. Nc1 Be6 11. Nd3 Nfd7 12. h4 h5 13. Nb4 Bf8 14. Nbd5 Bd6
+15. O-O-O Nc6 16. Bc4 Nd4 17. f4 b5 18. fxe5 Nxe5 19. Bxd4 Nxc4 20. Nf6+ Kf8
+21. Nh7+ Kg8 22. Nf6+ Kf8 23. Nh7+ Ke8 24. Nf6+ Kf8 1/2-1/2
+

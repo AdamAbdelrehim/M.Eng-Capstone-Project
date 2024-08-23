@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "DR_speedrun_2700"]
+[Black "calculorapido"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/tU70l4AA"]
+[BlackTitle "IM"]
+[WhiteElo "2574"]
+[BlackElo "2565"]
+[ECO "C10"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:52:42"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-8"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bd3 Ngf6 6. Qe2 Nxe4 7. Bxe4 Nf6
+8. Bxb7 Bxb7 9. Qb5+ Nd7 10. Qxb7 Bd6 11. Nf3 O-O 12. Bg5 Rb8 13. Qxa7 Qc8 14.
+Qa4 Rxb2 15. O-O Nb6 16. Qc6 Nd5 17. c4 Nc3 18. c5 Rc2 19. Rfe1 Ne2+ 20. Kf1
+Nxd4 21. Nxd4 Rxc5 22. Qe4 Rxg5 23. a4 Qa6+ 24. Kg1 Qa5 25. Nf3 Rh5 26. h3 Rb8
+27. Rab1 Rxb1 28. Rxb1 g6 29. Rb8+ Kg7 30. Qd4+ e5 31. Qe4 Rf5 32. Qc6 Rf6 33.
+Qe8 e4 34. Qh8+ Kh6 35. Qxf6 exf3 36. gxf3 Qe1+ 37. Kg2 1-0
+

@@ -1,0 +1,32 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/oNUIaDtp"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Novozhilov_Semyon"]
+[Black "Evgeniy_Michshenko"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/LYClEtQx"]
+[WhiteTitle "FM"]
+[WhiteElo "2486"]
+[BlackElo "2514"]
+[ECO "C41"]
+[Opening "Philidor Defense: Lion Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:54:53"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 Nbd7 4. Nf3 e5 5. h3 Be7 6. Bc4 O-O 7. O-O c6 8. a4
+a5 9. Re1 Qc7 10. Be3 exd4 11. Nxd4 Ne5 12. Bf1 Re8 13. f4 Ng6 14. g3 Bf8 15.
+Bg2 Bd7 16. Qd2 Ne7 17. Rad1 Rad8 18. g4 Nc8 19. g5 Nh5 20. f5 Nb6 21. b3 d5
+22. exd5 Bd6 23. Nf3 Bf4 24. Bxf4 Nxf4 25. d6 Qc8 26. Qxf4 Bxf5 27. Rxe8+ Rxe8
+28. Ne5 Qe6 29. d7 Rd8 30. Ne2 f6 31. gxf6 gxf6 32. Nd4 Qxe5 33. Qxf5 Rxd7 34.
+Qg4+ Kh8 35. c3 Rg7 36. Qf3 Nd5 37. Nf5 Rg5 38. Nd4 f5 39. Rf1 f4 40. Rf2 Rg3
+41. Qe2 Ne3 42. Kh2 Kg7 43. Nf3 Qe7 44. Qd3 Qh4 45. Qd4+ Qf6 46. Qxf6+ Kxf6 47.
+Ne1 Nxg2 48. Nxg2 Rxc3 49. Rxf4+ Ke5 50. Rh4 Rxb3 51. Rxh7 Rb5 52. h4 Rb4 53.
+h5 b5 54. axb5 cxb5 55. h6 Kf6 56. Ra7 Kg6 57. h7 Rc4 58. h8=Q Rh4+ 59. Qxh4
+Kf5 60. Qh7+ Ke6 61. Re7+ Kd5 62. Qf7+ Kc5 63. Qe8 Kc4 64. Rd7 Kb4 65. Qc8 a4
+66. Rb7 Ka5 67. Qc6 Kb4 68. Qxb5+ Kc3 69. Qxa4 Kd3 70. Qb4 1-0
+

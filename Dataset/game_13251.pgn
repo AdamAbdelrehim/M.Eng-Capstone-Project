@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "nubbelonair"]
+[Black "Peter-Quinn"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/X9s4vgR1"]
+[WhiteElo "2554"]
+[BlackElo "2411"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:16:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 Qc7 5. Nc3 a6 6. Bd3 Bxd3 7. cxd3 e6 8. h5 h6
+9. Nf3 Ne7 10. O-O Nf5 11. Bf4 Be7 12. Ne2 Qb6 13. Qd2 Nd7 14. Rac1 c5 15. dxc5
+Nxc5 16. g4 1-0
+

@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.29"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "sorin0304"]
+[Result "0-1"]
+[CurrentPosition "r3kb1r/ppp1ppp1/2B5/7p/6n1/2N4q/PPPP1P1N/R1BQ1RK1 b kq -"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Declined-2...d5-3.exd5-Qxd5-4.Nc3"]
+[UTCDate "2023.04.29"]
+[UTCTime "06:56:01"]
+[WhiteElo "1864"]
+[BlackElo "1904"]
+[TimeControl "600"]
+[Termination "sorin0304 won by resignation"]
+[StartTime "06:56:01"]
+[EndDate "2023.04.29"]
+[EndTime "06:57:56"]
+[Link "https://www.chess.com/game/live/76490420197"]
+
+1. e4 { [%clk 0:10:00] } 1... Nc6 { [%clk 0:09:59.1] } 2. Nf3
+{ [%clk 0:09:58.9] } 2... d5 { [%clk 0:09:55.9] } 3. exd5 { [%clk 0:09:57.2] }
+3... Qxd5 { [%clk 0:09:54] } 4. Nc3 { [%clk 0:09:56.4] } 4... Qh5
+{ [%clk 0:09:52.3] } 5. Be2 { [%clk 0:09:55] } 5... Bg4 { [%clk 0:09:50.4] } 6.
+O-O { [%clk 0:09:52.7] } 6... Nf6 { [%clk 0:09:49.3] } 7. h3
+{ [%clk 0:09:52.1] } 7... Bxh3 { [%clk 0:09:47.5] } 8. gxh3
+{ [%clk 0:09:50.4] } 8... Qxh3 { [%clk 0:09:46.5] } 9. Nh2 { [%clk 0:09:23.5] }
+9... h5 { [%clk 0:09:36.5] } 10. Bf3 { [%clk 0:09:19.4] } 10... Ng4
+{ [%clk 0:09:34.9] } 11. Bxc6+ { [%clk 0:09:02.9] } 0-1
+

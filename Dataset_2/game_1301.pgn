@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.06.05"]
+[Round "-"]
+[White "Apollo1969"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "Bn1qkb1r/p3pppp/5n2/2p1p3/8/8/PPPP1PPP/RNBQK2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "B50"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-2.Nf3-d6"]
+[UTCDate "2021.06.05"]
+[UTCTime "03:47:22"]
+[WhiteElo "1415"]
+[BlackElo "1414"]
+[TimeControl "600"]
+[Termination "Apollo1969 won by resignation"]
+[StartTime "03:47:22"]
+[EndDate "2021.06.05"]
+[EndTime "03:48:18"]
+[Link "https://www.chess.com/game/live/16603569131"]
+
+1. e4 { [%clk 0:09:55.6] } 1... c5 { [%clk 0:09:54.4] } 2. Nf3
+{ [%clk 0:09:52.7] } 2... d6 { [%clk 0:09:53.5] } 3. e5 { [%clk 0:09:51.4] }
+3... Bg4 { [%clk 0:09:40.1] } 4. Be2 { [%clk 0:09:41.3] } 4... Bxf3
+{ [%clk 0:09:37.9] } 5. Bxf3 { [%clk 0:09:38.9] } 5... dxe5
+{ [%clk 0:09:37.1] } 6. Bxb7 { [%clk 0:09:37.4] } 6... Nf6 { [%clk 0:09:32.4] }
+7. Bxa8 { [%clk 0:09:35.2] } 1-0
+

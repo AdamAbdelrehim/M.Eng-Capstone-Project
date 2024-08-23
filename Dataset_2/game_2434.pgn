@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.20"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "mateus_cristais"]
+[Result "0-1"]
+[CurrentPosition "r1bqkbnr/1ppp1ppp/p7/8/2n1P3/5N2/PPP2PPP/RNBQK2R w KQkq -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game"]
+[UTCDate "2021.10.20"]
+[UTCTime "03:16:43"]
+[WhiteElo "1543"]
+[BlackElo "1577"]
+[TimeControl "600"]
+[Termination "mateus_cristais won by resignation"]
+[StartTime "03:16:43"]
+[EndDate "2021.10.20"]
+[EndTime "03:17:15"]
+[Link "https://www.chess.com/game/live/28438774771"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:59.9] } 2. Nf3
+{ [%clk 0:09:59.1] } 2... Nc6 { [%clk 0:09:58.4] } 3. Bc4 { [%clk 0:09:58.5] }
+3... a6 { [%clk 0:09:50.9] } 4. d4 { [%clk 0:09:57.6] } 4... exd4
+{ [%clk 0:09:46.7] } 5. Nxd4 { [%clk 0:09:55.7] } 5... Ne5 { [%clk 0:09:42.3] }
+6. Nf3 { [%clk 0:09:53.2] } 6... Nxc4 { [%clk 0:09:39.3] } 0-1
+

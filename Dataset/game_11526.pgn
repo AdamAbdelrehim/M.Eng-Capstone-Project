@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "CoolGuy64Chess"]
+[Black "ignat_final"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/NTCCWMjX"]
+[WhiteElo "2503"]
+[BlackElo "2523"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with d6"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:22:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Be2 g6 5. O-O Bg7 6. d3 O-O 7. Be3 Nc6 8. Nbd2
+e5 9. a3 h6 10. h3 Kh7 11. b4 b6 12. b5 Nb8 13. c4 Ng8 14. Nh2 f5 15. f4 Bb7
+16. Ra2 fxe4 17. Nxe4 Bxe4 18. dxe4 exf4 19. Bxf4 Be5 20. Bxe5 dxe5 21. Rxf8
+Qxf8 22. Qd5 Qf4 23. Qxa8 Qe3+ 24. Kh1 Nf6 25. Nf1 Qb3 26. Rd2 Nbd7 27. Qxa7
+Kh8 28. Rxd7 Nxd7 29. Qxd7 Qxa3 30. Qe8+ Kh7 31. Qxe5 Qa2 32. Ng3 Qa1+ 33. Qxa1
+1-0
+

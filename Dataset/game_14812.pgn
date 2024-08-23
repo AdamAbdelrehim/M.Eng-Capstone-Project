@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "saeta"]
+[Black "Neftegor"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/2rbIDNYb"]
+[WhiteElo "2457"]
+[BlackElo "2559"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:10:00"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. g3 Bb4+ 5. Bd2 Be7 6. Qc2 O-O 7. Bg2 c6 8. O-O
+b6 9. Rd1 Ba6 10. b3 Nbd7 11. a4 Rc8 12. a5 dxc4 13. bxc4 c5 14. axb6 Qxb6 15.
+Qa4 Nb8 16. Ba5 Qd6 17. Nc3 cxd4 18. Nxd4 Qc5 19. Ncb5 Qxc4 20. Qxc4 Rxc4 21.
+Nxa7 Rxd4 22. Rxd4 Bc5 23. Rd8 Bxa7 24. Rxf8+ Kxf8 25. Bc7 Bd4 26. Ra4 e5 27.
+Bxb8 Bxe2 28. Bc6 Ke7 29. Ba7 Kd6 30. Bxd4 exd4 31. Rxd4+ Kxc6 32. h3 Bb5 33.
+g4 h6 34. Kh2 g5 35. Kg3 Kc7 36. f4 Bc6 37. Rc4 Kd6 38. Rd4+ Bd5 39. Kf2 Kc5
+40. Ke3 Kd6 41. Rd1 Kc5 42. Rd2 Kd6 43. h4 Kc5 44. fxg5 hxg5 45. hxg5 Nh7 46.
+Kf4 1-0
+

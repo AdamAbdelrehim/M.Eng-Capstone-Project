@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Venevtsev_Andrey"]
+[Black "Alethiometer"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/xLORCzko"]
+[WhiteElo "2464"]
+[BlackElo "2530"]
+[ECO "B76"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:29:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. Kb1 Nxd4 11. e5 Nf5 12. exf6 exf6 13. Bc5 d4 14. Ne4 Re8
+15. Bb5 Bd7 16. Bxd7 Qxd7 17. g4 Ne3 18. Qxe3 dxe3 19. Rxd7 f5 20. gxf5 gxf5
+21. Nd6 Re5 22. Bd4 Rd5 23. Bxg7 Kxg7 24. Ne8+ Rxe8 25. Rxd5 1-0
+

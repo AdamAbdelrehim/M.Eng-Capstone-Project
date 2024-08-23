@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sebastien17"]
+[Black "tempstream"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/r0HmKSmH"]
+[WhiteElo "2600"]
+[BlackElo "2580"]
+[ECO "A22"]
+[Opening "English Opening: King's English Variation, Adhiban Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:52:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-8"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 e4 4. Ng5 c6 5. Qa4 Qe7 6. g3 h6 7. Nh3 d6 8. Bg2
+Bf5 9. e3 Nbd7 10. O-O g5 11. f4 exf3 12. Rxf3 Nc5 13. Qb4 Nd3 14. Qb3 Bg4 15.
+Rf1 Bg7 16. Nf2 Nxf2 17. Rxf2 O-O 18. d3 Nd7 19. Qxb7 Rab8 20. Qxc6 Ne5 21. Qe4
+Be6 22. Nd5 Qd8 23. a3 f5 24. Qd4 Nc6 25. Qxg7+ Kxg7 26. b4 Ne5 27. Bb2 Kg8 28.
+Rd1 Qd7 29. Rfd2 Qa4 30. Ne7+ Kf7 31. Bxe5 dxe5 32. Nc6 Rbc8 33. Nxe5+ Kg7 34.
+c5 Qxa3 35. d4 Qxb4 36. d5 Qxc5 37. Kh1 Qxe3 38. Nf3 Bf7 39. d6 Rcd8 40. d7 Be6
+41. Nd4 Bxd7 42. Re2 Qc3 43. Re7+ Kf6 44. Ree1 Ba4 45. Re6+ Kf7 46. Rde1 Rxd4
+47. Re7+ Kf6 48. R1e6# 1-0
+

@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "BertramicAttack"]
+[Black "ilprofessore87"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/TVwgr4vn"]
+[WhiteElo "2495"]
+[BlackElo "2545"]
+[ECO "A41"]
+[Opening "Rat Defense: English Rat"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:24:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. c4 d6 2. d4 e5 3. Nf3 e4 4. Nfd2 f5 5. Nc3 Nf6 6. g3 c5 7. dxc5 dxc5 8. Bg2
+g6 9. O-O Bg7 10. Qc2 O-O 11. Rd1 Nc6 12. Ndxe4 Nd4 13. Nxf6+ Qxf6 14. Qd2 f4
+15. Nd5 1-0
+

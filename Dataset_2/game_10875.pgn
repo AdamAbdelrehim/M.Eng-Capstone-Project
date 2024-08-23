@@ -1,0 +1,43 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.10"]
+[Round "-"]
+[White "ploplomm"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "2r3k1/pp3p1p/4rqp1/2P5/1PNQ4/P6P/5PP1/3R1RK1 b - -"]
+[Timezone "UTC"]
+[ECO "A48"]
+[ECOUrl "https://www.chess.com/openings/Indian-Game-Knights-Variation-East-Indian-Defense-3.c3"]
+[UTCDate "2023.12.10"]
+[UTCTime "19:44:08"]
+[WhiteElo "1981"]
+[BlackElo "1938"]
+[TimeControl "600"]
+[Termination "ploplomm won by resignation"]
+[StartTime "19:44:08"]
+[EndDate "2023.12.10"]
+[EndTime "19:47:16"]
+[Link "https://www.chess.com/game/live/95976317307"]
+
+1. d4 { [%clk 0:09:59.9] } 1... Nf6 { [%clk 0:09:56] } 2. Nf3
+{ [%clk 0:09:50.5] } 2... g6 { [%clk 0:09:55.6] } 3. c3 { [%clk 0:09:47] } 3...
+d5 { [%clk 0:09:55.2] } 4. h3 { [%clk 0:09:45.3] } 4... c5 { [%clk 0:09:54.8] }
+5. dxc5 { [%clk 0:09:44] } 5... Nc6 { [%clk 0:09:52.6] } 6. b4
+{ [%clk 0:09:42.6] } 6... e5 { [%clk 0:09:52.2] } 7. Bb2 { [%clk 0:09:41.4] }
+7... Bg7 { [%clk 0:09:46] } 8. e3 { [%clk 0:09:39.5] } 8... O-O
+{ [%clk 0:09:44.5] } 9. a3 { [%clk 0:09:38.4] } 9... Bf5 { [%clk 0:09:40.2] }
+10. Be2 { [%clk 0:09:34.9] } 10... Rc8 { [%clk 0:09:37.3] } 11. Nbd2
+{ [%clk 0:09:32.5] } 11... Re8 { [%clk 0:09:35.9] } 12. O-O
+{ [%clk 0:09:30.9] } 12... Ne4 { [%clk 0:09:27.7] } 13. Nxe4
+{ [%clk 0:09:27.5] } 13... Bxe4 { [%clk 0:09:25.1] } 14. Nd2
+{ [%clk 0:09:25.3] } 14... Bf5 { [%clk 0:09:23.4] } 15. Bg4
+{ [%clk 0:09:21.8] } 15... Bxg4 { [%clk 0:09:17.1] } 16. Qxg4
+{ [%clk 0:09:19.3] } 16... d4 { [%clk 0:09:11.3] } 17. cxd4
+{ [%clk 0:09:17.6] } 17... exd4 { [%clk 0:09:10] } 18. exd4
+{ [%clk 0:09:14.5] } 18... Nxd4 { [%clk 0:09:09.2] } 19. Bxd4
+{ [%clk 0:08:57.9] } 19... Bxd4 { [%clk 0:09:02.2] } 20. Rad1
+{ [%clk 0:08:56.7] } 20... Qf6 { [%clk 0:08:46.9] } 21. Nc4
+{ [%clk 0:08:50.2] } 21... Re6 { [%clk 0:08:22.7] } 22. Qxd4
+{ [%clk 0:08:45.2] } 1-0
+

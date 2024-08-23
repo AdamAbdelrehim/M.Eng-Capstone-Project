@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Hoon_Bot"]
+[Black "PetersBot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/yROCmDkm"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2882"]
+[BlackElo "2975"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System, with e6"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:28:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. Nf3 d5 2. d4 e6 3. Bf4 c5 4. e3 Nf6 5. c3 Qb6 6. Qb3 Nc6 7. h3 Be7 8. Nbd2
+O-O 9. Qc2 Qd8 10. Be2 b6 11. O-O Bb7 12. Rfe1 h6 13. Rad1 Bd6 14. Bxd6 Qxd6
+15. dxc5 bxc5 16. c4 Rfd8 17. cxd5 exd5 18. e4 Qc7 19. exd5 Nb4 20. Qb1 Nbxd5
+21. Bf1 Nf4 22. Ne5 Ne6 23. Ndf3 Rxd1 24. Qxd1 Rd8 25. Qa4 Bd5 26. Bc4 Bxc4 27.
+Qxc4 Rd6 28. Qb3 Nh7 29. h4 Nf6 30. a3 Rb6 31. Qc2 Qb8 32. Re2 Rd6 33. Re3 Qb7
+34. Rb3 Rb6 35. Rxb6 axb6 36. a4 Qe7 37. Qe2 Nd4 38. Nxd4 cxd4 39. Qb5 Qe6 40.
+Nf3 Ng4 41. Kf1 Qe4 42. Nd2 Nh2+ 43. Kg1 Qe1+ 44. Kxh2 Qxd2 45. Qe8+ Kh7 46.
+Qxf7 Qxb2 47. Qf5+ Kh8 48. Qc8+ Kh7 49. Qf5+ Kh8 50. Qf8+ Kh7 51. h5 Qe2 52.
+Qf5+ Kh8 53. Qc8+ Kh7 54. Qf5+ Kh8 55. Qc8+ Kh7 56. Qf5+ 1/2-1/2
+

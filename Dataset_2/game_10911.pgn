@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.14"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "SimratZ"]
+[Result "0-1"]
+[CurrentPosition "r3k2r/ppp2pp1/2p1b3/2b3Bp/3PP1n1/2P4P/PP2BPPq/RN1Q1RK1 w kq -"]
+[Timezone "UTC"]
+[ECO "C42"]
+[ECOUrl "https://www.chess.com/openings/Petrovs-Defense-Classical-Stafford-Gambit-4.Nxc6-dxc6"]
+[UTCDate "2023.12.14"]
+[UTCTime "16:33:56"]
+[WhiteElo "1923"]
+[BlackElo "1961"]
+[TimeControl "600"]
+[Termination "SimratZ won by checkmate"]
+[StartTime "16:33:56"]
+[EndDate "2023.12.14"]
+[EndTime "16:35:41"]
+[Link "https://www.chess.com/game/live/96310532303"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:48] } 2. Nf3 { [%clk 0:09:58.8] }
+2... Nf6 { [%clk 0:09:46.7] } 3. Nxe5 { [%clk 0:09:56.7] } 3... Nc6
+{ [%clk 0:09:44.3] } 4. Nxc6 { [%clk 0:09:55.5] } 4... dxc6
+{ [%clk 0:09:44.2] } 5. d3 { [%clk 0:09:52.3] } 5... Bc5 { [%clk 0:09:39] } 6.
+Be2 { [%clk 0:09:51.4] } 6... h5 { [%clk 0:09:36] } 7. h3 { [%clk 0:09:49.6] }
+7... Be6 { [%clk 0:09:28] } 8. Bg5 { [%clk 0:09:44] } 8... Qd4
+{ [%clk 0:09:26.3] } 9. O-O { [%clk 0:09:33.3] } 9... Ng4 { [%clk 0:09:20.9] }
+10. c3 { [%clk 0:09:12.6] } 10... Qd6 { [%clk 0:09:17.9] } 11. d4
+{ [%clk 0:09:05.7] } 11... Qh2# { [%clk 0:09:15.4] } 0-1
+

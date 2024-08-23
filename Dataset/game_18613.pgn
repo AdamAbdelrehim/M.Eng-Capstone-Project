@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "supertolchok"]
+[Black "blindcrocodile"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/AivKvcrb"]
+[WhiteElo "2428"]
+[BlackElo "2603"]
+[ECO "B18"]
+[Opening "Caro-Kann Defense: Classical Variation, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:17:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. N1e2 e6 8. Nf4
+Bh7 9. Bc4 Nf6 10. O-O Bd6 11. Nxe6 fxe6 12. Bxe6 Qe7 13. Re1 Bxg3 14. Bf5
+Bxf2+ 15. Kxf2 Bxf5 16. Rxe7+ Kxe7 17. Qe1+ Kf7 18. Qb4 Nbd7 19. Bf4 Nd5 20.
+Qd6 N7f6 21. Qe5 Ng4+ 22. Kg3 Nxe5 23. Bxe5 0-1
+

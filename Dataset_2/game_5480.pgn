@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.06.20"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "s19580607"]
+[Result "0-1"]
+[CurrentPosition "B3k2r/3b4/pp2p2K/3pP2p/3P4/1PN3q1/2PQ2P1/8 w - -"]
+[Timezone "UTC"]
+[ECO "C01"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Franco-Hiva-Gambit"]
+[UTCDate "2022.06.20"]
+[UTCTime "16:57:51"]
+[WhiteElo "1824"]
+[BlackElo "1944"]
+[TimeControl "600"]
+[Termination "s19580607 won by checkmate"]
+[StartTime "16:57:51"]
+[EndDate "2022.06.20"]
+[EndTime "17:05:19"]
+[Link "https://www.chess.com/game/live/49483211843"]
+
+1. e4 { [%clk 0:10:00] } 1... e6 { [%clk 0:09:57.7] } 2. d4
+{ [%clk 0:09:58.3] } 2... f5 { [%clk 0:09:54.6] } 3. Nc3 { [%clk 0:09:47.5] }
+3... d5 { [%clk 0:09:52.2] } 4. e5 { [%clk 0:09:41.8] } 4... Ne7
+{ [%clk 0:09:48.6] } 5. Bg5 { [%clk 0:09:16.3] } 5... c6 { [%clk 0:09:46.7] }
+6. Nf3 { [%clk 0:08:49.8] } 6... Qb6 { [%clk 0:09:43.3] } 7. b3
+{ [%clk 0:08:34.6] } 7... Ng6 { [%clk 0:09:39.3] } 8. Qd2 { [%clk 0:08:30] }
+8... Bb4 { [%clk 0:09:32.9] } 9. a3 { [%clk 0:08:19.5] } 9... Qa5
+{ [%clk 0:09:31.2] } 10. axb4 { [%clk 0:07:53.1] } 10... Qxa1+
+{ [%clk 0:09:28.8] } 11. Ke2 { [%clk 0:07:53] } 11... b6 { [%clk 0:09:04.9] }
+12. b5 { [%clk 0:07:24.8] } 12... a6 { [%clk 0:08:46.2] } 13. bxc6
+{ [%clk 0:06:57.9] } 13... Nxc6 { [%clk 0:08:44] } 14. Ke3 { [%clk 0:06:53.7] }
+14... h6 { [%clk 0:08:29.3] } 15. Nh4 { [%clk 0:06:39.7] } 15... Nxh4
+{ [%clk 0:08:19.8] } 16. Bxh4 { [%clk 0:06:39.6] } 16... g5
+{ [%clk 0:08:14.7] } 17. Bb5 { [%clk 0:06:29] } 17... f4+ { [%clk 0:07:44] }
+18. Kf3 { [%clk 0:06:22.4] } 18... Qxh1 { [%clk 0:07:36.5] } 19. Bxc6+
+{ [%clk 0:06:20.5] } 19... Bd7 { [%clk 0:07:35.1] } 20. Bxa8
+{ [%clk 0:06:18.9] } 20... Qxh2 { [%clk 0:07:19.1] } 21. Bg3
+{ [%clk 0:06:10.3] } 21... fxg3 { [%clk 0:07:15.2] } 22. fxg3
+{ [%clk 0:06:08.8] } 22... Rf8+ { [%clk 0:07:12.3] } 23. Kg4
+{ [%clk 0:06:02.2] } 23... h5+ { [%clk 0:07:03.5] } 24. Kxg5
+{ [%clk 0:05:54.8] } 24... Qxg3+ { [%clk 0:07:00.8] } 25. Kh6
+{ [%clk 0:05:48] } 25... Rh8# { [%clk 0:06:56.7] } 0-1
+

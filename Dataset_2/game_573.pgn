@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.03"]
+[Round "-"]
+[White "AnanichevSergey"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rnb1kb1r/ppp1qBpp/1n6/4N3/8/8/PPPPQPPP/RNB1K2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C42"]
+[ECOUrl "https://www.chess.com/openings/Petrovs-Defense-Urusov-Gambit"]
+[UTCDate "2021.03.03"]
+[UTCTime "05:27:55"]
+[WhiteElo "1354"]
+[BlackElo "1294"]
+[TimeControl "1800"]
+[Termination "AnanichevSergey won by resignation"]
+[StartTime "05:27:55"]
+[EndDate "2021.03.03"]
+[EndTime "05:30:10"]
+[Link "https://www.chess.com/game/live/8488396073"]
+
+1. e4 { [%clk 0:29:59.6] } 1... e5 { [%clk 0:29:59.3] } 2. Bc4
+{ [%clk 0:29:53.4] } 2... Nf6 { [%clk 0:29:50.5] } 3. Nf3 { [%clk 0:29:46.8] }
+3... d5 { [%clk 0:29:38.9] } 4. exd5 { [%clk 0:29:39] } 4... Nxd5
+{ [%clk 0:29:37.8] } 5. Nxe5 { [%clk 0:29:34] } 5... Qe7 { [%clk 0:29:29.5] }
+6. Qe2 { [%clk 0:28:55.7] } 6... Nb6 { [%clk 0:29:16.9] } 7. Bxf7+
+{ [%clk 0:28:43] } 1-0
+

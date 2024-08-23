@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.30"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Tarick12"]
+[Result "0-1"]
+[CurrentPosition "2k3r1/1pp2p1p/3n4/8/8/5Nq1/PPP5/2KR4 w - -"]
+[Timezone "UTC"]
+[ECO "C45"]
+[ECOUrl "https://www.chess.com/openings/Scotch-Game-Scotch-Gambit-4...d6-5.Nxd4"]
+[UTCDate "2024.05.30"]
+[UTCTime "04:47:21"]
+[WhiteElo "1635"]
+[BlackElo "1674"]
+[TimeControl "60"]
+[Termination "Tarick12 won by resignation"]
+[StartTime "04:47:21"]
+[EndDate "2024.05.30"]
+[EndTime "04:48:25"]
+[Link "https://www.chess.com/game/live/110783491613"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.6] }
+2... Nc6 { [%clk 0:00:59.7] } 3. Bc4 { [%clk 0:00:59.3] } 3... d6
+{ [%clk 0:00:59.3] } 4. d4 { [%clk 0:00:59] } 4... exd4 { [%clk 0:00:57.4] } 5.
+Nxd4 { [%clk 0:00:58.9] } 5... Nxd4 { [%clk 0:00:57.1] } 6. Qxd4
+{ [%clk 0:00:58.8] } 6... Be6 { [%clk 0:00:56.6] } 7. Nc3 { [%clk 0:00:58.4] }
+7... Bxc4 { [%clk 0:00:55.7] } 8. Qxc4 { [%clk 0:00:58.3] } 8... Qd7
+{ [%clk 0:00:55.1] } 9. Be3 { [%clk 0:00:57.9] } 9... O-O-O
+{ [%clk 0:00:54.3] } 10. O-O-O { [%clk 0:00:57.5] } 10... Nf6
+{ [%clk 0:00:53.6] } 11. e5 { [%clk 0:00:56.6] } 11... Ne8 { [%clk 0:00:48.7] }
+12. exd6 { [%clk 0:00:55.6] } 12... Bxd6 { [%clk 0:00:48.6] } 13. Bxa7
+{ [%clk 0:00:53.9] } 13... Qe6 { [%clk 0:00:46.2] } 14. Bd4 { [%clk 0:00:52] }
+14... Qxc4 { [%clk 0:00:45] } 15. Bxg7 { [%clk 0:00:47.7] } 15... Rg8
+{ [%clk 0:00:44.3] } 16. Bf6 { [%clk 0:00:46.8] } 16... Rd7
+{ [%clk 0:00:41.7] } 17. Bh4 { [%clk 0:00:45.6] } 17... Be7
+{ [%clk 0:00:39.2] } 18. Bg3 { [%clk 0:00:45.5] } 18... Rxd1+
+{ [%clk 0:00:37.9] } 19. Rxd1 { [%clk 0:00:44.3] } 19... Bd6
+{ [%clk 0:00:37.3] } 20. Bxd6 { [%clk 0:00:42.8] } 20... Nxd6
+{ [%clk 0:00:37.2] } 21. Nb1 { [%clk 0:00:40.6] } 21... Qf4+
+{ [%clk 0:00:36.7] } 22. Nd2 { [%clk 0:00:38.1] } 22... Qxf2
+{ [%clk 0:00:34.8] } 23. g3 { [%clk 0:00:36.9] } 23... Qxh2 { [%clk 0:00:34] }
+24. Nf3 { [%clk 0:00:36.6] } 24... Qxg3 { [%clk 0:00:33.4] } 0-1
+

@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.06.18"]
+[Round "-"]
+[White "Zwischenzuegle"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "1Bb4r/rp2kpbp/pN2pnp1/2p5/4P3/8/PPP2PPP/R3KB1R b KQ -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Van-Geet-Opening-1...c5-2.Nf3"]
+[UTCDate "2024.06.18"]
+[UTCTime "05:49:50"]
+[WhiteElo "1961"]
+[BlackElo "1922"]
+[TimeControl "600"]
+[Termination "Zwischenzuegle won by resignation"]
+[StartTime "05:49:50"]
+[EndDate "2024.06.18"]
+[EndTime "05:52:01"]
+[Link "https://www.chess.com/game/live/112428637525"]
+
+1. Nf3 { [%clk 0:09:54.3] } 1... c5 { [%clk 0:09:57.1] } 2. Nc3
+{ [%clk 0:09:51.9] } 2... d6 { [%clk 0:09:54.9] } 3. e3 { [%clk 0:09:50.3] }
+3... Nf6 { [%clk 0:09:54.8] } 4. d4 { [%clk 0:09:48.8] } 4... e6
+{ [%clk 0:09:54.7] } 5. dxc5 { [%clk 0:09:39.8] } 5... dxc5
+{ [%clk 0:09:52.2] } 6. Qxd8+ { [%clk 0:09:37.6] } 6... Kxd8
+{ [%clk 0:09:52.1] } 7. Ne5 { [%clk 0:09:35.5] } 7... Ke7 { [%clk 0:09:46.3] }
+8. e4 { [%clk 0:09:31.1] } 8... a6 { [%clk 0:09:42] } 9. Be3
+{ [%clk 0:09:13.8] } 9... Nbd7 { [%clk 0:09:37.3] } 10. Bf4
+{ [%clk 0:09:10.6] } 10... Nxe5 { [%clk 0:09:34.4] } 11. Bxe5
+{ [%clk 0:09:09] } 11... g6 { [%clk 0:09:32.8] } 12. Na4 { [%clk 0:09:05.9] }
+12... Bg7 { [%clk 0:09:10.5] } 13. Nb6 { [%clk 0:09:01.3] } 13... Ra7
+{ [%clk 0:09:06.2] } 14. Bb8 { [%clk 0:08:55.5] } 1-0
+

@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.25"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Jackga217"]
+[Result "0-1"]
+[CurrentPosition "r3kb1r/ppp2p1p/8/4p1p1/5n1K/3P4/PPP1B1qP/R1BQ3R w kq g6"]
+[Timezone "UTC"]
+[ECO "C20"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-The-Bongcloud"]
+[UTCDate "2021.02.25"]
+[UTCTime "03:41:19"]
+[WhiteElo "1282"]
+[BlackElo "1133"]
+[TimeControl "1800"]
+[Termination "Jackga217 won by checkmate"]
+[StartTime "03:41:19"]
+[EndDate "2021.02.25"]
+[EndTime "03:45:34"]
+[Link "https://www.chess.com/game/live/7963436075"]
+
+1. e4 { [%clk 0:30:00] } 1... e5 { [%clk 0:30:00] } 2. Ke2 { [%clk 0:29:47.4] }
+2... Nf6 { [%clk 0:29:26.6] } 3. f3 { [%clk 0:29:00.5] } 3... Nc6
+{ [%clk 0:29:17.9] } 4. Nc3 { [%clk 0:28:56.1] } 4... Nd4+ { [%clk 0:29:13.9] }
+5. Kf2 { [%clk 0:28:52.4] } 5... d5 { [%clk 0:29:03.8] } 6. exd5
+{ [%clk 0:28:49.6] } 6... Nxd5 { [%clk 0:29:00.9] } 7. Ne4 { [%clk 0:28:43.4] }
+7... Bf5 { [%clk 0:28:53.5] } 8. Bc4 { [%clk 0:28:40.9] } 8... Bxe4
+{ [%clk 0:28:46.6] } 9. fxe4 { [%clk 0:28:39.2] } 9... Nf4 { [%clk 0:28:37.1] }
+10. Ne2 { [%clk 0:28:28.2] } 10... Ndxe2 { [%clk 0:28:28.3] } 11. Bxe2
+{ [%clk 0:28:27.6] } 11... Qd4+ { [%clk 0:28:15.6] } 12. Kg3
+{ [%clk 0:28:16.9] } 12... Qxe4 { [%clk 0:28:10.2] } 13. d3
+{ [%clk 0:28:11.7] } 13... Qxg2+ { [%clk 0:28:06.7] } 14. Kh4
+{ [%clk 0:28:05] } 14... g5# { [%clk 0:27:47.4] } 0-1
+

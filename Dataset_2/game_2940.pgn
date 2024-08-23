@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.11.17"]
+[Round "-"]
+[White "EFV1728"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rn1qkb1r/pp1bpQpp/5n2/1B2N3/8/8/Pp3PPP/RNB1K2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "B53"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Tartakower-Variation"]
+[UTCDate "2021.11.17"]
+[UTCTime "19:15:29"]
+[WhiteElo "1738"]
+[BlackElo "1715"]
+[TimeControl "600"]
+[Termination "EFV1728 won by checkmate"]
+[StartTime "19:15:29"]
+[EndDate "2021.11.17"]
+[EndTime "19:17:55"]
+[Link "https://www.chess.com/game/live/30915587839"]
+
+1. e4 { [%clk 0:09:59.8] } 1... c5 { [%clk 0:09:55.7] } 2. Nf3
+{ [%clk 0:09:58.8] } 2... d6 { [%clk 0:09:50.3] } 3. d4 { [%clk 0:09:58.1] }
+3... cxd4 { [%clk 0:09:27.2] } 4. c3 { [%clk 0:09:56.5] } 4... Nf6
+{ [%clk 0:09:27.1] } 5. e5 { [%clk 0:09:44.9] } 5... dxe5 { [%clk 0:09:17.8] }
+6. Bb5+ { [%clk 0:09:33.4] } 6... Bd7 { [%clk 0:09:10.1] } 7. Qb3
+{ [%clk 0:09:25.8] } 7... dxc3 { [%clk 0:08:30.9] } 8. Nxe5
+{ [%clk 0:09:19.6] } 8... cxb2 { [%clk 0:08:21.8] } 9. Qxf7#
+{ [%clk 0:09:17.2] } 1-0
+

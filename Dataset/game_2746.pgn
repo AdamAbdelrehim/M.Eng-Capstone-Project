@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Einsteiniumoxid"]
+[Black "LozadaClark0"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/7DLX4IFu"]
+[WhiteElo "2588"]
+[BlackElo "2416"]
+[ECO "E43"]
+[Opening "Nimzo-Indian Defense: St. Petersburg Variation"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:11:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "+20"]
+[BlackRatingDiff "-8"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 b6 5. Bd3 Bb7 6. Nf3 Bxc3+ 7. bxc3 O-O 8.
+Qc2 Bxf3 9. gxf3 d6 10. e4 e5 11. f4 exd4 12. cxd4 1-0
+

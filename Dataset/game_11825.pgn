@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Sokol1488"]
+[Black "art-tabar"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/L4sdZHZZ"]
+[WhiteTitle "FM"]
+[WhiteElo "2542"]
+[BlackElo "2514"]
+[ECO "B07"]
+[Opening "Czech Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:04:49"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. a4 e5 5. Nf3 Bg4 6. dxe5 Bxf3 7. Qxf3 dxe5 8.
+Bg5 Be7 9. Bc4 O-O 10. Rd1 Qc7 11. Bxf6 Bxf6 12. Qh3 a6 13. O-O b5 14. Bb3 b4
+15. Na2 a5 16. Rd3 Na6 17. Rd7 Qb6 18. Qh5 g6 19. Qf3 Nc5 20. Rd6 Bg7 21. Nc1
+Nxb3 22. Nxb3 Rad8 23. Rfd1 Qc7 24. Qd3 Bf6 25. Nc5 Be7 26. Rd7 Rxd7 27. Qxd7
+Qxd7 28. Nxd7 Rd8 29. Rd3 f6 30. Nb6 Kf7 31. Nc4 Rxd3 32. cxd3 Bd8 33. g3 Ke6
+34. f4 Bc7 35. Kg2 exf4 36. gxf4 Bxf4 37. Nxa5 Kd7 38. Nc4 b3 39. h3 Kc7 40.
+Kf3 Bc1 41. Ke2 c5 42. Kd1 Bf4 43. Na5 Be5 44. Nxb3 Bxb2 45. Nxc5 Kb6 46. Nb3
+g5 47. Ke2 h5 48. d4 Kc6 49. Kd3 Kb6 50. Ke3 Kc6 51. Kf3 Bc3 52. a5 Kb5 53. Ke3
+Bxa5 54. Nxa5 Kxa5 55. e5 fxe5 56. dxe5 Kb5 57. Ke4 Kc5 58. Kf5 g4 59. hxg4 h4
+60. e6 Kd6 61. Kf6 h3 62. e7 h2 63. e8=Q h1=Q 64. Qe5+ Kd7 65. Qe6+ Kc7 66. g5
+Qh8+ 67. Kg6 Qh4 68. Qf6 Kd7 69. Kg7 Qh5 70. Qf7+ Qxf7+ 71. Kxf7 Kd6 72. g6 Ke5
+73. g7 1-0
+

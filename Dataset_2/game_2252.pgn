@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.09"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Tyrisk"]
+[Result "1-0"]
+[CurrentPosition "rn1qk2r/pp2nppp/2pP4/8/4B3/5N2/PPP2PPP/R1BQK2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "B10"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Two-Knights-Attack"]
+[UTCDate "2021.10.09"]
+[UTCTime "05:15:22"]
+[WhiteElo "1111"]
+[BlackElo "1142"]
+[TimeControl "60"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "05:15:22"]
+[EndDate "2021.10.09"]
+[EndTime "05:15:57"]
+[Link "https://www.chess.com/game/live/27495567419"]
+
+1. e4 { [%clk 0:01:00] } 1... c6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:58.6] }
+2... d5 { [%clk 0:00:59.9] } 3. Nc3 { [%clk 0:00:56.4] } 3... dxe4
+{ [%clk 0:00:58] } 4. Nxe4 { [%clk 0:00:56.3] } 4... e5 { [%clk 0:00:56.7] } 5.
+d4 { [%clk 0:00:54.7] } 5... Bf5 { [%clk 0:00:55.7] } 6. Bd3
+{ [%clk 0:00:51.2] } 6... Bd6 { [%clk 0:00:54.7] } 7. dxe5 { [%clk 0:00:50] }
+7... Bxe4 { [%clk 0:00:52.3] } 8. Bxe4 { [%clk 0:00:48.7] } 8... Ne7
+{ [%clk 0:00:48.8] } 9. exd6 { [%clk 0:00:45.4] } 1-0
+

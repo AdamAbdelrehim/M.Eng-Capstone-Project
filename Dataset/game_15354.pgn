@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "asanovski"]
+[Black "DeviousCat"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Gs84USUr"]
+[WhiteElo "2535"]
+[BlackElo "2647"]
+[ECO "E47"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Bishop Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:23:08"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 d5 7. a3 dxc4 8. Bxc4
+cxd4 9. axb4 dxc3 10. Nxc3 Qe7 11. b5 Rd8 12. Qe2 Nbd7 13. O-O Nc5 14. e4 b6
+15. Bg5 h6 16. Bh4 g5 17. Bg3 Bb7 18. f3 Rac8 19. Rxa7 1-0
+

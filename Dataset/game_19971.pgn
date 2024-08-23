@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Aeroplanino7"]
+[Black "Mikhailov_Viacheslav"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/1bIFGpH2"]
+[BlackTitle "IM"]
+[WhiteElo "2893"]
+[BlackElo "2707"]
+[ECO "E62"]
+[Opening "King's Indian Defense: Fianchetto Variation, Lesser Simagin (Spassky)"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:39:45"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nf3 Nc6 7. O-O Bf5 8. b3
+Ne4 9. Nd5 Qd7 10. Re1 Nf6 11. Bb2 Be4 12. Nc3 Bf5 13. e4 Bg4 14. d5 Nb4 15. e5
+Ne8 16. a3 Na6 17. e6 fxe6 18. dxe6 Qc6 19. Nd5 Kh8 20. Bxg7+ Nxg7 21. h3 Bxf3
+22. Bxf3 Rae8 23. Bg2 Qc5 24. Qe2 c6 25. b4 Qd4 26. Rad1 Qe5 27. Qxe5 dxe5 28.
+b5 Nc5 29. bxc6 bxc6 30. Nb4 Ncxe6 31. Nxc6 Nd4 32. Rxe5 Nxc6 33. Bxc6 Rc8 34.
+Bg2 Nf5 35. c5 Rc7 36. Be4 Kg7 37. Kg2 h5 38. Bxf5 Rxf5 39. Rxf5 gxf5 40. Rc1
+e5 41. c6 Kf6 42. Rc5 Ke6 43. f4 exf4 44. gxf4 Kd6 45. Rxf5 Rxc6 46. Rxh5 Rc2+
+47. Kf3 Rc3+ 48. Kg4 Rxa3 49. Rh8 a5 50. h4 Ra1 51. h5 a4 52. Ra8 a3 53. Kf5
+Ke7 54. h6 a2 55. Ra7+ Ke8 56. Kf6 Rf1 57. Rxa2 Rxf4+ 58. Kg5 Rf1 59. h7 Rh1
+60. Ra8+ Kf7 61. h8=Q 1-0
+

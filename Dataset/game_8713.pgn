@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "CRBorn"]
+[Black "Richard_Nati"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ubgdZ7nG"]
+[WhiteElo "2547"]
+[BlackElo "2478"]
+[ECO "A00"]
+[Opening "Mieses Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "04:51:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. d3 Nf6 2. e3 e5 3. Ne2 Nc6 4. Nd2 d5 5. g3 Bd6 6. Bg2 O-O 7. h3 h5 8. a3 a5
+9. b3 Be6 10. Bb2 Qd7 11. Nf3 Bf5 12. Ng5 Ne7 13. e4 Bg6 14. f4 Nh7 15. Nxh7
+Bxh7 16. fxe5 Bc5 17. d4 Bb6 18. exd5 Nxd5 19. Qd2 c6 20. O-O-O f6 21. Nf4 Nxf4
+22. gxf4 fxe5 23. fxe5 a4 24. b4 Rad8 25. Kb1 Kh8 26. Qe2 Qf5 27. h4 Qe6 28.
+Rhf1 g6 29. Be4 Bg8 30. Kc1 Rxf1 31. Qxf1 Bf7 32. Qf4 Kg7 33. d5 cxd5 34. Rxd5
+Kg8 35. Rd6 Rxd6 36. exd6 Bd8 37. Bd4 Kh7 38. Kd2 b5 39. Ke3 Qa2 40. Qe5 Qe6
+41. Qg7# 1-0
+

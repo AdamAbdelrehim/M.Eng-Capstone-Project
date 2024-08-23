@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "PriscaM"]
+[Black "DanielaAndrade"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/7TiVd7jm"]
+[WhiteElo "2494"]
+[BlackElo "2515"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:48:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. f3 Nf6 5. Ne2 d5 6. e5 Nfd7 7. c3 c5 8. Be3 Nc6
+9. Nd2 Be7 10. Rc1 a5 11. f4 a4 12. f5 exf5 13. Bxf5 g6 14. Bb1 a3 15. b3 cxd4
+16. cxd4 Nf8 17. O-O Ne6 18. Nf3 O-O 19. Nf4 Qd7 20. h4 Nxf4 21. Bxf4 Qg4 22.
+Bg5 f6 23. Bh6 Rfe8 24. Qd3 Ba6 25. Rxc6 Bxd3 26. Bxd3 fxe5 27. dxe5 Bxh4 28.
+e6 Bf6 29. Re1 Rac8 30. Rxb6 Rc3 31. Bb5 Rxf3 32. Bxe8 Bd4+ 33. Kh1 Rh3+ 34.
+gxh3 Qxh3# 0-1
+

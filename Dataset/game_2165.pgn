@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Aleatenas"]
+[Black "Mikheil_Kekelidze"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ZtIH24K7"]
+[WhiteElo "2339"]
+[BlackElo "2505"]
+[ECO "B00"]
+[Opening "St. George Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:51:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 a6 2. d4 d6 3. c4 g6 4. Nf3 Bg7 5. Nc3 Bg4 6. Be3 Nc6 7. Be2 e5 8. d5
+Bxf3 9. Bxf3 Nd4 10. O-O Ne7 11. b4 O-O 12. c5 a5 13. cxd6 cxd6 14. b5 Rc8 15.
+Rc1 f5 16. Bg5 h6 17. Bxe7 Qxe7 18. a4 Rc4 19. Qd3 Rfc8 20. Na2 Rxc1 21. Rxc1
+Rxc1+ 22. Nxc1 Qc7 23. Ne2 Nxf3+ 24. gxf3 f4 25. Qc3 Qxc3 26. Nxc3 Bf6 27. Nb1
+Bd8 28. Na3 Kf7 29. Nc4 Ke7 30. b6 Kd7 31. Kg2 h5 32. h3 g5 33. Kf1 Ke7 34. Ke2
+Kd7 35. Kd2 Ke7 36. Kd3 Kd7 37. Ke2 Ke7 38. Nxa5 Bxb6 39. Nc4 Bc5 40. Nb2 Kd7
+41. Nd3 Bd4 42. Kd2 Kc7 43. Kc2 Kb6 44. Kb3 Ka5 45. Ka3 b6 46. Kb3 b5 47. axb5
+Kxb5 48. Nb4 Bxf2 49. Nc6 Bc5 50. Nd8 g4 51. fxg4 hxg4 52. hxg4 f3 53. g5 f2
+54. g6 f1=Q 55. g7 Qd3+ 56. Ka2 Kc4 57. g8=Q Qc2+ 58. Ka1 Bd4# 0-1
+

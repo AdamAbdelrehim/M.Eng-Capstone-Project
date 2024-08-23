@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Practice_Tailung"]
+[Black "Aventurero2018"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/SgJbLRXE"]
+[WhiteElo "2413"]
+[BlackElo "2567"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack, Fianchetto Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:47:05"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. cxd5 exd5 8. Bd3
+c5 9. O-O Nc6 10. Ne5 Bb7 11. Qf3 cxd4 12. Nxc6 Bxc6 13. exd4 Qd7 14. Be5 Rae8
+15. Rae1 Qg4 16. Be2 Qg6 17. Bd3 Qg4 18. Be2 Qg6 19. a3 Ne4 20. Bd3 f6 21. Bf4
+f5 22. Qd1 Bf6 23. f3 Bxd4+ 24. Kh1 Nf2+ 25. Rxf2 Bxf2 26. Rf1 Bc5 27. Nb5 Rf7
+28. b4 Bf8 29. Nd4 Bd7 30. Qb3 Bd6 31. Bxd6 Qxd6 32. Rd1 Rfe7 33. Qc3 g6 34. h3
+Re3 35. Qd2 Qe5 36. Nc2 Ba4 37. Rg1 Bxc2 38. Bxc2 Qc3 39. Qd1 Re1 40. Qxd5+ Kg7
+41. Qd3 Rxg1+ 42. Kxg1 Re1+ 43. Kf2 Qxd3 44. Bxd3 Ra1 45. Be2 Rxa3 46. g3 Rb3
+47. f4 Rxb4 48. Bf3 Rb2+ 49. Ke3 a5 50. Kd4 a4 51. Bd5 a3 52. Ba2 b5 53. Bd5 b4
+54. Kc4 Kf6 55. Kd4 g5 56. fxg5+ Kxg5 57. h4+ Kg4 58. Be6 Kxg3 59. Bxf5 Kxh4
+60. Be4 Kg5 61. Bd5 1-0
+

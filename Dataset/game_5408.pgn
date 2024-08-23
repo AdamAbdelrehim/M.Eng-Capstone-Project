@@ -1,0 +1,29 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "magnusglad_bot"]
+[Black "Weiawaga"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/vLpm81UF"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2794"]
+[BlackElo "2716"]
+[ECO "B19"]
+[Opening "Caro-Kann Defense: Classical Variation, Spassky Variation"]
+[TimeControl "900+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:05:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. Nf3 Nd7 7. h4 h6 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 Qc7 11. Bd2 e6 12. O-O-O Ngf6 13. Ne4 O-O-O 14. g3
+Nxe4 15. Qxe4 Nf6 16. Qe2 Rd5 17. c4 Rxh5 18. Rhe1 g5 19. Ne5 Bg7 20. Kb1 Rd8
+21. Bc3 Rh3 22. d5 cxd5 23. Bd4 Kb8 24. Rc1 Qe7 25. Qe3 Ka8 26. Bc5 Qe8 27.
+Bxa7 Qa4 28. Bb6 Re8 29. Rc3 Bf8 30. c5 Qe4+ 31. Qxe4 dxe4 32. Ra3+ Kb8 33. Rd1
+Rc8 34. b4 e3 35. Rxe3 Bg7 36. Ra3 h5 37. Rd7 Rh1+ 38. Kc2 Rh2 39. Ba7+ Ka8 40.
+c6 bxc6 41. Bb6+ Kb8 42. Raa7 Rxf2+ 43. Bxf2 Rc7 44. Rdxc7 Nd5 45. Nxc6# 1-0
+

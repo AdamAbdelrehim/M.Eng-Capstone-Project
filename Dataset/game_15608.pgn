@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "javad1342"]
+[Black "asanovski"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/UMwXTPms"]
+[WhiteElo "2539"]
+[BlackElo "2543"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:05:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. Nc3 a6 6. a3 h6 7. Be3 d6 8. Bxc5
+dxc5 9. Nd2 O-O 10. O-O Nd4 11. a4 Bg4 12. f3 Be6 13. a5 c6 14. Bxe6 Nxe6 15.
+Nc4 Ne8 16. Kh1 f6 17. Na4 Nd6 18. Nxd6 Qxd6 19. Nb6 Rad8 20. Qe1 Kh7 21. Nc4
+Qc7 22. Rf2 Rf7 23. Ne3 Nd4 24. Qc3 Qe7 25. g3 f5 26. exf5 Nxf5 27. Nxf5 Rxf5
+28. Kg2 Qd6 29. Ra4 Rdf8 30. Re4 Qd5 31. Qc4 R8f7 32. b3 Rf8 33. Re3 Qd4 34.
+Re4 Qd5 35. Re3 Qd4 36. Qxd4 cxd4 37. Re4 h5 38. h3 Kg6 39. g4 hxg4 40. hxg4
+Rg5 41. Rfe2 Kf6 42. Kg3 Rd8 43. f4 exf4+ 44. Kxf4 Rxa5 45. Re7 g5+ 46. Kg3 Rd6
+47. Rxb7 Re5 48. Rf2+ Ke6 49. Rb6 a5 50. Ra6 Rc5 51. Ra7 Rd7 52. Re2+ Kd6 53.
+Ra8 Re7 54. Rd8+ Rd7 55. Rg8 Rf7 56. Rg6+ Kc7 57. Rge6 Kb6 58. R6e5 Rf1 59.
+Rxc5 Kxc5 60. Re5+ Kb4 61. Rxg5 Rc1 62. Re5 Rxc2 63. g5 Rd2 64. Kf3 Rxd3+ 65.
+Ke4 Rd1 66. g6 Rg1 67. Re6 c5 68. Rb6+ Kc3 69. Rb5 c4 70. bxc4 d3 71. Rd5 Rxg6
+72. Rxd3+ Kxc4 73. Rd8 Re6+ 74. Kf3 Re7 75. Kf2 a4 76. Rc8+ Kb3 77. Rb8+ Ka2
+78. Rb6 a3 79. Rb5 Ka1 80. Rb8 Re4 81. Kf3 Re1 82. Kf2 Rb1 83. Ra8 a2 84. Ra3
+Kb2 85. Ra4 a1=Q 0-1
+

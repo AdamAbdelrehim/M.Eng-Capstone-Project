@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "thomasasv"]
+[Black "xiaodong1997"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/vspGI9VI"]
+[WhiteElo "2594"]
+[BlackElo "2810"]
+[ECO "D55"]
+[Opening "Queen's Gambit Declined: Neo-Orthodox Variation, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:45:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 h6 6. Bh4 O-O 7. e3 Nbd7 8. Qc2
+c6 9. O-O-O dxc4 10. Bxc4 b5 11. Bd3 a5 12. e4 a4 13. e5 Nd5 14. Nxd5 cxd5 15.
+Bxe7 Qxe7 16. Kb1 Nb6 17. Qc5 Qa7 18. Bxb5 Bb7 19. Rc1 Rfb8 20. Rc3 Ba6 21.
+Rhc1 Bxb5 22. Qxb5 Nc4 23. Qc5 Rxb2+ 24. Ka1 Qb7 25. Ne1 Rxa2+ 0-1
+

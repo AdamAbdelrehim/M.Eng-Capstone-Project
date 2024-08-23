@@ -1,0 +1,37 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Lavavajillas"]
+[Black "beast2020"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/GIhDS2bH"]
+[WhiteElo "2413"]
+[BlackElo "2551"]
+[ECO "E62"]
+[Opening "King's Indian Defense: Fianchetto Variation, Karlsbad Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:50:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nc3 Nc6 7. d5 Na5 8. b3 c6
+9. dxc6 Nxc6 10. Bb2 Bf5 11. O-O Ne4 12. Qc1 Nxc3 13. Bxc3 e5 14. Rd1 Qe7 15.
+Qb2 Rfd8 16. e3 Rac8 17. Rd2 Be4 18. Rad1 f5 19. a3 a6 20. h4 b5 21. cxb5 axb5
+22. Ng5 Bxg2 23. Kxg2 h6 24. Nh3 Qe6 25. Ng1 d5 26. Ne2 Rd7 27. a4 b4 28. Bxb4
+Nxb4 29. a5 e4 30. Qa3 Nd3 31. a6 Ra7 32. Nf4 Nxf4+ 33. gxf4 Rxa6 34. Qb4 Rd6
+35. Qb7 Rcd8 36. b4 Qd7 37. Qxd7 R8xd7 38. b5 d4 39. exd4 Rxd4 40. Rxd4 Rxd4
+41. Rb1 Rd7 42. Kf1 Rb7 43. Ke2 Bd4 44. f3 exf3+ 45. Kxf3 Kf7 46. Ke2 Bb6 47.
+Kd3 Rc7 48. Re1 Rc5 49. Rb1 Kf6 50. Rb2 g5 51. fxg5+ hxg5 52. hxg5+ Kxg5 53.
+Rb4 f4 54. Ke4 Rf5 55. Kf3 Bc7 56. b6 Bb8 57. b7 Rc5 58. Ke4 Re5+ 59. Kf3 Re3+
+60. Kf2 Kg4 61. Rb6 Re7 62. Rg6+ Kf5 63. Rb6 Ke5 64. Rb5+ Kd6 65. Kf3 Kc6 66.
+Rb1 Rxb7 67. Rc1+ Kd7 68. Rd1+ Bd6 69. Re1 Rc7 70. Kg4 Rc3 71. Ra1 Rg3+ 72. Kf5
+f3 73. Ke4 f2 74. Rf1 Bc5 75. Rd1+ Kc6 76. Rf1 Rg1 77. Rxf2 Bxf2 78. Kf3 Bb6
+79. Ke2 Rc1 80. Kd3 Rc5 81. Ke4 Rc4+ 82. Kd3 Kc5 83. Ke3 Kd5+ 84. Kd3 Bc7 85.
+Kd2 Bb8 86. Kd3 Rd4+ 87. Ke3 Rc4 88. Kf3 Kc5 89. Ke3 Kb4 90. Kd3 Kb3 91. Ke3
+Kc3 92. Kf3 Rd4 93. Kf2 Kd3 94. Kg2 Re4 95. Kf3 Kd4 96. Kf2 Kd3 97. Kf3 Bc7 98.
+Kf2 Re3 99. Kg2 Ke2 100. Kh1 Rf3 101. Kg1 Rf2 102. Kh1 Kf3 103. Kg1 Bb6 104.
+Kh1 Rf1+ 105. Kh2 Rg1 106. Kh3 Rh1# 0-1
+

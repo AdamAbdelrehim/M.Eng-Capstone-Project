@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "scarlet_dawn"]
+[Black "Openingsonly"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/fzoDOHlT"]
+[WhiteElo "2720"]
+[BlackElo "2637"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:09:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. Bf4 d5 3. e3 c5 4. c3 Nc6 5. Nd2 cxd4 6. cxd4 Bf5 7. Bb5 Qb6 8.
+Qb3 e6 9. Ngf3 Nd7 10. O-O Be7 11. Rfc1 Rc8 12. Rc3 O-O 13. Rac1 Na5 14. Qa4
+Rxc3 15. Rxc3 Nc6 16. Bxc6 bxc6 17. Rb3 Qd8 18. Qxa7 c5 19. Rb7 1-0
+

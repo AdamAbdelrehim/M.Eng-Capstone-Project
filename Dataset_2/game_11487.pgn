@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.02.07"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "nikhiltharakan"]
+[Result "0-1"]
+[CurrentPosition "r1b1k2r/ppp2ppp/2p5/8/4P2q/2NPQ2P/PPPK2P1/R4B1n b kq -"]
+[Timezone "UTC"]
+[ECO "C42"]
+[ECOUrl "https://www.chess.com/openings/Petrovs-Defense-Classical-Stafford-Gambit-4.Nxc6-dxc6"]
+[UTCDate "2024.02.07"]
+[UTCTime "04:46:22"]
+[WhiteElo "1914"]
+[BlackElo "1950"]
+[TimeControl "600"]
+[Termination "nikhiltharakan won by resignation"]
+[StartTime "04:46:22"]
+[EndDate "2024.02.07"]
+[EndTime "04:47:57"]
+[Link "https://www.chess.com/game/live/101020322203"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:56.1] } 2. Nf3
+{ [%clk 0:09:57.6] } 2... Nf6 { [%clk 0:09:53.6] } 3. Nxe5 { [%clk 0:09:55.4] }
+3... Nc6 { [%clk 0:09:51.2] } 4. Nxc6 { [%clk 0:09:54] } 4... dxc6
+{ [%clk 0:09:47.9] } 5. d3 { [%clk 0:09:53.9] } 5... Bc5 { [%clk 0:09:41.7] }
+6. Nc3 { [%clk 0:09:49.7] } 6... Ng4 { [%clk 0:09:36.5] } 7. h3
+{ [%clk 0:09:24.3] } 7... Nxf2 { [%clk 0:09:32.4] } 8. Qf3 { [%clk 0:09:23.5] }
+8... Nxh1 { [%clk 0:09:26.4] } 9. Be3 { [%clk 0:09:20] } 9... Qh4+
+{ [%clk 0:09:22.4] } 10. Kd2 { [%clk 0:09:15] } 10... Bxe3+ { [%clk 0:09:19] }
+11. Qxe3 { [%clk 0:09:14.6] } 0-1
+

@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ftorodent"]
+[Black "grispeck"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/qxUynebM"]
+[WhiteTitle "GM"]
+[WhiteElo "2733"]
+[BlackElo "2649"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Vienna Variation, Quiet Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:42:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 dxc4 5. e3 a6 6. Bxc4 b5 7. Be2 Bb7 8. O-O
+Be7 9. b3 O-O 10. Bb2 Nbd7 11. Rc1 c5 12. a4 b4 13. Nb1 Rc8 14. Nbd2 Nb6 15.
+Ne5 Nbd5 16. Bf3 cxd4 17. Rxc8 Qxc8 18. Bxd4 Rd8 19. Ndc4 Nc3 20. Bxb7 Qxb7 21.
+Qc2 Nfd5 22. Na5 Qc7 23. Nec6 Rc8 24. g3 f5 25. Qd3 Ra8 26. f3 Bd6 27. e4 Bxg3
+28. exd5 Nxd5 29. Qe2 Nf4 30. Qd2 Nh3+ 31. Kh1 Bd6 32. Bxg7 Bf4 33. Qg2 Qxg7
+34. Qxh3 Kh8 35. Rg1 Qf6 36. Nc4 Rc8 37. Qg2 h6 38. Nb6 Re8 39. Nd7 Qf7 40.
+Nde5 Qc7 41. Ng6+ Kh7 42. Nxf4 1-0
+

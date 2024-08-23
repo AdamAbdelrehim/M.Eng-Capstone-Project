@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Babor2011"]
+[Black "rrs03"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/umFknQnw"]
+[WhiteElo "2498"]
+[BlackElo "2565"]
+[ECO "B54"]
+[Opening "Sicilian Defense: Prins Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:50:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 a6 6. c4 e6 7. Nc3 Be7 8. Be3
+O-O 9. Be2 Qc7 10. O-O b6 11. Qd2 Bb7 12. Rfc1 Nbd7 13. a4 Rac8 14. a5 bxa5 15.
+Nb3 Nc5 16. Nxa5 Ba8 17. b4 Ncd7 18. Na4 Qb8 19. Rab1 d5 20. c5 dxe4 21. Bxa6
+exf3 22. Bxc8 Rxc8 23. c6 Ne5 24. b5 fxg2 25. Qxg2 Nfg4 26. Bd4 Bf6 27. Nb6
+Nf3+ 28. Kh1 Bxd4 29. Nxc8 Nf2+ 30. Qxf2 Bxf2 31. b6 Qxh2# 0-1
+

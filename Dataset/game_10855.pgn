@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "stammargg"]
+[Black "Kartapoux"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/yO3qpjQm"]
+[WhiteElo "2536"]
+[BlackElo "2401"]
+[ECO "D30"]
+[Opening "Semi-Slav Defense: Quiet Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:41:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 d5 2. Nf3 c6 3. c4 e6 4. e3 Nf6 5. Nbd2 c5 6. dxc5 Bxc5 7. a3 Nc6 8. b4
+Be7 9. Bb2 O-O 10. Bd3 b6 11. O-O Bb7 12. Rc1 Rc8 13. Qe2 dxc4 14. Nxc4 Qc7 15.
+Nce5 Qb8 16. b5 Nxe5 17. Nxe5 Qa8 18. Nc6 Bxc6 19. bxc6 Rxc6 20. Bxf6 Rxc1 21.
+Be4 Rxf1+ 0-1
+

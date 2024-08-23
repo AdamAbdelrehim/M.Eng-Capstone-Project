@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "mdynl123"]
+[Black "Digora"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/6ZpQFM6b"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[WhiteElo "2485"]
+[BlackElo "2628"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:49:36"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. d4 Nf6 2. Bg5 d5 3. c3 Ne4 4. h4 h6 5. Bf4 c5 6. dxc5 Nxc5 7. Nf3 Nc6 8. e3
+Bg4 9. Be2 e6 10. Nd4 Bxe2 11. Qxe2 Bd6 12. Bxd6 Qxd6 13. Nd2 Ne5 14. O-O O-O
+15. N2f3 Ng4 16. Rad1 a6 17. c4 Rad8 18. cxd5 1-0
+

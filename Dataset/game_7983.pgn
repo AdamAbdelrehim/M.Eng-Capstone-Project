@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "FIDE-Trainer1984"]
+[Black "mboldysh"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/KnhqZSw8"]
+[WhiteElo "2541"]
+[BlackElo "2462"]
+[ECO "E48"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Bishop Attack, Classical Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "00:18:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Be7 7. cxd5 Nxd5 8. Nf3
+b6 9. O-O Ba6 10. Bxa6 Nxa6 11. e4 Nxc3 12. bxc3 c5 13. Qe2 Nb8 14. Rd1 Qc7 15.
+a4 Nc6 16. Ba3 Rfd8 17. dxc5 Bxc5 18. Bxc5 bxc5 19. Qb5 Ne5 20. Nxe5 Qxe5 21.
+Qc4 h5 22. g3 g5 23. Rab1 h4 24. Kg2 Kg7 25. Rxd8 Rxd8 26. Rb5 g4 27. gxh4 Qf4
+28. Rb1 Qf3+ 29. Kg1 Rd2 30. Qxc5 Qxe4 31. Qg5+ Kf8 32. Rb8+ 1-0
+

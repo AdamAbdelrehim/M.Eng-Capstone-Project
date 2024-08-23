@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "masanchemio"]
+[Black "lugovoiGross"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/szplMQNs"]
+[WhiteElo "2343"]
+[BlackElo "2529"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Kramnik Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:04:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nf3 e6 3. c4 Nc6 4. Nc3 Nf6 5. Be2 d5 6. exd5 exd5 7. d4 cxd4 8.
+Nxd4 dxc4 9. Nxc6 Qxd1+ 10. Bxd1 bxc6 11. Bf3 Bb7 12. O-O O-O-O 13. Be3 Kb8 14.
+Na4 Nd5 15. Bc5 Bxc5 16. Nxc5 Rde8 17. Rac1 Re7 18. Rxc4 Rhe8 19. h4 Re1 20. g3
+Bc8 21. Nd3 Ba6 22. Bxd5 Rxf1+ 23. Kxf1 cxd5 24. Rd4 Re4 25. Rxd5 Bc4 26. f3
+Re3 0-1
+

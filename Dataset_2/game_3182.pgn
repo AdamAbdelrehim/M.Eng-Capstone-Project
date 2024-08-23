@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.12.14"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "mrb2018"]
+[Result "0-1"]
+[CurrentPosition "4r1k1/pp4pp/3p4/3p3b/5K2/3P4/PPP5/4R3 w - -"]
+[Timezone "UTC"]
+[ECO "C42"]
+[ECOUrl "https://www.chess.com/openings/Petrovs-Defense-Classical-Damiano-Variation-4.Qe2"]
+[UTCDate "2021.12.14"]
+[UTCTime "21:45:54"]
+[WhiteElo "1561"]
+[BlackElo "1601"]
+[TimeControl "600"]
+[Termination "mrb2018 won by resignation"]
+[StartTime "21:45:54"]
+[EndDate "2021.12.14"]
+[EndTime "21:52:37"]
+[Link "https://www.chess.com/game/live/33257375731"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:58.3] }
+2... Nf6 { [%clk 0:09:59.3] } 3. Nxe5 { [%clk 0:09:56.3] } 3... Nxe4
+{ [%clk 0:09:55.8] } 4. Qe2 { [%clk 0:09:51.5] } 4... d5 { [%clk 0:09:29.2] }
+5. d3 { [%clk 0:09:46.1] } 5... Qe7 { [%clk 0:09:16.9] } 6. Nxf7
+{ [%clk 0:09:22.8] } 6... Nxf2 { [%clk 0:08:45.2] } 7. Nd6+
+{ [%clk 0:08:58.9] } 7... cxd6 { [%clk 0:08:31.5] } 8. Qxe7+
+{ [%clk 0:08:51.2] } 8... Bxe7 { [%clk 0:08:28.4] } 9. Kxf2
+{ [%clk 0:08:48.1] } 9... Nc6 { [%clk 0:08:22.6] } 10. Nc3 { [%clk 0:08:45.9] }
+10... O-O+ { [%clk 0:08:20.4] } 11. Ke1 { [%clk 0:08:30] } 11... Nd4
+{ [%clk 0:08:02.2] } 12. Kd1 { [%clk 0:08:19.7] } 12... Bg4+
+{ [%clk 0:07:52.7] } 13. Be2 { [%clk 0:08:08.6] } 13... Nxe2
+{ [%clk 0:07:37.3] } 14. Nxe2 { [%clk 0:08:05.4] } 14... Rf2
+{ [%clk 0:07:31.9] } 15. Re1 { [%clk 0:07:49.1] } 15... Rxg2
+{ [%clk 0:07:28.5] } 16. Bf4 { [%clk 0:07:45.2] } 16... Bh4
+{ [%clk 0:07:14.8] } 17. Bg3 { [%clk 0:07:39.8] } 17... Bxg3
+{ [%clk 0:07:11.5] } 18. hxg3 { [%clk 0:07:37.8] } 18... Rxg3
+{ [%clk 0:07:09.4] } 19. Kd2 { [%clk 0:07:34.7] } 19... Rg2
+{ [%clk 0:07:02.7] } 20. Ke3 { [%clk 0:07:27.5] } 20... Re8+
+{ [%clk 0:07:00.5] } 21. Kf4 { [%clk 0:07:23.1] } 21... Rgxe2
+{ [%clk 0:06:31.8] } 22. Rxe2 { [%clk 0:07:17.9] } 22... Bxe2
+{ [%clk 0:06:28.9] } 23. Re1 { [%clk 0:07:07.9] } 23... Bh5
+{ [%clk 0:06:23.6] } 0-1
+

@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Lynx_BOT"]
+[Black "AKS-Mantissa"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/hiDYfecv"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2501"]
+[BlackElo "2704"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "300+3"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:51:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. h3 g6 3. d4 cxd4 4. Qxd4 Nf6 5. Nc3 Nc6 6. Qd1 Bg7 7. Nf3 d6 8. Bd3
+O-O 9. O-O Be6 10. Ng5 Bd7 11. Be3 Ne5 12. Be2 Bc6 13. f4 Ned7 14. Qd3 Qc7 15.
+Nd5 Bxd5 16. exd5 b5 17. Rad1 b4 18. f5 Ne5 19. Qb3 a5 20. fxg6 hxg6 21. Rf2
+Rab8 22. Bf4 Nh7 23. Nxh7 Kxh7 24. Be3 Bf6 25. Bd4 Kg7 26. Ba6 Nd7 27. Bxf6+
+exf6 28. a4 bxa3 29. Qxa3 Qc5 30. c4 Rb4 31. Bb5 Ne5 32. Qc3 a4 33. Rf1 Rb3 34.
+Qc2 Nd3 35. Bxa4 Nxf2 36. Qxf2 Qxf2+ 37. Rxf2 Rd3 38. Rc2 Ra8 39. b3 f5 40. Kf2
+Kf6 41. Ke2 Rd4 42. Bc6 Ra3 43. Rb2 g5 44. Ba4 f4 45. Kf2 Rd3 46. Kg1 Ke5 47.
+Kf2 Re3 48. Rd2 f5 49. Bd7 Raxb3 50. c5 dxc5 51. d6 Rbd3 52. Rc2 Kxd6 53. Bb5
+Rc3 54. Rd2+ Ke5 55. Bc6 g4 56. hxg4 fxg4 57. Rd5+ Kf6 58. Rd1 Rc2+ 59. Kf1 c4
+60. Bd7 Kg5 61. Ba4 Ra2 62. Bc6 c3 63. Rc1 Kh4 64. Kg1 Kg3 65. Kf1 f3 66. gxf3
+Rf2+ 67. Kg1 Rg2+ 68. Kf1 Ree2 69. Bb5 Ref2+ 70. Ke1 Rg1+ 71. Bf1 Rgxf1# 0-1
+

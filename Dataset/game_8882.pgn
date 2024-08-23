@@ -1,0 +1,42 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Botyuliirma"]
+[Black "Hoon_Bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/LiToxQRV"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2983"]
+[BlackElo "2876"]
+[ECO "C00"]
+[Opening "Rat Defense: Small Center Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "05:53:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+
+1. e4 e6 2. d4 d6 3. Nf3 a6 4. Bd3 Nd7 5. a4 Ne7 6. c3 b6 7. O-O g6 8. Re1 Bg7
+9. Nbd2 O-O 10. h4 h6 11. b4 e5 12. Ba3 Bb7 13. Qb3 Nc6 14. Bb2 Kh8 15. Bc4 f5
+16. Bd5 Rb8 17. Rad1 b5 18. a5 Ba8 19. exf5 gxf5 20. dxe5 Ndxe5 21. Nxe5 Nxe5
+22. Bxa8 Rxa8 23. c4 Qxh4 24. cxb5 axb5 25. Re3 Qh5 26. Rh3 Qe2 27. Re3 Qh5 28.
+Rde1 f4 29. Rh3 Qg6 30. Rc1 c6 31. Bxe5 dxe5 32. Qd3 Rf6 33. Ne4 Re6 34. Kh2
+Bf8 35. g4 Bxb4 36. g5 Bf8 37. Rg1 Qh7 38. Rh5 Rg6 39. Qh3 Qf7 40. Rd1 Qc4 41.
+Qf5 Qe6 42. Qxe6 Rxe6 43. Rd7 Rae8 44. a6 R6e7 45. Rxe7 Rxe7 46. gxh6 Ra7 47.
+Rxe5 Bxh6 48. Re6 Bg7 49. Rxc6 b4 50. Nd2 Bd4 51. Kg2 Ra8 52. Nb3 Ba7 53. Kf3
+Kg8 54. Rg6+ Kf7 55. Rh6 Kg7 56. Rc6 Kg8 57. Kxf4 Bxf2 58. Kf3 Ba7 59. Ke2 Rd8
+60. Na5 Rd7 61. Rc4 Kf8 62. Nc6 b3 63. Rb4 Rd6 64. Rxb3 Rxc6 65. Rh3 Rxa6 66.
+Kf3 Bg1 67. Ke4 Bf2 68. Rh7 Be1 69. Kd3 Bd2 70. Kd4 Bc1 71. Kd5 Bb2 72. Kc5 Ba1
+73. Rc7 Bb2 74. Kd5 Ba1 75. Rc8+ Ke7 76. Rc7+ Kf6 77. Rc8 Bb2 78. Kc5 Ba1 79.
+Kb5 Bb2 80. Kxa6 Ba1 81. Kb5 Bb2 82. Rc2 Ba1 83. Rc1 Bb2 84. Rb1 Ba3 85. Kc4
+Bd6 86. Kd5 Bh2 87. Ke4 Bg3 88. Rf1+ Kg5 89. Rg1 Kg4 90. Rg2 Kh4 91. Kf3 Be1
+92. Kf4 Kh5 93. Kf5 Kh4 94. Kf4 Kh5 95. Rg4 Bc3 96. Rg3 Ba1 97. Rg1 Bb2 98. Kf5
+Kh4 99. Rg4+ Kh3 100. Kf4 Ba1 101. Kf3 Kh2 102. Rg2+ Kh1 103. Rg5 Bc3 104. Ke4
+Ba1 105. Rg6 Bb2 106. Ra6 Bc3 107. Kf3 Bb2 108. Ra5 Bc3 109. Rh5+ Kg1 110. Rg5+
+Kh1 111. Ke3 Ba1 112. Rd5 Bf6 113. Kf2 Bh4+ 114. Kf3 Kg1 115. Rd2 Bf6 116. Rg2+
+Kh1 117. Rc2 Bd4 118. Rc6 Bg1 119. Rc7 Bh2 120. Rc1+ Bg1 121. Re1 Kh2 122. Ra1
+Bd4 123. Ra2+ Kg1 124. Rg2+ Kh1 125. Rg1+ Kxg1 1/2-1/2
+

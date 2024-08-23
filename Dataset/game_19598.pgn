@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "fischerz"]
+[Black "Squatland"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/E9IvBfJR"]
+[WhiteElo "2493"]
+[BlackElo "2552"]
+[ECO "A46"]
+[Opening "Torre Attack: Classical Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:45:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. e3 d5 5. Nbd2 Nc6 6. c3 Be7 7. Bd3 O-O 8. O-O
+b6 9. Qa4 Bb7 10. Ne5 Nxe5 11. dxe5 Nd7 12. Qh4 f6 13. Qxh7+ Kf7 14. Bg6# 1-0
+

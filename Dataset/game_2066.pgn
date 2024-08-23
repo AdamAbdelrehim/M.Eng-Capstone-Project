@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "szekesfehervar"]
+[Black "Despair_Captain"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/GAzpbMIc"]
+[WhiteElo "2504"]
+[BlackElo "2511"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:37:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 c5 4. c3 Nc6 5. Nf3 Bf5 6. Qb3 Qc8 7. Nbd2 e6 8. Ne5
+Be7 9. Be2 h6 10. O-O O-O 11. Rfc1 c4 12. Qd1 b5 13. b3 a6 14. Bf3 Bh7 15. bxc4
+bxc4 16. Ndxc4 Nxe5 17. Nxe5 Nd7 18. c4 Nxe5 19. Bxe5 Qd7 20. cxd5 exd5 21. Rc7
+Qe6 22. Qb3 Rfd8 23. Rac1 Rab8 24. Rxe7 1-0
+

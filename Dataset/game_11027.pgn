@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Caminero85"]
+[Black "RafaelVarane"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/m1mEPwod"]
+[WhiteElo "2742"]
+[BlackElo "2626"]
+[ECO "E90"]
+[Opening "King's Indian Defense: Normal Variation, Rare Defenses"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:04:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. h3 e5 7. d5 a5 8. Bg5 Na6
+9. Nd2 Bd7 10. Be2 Qb8 11. a3 c6 12. Rb1 cxd5 13. cxd5 b5 14. b4 axb4 15. axb4
+Rc8 16. Qb3 h6 17. Be3 Ne8 18. O-O f5 19. f3 f4 20. Bf2 g5 21. Rfc1 h5 22. Qd1
+Nf6 23. Qf1 Nc7 24. Nb3 g4 25. fxg4 hxg4 26. hxg4 Nxg4 27. Na5 Nxf2 28. Qxf2
+Na6 29. Nc6 Bxc6 30. dxc6 Rxc6 31. Nd5 Rxc1+ 32. Rxc1 Qb7 33. Qh4 Nxb4 34. Nxb4
+Qxe4 35. Bf3 Qe3+ 36. Kh2 Qxc1 37. Bxa8 e4 38. Bd5+ Kf8 39. Qd8# 1-0
+

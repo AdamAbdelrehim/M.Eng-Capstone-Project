@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "mdynl123"]
+[Black "BenHascom"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/5bpeDTxS"]
+[WhiteTitle "FM"]
+[WhiteElo "2482"]
+[BlackElo "2571"]
+[ECO "D03"]
+[Opening "Queen's Pawn Game: Torre Attack, Gossip Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:27:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 Ne4 4. h4 h6 5. Bf4 c5 6. c3 Nc6 7. e3 Qb6 8. Qb3 c4
+9. Qc2 Bf5 10. Qc1 e6 11. Nbd2 Be7 12. Nxe4 Bxe4 13. Nd2 Bh7 14. Be2 O-O 15. h5
+Qd8 16. a4 a6 17. O-O b5 18. axb5 axb5 19. f3 b4 20. e4 Qb6 21. Kh2 b3 22. Re1
+Ra2 23. Bf1 Rfa8 24. Rb1 Bf6 25. Qd1 Qd8 26. Nxc4 dxc4 27. Bxc4 Na5 28. Bxb3
+Nxb3 29. Qxb3 Bg5 30. Bg3 Bh4 31. Qb5 Bxg3+ 32. Kxg3 R2a5 33. Qb7 Rxh5 34. f4
+Rb8 35. Qa7 Rhb5 36. Re2 Qf6 37. b4 Qg6+ 38. Kf2 Qg4 39. g3 Bg6 40. Qe7 Rh5 41.
+Rbe1 Rh2+ 42. Ke3 Qxg3+ 43. Kd2 Bxe4 44. Qc7 Qd3+ 45. Kc1 Qb1+ 46. Kd2 Qc2+ 47.
+Ke3 Qd3# 0-1
+

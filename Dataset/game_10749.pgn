@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Predator_Shark"]
+[Black "TheBerzerKing"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/PtJBzAir"]
+[WhiteElo "2497"]
+[BlackElo "2546"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:26:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bf5 4. d4 e6 5. Bd3 Ne7 6. O-O Nd7 7. Be2 c5 8. c4
+dxc4 9. Nc3 Nc6 10. d5 Ncxe5 11. dxe6 Bxe6 12. Re1 Be7 13. Bf4 Ng6 14. Bg3 O-O
+15. Nd2 Nde5 16. Qc2 Nd3 17. Red1 a6 18. Nxc4 Bxc4 19. Bxd3 Bxd3 20. Rxd3 Qc8
+21. Nd5 Bd8 22. Re1 c4 23. Rd4 b5 24. h4 h5 25. Qe4 Qc6 26. Qf5 Bxh4 27. Bxh4
+Nxh4 28. Ne7+ Kh8 29. Rxh4 Qh6 30. Rxh5 1-0
+

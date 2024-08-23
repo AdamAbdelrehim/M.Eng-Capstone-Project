@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.01"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "koshmapuk314"]
+[Result "0-1"]
+[CurrentPosition "rn1qk2r/pbp1bppp/1p2p3/3p4/3P4/2N1BN2/PPPnBPPP/3RR1K1 w kq -"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Owens-Defense"]
+[UTCDate "2024.01.01"]
+[UTCTime "04:42:44"]
+[WhiteElo "1705"]
+[BlackElo "1807"]
+[TimeControl "60"]
+[Termination "koshmapuk314 won by resignation"]
+[StartTime "04:42:44"]
+[EndDate "2024.01.01"]
+[EndTime "04:43:00"]
+[Link "https://www.chess.com/game/live/97823351495"]
+
+1. e4 { [%clk 0:01:00] } 1... b6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.5] }
+2... Bb7 { [%clk 0:00:59.4] } 3. d4 { [%clk 0:00:59.4] } 3... Bxe4
+{ [%clk 0:00:58.2] } 4. Nc3 { [%clk 0:00:59.3] } 4... Bb7 { [%clk 0:00:57.2] }
+5. Be3 { [%clk 0:00:58.9] } 5... Nf6 { [%clk 0:00:56.5] } 6. Be2
+{ [%clk 0:00:58.4] } 6... e6 { [%clk 0:00:56] } 7. O-O { [%clk 0:00:58.1] }
+7... d5 { [%clk 0:00:55.5] } 8. Qd2 { [%clk 0:00:57.8] } 8... Be7
+{ [%clk 0:00:55.1] } 9. Rad1 { [%clk 0:00:57.2] } 9... Ne4 { [%clk 0:00:54.6] }
+10. Rfe1 { [%clk 0:00:57] } 10... Nxd2 { [%clk 0:00:53.7] } 0-1
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sparrow1"]
+[Black "excavator24"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/x42uh61h"]
+[WhiteElo "2579"]
+[BlackElo "2598"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:33:47"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nf3 Nc6 3. d3 g6 4. g3 Bg7 5. Bg2 d6 6. O-O e6 7. c3 Nge7 8. h3 O-O
+9. Kh2 b5 10. Qe2 b4 11. a3 bxc3 12. bxc3 Rb8 13. Qc2 Na5 14. Nbd2 Bd7 15. Bb2
+Qc7 16. Rfb1 Rb7 17. Bc1 Rfb8 18. Rxb7 Rxb7 19. Rb1 Rxb1 20. Nxb1 Qc6 21. Nfd2
+Qa4 22. Qb2 Nec6 23. Bf3 h5 24. h4 Ne5 25. Be2 Bb5 26. Nc4 Naxc4 27. dxc4 Bxc4
+28. Qb8+ Kh7 29. Bxc4 Qxc4 30. Qxd6 Nf3+ 31. Kg2 Qxe4 32. Qxc5 Nxh4+ 33. Kh2
+Qg2# 0-1
+

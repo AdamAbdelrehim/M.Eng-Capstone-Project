@@ -1,0 +1,39 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "amirreza02"]
+[Black "HellBorg"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/tESPVZqt"]
+[WhiteElo "2375"]
+[BlackElo "2505"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:11:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nc6 5. Bb5 Bg4 6. c4 Nf6 7. Nc3 Rc8 8. h3
+Bxf3 9. Qxf3 e6 10. Bg5 dxc4 11. d5 exd5 12. O-O-O Be7 13. Nxd5 Nxd5 14. Bxe7
+Qxe7 15. Rhe1 O-O 16. Rxe7 Ndxe7 17. Rd7 Ne5 18. Qxb7 Nxd7 19. Qxd7 Ng6 20.
+Qxa7 Rfd8 21. Kc2 Nf4 22. g3 Ne6 23. Bd7 Rc7 24. Qa4 Rcxd7 25. a3 g6 26. Kb1
+Rd4 27. Qc6 R8d6 28. Qc8+ Kg7 29. f4 h5 30. a4 c3 31. bxc3 Rxa4 32. Kc2 Raa6
+33. Qc4 Rac6 34. Qe4 Rc5 35. g4 hxg4 36. hxg4 Rdc6 37. f5 gxf5 38. gxf5 Rxc3+
+39. Kb2 Rc2+ 40. Kb1 Rc1+ 41. Kb2 R6c2+ 42. Ka3 Ra1+ 43. Kb4 Rb2+ 44. Kc3 Rb3+
+45. Kc2 Ra2+ 46. Kc1 Ng5 47. Qe5+ f6 48. Qe7+ Nf7 49. Qe4 Rbb2 50. Qg4+ Ng5 51.
+Qh5 Rc2+ 52. Kb1 Rab2+ 53. Ka1 Ra2+ 54. Kb1 Rcb2+ 55. Kc1 Rb6 56. Qg6+ Kf8 57.
+Qh6+ Ke7 58. Qh8 Ra7 59. Qc8 Nf7 60. Qc5+ Rd6 61. Qxa7+ Rd7 62. Qc5+ Nd6 63.
+Qd5 Rc7+ 64. Kd2 Ne8 65. Qe6+ Kd8 66. Qg8 Re7 67. Kd3 Re5 68. Qg6 Ke7 69. Kd4
+Kd8 70. Qh7 Kc8 71. Qf7 Kd8 72. Kd3 Rxf5 73. Qe6 Re5 74. Qb6+ Kd7 75. Qb7+ Ke6
+76. Qc8+ Kf7 77. Qd7+ Kg6 78. Qg4+ Kf7 79. Qd7+ Re7 80. Qd5+ Re6 81. Qd7+ Re7
+82. Qd5+ Kg7 83. Qh5 Re5 84. Qg4+ Kh6 85. Qh4+ Kg6 86. Qg4+ Kh7 87. Qh4+ Kg8
+88. Qg4+ Kf8 89. Qg6 Ke7 90. Qh7+ Ke6 91. Qg8+ Kd6 92. Qf8+ Kd7 93. Qf7+ Kd8
+94. Kd4 Kc8 95. Qf8 Kd7 96. Qf7+ Kd6 97. Qf8+ Kc7 98. Kd3 Kc6 99. Kc3 Kd5 100.
+Qf7+ Ke4 101. Qc4+ Kf5 102. Qd3+ Kf4 103. Qf1+ Kg4 104. Qg2+ Kf4 105. Qf2+ Kg5
+106. Qg3+ Kf5 107. Qf3+ Ke6 108. Qh3+ f5 109. Kd4 Re4+ 110. Kd3 Nf6 111. Qg3 f4
+112. Qh3+ Ke5 113. Qh8 Re3+ 114. Kd2 Kf5 115. Qh3+ Rxh3 0-1
+

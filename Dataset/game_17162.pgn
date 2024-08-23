@@ -1,0 +1,38 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "YoBot_v2"]
+[Black "BitByByte"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/eCK2yWdD"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3048"]
+[BlackElo "2907"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:29:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 c6 2. e4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Qb6 7. Nc3 c4 8. Rb1 Nc6
+9. O-O Qa5 10. a3 h6 11. Bd2 a6 12. b3 cxb3 13. Rxb3 Qc7 14. Qb1 Ra7 15. Qb2
+Nge7 16. Nd1 Be4 17. Ne3 Ng6 18. g3 b5 19. Bb4 Bxb4 20. axb4 Bxf3 21. Bxf3 Nge7
+22. c3 O-O 23. h4 Rb8 24. Rb1 Rab7 25. Qd2 a5 26. Kg2 axb4 27. cxb4 Qb6 28. Rd1
+Ra7 29. h5 Rba8 30. Rb2 Rc8 31. Be2 Ra4 32. Nc2 Nb8 33. Bd3 Nd7 34. Qe2 Rb8 35.
+Kh3 Raa8 36. Rb3 Rc8 37. Qe1 Qb8 38. Na3 Nb6 39. Nxb5 Nc4 40. Nd6 Nxd6 41. exd6
+Qxd6 42. b5 Qb6 43. Ra1 Rab8 44. Ra4 Qd8 45. Ra7 Nc6 46. Ra4 Ne7 47. Kg2 Rc7
+48. Rc3 Rcb7 49. Qa1 Nc8 50. Rc6 Ne7 51. Rc5 Kf8 52. Ra6 Kg8 53. Qa3 Rd7 54.
+Qc1 Rdb7 55. Qf4 Nc8 56. Rac6 Qf8 57. Qc1 Ne7 58. Rc7 Qd8 59. b6 Rxb6 60. Rxe7
+Qxe7 61. Rc8+ Qe8 62. Rxe8+ Rxe8 63. Qc3 Reb8 64. Bc2 Ra8 65. g4 Rf8 66. Qd3 f5
+67. gxf5 exf5 68. Qa3 Rbb8 69. Qc5 Kh8 70. Qxd5 Rbd8 71. Qe5 Rde8 72. Qf4 Rd8
+73. Bd3 Kh7 74. Qe5 Rde8 75. Qc5 Rd8 76. d5 Rf6 77. Bb5 Rfd6 78. Bc6 Kg8 79.
+Kf3 Kh8 80. Kf4 Kh7 81. Ke5 Rf6 82. d6 Rfxd6 83. Qxd6 Rxd6 84. Kxd6 g6 85.
+hxg6+ Kxg6 86. f4 Kf6 87. Be8 h5 88. Bxh5 Kg7 89. Ke5 Kh6 90. Kxf5 Kxh5 91. Ke6
+Kg4 92. f5 Kf3 93. f6 Ke2 94. f7 Kd1 95. f8=Q Kd2 96. Qf3 Kc2 97. Kd5 Kb1 98.
+Qe2 Ka1 99. Kc4 Kb1 100. Kb3 Ka1 101. Qd1# 1-0
+

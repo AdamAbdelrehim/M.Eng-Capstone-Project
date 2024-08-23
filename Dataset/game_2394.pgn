@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "zlatana75"]
+[Black "RaspFish"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/JCRoYXye"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3024"]
+[BlackElo "2999"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:18:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Bxc6 dxc6 6. O-O Nd7 7. c3 O-O 8.
+d4 Bd6 9. Bg5 f6 10. Bh4 a5 11. Nbd2 Qe7 12. Bg3 Re8 13. Nc4 b5 14. Ne3 a4 15.
+c4 Qf7 16. dxe5 Nxe5 17. Bxe5 Bxe5 18. Nxe5 Rxe5 19. Qd3 Ba6 20. Qc2 Qe7 21.
+cxb5 Bxb5 22. Nf5 Qb4 23. Rfe1 Rae8 24. Ng3 Rc5 25. Qd1 g6 26. b3 axb3 27. axb3
+Rce5 28. Qc2 h5 29. h4 f5 30. f3 Qe7 31. Qf2 Qxh4 32. f4 R5e7 33. exf5 gxf5 34.
+Rxe7 Rxe7 35. Nxf5 Qxf2+ 36. Kxf2 Re2+ 37. Kg3 Bd3 38. Nd4 Rb2 39. Re1 c5 40.
+Ne6 c4 41. bxc4 Bxc4 42. Nxc7 h4+ 43. Kxh4 Rxg2 44. Rc1 Ba2 45. Rc5 Bb1 46. Nd5
+Ba2 47. Nf6+ Kf7 48. Ng4 Bb1 49. f5 Bxf5 50. Rxf5+ Kg8 51. Ra5 Kg7 52. Ra1 Kh7
+53. Kg5 Rg3 54. Kf4 Rh3 55. Rg1 Rc3 56. Nf6+ Kh6 57. Ng8+ Kh5 58. Rg5+ Kh4 59.
+Ra5 Kh3 60. Nf6 Rc1 61. Ra3+ Kg2 62. Ra2+ Kg1 63. Nd5 Rd1 64. Ne3 Rd8 65. Rg2+
+Kh1 66. Re2 Kg1 67. Rg2+ Kh1 68. Re2 Kg1 69. Kg3 Rg8+ 70. Ng4 Kf1 71. Re7 Rg5
+72. Re8 Rg6 73. Kf3 1/2-1/2
+

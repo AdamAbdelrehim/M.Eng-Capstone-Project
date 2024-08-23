@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "andrewrun"]
+[Black "vonsinnen"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/CaayZmI1"]
+[WhiteTitle "NM"]
+[WhiteElo "2429"]
+[BlackElo "2544"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Declined, Push Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:08:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d3 4. Bxd3 b6 5. c4 Bb7 6. Nf3 d6 7. O-O Nd7 8. h3 e6
+9. Nc3 Ngf6 10. Be3 a6 11. Rc1 Qc7 12. Qe2 Rc8 13. Rfd1 Be7 14. b3 Qb8 15. Nd4
+Nc5 16. f3 h5 17. Bb1 h4 18. Bf2 Nh5 19. Qd2 g6 20. Nce2 Kf8 21. Nf4 Nxf4 22.
+Qxf4 e5 23. Qg4 exd4 24. Bxd4 Rh5 25. Re1 Ne6 26. Bb2 Re8 27. e5 Rg5 28. exd6
+Qxd6 29. Be5 Qc5+ 30. Kh2 Rxg4 31. hxg4 Bd6 32. Bxd6+ Qxd6+ 33. Kh1 Qg3 34. Rf1
+h3 35. Rc2 Nf4 36. Rcf2 hxg2+ 0-1
+

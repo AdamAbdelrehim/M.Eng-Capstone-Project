@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "boyblack90"]
+[Black "GolfeDuMorbihan"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/tt3GXwFB"]
+[WhiteElo "2478"]
+[BlackElo "2634"]
+[ECO "A05"]
+[Opening "Zukertort Opening: Double Fianchetto Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "06:13:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+
+1. g3 d6 2. Bg2 Nf6 3. Nf3 g6 4. O-O Bg7 5. b3 O-O 6. Bb2 e5 7. d4 e4 8. Nfd2
+d5 9. e3 Bg4 10. f3 exf3 11. Nxf3 Re8 12. Re1 Bh6 13. Nbd2 Bxe3+ 14. Kh1 Nc6
+15. h3 Bxf3 16. Nxf3 Nh5 17. Kh2 Qf6 18. Ne5 Bf2 19. Rf1 Nxg3 20. Qg4 h5 21.
+Rxf2 Qxf2 22. Qxg3 Qxg3+ 23. Kxg3 Ne7 24. Rf1 Rf8 25. Ba3 Rae8 26. h4 Kg7 27.
+Bh3 f6 28. Nd7 Rf7 29. Nc5 f5 30. Ne6+ Kf6 31. Nxc7 Rc8 32. Bxe7+ Kxe7 33.
+Nxd5+ Kd6 34. Ne3 b5 35. c4 bxc4 36. bxc4 Rb7 37. c5+ Ke7 38. d5 Rb2 39. d6+
+Kf6 40. Rc1 Rd2 41. Bg2 Rd4 42. Nd5+ Ke5 43. d7 f4+ 44. Kh2 Rf8 45. c6 f3 46.
+c7 Rxh4+ 47. Kg1 fxg2 48. d8=Q Rh1+ 49. Kxg2 Rxc1 50. Qxf8 Kxd5 51. c8=Q Rxc8
+52. Qxc8 Ke5 53. Qh3 Kf6 54. Qh4+ Kf5 55. Qf2+ Kg4 56. Qxa7 h4 57. a3 g5 58.
+Qd4+ Kf5 59. a4 g4 60. Qc5+ Kf4 61. a5 h3+ 62. Kh2 Kf3 63. Qc3+ Kf4 64. Qg3+
+Kf5 65. a6 Kg5 66. a7 Kf5 67. a8=Q Ke6 68. Qc6+ Ke7 69. Qe5+ Kd8 70. Qcd6+ Kc8
+71. Qc7# 1-0
+

@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ron_rhyo"]
+[Black "Cor64"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/xo4rbteB"]
+[WhiteElo "2503"]
+[BlackElo "2525"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "00:29:25"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 Bf5 4. Bg2 c6 5. O-O e6 6. b3 h6 7. Bb2 Be7 8. Nbd2
+O-O 9. Ne5 a5 10. a3 Na6 11. c4 Bh7 12. e3 Nd7 13. f4 Nxe5 14. fxe5 b5 15. c5
+f6 16. exf6 Bxf6 17. Qg4 Bf5 18. Rxf5 exf5 19. Qxf5 Qe7 20. Qd3 Nxc5 21. dxc5
+Bxb2 22. Ra2 Be5 23. Rc2 Rad8 24. Nf3 Bf6 25. Nd2 Rfe8 26. Nf1 Bg5 27. Re2 Qxc5
+28. h4 Bf6 29. a4 b4 30. Kh2 Qd6 31. Qg6 Bc3 32. Qg4 Qe6 33. Qh5 Rf8 34. e4 d4
+35. Bh3 Qe8 36. Qc5 d3 37. Ra2 d2 38. Qc4+ Kh8 39. Nxd2 Bxd2 40. Bf5 Bc3 41.
+Kh3 Rd4 42. Qc5 Rf6 43. Rf2 Rd3 44. Qxa5 Be5 45. Rg2 Qe7 46. Qa8+ Rf8 47. Qxc6
+Rfd8 48. Qg6 Kg8 49. Be6+ Kf8 50. Bd5 R8xd5 51. exd5 Rxd5 52. Qf5+ Qf7 53. Qc8+
+Ke7 54. Qb7+ Ke6 55. Qc6+ Rd6 56. Qc4+ Ke7 57. Qxf7+ Kxf7 58. Re2 Ke6 59. Rf2
+Rd3 60. Rg2 Rxg3+ 61. Rxg3 Bxg3 62. Kxg3 Kd5 63. Kg4 Kd4 64. Kf5 Kc3 65. Kg6
+Kxb3 66. Kxg7 Kxa4 67. Kxh6 b3 68. Kg6 b2 69. h5 b1=Q+ 70. Kg7 Qg1+ 71. Kh7 Qh2
+72. h6 1-0
+

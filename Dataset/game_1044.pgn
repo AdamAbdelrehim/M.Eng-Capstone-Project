@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "yoruv"]
+[Black "winquitter"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/CTI3iOFD"]
+[WhiteElo "2546"]
+[BlackElo "2484"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Arctic Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "05:59:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. Nf3 f6 2. Nc3 g5 3. e4 d6 4. Bc4 c6 5. Nd4 e5 6. Qh5+ Kd7 7. Nf5 Kc7 8. Bxg8
+Rxg8 9. Qxh7+ Kb6 10. Qxg8 d5 11. d3 Bxf5 12. exf5 Nd7 13. O-O Kc7 14. a3 Qe7
+15. Qe6 Qg7 16. Be3 d4 17. Ne4 dxe3 18. fxe3 Bc5 19. Rfe1 Rh8 20. b4 Bf8 21. d4
+Qe7 22. Qxe7 Bxe7 23. c4 Rh4 24. Nf2 exd4 25. exd4 Bd6 26. Rad1 Bxh2+ 27. Kf1
+Bg3 28. Re7 Rf4 29. Rd2 Rxf5 30. Kg1 Rf4 31. Ne4 Be1 32. Re2 Bh4 33. g3 Bxg3
+34. Nxg3 Rf3 35. R2e3 1-0
+

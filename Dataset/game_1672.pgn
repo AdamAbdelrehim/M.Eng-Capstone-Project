@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "hyo_lee"]
+[Black "YusufKeremIlgaz"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/PBRvojHz"]
+[WhiteElo "2611"]
+[BlackElo "2456"]
+[ECO "C44"]
+[Opening "Scotch Game: Scotch Gambit, Advance Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:33:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 Ne4 6. Qe2 Nc5 7. O-O Be7 8.
+Rd1 O-O 9. Nxd4 Nxd4 10. Rxd4 Ne6 11. Rd1 d6 12. Nc3 Qe8 13. Nd5 dxe5 14. Nxe7+
+Qxe7 15. Qxe5 Qc5 16. Qxc5 Nxc5 17. Bf4 Be6 18. Bxe6 Nxe6 19. Be3 Rfd8 20. Kf1
+Kf8 21. Ke2 Ke7 22. h4 b6 23. c3 c5 24. h5 f5 25. g3 g5 26. hxg6 hxg6 27. Rh1
+Rh8 28. a4 g5 29. b4 f4 30. gxf4 gxf4 31. Bd2 cxb4 32. cxb4 Rad8 33. Bc3 Rhf8
+34. Rh7+ Rf7 35. Rxf7+ Kxf7 36. a5 Rc8 37. axb6 axb6 38. Kd3 Kg6 39. Ra6 Rc6
+40. Ra8 Kf5 41. Rg8 Rd6+ 42. Kc4 Ke4 43. Rg6 Rc6+ 44. Kb5 Rxc3 45. Rxe6+ Kf3
+46. Kxb6 Kxf2 47. b5 f3 48. Rf6 Rb3 49. Ka6 Ke2 50. b6 f2 51. b7 Rxb7 52. Kxb7
+f1=Q 53. Rxf1 Kxf1 1/2-1/2
+

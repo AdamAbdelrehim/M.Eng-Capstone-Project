@@ -1,0 +1,31 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "YoBot_v2"]
+[Black "caissa-x"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/pbCnE4rb"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3028"]
+[BlackElo "3040"]
+[ECO "D43"]
+[Opening "Semi-Slav Defense: Anti-Moscow Gambit"]
+[TimeControl "900+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:30:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
+9. h4 g4 10. Ne5 Nbd7 11. Be2 Bb7 12. Nxd7 Qxd7 13. O-O Rg8 14. Be5 Be7 15. Qc2
+c5 16. d5 b4 17. Na4 Nxe4 18. Qxe4 exd5 19. Qh7 O-O-O 20. b3 d4 21. Rfe1 d3 22.
+Rad1 Bd6 23. Bxd6 Qxd6 24. Bxd3 cxd3 25. Nxc5 Qxc5 26. Rc1 Qc3 27. Qf5+ Kb8 28.
+Rxc3 bxc3 29. Qe5+ Ka8 30. Qxc3 g3 31. fxg3 Rxg3 32. Qc7 Rxg2+ 33. Kf1 Rb8 34.
+Qd7 Rh2 35. Re8 Rh1+ 36. Kf2 d2 37. Rxb8+ Kxb8 38. Qd6+ Kc8 39. Qf8+ Kc7 40.
+Qxf7+ Kb6 41. Qf6+ Bc6 42. Qd4+ Kb7 43. Qb4+ Kc7 44. Qf4+ Kb7 45. Qb4+ Kc7 46.
+Qf4+ Kc8 47. Qf8+ Kd7 48. Qg7+ Ke8 49. Qe5+ Kd7 50. Qf5+ Kd6 51. Qf4+ Kc5 52.
+Qe3+ Kb5 53. Qe5+ Kb6 54. Qd4+ Ka6 55. Qc4+ Kb6 56. Qd4+ 1/2-1/2
+

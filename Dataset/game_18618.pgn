@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "AttackingBeast"]
+[Black "Jjdu56"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/XyyTkmoW"]
+[WhiteTitle "IM"]
+[WhiteElo "2685"]
+[BlackElo "2489"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:18:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. a3 Bxc5 6. Nf3 Nd7 7. b4 Be7 8. c4 a5
+9. b5 dxc4 10. Bxc4 Nb6 11. Qxd8+ Bxd8 12. Bd3 Ne7 13. O-O O-O 14. Bb2 a4 15.
+Nbd2 Bd7 16. Ne4 Ned5 17. Nc5 Be7 18. Bd4 Rfc8 19. Rfc1 Bxc5 20. Bxc5 h6 21. g3
+Be8 22. Rc2 Nd7 23. Rac1 Nxc5 24. Rxc5 Bd7 25. Nd4 Kf8 26. f4 g6 27. Kf2 Ke7
+28. Ke2 Rxc5 29. Rxc5 Rc8 30. Rxc8 Bxc8 31. Kd2 Bd7 32. Bc2 h5 33. Bxa4 Nb6 34.
+Bb3 h4 35. a4 hxg3 36. hxg3 Nc8 37. Kc3 b6 38. Kb4 Kd8 39. a5 bxa5+ 40. Kxa5
+Kc7 41. Ka6 Nb6 42. Nf3 Bc8+ 43. Ka5 Bd7 44. Ng5 Be8 45. Ne4 Nd5 46. Nd6 Bd7
+47. Nxf7 Ne3 48. Nd6 Nf1 49. g4 Ne3 50. b6+ Kb8 51. g5 Ng2 52. Ne4 Nxf4 53. Nc5
+Bc8 54. Kb5 Nh3 55. Kc6 Nxg5 56. b7 Bxb7+ 57. Nxb7 Nf3 58. Kb6 Nxe5 59. Bxe6 g5
+60. Nc5 g4 61. Na6+ Ka8 62. Bd5+ 1-0
+

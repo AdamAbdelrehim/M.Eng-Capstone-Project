@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.26"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "The_german_Fuhrer"]
+[Result "1-0"]
+[CurrentPosition "r1bqkbnr/pp3ppp/2n5/4p3/8/2N2N2/PPPP1PPP/R1BQKB1R b KQkq -"]
+[Timezone "UTC"]
+[ECO "B01"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Blackburne-Kloosterboer-Gambit-3.dxc6-Nxc6"]
+[UTCDate "2023.04.26"]
+[UTCTime "22:40:02"]
+[WhiteElo "1837"]
+[BlackElo "1956"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "22:40:02"]
+[EndDate "2023.04.26"]
+[EndTime "22:40:49"]
+[Link "https://www.chess.com/game/live/76287728001"]
+
+1. e4 { [%clk 0:09:48.3] } 1... d5 { [%clk 0:09:58.5] } 2. exd5
+{ [%clk 0:09:35.5] } 2... c6 { [%clk 0:09:55.4] } 3. dxc6 { [%clk 0:09:29.4] }
+3... Nxc6 { [%clk 0:09:53.2] } 4. Nc3 { [%clk 0:09:28.6] } 4... e5
+{ [%clk 0:09:51.3] } 5. Nf3 { [%clk 0:09:26.9] } 1-0
+

@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.04.08"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Jackga217"]
+[Result "0-1"]
+[CurrentPosition "rnbqkbnr/pppp1ppp/8/8/3pP3/8/PPP2PPP/RNBQKBNR w KQkq -"]
+[Timezone "UTC"]
+[ECO "C21"]
+[ECOUrl "https://www.chess.com/openings/Center-Game-Accepted"]
+[UTCDate "2021.04.08"]
+[UTCTime "04:12:58"]
+[WhiteElo "1297"]
+[BlackElo "1194"]
+[TimeControl "1800"]
+[Termination "Jackga217 won by resignation"]
+[StartTime "04:12:58"]
+[EndDate "2021.04.08"]
+[EndTime "04:13:07"]
+[Link "https://www.chess.com/game/live/11594041781"]
+
+1. e4 { [%clk 0:30:00] } 1... e5 { [%clk 0:30:00] } 2. d4 { [%clk 0:29:59.6] }
+2... exd4 { [%clk 0:29:54.7] } 0-1
+

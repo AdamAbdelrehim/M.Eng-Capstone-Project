@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "alex21093-3"]
+[Black "The_Pursuer"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Bh7Bp2Fa"]
+[WhiteElo "2496"]
+[BlackElo "2682"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:39:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. e3 h6 7. Bh4 Be7 8. Bd3
+O-O 9. Qc2 Ne8 10. Bg3 Nd6 11. Nf3 Be6 12. Ne5 Nd7 13. f4 Nf6 14. f5 Bd7 15.
+O-O Qc8 16. h3 c5 17. Nxd7 Qxd7 18. dxc5 Nc4 19. Bxc4 dxc4 20. Rad1 Qc6 21. Bd6
+Bxd6 22. cxd6 Rad8 23. e4 Rxd6 24. Rxd6 Qxd6 25. Qf2 a6 26. Rd1 Qe5 27. Qd4
+Qxd4+ 28. Rxd4 Rc8 29. e5 Ne8 30. a4 Rc5 31. Rd5 Rxd5 32. Nxd5 b5 33. axb5 axb5
+34. Kf2 f6 35. e6 Nd6 36. g4 Kf8 37. Ke3 Nb7 38. Kd4 Na5 39. Kc5 Nb3+ 40. Kxb5
+Nd2 41. Kc6 Ne4 42. Kd7 Nc5+ 43. Kd8 Nb7+ 44. Kc7 Nc5 45. Kc6 Ne4 46. Kb5 Nd2
+47. Ne3 Ke7 48. Nxc4 Nb3 49. Kb4 Nc1 50. Ne3 Nd3+ 51. Kc3 Nf2 52. Nd5+ Kd6 53.
+Nf4 Ke5 54. e7 Ne4+ 55. Kc4 Nd6+ 56. Kc5 Ne8 57. Nd5 h5 58. Kc6 hxg4 59. hxg4
+g5 60. fxg6 Ke6 61. Nc7+ Kxe7 62. Nxe8 Kxe8 63. Kd6 Kf8 64. b4 Kg7 65. b5 Kxg6
+66. b6 Kg5 67. b7 Kxg4 68. b8=Q f5 69. Qg8+ Kf3 70. Ke5 f4 71. Qg5 Ke2 72. Qxf4
+Kd1 73. Qh2 Kc1 74. Kd4 Kb1 75. Kc3 Ka1 76. Qb2# 1-0
+

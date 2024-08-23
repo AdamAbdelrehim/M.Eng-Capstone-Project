@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.12.27"]
+[Round "-"]
+[White "Seminole_Sapper"]
+[Black "AdamAbdelrehim"]
+[Result "1/2-1/2"]
+[CurrentPosition "rnbqkb1r/1p3ppp/p4n2/2pp4/P7/5N2/1PPPBPPP/RNBQ1K1R b kq -"]
+[Timezone "UTC"]
+[ECO "B20"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Bowdler-Attack-2...e6"]
+[UTCDate "2021.12.27"]
+[UTCTime "05:18:55"]
+[WhiteElo "1539"]
+[BlackElo "1572"]
+[TimeControl "600"]
+[Termination "Game drawn by agreement"]
+[StartTime "05:18:55"]
+[EndDate "2021.12.27"]
+[EndTime "05:19:41"]
+[Link "https://www.chess.com/game/live/34321197831"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:10:00] } 2. Bc4 { [%clk 0:09:59.4] }
+2... e6 { [%clk 0:09:58.8] } 3. Nf3 { [%clk 0:09:58.7] } 3... a6
+{ [%clk 0:09:56.5] } 4. a4 { [%clk 0:09:56.8] } 4... d5 { [%clk 0:09:55] } 5.
+exd5 { [%clk 0:09:55.8] } 5... exd5 { [%clk 0:09:54.9] } 6. Be2
+{ [%clk 0:09:53.2] } 6... Nf6 { [%clk 0:09:53.9] } 7. Kf1 { [%clk 0:09:52.7] }
+1/2-1/2
+

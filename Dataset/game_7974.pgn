@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "buildorderbot"]
+[Black "MarioVillanueva"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/zzMHJJqx"]
+[BlackTitle "IM"]
+[WhiteElo "2634"]
+[BlackElo "2648"]
+[ECO "B27"]
+[Opening "Sicilian Defense: Hyperaccelerated Fianchetto"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "00:15:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Qxd4 Nf6 5. c4 Nc6 6. Qe3 Bg7 7. Nc3 O-O 8. h3
+e6 9. Bd2 d5 10. e5 d4 11. Nxd4 Nxd4 12. O-O-O Nf5 13. Qe1 Nd7 14. f4 a6 15. g4
+Ne7 16. h4 b5 17. h5 Bb7 18. Rh3 g5 19. h6 Bh8 20. f5 Nxe5 21. Bxg5 Qc7 22. Bf4
+Nd3+ 23. Bxd3 Qxf4+ 24. Kb1 bxc4 25. Bc2 Nd5 26. Ne4 Rfe8 27. Qh4 Qe5 28. Qg5+
+Kf8 29. Nc3 Nxc3+ 30. Rxc3 Bf6 31. Qh5 Rab8 32. g5 Be4 33. Kc1 Rxb2 0-1
+

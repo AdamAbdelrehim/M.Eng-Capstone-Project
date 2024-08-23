@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Shaginyan_A"]
+[Black "MrPickles212"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/yY8wFXtH"]
+[WhiteElo "2516"]
+[BlackElo "2435"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "03:41:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 h6 5. Bb3 g5 6. d4 exd4 7. e5 Ng4 8. O-O
+d6 9. Re1 Ngxe5 10. Nxd4 Bg7 11. Nxc6 bxc6 12. Nc3 O-O 13. h3 Bf5 14. f4 Ng6
+15. fxg5 c5 16. gxh6 Bd4+ 17. Kh1 Qh4 18. Qf3 Qxe1+ 19. Kh2 Be5+ 0-1
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "positionaloldman"]
+[Black "lashabrat7"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/21l6HZgO"]
+[WhiteElo "2549"]
+[BlackElo "2552"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Two Pawns Attack, Lasker Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:19:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+11"]
+
+1. e4 Nf6 2. e5 Nd5 3. c4 Nb6 4. c5 Nd5 5. Nc3 e6 6. Qg4 f5 7. exf6 Nxf6 8. Qc4
+d5 9. cxd6 cxd6 10. Nf3 Nc6 11. d4 d5 12. Qb3 Bd6 13. Bd3 O-O 14. O-O Kh8 15.
+Bg5 Qe8 16. Rfe1 Qh5 17. Nb5 Bb8 18. Bh4 a6 19. Nc3 Nxd4 20. Nxd4 Qxh4 21. Nf3
+Qh6 22. Be2 e5 23. Nxd5 e4 0-1
+

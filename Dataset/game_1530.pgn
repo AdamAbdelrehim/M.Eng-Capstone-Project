@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "MelkozerovSergey"]
+[Black "arno111"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/wVPG8kWf"]
+[WhiteElo "2476"]
+[BlackElo "2531"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System, with e6"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:05:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 d5 2. Nf3 e6 3. Bf4 Bd6 4. e3 c6 5. c4 Qc7 6. Bg3 Nd7 7. Nc3 Ngf6 8. Rc1
+O-O 9. cxd5 exd5 10. Bd3 Bxg3 11. hxg3 h6 12. O-O Qd6 13. Qc2 Rd8 14. Rb1 Ng4
+15. b4 Ndf6 16. Rfc1 Bd7 17. b5 c5 18. dxc5 Qxc5 19. Ne4 Qxc2 20. Nxf6+ Nxf6
+21. Rxc2 Rac8 22. Rbc1 Rxc2 23. Rxc2 Rc8 24. Rxc8+ Bxc8 25. Kf1 Kf8 26. Nd4 Ke7
+27. Ke2 Kd6 28. Nb3 Ne4 29. Kf3 Nc5 30. Bc2 Nxb3 31. Bxb3 Bd7 32. a4 f6 33. e4
+dxe4+ 34. Kxe4 Kc5 35. Bd1 Be6 36. f4 b6 37. g4 Kb4 38. g5 fxg5 39. fxg5 hxg5
+40. Ke5 Bb3 41. Bxb3 Kxb3 42. Kf5 Kxa4 43. Kxg5 Kxb5 44. Kg6 a5 45. g4 a4 46.
+g5 a3 47. Kxg7 a2 0-1
+

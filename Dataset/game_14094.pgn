@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "IMaMOB"]
+[Black "satlan"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/H0sbLsxS"]
+[WhiteElo "2580"]
+[BlackElo "2671"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:55:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 d5 4. exd5 Qxd5 5. d4 g6 6. Na3 Bg4 7. dxc5 Qxd1+ 8.
+Kxd1 O-O-O+ 9. Bd2 Bh6 10. Nc4 Nf6 11. Kc1 Bxf3 12. gxf3 Rxd2 13. Nxd2 Rd8 0-1
+

@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.09.22"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "NanoMachado"]
+[Result "0-1"]
+[CurrentPosition "r1b1k2r/p2p1p1p/2p1pp2/8/1b6/2NQ4/PqP2PPP/3RKB1R w Kkq -"]
+[Timezone "UTC"]
+[ECO "B44"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Taimanov-Variation-5.Nxc6-bxc6"]
+[UTCDate "2022.09.22"]
+[UTCTime "21:01:18"]
+[WhiteElo "1760"]
+[BlackElo "1719"]
+[TimeControl "600"]
+[Termination "NanoMachado won by resignation"]
+[StartTime "21:01:18"]
+[EndDate "2022.09.22"]
+[EndTime "21:04:04"]
+[Link "https://www.chess.com/game/live/57619293963"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:09:59.2] } 2. Nf3
+{ [%clk 0:09:58.4] } 2... e6 { [%clk 0:09:57.8] } 3. d4 { [%clk 0:09:38.5] }
+3... cxd4 { [%clk 0:09:57.7] } 4. Nxd4 { [%clk 0:09:35] } 4... Nc6
+{ [%clk 0:09:56.1] } 5. Nxc6 { [%clk 0:09:29.4] } 5... bxc6 { [%clk 0:09:56] }
+6. e5 { [%clk 0:09:22.8] } 6... Qa5+ { [%clk 0:09:50] } 7. Nc3
+{ [%clk 0:09:17.9] } 7... Qxe5+ { [%clk 0:09:48.1] } 8. Qe2
+{ [%clk 0:09:11.8] } 8... Qd6 { [%clk 0:09:36.5] } 9. Be3 { [%clk 0:09:06.8] }
+9... Nf6 { [%clk 0:09:33.2] } 10. Rd1 { [%clk 0:09:05.7] } 10... Qb4
+{ [%clk 0:09:29.1] } 11. Qd3 { [%clk 0:08:44.7] } 11... Qxb2
+{ [%clk 0:09:23.9] } 12. Bd4 { [%clk 0:08:34.2] } 12... Bb4
+{ [%clk 0:09:14.9] } 13. Bxf6 { [%clk 0:08:30.7] } 13... gxf6
+{ [%clk 0:09:11.6] } 0-1
+

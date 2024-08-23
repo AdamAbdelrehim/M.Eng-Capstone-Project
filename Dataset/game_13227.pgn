@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "cibona"]
+[Black "imdejong"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/iGRUtItA"]
+[BlackTitle "IM"]
+[WhiteElo "2502"]
+[BlackElo "2497"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:12:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+
+1. g3 Nf6 2. Bg2 g6 3. e4 Bg7 4. d4 d6 5. Nc3 O-O 6. Nge2 c6 7. a4 e5 8. O-O
+Na6 9. h3 Be6 10. Be3 Qa5 11. g4 Rfe8 12. f4 Bc4 13. Rf2 Bxe2 14. Rxe2 exd4 15.
+Bxd4 Nc5 16. Qd2 Ne6 17. Bf2 Rad8 18. f5 Nc7 19. g5 Nh5 20. f6 Bf8 21. Bf3 d5
+22. exd5 Nxd5 23. Nxd5 Qxd2 24. Rxd2 cxd5 25. Bxh5 gxh5 26. Rad1 Re4 27. Rxd5
+Rxd5 28. Rxd5 Rxa4 29. Rd8 b6 30. Bg3 h6 31. Bd6 hxg5 32. Rxf8+ Kh7 33. Rxf7+
+Kg6 34. Rf8 Ra1+ 35. Kf2 Rc1 36. Be5 Rxc2+ 37. Ke3 Rc1 38. Bc3 Rf1 39. Rg8+ Kf7
+40. Rg7+ Ke6 41. Rxg5 h4 42. Rg4 b5 43. Rxh4 b4 44. Bxb4 Rxf6 45. Bc3 Rg6 46.
+Ra4 Kd5 47. Ra5+ Kc4 48. h4 Rg3+ 49. Kf4 Rh3 50. Kg4 Kb3 51. Kxh3 Kc2 52. Rxa7
+Kb1 53. Rc7 Kc2 54. b4 Kb1 55. b5 Ka2 56. b6 Kb1 57. Be5 Ka2 58. b7 Kb3 59.
+b8=Q+ Ka3 60. Ra7# 1-0
+

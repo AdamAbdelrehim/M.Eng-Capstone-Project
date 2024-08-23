@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Marblemaster"]
+[Black "manneredmonkey"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/wHsVRPI0"]
+[BlackTitle "NM"]
+[WhiteElo "2594"]
+[BlackElo "2561"]
+[ECO "B07"]
+[Opening "Pirc Defense: Byrne Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:39:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bg5 c6 5. f4 d5 6. e5 Nh5 7. Qd2 f6 8. Bh4 Bh6
+9. Nge2 O-O 10. exf6 exf6 11. O-O-O Bg4 12. h3 Bxe2 13. Nxe2 Qd6 14. g3 Nd7 15.
+Bg2 Nb6 16. Bf3 Ng7 17. b3 Nf5 18. Rdg1 Rae8 19. Bg4 Nxh4 20. gxh4 Kh8 21. h5
+gxh5 22. Bxh5 Re7 23. Rg4 f5 24. Rh4 Rfe8 25. Ng3 Qf6 26. Bxe8 Qxh4 27. Nxf5
+Qf6 28. Nxh6 Qxh6 29. Re1 Rxe1+ 30. Qxe1 Qxf4+ 31. Kb2 Qxd4+ 32. Kb1 Qf6 33. a4
+d4 34. Qa5 Qe7 35. Qxa7 Qb4 36. Qxb7 Qe1+ 37. Kb2 Qc3+ 38. Kb1 Qe1+ 39. Ka2 Nd5
+40. Bxc6 Nb4+ 41. Ka3 Nxc2+ 42. Kb2 Qc3+ 43. Kb1 Na3+ 44. Ka2 Nc2 45. Be4 Qa1#
+0-1
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Weiawaga"]
+[Black "InanisBot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/VSNf4wpe"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2655"]
+[BlackElo "2410"]
+[ECO "D27"]
+[Opening "Queen's Gambit Accepted: Classical Defense, Rubinstein Variation"]
+[TimeControl "420+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:31:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-3"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 dxc4 4. e3 e6 5. Bxc4 c5 6. O-O a6 7. a4 Nc6 8. Qe2
+Be7 9. Rd1 cxd4 10. exd4 h6 11. Ne5 Nb4 12. Ra3 O-O 13. Rg3 Kh8 14. Rh3 Bd7 15.
+Nc3 Rc8 16. Qf3 Bc6 17. Qg3 Bd5 18. Bxh6 gxh6 19. Rxh6+ Nh7 20. Qh3 Bh4 21.
+Nxd5 Kg7 22. Rxh4 Ng5 23. Rg4 Nxd5 24. Qh5 Rxc4 25. Rxg5+ Kf6 26. Qh4 Ke7 27.
+Rg8+ Nf6 28. Rxf8 Kxf8 29. Nxc4 Ke8 30. Ne5 Nd7 31. Qxd8+ Kxd8 32. Nxd7 Kxd7
+33. a5 b5 34. axb6 Kc6 35. h4 Kxb6 36. h5 Kb5 37. Rc1 Kb4 38. h6 a5 39. h7 a4
+40. h8=Q Ka5 41. Qa8+ Kb6 42. Qb8+ Ka6 43. Rc6+ Ka5 44. Qb6# 1-0
+

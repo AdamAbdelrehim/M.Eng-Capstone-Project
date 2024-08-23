@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "zaplya"]
+[Black "Piksi69"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/uFSsw12T"]
+[WhiteElo "2504"]
+[BlackElo "2569"]
+[ECO "A41"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:35:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. d4 d6 2. Nf3 Nd7 3. b3 g6 4. Bb2 Bg7 5. g3 e5 6. dxe5 dxe5 7. Nc3 Ne7 8. Bg2
+O-O 9. O-O h6 10. Nd5 c6 11. Nxe7+ Qxe7 12. a4 Re8 13. Ba3 Qd8 14. e4 Qb6 15.
+Qd6 Bf8 16. Qd2 Bxa3 17. Rxa3 Kg7 18. Rd1 Nc5 19. Qe3 Bg4 20. Rd2 Bxf3 21. Bxf3
+Rad8 22. Ra1 Ne6 23. Rad1 Qxe3 24. fxe3 Rxd2 25. Rxd2 Rd8 26. Rxd8 Nxd8 27. Kf2
+Ne6 28. Ke2 Kf8 29. Kd3 Ke7 30. b4 Kd6 31. c3 c5 32. Kc4 Kc6 33. Bg4 Ng5 34.
+Kd3 cxb4 35. cxb4 b6 36. h4 Nh7 37. Kc4 a5 38. Bf3 Nf6 39. Kc3 Ne8 40. Be2 Nd6
+41. Bd3 axb4+ 42. Kxb4 Kd7 43. Kc3 f5 44. exf5 gxf5 45. Kd2 Ke6 46. Be2 Kd5 47.
+Bf3+ Kc4 48. Bc6 Kc5 49. Bd7 Ne4+ 50. Ke2 Nxg3+ 51. Kf3 Ne4 52. Bxf5 Nc3 53.
+Bd7 Kb4 54. Kg4 Nxa4 55. Kh5 Nc5 56. Bf5 Kc4 57. Kxh6 b5 58. h5 b4 59. Kg5 b3
+60. h6 e4 61. Bg6 Ne6+ 62. Kf6 Kd3 63. Ke5 b2 64. Bxe4+ Kxe3 65. h7 Ng5 66.
+h8=Q Nf7+ 67. Kd5 Nxh8 68. Bb1 Nf7 69. Kc4 Kd2 70. Kb3 Kc1 71. Ka2 Ne5 72. Bh7
+Nc6 73. Bg6 Nd4 74. Bh7 Nc2 75. Bg6 b1=Q# 0-1
+

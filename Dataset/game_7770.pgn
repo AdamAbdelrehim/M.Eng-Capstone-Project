@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ApexTheBest06"]
+[Black "estocastico"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Py2ww2sK"]
+[BlackTitle "IM"]
+[WhiteElo "2521"]
+[BlackElo "2732"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Kramnik Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:13:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 e6 3. c4 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Nc3 Bb4 7. Nxc6 bxc6 8.
+Bd3 e5 9. O-O d6 10. Qc2 a5 11. a3 Bc5 12. Na4 Bd4 13. Rb1 O-O 14. b4 axb4 15.
+axb4 Ng4 16. h3 Nh6 17. Bxh6 gxh6 18. c5 Kh8 19. Nb6 Rg8 20. Kh2 Qg5 21. Rg1
+Bxh3 22. gxh3 Qf4+ 23. Kh1 Qf3+ 24. Kh2 Bxf2 25. Rg4 Rxg4 26. hxg4 Qg3+ 27. Kh1
+Qh3# 0-1
+

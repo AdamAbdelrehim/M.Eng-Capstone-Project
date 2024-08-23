@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "supplychain"]
+[Black "LittlePawnFriends"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/HyoquaPB"]
+[WhiteElo "2378"]
+[BlackElo "2500"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Stockholm Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:58:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Qd5 f6 5. exf6 Nxf6 6. Qb3 d5 7. Bg5 Qc5 8.
+e3 Ne4 9. Nbd2 Bg4 10. Bd3 Nxg5 11. Nxg5 Be7 12. Ngf3 O-O-O 13. O-O-O Bf6 14.
+Kb1 Rhe8 15. c3 Kb8 16. Bxh7 Na5 17. Qa4 Qb6 18. Nb3 Nc4 19. Bd3 Bd7 20. Qb4
+Qxb4 21. cxb4 Nxb2 22. Rd2 Nxd3 23. Rxd3 Bf5 24. Rd1 b6 25. Nbd4 Bxd3+ 26. Rxd3
+Kb7 27. b5 Re4 28. a4 Rh8 29. h3 Rh5 30. Kc2 a6 31. Kb3 axb5 32. axb5 Rh8 33.
+Rd2 Ra8 34. Ra2 Rxa2 35. Kxa2 Kc8 36. Kb3 Kd7 37. Kb4 Kd6 38. Nd2 Re8 39. N2b3
+Kd7 40. Kc3 Rf8 41. Kd3 Bxd4 42. Nxd4 Rxf2 43. g4 Rh2 44. Nf5 g6 45. Nh4 Rxh3
+46. Nxg6 Kd6 47. g5 Rg3 48. Nf4 Rxg5 49. Kd4 Rg4 50. Kd3 Kc5 51. Ne6+ Kxb5 52.
+Nxc7+ Kc5 53. Ne6+ Kd6 54. Nf4 Rxf4 55. exf4 Ke6 56. Kd4 b5 57. f5+ Kxf5 58.
+Kxd5 b4 59. Kc4 b3 60. Kc3 b2 61. Kxb2 1/2-1/2
+

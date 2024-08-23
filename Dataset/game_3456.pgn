@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "MrTroutstanding"]
+[Black "ReiXShinji"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/CQqR8lFD"]
+[WhiteElo "2531"]
+[BlackElo "2442"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:52:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. c3 Bd6 6. Bg5 h6 7. Bh4 O-O 8. Bd3
+Re8+ 9. Kf1 c5 10. dxc5 Bxc5 11. Nbd2 Nc6 12. Nb3 Bb6 13. h3 Qd6 14. Bg3 Qe7
+15. Bh4 Qe6 16. Qc2 Ne4 17. Re1 Qg6 18. Nbd2 Bf5 19. Re2 Ng3+ 0-1
+

@@ -1,0 +1,35 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "CruelKen"]
+[Black "Nikitosikbot_v2"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/TEtDbexo"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3003"]
+[BlackElo "3023"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation"]
+[TimeControl "360+3"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:50:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 Be7 6. e3 h6 7. Bh4 c6 8. Bd3
+O-O 9. Nge2 Nbd7 10. O-O Re8 11. a4 Nh5 12. Bxe7 Qxe7 13. a5 Ndf6 14. Qd2 g6
+15. Rfe1 Rb8 16. Nc1 Ne4 17. Qc2 Bd7 18. Nb3 Rbc8 19. Bxe4 dxe4 20. Nc5 Bf5 21.
+Ne2 Nf6 22. Na4 Bg4 23. h3 Bxe2 24. Qxe2 h5 25. Rec1 Kg7 26. Qc4 h4 27. Qb3 Nd5
+28. Nc3 Nf6 29. Na4 Nd5 30. Nc3 Nf6 31. Ne2 a6 32. Rc5 Nd7 33. Rc4 Nf6 34. Nc3
+Rc7 35. Qb4 Qd8 36. Qb6 Nd7 37. Qb3 Nf6 38. Na4 Nd5 39. Nc3 Nf6 40. Na4 Nd5 41.
+Rc5 f5 42. Nb6 Nxb6 43. Qxb6 Rd7 44. Qb4 Qf6 45. Rac1 Kh6 46. g3 Qg5 47. Qe1
+Red8 48. Kg2 Rd5 49. b4 Qh5 50. Qd1 Qg5 51. Qe1 Qh5 52. Kh2 g5 53. Qg1 g4 54.
+Rxd5 Rxd5 55. Qg2 Rb5 56. gxh4 Qxh4 57. Qg3 Qxg3+ 58. Kxg3 gxh3 59. Rc4 h2 60.
+Kxh2 f4 61. Kh3 fxe3 62. fxe3 Rf5 63. Kg4 Rf3 64. Rc5 Rxe3 65. d5 cxd5 66. Rxd5
+Rb3 67. Rd6+ Kg7 68. Rb6 Kf7 69. Rxb7+ Ke6 70. Rb6+ Ke5 71. Rxa6 Rxb4 72. Rb6
+Rxb6 73. axb6 Kd6 74. b7 Kc7 75. b8=Q+ Kxb8 76. Kf4 Kb7 77. Ke3 Ka8 78. Kxe4
+1/2-1/2
+

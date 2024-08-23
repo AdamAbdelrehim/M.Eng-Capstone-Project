@@ -1,0 +1,33 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "RaspFish"]
+[Black "weiawaga"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/QgGJkZPX"]
+[WhiteTitle "BOT"]
+[WhiteElo "3026"]
+[BlackElo "2706"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:23:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 O-O 7. Bd3 c6 8. Nf3
+Nbd7 9. h3 Ne4 10. Bf4 f5 11. Qc2 Ndf6 12. O-O Bd6 13. a3 Bxf4 14. exf4 Nh5 15.
+Qc1 Be6 16. Qe3 Re8 17. Rfe1 Bf7 18. Ne5 Nhf6 19. Na4 a5 20. g3 Qc7 21. Rac1
+Qd8 22. Kg2 Nd6 23. Rc2 Qc7 24. Qc1 Re7 25. h4 Be8 26. Be2 Nd7 27. Nc5 Ne4 28.
+Ncxd7 Bxd7 29. h5 Be6 30. Rh1 h6 31. f3 Nd6 32. Bd3 Qb6 33. Rd2 Qxd4 34. Bxf5
+Qb6 35. Bg6 Bf5 36. Re1 Rf8 37. Rde2 Bxg6 38. hxg6 a4 39. g4 Rfe8 40. Qd1 Qb3
+41. Qd2 h5 42. Re3 Qb5 43. Kg3 d4 44. Qxd4 Qd5 45. Rd1 Qxd4 46. Rxd4 Re6 47.
+Red3 Nb5 48. Rxa4 hxg4 49. fxg4 c5 50. Rd5 b6 51. Rd7 Rd6 52. Ra6 Rf6 53. g5
+Rd6 54. Rxd6 Nxd6 55. Rxb6 Nf5+ 56. Kg4 Ne3+ 57. Kf3 Nf5 58. a4 Nd4+ 59. Kg4
+Nc2 60. a5 Rf8 61. a6 Ne3+ 62. Kg3 Nd5 63. Rb7 Nb4 64. a7 Na6 65. f5 Rc8 66. f6
+gxf6 67. gxf6 Nc7 68. Rxc7 Ra8 69. Rg7+ Kf8 70. Rh7 Kg8 71. Nf7 Rxa7 72. Rh8#
+1-0
+

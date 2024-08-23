@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Stammargg"]
+[Black "Saeidbero"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/YuKpldQw"]
+[WhiteElo "2527"]
+[BlackElo "2517"]
+[ECO "E11"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:24:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Bb4+ 4. Bd2 Qe7 5. a3 Bxd2+ 6. Nfxd2 b6 7. e4 d5 8.
+e5 Nfd7 9. cxd5 exd5 10. Nc3 Bb7 11. b4 O-O 12. f4 c5 13. bxc5 bxc5 14. Bd3
+cxd4 15. Nb5 Nc6 16. Nd6 Rab8 17. Qh5 g6 18. Qh6 Ndxe5 19. fxe5 Qxe5+ 20. Kd1
+Qxd6 21. h4 Ne5 22. Bb1 Ng4 23. Qg5 Ne3+ 24. Ke1 Rbc8 25. h5 Rc1+ 26. Kf2 Rxh1
+27. Nf3 Rf1+ 28. Ke2 Ba6+ 29. Kd2 Rd1# 0-1
+

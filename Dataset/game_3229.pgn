@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ignat_final"]
+[Black "Peggy1234"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/BVxqJbGa"]
+[WhiteElo "2510"]
+[BlackElo "2437"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:19:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bc4 Bd6 7. Qe2+ Qe7
+8. Qxe7+ Kxe7 9. d4 Be6 10. Bd3 Nd7 11. O-O Nb6 12. c3 Rhe8 13. Re1 Kf8 14.
+Bxh7 g6 15. Bh6+ Ke7 16. Re2 Rh8 17. Bxg6 Rxh6 18. Bd3 Nd5 19. g3 Rg8 20. h4
+Nf4 21. Re3 Nxd3 22. Rxd3 f5 23. Ne5 f4 24. Re1 fxg3 25. fxg3 Rxh4 26. Rde3
+Bxe5 27. dxe5 Rhg4 28. a3 Rxg3+ 0-1
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "MYFIRSTBOT"]
+[Black "expositor"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/r5yaPgjO"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2742"]
+[BlackElo "2747"]
+[ECO "C88"]
+[Opening "Ruy Lopez: Closed"]
+[TimeControl "420+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:07:39"]
+[Termination "Normal"]
+[WhiteRatingDiff "+25"]
+[BlackRatingDiff "-6"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+Na5 9. Bc2 d5 10. d4 dxe4 11. Nxe5 c5 12. Be3 Bb7 13. Nd2 Rc8 14. a3 Qc7 15.
+Bf4 cxd4 16. Nxe4 Nd5 17. Bg3 dxc3 18. b4 Nc4 19. Nxf7 Qc6 20. Ne5 Nxe5 21.
+Bxe5 Qh6 22. Qg4 Kh8 23. Nc5 Bxc5 24. bxc5 Nf6 25. Qg3 Rxc5 26. Bf4 Qh5 27. Re7
+Rf7 28. Rae1 Ng8 29. Re8 Bc6 30. Rb8 a5 31. h3 b4 32. axb4 axb4 33. Bb3 Rb5 34.
+Re7 Rd5 35. Re6 Rd1+ 36. Kh2 Bd5 37. Ree8 Rf8 38. Rxf8 Bxb3 39. Rb7 Qg6 40. Be5
+Qxg3+ 41. fxg3 Bf7 42. Rbxf7 h5 43. Rxg7 Rh1+ 44. Kxh1 h4 45. Rfxg8# 1-0
+

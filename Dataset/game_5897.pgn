@@ -1,0 +1,28 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "BitByByte"]
+[Black "YoBot_v2"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/7Og2Lm5n"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2601"]
+[BlackElo "2749"]
+[ECO "C45"]
+[Opening "Scotch Game: Schmidt Variation"]
+[TimeControl "1500+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:05:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. Nc3 Bd6 8.
+exd5 cxd5 9. Nb5 Bc5 10. O-O O-O 11. c3 Bb6 12. Bf4 c5 13. c4 Bg4 14. Qd2 a6
+15. Nc3 d4 16. Ne4 Rc8 17. Nxf6+ Qxf6 18. Rfe1 Bf5 19. Bxf5 Qxf5 20. Re5 Qg6
+21. Rd5 Qc6 22. Qd3 Bc7 23. Bxc7 Qxc7 24. g3 Qb6 25. b3 Rfe8 26. Qd2 g6 27. Re1
+Kg7 28. Kf1 a5 29. Rxe8 Rxe8 30. Qf4 Qe6 31. Kg2 Qe7 32. Qd6 Qe4+ 33. Kg1 Qe1+
+34. Kg2 Qe4+ 35. Kg1 Qb1+ 36. Kg2 Qe4+ 1/2-1/2
+

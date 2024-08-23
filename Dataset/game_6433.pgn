@@ -1,0 +1,36 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "fornax-engine"]
+[Black "ChessatronBot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/dpBdbwYC"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2419"]
+[BlackElo "2526"]
+[ECO "E94"]
+[Opening "King's Indian Defense: Orthodox Variation, Positional Defense"]
+[TimeControl "900+3"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:27:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. Nc3 Bg7 5. e4 O-O 6. Be2 Nbd7 7. O-O e5 8. Bg5
+h6 9. Bh4 exd4 10. Nxd4 Re8 11. f3 c6 12. Bf2 Ne5 13. Qd2 a6 14. Rad1 b5 15. b3
+Qa5 16. Nc2 bxc4 17. b4 Qc7 18. Qxd6 Qxd6 19. Rxd6 Nh5 20. g3 Bf8 21. Rd2 Rb8
+22. Rb1 Be6 23. f4 Ng4 24. Bc5 Rec8 25. Rf1 Bg7 26. e5 Bf8 27. Bxf8 Rxf8 28.
+Rf3 Rfd8 29. Rxd8+ Rxd8 30. h3 Rd2 31. Ne1 Nhf6 32. exf6 Nxf6 33. g4 Rb2 34. a3
+Ne4 35. Bf1 Nd6 36. Re3 Nb5 37. Na4 Rb1 38. Kf2 Bd5 39. Nb6 Nd6 40. Bg2 Bxg2
+41. Kxg2 Rb2+ 42. Kf3 Rh2 43. Kg3 Rd2 44. Nf3 Ra2 45. Kh4 Rf2 46. Nd7 Rf1 47.
+Nde5 Kg7 48. Nxc6 Nb5 49. f5 c3 50. Ncd4 g5+ 51. Kg3 Ra1 52. Nc2 Ra2 53. Nfe1
+Kf6 54. Kf3 Kg7 55. Ke4 a5 56. bxa5 Nxa3 57. Rxc3 Nb5 58. Rc5 Ra4+ 59. Kf3 Rxa5
+60. Kg2 h5 61. Kf1 hxg4 62. hxg4 Kf6 63. Nd4 Ra4 64. Rc6+ Ke5 65. Nxb5 Rxg4 66.
+Nf3+ Kxf5 67. Nd6+ Ke6 68. Nc8+ Kf5 69. Ne7+ Ke4 70. Kf2 Rf4 71. Rc3 Rf6 72.
+Re3+ Kf4 73. Nd5+ Kf5 74. Re5+ Kg6 75. Nxf6 Kxf6 76. Rxg5 Ke7 77. Ke3 f6 78.
+Rb5 Kd6 79. Ke4 Kc7 80. Nd4 Kd6 81. Rb6+ Kc5 82. Rc6+ Kb4 83. Rxf6 Ka3 84. Kd3
+Ka2 85. Kc3 Ka1 86. Nb3+ Ka2 87. Ra6+ Kb1 88. Ra1# 1-0
+

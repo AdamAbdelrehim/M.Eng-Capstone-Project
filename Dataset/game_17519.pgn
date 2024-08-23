@@ -1,0 +1,38 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Hoon_Bot"]
+[Black "weiawaga"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/v1ZejR2d"]
+[WhiteTitle "BOT"]
+[WhiteElo "2885"]
+[BlackElo "2714"]
+[ECO "A00"]
+[Opening "Amar Opening"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:03:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. Nh3 Nf6 2. g4 Nxg4 3. Rg1 Nxh2 4. Bg2 g6 5. d4 Ng4 6. Nc3 d6 7. Bg5 Bg7 8.
+Qd2 Nc6 9. f3 Nf6 10. O-O-O Nh5 11. e3 h6 12. Bh4 d5 13. f4 Bg4 14. Rde1 Bf6
+15. Bxf6 Nxf6 16. Nf2 Be6 17. Nd3 Bf5 18. Nxd5 Nxd5 19. e4 Nxd4 20. Nc5 Nxf4
+21. Qxf4 Be6 22. e5 c6 23. Qf2 Bc4 24. Bh3 Qd5 25. b4 b6 26. Bg2 Qd8 27. e6
+fxe6 28. Nxe6 Bxe6 29. Rxe6 Qd7 30. Rxg6 Rf8 31. Qxf8+ Kxf8 32. Rf1+ Qf5 33.
+Rxf5+ Nxf5 34. Be4 Nd6 35. Bxc6 Rc8 36. Bd5 Nf7 37. c4 Rd8 38. Be6 Rd4 39. a3
+Rd3 40. Kb2 Rd2+ 41. Kc3 Rf2 42. Bxf7 Rxf7 43. Rxh6 Rf3+ 44. Kb2 Rd3 45. a4 Rd6
+46. Rh5 Kf7 47. Kb3 Rd3+ 48. Kb2 Rd6 49. a5 Ke6 50. a6 Rc6 51. Kb3 Kd7 52. Rd5+
+Kc7 53. Rh5 Kd7 54. b5 Rc8 55. Rd5+ Kc7 56. Kb4 Rf8 57. Re5 Kd6 58. Rg5 Kc7 59.
+Rd5 Rf1 60. Rh5 Rf8 61. Rh6 Kd7 62. Rh5 Kc7 63. Rh4 Kd6 64. Rg4 Rh8 65. Rf4 Kd7
+66. Kc3 Rh3+ 67. Kb4 Rh8 68. Rd4+ Kc7 69. Kc3 Rh3+ 70. Kb4 Rh8 71. Rd5 Rf8 72.
+Rh5 Kd6 73. Rg5 Kc7 74. Rg1 Rh8 75. Rf1 Kd7 76. Rf5 Kc7 77. Kc3 Rh3+ 78. Kb4
+Rh8 79. Rf7 Kd6 80. Rg7 Rd8 81. Rg6+ Kd7 82. Rc6 Rc8 83. Rg6 Rd8 84. Rc6 Rc8
+85. Rh6 Rf8 86. Rh7 Kd6 87. Kb3 Rf3+ 88. Kb4 Rf8 89. Rg7 Rd8 90. Kb3 Rf8 91.
+Rg6+ Kd7 92. Ka4 Kc7 93. Rg7 Kd6 94. Kb3 Rh8 95. Rg3 Kd7 96. Re3 Kd6 97. Rd3+
+Kc7 98. Kb4 Rh1 99. Rg3 Rb1+ 100. Ka3 Kd6 101. Rg6+ Kc5 102. Rc6+ Kd4 103. Ka2
+Rb4 104. Rd6+ 1/2-1/2
+

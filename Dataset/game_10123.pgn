@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Jup78"]
+[Black "Alex_Lidsky"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/wSHnF5aI"]
+[WhiteTitle "FM"]
+[WhiteElo "2468"]
+[BlackElo "2505"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:49:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 d6 2. d4 g6 3. Nc3 Bg7 4. Be3 a6 5. Qd2 b5 6. O-O-O Bb7 7. f3 Nd7 8. h4
+h6 9. Nh3 c5 10. Ne2 c4 11. g4 Qc7 12. Bg2 Nb6 13. c3 a5 14. f4 b4 15. f5 bxc3
+16. Nxc3 Nf6 17. fxg6 fxg6 18. g5 Ng4 19. Rhf1 Nxe3 20. Qxe3 hxg5 21. Nxg5 Bh6
+22. Qh3 Bxg5+ 23. Kc2 Bf6 24. Qg4 Rg8 25. h5 Bc8 26. Qf3 Rb8 27. hxg6 Bd7 28.
+e5 dxe5 29. dxe5 Qxe5 30. Rfe1 Qg5 31. Ne4 Qxg6 32. Kc1 Bxb2+ 33. Kxb2 Qxg2+
+34. Qxg2 Rxg2+ 35. Kc3 Ba4 36. Nd6+ Kd7 37. Nf5+ Bxd1 38. Rxe7+ Kd8 39. a4 Nd5+
+40. Kd4 Nxe7 41. Nd6 Rg4+ 42. Kc3 Rb3+ 43. Kd2 Rd4+ 44. Kc1 Nc6 45. Nb7+ Kc7
+46. Nd6 Rc3+ 47. Kb2 Rxd6 48. Kxc3 Be2 49. Kc2 Bd3+ 50. Kc3 Ne7 51. Kd2 Nd5 52.
+Kc1 Kc6 53. Kd2 Kc5 54. Kc1 Kd4 55. Kb2 c3+ 56. Ka2 Rb6 57. Ka3 c2 58. Ka2 Rb7
+59. Ka3 c1=Q+ 60. Ka2 Qb2# 0-1
+

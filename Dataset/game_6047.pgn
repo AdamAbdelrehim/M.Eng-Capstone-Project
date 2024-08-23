@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Sicilian_training"]
+[Black "Gaius_Baltar"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ObTni1A6"]
+[WhiteElo "2737"]
+[BlackElo "2840"]
+[ECO "D10"]
+[Opening "Slav Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:26:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. d4 c6 2. c4 d5 3. Nc3 Nf6 4. cxd5 cxd5 5. Bf4 Nc6 6. e3 Bf5 7. Qb3 Na5 8.
+Qa4+ Bd7 9. Qc2 e6 10. Bd3 Rc8 11. Nf3 Bb4 12. O-O O-O 13. Ne5 a6 14. Rac1 h6
+15. Qe2 Bxc3 16. bxc3 Ne4 17. c4 Be8 18. f3 Nd6 19. c5 Ndc4 20. Nxc4 dxc4 21.
+Bb1 Bb5 22. Bd6 Re8 23. Qc2 f5 24. e4 Nc6 25. Rfd1 Qa5 26. exf5 Ba4 27. Qe4
+exf5 28. Qd5+ Kh8 29. Qxf5 Kg8 30. Qh7+ Kf7 31. Bg6+ Kf6 32. Bh5 Ne7 33. Re1
+Qd2 34. Bxe7+ 1-0
+

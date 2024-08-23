@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "spectraline"]
+[Black "Karlos_ulsk"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/t9niQ20V"]
+[BlackTitle "FM"]
+[WhiteElo "2519"]
+[BlackElo "2572"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:34:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 c6 2. Ne2 d5 3. e5 h5 4. d4 Bf5 5. Ng3 Bg4 6. f3 Be6 7. Bd3 g6 8. O-O Nh6
+9. Bxh6 Bxh6 10. f4 h4 11. f5 hxg3 0-1
+

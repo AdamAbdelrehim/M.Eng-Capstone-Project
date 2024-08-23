@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "LittleOyster"]
+[Black "RaceKing_2022"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/W3JvQeE4"]
+[WhiteElo "2598"]
+[BlackElo "2566"]
+[ECO "C79"]
+[Opening "Ruy Lopez: Morphy Defense, Steinitz Deferred"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:41:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. c3 Bd7 7. d4 g6 8. Re1
+Bg7 9. Nbd2 O-O 10. Bb3 Nh5 11. Nc4 Bg4 12. d5 Ne7 13. Ne3 Bd7 14. Ng5 h6 15.
+Nf3 Qe8 16. h3 f5 17. Nd2 f4 18. Ng4 Kh7 19. c4 Nf6 20. c5 Nxg4 21. hxg4 f3 22.
+gxf3 h5 23. cxd6 cxd6 24. gxh5 gxh5 25. Nc4 Qf7 26. Be3 Rae8 27. Kh2 Nc8 28.
+Rg1 Rg8 29. Qe2 b5 30. Na5 Bh6 31. Bxh6 Kxh6 32. Qe3+ Kh7 33. Nc6 Ref8 34. Rxg8
+Rxg8 35. Rg1 Rf8 36. Qg5 Qf4+ 37. Qxf4 Rxf4 38. Nb8 Be8 39. Nxa6 Rxf3 40. Kg2
+Rf8 41. f3 Bg6 42. Nc7 Nb6 43. Nxb5 Rd8 44. Rc1 1-0
+

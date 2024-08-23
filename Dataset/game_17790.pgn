@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "MrFox1"]
+[Black "swop1107"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/vdLmRh6X"]
+[WhiteElo "2453"]
+[BlackElo "2511"]
+[ECO "C58"]
+[Opening "Italian Game: Two Knights Defense, Polerio Defense, Kieseritzky Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:59:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 e4 8. Nd4
+c6 9. Nb3 Nxc4 10. dxc4 cxd5 11. cxd5 Qxd5 12. Qxd5 Nxd5 13. O-O Bf5 14. Bd2
+O-O-O 15. Nc3 Nb4 16. a3 Nc6 17. Bf4 g5 18. Bg3 Bg7 19. Nb5 Ne5 20. Nxa7+ Kc7
+21. Nb5+ Kb6 22. a4 Rd7 23. f4 exf3 24. Bf2+ 1-0
+

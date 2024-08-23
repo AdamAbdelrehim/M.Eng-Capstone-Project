@@ -1,0 +1,24 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "caissa-x"]
+[Black "yobot_v2"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/usoTOwEE"]
+[WhiteTitle "BOT"]
+[WhiteElo "3032"]
+[BlackElo "3028"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:02:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. Nf3 d5 2. d4 Nf6 3. c3 e6 4. Bf4 Bd6 5. e3 O-O 6. Ne5 c5 7. Nd2 Qc7 8. Bd3
+a5 9. Bg5 cxd4 10. Bxf6 gxf6 11. Qg4+ Kh8 12. Qh4 f5 13. Qf6+ Kg8 14. Qg5+ Kh8
+15. Qf6+ Kg8 16. Qg5+ Kh8 17. Qf6+ 1/2-1/2
+

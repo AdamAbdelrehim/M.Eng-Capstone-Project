@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "zeveraar-glen"]
+[Black "Rainbow_88"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Y5RAYLpA"]
+[WhiteElo "2506"]
+[BlackElo "2471"]
+[ECO "A53"]
+[Opening "Old Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:54:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 d6 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. O-O Bf5 7. Nc3 Ne4 8. Nh4
+Nxc3 9. bxc3 Bc8 10. e4 Nc6 11. f4 e5 12. Be3 exf4 13. Bf2 fxg3 14. hxg3 Ne7
+15. Qd3 f5 16. Rae1 f4 17. gxf4 Rxf4 18. Bg3 Rxf1+ 19. Rxf1 Nc6 20. e5 dxe5 21.
+Bd5+ Kh8 22. Nxg6+ hxg6 23. Qxg6 Qd6 24. Qe8+ Kh7 25. Qg8+ Kh6 26. dxe5 Qg6 27.
+Kf2 Bh3 28. Bf4+ Kh5 29. Bf3+ Kh4 30. Qxa8 Bxf1 31. Kxf1 Qf5 32. Qg8 Qxf4 33.
+Qh7+ Bh6 34. Qe4 Nxe5 35. Qxf4+ Bxf4 36. Bxb7 Nxc4 37. Ke2 Nd6 38. Bd5 Kg5 39.
+Kd3 Kf6 40. Kd4 Ke7 41. Kc5 Be3+ 42. Kc6 Kd8 43. c4 a5 44. a4 Bd2 45. c5 Nc8
+46. Kb5 Bb4 47. Bb7 Ne7 48. c6 Ke8 49. Ka6 Kf7 50. Kb5 Ke6 51. Ka6 Kd6 52. Ka7
+Nxc6+ 53. Ka8 Nd8 54. Bc8 c5 55. Ba6 Kd5 56. Bc4+ Kxc4 57. Ka7 Kd4 58. Ka6 Ne6
+59. Kb5 Nf4 60. Ka6 Ng2 61. Ka7 Ne1 0-1
+

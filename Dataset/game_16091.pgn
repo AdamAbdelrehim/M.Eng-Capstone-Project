@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "oyoy23"]
+[Black "qullan"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/e3DrVMEE"]
+[WhiteElo "2694"]
+[BlackElo "2516"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "23:50:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Nge7 6. Na3 Nf5 7. Nc2 h5 8. Bd3
+Be7 9. O-O g5 10. Bxf5 exf5 11. dxc5 Be6 12. b4 g4 13. Nfd4 Bg5 14. Bxg5 Qxg5
+15. Qc1 f4 16. Ne2 Nxe5 17. Nxf4 Rg8 18. Nd4 Nf3+ 19. gxf3 gxf3+ 20. Kh1 Bh3
+21. Rg1 Bg2+ 22. Rxg2 fxg2+ 23. Kg1 O-O-O 24. Nd3 Qf5 25. Nxf5 1-0
+

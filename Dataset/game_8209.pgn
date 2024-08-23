@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "CrispinKream"]
+[Black "FIDE-Trainer1984"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/d6ratPRD"]
+[WhiteTitle "CM"]
+[WhiteElo "2380"]
+[BlackElo "2552"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:27:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bg4 4. Be2 e6 5. d4 c5 6. c4 dxc4 7. O-O Nc6 8. Na3
+cxd4 9. Nxc4 Bc5 10. Bg5 Nge7 11. Rc1 O-O 12. Ncd2 Bb6 13. Ne4 h6 14. Bxe7 Nxe7
+15. Nd6 Nf5 16. Nxb7 Qd7 17. Nc5 Qd5 18. Nb3 Rad8 19. h3 Bxf3 20. Bxf3 Qxe5 21.
+Re1 Qf6 22. Nd2 Nh4 23. g3 Nxf3+ 24. Qxf3 Qxf3 25. Nxf3 d3 26. Red1 Rd5 27. Rc3
+Rfd8 28. b4 e5 29. a4 e4 30. Nd2 f5 31. a5 Bd4 32. Rc7 R5d7 33. Rxd7 Rxd7 34.
+Nb3 Kf7 35. Kg2 Ke6 36. g4 g6 37. gxf5+ gxf5 38. Rc1 Kd5 39. b5 f4 40. Nd2 e3
+41. Nf3 d2 42. Rb1 Rg7+ 43. Kf1 Ke4 44. Ke2 Rg2 45. Nxd4 Rxf2+ 46. Kd1 Rf1+ 47.
+Kc2 Rxb1 0-1
+

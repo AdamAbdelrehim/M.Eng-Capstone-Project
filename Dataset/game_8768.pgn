@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "chs2006"]
+[Black "Maxgamebot_0342"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/3ffJbuPe"]
+[WhiteElo "2523"]
+[BlackElo "2432"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "05:12:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+2"]
+
+1. d4 g6 2. e4 Bg7 3. c4 c5 4. d5 e6 5. Nc3 exd5 6. cxd5 d6 7. f4 a6 8. a4 Ne7
+9. Nf3 Bg4 10. Be2 Bxf3 11. Bxf3 Nd7 12. O-O O-O 13. Kh1 Rb8 14. a5 b5 15. axb6
+Rxb6 16. Qe2 Qc8 17. Rd1 Re8 18. Bg4 f5 19. exf5 Nxf5 20. Qf1 Nf6 21. Bxf5 gxf5
+22. Na4 Rb5 23. Nc3 Rb6 24. Na4 Rb3 25. Nc3 Rb6 26. Na4 1/2-1/2
+

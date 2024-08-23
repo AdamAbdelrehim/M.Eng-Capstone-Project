@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Kliunkius"]
+[Black "venevtsev_andrey"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/fdsFqxkP"]
+[WhiteElo "2538"]
+[BlackElo "2495"]
+[ECO "A61"]
+[Opening "Benoni Defense: Knight's Tour Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:43:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 a6 10. a4 Nbd7 11. O-O Re8 12. Qc2 Ne5 13. Ra3 Rb8 14. Re1 h5 15.
+Nf1 Nh7 16. h3 f5 17. f4 Nf7 18. Bf3 Qh4 19. Bd2 Bd4+ 20. Kh2 Qf2 21. Ng3 h4
+22. Nh1 Nf6 23. Nxf2 Bxf2 24. Re2 Bg3+ 25. Kh1 Bd7 26. exf5 Bxf5 27. Qd1 Bd3
+28. Rxe8+ Rxe8 29. Ne2 Bxe2 30. Bxe2 Ne4 31. Be1 Bxe1 32. Qxe1 Ng3+ 33. Rxg3
+hxg3 34. Kg1 Re3 35. Kf1 Nh6 36. Qd2 Re4 37. Bf3 Rd4 38. Qe3 Nf5 39. Qe6+ Kg7
+40. Qd7+ Kf6 41. Qd8+ Kg7 42. Qc7+ Kf6 43. Qxb7 Rd2 44. Ke1 Rc2 45. Qxa6 Rxb2
+46. Qa8 Rb1+ 47. Kd2 Rb2+ 48. Kc1 Rb4 49. a5 Nd4 50. Qf8# 1-0
+

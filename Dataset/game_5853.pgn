@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "TaranenkoEvhen"]
+[Black "Alpha_Zero_System"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/vlM0ZiBV"]
+[WhiteTitle "NM"]
+[WhiteElo "2418"]
+[BlackElo "2508"]
+[ECO "A00"]
+[Opening "Anderssen's Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:00:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-2"]
+
+1. a3 a5 2. Nc3 d5 3. e4 d4 4. Nce2 e5 5. Nf3 Bd6 6. Ng3 Ne7 7. Bc4 O-O 8. O-O
+Nd7 9. d3 c6 10. Ba2 b5 11. Nh4 Qc7 12. Nhf5 Nxf5 13. Nxf5 Re8 14. f4 exf4 15.
+Nxd6 Qxd6 16. Bxf4 Qe7 17. Bd6 Qxd6 18. Bxf7+ Kf8 19. Bxe8+ Kxe8 20. Qh5+ Qg6
+21. Qh4 Bb7 22. Rf3 Ne5 23. Rg3 Qh6 24. Qxh6 gxh6 25. Rg8+ Kf7 26. Rxa8 Bxa8
+27. Rf1+ Ke7 28. Rf5 Nf7 29. b4 axb4 30. axb4 Bb7 31. h3 Bc8 32. Rh5 Be6 33.
+Kf2 Ba2 34. Ke2 Be6 35. Kd2 Kf6 36. c3 dxc3+ 37. Kxc3 Kg6 38. g4 Ng5 39. Kd4
+Bd7 40. Kc5 Be8 41. Kd6 Kg7 42. Rxg5+ hxg5 43. d4 Kf7 44. e5 Kf8 45. e6 h6 46.
+Ke5 Ke7 47. Kf5 Kd6 48. Kf6 Kd5 49. Ke7 Bg6 50. Kf6 Be8 51. Ke7 Bg6 52. Kf6 Be8
+1/2-1/2
+

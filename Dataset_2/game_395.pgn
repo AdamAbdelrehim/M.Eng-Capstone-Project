@@ -1,0 +1,42 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.14"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "sky-burial"]
+[Result "0-1"]
+[CurrentPosition "1r2Qr1k/p4Ppp/2p2n2/3p4/q6P/3B4/PPP3P1/2K2R2 w - -"]
+[Timezone "UTC"]
+[ECO "B44"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Taimanov-Variation"]
+[UTCDate "2021.02.14"]
+[UTCTime "01:54:48"]
+[WhiteElo "913"]
+[BlackElo "1354"]
+[TimeControl "300"]
+[Termination "sky-burial won by resignation"]
+[StartTime "01:54:48"]
+[EndDate "2021.02.14"]
+[EndTime "02:00:57"]
+[Link "https://www.chess.com/game/live/6550466467"]
+
+1. e4 { [%clk 0:04:59] } 1... c5 { [%clk 0:04:59.4] } 2. Nf3
+{ [%clk 0:04:57.3] } 2... Nc6 { [%clk 0:04:58.5] } 3. d4 { [%clk 0:04:55.9] }
+3... cxd4 { [%clk 0:04:57.3] } 4. Nxd4 { [%clk 0:04:55.3] } 4... e6
+{ [%clk 0:04:49.6] } 5. Nxc6 { [%clk 0:04:53.3] } 5... bxc6
+{ [%clk 0:04:49.5] } 6. Bf4 { [%clk 0:04:48.9] } 6... d5 { [%clk 0:04:24] } 7.
+exd5 { [%clk 0:04:45] } 7... exd5 { [%clk 0:04:21.3] } 8. Qe2+
+{ [%clk 0:04:38.2] } 8... Be7 { [%clk 0:04:18.9] } 9. Nc3 { [%clk 0:04:30.4] }
+9... Be6 { [%clk 0:04:15.5] } 10. O-O-O { [%clk 0:04:20.1] } 10... Nf6
+{ [%clk 0:04:13.3] } 11. Bg5 { [%clk 0:04:14.8] } 11... O-O
+{ [%clk 0:04:11.3] } 12. Na4 { [%clk 0:04:03] } 12... Rb8 { [%clk 0:04:02.4] }
+13. f4 { [%clk 0:03:49.7] } 13... Ne4 { [%clk 0:03:56.9] } 14. h4
+{ [%clk 0:03:41.9] } 14... Ng3 { [%clk 0:03:46.2] } 15. Qe5
+{ [%clk 0:03:22.9] } 15... Nxh1 { [%clk 0:03:29.4] } 16. Bxe7
+{ [%clk 0:03:22.8] } 16... Qxe7 { [%clk 0:03:27.5] } 17. f5
+{ [%clk 0:03:18.7] } 17... Qb4 { [%clk 0:03:15.1] } 18. fxe6 { [%clk 0:02:57] }
+18... Qxa4 { [%clk 0:02:42.2] } 19. exf7+ { [%clk 0:02:53.9] } 19... Kh8
+{ [%clk 0:02:38.5] } 20. Bd3 { [%clk 0:02:39] } 20... Nf2 { [%clk 0:02:32.9] }
+21. Rf1 { [%clk 0:02:31.4] } 21... Ne4 { [%clk 0:02:30.2] } 22. Qe8
+{ [%clk 0:01:48.5] } 22... Nf6 { [%clk 0:02:14.2] } 0-1
+

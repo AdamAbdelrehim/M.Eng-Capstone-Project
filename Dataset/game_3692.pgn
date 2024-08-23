@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Lynx_BOT"]
+[Black "BitByByte"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/IZxvKePP"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2499"]
+[BlackElo "2795"]
+[ECO "A15"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:23:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. c4 Nf6 2. Nf3 e6 3. a3 d5 4. e3 Be7 5. Nc3 Nbd7 6. d4 O-O 7. h3 c6 8. Bd3
+dxc4 9. Bxc4 b5 10. Bd3 Bb7 11. e4 c5 12. e5 Nd5 13. Nxb5 a6 14. Nd6 Bxd6 15.
+exd6 cxd4 16. O-O e5 17. Re1 Re8 18. Bf5 f6 19. Nd2 g6 20. Qg4 Nf8 21. Nc4 Bc8
+22. Bxc8 Qxc8 23. b3 Qxg4 24. hxg4 g5 25. Bd2 Rab8 26. Rab1 Kf7 27. Ba5 Nd7 28.
+Bc7 Rbc8 29. Rbc1 Rh8 30. g3 h5 31. gxh5 Rxh5 32. Kg2 Rch8 33. Rh1 Rxh1 34.
+Rxh1 Rxh1 35. Kxh1 g4 36. Kg1 Ke6 37. Kf1 Nc3 38. Ba5 Ne4 39. Bc7 Ndc5 40. b4
+Nd7 41. a4 Nc3 42. Nb2 Kd5 43. a5 Kc6 44. Ke1 Nd5 45. Nd3 e4 46. Nc1 Nxb4 47.
+Nb3 Kd5 48. Nc1 Kc4 49. Ne2 Nd5 50. Kd2 d3 51. Ke1 dxe2 52. Kxe2 Kd4 53. Kf1
+Nb4 54. Ke2 Nd3 55. Bd8 Kd5 56. Ke3 f5 57. Bc7 N7e5 58. d7 Nxd7 59. Ke2 N7e5
+60. Bb8 Nc4 61. Ba7 Nxf2 62. Bxf2 Nxa5 63. Ke3 Nc4+ 64. Ke2 a5 65. Kd1 e3 66.
+Be1 Ke4 67. Kc2 Nd2 68. Bxd2 exd2 69. Kxd2 Kf3 70. Kc3 Kxg3 71. Kd4 f4 72. Ke5
+f3 73. Ke6 Kh2 74. Kd6 f2 75. Ke5 g3 76. Kd6 g2 77. Ke5 f1=Q 78. Kd6 g1=Q 79.
+Kc7 Qf6 80. Kd7 Qa7+ 81. Ke8 Qh8# 0-1
+

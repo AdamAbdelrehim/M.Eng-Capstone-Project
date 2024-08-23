@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "OptimistischesSchach"]
+[Black "Ilikeknightmost"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/M7q1trwS"]
+[WhiteElo "2688"]
+[BlackElo "2725"]
+[ECO "C97"]
+[Opening "Ruy Lopez: Closed, Chigorin Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:31:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Na5 10. Bc2 c5 11. d4 Qc7 12. d5 Bd7 13. b3 Nb7 14. Be3 Ne8 15. Nbd2
+g6 16. g4 Ng7 17. Bh6 f6 18. Nf1 Nd8 19. Ng3 Nf7 20. Qd2 Qd8 21. Kh2 Ng5 22.
+Ng1 Nf7 23. Rf1 Nxh6 24. Qxh6 f5 25. f4 exf4 26. Qxf4 fxg4 27. Qe3 Bg5 28. Qe2
+Bf4 29. Rxf4 Rxf4 30. e5 dxe5 31. Qxe5 Rf2+ 32. Kh1 Rxc2 33. Rf1 Qe8 34. Qf4
+Qe7 35. Ne4 Rf8 36. Nf6+ Rxf6 37. Qxf6 Qxf6 38. Rxf6 Nf5 0-1
+

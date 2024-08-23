@@ -1,0 +1,45 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "RipTorn"]
+[Black "Nikitosikbot_v2"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/QnvIUkGH"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3021"]
+[BlackElo "3018"]
+[ECO "C48"]
+[Opening "Four Knights Game: Spanish Variation, Rubinstein Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "00:06:34"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. Bc4 Bc5 6. d3 d6 7. Nxd4 Bxd4 8.
+a4 O-O 9. Qf3 Be6 10. Nd5 Ng4 11. O-O c6 12. Ne3 Bxe3 13. Bxe3 Nxe3 14. Qxe3
+Re8 15. Bxe6 Rxe6 16. a5 h6 17. Rfc1 d5 18. Qc5 a6 19. Re1 Rc8 20. Re2 Rc7 21.
+g3 Rd7 22. Qc3 dxe4 23. Rxe4 Rd5 24. b4 f5 25. Rc4 Qd6 26. Re1 Re7 27. Re3 Kh7
+28. h3 Kg8 29. Kg2 Rd7 30. Rf3 Rf7 31. Qe1 Rb5 32. Qc3 Rd5 33. Re3 Re7 34. h4
+Rd7 35. Re1 Kf7 36. Re3 Kg8 37. Re1 Rb5 38. Re2 Rd5 39. Re3 Kh7 40. Re1 Kg8 41.
+Re3 Kh7 42. Re1 Kg8 43. Re2 Kh7 44. Kg1 Kg8 45. Kg2 Re7 46. Qe1 Rb5 47. Qc3 Rd5
+48. Rc5 Kh7 49. Re3 Kg6 50. Rc4 Kh7 51. Qe1 Kg8 52. Qe2 Rf7 53. Qe1 Re7 54. Rf4
+exf4 55. Rxe7 fxg3 56. fxg3 Rb5 57. Re6 Qd5+ 58. Kh2 Qd4 59. Re2 Qd6 60. Re6
+Qd4 61. Re8+ Kh7 62. c3 Qxd3 63. Rf8 Qc2+ 64. Kh3 Qe4 65. Qxe4 fxe4 66. Re8 c5
+67. Rxe4 cxb4 68. cxb4 h5 69. Kg2 b6 70. axb6 Rxb6 71. Kf3 g6 72. Rd4 Rb5 73.
+g4 hxg4+ 74. Kxg4 Kg7 75. Kf4 a5 76. bxa5 Rxa5 77. Kg3 g5 78. hxg5 Re5 79. Kg4
+Re6 80. Kh5 Ra6 81. Rd1 Ra7 82. Rd6 Re7 83. Rg6+ Kh7 84. Rh6+ Kg7 85. Rg6+ Kh8
+86. Rh6+ Kg7 87. Rd6 Rc7 88. Ra6 Rc4 89. Ra7+ Kg8 90. Ra8+ Kg7 91. Ra7+ Kg8 92.
+Kh6 Rc6+ 93. g6 Rc8 94. Rg7+ Kh8 95. Rh7+ Kg8 96. Rg7+ Kh8 97. Rh7+ Kg8 98. Rd7
+Kh8 99. Re7 Ra8 100. Rh7+ Kg8 101. Rg7+ Kh8 102. Rh7+ Kg8 103. Rb7 Kh8 104. Rc7
+Re8 105. Rh7+ Kg8 106. Rg7+ Kh8 107. Rh7+ Kg8 108. Rg7+ Kh8 109. Rd7 Kg8 110.
+Rc7 Rf8 111. Rg7+ Kh8 112. Rh7+ Kg8 113. Rg7+ Kh8 114. Rh7+ Kg8 115. Rd7 Rc8
+116. Re7 Kf8 117. Rf7+ Kg8 118. Ra7 Kh8 119. Rb7 Re8 120. Ra7 Rc8 121. Rf7 Re8
+122. Rc7 Kg8 123. Rd7 Rf8 124. Ra7 Re8 125. Rb7 Rf8 126. Rc7 Re8 127. Rb7 Rc8
+128. Re7 Ra8 129. Rg7+ Kh8 130. Rf7 Rc8 131. Ra7 Rb8 132. Rh7+ Kg8 133. Rg7+
+Kh8 134. Rh7+ Kg8 135. Rg7+ Kh8 136. Rd7 Re8 137. Rb7 Rc8 138. Rf7 Ra8 139. Re7
+Kg8 140. Re6 Rc8 141. Ra6 Rf8 142. Ra7 Rb8 143. Rg7+ 1/2-1/2
+

@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.08.31"]
+[Round "-"]
+[White "Shuriken7"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r3k2r/pp2ppbp/2n3p1/qB2Pb2/3P4/4BP2/P5PP/R2QK1NR w KQkq -"]
+[Timezone "UTC"]
+[ECO "A50"]
+[ECOUrl "https://www.chess.com/openings/Indian-Game-2.c4"]
+[UTCDate "2023.08.31"]
+[UTCTime "20:02:48"]
+[WhiteElo "1937"]
+[BlackElo "1910"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "20:02:48"]
+[EndDate "2023.08.31"]
+[EndTime "20:03:56"]
+[Link "https://www.chess.com/game/live/87251321751"]
+
+1. c4 { [%clk 0:09:58.6] } 1... Nf6 { [%clk 0:09:58.3] } 2. d4
+{ [%clk 0:09:57.4] } 2... g6 { [%clk 0:09:56.7] } 3. Nc3 { [%clk 0:09:56.9] }
+3... d5 { [%clk 0:09:56.2] } 4. cxd5 { [%clk 0:09:54.9] } 4... Nxd5
+{ [%clk 0:09:56.1] } 5. e4 { [%clk 0:09:53.2] } 5... Nxc3 { [%clk 0:09:55.6] }
+6. bxc3 { [%clk 0:09:51.6] } 6... Bg7 { [%clk 0:09:55.5] } 7. e5
+{ [%clk 0:09:50.5] } 7... c5 { [%clk 0:09:48.9] } 8. f3 { [%clk 0:09:48.8] }
+8... cxd4 { [%clk 0:09:39.7] } 9. cxd4 { [%clk 0:09:47.1] } 9... Nc6
+{ [%clk 0:09:37.1] } 10. Be3 { [%clk 0:09:45.3] } 10... Bf5
+{ [%clk 0:09:19.1] } 11. Bb5 { [%clk 0:09:43.4] } 11... Qa5+
+{ [%clk 0:09:15.8] } 0-1
+

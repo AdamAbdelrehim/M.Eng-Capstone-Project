@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "vihajaisestatulesta"]
+[Black "shaginyan_a"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ojUkt5UT"]
+[WhiteElo "2437"]
+[BlackElo "2521"]
+[ECO "C43"]
+[Opening "Russian Game: Modern Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:32:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. dxe5 d5 5. Bd3 Nc5 6. Be2 Be7 7. Bf4 c6 8.
+Nc3 Nbd7 9. Qd2 O-O 10. O-O-O Qa5 11. Kb1 Ne6 12. g3 Bb4 13. h4 Ndc5 14. a3 Ne4
+15. Nxe4 Bxd2 16. Bxd2 Qb6 17. Neg5 Qxf2 18. Bd3 h6 19. Rh2 Qb6 20. Nxe6 Bxe6
+21. Rf1 c5 22. c3 Qc6 23. g4 Bxg4 24. Rg2 h5 25. Ng5 g6 26. Rgf2 Qd7 27. Be3 b6
+28. c4 d4 29. Bd2 Rae8 30. Bf4 Bf5 31. Bxf5 Qxf5+ 32. Ka2 Qd3 33. b3 b5 34.
+cxb5 c4 35. Rb1 c3 36. Rc1 Qxb5 37. Ne4 Rb8 38. Nf6+ Kg7 39. Rb1 d3 40. Rg2 Kh8
+41. b4 Qc4+ 42. Ka1 Qxf4 43. Nxh5 gxh5 44. Rg5 Qxg5 45. hxg5 c2 46. Rh1 d2 47.
+Rxh5+ Kg7 48. g6 c1=Q+ 49. Ka2 Qc2+ 50. Ka1 d1=Q# 0-1
+

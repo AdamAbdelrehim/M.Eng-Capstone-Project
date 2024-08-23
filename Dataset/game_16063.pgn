@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "sammartin1"]
+[Black "crunchy_roll"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/22e55lOE"]
+[WhiteTitle "NM"]
+[WhiteElo "2512"]
+[BlackElo "2529"]
+[ECO "D10"]
+[Opening "Slav Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "23:39:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Bg5 Nc6 5. Nc3 Qa5 6. Nf3 Bg4 7. e3 e5 8.
+dxe5 Bb4 9. Be2 Bxf3 10. gxf3 Bxc3+ 11. bxc3 Qxc3+ 12. Kf1 Qxe5 13. Bf4 Qe6 14.
+Qb3 Nf6 15. Qxb7 O-O 16. Rc1 Ne5 17. Kg2 Ng6 18. Bg3 d4 19. e4 Nh5 20. Qc7 Qf6
+21. Rhe1 Nhf4+ 22. Kf1 d3 0-1
+

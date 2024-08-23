@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "calito1969"]
+[Black "Fengwi"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/5uWGCkd9"]
+[WhiteTitle "IM"]
+[BlackTitle "NM"]
+[WhiteElo "2576"]
+[BlackElo "2580"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:55:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. Nf3 d6 6. Qxd4 e6 7. exd6 Nc6 8. Bb5
+Bd7 9. c4 Nxd4 10. Bxd7+ Qxd7 11. cxd5 Nc2+ 0-1
+

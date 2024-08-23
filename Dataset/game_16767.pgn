@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "johndoe695"]
+[Black "MiguelKni"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/036nL2LB"]
+[WhiteElo "2573"]
+[BlackElo "2482"]
+[ECO "D80"]
+[Opening "Grünfeld Defense: Lutikov Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "03:37:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. f3 Bg7 5. cxd5 Nxd5 6. e4 Nb6 7. Be3 O-O 8. Rc1
+e5 9. dxe5 Bxe5 10. Qxd8 Rxd8 11. Nb5 Nc6 12. f4 Bxb2 13. Rc2 Bd4 14. Nxd4 Nxd4
+15. Rxc7 Be6 16. Nf3 Nxf3+ 17. gxf3 Rac8 18. Rxb7 Rc2 19. Rxa7 Nc4 20. Bg1 Rdd2
+21. Ra8+ Kg7 22. Bxc4 Bxc4 23. Rc8 Rg2 24. Bd4+ Kh6 25. Rxc4 Rxc4 26. Be3 Rxa2
+27. f5+ Kh5 28. Rg1 Ra1+ 29. Kf2 Rxg1 30. Kxg1 gxf5 31. exf5 Rc3 32. Kf2 Rc2+
+33. Kg3 Re2 34. Bd4 Re1 35. f6 Kg6 36. Kf4 Rb1 37. Ke5 Rb5+ 38. Kd6 Rf5 39. Ke7
+Rxf3 40. h4 Rh3 41. Bf2 h5 42. Be1 Rf3 43. Bc3 Rxc3 0-1
+

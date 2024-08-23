@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.06"]
+[Round "-"]
+[White "Pragmatiku"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r5k1/ppp3pp/2bp4/4p3/6P1/3RKr1P/PP2B3/4q3 w - -"]
+[Timezone "UTC"]
+[ECO "A40"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Mikenas-Defense-2.Nf3"]
+[UTCDate "2021.10.06"]
+[UTCTime "06:54:06"]
+[WhiteElo "1064"]
+[BlackElo "1078"]
+[TimeControl "300"]
+[Termination "AdamAbdelrehim won by checkmate"]
+[StartTime "06:54:06"]
+[EndDate "2021.10.06"]
+[EndTime "06:57:31"]
+[Link "https://www.chess.com/game/live/27242407561"]
+
+1. Nf3 { [%clk 0:05:00] } 1... Nc6 { [%clk 0:04:56.7] } 2. d4
+{ [%clk 0:04:59] } 2... Nf6 { [%clk 0:04:53.5] } 3. d5 { [%clk 0:04:57.2] }
+3... Nb4 { [%clk 0:04:48.8] } 4. e4 { [%clk 0:04:50.7] } 4... Nxe4
+{ [%clk 0:04:43.5] } 5. Qd4 { [%clk 0:04:48.5] } 5... Nxc2+
+{ [%clk 0:04:30.1] } 6. Ke2 { [%clk 0:04:44.3] } 6... Nxd4+
+{ [%clk 0:04:28.5] } 7. Nxd4 { [%clk 0:04:43.5] } 7... e5 { [%clk 0:04:19.6] }
+8. Nf5 { [%clk 0:04:41.1] } 8... d6 { [%clk 0:04:14.2] } 9. f3
+{ [%clk 0:04:39.4] } 9... Bxf5 { [%clk 0:04:12.8] } 10. fxe4
+{ [%clk 0:04:37.6] } 10... Bxe4 { [%clk 0:04:12.7] } 11. Be3
+{ [%clk 0:04:35.6] } 11... Bxd5 { [%clk 0:04:09] } 12. Nc3 { [%clk 0:04:34.6] }
+12... Bc6 { [%clk 0:04:03.2] } 13. Rc1 { [%clk 0:04:32.9] } 13... Be7
+{ [%clk 0:04:00.7] } 14. Rg1 { [%clk 0:04:29.6] } 14... O-O { [%clk 0:03:59] }
+15. g4 { [%clk 0:04:28.7] } 15... Bg5 { [%clk 0:03:54.1] } 16. Rg3
+{ [%clk 0:04:24.3] } 16... Bxe3 { [%clk 0:03:50.5] } 17. Rxe3
+{ [%clk 0:04:22.5] } 17... Qg5 { [%clk 0:03:42.1] } 18. h3 { [%clk 0:04:20.1] }
+18... f5 { [%clk 0:03:35.3] } 19. Re1 { [%clk 0:04:10.7] } 19... f4
+{ [%clk 0:03:29.5] } 20. Rd3 { [%clk 0:04:07.8] } 20... f3+
+{ [%clk 0:03:26.4] } 21. Kf2 { [%clk 0:04:06.5] } 21... Qh4+
+{ [%clk 0:03:21.7] } 22. Ke3 { [%clk 0:03:57] } 22... Qxe1+
+{ [%clk 0:03:18.4] } 23. Ne2 { [%clk 0:03:55.9] } 23... fxe2
+{ [%clk 0:03:03.3] } 24. Bxe2 { [%clk 0:03:54.5] } 24... Rf3#
+{ [%clk 0:02:52.8] } 0-1
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "aceg39"]
+[Black "ekfj4cxjx8vkco0acjx2"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/HE2IC0W4"]
+[WhiteElo "2655"]
+[BlackElo "2781"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "04:56:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. e4 Nc6 2. b3 d5 3. exd5 Qxd5 4. Nf3 Bg4 5. Bb2 Bxf3 6. Qxf3 Qxf3 7. gxf3 Nb4
+8. Na3 O-O-O 9. Bc3 e6 10. Be2 Nf6 11. O-O Nbd5 12. Bb2 Nf4 13. Bd1 Rxd2 14.
+Nc4 Rd5 15. Bc1 N6h5 16. Ne3 Rd8 17. Ng2 Bd6 18. Nxf4 Bxf4 19. Be3 g5 20. Be2
+Nf6 21. Bd3 Nd5 22. Bc1 Bxc1 23. Raxc1 Nf4 24. Rfd1 Nxd3 25. cxd3 Rd4 26. Kf1
+Rhd8 27. Ke2 Rh4 28. Rh1 Rd5 29. Rc4 Re5+ 30. Kd2 Rh3 31. Rg4 Rxf3 32. Rxg5
+Rxg5 33. Ke2 Rgf5 34. h4 Rxf2+ 35. Ke3 R2f3+ 36. Ke4 R5f4+ 37. Ke5 Kd7 38. d4
+f6# 0-1
+

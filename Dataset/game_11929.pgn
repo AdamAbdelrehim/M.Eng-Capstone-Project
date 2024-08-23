@@ -1,0 +1,29 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "RaspFish"]
+[Black "simbelmyne-bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/VsXfsHSH"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3031"]
+[BlackElo "2626"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Linares Variation"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:17:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. d4 d5 2. c4 dxc4 3. e4 c5 4. d5 Nf6 5. Nc3 b5 6. Bf4 Bb7 7. a4 b4 8. Nb5 Na6
+9. Bxc4 g6 10. Nf3 Bg7 11. h4 O-O 12. Qe2 Qc8 13. O-O Qg4 14. Qe3 Nh5 15. Be5
+Nf6 16. Rfe1 h5 17. Bg3 Qd7 18. Rad1 Ng4 19. Qb3 Kh8 20. e5 Qd8 21. e6 fxe6 22.
+Rxe6 Bc8 23. Rxg6 Qe8 24. Rxg7 Kxg7 25. Ng5 Bd7 26. f3 Nh6 27. Be5+ Kg6 28. Qe3
+Bf5 29. d6 Qd7 30. Ne6 Nf7 31. Qf4 Rg8 32. g4 Qxe6 33. Bxe6 Bxe6 34. Qe4+ Kh6
+35. Bf4+ Kg7 36. Qxe6 hxg4 37. dxe7 c4 38. Bh6+ Nxh6 39. e8=Q Raxe8 40. Rd7+
+Re7 41. Rxe7+ Kf8 42. Qf6+ Nf7 43. Qxf7# 1-0
+

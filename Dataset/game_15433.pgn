@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "solistabot"]
+[Black "yobot_v2"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/yVA9TKkz"]
+[WhiteElo "3032"]
+[BlackElo "3016"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Piano"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:34:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 d6 6. c3 a5 7. Re1 O-O 8. h3 h6
+9. Nbd2 Be6 10. Bb5 Qb8 11. Nf1 Qa7 12. Re2 a4 13. Ng3 Qa5 14. Bxc6 bxc6 15.
+Bd2 Qb5 16. c4 Qb6 17. Rc1 Rfe8 18. Bc3 Bb4 19. Bxb4 Qxb4 20. a3 Qa5 21. d4
+exd4 22. Nxd4 c5 23. Nxe6 Rxe6 24. Rc3 Rae8 25. f3 Qa8 26. Qd2 c6 27. Rf2 Qb8
+28. Nf1 Nh5 29. Rd3 f5 30. exf5 Re1 31. Rxd6 Ng3 32. Re6 R8xe6 33. fxe6 Qe5 34.
+f4 Qe4 35. Rf3 Nxf1 36. Rxf1 Rxf1+ 37. Kxf1 Qxc4+ 38. Kf2 Qxe6 39. Qc2 Qf6 40.
+Kg3 Qd4 41. Kf3 Qd5+ 42. Qe4 Qb3+ 43. Qe3 Qd1+ 44. Qe2 Qd5+ 45. Ke3 Kf7 46. g4
+Qb3+ 47. Qd3 Qxb2 48. Qd7+ Kg8 49. Qe6+ Kh8 50. Qc8+ Kh7 51. Qf5+ Kg8 52. Qe6+
+Kh8 53. Qe8+ Kh7 54. Qe4+ Kh8 55. Qe8+ Kh7 56. Qe4+ Kh8 57. Qe8+ 1/2-1/2
+

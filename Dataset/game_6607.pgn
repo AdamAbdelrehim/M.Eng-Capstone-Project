@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "GalimovaTS"]
+[Black "FastCavalier"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/7vGUKlVd"]
+[WhiteElo "2515"]
+[BlackElo "2526"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Charousek Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:56:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Be7 4. e4 dxe4 5. Nxe4 Nf6 6. Nc3 O-O 7. Nf3 b6 8. Be2
+Bb7 9. O-O Nbd7 10. h3 Bb4 11. Qb3 a5 12. a3 Bxc3 13. Qxc3 Ne4 14. Qc2 Ndf6 15.
+Bd3 h6 16. Re1 Nd6 17. Ne5 Nd7 18. Bf4 Nxe5 19. dxe5 Nf5 20. Bxf5 exf5 21. Qxf5
+Qh4 22. Rad1 Rad8 23. Qg4 Qxg4 24. hxg4 Ba6 25. e6 fxe6 26. Bxc7 Rxd1 27. Rxd1
+Bxc4 28. Bxb6 a4 29. Rd7 Rf7 30. Rd8+ Rf8 31. Rd4 Bb3 32. Rd6 Bd5 33. Bd4 Rf7
+34. Ra6 Bb3 35. Be5 Kh7 36. f4 Rd7 37. Kh2 Bd1 38. Kh3 Bb3 39. g3 Bd1 40. Rxe6
+Bf3 41. Rd6 Rb7 42. Rd3 Be2 43. Rc3 Rxb2 44. Rc7 Bf1+ 0-1
+

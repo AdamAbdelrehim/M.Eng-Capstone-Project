@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "eugmind"]
+[Black "ron_dana"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/U4nVkKpG"]
+[WhiteElo "2516"]
+[BlackElo "2427"]
+[ECO "B04"]
+[Opening "Alekhine Defense: Modern Variation, Alburt Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:41:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-6"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Nf3 g6 5. g3 Bg7 6. Bg2 O-O 7. O-O Nc6 8. c3
+Bg4 9. exd6 exd6 10. h3 Bxf3 11. Qxf3 Nb6 12. Qd3 Re8 13. Bf4 Qf6 14. Nd2 h6
+15. Rfe1 g5 16. Be3 Re7 17. a4 Rae8 18. a5 Nd7 19. a6 d5 20. axb7 Qd6 21. Qb5
+Nb6 22. Nb3 f5 23. Bd2 Bf8 24. Nc5 f4 25. Rxe7 Bxe7 26. Re1 Rb8 27. gxf4 gxf4
+28. Bxf4 Qxf4 29. Qxc6 Bd6 30. Nd7 Nxd7 31. Qxd7 Rf8 32. Qg4+ Qxg4 33. hxg4 c6
+34. Re6 Bb8 35. Rxc6 Kf7 36. Bxd5+ Ke7 37. Rc8 Rd8 38. Kg2 Kd7 39. Rxd8+ Kxd8
+40. Kf3 Ke7 41. Ke4 Kf6 42. f4 a5 43. c4 Ke7 44. c5 Kf6 45. Bc6 Bc7 46. d5 Bb8
+47. d6 Ke6 48. g5 hxg5 49. fxg5 Kf7 50. Kf5 Kg7 51. Bd5 Kf8 52. g6 a4 53. Kg5
+Kg7 54. d7 Bc7 55. b8=Q Bxb8 56. d8=Q Be5 57. Qe7+ Kh8 58. Qh7# 1-0
+

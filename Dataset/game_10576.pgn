@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Workoutbobby"]
+[Black "V72_VM"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/xfsbdmrd"]
+[WhiteElo "2531"]
+[BlackElo "2442"]
+[ECO "E60"]
+[Opening "King's Indian Defense: Normal Variation, King's Knight Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:01:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. e3 O-O 5. Be2 d5 6. cxd5 Nxd5 7. e4 Nb6 8. O-O
+c5 9. dxc5 Qxd1 10. Rxd1 Na4 11. Nc3 Bxc3 12. bxc3 Nxc3 13. Re1 Nxe4 14. Be3
+Bg4 15. Rab1 Nd7 16. Rxb7 Ndxc5 17. Rxe7 Rfe8 18. Rxe8+ Rxe8 19. Bc4 Bxf3 20.
+gxf3 Nd2 21. Bxd2 Rd8 22. Be3 1-0
+

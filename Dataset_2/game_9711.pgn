@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.08"]
+[Round "-"]
+[White "Tewari_Bhavya-inactive"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1b2rk1/pp1n1pbp/2pq2p1/8/3PBB2/4PN2/PP3PPP/R2Q1RK1 w - -"]
+[Timezone "UTC"]
+[ECO "D02"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Symmetrical-Variation-3.c4"]
+[UTCDate "2023.07.08"]
+[UTCTime "07:23:32"]
+[WhiteElo "1663"]
+[BlackElo "1661"]
+[TimeControl "60"]
+[Termination "Tewari_Bhavya-inactive won by resignation"]
+[StartTime "07:23:32"]
+[EndDate "2023.07.08"]
+[EndTime "07:24:02"]
+[Link "https://www.chess.com/game/live/82540194931"]
+
+1. d4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. c4 { [%clk 0:00:59.9] }
+2... Nf6 { [%clk 0:00:59.8] } 3. Nf3 { [%clk 0:00:59.2] } 3... e6
+{ [%clk 0:00:59.3] } 4. Nc3 { [%clk 0:00:58.9] } 4... g6 { [%clk 0:00:59.2] }
+5. Bg5 { [%clk 0:00:57.8] } 5... Bg7 { [%clk 0:00:59.1] } 6. e3
+{ [%clk 0:00:55.9] } 6... O-O { [%clk 0:00:58.4] } 7. cxd5 { [%clk 0:00:55.1] }
+7... exd5 { [%clk 0:00:54.6] } 8. Bd3 { [%clk 0:00:54.4] } 8... Qd6
+{ [%clk 0:00:52.6] } 9. O-O { [%clk 0:00:53.2] } 9... Ne4 { [%clk 0:00:50.4] }
+10. Nxe4 { [%clk 0:00:51] } 10... dxe4 { [%clk 0:00:50.3] } 11. Bxe4
+{ [%clk 0:00:50.6] } 11... c6 { [%clk 0:00:49.1] } 12. Bf4 { [%clk 0:00:49.1] }
+12... Nd7 { [%clk 0:00:49] } 1-0
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "toivonen_alexander"]
+[Black "liordis31"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Yfyfxqhl"]
+[BlackTitle "IM"]
+[WhiteElo "2458"]
+[BlackElo "2577"]
+[ECO "A69"]
+[Opening "Benoni Defense: Four Pawns Attack, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:03:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Nf3
+O-O 9. Be2 Re8 10. e5 dxe5 11. fxe5 Ng4 12. Bg5 Qb6 13. O-O c4+ 14. Kh1 Qxb2
+15. Rc1 Nxe5 16. Nxe5 Bxe5 17. Ne4 Nd7 18. Bxc4 Nb6 19. Nf6+ Bxf6 20. Bxf6 Qb4
+21. Bb3 Bf5 22. Rxf5 gxf5 23. h3 Nd7 24. Bc3 Qf4 25. d6 Rac8 26. Rc2 Rc6 27.
+Qh5 Rf8 28. Rf2 Qc1+ 29. Kh2 Rxc3 30. Rxf5 Kh8 31. Bxf7 Qe3 32. Qh4 Ne5 33. d7
+Rxf7 34. d8=Q+ Kg7 35. Rg5+ Ng6 36. Rxg6+ hxg6 37. Qhh8# 1-0
+

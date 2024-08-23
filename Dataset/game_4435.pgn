@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Ahmedovem"]
+[Black "sparrow1"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/DWm5Ke0Y"]
+[WhiteElo "2433"]
+[BlackElo "2564"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Sämisch Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:09:17"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. dxc3 d5 5. exd6 exd6 6. Nf3 Be7 7. c4 O-O 8.
+Bd3 Nc6 9. O-O Re8 10. h3 Ne5 11. Re1 Nxd3 12. cxd3 Bf6 13. Rxe8+ Qxe8 14. Rb1
+Bf5 15. b4 h6 16. Bb2 Bxb2 17. Rxb2 b6 18. Re2 Qd7 19. b5 a6 20. a4 a5 21. Nd4
+Bg6 22. Qe1 Kf8 23. Nc6 Re8 24. Qd2 Bh5 25. g4 Bg6 26. Rxe8+ Qxe8 27. f4 f5 28.
+Nd4 fxg4 29. hxg4 Kg8 30. f5 Bf7 31. Kf2 d5 32. cxd5 Qe5 33. Qe3 Qh2+ 34. Ke1
+Qh4+ 35. Kd2 Qxg4 36. Qe5 Qg2+ 37. Kc3 Qf1 38. Nc2 h5 39. Qxc7 Qxf5 40. Qxb6
+Qxd5 41. Qxa5 h4 42. Qc7 Be8 43. b6 Qc6+ 44. Kd2 h3 45. Ne3 h2 46. Qxh2 Qxb6
+47. Qf4 Qa5+ 48. Ke2 Bxa4 49. Qc4+ Kf8 50. Nd5 Be8 51. Qf4+ Bf7 52. Qd6+ Kg8
+53. Ne7+ Kh7 54. Qh2+ Bh5+ 55. Ke3 Qa7+ 56. Ke4 Qxe7+ 57. Qe5 Qxe5+ 58. Kxe5
+Kh6 59. d4 Be8 60. d5 Kg5 61. Ke6 Ba4 62. d6 Kf4 0-1
+

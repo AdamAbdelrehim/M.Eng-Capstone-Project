@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "HomeAp"]
+[Black "BigOleDoinks"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/JwoApLSl"]
+[WhiteElo "2618"]
+[BlackElo "2631"]
+[ECO "A45"]
+[Opening "Trompowsky Attack: Classical Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "05:09:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. Bg5 e6 3. Nd2 h6 4. Bxf6 Qxf6 5. e3 g6 6. h4 h5 7. Ngf3 Bg7 8. Bd3
+d6 9. c3 a6 10. Qb3 Nd7 11. Ng5 b5 12. a4 Rb8 13. axb5 axb5 14. Ra7 c6 15. O-O
+d5 16. e4 O-O 17. f4 dxe4 18. Ndxe4 Qf5 19. Nc5 Nxc5 20. Bxf5 Nxb3 21. Be4 Nd2
+22. Bxc6 Nxf1 23. Kxf1 b4 24. Rc7 bxc3 25. bxc3 Ba6+ 26. Kf2 Rfc8 27. Rxf7 Rxc6
+0-1
+

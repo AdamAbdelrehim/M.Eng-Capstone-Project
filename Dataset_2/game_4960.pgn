@@ -1,0 +1,46 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.05.07"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Bodhoday"]
+[Result "0-1"]
+[CurrentPosition "1k6/1pR4R/p7/8/8/8/PPP2PPP/3r2K1 w - -"]
+[Timezone "UTC"]
+[ECO "C55"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Two-Knights-Defense"]
+[UTCDate "2022.05.07"]
+[UTCTime "07:34:33"]
+[WhiteElo "1395"]
+[BlackElo "1456"]
+[TimeControl "60"]
+[Termination "Bodhoday won by checkmate"]
+[StartTime "07:34:33"]
+[EndDate "2022.05.07"]
+[EndTime "07:35:54"]
+[Link "https://www.chess.com/game/live/45647968471"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.6] }
+2... Nf6 { [%clk 0:00:59.8] } 3. Bc4 { [%clk 0:00:59.1] } 3... Nc6
+{ [%clk 0:00:59] } 4. Nc3 { [%clk 0:00:56.1] } 4... d6 { [%clk 0:00:58.1] } 5.
+O-O { [%clk 0:00:55.5] } 5... Be6 { [%clk 0:00:57.2] } 6. Bxe6
+{ [%clk 0:00:53.9] } 6... fxe6 { [%clk 0:00:57] } 7. d4 { [%clk 0:00:52.1] }
+7... exd4 { [%clk 0:00:55.2] } 8. Nxd4 { [%clk 0:00:52] } 8... Nxd4
+{ [%clk 0:00:53.8] } 9. Qxd4 { [%clk 0:00:51.9] } 9... d5 { [%clk 0:00:53.1] }
+10. Bg5 { [%clk 0:00:51.2] } 10... Be7 { [%clk 0:00:51.2] } 11. exd5
+{ [%clk 0:00:47] } 11... Qxd5 { [%clk 0:00:50.1] } 12. Nxd5
+{ [%clk 0:00:45.8] } 12... Nxd5 { [%clk 0:00:49.2] } 13. Bxe7
+{ [%clk 0:00:44.7] } 13... Nxe7 { [%clk 0:00:48.2] } 14. Qxg7
+{ [%clk 0:00:44.1] } 14... O-O-O { [%clk 0:00:47.1] } 15. Qxe7
+{ [%clk 0:00:42.5] } 15... Rhg8 { [%clk 0:00:44.9] } 16. Rad1
+{ [%clk 0:00:40.3] } 16... Rde8 { [%clk 0:00:43.4] } 17. Qd7+
+{ [%clk 0:00:37.3] } 17... Kb8 { [%clk 0:00:41.9] } 18. Rfe1
+{ [%clk 0:00:36.5] } 18... a6 { [%clk 0:00:40.8] } 19. Rxe6
+{ [%clk 0:00:33.9] } 19... Ref8 { [%clk 0:00:39] } 20. Re7 { [%clk 0:00:31.9] }
+20... Rc8 { [%clk 0:00:37.4] } 21. Rxh7 { [%clk 0:00:27.4] } 21... Rg6
+{ [%clk 0:00:35.9] } 22. Re1 { [%clk 0:00:26.3] } 22... Rb6
+{ [%clk 0:00:34.7] } 23. Ree7 { [%clk 0:00:25.5] } 23... Rd6
+{ [%clk 0:00:31.3] } 24. Qxc7+ { [%clk 0:00:23.6] } 24... Rxc7
+{ [%clk 0:00:29.7] } 25. Rxc7 { [%clk 0:00:23.5] } 25... Rd1#
+{ [%clk 0:00:28.1] } 0-1
+

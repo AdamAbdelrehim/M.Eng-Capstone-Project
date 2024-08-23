@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "abedinov"]
+[Black "NoahSkyler"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/eDVa5MI2"]
+[WhiteElo "2402"]
+[BlackElo "2545"]
+[ECO "A46"]
+[Opening "Indian Defense: Knights Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:48:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. d4 Nf6 2. Nf3 h5 3. Bf4 h4 4. h3 c5 5. d5 Qb6 6. b3 Qb4+ 7. Bd2 Qe4 8. c4 e6
+9. Nc3 Qg6 10. Qb1 Qh5 11. e4 exd5 12. cxd5 d6 13. Bb5+ Bd7 14. O-O a6 15. Be2
+Be7 16. a4 Qg6 17. e5 Bf5 18. exf6 Bxb1 19. fxe7 Bf5 20. Rfe1 Bxh3 21. Bf1 Bxg2
+22. Bxg2 h3 23. Ng5 hxg2 24. Bf4 Nd7 25. Nce4 Qh5 26. Nxd6# 1-0
+

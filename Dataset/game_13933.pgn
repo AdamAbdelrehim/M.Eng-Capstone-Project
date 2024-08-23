@@ -1,0 +1,37 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "simbelmyne-bot"]
+[Black "ChessNoobComp"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/H5grA9Fj"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2555"]
+[BlackElo "2376"]
+[ECO "D04"]
+[Opening "Queen's Pawn Game: Colle System"]
+[TimeControl "300+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:40:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. Nf3 d5 2. d4 Nf6 3. e3 c5 4. c4 cxd4 5. exd4 g6 6. cxd5 Nxd5 7. Qb3 Bg7 8.
+Bc4 e6 9. Nc3 Nxc3 10. bxc3 O-O 11. O-O Nc6 12. Qc2 Qc7 13. Rb1 Re8 14. Re1 e5
+15. Ng5 Bf5 16. Qb3 Nd8 17. Ne4 Ne6 18. d5 Bxe4 19. dxe6 f5 20. Rxe4 fxe4 21.
+Bb5 Bf6 22. Bxe8 Rxe8 23. Be3 b6 24. Rd1 Qc6 25. Rd7 a5 26. Qxb6 Qxb6 27. Bxb6
+Rb8 28. Rd6 Be7 29. Rc6 Bd8 30. e7 Bxe7 31. Kf1 a4 32. Ke2 Kf7 33. c4 Rb7 34.
+c5 Rd7 35. Rc8 Bg5 36. c6 Rd2+ 37. Ke1 Rxa2 38. c7 Ra1+ 39. Ke2 Ra2+ 40. Kd1
+Rd2+ 41. Ke1 Rc2 42. g3 Rc1+ 43. Ke2 a3 44. Ra8 Rc2+ 45. Kf1 Rc1+ 46. Kg2 e3
+47. fxe3 Bxe3 48. Ra7 Rg1+ 49. Kh3 Bxb6 50. c8=Q+ Bxa7 51. Qb7+ Ke6 52. Qxa7
+Rc1 53. Qxa3 Rc6 54. Qb3+ Kd6 55. Kg4 Rc7 56. Qb6+ Rc6 57. Qd8+ Kc5 58. Qe7+
+Kd5 59. Qxh7 Rc4+ 60. Kg5 Rc6 61. Qd7+ Rd6 62. Qb5+ Kd4 63. Qb2+ Kd5 64. Qd2+
+Kc5 65. Qc3+ Kd5 66. Qd3+ Kc5 67. Qe4 Re6 68. h4 Kd6 69. g4 Re7 70. Kxg6 Re6+
+71. Kg5 Re8 72. Qb4+ Ke6 73. Qb6+ Kd7 74. Qb5+ Ke7 75. Qxe5+ Kd7 76. Qd5+ Kc7
+77. h5 Kc8 78. h6 Re7 79. Qf5+ Kb7 80. h7 Rxh7 81. Qxh7+ Kc6 82. Kf6 Kc5 83.
+Qf5+ Kd4 84. g5 Kc4 85. g6 Kb3 86. g7 Kb4 87. g8=Q Kc3 88. Qa2 Kd4 89. Qe5+ Kd3
+90. Qae2# 1-0
+

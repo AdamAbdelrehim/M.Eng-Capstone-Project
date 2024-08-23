@@ -1,0 +1,36 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.04.25"]
+[Round "-"]
+[White "ali7687"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "1kr4r/pp1n1pp1/2np4/4p2p/P4P2/1PBP2P1/3QP2P/R3K1NR b KQ -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Kings-Fianchetto-Opening-1...d5-2.Bg2-Nf6"]
+[UTCDate "2022.04.25"]
+[UTCTime "07:10:56"]
+[WhiteElo "1492"]
+[BlackElo "1445"]
+[TimeControl "60"]
+[Termination "ali7687 won - game abandoned"]
+[StartTime "07:10:56"]
+[EndDate "2022.04.25"]
+[EndTime "07:12:14"]
+[Link "https://www.chess.com/game/live/44609419129"]
+
+1. g3 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. Bg2 { [%clk 0:00:59.5] }
+2... Nf6 { [%clk 0:00:59.9] } 3. f3 { [%clk 0:00:58.8] } 3... e5
+{ [%clk 0:00:58.9] } 4. d3 { [%clk 0:00:58.4] } 4... Nc6 { [%clk 0:00:57.8] }
+5. b3 { [%clk 0:00:57.8] } 5... Bd6 { [%clk 0:00:57.2] } 6. Bb2
+{ [%clk 0:00:57.4] } 6... Be6 { [%clk 0:00:56.9] } 7. Nd2 { [%clk 0:00:56.7] }
+7... Qd7 { [%clk 0:00:55.2] } 8. c4 { [%clk 0:00:55.9] } 8... dxc4
+{ [%clk 0:00:53.8] } 9. Nxc4 { [%clk 0:00:54.7] } 9... O-O-O
+{ [%clk 0:00:51.8] } 10. Nxd6+ { [%clk 0:00:54.1] } 10... cxd6
+{ [%clk 0:00:50.4] } 11. a4 { [%clk 0:00:53.5] } 11... Kb8 { [%clk 0:00:49.9] }
+12. Bc3 { [%clk 0:00:49.5] } 12... Rc8 { [%clk 0:00:49.3] } 13. Qd2
+{ [%clk 0:00:47.9] } 13... Bh3 { [%clk 0:00:46.8] } 14. Bxh3
+{ [%clk 0:00:46.9] } 14... h5 { [%clk 0:00:45.2] } 15. Bxd7 { [%clk 0:00:46] }
+15... Nxd7 { [%clk 0:00:44.7] } 16. f4 { [%clk 0:00:44.4] } 1-0
+

@@ -1,0 +1,41 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "RaspFish"]
+[Black "Botyuliirma"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/RsHnevEY"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2724"]
+[BlackElo "2694"]
+[ECO "A00"]
+[Opening "Clemenz Opening"]
+[TimeControl "1500+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:41:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+1"]
+
+1. h3 e5 2. c4 Nf6 3. e3 Nc6 4. Nc3 d5 5. cxd5 Nxd5 6. Qc2 f5 7. a3 Nxc3 8.
+Qxc3 Bd6 9. b4 Qe7 10. Bb2 Bd7 11. Nf3 e4 12. Nd4 Ne5 13. Nb5 O-O 14. Nxd6 cxd6
+15. Qd4 Rfc8 16. Be2 Be6 17. O-O Nc6 18. Qc3 Na5 19. Qxg7+ Qxg7 20. Bxg7 Nb3
+21. Bc3 Nxa1 22. Rxa1 Bc4 23. Bh5 Bd5 24. Kh2 Kf8 25. Kg3 Ke7 26. Kf4 Rg8 27.
+g3 Bc4 28. a4 h6 29. h4 Rac8 30. Rc1 Bb3 31. Ra1 a6 32. Be2 Be6 33. Bh5 Bb3 34.
+Be2 Rcf8 35. Bb2 Bc4 36. Bd1 Be6 37. a5 Rc8 38. Rc1 Rxc1 39. Bxc1 Rb8 40. Bb2
+b6 41. axb6 Rxb6 42. Bc3 Rb8 43. Be2 Rg8 44. f3 Bd5 45. fxe4 Bxe4 46. Bd4 Bb7
+47. Bh5 Be4 48. Be2 Bc6 49. Bd1 Kd7 50. Bc3 Kc8 51. Be2 Bb5 52. Bf3 Bd3 53. Bd1
+Kd7 54. Ba4+ Kc7 55. Kf3 Be4+ 56. Kf2 Bd3 57. Bd1 Kd7 58. Ba4+ Ke7 59. Bd1 Rb8
+60. Kf3 Kd8 61. Kg2 Ke7 62. Kf2 Ke6 63. Ba4 Be4 64. Bd1 Bd3 65. Bb3+ Ke7 66.
+Bd1 Rf8 67. Kg2 Rc8 68. Kf2 Kf7 69. Bb3+ Kg6 70. Be6 Rc7 71. Bb3 Rb7 72. Bd1
+Kf7 73. Bf3 Ra7 74. Bd4 Rc7 75. Bc3 Rd7 76. Bh5+ Ke6 77. Bd1 Rb7 78. Bb3+ Ke7
+79. Bd1 Rb8 80. Kg2 Ke6 81. Kf2 Rc8 82. Kg2 Ra8 83. Kf3 Rg8 84. Kf2 d5 85. Kf3
+Be4+ 86. Kf2 Bd3 87. Kf3 Rf8 88. Kf2 Ra8 89. Kg2 Kf7 90. Bh5+ Ke6 91. Kf3 Kd7
+92. Kg2 Kc6 93. Kf3 Kd6 94. Kf2 Rb8 95. Bd1 Ke6 96. Kg2 Be4+ 97. Kf2 Bd3 98.
+Kf3 Kd6 99. Kg2 Kc6 100. Ba4+ Kd6 101. Bd1 Ke6 102. Kf2 Rb7 103. Kf3 Be4+ 104.
+Kf4 Rc7 105. Be2 Rc6 106. Bg7 Rb6 107. Bf8 Bc2 108. Bc5 Rc6 109. Bf8 Kf7 110.
+Bc5 Ke6 111. g4 fxg4 112. Bxg4+ Kf6 113. Bf3 Ke6 114. Bg4+ Kf6 115. Bf3 Bb3
+116. Bg4 Bc2 1/2-1/2
+

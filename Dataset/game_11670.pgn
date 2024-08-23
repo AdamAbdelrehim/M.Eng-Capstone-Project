@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "saeta"]
+[Black "Gicko"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Z6Fphn4H"]
+[WhiteElo "2457"]
+[BlackElo "2553"]
+[ECO "A62"]
+[Opening "Benoni Defense: Fianchetto Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:43:54"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 e6 4. c4 exd5 5. cxd5 d6 6. Nc3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O Re8 10. Nd2 Nbd7 11. a4 h5 12. h4 Ne5 13. b3 Bg4 14. Qc2 Rc8 15. Bb2
+c4 16. bxc4 Nxc4 17. Nxc4 Rxc4 18. Qb3 Qc8 19. Nb5 Rd8 20. Rfc1 Rxc1+ 21. Rxc1
+Qb8 22. e4 a6 23. Nd4 Nd7 24. f3 Nc5 25. Qa3 Bd7 26. a5 Rc8 27. Ne2 Bxb2 28.
+Qxb2 Nd3 29. Rxc8+ Qxc8 30. Qd4 Ne5 31. Nc3 Bh3 32. f4 Bxg2 33. Kxg2 Ng4 34. e5
+dxe5 35. fxe5 Qf5 36. Ne4 Nxe5 37. Nd2 Nd7 38. d6 Nf6 39. Nf3 Qc2+ 40. Kh3 Qf5+
+41. Kg2 Kf8 42. Ne5 Qe6 43. d7 Nxd7 44. Nxd7+ Ke7 45. Ne5 f5 46. Nd3 Qc6+ 47.
+Kf2 Qf6 48. Qe3+ Qe6 49. Nf4 Qxe3+ 50. Kxe3 Kf6 51. Kd4 Ke7 52. Ke5 Kf7 53. Kd6
+g5 54. hxg5 Kg7 0-1
+

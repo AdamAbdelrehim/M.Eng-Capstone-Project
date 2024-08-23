@@ -1,0 +1,25 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "JJPlayz"]
+[Black "almostnm"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/v7F9YJzT"]
+[WhiteElo "2511"]
+[BlackElo "2525"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:58:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+10"]
+
+1. e4 c5 2. Nf3 e6 3. g3 Nc6 4. Bg2 Nf6 5. d3 d5 6. exd5 exd5 7. O-O Be7 8. d4
+O-O 9. dxc5 Bxc5 10. Nbd2 Re8 11. Nb3 Bb6 12. c3 Bg4 13. h3 Bh5 14. g4 Bg6 15.
+Re1 Qd6 16. a4 Rxe1+ 17. Nxe1 Re8 18. a5 Bc7 19. Nf3 Be4 20. Be3 Ne5 21. Nxe5
+Qxe5 22. f4 Qe7 23. Bc5 Qd7 24. Qf1 Bxg2 25. Kxg2 Nxg4 26. hxg4 Qxg4+ 27. Kh1
+Re2 0-1
+

@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.05.05"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "nayakanurag"]
+[Result "1-0"]
+[CurrentPosition "1r1r2k1/6pp/3Pp3/4p1Pn/pBn4P/2QN1q2/PPP5/1K1R3R b - -"]
+[Timezone "UTC"]
+[ECO "B33"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Open-3...cxd4-4.Nxd4-Nf6-5.Nc3"]
+[UTCDate "2023.05.05"]
+[UTCTime "04:37:05"]
+[WhiteElo "1936"]
+[BlackElo "1925"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won on time"]
+[StartTime "04:37:05"]
+[EndDate "2023.05.05"]
+[EndTime "04:49:56"]
+[Link "https://www.chess.com/game/live/77000429613"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:09:57.8] } 2. Nf3
+{ [%clk 0:09:58.7] } 2... Nc6 { [%clk 0:09:56.6] } 3. d4 { [%clk 0:09:57.3] }
+3... cxd4 { [%clk 0:09:54.7] } 4. Nxd4 { [%clk 0:09:56] } 4... Nf6
+{ [%clk 0:09:51.8] } 5. Nc3 { [%clk 0:09:55.7] } 5... a6 { [%clk 0:09:49.5] }
+6. Be3 { [%clk 0:09:53.9] } 6... e5 { [%clk 0:09:46.1] } 7. Nb3
+{ [%clk 0:09:52.4] } 7... d6 { [%clk 0:09:44.3] } 8. f3 { [%clk 0:09:51] } 8...
+Be6 { [%clk 0:09:42.3] } 9. Qd2 { [%clk 0:09:49.8] } 9... Be7
+{ [%clk 0:09:40] } 10. O-O-O { [%clk 0:09:47.6] } 10... O-O
+{ [%clk 0:09:38.5] } 11. h4 { [%clk 0:09:46.3] } 11... b5 { [%clk 0:09:25.1] }
+12. g4 { [%clk 0:09:43.3] } 12... b4 { [%clk 0:09:09.2] } 13. Nd5
+{ [%clk 0:09:24.6] } 13... a5 { [%clk 0:07:54.2] } 14. Nxe7+
+{ [%clk 0:09:14.2] } 14... Qxe7 { [%clk 0:07:23.1] } 15. Kb1
+{ [%clk 0:09:13.1] } 15... a4 { [%clk 0:07:11.6] } 16. Nc1 { [%clk 0:09:10.7] }
+16... d5 { [%clk 0:06:59.3] } 17. g5 { [%clk 0:09:01.3] } 17... Nh5
+{ [%clk 0:06:37.5] } 18. exd5 { [%clk 0:08:59.3] } 18... Rfd8
+{ [%clk 0:06:17] } 19. Bc4 { [%clk 0:08:51.6] } 19... Na5 { [%clk 0:05:58.7] }
+20. d6 { [%clk 0:08:28.5] } 20... Qb7 { [%clk 0:02:56.4] } 21. Bxe6
+{ [%clk 0:08:19.1] } 21... fxe6 { [%clk 0:02:53] } 22. Bc5 { [%clk 0:07:57.4] }
+22... Rab8 { [%clk 0:01:58.6] } 23. Nd3 { [%clk 0:07:33] } 23... Qxf3
+{ [%clk 0:00:05.6] } 24. Bxb4 { [%clk 0:07:25.6] } 24... Nc4
+{ [%clk 0:00:01.9] } 25. Qc3 { [%clk 0:07:21.7] } 1-0
+

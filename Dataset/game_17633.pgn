@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "HUGO_ZUR"]
+[Black "AlexD64"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Lfqm2xCm"]
+[WhiteElo "2486"]
+[BlackElo "2534"]
+[ECO "A07"]
+[Opening "King's Indian Attack: Double Fianchetto"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:32:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 Nf6 5. O-O O-O 6. c3 Bf5 7. Qb3 b6 8. Ne5
+e6 9. Bf4 Nfd7 10. c4 Nxe5 11. Bxe5 Bxe5 12. dxe5 c6 13. Nc3 Nd7 14. cxd5 cxd5
+15. e4 Nc5 16. Qb4 Nd3 17. Qb5 dxe4 18. Bxe4 a6 19. Qxd3 Qxd3 20. Bxd3 Bxd3 21.
+Rfd1 Rfd8 22. Rd2 Bf5 23. Rad1 Rxd2 24. Rxd2 Rc8 25. f4 h6 26. h4 b5 27. Kf2 b4
+28. Ne2 Kg7 29. Ke3 g5 30. hxg5 hxg5 31. fxg5 Kg6 32. Kf4 Rc4+ 33. Nd4 Bb1 34.
+b3 Rc1 35. Rf2 Bd3 36. Kg4 Ra1 37. Rd2 Bb1 38. Nc6 a5 39. Nxa5 Bxa2 40. Nc6
+Bxb3 41. Nxb4 Ra5 42. Nd3 Kg7 43. Kf4 Rd5 44. Ke3 Bc4 45. Ke4 Bxd3+ 46. Rxd3
+Rxd3 47. Kxd3 Kg6 48. Kd4 Kxg5 49. Kc5 Kg4 50. Kd6 Kxg3 51. Ke7 Kf4 52. Kf6 Ke4
+53. Kxf7 Kxe5 54. Kg6 Kf4 55. Kf6 e5 56. Ke6 e4 57. Kd5 e3 58. Kc4 e2 59. Kd5
+e1=Q 60. Kc5 Qe4 61. Kd6 Qd4+ 62. Kc6 Ke5 63. Kb5 Qd5+ 64. Kb4 Kd4 65. Ka3 Qb7
+66. Ka4 Kc4 67. Ka5 Qb5# 0-1
+

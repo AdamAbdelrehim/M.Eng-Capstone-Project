@@ -1,0 +1,41 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.05.10"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "ZarniAtThe-O-End"]
+[Result "0-1"]
+[CurrentPosition "5rk1/3n1pbp/b4np1/2p1p3/1r2P3/1qK1BNN1/1P1QBPPP/3R3R w - -"]
+[Timezone "UTC"]
+[ECO "A04"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-Kingside-Fianchetto-Variation-2.e4"]
+[UTCDate "2023.05.10"]
+[UTCTime "05:01:00"]
+[WhiteElo "1651"]
+[BlackElo "1775"]
+[TimeControl "60"]
+[Termination "ZarniAtThe-O-End won by checkmate"]
+[StartTime "05:01:00"]
+[EndDate "2023.05.10"]
+[EndTime "05:01:54"]
+[Link "https://www.chess.com/game/live/77433742115"]
+
+1. e4 { [%clk 0:01:00] } 1... g6 { [%clk 0:00:59.9] } 2. Nf3
+{ [%clk 0:00:59.6] } 2... Bg7 { [%clk 0:00:59.6] } 3. c3 { [%clk 0:00:59.5] }
+3... d6 { [%clk 0:00:58.8] } 4. d4 { [%clk 0:00:59.4] } 4... Nd7
+{ [%clk 0:00:58.2] } 5. Be3 { [%clk 0:00:58.8] } 5... e5 { [%clk 0:00:57.8] }
+6. Bc4 { [%clk 0:00:58.7] } 6... Ngf6 { [%clk 0:00:56.4] } 7. dxe5
+{ [%clk 0:00:57.7] } 7... dxe5 { [%clk 0:00:55.5] } 8. Nbd2
+{ [%clk 0:00:56.6] } 8... O-O { [%clk 0:00:54.8] } 9. Qb3 { [%clk 0:00:56] }
+9... c6 { [%clk 0:00:54.4] } 10. O-O-O { [%clk 0:00:53.9] } 10... b5
+{ [%clk 0:00:53.8] } 11. Be2 { [%clk 0:00:52.7] } 11... a5 { [%clk 0:00:53.3] }
+12. a3 { [%clk 0:00:51.7] } 12... Qc7 { [%clk 0:00:52.1] } 13. Qc2
+{ [%clk 0:00:49.6] } 13... Rb8 { [%clk 0:00:51] } 14. Nf1 { [%clk 0:00:48.1] }
+14... c5 { [%clk 0:00:49.7] } 15. Ng3 { [%clk 0:00:47.7] } 15... b4
+{ [%clk 0:00:48.7] } 16. cxb4 { [%clk 0:00:45.7] } 16... axb4
+{ [%clk 0:00:48.4] } 17. axb4 { [%clk 0:00:44.4] } 17... Rxb4
+{ [%clk 0:00:47.9] } 18. Qd2 { [%clk 0:00:42.4] } 18... Qa7
+{ [%clk 0:00:46.4] } 19. Kc2 { [%clk 0:00:40] } 19... Qa4+ { [%clk 0:00:45.1] }
+20. Kd3 { [%clk 0:00:36.4] } 20... Ba6+ { [%clk 0:00:44.1] } 21. Kc3
+{ [%clk 0:00:34.8] } 21... Qb3# { [%clk 0:00:42.6] } 0-1
+

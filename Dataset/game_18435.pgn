@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "I_B_N"]
+[Black "Shuvalov"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/EXBoRyAR"]
+[WhiteElo "2394"]
+[BlackElo "2501"]
+[ECO "C00"]
+[Opening "French Defense: Two Knights Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:52:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+4"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 Bb4 4. exd5 exd5 5. d4 c6 6. Bd3 Bg4 7. O-O Nf6 8. h3
+Bh5 9. Re1+ Be7 10. Qe2 Bxf3 11. gxf3 Nbd7 12. Bg5 Kf8 13. Kh1 h6 14. Bh4 Bd6
+15. Rg1 Qc7 16. Qf1 Re8 17. Qg2 g5 18. Bg3 Bxg3 19. fxg3 Rg8 20. Rgf1 Qb6 21.
+Qf2 Qxb2 22. Ne2 Qb6 23. Rab1 Qc7 24. f4 g4 25. h4 Ne4 26. Qe1 Ndf6 27. Kh2 Kg7
+28. f5 Nh5 29. Nf4 Nexg3 30. f6+ Kh8 31. Qxg3 Nxg3 32. Kxg3 Re3+ 33. Kg2 Rf3
+34. Rxf3 gxf3+ 35. Kxf3 Qd7 36. Rf1 Qg4+ 37. Ke3 Qxh4 38. Kd2 Rg4 39. Ne2 Qg5+
+40. Kc3 b6 41. a4 c5 42. a5 c4 43. axb6 axb6 44. Bf5 Rg2 45. Nc1 Qd2+ 46. Kb2
+Rf2 0-1
+

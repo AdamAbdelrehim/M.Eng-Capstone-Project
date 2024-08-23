@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Pastukhov_Nicolay"]
+[Black "Kassimov_Arnur"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/2bTnds3O"]
+[WhiteElo "2549"]
+[BlackElo "2564"]
+[ECO "E73"]
+[Opening "King's Indian Defense: Normal Variation, Standard Development"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:21:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-12"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 e5 6. d5 a5 7. g4 h5 8. g5 Nfd7
+9. h4 Na6 10. Be3 Ndc5 11. f3 O-O 12. Qd2 c6 13. Nh3 a4 14. Nf2 Qa5 15. O-O-O
+Bd7 16. Nd3 Nb3+ 17. axb3 axb3 18. Nb1 Qa4 19. Qc3 Rfc8 20. dxc6 Rxc6 21. Na3
+Be6 22. Kd2 Bxc4 23. Ra1 Be6 24. Qxc6 Qxc6 25. Rhc1 Qd7 26. Nb1 Rc8 27. Nc3 d5
+28. exd5 Bxd5 29. Nxd5 Rxc1 30. Rxc1 Qxd5 31. Rc8+ Kh7 32. Ke1 e4 33. fxe4 Qxe4
+34. Bf2 Nb4 35. Rd8 Nc2+ 36. Kd2 Qg2 37. Ba7 Qg3 38. Rd7 Qxh4 39. Rxf7 Qxg5+
+40. Kd1 Ne3+ 41. Ke1 Nf5 42. Ne5 Qc1+ 43. Kf2 Qf4+ 44. Nf3 Qg3+ 45. Kf1 h4 46.
+Bf2 Qh3+ 47. Ke1 Kh6 48. Rxb7 Qh1+ 49. Kd2 Ng3 50. Rxb3 Nxe2 51. Kxe2 h3 52.
+Rb4 Qg2 53. Rh4# 1-0
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "train_account"]
+[Black "PokerChess98"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/V0nuRLcO"]
+[WhiteElo "2586"]
+[BlackElo "2413"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:17:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Nc6 7. dxc5 h6 8. c3 g5
+9. h4 g4 10. Nd4 Nxe5 11. Nxf5 exf5 12. Bd4 Qc7 13. Bb5+ Ke7 14. O-O Bg7 15.
+Nd2 Kf8 16. Re1 Ne7 17. h5 Rd8 18. Qe2 N5c6 19. Bxg7+ Kxg7 20. Nb3 a6 21. Bxc6
+Nxc6 22. Qd3 Qd7 23. Nd4 Nxd4 24. Qxd4+ Kh7 25. Re5 Rhe8 26. Rae1 Rxe5 27. Rxe5
+Kg8 28. g3 a5 29. Qf4 Re8 30. Rxe8+ Qxe8 31. Qxf5 Qe1+ 32. Kg2 Qd1 33. b4 a4
+34. b5 Qe2 35. c6 bxc6 36. bxc6 Qc4 37. Qf6 Qe4+ 38. Kg1 Qe1+ 39. Kh2 a3 40. c7
+1-0
+

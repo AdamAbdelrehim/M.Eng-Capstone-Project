@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.07.16"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Ronyknights"]
+[Result "0-1"]
+[CurrentPosition "2kr1b1r/p1p2ppp/2p2n2/q7/3p4/2N1B3/PPP2PPP/R1Q2RK1 w - -"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Declined...4.Nc3-Qa5-5.d4-Bg4"]
+[UTCDate "2024.07.16"]
+[UTCTime "04:59:33"]
+[WhiteElo "1841"]
+[BlackElo "1877"]
+[TimeControl "600"]
+[Termination "Ronyknights won by resignation"]
+[StartTime "04:59:33"]
+[EndDate "2024.07.16"]
+[EndTime "05:01:12"]
+[Link "https://www.chess.com/game/live/114844722805"]
+
+1. e4 { [%clk 0:10:00] } 1... Nc6 { [%clk 0:09:58.4] } 2. Nf3
+{ [%clk 0:09:58.6] } 2... d5 { [%clk 0:09:57.3] } 3. exd5 { [%clk 0:09:57.2] }
+3... Qxd5 { [%clk 0:09:55.6] } 4. Nc3 { [%clk 0:09:56.5] } 4... Qa5
+{ [%clk 0:09:51.6] } 5. d4 { [%clk 0:09:55.1] } 5... Bg4 { [%clk 0:09:49.6] }
+6. Be2 { [%clk 0:09:52.8] } 6... O-O-O { [%clk 0:09:47.9] } 7. Be3
+{ [%clk 0:09:50.6] } 7... Nf6 { [%clk 0:09:46.5] } 8. O-O { [%clk 0:09:48.2] }
+8... e5 { [%clk 0:09:44.3] } 9. Qc1 { [%clk 0:09:12.4] } 9... Bxf3
+{ [%clk 0:09:36.7] } 10. Bxf3 { [%clk 0:09:09.5] } 10... exd4
+{ [%clk 0:09:34.8] } 11. Bxc6 { [%clk 0:09:08.2] } 11... bxc6
+{ [%clk 0:09:33.4] } 0-1
+

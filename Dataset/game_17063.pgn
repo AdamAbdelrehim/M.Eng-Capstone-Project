@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "MitchyF"]
+[Black "Dug_Polk"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/5u85v3Ur"]
+[WhiteTitle "IM"]
+[WhiteElo "2551"]
+[BlackElo "2450"]
+[ECO "D07"]
+[Opening "Queen's Gambit Declined: Chigorin Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:02:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 Nf6 4. cxd5 Nxd5 5. Nf3 Bg4 6. e4 Nxc3 7. bxc3 e5 8.
+Bb5 exd4 9. Bxc6+ bxc6 10. Qxd4 Bxf3 11. gxf3 Qxd4 12. cxd4 Bb4+ 13. Bd2 Rb8
+14. Rb1 Bxd2+ 15. Kxd2 Kd7 16. Kc3 Rb5 17. Rb4 Rxb4 18. Rb1 Rxb1 0-1
+

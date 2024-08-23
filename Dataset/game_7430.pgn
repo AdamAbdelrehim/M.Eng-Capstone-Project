@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "pollovsky"]
+[Black "Dmitry_Gritsenko"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/qGY5hacD"]
+[WhiteTitle "IM"]
+[WhiteElo "2342"]
+[BlackElo "2507"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:05:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. Bg5 c5 3. Bxf6 gxf6 4. d5 Qb6 5. Qc1 Bg7 6. c3 f5 7. Qc2 d6 8. g3
+f4 9. gxf4 Nd7 10. Bh3 Nf6 11. Bxc8 Rxc8 12. Nh3 Rg8 13. Rg1 e6 14. dxe6 fxe6
+15. Nd2 Kd7 16. Nc4 Qa6 17. Qd3 Kc7 18. Ng5 Rce8 19. O-O-O d5 20. Na3 c4 21.
+Qh3 h6 22. Nf3 Ne4 23. Nd4 Bxd4 24. Rxd4 Rxg1+ 0-1
+

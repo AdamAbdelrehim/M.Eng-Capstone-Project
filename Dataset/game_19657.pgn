@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Defendiendome"]
+[Black "ulduz01"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/pqFA8vfP"]
+[WhiteElo "2502"]
+[BlackElo "2381"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:53:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+9"]
+
+1. d4 d6 2. e4 g6 3. Nc3 Bg7 4. Be3 c6 5. Qd2 Nd7 6. h4 Qa5 7. h5 b5 8. f4 b4
+9. Nd1 Nb6 10. a3 c5 11. dxc5 dxc5 12. e5 Bg4 13. hxg6 hxg6 14. Nf3 Rxh1 0-1
+

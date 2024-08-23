@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "MiniSip"]
+[Black "Dasecho"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ynEDd9Bc"]
+[WhiteElo "2688"]
+[BlackElo "2681"]
+[ECO "A62"]
+[Opening "Benoni Defense: Fianchetto Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:51:17"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 g6 6. Nc3 Bg7 7. Bg2 d6 8. Nf3
+O-O 9. O-O Bg4 10. Nd2 Re8 11. h3 Bc8 12. e4 a6 13. a4 Nbd7 14. Nc4 Ne5 15. Na3
+b5 16. axb5 axb5 17. Ncxb5 Ba6 18. Bf4 Qb6 19. Bxe5 Rxe5 20. f4 Ree8 21. Nc4
+Qxb5 22. Nxd6 Qb6 23. Nxe8 Rxe8 24. Re1 Nh5 25. Kh2 Bxb2 26. Qa4 Bb5 27. Qa5
+Qxa5 28. Rxa5 Bc3 29. Rxb5 Bxe1 0-1
+

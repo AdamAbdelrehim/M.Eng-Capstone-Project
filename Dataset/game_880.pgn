@@ -1,0 +1,32 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "TheFreshman1902"]
+[Black "PetersBot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/Bilrlk68"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3009"]
+[BlackElo "2972"]
+[ECO "A28"]
+[Opening "English Opening: Four Knights System, Nimzowitsch Variation"]
+[TimeControl "480+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "05:07:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+
+1. c4 Nf6 2. Nc3 e5 3. Nf3 Nc6 4. e4 Bb4 5. d3 d6 6. a3 Bc5 7. b4 Bb6 8. Be3
+Bg4 9. Be2 O-O 10. O-O Bxf3 11. Bxf3 Nd4 12. g3 a5 13. b5 c6 14. a4 Nxf3+ 15.
+Qxf3 Nd7 16. Rad1 Rc8 17. Kg2 Re8 18. Bxb6 Qxb6 19. Rd2 Qd8 20. Qe3 Qe7 21. f4
+exf4 22. Qxf4 f6 23. Qe3 Qe5 24. Rc2 Qe7 25. Rcf2 Rcd8 26. Rd1 Qf7 27. Qa7 Ne5
+28. Qd4 Nd7 29. Rff1 Nc5 30. Qe3 Nd7 31. Qa7 Ne5 32. Qd4 Qe7 33. Rd2 d5 34.
+cxd5 Qb4 35. Qxb4 axb4 36. Na2 cxd5 37. exd5 Ra8 38. Nxb4 Rxa4 39. Rb1 Ra3 40.
+Rc1 Rb3 41. d4 Nf7 42. Nd3 Nd6 43. Nf4 Re7 44. Rdc2 Nxb5 45. Rc8+ Kf7 46. h4
+Ree3 47. d6 Rxg3+ 48. Kh2 Rg4 49. R8c7+ Nxc7 50. Rxc7+ Kg8 51. Rc8+ Kf7 52.
+Rc7+ Kg8 53. Rc8+ Kf7 54. d7 Rxh4+ 55. Kg2 Rg4+ 56. Kh1 Rh4+ 57. Kg2 Rg4+ 58.
+Kh1 Rh4+ 59. Kg1 Rg4+ 60. Kh2 Rh4+ 61. Kg1 Rg4+ 62. Kh1 1/2-1/2
+

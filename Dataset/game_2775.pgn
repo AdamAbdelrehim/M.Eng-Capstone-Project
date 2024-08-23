@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Pescaderocalvo"]
+[Black "Geet_Dabhi"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ppfRKLAe"]
+[WhiteElo "2599"]
+[BlackElo "2406"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:15:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-7"]
+
+1. e4 c6 2. d4 d5 3. e5 e6 4. f4 c5 5. Nf3 Nc6 6. Be3 cxd4 7. Nxd4 Nxd4 8. Bxd4
+Ne7 9. Bd3 Nc6 10. Bf2 g6 11. O-O Bd7 12. Nd2 a6 13. Nf3 b5 14. c3 h5 15. Nd4
+Nxd4 16. cxd4 Qb6 17. Rc1 Be7 18. Qc2 Rc8 19. Qb1 Rxc1 20. Rxc1 O-O 21. Bxg6
+fxg6 22. Qxg6+ Kh8 23. Qxh5+ Kg8 24. Qg6+ Kh8 25. Rc3 Rxf4 26. Qh6+ 1-0
+

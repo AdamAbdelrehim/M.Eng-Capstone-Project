@@ -1,0 +1,29 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "BitByByte"]
+[Black "yobot_v2"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/uflJlQax"]
+[WhiteTitle "BOT"]
+[WhiteElo "2598"]
+[BlackElo "2751"]
+[ECO "D38"]
+[Opening "Queen's Gambit Declined: Ragozin Defense"]
+[TimeControl "1500+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:39:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Bb4 5. cxd5 exd5 6. Bg5 h6 7. Bh4 Bf5 8.
+Qa4+ Nc6 9. e3 g5 10. Bg3 O-O 11. Rc1 Ne4 12. Nd2 Bxc3 13. bxc3 Nxd2 14. Kxd2
+a6 15. h4 g4 16. f3 Re8 17. fxg4 Bxg4 18. Bd3 Re6 19. Rhf1 Qe7 20. Rce1 Re8 21.
+Rf4 Bh5 22. e4 b5 23. Qb3 dxe4 24. Rfxe4 Na5 25. Qb4 Rxe4 26. Rxe4 Nc4+ 27. Kc1
+Qxe4 28. Bxe4 Rxe4 29. Qc5 Bg4 30. Qxc7 Re3 31. Qf4 Bh5 32. Kb1 a5 33. Qb8+ Kh7
+34. d5 Bg6+ 35. Kc1 Re2 36. Qxb5 Bd3 37. Qb3 Rxg2 38. Be1 a4 39. Qxa4 Rb2 40.
+Qb3 Rxb3 41. axb3 Nd6 42. Kd2 Bf1 43. Ke3 Kg6 44. Kd4 Nf5+ 45. Kc5 Kf6 46. Kb6
+Ke5 47. Kc5 Kf6 48. Kb6 Ke5 49. Kc5 Kf6 1/2-1/2
+

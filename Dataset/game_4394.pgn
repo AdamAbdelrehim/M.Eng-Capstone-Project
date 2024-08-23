@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ilprofessore87"]
+[Black "GrosTasBarbu"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/dKe21ab3"]
+[WhiteElo "2568"]
+[BlackElo "2490"]
+[ECO "C10"]
+[Opening "French Defense: Paulsen Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:04:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. e5 f6 5. Bb5 Bd7 6. Nf3 Qe7 7. O-O Qf7 8. Re1
+Nge7 9. a4 a6 10. Bf1 fxe5 11. Nxe5 Nxe5 12. Rxe5 Nc6 13. Re1 Bd6 14. Nxd5 O-O
+0-1
+

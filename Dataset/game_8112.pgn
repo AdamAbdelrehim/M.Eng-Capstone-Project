@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "warrior5191"]
+[Black "MarioVillanueva"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/uUPgIAQo"]
+[WhiteTitle "GM"]
+[BlackTitle "IM"]
+[WhiteElo "2620"]
+[BlackElo "2680"]
+[ECO "D06"]
+[Opening "Queen's Gambit Declined: Baltic Defense, Pseudo-Chigorin"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "00:57:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. d4 d5 2. c4 Bf5 3. Nc3 e6 4. Nf3 Nc6 5. Bg5 Be7 6. Bxe7 Ncxe7 7. e3 Nf6 8.
+Qb3 O-O 9. Be2 c6 10. O-O Qb6 11. c5 Qc7 12. Nh4 Bg4 13. Bxg4 Nxg4 14. Qd1
+Qxh2# 0-1
+

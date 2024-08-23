@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "PurpleHunter"]
+[Black "admete_bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Ih2fe596"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2639"]
+[BlackElo "2418"]
+[ECO "E05"]
+[Opening "Catalan Opening: Open Defense, Classical Line"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:26:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-3"]
+
+1. c4 Nf6 2. d4 e6 3. g3 d5 4. Bg2 Be7 5. Nf3 O-O 6. O-O dxc4 7. Ne5 c5 8. dxc5
+Qc7 9. Nxc4 Qxc5 10. Nbd2 Rd8 11. b3 Nc6 12. Ba3 Nb4 13. Bb2 Ng4 14. a3 Nc6 15.
+b4 Qh5 16. h3 Nf6 17. Rb1 Qb5 18. a4 Qh5 19. b5 Nb4 20. e3 Qg6 21. Ba3 Nfd5 22.
+Qb3 f5 23. Ne5 Qe8 24. Ndc4 a6 25. Rfd1 axb5 26. axb5 Bf8 27. Bxb4 Nxb4 28. Nb6
+Rb8 29. Qc4 Nd5 30. Nxd5 exd5 31. Bxd5+ Rxd5 32. Qxd5+ Be6 33. Qf3 Kh8 34. b6
+Bc5 35. h4 Qe7 36. Qf4 Rc8 37. Nd3 Ba3 38. Qf3 Rf8 39. Nf4 Bc8 40. Rd3 Bd6 41.
+Qd5 Be5 42. Rc1 Rg8 43. Rd2 Bxf4 44. exf4 Qf6 45. Qd6 Be6 46. Re1 Bc8 47. Qxf6
+gxf6 48. Re7 h5 49. Rde2 Rf8 50. Re8 Kg7 51. R2e7+ Kg8 52. Rxf8+ Kxf8 53. Rc7
+Be6 54. Kf1 Bd5 55. Ke2 Be4 56. Ke3 Ke8 57. Kd4 Kf8 58. Kc5 Bf3 59. Rd7 Bc6 60.
+Kd6 Kg8 61. Ke6 Kf8 62. Rh7 Be4 63. Kxf6 Ke8 64. Rxh5 Kd7 65. Rg5 Bf3 66. h5
+Kc6 67. h6 Kxb6 68. Rxf5 Be4 69. h7 Bxf5 70. Kxf5 Ka5 71. h8=Q Ka4 72. Qa8+ Kb3
+73. Qxb7+ Kc4 74. Qe4+ Kc5 75. Ke6 Kb6 76. Qd5 Ka6 77. Qb3 Ka7 78. Kd6 Ka6 79.
+Kc6 Ka5 80. Qb5# 1-0
+

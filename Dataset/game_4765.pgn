@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "manneredmonkey"]
+[Black "alfredogto"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/jj9d0bJ0"]
+[WhiteTitle "NM"]
+[WhiteElo "2557"]
+[BlackElo "2548"]
+[ECO "A20"]
+[Opening "English Opening: King's English Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:52:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+38"]
+
+1. c4 e5 2. g3 Nc6 3. Bg2 Nf6 4. Nc3 Bb4 5. Nd5 Bc5 6. e3 d6 7. Ne2 a6 8. O-O
+Ba7 9. d3 O-O 10. h3 Nxd5 11. cxd5 Ne7 12. a3 f5 13. Qb3 Ng6 14. Bd2 Bb6 15.
+Rac1 a5 16. Qa2 Kh8 17. Kh2 f4 18. exf4 exf4 19. Nxf4 Nxf4 20. Bxf4 Bf5 21. Qc4
+Qf6 22. Rc2 Qg6 23. Rd2 Rae8 24. h4 Bg4 25. Be4 Qh5 26. f3 Bd7 27. Kh1 h6 28.
+Rh2 Qf7 29. h5 Qf6 30. Bd2 Bf5 31. Bc3 Qf7 32. g4 Bxe4 33. dxe4 Qf4 34. Qe2
+Rxe4 35. Qg2 Re7 36. g5 Ref7 37. gxh6 Qxh6 38. Rh3 Rf5 39. Qg4 Rg5 40. Qh4 Rgf5
+41. Kg2 R8f7 42. Kh1 Rxd5 43. f4 Rdf5 44. Bd2 Bd4 45. b4 axb4 46. axb4 Bf6 47.
+Qg4 Bd4 48. Rff3 c5 49. bxc5 dxc5 50. Rfg3 b5 51. Ra3 Rf8 52. Ra7 b4 53. Qg6
+R5f6 54. Qg4 Rf5 55. Qg6 R5f6 56. Qg4 Rb6 57. Rd3 b3 58. f5 Qf6 59. h6 gxh6 60.
+Bg5 Qxg5 61. Qxg5 hxg5 62. Rh3+ Kg8 63. Rhh7 b2 64. Rhd7 b1=Q+ 65. Kg2 Rb2+ 66.
+Kg3 Qd3+ 67. Kg4 Qe4+ 68. Kh5 Rh2+ 69. Kg6 Qxf5# 0-1
+

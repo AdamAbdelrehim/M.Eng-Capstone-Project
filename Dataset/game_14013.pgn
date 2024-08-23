@@ -1,0 +1,33 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/SY8CdqiX"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "luca_leonte"]
+[Black "MrLion3000"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/qjgaqp5E"]
+[BlackTitle "CM"]
+[WhiteElo "2373"]
+[BlackElo "2643"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:48:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. Nf3 d5 2. d4 Nf6 3. g3 Bf5 4. Bg2 e6 5. O-O h6 6. Nbd2 c6 7. Re1 Nbd7 8. c4
+Bh7 9. cxd5 exd5 10. e3 Bd6 11. e4 dxe4 12. Ne5 Nxe5 13. dxe5 Bxe5 14. Qb3 O-O
+15. Nxe4 Bxe4 16. Bxe4 Re8 17. Bg2 Bd4 18. Bf4 Qb6 19. Qf3 Qxb2 20. Rab1 Rxe1+
+21. Rxe1 Ng4 22. Rf1 Nxf2 23. Be3 Bxe3 24. Qxe3 Ng4 25. Qf4 Nf6 26. a4 Re8 27.
+g4 Qe5 28. Qb4 Qe7 29. Qc4 Qe6 30. Qb4 Qxg4 31. Qxb7 Re2 32. Rf2 Re1+ 33. Rf1
+Qd4+ 34. Kh1 Rxf1+ 35. Bxf1 Qd5+ 36. Kg1 Qd4+ 37. Kh1 Qf2 38. Qb8+ Kh7 39. Qb1+
+g6 40. Qd3 Kg7 41. Bg2 h5 42. h3 h4 43. Qc4 Qe1+ 44. Kh2 Qg3+ 45. Kg1 a5 46.
+Qxc6 Qg5 47. Qc3 Kh7 48. Kh2 Nh5 49. Qf3 Qf4+ 50. Kh1 Qxf3 51. Bxf3 Nf4 52. Kh2
+f6 53. Be4 f5 54. Bc6 Kg7 55. Bh1 Kf6 56. Bc6 g5 57. Bb5 Ke5 58. Kg1 Ne6 59.
+Kg2 Nd4 60. Bd3 Kf4 61. Bc2 g4 62. hxg4 fxg4 63. Bd1 h3+ 64. Kh2 Nf3+ 65. Kh1
+g3 66. Bxf3 Kxf3 67. Kg1 g2 68. Kh2 Kf2 69. Kxh3 g1=Q 70. Kh4 Qg6 71. Kh3 Qh5#
+0-1
+

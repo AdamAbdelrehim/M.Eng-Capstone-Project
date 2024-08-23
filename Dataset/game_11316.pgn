@@ -1,0 +1,28 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "magnusglad_bot"]
+[Black "simbelmyne-bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ympJBuDr"]
+[WhiteTitle "BOT"]
+[WhiteElo "2571"]
+[BlackElo "2386"]
+[ECO "C78"]
+[Opening "Ruy Lopez: Morphy Defense"]
+[TimeControl "1200+8"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:48:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. a4 Bg4 8. c3
+Be7 9. h3 Bh5 10. g4 Bg6 11. g5 Nxe4 12. Bd5 Na7 13. axb5 Nxg5 14. Nxg5 Bxg5
+15. Rxa6 c6 16. bxc6 O-O 17. Qf3 Nb5 18. Rxa8 Qxa8 19. d3 Be7 20. b4 Nc7 21. c4
+Qa2 22. b5 Nxd5 23. Qxd5 Qe2 24. Be3 Bf5 25. Qg2 Qxd3 26. Nd2 Bd8 27. Ra1 e4
+28. Ra8 Qe2 29. Rxd8 Rxd8 30. Qg5 Rf8 31. Qxf5 g6 32. Qxe4 Qh5 33. Kh2 Qe2 34.
+c7 h6 35. b6 Qh5 36. b7 Qf5 37. Qxf5 gxf5 38. Bxh6 d5 39. b8=Q Rxb8 40. cxb8=Q+
+Kh7 41. Qf8 dxc4 42. Qg7# 1-0
+

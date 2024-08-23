@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Partake"]
+[Black "domore"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/6pzKfOsw"]
+[WhiteElo "2599"]
+[BlackElo "2491"]
+[ECO "B92"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:11:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Be3
+Be6 9. Nd5 Bxd5 10. exd5 Nbd7 11. Qd3 O-O 12. g4 e4 13. Qd4 Nc5 14. g5 Nfd7 15.
+h4 Re8 16. O-O-O Nxb3+ 17. axb3 Qa5 18. Kb1 Rac8 19. h5 Bf8 20. Bg4 Rc7 21. g6
+f6 22. Be6+ Kh8 23. h6 gxh6 24. Bxh6 Bxh6 25. Rxh6 Ne5 26. Rdh1 Ree7 27. Qxe4
+Rg7 28. f4 Nxg6 29. Rxg6 Rxg6 30. Qxg6 Qe1+ 31. Rxe1 hxg6 32. Rg1 Kg7 33. Bf5
+g5 34. fxg5 fxg5 35. Rxg5+ Kf6 36. Rh5 Rg7 37. Be6 Rg1+ 38. Ka2 Rc1 39. c3 b5
+40. Rf5+ Ke7 41. Rf7+ Ke8 42. Ra7 b4 43. c4 a5 44. Rxa5 Kd8 45. Ra7 Ke8 46. Rd7
+Rd1 47. Rxd6 Rc1 48. Rd7 Rd1 49. Rb7 Rc1 50. d6 Kf8 51. Rb8+ Kg7 52. d7 Kh6 53.
+d8=Q Kg6 54. Bf5+ Kh5 55. Qh8+ Kg5 56. Qg7+ Kf4 57. Qh6+ Ke5 58. Qxc1 Kf6 59.
+Bc8 Ke7 60. Ba6 Kd6 61. Qd2+ Kc5 62. Qd5# 1-0
+

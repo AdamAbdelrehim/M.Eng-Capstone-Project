@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Hudson_Lowe"]
+[Black "simonmaster"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/1nMldIgY"]
+[WhiteElo "2545"]
+[BlackElo "2426"]
+[ECO "E12"]
+[Opening "Queen's Indian Defense: Kasparov-Petrosian Variation, Kasparov Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:01:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+
+1. d4 Nf6 2. c4 b6 3. Nf3 Bb7 4. a3 e6 5. Nc3 d5 6. cxd5 Nxd5 7. Qc2 c5 8. dxc5
+Bxc5 9. e4 Nxc3 10. Qxc3 O-O 11. Bd3 Nc6 12. O-O Nd4 13. Be3 Nxf3+ 14. gxf3 Rc8
+15. Qd2 Qh4 16. Bg5 Qh5 17. Qf4 0-1
+

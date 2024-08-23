@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "LabutinAa"]
+[Black "maroski99"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/6RXXVxNP"]
+[WhiteElo "2516"]
+[BlackElo "2563"]
+[ECO "C63"]
+[Opening "Ruy Lopez: Schliemann Defense, Jaenisch Gambit Accepted"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:04:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+19"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 f5 4. exf5 Nf6 5. d3 d6 6. O-O Be7 7. Nbd2 O-O 8.
+Ne4 Bxf5 9. Re1 Bg4 10. h3 Bxf3 11. Qxf3 Nd4 12. Bc4+ Kh8 13. Qe2 Nxe2+ 0-1
+

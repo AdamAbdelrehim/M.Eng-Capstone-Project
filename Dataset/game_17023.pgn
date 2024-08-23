@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "TheCableBox"]
+[Black "johndoe695"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/X0kEJqeR"]
+[WhiteTitle "FM"]
+[WhiteElo "2645"]
+[BlackElo "2550"]
+[ECO "A00"]
+[Opening "Amar Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:51:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. Nh3 d5 2. d4 c5 3. c4 cxd4 4. e3 e5 5. exd4 Nc6 6. cxd5 Qxd5 7. Nc3 Bb4 8.
+dxe5 Qxe5+ 9. Be2 Bxh3 10. gxh3 Rd8 11. Bd2 Nd4 12. Kf1 Ne7 13. Qa4+ Nec6 14.
+Re1 Bxc3 15. Bxc3 Kf8 16. Qa3+ Kg8 17. Rg1 Qd5 18. Rd1 h5 19. b4 Rh6 20. b5 Qf5
+21. bxc6 Qxh3+ 22. Rg2 Rg6 23. Rxd4 Qxg2+ 24. Ke1 Qh1+ 25. Kd2 Rxd4+ 26. Bxd4
+Qxc6 27. Bd3 Rd6 28. Be5 Rd5 29. Qe7 Qh6+ 30. f4 Qc6 31. Ke2 Qa4 32. Qg5 Qxa2+
+33. Ke3 Rxd3+ 34. Kxd3 Qd5+ 35. Ke3 f6 36. Bxf6 Qe6+ 37. Be5 Qf7 38. Qd8+ Kh7
+39. Qa8 b5 40. Qe4+ g6 41. Qa8 b4 42. Qh8# 1-0
+

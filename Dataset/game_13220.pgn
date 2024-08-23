@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "MarkusMaischberger"]
+[Black "Reverse_Kasparov"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/POkFR5Fc"]
+[WhiteElo "2528"]
+[BlackElo "2464"]
+[ECO "A00"]
+[Opening "Van Geet Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:11:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. Nc3 d5 2. e4 d4 3. Nce2 e5 4. Nf3 f6 5. Ng3 c5 6. Bc4 Nh6 7. Nh4 Nc6 8. d3
+Qe7 9. Bxh6 gxh6 10. Qh5+ Kd8 11. Nhf5 Qe8 12. Qh4 Qg6 13. O-O Qg5 14. Qh3 Ne7
+15. Rae1 Nxf5 16. exf5 Bd6 17. Ne4 Bxf5 18. Nxg5 Bxh3 19. Nxh3 Kc7 20. f4 1-0
+

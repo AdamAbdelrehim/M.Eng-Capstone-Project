@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ClumsyClick"]
+[Black "ViennaDragon"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/nRQeIIB7"]
+[WhiteElo "2440"]
+[BlackElo "2526"]
+[ECO "A48"]
+[Opening "London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:34:18"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. Nbd2 O-O 5. e3 d5 6. Bd3 c5 7. c3 cxd4 8.
+cxd4 b6 9. Qe2 a5 10. O-O Ba6 11. Rfc1 Bxd3 12. Qxd3 Na6 13. Ne5 Nh5 14. Nc6
+Qd7 15. Bg3 Nxg3 16. hxg3 Bf6 17. Nf3 Rfc8 18. Nce5 Bxe5 19. Nxe5 Qb7 20. Qb5
+Nb4 21. a3 Nc2 22. Rab1 Rc7 23. b4 Nxa3 24. Rxc7 Qxc7 25. Qxd5 Rf8 26. Rb3 axb4
+27. Rxb4 Qc1+ 28. Kh2 b5 29. Rb3 Nc4 30. Rxb5 Nd2 31. Nc6 Nf1+ 32. Kh3 Qe1 33.
+Nxe7+ Kg7 34. Qe5+ f6 35. Qf4 Nd2 36. g4 Qh1+ 37. Qh2 Qf1 38. Rb7 Rf7 39. Qf4
+Qh1+ 40. Qh2 Qf1 41. Qf4 Qa6 42. Rc7 Qe6 43. Nf5+ gxf5 44. Rxf7+ Qxf7 45. gxf5
+Qh5+ 46. Qh4 Qxh4+ 47. Kxh4 Ne4 48. Kg4 Nxf2+ 49. Kf4 Nd3+ 50. Ke4 Nf2+ 51. Kd5
+Ng4 52. e4 Nh6 53. e5 Nxf5 54. exf6+ Kxf6 55. Kc6 Nxd4+ 56. Kd5 Nf3 57. Ke4
+Ng5+ 58. Kf4 1-0
+

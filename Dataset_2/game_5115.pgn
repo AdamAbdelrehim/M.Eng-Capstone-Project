@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.05.22"]
+[Round "-"]
+[White "martinez168"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r2qkbnr/pp3ppp/2bpp3/8/3Q1P2/4PN2/PPP3PP/RNB1K2R w KQkq -"]
+[Timezone "UTC"]
+[ECO "A02"]
+[ECOUrl "https://www.chess.com/openings/Birds-Opening-1...c5-2.Nf3"]
+[UTCDate "2022.05.22"]
+[UTCTime "23:37:21"]
+[WhiteElo "1868"]
+[BlackElo "1759"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won - game abandoned"]
+[StartTime "23:37:21"]
+[EndDate "2022.05.22"]
+[EndTime "23:39:31"]
+[Link "https://www.chess.com/game/live/47001602405"]
+
+1. f4 { [%clk 0:09:58.5] } 1... c5 { [%clk 0:09:45] } 2. Nf3
+{ [%clk 0:09:55.8] } 2... d6 { [%clk 0:09:43.9] } 3. e3 { [%clk 0:09:53.3] }
+3... e6 { [%clk 0:09:42.7] } 4. d4 { [%clk 0:09:51.7] } 4... cxd4
+{ [%clk 0:09:41.1] } 5. Qxd4 { [%clk 0:09:50.2] } 5... Nc6 { [%clk 0:09:40.3] }
+6. Bb5 { [%clk 0:09:47.6] } 6... Bd7 { [%clk 0:09:38.2] } 7. Bxc6
+{ [%clk 0:09:46] } 7... Bxc6 { [%clk 0:09:26.9] } 0-1
+

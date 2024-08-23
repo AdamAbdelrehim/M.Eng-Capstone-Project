@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Hemoglobinski"]
+[Black "zombieblitz"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/1UPp5nmS"]
+[WhiteElo "2567"]
+[BlackElo "2487"]
+[ECO "C00"]
+[Opening "French Defense: La Bourdonnais Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:53:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. e4 e6 2. f4 d5 3. e5 f6 4. d4 Nc6 5. Nf3 Nge7 6. Bd3 Nf5 7. c3 h5 8. O-O Be7
+9. Na3 a6 10. Nc2 Na5 11. Ne3 Nxe3 12. Bg6+ Kf8 13. Bxe3 f5 14. Ng5 Bxg5 15.
+fxg5 Nc4 16. Bf4 Nxb2 17. Qe2 Nc4 18. Bxh5 c5 19. Bf3 Qc7 20. g4 g6 21. h4 Rxh4
+22. Kg2 Bd7 23. Rh1 Rxh1 24. Rxh1 Kg7 25. gxf5 gxf5 26. Qf2 Rh8 27. Rxh8 Kxh8
+28. Qh4+ Kg8 29. Qh6 Be8 30. Qxe6+ Bf7 31. Qxf5 cxd4 32. e6 Bxe6 33. Qxe6+ Qf7
+34. Qxf7+ 1-0
+

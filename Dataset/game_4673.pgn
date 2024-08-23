@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "stillman"]
+[Black "ich2"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/BQvAjOVj"]
+[BlackTitle "IM"]
+[WhiteElo "2363"]
+[BlackElo "2503"]
+[ECO "E94"]
+[Opening "King's Indian Defense: Orthodox Variation, Positional Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:38:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 e5 4. Nf3 Nbd7 5. e4 g6 6. Be2 Bg7 7. O-O O-O 8. Be3
+h6 9. h3 exd4 10. Nxd4 Re8 11. Qc2 Nc5 12. Bf3 a5 13. Rfe1 Nfd7 14. Ndb5 Ne5
+15. Be2 c6 16. Rad1 cxb5 17. Bxc5 Bxh3 18. Nxb5 Qg5 19. Bf1 Nf3+ 20. Kh1 Bxg2+
+21. Bxg2 Qh4+ 22. Bh3 Qxh3# 0-1
+

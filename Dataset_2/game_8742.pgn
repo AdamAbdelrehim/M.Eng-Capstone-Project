@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.30"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "DuncanClotfelter"]
+[Result "0-1"]
+[CurrentPosition "r3kb1r/ppp1pppp/8/7b/8/2NP1P1P/PP3P2/R1B2RK1 b kq -"]
+[Timezone "UTC"]
+[ECO "B02"]
+[ECOUrl "https://www.chess.com/openings/Alekhines-Defense-Scandinavian-Variation-3.exd5-Nxd5-4.Nf3"]
+[UTCDate "2023.04.30"]
+[UTCTime "01:34:42"]
+[WhiteElo "1881"]
+[BlackElo "1884"]
+[TimeControl "600"]
+[Termination "DuncanClotfelter won by resignation"]
+[StartTime "01:34:42"]
+[EndDate "2023.04.30"]
+[EndTime "01:36:10"]
+[Link "https://www.chess.com/game/live/76557590011"]
+
+1. e4 { [%clk 0:10:00] } 1... Nf6 { [%clk 0:10:00] } 2. Nc3
+{ [%clk 0:09:57.4] } 2... d5 { [%clk 0:09:59] } 3. exd5 { [%clk 0:09:56.3] }
+3... Nxd5 { [%clk 0:09:58.9] } 4. Nf3 { [%clk 0:09:55.3] } 4... Bg4
+{ [%clk 0:09:52.3] } 5. Be2 { [%clk 0:09:53.6] } 5... Nc6 { [%clk 0:09:43.7] }
+6. O-O { [%clk 0:09:51.9] } 6... Nf4 { [%clk 0:09:42.6] } 7. h3
+{ [%clk 0:09:47.3] } 7... Nxe2+ { [%clk 0:09:36.5] } 8. Qxe2
+{ [%clk 0:09:45.5] } 8... Bh5 { [%clk 0:09:35.2] } 9. d4 { [%clk 0:09:36.4] }
+9... Nxd4 { [%clk 0:09:27.4] } 10. Qd3 { [%clk 0:09:29.1] } 10... Nxf3+
+{ [%clk 0:09:21.2] } 11. gxf3 { [%clk 0:09:23.3] } 11... Qxd3
+{ [%clk 0:09:16.9] } 12. cxd3 { [%clk 0:09:23.2] } 0-1
+

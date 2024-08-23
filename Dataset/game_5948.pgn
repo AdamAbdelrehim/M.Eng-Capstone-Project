@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Al_Nouria"]
+[Black "DimaGrand"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/dBBTuWFA"]
+[WhiteElo "2678"]
+[BlackElo "2841"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:12:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+8"]
+
+1. e3 e5 2. c4 Nf6 3. Nc3 g6 4. Nge2 Bg7 5. b4 a5 6. b5 O-O 7. a4 c5 8. e4 d6
+9. d3 Be6 10. Ng3 Nbd7 11. Be2 Nb6 12. Nf1 Qd7 13. Ne3 Rae8 14. Bd2 Na8 15. Qc2
+b6 16. O-O-O Nc7 17. Rdf1 h5 18. Kb2 Kh7 19. Ned5 Bxd5 20. Nxd5 Ncxd5 21. exd5
+Ng4 22. Bxg4 hxg4 23. h3 Kg8 24. Qd1 f5 25. hxg4 fxg4 26. f3 gxf3 27. gxf3 Rf5
+28. Rhg1 Qf7 29. Rg3 Rf8 30. Rfg1 e4+ 31. Bc3 Bxc3+ 32. Kxc3 Rxf3 33. Rxg6+ Kh7
+34. Rg7+ Qxg7+ 35. Rxg7+ Kxg7 36. Qg1+ Kf6 37. Qh1 Rxd3+ 38. Kb2 Ke5 39. Qh5+
+Rf5 40. Qe8+ Kd4 41. Qh8+ Kxc4 42. Qe8 Re5 43. Qc6 Rdxd5 44. Qxb6 Rd2+ 45. Ka3
+e3 46. Qxa5 e2 47. Qxd2 e1=Q 48. Qc2+ Qc3+ 49. Qxc3+ Kxc3 50. b6 Re1 51. Ka2 d5
+52. b7 Re8 53. a5 d4 54. a6 d3 55. a7 d2 56. b8=Q d1=Q 57. a8=Q Re2+ 58. Ka3
+Qa1# 0-1
+

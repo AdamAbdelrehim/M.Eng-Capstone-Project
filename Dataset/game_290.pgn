@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sammartin1"]
+[Black "BobbaBooba"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/OI8DKHxS"]
+[WhiteTitle "NM"]
+[WhiteElo "2478"]
+[BlackElo "2513"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "01:47:47"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+10"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. Bc4 a6 5. a4 b6 6. h4 h6 7. h5 g5 8. f4 gxf4 9.
+Bxf4 Nf6 10. Nf3 c5 11. e5 Ng4 12. exd6 exd6 13. O-O O-O 14. dxc5 dxc5 15. Bd6
+Bd4+ 16. Nxd4 Qxd6 17. Nf5 Qh2# 0-1
+

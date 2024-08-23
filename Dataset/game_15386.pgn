@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "AlexD64"]
+[Black "GolfeDuMorbihan"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/I1KcO5h5"]
+[WhiteElo "2537"]
+[BlackElo "2637"]
+[ECO "B07"]
+[Opening "Pirc Defense: Sveshnikov System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:27:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. g3 Bg7 5. Bg2 O-O 6. Nge2 Nc6 7. O-O e5 8. dxe5
+dxe5 9. Qxd8 Nxd8 10. Bg5 c6 11. h3 Ne6 12. Be3 b5 13. a3 a5 14. Rfd1 Re8 15.
+Nc1 Nd4 16. Bxd4 exd4 17. Rxd4 Nd5 18. Rd3 Nxc3 19. bxc3 Be6 20. Nb3 Bc4 21.
+Re3 Bh6 22. f4 Bf8 23. Nd4 c5 24. Nb3 Red8 25. e5 Ra7 26. Rae1 a4 27. Nc1 Rad7
+28. Nd3 Bxd3 29. cxd3 Rxd3 30. Bc6 c4 31. Rxd3 cxd3 32. Bxb5 d2 33. Rd1 Bxa3
+34. Bxa4 Rd3 35. Kf2 Bc1 36. c4 Kf8 37. Bc6 Ke7 38. Bd5 f6 39. exf6+ Kxf6 40.
+Be4 Rc3 41. Bd5 Ke7 42. h4 Kd6 43. Bg8 h6 44. Bf7 Ke7 45. Bxg6 Rxc4 46. Bd3 Rc3
+47. Ke2 Kd6 48. g4 Kd5 49. g5 hxg5 50. hxg5 Kd4 51. Bf5 Re3+ 52. Kf2 Re8 53.
+Kf3 Re1 54. Bc2 Kc3 55. Ba4 Kb4 56. Bc2 Kc3 57. Ba4 Re6 58. f5 Re5 59. Kf4 Ra5
+60. Be8 Kc2 61. Bh5 Ra4+ 62. Ke5 Rh4 63. Bf3 Rh3 64. Bg4 Rg3 65. Rxd2+ Bxd2 66.
+f6 Rxg4 67. f7 Bb4 68. Kf6 Bf8 69. g6 Rg1 70. Kf5 Kc3 71. Ke6 Kd4 72. Kd7 Rxg6
+73. Ke8 Ba3 0-1
+

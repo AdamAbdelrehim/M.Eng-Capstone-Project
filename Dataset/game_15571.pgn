@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "nano33"]
+[Black "pbkttc"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/JeikpHVG"]
+[WhiteElo "2457"]
+[BlackElo "2524"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:58:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be6 7. N1c3 a6 8. Na3
+g6 9. Be2 Bg7 10. O-O Nf6 11. Nc2 O-O 12. Be3 Rc8 13. Nd5 Nxe4 0-1
+

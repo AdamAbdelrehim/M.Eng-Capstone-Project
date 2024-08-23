@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.06.05"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Mitu212"]
+[Result "1-0"]
+[CurrentPosition "rnbqkb1r/ppp2ppp/4pn2/6B1/3P4/2N2N2/PPP2PPP/R2QKB1R b KQkq -"]
+[Timezone "UTC"]
+[ECO "B01"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nc3-Qd8-4.Nf3"]
+[UTCDate "2021.06.05"]
+[UTCTime "04:35:01"]
+[WhiteElo "1430"]
+[BlackElo "1434"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won - game abandoned"]
+[StartTime "04:35:01"]
+[EndDate "2021.06.05"]
+[EndTime "04:39:04"]
+[Link "https://www.chess.com/game/live/16606547711"]
+
+1. e4 { [%clk 0:10:00] } 1... d5 { [%clk 0:09:57.4] } 2. exd5
+{ [%clk 0:09:51.7] } 2... Qxd5 { [%clk 0:09:55.7] } 3. Nc3 { [%clk 0:09:51.6] }
+3... Qd8 { [%clk 0:09:53.2] } 4. Nf3 { [%clk 0:09:48.5] } 4... Nf6
+{ [%clk 0:09:41.3] } 5. d4 { [%clk 0:09:45.3] } 5... e6 { [%clk 0:09:39.1] } 6.
+Bg5 { [%clk 0:09:43.9] } 1-0
+

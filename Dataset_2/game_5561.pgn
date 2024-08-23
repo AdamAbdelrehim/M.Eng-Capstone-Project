@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.02"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Atarax1s"]
+[Result "0-1"]
+[CurrentPosition "r4nR1/pp3kp1/2p1ppn1/5p2/8/1B1PB1P1/PPP1K1P1/8 w - -"]
+[Timezone "UTC"]
+[ECO "B10"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Two-Knights-Attack"]
+[UTCDate "2022.07.02"]
+[UTCTime "01:20:03"]
+[WhiteElo "1776"]
+[BlackElo "1789"]
+[TimeControl "600"]
+[Termination "Atarax1s won by resignation"]
+[StartTime "01:20:03"]
+[EndDate "2022.07.02"]
+[EndTime "01:29:26"]
+[Link "https://www.chess.com/game/live/50463588255"]
+
+1. e4 { [%clk 0:10:00] } 1... c6 { [%clk 0:09:58.3] } 2. Nf3
+{ [%clk 0:09:56.2] } 2... d5 { [%clk 0:09:55.8] } 3. Nc3 { [%clk 0:09:53.1] }
+3... dxe4 { [%clk 0:09:50.3] } 4. Nxe4 { [%clk 0:09:53] } 4... Bf5
+{ [%clk 0:09:49.7] } 5. Ng3 { [%clk 0:09:48.8] } 5... Bg6 { [%clk 0:09:49.2] }
+6. Bc4 { [%clk 0:09:45.2] } 6... Nf6 { [%clk 0:09:47.2] } 7. Ne5
+{ [%clk 0:09:39.9] } 7... e6 { [%clk 0:09:43.3] } 8. Nxg6 { [%clk 0:09:21] }
+8... hxg6 { [%clk 0:09:43.2] } 9. d3 { [%clk 0:09:17.1] } 9... Bd6
+{ [%clk 0:09:36.2] } 10. Bg5 { [%clk 0:09:15.1] } 10... Bxg3
+{ [%clk 0:09:21.9] } 11. fxg3 { [%clk 0:09:07.5] } 11... Qa5+
+{ [%clk 0:09:17.5] } 12. Qd2 { [%clk 0:08:59.3] } 12... Qe5+
+{ [%clk 0:09:10.2] } 13. Kf2 { [%clk 0:08:15.7] } 13... Ng4+
+{ [%clk 0:07:34.9] } 14. Kf3 { [%clk 0:08:08] } 14... Nxh2+
+{ [%clk 0:07:03.8] } 15. Kf2 { [%clk 0:07:56] } 15... Ng4+ { [%clk 0:06:58.9] }
+16. Kf3 { [%clk 0:07:53.1] } 16... Rxh1 { [%clk 0:06:33.2] } 17. Rxh1
+{ [%clk 0:07:53] } 17... Qf5+ { [%clk 0:06:19.5] } 18. Qf4 { [%clk 0:07:41.5] }
+18... Ne5+ { [%clk 0:06:09] } 19. Ke2 { [%clk 0:07:30.6] } 19... Nbd7
+{ [%clk 0:05:54.7] } 20. Rh8+ { [%clk 0:06:50.7] } 20... Nf8
+{ [%clk 0:05:51.5] } 21. Qxf5 { [%clk 0:06:13.2] } 21... gxf5
+{ [%clk 0:05:47.9] } 22. Bb3 { [%clk 0:05:55.9] } 22... Ng6 { [%clk 0:05:44] }
+23. Rg8 { [%clk 0:05:36.6] } 23... f6 { [%clk 0:05:41.8] } 24. Be3
+{ [%clk 0:05:28.7] } 24... Kf7 { [%clk 0:05:39.8] } 0-1
+

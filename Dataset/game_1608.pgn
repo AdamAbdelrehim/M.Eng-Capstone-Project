@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Mikheil_Kekelidze"]
+[Black "very_slow"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/eVkV4yKw"]
+[WhiteElo "2540"]
+[BlackElo "2500"]
+[ECO "B43"]
+[Opening "Sicilian Defense: Kan Variation, Wing Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:22:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 a6 4. d4 cxd4 5. Nxd4 b5 6. Bd3 Bb7 7. O-O Nc6 8.
+Nxc6 Bxc6 9. Qe2 Be7 10. f4 b4 11. Nd1 d5 12. Nf2 Nf6 13. e5 Nd7 14. f5 O-O 15.
+Ng4 Bg5 16. f6 Bxc1 17. Rb1 Bg5 18. Rbc1 Bxc1 19. Rxc1 gxf6 20. exf6 Nxf6 21.
+Ne5 Bb5 22. Rf1 Bxd3 23. cxd3 Qe7 24. Qe3 Nd7 25. Qg3+ Kh8 26. Nxd7 Qxd7 27.
+Rf6 Rg8 28. Qe5 Rg7 29. h4 Rag8 30. h5 Rxg2+ 31. Kh1 R8g7 32. h6 Rg1+ 33. Kh2
+R7g2+ 34. Kh3 Rg3+ 35. Kh2 Kg8 36. Rf2 Rg6 37. Qb8+ Qe8 38. Qxe8# 1-0
+

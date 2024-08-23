@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.11.12"]
+[Round "-"]
+[White "iamweirdoo"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1b2r1k/pp1B1pp1/7p/8/3b1q2/8/P1Q4P/1R1R3K b - -"]
+[Timezone "UTC"]
+[ECO "B21"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Smith-Morra-Gambit"]
+[UTCDate "2021.11.12"]
+[UTCTime "02:52:04"]
+[WhiteElo "1246"]
+[BlackElo "1179"]
+[TimeControl "60"]
+[Termination "iamweirdoo won on time"]
+[StartTime "02:52:04"]
+[EndDate "2021.11.12"]
+[EndTime "02:54:07"]
+[Link "https://www.chess.com/game/live/30424708869"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. d4 { [%clk 0:00:58.3] }
+2... d6 { [%clk 0:00:59.7] } 3. Nf3 { [%clk 0:00:56.3] } 3... cxd4
+{ [%clk 0:00:58.3] } 4. c3 { [%clk 0:00:55.8] } 4... dxc3 { [%clk 0:00:56.1] }
+5. Nxc3 { [%clk 0:00:55.7] } 5... Nf6 { [%clk 0:00:55.3] } 6. Bc4
+{ [%clk 0:00:55] } 6... e6 { [%clk 0:00:54.3] } 7. Bg5 { [%clk 0:00:54.2] }
+7... Be7 { [%clk 0:00:53.5] } 8. O-O { [%clk 0:00:53.2] } 8... O-O
+{ [%clk 0:00:53.1] } 9. Qc2 { [%clk 0:00:50.1] } 9... Nbd7 { [%clk 0:00:52.4] }
+10. Bd3 { [%clk 0:00:48.8] } 10... e5 { [%clk 0:00:40.4] } 11. Nd2
+{ [%clk 0:00:40.6] } 11... h6 { [%clk 0:00:39.3] } 12. Bh4 { [%clk 0:00:39.4] }
+12... Nxe4 { [%clk 0:00:33.2] } 13. Ndxe4 { [%clk 0:00:37.7] } 13... Bxh4
+{ [%clk 0:00:31.7] } 14. g3 { [%clk 0:00:34.5] } 14... Be7 { [%clk 0:00:30.2] }
+15. Ng5 { [%clk 0:00:26.1] } 15... Bxg5 { [%clk 0:00:27.2] } 16. Bh7+
+{ [%clk 0:00:24.5] } 16... Kh8 { [%clk 0:00:25.5] } 17. f4 { [%clk 0:00:23.3] }
+17... exf4 { [%clk 0:00:23.4] } 18. gxf4 { [%clk 0:00:19.6] } 18... Bf6
+{ [%clk 0:00:20.9] } 19. Kh1 { [%clk 0:00:17.9] } 19... Qb6
+{ [%clk 0:00:12.8] } 20. Ne4 { [%clk 0:00:16.5] } 20... Bxb2
+{ [%clk 0:00:09.1] } 21. Rab1 { [%clk 0:00:14.7] } 21... Qd4 { [%clk 0:00:06] }
+22. Nxd6 { [%clk 0:00:12.1] } 22... Qxd6 { [%clk 0:00:04.2] } 23. Rfd1
+{ [%clk 0:00:11.3] } 23... Qxf4 { [%clk 0:00:03.1] } 24. Bf5
+{ [%clk 0:00:10.1] } 24... Bd4 { [%clk 0:00:00.5] } 25. Bxd7
+{ [%clk 0:00:09.4] } 1-0
+

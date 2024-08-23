@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.07.05"]
+[Round "-"]
+[White "Krishna54742"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r1b1kb1r/ppp1p3/2n2p2/3p2qp/3P4/4P2P/PPP1B1P1/RN1Q1K1R w kq -"]
+[Timezone "UTC"]
+[ECO "D02"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Chigorin-Variation"]
+[UTCDate "2021.07.05"]
+[UTCTime "20:21:11"]
+[WhiteElo "1473"]
+[BlackElo "1495"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "20:21:11"]
+[EndDate "2021.07.05"]
+[EndTime "20:23:35"]
+[Link "https://www.chess.com/game/live/19255560913"]
+
+1. d4 { [%clk 0:09:57.7] } 1... d5 { [%clk 0:09:58.4] } 2. Nf3
+{ [%clk 0:09:55] } 2... Nc6 { [%clk 0:09:57] } 3. Bg5 { [%clk 0:09:53] } 3...
+Nf6 { [%clk 0:09:47.2] } 4. e3 { [%clk 0:09:50.3] } 4... Ne4
+{ [%clk 0:09:41.6] } 5. Bh4 { [%clk 0:09:49] } 5... f6 { [%clk 0:09:32.4] } 6.
+Be2 { [%clk 0:09:32.9] } 6... g5 { [%clk 0:09:30.4] } 7. Bg3
+{ [%clk 0:09:31.4] } 7... h5 { [%clk 0:09:27.2] } 8. h3 { [%clk 0:09:23] } 8...
+Nxg3 { [%clk 0:09:25.8] } 9. fxg3 { [%clk 0:09:21.8] } 9... Qd6
+{ [%clk 0:08:54.2] } 10. Nxg5 { [%clk 0:09:15.1] } 10... Qxg3+
+{ [%clk 0:08:49] } 11. Kf1 { [%clk 0:09:13.5] } 11... Qxg5 { [%clk 0:08:40.9] }
+0-1
+

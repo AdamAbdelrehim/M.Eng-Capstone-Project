@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ThomasASV"]
+[Black "cn_ua"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/UJ8nwHYN"]
+[BlackTitle "IM"]
+[WhiteElo "2591"]
+[BlackElo "2597"]
+[ECO "A59"]
+[Opening "Benko Gambit Accepted: King Walk Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:11:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. e4 Bxf1 8.
+Kxf1 d6 9. g3 Bg7 10. Kg2 O-O 11. Nf3 Nbd7 12. h3 Qa5 13. Re1 Rfb8 14. e5 dxe5
+15. Nxe5 Nxe5 16. Rxe5 Rb7 17. Qe2 Qd8 18. a4 Rba7 19. Ra3 Rd7 20. Bg5 h6 21.
+Bc1 Nxd5 22. Rxd5 Rxd5 23. Nxd5 Qxd5+ 24. Qf3 Qxf3+ 25. Kxf3 f5 26. a5 Ra6 27.
+Ra4 e5 28. b3 Kf7 29. Be3 e4+ 30. Ke2 Bf8 31. Kd2 Ke6 32. Kc3 Kd5 33. Ra2 Bg7+
+34. Kc2 g5 35. h4 Bf6 36. h5 Bd4 37. Kd2 Be5 38. Ke2 f4 39. gxf4 gxf4 40. Bd2
+c4 41. bxc4+ Kxc4 42. Ra4+ Kd5 43. Ra2 f3+ 44. Kd1 Bd4 45. Bxh6 Rxh6 46. a6 Ba7
+47. Ra5+ Kd4 48. Kd2 Rb6 49. Ra4+ Ke5 50. Kc2 Rc6+ 51. Kd2 Kf4 52. Ke1 Rc1+ 53.
+Kd2 Rh1 54. Ra5 Bxf2 55. a7 Bxa7 56. Rxa7 e3+ 57. Kd3 Rd1+ 58. Kc2 e2 59. Re7
+e1=Q 60. Rxe1 Rxe1 0-1
+

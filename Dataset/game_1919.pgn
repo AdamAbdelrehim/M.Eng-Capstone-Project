@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Lesoeru"]
+[Black "BonessaSagittova"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/XOmXAXIL"]
+[WhiteElo "2598"]
+[BlackElo "2519"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:17:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 Qxd5 4. Ne5 Qxe5+ 0-1
+

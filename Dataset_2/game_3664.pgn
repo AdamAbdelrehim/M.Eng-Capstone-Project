@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.02.18"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Timbuktu1"]
+[Result "1-0"]
+[CurrentPosition "r2qk1nr/p2pbQpp/b4p2/1pp5/4PB2/1BN5/PPP2PPP/R3K2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Hungarian-Defense-4.d4-exd4-5.Nxd4"]
+[UTCDate "2022.02.18"]
+[UTCTime "23:01:04"]
+[WhiteElo "1679"]
+[BlackElo "1693"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by checkmate"]
+[StartTime "23:01:04"]
+[EndDate "2022.02.18"]
+[EndTime "23:02:46"]
+[Link "https://www.chess.com/game/live/38964035235"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:58.9] } 2. Nf3
+{ [%clk 0:09:58.9] } 2... Nc6 { [%clk 0:09:57.5] } 3. Bc4 { [%clk 0:09:58.4] }
+3... Be7 { [%clk 0:09:56.1] } 4. d4 { [%clk 0:09:57.9] } 4... exd4
+{ [%clk 0:09:54.8] } 5. Nxd4 { [%clk 0:09:57.4] } 5... Nxd4
+{ [%clk 0:09:54.1] } 6. Qxd4 { [%clk 0:09:57] } 6... f6 { [%clk 0:09:33.7] } 7.
+Nc3 { [%clk 0:09:53.3] } 7... c6 { [%clk 0:09:30.2] } 8. Bf4
+{ [%clk 0:09:36.1] } 8... b5 { [%clk 0:09:24] } 9. Bb3 { [%clk 0:09:30.4] }
+9... c5 { [%clk 0:09:19.1] } 10. Qd5 { [%clk 0:09:23.7] } 10... Ba6
+{ [%clk 0:09:07.5] } 11. Qf7# { [%clk 0:09:16.5] } 1-0
+

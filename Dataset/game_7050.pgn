@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Alex_lucky"]
+[Black "MorozevichECU99"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/eNR8aTJG"]
+[WhiteTitle "IM"]
+[WhiteElo "2562"]
+[BlackElo "2408"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Berlin Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:08:32"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 c6 4. Bb3 d5 5. Nf3 Bd6 6. O-O O-O 7. Re1 Re8 8. Bg5
+dxe4 9. dxe4 h6 10. Bh4 g5 11. Bg3 Qe7 12. Nbd2 Bc7 13. Nc4 Nbd7 14. Nd4 Nc5
+15. Nf5 Bxf5 16. exf5 Rad8 17. Qe2 e4 18. Bxc7 Qxc7 19. Ne3 Qe5 20. c3 Nd3 21.
+Red1 Nf4 22. Qf1 1-0
+

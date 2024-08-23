@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.12.13"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "brandonpeate"]
+[Result "1-0"]
+[CurrentPosition "r1bqk1nr/pppp2pp/2nb1p2/8/3PP3/2N2N2/PPP2PPP/R1BQKB1R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C40"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Busch-Gass-Gambit-3.Nxe5"]
+[UTCDate "2022.12.13"]
+[UTCTime "18:22:50"]
+[WhiteElo "1770"]
+[BlackElo "594"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "18:22:50"]
+[EndDate "2022.12.13"]
+[EndTime "18:23:37"]
+[Link "https://www.chess.com/game/live/64694691372"]
+
+1. e4 { [%clk 0:09:59.1] } 1... e5 { [%clk 0:09:59.2] } 2. Nf3
+{ [%clk 0:09:58.4] } 2... Bc5 { [%clk 0:09:55.3] } 3. Nxe5 { [%clk 0:09:55.8] }
+3... f6 { [%clk 0:09:47] } 4. Nf3 { [%clk 0:09:50.7] } 4... Nc6
+{ [%clk 0:09:41.4] } 5. d4 { [%clk 0:09:47.3] } 5... Bd6 { [%clk 0:09:32.3] }
+6. Nc3 { [%clk 0:09:44.3] } 1-0
+

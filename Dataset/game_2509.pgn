@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "pbkttc"]
+[Black "MackWin"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/DxsObLvw"]
+[WhiteElo "2537"]
+[BlackElo "2475"]
+[ECO "D90"]
+[Opening "Grünfeld Defense: Three Knights Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:37:21"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. Nc3 d5 5. h4 h5 6. e3 a6 7. Qb3 dxc4 8. Bxc4
+O-O 9. Ng5 e6 10. a4 Nc6 11. a5 b5 12. axb6 cxb6 13. Be2 Bb7 14. O-O b5 15. Bf3
+Na5 16. Qa2 Bxf3 17. Nxf3 Nc4 18. b3 Nd6 19. Ba3 Qb6 20. Bc5 Qb8 21. Qa3 Rd8
+22. Rfc1 Nfe4 23. Nxe4 Nxe4 24. Bb4 e5 25. dxe5 Bxe5 26. Nxe5 Qxe5 27. Rd1 Qf6
+28. Be1 Qxh4 29. f3 Ng3 30. Qc5 Qh1+ 31. Kf2 h4 0-1
+

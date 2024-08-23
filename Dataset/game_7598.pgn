@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "dabee"]
+[Black "domore"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/3OoYcVLN"]
+[WhiteTitle "FM"]
+[WhiteElo "2547"]
+[BlackElo "2477"]
+[ECO "D01"]
+[Opening "Rapport-Jobava System, with e6"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:31:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 d5 2. Nc3 e6 3. Bf4 Bd6 4. Bg3 Nf6 5. Nf3 O-O 6. e3 a6 7. Bd3 b5 8. O-O
+Bb7 9. Ne2 Ne4 10. a4 b4 11. Bxd6 Qxd6 12. a5 c5 13. Qe1 Nf6 14. dxc5 Qxc5 15.
+Ned4 Nc6 16. Nxc6 Bxc6 17. Qe2 Bb5 18. Bxb5 axb5 19. Nd4 Rfc8 20. Rfc1 Qc4 21.
+b3 Qxe2 22. Nxe2 Ra7 23. c3 bxc3 24. Rxc3 Rca8 25. b4 Ne4 26. Rc6 Kf8 27. Rb6
+Ke7 28. Rxb5 Rc8 29. f3 Nd6 30. Rc5 Rxc5 31. bxc5 Nc4 32. Nd4 Kd7 33. c6+ Kc8
+34. a6 Nxe3 35. Nb5 Ra8 36. a7 Nc4 37. f4 g6 38. Kf2 h6 39. g4 g5 40. fxg5 hxg5
+41. Ke2 Ne5 42. c7 Nxg4 43. Rc1 Ne5 44. Nd6+ Kd7 45. c8=Q+ Rxc8 46. Nxc8 Nc6
+47. a8=Q Ne5 48. Qb7+ Kd8 49. Qe7# 1-0
+

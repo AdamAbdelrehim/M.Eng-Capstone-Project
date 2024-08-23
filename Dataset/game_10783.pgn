@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Aggressive-Python"]
+[Black "bancsoo"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/2bC3rT2T"]
+[BlackTitle "GM"]
+[WhiteElo "2778"]
+[BlackElo "2803"]
+[ECO "D10"]
+[Opening "Slav Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:31:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+5"]
+
+1. d4 d5 2. c4 c6 3. cxd5 cxd5 4. Bf4 Nf6 5. e3 Nc6 6. Bd3 Bg4 7. f3 Bh5 8. Qb3
+Qd7 9. Nc3 e6 10. Rc1 Rc8 11. Na4 Bg6 12. Bb5 Be7 13. Nc5 Bxc5 14. Rxc5 O-O 15.
+Ne2 a6 16. Bxc6 Rxc6 17. Rxc6 Qxc6 18. Kd2 Rc8 19. Rc1 Qd7 20. Rxc8+ Qxc8 21.
+Qc3 Qd7 22. Qc5 h6 23. Nc3 h5 24. h4 Bf5 25. b3 Kh7 26. Na4 Ng8 27. Bd6 Bg6 28.
+Nb6 Qd8 29. g3 Qf6 30. Bf4 Qf5 31. Qc1 Qd3+ 32. Ke1 Ne7 33. Na4 Nf5 34. Nc5 Qb5
+35. Qc3 b6 36. Na4 Ne7 37. Nb2 a5 38. a4 Qd7 39. Nd3 Nc6 40. Ne5 Nxe5 41. Bxe5
+f6 42. Bf4 Qe7 43. Bc7 Qa3 44. Bxb6 Qa2 45. Bxa5 Qb1+ 46. Kd2 Qa2+ 47. Kd1 Qf2
+48. f4 Qxg3 49. Bb6 Qxh4 50. a5 Qg4+ 51. Kc1 h4 52. a6 h3 53. Qe1 Qg2 54. a7
+Qc2# 0-1
+

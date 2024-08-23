@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Giri_Anish18"]
+[Black "Sadzin"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/3dCeHAqu"]
+[WhiteTitle "FM"]
+[WhiteElo "2539"]
+[BlackElo "2523"]
+[ECO "E62"]
+[Opening "King's Indian Defense: Fianchetto Variation, Larsen Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:25:47"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+
+1. Nf3 d6 2. d4 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. c4 c6 7. Nc3 Bf5 8. Nh4
+Be6 9. d5 cxd5 10. Nxd5 Bd7 11. Nxf6+ Bxf6 12. Bxb7 Bxh4 13. Bxa8 Bf6 14. Bh6
+Nc6 15. Bxc6 Bxc6 16. Bxf8 Qxf8 17. Qd2 Qc8 18. f3 h5 19. c5 dxc5 20. Rac1 h4
+21. Rfd1 Bd4+ 22. e3 Bxf3 23. exd4 hxg3 24. hxg3 Qh3 25. Qh2 Qg4 26. Qh4 Qe6
+27. Re1 Qd6 28. Rxe7 1-0
+

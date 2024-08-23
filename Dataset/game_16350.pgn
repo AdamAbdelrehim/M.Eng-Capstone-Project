@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "JFDRR"]
+[Black "AM0R_FATI"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/FsAAe8B2"]
+[WhiteElo "2671"]
+[BlackElo "2619"]
+[ECO "A88"]
+[Opening "Dutch Defense: Leningrad Variation, Warsaw Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "01:11:17"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 f5 2. c4 Nf6 3. Nf3 g6 4. g3 Bg7 5. Bg2 O-O 6. O-O d6 7. Nc3 c6 8. d5 e5
+9. dxe6 Bxe6 10. Qd3 h6 11. Bf4 d5 12. cxd5 Nxd5 13. Nxd5 Qxd5 14. Qc2 Qc4 15.
+Rfc1 Qxc2 16. Rxc2 Na6 17. Be5 Rad8 18. Bxg7 Kxg7 19. a3 Bd5 20. Nd4 Bxg2 21.
+Ne6+ Kf6 22. Nxd8 Be4 23. Rd2 Nc5 24. Rad1 Bd5 25. Rxd5 cxd5 26. Rxd5 b6 27.
+Nc6 a5 28. Rd6+ Kf7 29. Ne5+ Ke7 30. Rxb6 1-0
+

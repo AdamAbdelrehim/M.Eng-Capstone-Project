@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Toivonen_Alexander"]
+[Black "matamancos2"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/uyAvX7t6"]
+[WhiteElo "2441"]
+[BlackElo "2555"]
+[ECO "A57"]
+[Opening "Benko Gambit Declined: Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "03:58:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nf3 g6 5. d6 Bg7 6. Nc3 b4 7. Nb5 O-O 8. Nc7
+exd6 9. Nxa8 Bb7 10. Qxd6 Bxa8 11. Qxc5 Nc6 12. g3 Ne4 13. Qb5 Nd4 14. Nxd4
+Bxd4 15. e3 Bc3+ 16. bxc3 Qf6 17. Bd3 Qxf2+ 18. Kd1 Nxc3# 0-1
+

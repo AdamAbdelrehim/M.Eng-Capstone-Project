@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Lemech-2"]
+[Black "amrils"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/CjfEo3Xb"]
+[WhiteElo "2437"]
+[BlackElo "2528"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:51:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 g6 2. e4 Bg7 3. h4 c5 4. d5 d6 5. h5 e5 6. dxe6 Bxe6 7. h6 Bf6 8. Nc3 Ne7
+9. Nb5 Nc8 10. Nf3 a6 11. Nc3 Nc6 12. Nd5 Bxd5 13. exd5 N6e7 14. a4 O-O 15. a5
+Re8 16. Be2 b5 17. axb6 Nxb6 18. c4 Nf5 19. Kf1 Nd4 20. Bd3 a5 21. g3 a4 22.
+Kg2 Ra7 23. Nd2 Rae7 24. Ra3 Qd7 25. b3 axb3 26. Nxb3 Ne2 27. Ra6 Na4 28. Bxe2
+Rxe2 29. Ra8 Nc3 30. Rxe8+ Qxe8 31. Qd3 Qe4+ 32. Qxe4 Rxe4 33. Na5 g5 34. Nb7
+Be7 35. Rh5 f6 36. Na5 Re2 37. Kf3 Rc2 38. Be3 Kf7 39. Nc6 Nd1 40. Na5 Ra2 41.
+Nc6 Ra4 42. Rh1 Nxe3 43. fxe3 Rxc4 44. Ra1 g4+ 45. Ke2 f5 46. Ra7 Re4 47. Kd3
+Kf6 48. Rd7 c4+ 49. Kd2 Bf8 50. Rxh7 Kg6 51. Rd7 Bxh6 52. Ne7+ Kf6 53. Ng8+ Kg5
+54. Nxh6 Kxh6 55. Rxd6+ Kg5 56. Rc6 Re5 57. d6 Kf6 58. Kc3 Rxe3+ 59. Kxc4 Ke6
+60. d7+ Kxd7 61. Rf6 Rf3 62. Kd5 Ke7 63. Re6+ Kf7 64. Re5 Kf6 65. Re6+ Kg5 66.
+Re8 Rd3+ 67. Kc4 Rxg3 0-1
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "HaubtorstenCarreau"]
+[Black "eugmind"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/WkCVqpe0"]
+[WhiteElo "2456"]
+[BlackElo "2505"]
+[ECO "C25"]
+[Opening "Vienna Game: Paulsen Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:23:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 Nge7 6. Nh3 d6 7. Be3 f5 8. Qd2
+h6 9. O-O Be6 10. Nd5 Qd7 11. Kh1 fxe4 12. dxe4 Bxh3 13. Bxh3 Qxh3 14. Nxc7+
+Kd7 15. Nxa8 Rxa8 16. Bc5 Qe6 17. Rad1 Nd4 18. Bxd6 Qxd6 19. c3 Ke8 20. f4 Qc6
+21. cxd4 Qxe4+ 22. Kg1 Qxd4+ 23. Qxd4 exd4 24. Rfe1 Kf7 25. Rc1 Nd5 26. Kf2 Rd8
+27. Ke2 Rd7 28. a3 Ne3 29. Kd3 Ng4 30. Re2 h5 31. Rec2 Ke6 32. Re1+ Kd6 33. Re8
+Bf6 34. Rg8 Bg7 35. Rcc8 Nf2+ 36. Ke2 Ne4 37. Rcd8 Rxd8 38. Rxd8+ Kc5 39. Rg8
+Bf6 40. Rxg6 Kc4 41. b3+ Kc3 42. Kd1 d3 0-1
+

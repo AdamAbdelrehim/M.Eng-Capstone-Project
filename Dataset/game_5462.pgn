@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "GhostStrikes"]
+[Black "Kassimov_Arnur"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/H7c5Pvmh"]
+[WhiteElo "2609"]
+[BlackElo "2552"]
+[ECO "B76"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:10:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "-48"]
+[BlackRatingDiff "+14"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. Nxc6 bxc6 11. Bh6 Bxh6 12. Qxh6 e5 13. exd5 cxd5 14. Qg5
+Qe7 15. h4 d4 16. Ne4 Nd5 17. Bc4 f6 18. Bxd5+ Kh8 19. Qh6 Rb8 20. h5 g5 21.
+Rhe1 Bf5 22. Ng3 Bxc2 23. Kxc2 Qc5+ 24. Kb1 Qxd5 25. Nf5 Rf7 26. f4 Qxg2 27.
+fxg5 Qxb2# 0-1
+

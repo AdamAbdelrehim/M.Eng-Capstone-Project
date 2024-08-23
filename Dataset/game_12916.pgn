@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "JFDRR"]
+[Black "tidjane"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/5eu4d8r2"]
+[WhiteElo "2688"]
+[BlackElo "2549"]
+[ECO "E81"]
+[Opening "King's Indian Defense: Sämisch Variation, Normal Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:31:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f3 d6 6. Be3 c6 7. Qd2 a6 8. Bd3 b5
+9. b3 e5 10. d5 cxd5 11. Nxd5 Nxd5 12. cxd5 f5 13. Ne2 fxe4 14. Bxe4 Nd7 15.
+O-O Nf6 16. Ng3 Bd7 17. Rac1 Rc8 18. Rxc8 Qxc8 19. Rc1 Qc7 20. Rxc7 1-0
+

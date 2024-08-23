@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "ShramovIgor"]
+[Black "art-tabar"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/mFhMFJDt"]
+[WhiteElo "2552"]
+[BlackElo "2507"]
+[ECO "B07"]
+[Opening "Czech Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:19:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 c6 4. f4 Qa5 5. Bd3 e5 6. Ne2 Be7 7. O-O Bg4 8. Be3
+Nbd7 9. h3 Bxe2 10. Nxe2 O-O 11. c3 Rfe8 12. g4 exd4 13. cxd4 d5 14. e5 Ne4 15.
+Qc2 c5 16. Bxe4 dxe4 17. d5 c4 18. d6 Bd8 19. Qxc4 Bb6 20. Qxe4 Nf6 21. Qf3 Nd5
+22. Bf2 Rad8 23. a3 Bxf2+ 24. Rxf2 Nb6 25. b4 Qa6 26. Nc3 Qc4 27. Rc1 h6 28.
+Qxb7 Rd7 29. Qe4 Qb3 30. Nb5 Qxh3 31. Qf3 Qh4 32. Nc7 Rc8 33. Kg2 Qd8 34. Rh1
+Rcxc7 35. dxc7 Qxc7 36. g5 hxg5 37. Qh5 Kf8 38. Qh8+ Ke7 39. Qxg7 gxf4 40. Qf6+
+Ke8 41. Rh8# 1-0
+

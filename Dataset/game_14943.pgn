@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "santyaga2020"]
+[Black "KingChessT007"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/uRfx0Vg6"]
+[WhiteElo "2508"]
+[BlackElo "2561"]
+[ECO "A05"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:26:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. d3 d6 5. e4 O-O 6. O-O e5 7. c3 Ne8 8. Nbd2
+f5 9. d4 Nc6 10. dxe5 dxe5 11. Nc4 Be6 12. Qe2 f4 13. Ng5 Qxg5 14. Kh1 Qf6 15.
+f3 Nd6 0-1
+

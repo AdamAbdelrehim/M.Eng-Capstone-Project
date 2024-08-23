@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "L2CH"]
+[Black "AManCalledDonalP"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/v9TEgdFw"]
+[WhiteElo "2484"]
+[BlackElo "2522"]
+[ECO "A80"]
+[Opening "Dutch Defense: Hopton Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:11:22"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "-1"]
+
+1. d4 f5 2. Bg5 g6 3. Nc3 Nh6 4. h4 Nf7 5. Bf4 d6 6. Nf3 Bg7 7. h5 Nc6 8. d5 e5
+9. dxe6 Bxe6 10. hxg6 hxg6 11. Rxh8+ Bxh8 12. Qd2 Qf6 13. e3 O-O-O 14. O-O-O g5
+15. Bg3 Nfe5 16. Nd4 Bf7 17. f3 Bg7 18. Bb5 Rh8 19. Kb1 Nxd4 20. exd4 Nc6 21.
+Bxc6 bxc6 22. Qe2 Kb7 23. Bf2 Qe6 24. Qd3 Rh2 25. Rg1 g4 26. fxg4 fxg4 27. d5
+cxd5 28. Qb5+ Kc8 29. Re1 Be5 30. Qa6+ Kd7 31. Qxa7 d4 32. Nb5 Qxa2+ 33. Qxa2
+Bxa2+ 34. Kxa2 c5 35. Rg1 g3 36. Be1 Kc6 37. Na3 Kd5 38. b3 Ke4 39. Nc4 Bf4 40.
+Bd2 Bxd2 41. Nxd2+ Ke3 42. Nf3 Rh6 43. Rd1 d5 44. Kb2 Rf6 45. Rd3+ Kf2 46. Rd2+
+Ke3 47. Kc1 Rxf3 48. gxf3 Kxf3 49. Rd1 g2 50. Kd2 Kf2 51. Re1 g1=Q 52. Re2+ Kf3
+53. Kd3 Qe3+ 54. Rxe3+ dxe3 55. c4 e2 56. cxd5 e1=Q 57. Kc4 Qe7 58. Kb5 Qd6 59.
+Kc4 Ke4 60. b4 Qxd5+ 61. Kb5 cxb4+ 62. Kxb4 Kd4 63. Ka3 Qc5+ 64. Kb2 Qc4 65.
+Kb1 Qb5+ 66. Kc2 1/2-1/2
+

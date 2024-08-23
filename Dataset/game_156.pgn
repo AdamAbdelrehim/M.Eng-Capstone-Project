@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "wernertucrossholanda"]
+[Black "TheRealHamdanYelpi"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/dxkKkfDF"]
+[WhiteElo "2485"]
+[BlackElo "2566"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "01:03:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+4"]
+
+1. e4 c5 2. c3 Nc6 3. d4 cxd4 4. cxd4 d5 5. exd5 Qxd5 6. Nf3 e6 7. Nc3 Bb4 8.
+a3 Bxc3+ 9. bxc3 Nge7 10. Be3 O-O 11. Bd3 b6 12. Qc2 f5 13. c4 Qd6 14. c5 bxc5
+15. dxc5 Qc7 16. Bc4 Kh8 17. O-O h6 18. Rfe1 e5 19. Rad1 f4 20. Bc1 Bf5 21. Qc3
+e4 22. Nd4 Nxd4 23. Qxd4 f3 24. Bb2 Ng6 25. Qd6 Qb7 26. Bd5 Qxb2 27. Bxa8 fxg2
+28. Rd2 Qxa3 29. Bxe4 Bxe4 30. Rxe4 Rf6 31. Re8+ Kh7 32. Qd3 Qa4 33. Re4 Qc6
+34. Rg4 h5 35. Rxg2 Kh6 36. Qe3+ Nf4 37. Rd4 Qxg2# 0-1
+

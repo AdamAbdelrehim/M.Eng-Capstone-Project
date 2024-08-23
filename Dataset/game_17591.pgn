@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "GelioChess"]
+[Black "bacherikov"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/zdoB2bh5"]
+[WhiteTitle "FM"]
+[WhiteElo "2750"]
+[BlackElo "2659"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:23:15"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-25"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nd2 e6 5. Nb3 Qc7 6. Be3 Nd7 7. h4 h5 8. Be2 f6
+9. Bxh5+ g6 10. Be2 fxe5 11. g4 exd4 12. Nxd4 e5 13. gxf5 exd4 14. Bxd4 Ngf6
+15. fxg6 O-O-O 16. Nf3 Re8 17. Ng5 Rg8 18. h5 Ne4 19. Nxe4 Rxe4 20. Be3 d4 21.
+Qd3 Nc5 22. Qc4 dxe3 23. Qxg8 exf2+ 24. Kf1 Rf4 25. Rd1 a6 26. Rh4 Ne4 27. Qe6+
+Kb8 28. Qxe4 Rxe4 29. Rxe4 Qg3 30. Rg4 Qh3+ 31. Kxf2 Bc5+ 32. Ke1 Be3 33. Rd8+
+Kc7 34. Rf8 Qh1+ 35. Rf1 Qd5 36. Rf7+ 1-0
+

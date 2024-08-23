@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.07.04"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Marcus8279"]
+[Result "0-1"]
+[CurrentPosition "r1bqk1nr/pp1p1pp1/3p3p/8/2n1P3/5N2/PPP2PPP/RN1QK2R w KQkq -"]
+[Timezone "UTC"]
+[ECO "C40"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation"]
+[UTCDate "2021.07.04"]
+[UTCTime "22:26:58"]
+[WhiteElo "1499"]
+[BlackElo "1636"]
+[TimeControl "600"]
+[Termination "Marcus8279 won by resignation"]
+[StartTime "22:26:58"]
+[EndDate "2021.07.04"]
+[EndTime "22:27:52"]
+[Link "https://www.chess.com/game/live/19176415659"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:59.6] } 2. Nf3
+{ [%clk 0:09:59.2] } 2... Bd6 { [%clk 0:09:57.5] } 3. Bc4 { [%clk 0:09:57.9] }
+3... h6 { [%clk 0:09:55.9] } 4. d4 { [%clk 0:09:49.4] } 4... Nc6
+{ [%clk 0:09:52.8] } 5. dxe5 { [%clk 0:09:44.5] } 5... Nxe5
+{ [%clk 0:09:51.2] } 6. Bf4 { [%clk 0:09:38.5] } 6... Nxc4 { [%clk 0:09:48.7] }
+7. Bxd6 { [%clk 0:09:35] } 7... cxd6 { [%clk 0:09:47.2] } 0-1
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "vivaldi2006"]
+[Black "Gyalog75"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/MHAmvt8o"]
+[WhiteElo "2482"]
+[BlackElo "2654"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:28:25"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Bd3 Bd6 7. Nf3 O-O
+8. O-O Re8 9. h3 Nd7 10. c4 Nf8 11. Qc2 Ng6 12. Bd2 Be6 13. Rfe1 Qd7 14. Rad1
+Bxh3 15. gxh3 Qxh3 16. Bxg6 hxg6 17. Qc3 g5 18. Ne5 Qxc3 19. Bxc3 fxe5 20. dxe5
+Bf8 21. Rd7 Re7 22. Red1 Rae8 23. Kg2 Kh7 24. Kf3 Kg6 25. R7d6+ Re6 26. Rd7 b5
+27. cxb5 cxb5 28. Rxa7 Bc5 29. Rc7 Bb6 30. Rcd7 Bc5 31. R1d5 b4 32. Rxc5 bxc3
+33. Rxc3 Rxe5 34. Rd2 f5 35. b4 g4+ 36. Kg2 Kg5 37. a4 Re2 38. Rxe2 Rxe2 39. b5
+Rb2 40. Rc5 g6 41. a5 Kh4 42. a6 f4 43. a7 f3+ 44. Kg1 Rb1+ 45. Kh2 Ra1 46. b6
+Ra2 47. b7 Rxf2+ 48. Kg1 Rg2+ 49. Kf1 Kg3 50. b8=Q+ Kh3 51. a8=Q Rg1+ 52. Kxg1
+f2+ 53. Kf1 g3 54. Qh8+ Kg4 55. Qh3+ Kxh3 56. Qb8 Kg4 0-1
+

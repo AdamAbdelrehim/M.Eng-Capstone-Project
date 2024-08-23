@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "blerimi"]
+[Black "FIDE-Trainer1984"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/kADlSxXc"]
+[WhiteElo "2417"]
+[BlackElo "2514"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:19:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c3 e6 5. Be3 Nd7 6. f4 c5 7. Nf3 cxd4 8. cxd4
+Ne7 9. Nc3 Nc6 10. Bd3 Bxd3 11. Qxd3 h5 12. O-O Ne7 13. g3 Nf5 14. Bf2 Bb4 15.
+Kg2 Rc8 16. Nxd5 Nb8 17. Nxb4 1-0
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "GalimovaTS"]
+[Black "DonkinDonat"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Q8AEfG6W"]
+[WhiteElo "2497"]
+[BlackElo "2673"]
+[ECO "A43"]
+[Opening "Benoni Defense: Old Benoni"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:40:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. d4 c5 2. c3 Nf6 3. Nf3 b6 4. g3 Bb7 5. Bg2 d6 6. O-O Nbd7 7. b3 e6 8. Bb2
+Be7 9. c4 cxd4 10. Qxd4 O-O 11. Nc3 a6 12. Rfd1 Qc7 13. Rac1 Rac8 14. Ng5 Bxg2
+15. Kxg2 Qb7+ 16. Kg1 Rfd8 17. Nge4 Nxe4 18. Nxe4 Nf6 19. Nxf6+ Bxf6 20. Qd2
+Bxb2 21. Qxb2 b5 22. Qa3 bxc4 23. Rxd6 cxb3 24. Rxc8 Rxc8 25. axb3 h5 26. Rd1
+h4 27. gxh4 Qe4 28. Qxa6 Rc2 29. Rd8+ Kh7 30. Qd3 Rc1+ 0-1
+

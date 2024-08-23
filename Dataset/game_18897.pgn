@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Hoon_Bot"]
+[Black "yobot_v2"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/GwVQiHnW"]
+[WhiteTitle "BOT"]
+[WhiteElo "2879"]
+[BlackElo "3019"]
+[ECO "A00"]
+[Opening "Barnes Opening: Hammerschlag"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:58:47"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. f3 e5 2. Kf2 d5 3. e3 f5 4. d4 e4 5. c4 Bd6 6. Nh3 exf3 7. Qxf3 Nf6 8. Kg1
+O-O 9. Nc3 dxc4 10. Bxc4+ Kh8 11. Nb5 Nbd7 12. Nxd6 cxd6 13. Nf4 Nb6 14. Bb3 g5
+15. Ne2 a5 16. a4 Bd7 17. Nc3 Qe7 18. Bd2 Rac8 19. Rf1 Nc4 20. Bxc4 Rxc4 21. e4
+Rxd4 22. Bxg5 Qg7 23. h4 Ng4 24. Rh3 Kg8 25. Qe2 Be6 26. Rf4 Bc4 27. Qe1 Qe5
+28. Rg3 h5 29. Nd1 Bd5 30. Ne3 Bxe4 31. Rf1 Rxa4 32. Nxg4 hxg4 33. Qf2 Bc6 34.
+Re1 Qd5 35. Bd2 Re8 36. Rxe8+ Bxe8 37. Ra3 Re4 38. Re3 Bc6 39. Rxe4 Qxe4 40.
+Bf4 b5 41. Bxd6 b4 42. Qd2 Kh7 43. Kf1 Bd5 44. Kg1 a4 45. Kh2 Bc6 46. Kg3 a3
+47. bxa3 bxa3 48. h5 a2 49. Qxa2 Qd3+ 50. Kh4 Qxd6 51. Qf7+ Kh8 52. Qxf5 Bd7
+53. Qf7 Qh2+ 54. Kg5 Qe5+ 55. Kh4 Qg7 56. Qf4 Qe7+ 57. Kg3 Qe1+ 58. Kh2 Qh4+
+59. Kg1 Qe7 60. Qf2 Kg8 61. Qg3 Qc5+ 62. Kf1 Bb5+ 63. Ke1 Qc1+ 64. Kf2 Qc5+ 65.
+Ke1 Qc1+ 66. Kf2 Qf1+ 67. Ke3 Qd3+ 68. Kf4 Qxg3+ 0-1
+

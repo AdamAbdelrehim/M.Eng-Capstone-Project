@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "odonata-bot"]
+[Black "ChessatronBot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/zDGXBBFm"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2636"]
+[BlackElo "2442"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "23:34:17"]
+[Termination "Normal"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 cxd4 7. Nxd4 Bc5 8. Be3
+Nc6 9. Qd2 Nxd4 10. Bxd4 O-O 11. O-O-O Bxd4 12. Qxd4 f6 13. Nxd5 fxe5 14. fxe5
+Qg5+ 15. Ne3 Rf4 16. Qd2 Nxe5 17. Nc4 Nxc4 18. Bxc4 h6 19. Qd8+ Qxd8 20. Rxd8+
+Rf8 21. Rhd1 a5 22. b3 Rxd8 23. Rxd8+ Kf7 24. Bb5 Ke7 25. Rg8 g5 26. Rh8 Kd6
+27. Rxh6 b6 28. Rh7 Ba6 29. Bxa6 Rxa6 30. Rg7 a4 31. Rxg5 Ke7 32. Kd2 axb3 33.
+axb3 Ra1 34. Re5 Kf6 35. Re1 Ra8 36. Rf1+ Ke5 37. Rf2 Ke4 38. Re2+ Kf5 39. Rf2+
+Ke4 40. Re2+ Kd5 41. Ke3 Rg8 42. Rd2+ Ke5 43. c4 Ra8 44. h4 Rh8 45. Rd4 Kf6 46.
+Rf4+ Ke7 47. Ke4 Kd6 48. b4 Rc8 49. Ke3 Rh8 50. Rg4 Ke5 51. Re4+ Kf6 52. Rf4+
+Ke7 53. Kd4 Rd8+ 54. Ke4 Rd2 55. g4 Re2+ 56. Kf3 Rb2 57. b5 Rb3+ 58. Ke4 Kd6
+59. h5 Rc3 60. g5 Rxc4+ 61. Kf3 Rc3+ 62. Kg4 e5 63. Rf6+ Kd5 64. Rc6 Rb3 65. g6
+Rb1 66. Kg5 Rg1+ 67. Kh6 Ra1 68. g7 Ra8 69. Rxb6 Kc5 70. Rc6+ Kxb5 71. Re6 Kc4
+72. Rxe5 Kd3 73. Kg6 Ra4 74. g8=Q Ra6+ 75. Kg5 Rd6 76. Qb3+ Kd2 77. Qe3+ Kc2
+78. Rc5+ Kb2 79. Qc3+ Ka2 80. Ra5+ Kb1 81. Ra1# 1-0
+

@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "bob_2004"]
+[Black "Gaius_Baltar"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/2fkIjglU"]
+[WhiteTitle "FM"]
+[WhiteElo "2724"]
+[BlackElo "2814"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:03:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 b5 6. e4 d6 7. Bd2 a6 8. a4 bxc4
+9. Bxc4 Nbd7 10. Nge2 Ne5 11. Ba2 Nd3+ 1/2-1/2
+

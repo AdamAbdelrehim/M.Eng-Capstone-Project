@@ -1,0 +1,38 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ChessatronBot"]
+[Black "admete_bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/S1iQsAyJ"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2519"]
+[BlackElo "2455"]
+[ECO "B56"]
+[Opening "Sicilian Defense: Classical Variation"]
+[TimeControl "900+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "01:14:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bb5 Bd7 7. Be3 e5 8.
+Nf3 Be7 9. Qd2 a6 10. Be2 h6 11. O-O-O O-O 12. h3 Rc8 13. Nh2 Na5 14. Ng4 Nxg4
+15. hxg4 Nc4 16. Bxc4 Rxc4 17. f3 Be6 18. Nd5 Bxd5 19. Qxd5 Qc7 20. c3 Rxc3+
+21. bxc3 Qxc3+ 22. Kb1 Qxe3 23. Qxb7 Rd8 24. Rd5 Bg5 25. Rhd1 Qc3 26. Qb2 Qc7
+27. R5d3 Rb8 28. Rb3 Rxb3 29. Qxb3 a5 30. a4 g6 31. Qc2 Qb6+ 32. Ka2 Kg7 33.
+Rb1 Qa7 34. Qd3 Qc7 35. Rb5 Bh4 36. Qe2 Qc3 37. Rd5 Be1 38. Kb1 Kh7 39. Qc2
+Qb4+ 40. Qb2 Qxa4 41. Rxd6 Bf2 42. Rd3 Bd4 43. Qa2 Qb4+ 44. Qb3 Qe7 45. Ka2 Kg7
+46. Rd2 Qh4 47. Rc2 Qe1 48. Qb1 Qe3 49. Qf1 g5 50. Qb5 Qg1 51. Qb1 Qe3 52. Qf1
+Kg8 53. Qb5 Qg1 54. Qb1 Qe3 55. Rc8+ Kg7 56. Qb8 Qf2+ 57. Ka3 Qd2 58. Qb3 Be3
+59. Rc6 Qd4 60. Qc3 Bc1+ 61. Kb3 Qd1+ 62. Qc2 Qf1 63. Ka4 Be3 64. Rc7 Qa1+ 65.
+Kb5 Qd4 66. Qc3 Qxc3 67. Rxc3 Bd2 68. Rc5 f6 69. Kc4 Kg6 70. Rc8 Bb4 71. Kd5 h5
+72. Ke6 hxg4 73. fxg4 Kg7 74. Rc7+ Kg6 75. Ra7 Be1 76. Rf7 Bd2 77. Rxf6+ Kg7
+78. Rf7+ Kg6 79. Ra7 Bc3 80. Ra6 Kg7 81. Kf5 Bd2 82. Kxe5 Kf7 83. Kf5 Kf8 84.
+e5 Ke7 85. Ra7+ Kd8 86. e6 Ke8 87. Kf6 Bc3+ 88. Kxg5 Bb4 89. Kf5 Bc5 90. Rxa5
+Bb6 91. Ra8+ Ke7 92. g5 Be3 93. g6 Bh6 94. Ra7+ Kd6 95. e7 Be3 96. e8=Q Bxa7
+97. g7 Kc5 98. g8=Q Kb4 99. Qe4+ Kc5 100. Qgd5+ Kb6 101. Qc6+ Ka5 102. Qe1# 1-0
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "rdm89"]
+[Black "LeonidSmirnov"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/o5C2xPLk"]
+[WhiteTitle "FM"]
+[WhiteElo "2627"]
+[BlackElo "2452"]
+[ECO "C25"]
+[Opening "Vienna Gambit, with Max Lange Defense: Knight Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:53:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 Nf6 5. d4 d5 6. e5 Nh5 7. Bb5 Bb4 8. O-O
+Bxc3 9. bxc3 O-O 10. Rb1 g6 11. Qe1 Bf5 12. Qf2 Qe7 13. Bd3 Bxd3 14. cxd3 Nd8
+15. g4 Ng7 16. Bxf4 c6 17. Bg5 Qd7 18. h3 Nde6 19. Bh6 Rfe8 20. Qh4 b5 21. Qf6
+Qe7 22. Nd2 Rec8 23. Qxe7 1-0
+

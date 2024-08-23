@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "RaspFish"]
+[Black "YoBot_v2"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/yQmBxVC0"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2985"]
+[BlackElo "3016"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:22:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "+0"]
+
+1. d4 Nf6 2. Bf4 d5 3. Nf3 c5 4. e3 Nc6 5. Nbd2 e6 6. c3 cxd4 7. exd4 Nh5 8.
+Be3 Bd6 9. Bd3 Nf4 10. Bxf4 Bxf4 11. O-O O-O 12. Re1 g6 13. g3 Bh6 14. a4 Qc7
+15. Bf1 Bd7 16. Nb3 Rad8 17. h4 Bg7 18. h5 Bc8 19. hxg6 hxg6 20. Bb5 Rfe8 21.
+a5 e5 22. Bxc6 bxc6 23. Nxe5 Bxe5 24. dxe5 Rxe5 25. Rxe5 Qxe5 26. Qe1 Qg5 27.
+Qe3 Qxe3 28. fxe3 Re8 29. Kf2 Kg7 30. Rh1 Re4 31. Ra1 Kf6 32. Nc5 Rc4 33. Na4
+Re4 34. Nc5 Rc4 35. Na4 Re4 36. Nc5 1/2-1/2
+

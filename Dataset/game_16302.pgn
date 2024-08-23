@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "BulletCoach"]
+[Black "vogelj"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/9KpDavFs"]
+[WhiteElo "2525"]
+[BlackElo "2472"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:54:58"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nf3
+Nh6 9. Bxh6 Rxh6 10. c4 dxc4 11. Qxc4 Nd7 12. Nc3 Nb6 13. Qd3 Nd5 14. g3 Qa5
+15. O-O Rg6 16. a3 Rg4 17. b4 Qb6 18. Nxd5 cxd5 19. Rfc1 g6 20. Ra2 a5 21. b5
+a4 22. Rac2 Kd7 23. Rc3 Bd8 24. Qe3 g5 25. hxg5 h4 26. Nxh4 Bxg5 27. Qf3 Bxc1
+28. Qxf7+ Kd8 29. Rxc1 Qxd4 30. Qf8+ Kd7 31. Qxa8 Rxg3+ 32. Ng2 Rxg2+ 33. Kxg2
+Qe4+ 34. Kg1 Qg6+ 35. Kf1 Qd3+ 36. Ke1 Qe4+ 37. Kf1 Qd3+ 38. Kg2 Qe4+ 39. f3
+Qe2+ 40. Kg3 Qxe5+ 41. Kh3 Qf5+ 42. Kg2 Qg5+ 43. Kf2 Qd2+ 44. Kg3 Qg5+ 45. Kh2
+Qh5+ 46. Kg1 Qg5+ 47. Kf1 Qxc1+ 48. Kg2 1-0
+

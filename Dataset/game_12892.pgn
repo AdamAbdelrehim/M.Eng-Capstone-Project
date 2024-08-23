@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "GhostStrikes"]
+[Black "Narutoratilla"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/RckkzULd"]
+[WhiteElo "2523"]
+[BlackElo "2570"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:28:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-8"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. O-O Nc6 7. Be3 Qb6 8. Nc3
+Qxb2 9. Qe1 cxd4 10. Bxd4 Nxd4 11. Nxd4 Bb4 12. Ndb5 Rc8 13. Rb1 Bxc3 14. Rxb2
+Bxe1 15. Rxe1 Rxc2 16. Nd6+ Kd7 17. Rxb7+ Rc7 18. Bb5+ Kd8 19. Rb8+ Ke7 20.
+Re8# 1-0
+

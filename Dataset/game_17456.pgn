@@ -1,0 +1,29 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "magnusglad_bot"]
+[Black "Hoon_Bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/9hs18xhW"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2797"]
+[BlackElo "2886"]
+[ECO "C00"]
+[Opening "Rat Defense: Small Center Defense"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "06:44:50"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-1"]
+
+1. e4 e6 2. d4 d6 3. Bd3 e5 4. c3 g6 5. Nf3 Bg7 6. O-O Nc6 7. Bc4 Nf6 8. dxe5
+Nxe5 9. Nxe5 dxe5 10. Qxd8+ Kxd8 11. Bxf7 Nxe4 12. f3 Nd6 13. Bg5+ Kd7 14. Bb3
+a5 15. a4 h6 16. Bh4 g5 17. Bf2 Ke7 18. Re1 Be6 19. Bxe6 Kxe6 20. Re2 Rhe8 21.
+Nd2 b6 22. Rae1 Rab8 23. b3 Kf7 24. h4 gxh4 25. Bxh4 b5 26. Ne4 bxa4 27. bxa4
+Rb3 28. Rd1 Bf8 29. Nf6 Re6 30. Nd7 Ra3 31. Bg3 Nf5 32. Bxe5 Bd6 33. g4 Nh4 34.
+Kf2 Ng6 35. Rd5 Ke7 36. Bxd6+ cxd6 37. Rxe6+ Kxe6 38. Nb6 Ne5 39. Rxa5 Rxc3 40.
+Ke2 Rc2+ 41. Kd1 Rf2 42. Ra8 Rxf3 43. Kc2 Nxg4 44. a5 Ne5 1/2-1/2
+

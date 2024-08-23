@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "BulletCoach"]
+[Black "manneredmonkey"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/oDBNgcd2"]
+[BlackTitle "NM"]
+[WhiteElo "2521"]
+[BlackElo "2585"]
+[ECO "B07"]
+[Opening "Pirc Defense: Kholmov System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:45:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bc4 Bg7 5. Qe2 O-O 6. e5 Nfd7 7. e6 Nb6 8.
+exf7+ Kh8 9. h4 Nxc4 10. h5 Bf5 11. Qxc4 Nc6 12. Be3 e5 13. O-O-O Qe7 14. h6
+Bf6 15. Nf3 Qxf7 16. Qxf7 Rxf7 17. Nd5 Bd8 18. Ng5 Rd7 19. dxe5 Nxe5 20. f4 Nf7
+21. Bd4+ Kg8 22. Nf6+ Bxf6 23. Bxf6 Nxg5 24. fxg5 Re8 25. Rde1 Rxe1+ 26. Rxe1
+Kf7 27. c4 c6 28. Kd2 d5 29. c5 Be4 30. g3 b6 31. Bd4 bxc5 32. Bxc5 Ke6 33. Rf1
+a5 34. Ke3 Bf5 35. g4 Bxg4 36. Rf6+ Ke5 37. Bd4# 1-0
+

@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Hoon_Bot"]
+[Black "magnusglad_bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/rOwGSidE"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2891"]
+[BlackElo "2790"]
+[ECO "B20"]
+[Opening "Sicilian Defense: King David's Opening"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "03:04:32"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 c5 2. Ke2 Nc6 3. Nf3 Nf6 4. Nc3 g6 5. g3 d5 6. exd5 Nxd5 7. Bg2 Bf5 8.
+Nxd5 Qxd5 9. Re1 Bg7 10. Kf1 Qd7 11. d3 O-O 12. Kg1 Rad8 13. Qe2 Rfe8 14. a3 b6
+15. Rb1 Nd4 16. Nxd4 cxd4 17. Bf4 Rc8 18. Rbc1 Rc5 19. h4 h5 20. Qf3 e5 21. Bd2
+Rec8 22. c4 dxc3 23. Bxc3 Kh7 24. Qd1 Bg4 25. Qb3 Be6 26. Qd1 Bd5 27. Be4 f5
+28. Bg2 Bxg2 29. Kxg2 Rd5 30. Qe2 Rcc5 31. Rcd1 Rc7 32. Qf1 Qd8 33. Re3 e4 34.
+Bxg7 Kxg7 35. Qe2 Rcd7 36. d4 Qf6 37. Rc3 Rxd4 38. Rxd4 Qxd4 39. Qb5 Qd5 40.
+Qxd5 Rxd5 41. Rc7+ Kf6 42. b4 f4 43. gxf4 Rd2 44. Kf1 Kf5 45. Rxa7 Ra2 46. Kg2
+Kxf4 47. Rf7+ Kg4 48. Rf6 e3 49. Rxg6+ Kf5 50. Rg5+ Ke4 51. Kf1 Rxf2+ 52. Ke1
+Ra2 53. Rg6 1-0
+

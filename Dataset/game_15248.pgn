@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Pastukhov_Nicolay"]
+[Black "aleksej1"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/wvMrKLS1"]
+[WhiteElo "2533"]
+[BlackElo "2443"]
+[ECO "E73"]
+[Opening "King's Indian Defense: Averbakh Variation, Flexible Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:09:21"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 h6 7. Be3 e5 8. d5 c5
+9. g4 a6 10. a4 b6 11. h4 Ne8 12. h5 g5 13. a5 b5 14. cxb5 axb5 15. Bxb5 Rxa5
+16. f3 Qb6 17. Rxa5 Qxa5 18. Ne2 Nc7 19. Qa4 Qb6 20. Kf2 Nxb5 21. Qxb5 Qc7 22.
+Ra1 Bd7 23. Qa5 Qc8 24. Qb6 f5 25. gxf5 Bxf5 26. exf5 Qxf5 27. Ng1 Nd7 28. Qxd6
+Qc2+ 29. Kg3 Nf6 30. Ra7 Nxh5+ 31. Kh3 g4+ 32. fxg4 Qd3 33. Rxg7+ Nxg7 34. Qxh6
+Qf1+ 35. Kg3 e4 36. Nxe4 Qe1+ 37. Nf2 Qxg1+ 38. Kh3 Rxf2 39. Bxf2 Qh1+ 40. Kg3
+Qxh6 41. Bxc5 Qf6 42. d6 Qe5+ 43. Kh4 Qxc5 44. d7 Qd6 45. d8=Q+ Qxd8+ 46. Kh3
+Qd3+ 47. Kh4 Qb3 48. g5 Qxb2 49. Kg4 Qe5 50. Kf3 Qf5+ 51. Kg2 Qxg5+ 52. Kf1
+Qf5+ 53. Ke2 Qe4+ 54. Kd2 Qf3 55. Kc2 Nf5 56. Kc1 Nd4 57. Kd2 Kf7 58. Kc1 Ke6
+59. Kb2 Kd5 60. Kb1 Kc4 61. Ka1 Qf2 62. Kb1 Kc3 0-1
+

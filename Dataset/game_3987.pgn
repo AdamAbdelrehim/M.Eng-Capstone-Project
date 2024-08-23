@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "gloriavictis101"]
+[Black "ChessValkyrie"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/o59S4xah"]
+[WhiteElo "2387"]
+[BlackElo "2542"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Lasker-Dunne Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:04:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. e4 c5 2. g3 d5 3. exd5 Qxd5 4. Qf3 Qxf3 5. Nxf3 Nc6 6. Nc3 Bd7 7. d3 O-O-O
+8. Be3 e6 9. O-O-O Nf6 10. h3 h6 11. Bg2 Be7 12. d4 cxd4 13. Nxd4 Nxd4 14. Bxd4
+b6 15. Be5 Be8 16. a4 Rxd1+ 17. Rxd1 Bc5 18. f4 h5 19. Nb5 Bxb5 20. axb5 Nd7
+21. Bb7+ 1-0
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "HattrickWinner"]
+[Black "Improperio"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/yPXCzWfi"]
+[WhiteElo "2498"]
+[BlackElo "2632"]
+[ECO "E11"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:04:17"]
+[Termination "Normal"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 Nc6 6. Bg2 Bxd2+ 7. Nbxd2 O-O
+8. O-O d6 9. e4 e5 10. d5 Nb8 11. b4 a5 12. a3 Na6 13. Qb3 Bg4 14. Rac1 c6 15.
+dxc6 bxc6 16. h3 Bd7 17. Rfd1 axb4 18. axb4 c5 19. b5 Nb4 20. Ra1 Be6 21. Ne1
+Nd7 22. Nd3 Nxd3 23. Qxd3 Nb6 24. f4 f6 25. f5 Bf7 26. g4 Qc7 27. h4 h6 28. Bf1
+Rfd8 29. Qc3 Qb7 30. Rxa8 Qxa8 31. Ra1 Qb7 32. Ra6 Kf8 33. Qa3 Rb8 34. Bd3 g6
+35. Ra7 Qc8 36. Kf2 h5 37. gxh5 gxf5 38. exf5 d5 39. cxd5 Bxd5 40. Ne4 Qxf5+
+41. Ke1 Nd7 42. Nxc5 Qf4 43. Ne6+ 1-0
+

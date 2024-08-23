@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Kirillq2"]
+[Black "alextihoretsk"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Rxi0Txzg"]
+[WhiteElo "2532"]
+[BlackElo "2348"]
+[ECO "B00"]
+[Opening "Pirc Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:59:50"]
+[Termination "Normal"]
+
+1. e4 d6 2. c3 Nf6 3. Nf3 g6 4. d4 Nxe4 5. d5 Nf6 6. Bg5 Bg7 7. Nbd2 O-O 8. Qe2
+e5 9. Ne4 Nbd7 10. g3 Qe8 11. Bh3 Nxe4 12. Qxe4 h6 13. Be3 f5 14. Qd3 e4 15.
+Qd4 exf3 0-1
+

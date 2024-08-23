@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "pukemon"]
+[Black "Chess_Antistress"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/6XWEXmIo"]
+[WhiteElo "2453"]
+[BlackElo "2545"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:03:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+4"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 c6 4. Bg2 Bg4 5. Ne5 Bh5 6. c4 e6 7. Nc3 Nbd7 8. Qb3
+Qb6 9. Nxd7 Nxd7 10. O-O Nf6 11. Bf4 Be7 12. c5 Qa6 13. e4 dxe4 14. Nxe4 Nxe4
+15. Bxe4 O-O 16. Bd3 b5 17. Rfe1 Qb7 18. a4 a6 19. Qb4 a5 20. Qd2 b4 21. Be5
+Rad8 22. Qf4 Bg6 23. Bc4 Rd7 24. h4 Rfd8 25. Qf3 Bc2 26. b3 h6 27. Qg4 Bf8 28.
+Bf6 Bf5 0-1
+

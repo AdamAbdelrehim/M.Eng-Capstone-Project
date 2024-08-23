@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "RTG_R"]
+[Black "Adrian_DelaCruz"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/d0u4zhFS"]
+[WhiteElo "2553"]
+[BlackElo "2597"]
+[ECO "B28"]
+[Opening "Sicilian Defense: O'Kelly Variation, Réti System"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:20:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. e4 c5 2. Nf3 a6 3. g3 g6 4. c3 d5 5. exd5 Qxd5 6. Bg2 Qe4+ 7. Qe2 Qxe2+ 8.
+Kxe2 Nc6 9. d3 Nf6 10. Be3 e5 11. Nbd2 Bf5 12. Nc4 e4 13. dxe4 Bxe4 14. Bg5 Nd7
+15. Rhe1 f5 16. Kf1 Kf7 17. Rad1 Nf6 18. Nfe5+ Nxe5 19. Nxe5+ Ke6 20. Nc4 h6
+21. Bxf6 Kxf6 22. Bxe4 fxe4 23. Rxe4 Be7 24. Rd7 Rhe8 25. Nb6 Bf8 26. Rf4+ Ke5
+27. Nxa8 1-0
+

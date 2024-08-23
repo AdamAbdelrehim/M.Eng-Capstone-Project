@@ -1,0 +1,24 @@
+[Event "Blitz swiss https://lichess.org/swiss/G6sgTtbn"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "hamidebh001"]
+[Black "Murat_Chess9"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/AIJbqvkT"]
+[WhiteTitle "FM"]
+[WhiteElo "2740"]
+[BlackElo "2310"]
+[ECO "D08"]
+[Opening "Queen's Gambit Declined: Albin Countergambit, Normal Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:21:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "+0"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. a3 f6 6. exf6 Nxf6 7. b4 Bg4 8. Bb2
+Qe7 9. b5 Bxf3 10. gxf3 Ne5 11. Bg2 O-O-O 12. O-O Nxc4 13. Bxd4 Qf7 14. e3 Bb4
+15. axb4 1-0
+

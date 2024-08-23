@@ -1,0 +1,43 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.07.17"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "kasimeo"]
+[Result "0-1"]
+[CurrentPosition "r4rk1/3P1ppp/4p3/8/2P2B2/1P4Nb/P4PqP/R2R2K1 w - -"]
+[Timezone "UTC"]
+[ECO "B02"]
+[ECOUrl "https://www.chess.com/openings/Alekhines-Defense-Scandinavian-Variation-3.exd5"]
+[UTCDate "2021.07.17"]
+[UTCTime "03:44:08"]
+[WhiteElo "1448"]
+[BlackElo "1473"]
+[TimeControl "600"]
+[Termination "kasimeo won by checkmate"]
+[StartTime "03:44:08"]
+[EndDate "2021.07.17"]
+[EndTime "03:55:07"]
+[Link "https://www.chess.com/game/live/20232559187"]
+
+1. e4 { [%clk 0:10:00] } 1... d5 { [%clk 0:09:58.9] } 2. exd5
+{ [%clk 0:09:56.7] } 2... Nf6 { [%clk 0:09:55.1] } 3. Nc3 { [%clk 0:09:51.8] }
+3... Bf5 { [%clk 0:09:45.7] } 4. Bb5+ { [%clk 0:09:42.1] } 4... c6
+{ [%clk 0:09:35.4] } 5. dxc6 { [%clk 0:09:38.7] } 5... Nxc6
+{ [%clk 0:09:34.6] } 6. Qf3 { [%clk 0:09:33] } 6... Bd7 { [%clk 0:09:28.7] } 7.
+Nge2 { [%clk 0:09:04.7] } 7... a6 { [%clk 0:09:27] } 8. Ba4
+{ [%clk 0:08:59.2] } 8... e6 { [%clk 0:09:19.1] } 9. d3 { [%clk 0:08:39.8] }
+9... Qb6 { [%clk 0:09:11.9] } 10. O-O { [%clk 0:08:26.6] } 10... Be7
+{ [%clk 0:09:07.3] } 11. b3 { [%clk 0:08:03.2] } 11... O-O { [%clk 0:09:02.4] }
+12. Be3 { [%clk 0:08:00.5] } 12... Qc7 { [%clk 0:08:50] } 13. Bg5
+{ [%clk 0:07:40] } 13... b5 { [%clk 0:08:47.1] } 14. Nxb5 { [%clk 0:07:27.5] }
+14... axb5 { [%clk 0:08:41.7] } 15. Bxb5 { [%clk 0:07:26] } 15... Ne5
+{ [%clk 0:08:20] } 16. Qg3 { [%clk 0:06:45.9] } 16... Bxb5 { [%clk 0:08:06.8] }
+17. Bf4 { [%clk 0:06:23.6] } 17... Bd6 { [%clk 0:05:57.3] } 18. c4
+{ [%clk 0:06:17] } 18... Bc6 { [%clk 0:04:53.3] } 19. d4 { [%clk 0:06:04] }
+19... Nh5 { [%clk 0:04:41.4] } 20. dxe5 { [%clk 0:05:35.2] } 20... Nxg3
+{ [%clk 0:04:37.9] } 21. exd6 { [%clk 0:05:30] } 21... Qb7 { [%clk 0:04:30.8] }
+22. Nxg3 { [%clk 0:05:26.6] } 22... Bxg2 { [%clk 0:04:06.1] } 23. Rfd1
+{ [%clk 0:05:22.5] } 23... Bh3 { [%clk 0:04:03.5] } 24. d7 { [%clk 0:05:14.5] }
+24... Qg2# { [%clk 0:03:59.1] } 0-1
+

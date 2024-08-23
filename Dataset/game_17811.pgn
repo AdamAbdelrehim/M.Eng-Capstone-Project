@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "raf1310"]
+[Black "GuilleRosario"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/pYCHHL8V"]
+[WhiteElo "2703"]
+[BlackElo "2510"]
+[ECO "D45"]
+[Opening "Semi-Slav Defense: Stoltz Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:04:02"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 b6 7. Bd3 Bb7 8. O-O
+Bd6 9. Rd1 Rc8 10. e4 dxe4 11. Nxe4 Nxe4 12. Bxe4 Qc7 13. Be3 Nf6 14. c5 Bf4
+15. Bxf4 Qxf4 16. Bd3 O-O 17. Ne5 Rfd8 18. g3 Qh6 19. Bf1 Nd7 20. Nc4 Ba6 21.
+Nd6 Bxf1 22. Rxf1 Rb8 23. b3 bxc5 24. dxc5 Qg5 25. Ne4 Qe5 26. Rac1 Nf6 27. Nd6
+Qh5 28. Kg2 Qd5+ 29. Kg1 Qh5 30. Kg2 Ng4 31. h3 Qd5+ 32. Qe4 Ne5 33. Qxd5 exd5
+34. Rc2 Nd7 35. Nf5 Kf8 36. Nd4 Rbc8 37. Rfc1 Ne5 38. b4 Nd3 39. Rb1 Rd7 40. a4
+Rb7 41. b5 cxb5 42. c6 Rb6 43. axb5 a6 44. Rc3 Ne5 45. c7 axb5 46. Rc5 Nc4 47.
+Rbxb5 Rxb5 48. Nxb5 Nb6 49. Na7 Ra8 50. c8=Q+ Nxc8 51. Rxc8+ Rxc8 52. Nxc8 Ke8
+53. Nb6 Ke7 54. Nxd5+ Kd6 55. Ne3 Ke5 56. g4 Ke4 57. h4 Kf4 58. Kh3 f5 59. Ng2+
+Kf3 60. g5 Kxf2 61. h5 Kf3 62. Nh4+ Kf4 63. g6 Kg5 64. gxh7 f4 65. h8=Q Kf6 66.
+Qxg7+ Kxg7 67. Kg4 Kh6 68. Kf3 Kg5 69. h6 Kh5 70. h7 Kxh4 71. h8=Q+ Kg5 72.
+Qg7+ Kf5 0-1
+

@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "alfredogto"]
+[Black "MarioVillanueva"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ODcVRPmB"]
+[BlackTitle "IM"]
+[WhiteElo "2639"]
+[BlackElo "2650"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:16:41"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+5"]
+
+1. d4 d5 2. Nf3 Bf5 3. Bf4 e6 4. e3 Bd6 5. Bg3 Ne7 6. Nbd2 O-O 7. Bd3 c5 8. Qe2
+Nbc6 9. c3 c4 10. Bxf5 exf5 11. O-O b5 12. a3 Bxg3 13. hxg3 Qd6 14. Nh2 a5 15.
+f4 b4 16. axb4 axb4 17. g4 Rfe8 18. Qf2 fxg4 19. Nxg4 Nf5 20. Ne5 bxc3 21. bxc3
+Rxa1 22. Rxa1 f6 23. Nxc6 Qxc6 24. Nf1 Qe6 25. Re1 Qe4 26. Ng3 Nxg3 27. Qxg3 h5
+28. Qf3 Qxf3 29. gxf3 Rb8 30. Rc1 Rb2 31. e4 Kf7 32. exd5 Ke7 33. Ra1 Kd6 34.
+Ra5 Rc2 35. Rc5 Rxc3 36. Kf2 g5 37. fxg5 fxg5 38. Ke2 h4 39. Kd2 Rxf3 40. Rxc4
+h3 41. Rc1 h2 42. Rh1 Rh3 43. Ke2 g4 44. Kf2 Kxd5 45. Kg2 Ke4 46. d5 Rd3 47.
+Rxh2 Kf4 48. Rh8 Rd2+ 49. Kf1 Kg3 50. Rd8 Kf3 51. Rf8+ Ke4 52. Rg8 Kf3 53. Rf8+
+Ke4 54. Re8+ Kf4 55. Rf8+ Kg5 56. Rg8+ Kh4 57. Rh8+ Kg3 58. Rd8 Rd4 59. d6 Ra4
+60. d7 Ra7 61. Ke2 Kg2 62. Ke3 g3 63. Ke2 Ra2+ 64. Ke1 Ra1+ 65. Ke2 Ra7 66. Ke3
+Kg1 67. Kf3 g2 68. Re8 Ra3+ 69. Kg4 Kh2 70. Rh8+ Rh3 71. d8=Q g1=Q+ 0-1
+

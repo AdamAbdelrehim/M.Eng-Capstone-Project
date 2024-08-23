@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Train_account"]
+[Black "Oleg946"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/otccG0gG"]
+[WhiteElo "2588"]
+[BlackElo "2575"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:33:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. e3 Bd6 5. Bg3 O-O 6. c4 c5 7. dxc5 Bxc5 8. Nc3
+Qa5 9. a3 dxc4 10. Bxc4 Qb6 11. Na4 Qa5+ 12. b4 Bxb4+ 13. axb4 Qxb4+ 14. Nd2 b5
+15. Qf3 bxc4 16. Qxa8 c3 17. O-O cxd2 18. Qxb8 Qxb8 19. Bxb8 Ba6 20. Rfb1 Be2
+21. Bg3 Ne4 22. f3 Nxg3 23. hxg3 d1=Q+ 24. Rxd1 Bxd1 25. Rxd1 g6 26. Rd7 Ra8
+27. g4 h6 28. e4 a5 29. Rb7 Kg7 30. Kf2 Kf6 31. Ke3 Kg7 32. Kf4 g5+ 33. Ke5 Kg6
+34. Nb6 Ra6 35. Na4 Ra8 36. Rb5 Ra6 37. Kd4 Ra8 38. Ke3 Ra7 39. g3 Ra6 40. f4
+gxf4+ 41. gxf4 Ra8 42. Kf3 Ra7 43. Kg3 Kg7 44. Kh4 Ra6 45. Kh5 Ra7 46. e5 Ra6
+47. f5 exf5 48. gxf5 Ra7 49. f6+ Kh7 50. Rb8 Rd7 51. Rf8 Rb7 52. Nc5 Rc7 53.
+Ne4 Rd7 54. Nd6 a4 55. Nxf7 Rxf7 56. Rxf7+ Kg8 57. Rg7+ Kf8 58. Ra7 a3 59. e6
+a2 60. Ra8# 1-0
+

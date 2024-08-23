@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Mischuk_D"]
+[Black "gmmoranda"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/1mAkgzmK"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2691"]
+[BlackElo "2793"]
+[ECO "A61"]
+[Opening "Benoni Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:14:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Bf4 a6 8. a4
+Bg7 9. h3 O-O 10. e3 Re8 11. Bd3 Nbd7 12. O-O Nh5 13. Bh2 Ne5 14. Nxe5 Bxe5 15.
+Bxe5 Rxe5 16. a5 c4 17. Bxc4 Bxh3 18. f4 Rxe3 19. gxh3 Qc8 20. Be2 Qxh3 21. Bf3
+Nxf4 22. Ne4 Rxe4 23. Bxe4 Qg3+ 24. Kh1 Re8 25. Qf3 Qh4+ 26. Kg1 Rxe4 27. Rae1
+Rxe1 28. Rxe1 Qxe1+ 0-1
+

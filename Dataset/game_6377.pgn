@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "magnusglad_bot"]
+[Black "PurpleHunter"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/pu0uhfoL"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2790"]
+[BlackElo "2644"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:15:04"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f3
+Nbd7 9. g4 Be7 10. Qd2 Rc8 11. O-O-O b5 12. g5 Nh5 13. Nd5 Bxd5 14. exd5 Nb6
+15. Na5 Nxd5 16. Qxd5 Qxa5 17. Bh3 Rc4 18. Qa8+ Qd8 19. Qxa6 O-O 20. Qxb5 Qc7
+21. Bb6 Rxc2+ 22. Kb1 Qc4 23. Bd7 Rb8 24. a4 d5 25. Qxc4 Rxc4 26. Be3 Rcb4 27.
+Bb5 d4 28. Bd2 R4xb5 29. axb5 Rxb5 30. Kc2 f6 31. gxf6 gxf6 32. Ra1 Kf7 33. Ra7
+Ke6 34. Rha1 Bb4 35. R1a6+ Kf5 36. Rxh7 Bxd2 37. Rxh5+ Kg6 38. Rh8 Bf4 39. h4
+d3+ 40. Kxd3 Rxb2 41. Rf8 Rb3+ 42. Ke2 Rb2+ 43. Kd1 Kh5 44. Raxf6 Kxh4 45. Rg6
+Kh5 46. Rg4 Rd2+ 47. Ke1 Rd6 48. Rfg8 Ra6 49. Kd1 Ra2 50. Rh8+ Bh6 51. Rg3 Ra6
+52. Rhg8 Ra4 53. Rg2 Rd4+ 54. Kc2 Rc4+ 55. Kd3 Rh4 56. R2g4 Rxg4 57. Rxg4 Bc1
+58. Ke4 Bb2 59. Kf5 Bc3 60. Re4 Ba1 61. Re1 Bb2 62. Rh1# 1-0
+

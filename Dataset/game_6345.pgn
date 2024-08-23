@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "bob_2004"]
+[Black "Gaius_Baltar"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/20k0mFrT"]
+[WhiteTitle "FM"]
+[WhiteElo "2733"]
+[BlackElo "2831"]
+[ECO "D26"]
+[Opening "Queen's Gambit Accepted: Classical Defense, Normal Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:08:16"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Nf6 4. e3 e6 5. Bxc4 c5 6. O-O Be7 7. Qe2 O-O 8. e4
+cxd4 9. e5 Nfd7 10. Re1 Nc6 11. Qe4 Qc7 12. Bf4 Nb4 13. Rc1 Nc5 14. Qxd4 Rd8
+15. Qe3 b5 16. Bxb5 Nd5 17. Qd4 Qb6 18. Bf1 Nxf4 19. Qxf4 Qxb2 20. Nc3 Ba6 21.
+Bxa6 Nxa6 22. Ne4 Rac8 23. Rcb1 Qa3 24. Neg5 Rf8 25. Qe4 g6 26. h4 Nc5 27. Qg4
+Qa4 28. Qxa4 Nxa4 29. Rb7 Bc5 30. Ne4 Rb8 31. Rab1 Bb6 32. Re7 Bxf2+ 33. Kxf2
+Rxb1 34. Rxa7 Nb2 35. h5 Nd1+ 36. Kg3 Ne3 37. Nfg5 Nf5+ 38. Kh2 gxh5 39. Nf6+
+Kh8 40. Nxf7+ Kg7 41. Ng5+ Kg6 42. Nxe6 Rxf6 43. Nf4+ Kg5 44. exf6 Kxf6 45.
+Nxh5+ Kg5 46. Ng3 Ne3 47. Ra5+ Kh4 48. Nf5+ Nxf5 49. Rxf5 Rb2 50. Rf4+ Kg5 51.
+Ra4 h5 52. Ra8 Rc2 53. Ra5+ Kg4 54. a4 h4 55. Ra8 h3 56. Rg8+ Kf4 57. Kxh3 Ra2
+58. Kh4 Ke5 59. Rg5+ Kf6 60. Rg4 Kf7 61. Kh5 Ra1 62. Rf4+ 1-0
+

@@ -1,0 +1,49 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "caissa-x"]
+[Black "pawn_git"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/qHWd74fD"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3032"]
+[BlackElo "2793"]
+[ECO "A35"]
+[Opening "English Opening: Symmetrical Variation, Four Knights Variation"]
+[TimeControl "900+3"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:53:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 g6 5. d4 cxd4 6. Nxd4 h5 7. h3 Nxd4 8.
+Qxd4 Bg7 9. Bg2 O-O 10. Bd2 d6 11. Qd3 Bf5 12. e4 Be6 13. b3 a6 14. O-O Qd7 15.
+Kh2 b5 16. cxb5 axb5 17. Qxb5 Qxb5 18. Nxb5 Nd7 19. Bc3 Bxc3 20. Nxc3 Rfc8 21.
+Rac1 Ra7 22. Kg1 Rac7 23. Ne2 Rc2 24. Rfe1 Ne5 25. Rxc2 Rxc2 26. a4 Nd3 27. Rd1
+Rxe2 28. Rxd3 Re1+ 29. Kh2 Ra1 30. Bf3 Kg7 31. Kg2 Kf6 32. Be2 Ke5 33. Kf3 Bxh3
+34. Rd5+ Ke6 35. Ke3 f5 36. Rd1 Ra3 37. Bc4+ Kf6 38. f3 fxe4 39. fxe4 Bg4 40.
+Rd2 Ke5 41. Rd5+ Kf6 42. Rd2 Ke5 43. Rd5+ Kf6 44. Kd4 g5 45. Kc3 Ra2 46. Rd2
+Rxd2 47. Kxd2 Ke5 48. Ke3 h4 49. gxh4 gxh4 50. b4 h3 51. Bf1 h2 52. Bg2 Be6 53.
+Kf2 Kd4 54. Kg3 Kc4 55. a5 Bc8 56. e5 dxe5 57. Kxh2 Kxb4 58. Bf3 Kxa5 59. Kg3
+Kb6 60. Kf2 Kc7 61. Ke3 Bb7 62. Bh5 Bc6 63. Bd1 Kd6 64. Bc2 Ke6 65. Bb3+ Kd7
+66. Bc2 Bh1 67. Bb1 Ke8 68. Kf2 Kf7 69. Bc2 Bc6 70. Bb1 Kg7 71. Ba2 Be8 72. Ke3
+Bf7 73. Bb1 Bg6 74. Ba2 Kf8 75. Bd5 Ke8 76. Bc6+ Kd8 77. Ba4 Kc7 78. Bd1 Bh7
+79. Bg4 Kd6 80. Bf3 Bf5 81. Bd1 Kc5 82. Ba4 Bh3 83. Bc2 Kd6 84. Be4 Ke6 85. Bc2
+Bg2 86. Kf2 Bc6 87. Ke3 Kf6 88. Bb3 Be8 89. Bd5 Bh5 90. Bc4 Bg6 91. Bb3 Bf7 92.
+Ba4 Bd5 93. Bd1 Kg5 94. Be2 Ba2 95. Ke4 Kf6 96. Bh5 Bb1+ 97. Ke3 Ke6 98. Bg4+
+Kd6 99. Be2 Bc2 100. Bg4 e6 101. Bf3 Bb3 102. Be2 Bd5 103. Bd1 Bc6 104. Bc2 Be8
+105. Bb3 Bg6 106. Ba4 Ke7 107. Bd1 Kf7 108. Bb3 Bf5 109. Bd1 Kf6 110. Ba4 Bb1
+111. Bd1 Ke7 112. Be2 Ba2 113. Bd1 Bd5 114. Ba4 Kf6 115. Bc2 Kg5 116. Bd3 Bh1
+117. Bc4 Kf6 118. Bf1 Bd5 119. Be2 Ba8 120. Ba6 Ke7 121. Bb5 Bh1 122. Bd3 Bd5
+123. Bb1 Bb3 124. Ke4 Kd6 125. Ke3 Bc4 126. Bc2 Ke7 127. Ba4 Ba6 128. Ke4 Kf6
+129. Ke3 Bb7 130. Bc2 Bc6 131. Bd3 Be8 132. Be2 Bg6 133. Bg4 Bc2 134. Be2 Ke7
+135. Bf1 Ba4 136. Be2 Kd6 137. Bf1 Bc2 138. Bc4 Bg6 139. Bb3 Bf5 140. Bd1 Kc5
+141. Bb3 Bh3 142. Ke4 Kd6 143. Kf3 Bf1 144. Ke3 Bg2 145. Bd1 Bh1 146. Bc2 e4
+147. Bb3 Ke5 148. Bd1 Bg2 149. Bc2 Bf3 150. Bb3 Bg4 151. Ba2 Bf5 152. Bb1 Bg6
+153. Bc2 Kf6 154. Kf4 Ke7 155. Bd1 Kd6 156. Ke3 Bh7 157. Bb3 Kd7 158. Ba4+ Kd8
+159. Bb3 Ke7 160. Ba4 e5 161. Bc2 Kd7 162. Bd1 Kd6 163. Bg4 Ke7 164. Bd1 Bg6
+165. Bc2 Bf5 166. Ba4 Bd7 167. Kxe4 Bxa4 168. Kxe5 1/2-1/2
+

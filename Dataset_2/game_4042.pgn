@@ -1,0 +1,41 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.21"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "marioghhhhhhh"]
+[Result "0-1"]
+[CurrentPosition "1q4k1/p1p4p/2p1p1r1/3p4/5Q2/2b5/P1P2PPP/KR2R3 w - -"]
+[Timezone "UTC"]
+[ECO "C45"]
+[ECOUrl "https://www.chess.com/openings/Scotch-Game-Scotch-Gambit-Dubois-Reti-Defense"]
+[UTCDate "2022.03.21"]
+[UTCTime "04:19:55"]
+[WhiteElo "1309"]
+[BlackElo "1341"]
+[TimeControl "180"]
+[Termination "marioghhhhhhh won by resignation"]
+[StartTime "04:19:55"]
+[EndDate "2022.03.21"]
+[EndTime "04:23:17"]
+[Link "https://www.chess.com/game/live/41575205511"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:02:59.9] } 2. Nf3
+{ [%clk 0:02:59.4] } 2... Nc6 { [%clk 0:02:59.4] } 3. Bc4 { [%clk 0:02:59] }
+3... Nf6 { [%clk 0:02:58.6] } 4. d4 { [%clk 0:02:58.5] } 4... exd4
+{ [%clk 0:02:57.6] } 5. Nxd4 { [%clk 0:02:57.3] } 5... d6 { [%clk 0:02:54.3] }
+6. Nxc6 { [%clk 0:02:55.4] } 6... bxc6 { [%clk 0:02:53.8] } 7. Nc3
+{ [%clk 0:02:53.8] } 7... Be7 { [%clk 0:02:52.9] } 8. Bg5 { [%clk 0:02:52.3] }
+8... O-O { [%clk 0:02:51.5] } 9. Qd2 { [%clk 0:02:49.6] } 9... Be6
+{ [%clk 0:02:50.5] } 10. Bxe6 { [%clk 0:02:47.7] } 10... fxe6
+{ [%clk 0:02:49.8] } 11. O-O-O { [%clk 0:02:46] } 11... Rb8
+{ [%clk 0:02:44.6] } 12. Rhe1 { [%clk 0:02:44.3] } 12... d5 { [%clk 0:02:38] }
+13. e5 { [%clk 0:02:39.8] } 13... Rxb2 { [%clk 0:01:54.6] } 14. Kxb2
+{ [%clk 0:02:14.7] } 14... Qb8+ { [%clk 0:01:52.3] } 15. Ka1
+{ [%clk 0:02:13.7] } 15... Ba3 { [%clk 0:01:51] } 16. Rb1 { [%clk 0:02:12.2] }
+16... Bb4 { [%clk 0:01:36.7] } 17. exf6 { [%clk 0:02:06.9] } 17... gxf6
+{ [%clk 0:01:31.8] } 18. Bxf6 { [%clk 0:01:51.1] } 18... Rxf6
+{ [%clk 0:01:25.4] } 19. Qg5+ { [%clk 0:01:46.1] } 19... Rg6
+{ [%clk 0:01:23.9] } 20. Qf4 { [%clk 0:01:37] } 20... Bxc3+
+{ [%clk 0:01:20.5] } 0-1
+

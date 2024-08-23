@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sammartin1"]
+[Black "zirva_safarov"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/HvyKA6gV"]
+[WhiteTitle "NM"]
+[WhiteElo "2470"]
+[BlackElo "2502"]
+[ECO "D01"]
+[Opening "Rapport-Jobava System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "03:44:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 e6 4. e3 Bd6 5. Bg3 O-O 6. Nf3 b6 7. Bd3 Bb7 8. O-O
+Qe7 9. Qe2 Ne4 10. Bxe4 dxe4 11. Nd2 f5 12. Nc4 Nd7 13. Nxd6 cxd6 14. Nb5 e5
+15. dxe5 dxe5 16. Rfd1 f4 17. Bh4 g5 18. Bxg5 Qxg5 19. Rxd7 Bc6 20. Qc4+ Kh8
+21. Qxc6 Rg8 22. g3 fxe3 23. Qxe4 exf2+ 24. Kh1 Raf8 25. Qxh7# 1-0
+

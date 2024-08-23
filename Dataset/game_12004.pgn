@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "mick_chess"]
+[Black "Agent_000"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/wlIsKPk9"]
+[WhiteElo "2771"]
+[BlackElo "2794"]
+[ECO "B92"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:27:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Be3 Be6 10. Re1 Nc6 11. a3 Rc8 12. Nd2 b5 13. h3 Na5 14. Nf1 Qc7 15. Ng3
+g6 16. Bd3 Rfd8 17. Bg5 Nc4 18. Bxc4 Qxc4 19. Qf3 Kg7 20. Rad1 h6 21. Be3 Nh7
+22. Rd2 b4 23. Nd5 Bxd5 24. exd5 bxa3 25. bxa3 Ng5 26. Qd1 f5 27. f4 Nf7 28.
+fxe5 dxe5 29. Ne2 Bxa3 30. Rf1 Bb4 31. Rd3 Qxc2 0-1
+

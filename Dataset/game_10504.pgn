@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "PurpleHunter"]
+[Black "expositor"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/50GwKGQE"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2619"]
+[BlackElo "2756"]
+[ECO "A21"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:51:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. c4 e5 2. Nc3 Bb4 3. Nd5 Be7 4. d4 d6 5. e4 Nf6 6. Nxe7 Qxe7 7. f3 exd4 8.
+Qxd4 Nc6 9. Qc3 Ne5 10. Ne2 Nh5 11. h4 O-O 12. g4 Nxg4 13. fxg4 Bxg4 14. Bd2
+Qxe4 15. Rh2 Rfe8 16. O-O-O Bf5 17. Be1 Bg6 18. Bf2 d5 19. c5 Nf6 20. Qb3 a5
+21. a4 b6 22. h5 Nxh5 23. cxb6 cxb6 24. Kd2 Rac8 25. Ke1 Nf4 26. Bg3 d4 27. Rf2
+Nh5 28. Bg2 Qg4 29. Bd6 Re3 30. Qxb6 Rce8 31. Rd2 d3 32. Qa7 Qxa4 33. Ba3 Qh4
+34. Qd7 dxe2 35. Qxe8+ Rxe8 36. Rxe2 Rxe2+ 37. Kxe2 Nf4+ 38. Kf1 Qg3 39. Rxf4
+Qxf4+ 40. Ke2 Bh5+ 41. Kd3 Qg3+ 42. Kc4 Qxg2 43. Kb5 Qb7+ 44. Kxa5 Be2 45. Bf8
+Qb5# 0-1
+

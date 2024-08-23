@@ -1,0 +1,38 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Nikitosikbot_v2"]
+[Black "Hoon_Bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/k4Sxn9B0"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3021"]
+[BlackElo "2903"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation"]
+[TimeControl "600+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:42:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 cxd4 7. Nxd4 Nc6 8. Be3
+Qb6 9. Qd2 Qxb2 10. Rb1 Qa3 11. Bb5 Nxd4 12. Bxd4 a6 13. Bxd7+ Bxd7 14. Rb3 Qe7
+15. Rxb7 Qd8 16. O-O Qc8 17. Rfb1 Bc5 18. f5 Bb5 19. Nxb5 axb5 20. R7xb5 Bxd4+
+21. Qxd4 O-O 22. R1b2 h6 23. a4 Qc7 24. h3 exf5 25. Rxd5 Kh7 26. c3 Rfc8 27.
+Rb3 Ra5 28. Rd7 Qxe5 29. Qxe5 Rxe5 30. Rxf7 Rc6 31. Kf2 Ra5 32. Rbb7 Rg6 33.
+Kg1 Kg8 34. Rbc7 h5 35. c4 h4 36. c5 Rg5 37. c6 Rc5 38. Kf2 Rc2+ 39. Ke3 Rxc6
+40. Kf4 Rxc7 41. Rxc7 Rxg2 42. Kxf5 Rg3 43. Rc8+ Kh7 44. Rc4 g6+ 45. Kf6 Rxh3
+46. a5 g5 47. Kxg5 Ra3 48. Rxh4+ Kg7 49. Rh2 Rxa5+ 50. Kg4 Ra1 51. Kf3 Rb1 52.
+Rh3 Ra1 53. Rh4 Rb1 54. Rd4 Ra1 55. Kg2 Rb1 56. Kh3 Ra1 57. Kg2 Rb1 58. Kg3 Ra1
+59. Rd8 Rb1 60. Rd6 Ra1 61. Rd2 Rb1 62. Rd5 Ra1 63. Kg2 Rb1 64. Rf5 Ra1 65. Kh3
+Rb1 66. Rh5 Ra1 67. Rc5 Rb1 68. Rf5 Ra1 69. Rg5+ Kf6 70. Rd5 Rb1 71. Kg3 Ra1
+72. Kf2 Rb1 73. Ra5 Rc1 74. Ra6+ Ke5 75. Ra7 Rb1 76. Rc7 Ra1 77. Kg2 Rb1 78.
+Kh3 Ra1 79. Rc4 Rb1 80. Rc7 Ra1 81. Kh2 Rb1 82. Rc5+ Kd4 83. Rc7 Ra1 84. Rc8
+Rb1 85. Rf8 Ra1 86. Rf7 Rb1 87. Kh3 Ra1 88. Rf2 Rb1 89. Ra2 Rc1 90. Ra8 Rb1 91.
+Kg2 Rc1 92. Rg8 Ra1 93. Kh2 Rb1 94. Rg3 Ra1 95. Kg2 Rb1 96. Rg8 Ra1 97. Rf8 Rb1
+98. Rf6 Ra1 99. Rb6 Rc1 1/2-1/2
+

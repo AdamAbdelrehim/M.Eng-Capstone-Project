@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "crunchy_roll"]
+[Black "teddyhh"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/I83mKvJT"]
+[WhiteElo "2532"]
+[BlackElo "2469"]
+[ECO "C44"]
+[Opening "Ponziani Opening: Jaenisch Counterattack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:41:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 exd4 5. e5 Nd5 6. Qb3 Nb6 7. cxd4 d5 8. a3
+Be7 9. Bd3 Bg4 10. Be3 a6 11. Qc2 h6 12. Nbd2 O-O 13. h3 Be6 14. g4 f6 15. exf6
+Bxf6 16. O-O-O Kh8 17. Rdg1 Nc4 18. Bxc4 dxc4 19. g5 hxg5 20. Nxg5 Bg8 21. Qg6
+Qe8 22. Qc2 Nxd4 23. Bxd4 Bxd4 24. Rg4 Bxf2 25. Nde4 Be3+ 26. Kb1 g6 1-0
+

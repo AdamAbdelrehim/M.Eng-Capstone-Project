@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Neftegor"]
+[Black "zeta_5"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/4f5p041G"]
+[WhiteElo "2523"]
+[BlackElo "2435"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:54:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 1-0
+

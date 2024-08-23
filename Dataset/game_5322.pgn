@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "DimaGrand"]
+[Black "silence404"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/wcqsVqTW"]
+[WhiteElo "2825"]
+[BlackElo "2798"]
+[ECO "D03"]
+[Opening "Queen's Pawn Game: Torre Attack, Gossip Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:55:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bg5 Ne4 4. h4 Bf5 5. Nbd2 c6 6. e3 h6 7. Bf4 e6 8. Nxe4
+Bxe4 9. Bd3 Bxd3 10. cxd3 Bd6 11. Bxd6 Qxd6 12. Rc1 Nd7 13. Qb3 Rb8 14. g4 a6
+15. Ke2 Kf8 16. g5 h5 17. g6 f6 18. e4 Ke7 19. Rhe1 Rh6 20. Rg1 Rhh8 21. Qc3
+Kd8 22. e5 fxe5 23. dxe5 Qe7 24. d4 Rf8 25. Ng5 Rf5 26. Rg3 c5 27. Nf7+ Kc7 28.
+dxc5 Kc6 29. b4 Rf8 30. a4 R8xf7 31. b5+ Kc7 32. gxf7 Qxf7 33. f3 Rxe5+ 34. Kf2
+Qf4 35. c6 Nf6 36. cxb7+ Kb6 37. b8=Q# 1-0
+

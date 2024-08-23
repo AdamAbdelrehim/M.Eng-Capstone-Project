@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "mick_chess"]
+[Black "bob_2004"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/uyIJTzvv"]
+[BlackTitle "FM"]
+[WhiteElo "2762"]
+[BlackElo "2735"]
+[ECO "B29"]
+[Opening "Sicilian Defense: Nimzowitsch Variation, Closed Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:17:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d5 4. exd5 Nxd5 5. Bb5+ Bd7 6. Ne5 Bxb5 7. Nxb5 Nd7
+8. Nxd7 Qxd7 9. Nc3 e6 10. O-O Be7 11. d3 O-O 12. Ne4 Rfd8 13. a3 Rac8 14. Qf3
+Nf6 15. Re1 Nxe4 16. Rxe4 Qd5 17. b3 Bf6 18. Rb1 Bd4 19. h3 f5 20. Re2 Qxf3 21.
+gxf3 Kf7 22. Bd2 b6 23. a4 Rd7 24. Rbe1 Rc6 25. Kg2 Bf6 26. Bf4 Bc3 27. Rg1 a6
+28. Be5 Bd4 29. Kh2 Bxe5+ 30. Rxe5 Rd5 31. Rxd5 exd5 32. Re1 Re6 33. Rxe6 Kxe6
+34. f4 d4 35. Kg3 Kf6 36. Kh4 Kg6 37. Kg3 Kh5 38. h4 Kg6 39. Kh3 Kf6 40. Kg3
+Ke6 41. h5 h6 42. Kf3 Kd5 43. Kg3 Kc6 44. Kf3 b5 45. axb5+ Kxb5 46. Ke2 Kb4 47.
+Kd2 Ka3 48. Kc1 a5 49. Kd1 a4 50. bxa4 Kxa4 51. Kc1 Ka3 52. Kb1 Kb4 53. Kb2 c4
+54. f3 Kc5 55. Ka3 Kb5 56. Kb2 cxd3 57. cxd3 Kb4 58. Kc2 Ka3 59. Kd2 Kb3 60.
+Ke2 Kc2 61. Kf2 Kxd3 62. Kg3 Ke3 63. Kg2 Kxf4 64. Kf1 Kxf3 65. Ke1 Kg4 66. Kd2
+Kxh5 67. Kd3 Kg4 68. Kxd4 Kf4 69. Kd5 g5 70. Ke6 g4 71. Kf7 h5 72. Kf6 h4 73.
+Kg6 h3 74. Kf6 h2 75. Ke6 g3 76. Kf7 g2 77. Kf6 Kg4 78. Kf7 f4 79. Kf8 f3 80.
+Kf7 f2 81. Ke7 Kf5 82. Kf8 Ke6 83. Ke8 f1=Q 84. Kd8 Qf7 85. Kc8 Qd7+ 86. Kb8
+Kd6 87. Ka8 Kc6 88. Kb8 Qb7# 0-1
+

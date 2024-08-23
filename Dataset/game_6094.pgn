@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "hank133"]
+[Black "capa21"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/klzGODRp"]
+[WhiteElo "2628"]
+[BlackElo "2654"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: English Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:32:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. b3 c5 2. a4 d6 3. a5 e5 4. e4 Nf6 5. Nc3 Be7 6. Bc4 O-O 7. Nf3 Nc6 8. a6
+bxa6 9. Bxa6 Nd4 10. Bxc8 Qxc8 11. h3 Qb7 12. d3 d5 13. Nxe5 dxe4 14. O-O Rad8
+15. Be3 Rfe8 16. Bxd4 Rxd4 17. f4 Bd6 18. Ne2 Rb4 19. Nc4 Bb8 20. d4 cxd4 21.
+Qxd4 h5 22. Rfd1 a6 23. Kh1 h4 24. Ra5 e3 25. Rg5 Qc6 26. Rd3 a5 27. Rxe3 a4
+28. Rxe8+ Nxe8 29. Rc5 Qe6 30. Qd2 Rb7 31. bxa4 Rb1+ 32. Ng1 Ba7 33. Re5 Bxg1
+34. Rxe6 Bf2+ 35. Kh2 Bg3# 0-1
+

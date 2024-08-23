@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "EmperatorTrajano"]
+[Black "NikolaGry"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/dRRJG1xw"]
+[BlackTitle "FM"]
+[WhiteElo "2688"]
+[BlackElo "2677"]
+[ECO "D07"]
+[Opening "Queen's Gambit Declined: Chigorin Defense, Exchange Variation, Costa's Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:09:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. d4 d5 2. c4 Nc6 3. cxd5 Qxd5 4. e3 e5 5. Nc3 Bb4 6. Bd2 Bxc3 7. Bxc3 exd4 8.
+Ne2 Nf6 9. Nxd4 Bg4 10. Be2 Qxg2 11. Rf1 O-O-O 12. Bxg4+ Nxg4 13. Qf3 Qxf1+ 14.
+Kxf1 Nxh2+ 15. Kg2 Nxf3 16. Nxf3 f6 17. b4 h5 18. b5 Ne7 19. Rc1 Rh6 20. Bd4
+Rg6+ 21. Kh3 b6 22. a4 Nf5 23. a5 Nxd4 24. Nxd4 Rxd4 25. exd4 bxa5 26. Rc6 Rg5
+27. Ra6 Rxb5 28. Rxa7 Kb8 29. Ra6 Kb7 30. Re6 a4 31. Re2 a3 32. Ra2 Ra5 33. Kg3
+g5 34. Kf3 f5 35. Ke3 h4 36. f3 g4 0-1
+

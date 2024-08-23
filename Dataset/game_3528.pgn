@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "zaplya"]
+[Black "MrTroutstanding"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/PF2TfhVg"]
+[WhiteElo "2535"]
+[BlackElo "2529"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:00:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 d5 2. Nf3 e6 3. g3 Nf6 4. Bg2 b5 5. O-O Bb7 6. b3 c5 7. Nbd2 Nbd7 8. c4
+dxc4 9. bxc4 b4 10. a3 a5 11. dxc5 Bxc5 12. axb4 Bxb4 13. Nb3 O-O 14. Bd2 Qc7
+15. Bxb4 axb4 16. Nfd2 Ra3 17. Rxa3 bxa3 18. Qc2 Ra8 19. Ra1 Bxg2 20. Kxg2 h5
+21. Qc1 Qb7+ 22. f3 Qa6 23. Nb1 a2 24. Nc3 Qxc4 25. Nd2 Qc6 26. Rxa2 Rc8 27.
+Rc2 Nd5 28. Nxd5 Qxc2 29. Qxc2 Rxc2 0-1
+

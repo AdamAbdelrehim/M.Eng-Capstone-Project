@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "hindutime"]
+[Black "simplesimpson03"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/SWx0XDrz"]
+[WhiteElo "2380"]
+[BlackElo "2513"]
+[ECO "A00"]
+[Opening "Saragossa Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "02:02:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. c3 e5 2. d4 exd4 3. cxd4 d5 4. Nc3 c6 5. Nf3 Nf6 6. Bg5 Be7 7. e3 O-O 8. Bd3
+Re8 9. Rc1 h6 10. Bh4 Ne4 11. Bxe7 Qxe7 12. O-O Bg4 13. Be2 Nd7 14. Nxe4 dxe4
+15. Nd2 Bf5 16. a3 Qg5 17. Kh1 Re6 18. Nc4 Rg6 19. g3 Bh3 20. Rg1 Rf6 21. Qe1
+Qf5 22. Bf1 Qf3+ 23. Bg2 Bxg2+ 24. Rxg2 Rd8 25. Qd1 Nc5 26. Qxf3 exf3 27. dxc5
+fxg2+ 28. Kxg2 Rf5 29. b4 Rfd5 30. Nd6 b6 31. e4 Rd2 32. Rc3 b5 33. Kf3 Kf8 34.
+Ke3 Ra2 35. h4 Ke7 36. e5 Ke6 37. f4 f6 38. exf6 gxf6 39. Kf3 Kd7 40. Re3 Ra8
+41. f5 a5 42. Ne4 axb4 43. Nxf6+ Kc7 44. Re7+ Kb8 45. Nd7+ Kc7 46. Nb6+ Kd8 47.
+Rd7+ Ke8 48. f6 R8xa3+ 49. Kg4 Rf2 50. Re7+ Kf8 51. Nd7+ Kg8 52. Rg7+ Kh8 53.
+Ne5 Rxf6 54. Rc7 Re3 55. Nxc6 b3 56. Rc8+ Kg7 57. Rc7+ Rf7 58. Rxf7+ Kxf7 59.
+Kf4 Rc3 60. Ne5+ Ke6 0-1
+

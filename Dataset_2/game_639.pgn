@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.06"]
+[Round "-"]
+[White "Jackga217"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r1b1r1k1/pppp1ppp/5q2/2bn4/8/2P2PB1/PPQNBPPP/R4RK1 b - -"]
+[Timezone "UTC"]
+[ECO "A40"]
+[ECOUrl "https://www.chess.com/openings/Englund-Gambit-Declined-Reversed-Alekhine-Variation"]
+[UTCDate "2021.03.06"]
+[UTCTime "23:51:20"]
+[WhiteElo "1201"]
+[BlackElo "1283"]
+[TimeControl "1800"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "23:51:20"]
+[EndDate "2021.03.06"]
+[EndTime "23:54:03"]
+[Link "https://www.chess.com/game/live/8813732759"]
+
+1. d4 { [%clk 0:30:00] } 1... e5 { [%clk 0:30:00] } 2. Nf3 { [%clk 0:29:53.1] }
+2... Nc6 { [%clk 0:29:57.3] } 3. dxe5 { [%clk 0:29:51] } 3... Nxe5
+{ [%clk 0:29:55.6] } 4. Bf4 { [%clk 0:29:47.8] } 4... Nxf3+
+{ [%clk 0:29:53.8] } 5. exf3 { [%clk 0:29:47.7] } 5... Bc5 { [%clk 0:29:42.9] }
+6. Nd2 { [%clk 0:29:40.4] } 6... Nf6 { [%clk 0:29:38] } 7. c3
+{ [%clk 0:29:23] } 7... Nd5 { [%clk 0:29:28.8] } 8. Bg3 { [%clk 0:29:20.1] }
+8... O-O { [%clk 0:29:25.6] } 9. Qc2 { [%clk 0:29:16.6] } 9... Re8+
+{ [%clk 0:29:21.7] } 10. Be2 { [%clk 0:29:13.4] } 10... Qf6
+{ [%clk 0:28:42.2] } 11. O-O { [%clk 0:28:46] } 0-1
+

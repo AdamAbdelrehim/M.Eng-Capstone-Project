@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "odonata-bot"]
+[Black "RaspFish"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/3n8iWuWD"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2627"]
+[BlackElo "2979"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Defense"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:20:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+1"]
+
+1. e4 g6 2. d4 d6 3. Nc3 Bg7 4. Be3 a6 5. Qd2 Nd7 6. f3 Ngf6 7. O-O-O b5 8. g4
+Nb6 9. Bh6 Bxh6 10. Qxh6 e6 11. Nge2 Bb7 12. h4 Qe7 13. g5 Nh5 14. Nb1 d5 15.
+Nd2 dxe4 16. fxe4 c5 17. Bh3 cxd4 18. Bg4 O-O-O 19. Bxh5 d3 20. cxd3 Rxd3 21.
+Nb3 Qc7+ 22. Kb1 Rxd1+ 23. Rxd1 gxh5 24. Qf6 Bxe4+ 25. Ka1 Rd8 26. Nbd4 Rd6 27.
+Qg7 Nc4 28. b3 Na5 29. Qe5 Bc2 30. Rf1 Nc6 31. Nxc6 Rxc6 32. Qh8+ Kb7 33. Nd4
+Bd3 34. Nxc6 Bxf1 35. Nd8+ Kb6 36. Qd4+ Qc5 37. Qd2 e5 38. Nxf7 Qd4+ 39. Qxd4+
+exd4 40. Ne5 Kc5 41. Kb2 Kd6 42. g6 hxg6 43. Nxg6 Bh3 44. Nf4 Bg4 45. Kc2 Ke5
+46. Nd3+ Ke4 47. Kd2 Kf3 48. Nc5 Kg3 49. Ke1 Kxh4 50. Kf2 a5 51. Ne4 b4 52. Nd2
+Kg5 53. Nc4 d3 54. Ke3 h4 55. Nd2 h3 56. Nf1 Be2 57. Nh2 Kf5 58. Kf2 Kf4 59. a3
+bxa3 60. Nf1 Bxf1 61. Kxf1 a2 62. Kf2 a1=Q 63. b4 Qa2+ 64. Kf1 Qe2+ 65. Kg1
+Qg2# 0-1
+

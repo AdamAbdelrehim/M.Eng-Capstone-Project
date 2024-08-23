@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "the_reverse_flash"]
+[Black "AManCalledDonalP"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Ah3u4vOQ"]
+[WhiteElo "2518"]
+[BlackElo "2553"]
+[ECO "A48"]
+[Opening "Queen's Pawn Game: Barry Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "03:46:55"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. Nf3 g6 3. Nc3 d5 4. Bf4 Bg7 5. Ne5 O-O 6. f3 c5 7. e3 Nc6 8. Qd2
+cxd4 9. exd4 Qb6 10. O-O-O Be6 11. h4 Rac8 12. Bh6 Nb4 13. Bxg7 Kxg7 14. Kb1
+Bf5 15. Bd3 Nxd3 16. Nxd3 Qxd4 17. Nf4 Qxd2 18. Rxd2 e6 19. g4 Nxg4 20. fxg4
+Bxg4 21. Rg1 h5 22. Nd3 Bf5 23. Nf4 Kh7 24. Nfe2 Rc4 25. Rh1 Rfc8 26. Rh2 b5
+27. a3 a5 28. Nd4 b4 29. axb4 axb4 30. Nce2 Be4 31. Kc1 b3 32. c3 Rb8 33. Rf2
+e5 34. Nf3 f6 35. Kd1 Ra4 36. Ke1 Bc2 37. Ng3 Ra2 38. Rxd5 Rb7 39. Rfd2 Rxb2
+40. Rd7+ Rxd7 41. Rxd7+ Kg8 42. Nd2 Ra2 43. Nge4 Bxe4 44. Nxe4 b2 45. Nd2 Ra1+
+46. Ke2 b1=Q 47. Nxb1 Rxb1 48. Rd6 Kf7 49. Rd7+ Ke6 50. Ra7 Rh1 51. Ra6+ Kf5
+52. Ra4 g5 53. hxg5 fxg5 54. Kf2 h4 55. Kg2 Rc1 56. Rc4 Rc2+ 57. Kf3 g4+ 58.
+Ke3 h3 59. Rc8 h2 60. Rf8+ Kg5 61. Rh8 g3 62. Kf3 g2 63. Rxh2 g1=Q 64. Rxc2
+Qg4+ 65. Ke3 Qf4+ 66. Kd3 Kf5 67. Re2 Qe4+ 68. Rxe4 1-0
+

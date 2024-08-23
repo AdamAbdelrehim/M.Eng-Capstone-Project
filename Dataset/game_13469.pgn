@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "SupplyChain"]
+[Black "Vyka"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/mAl6qECX"]
+[WhiteElo "2378"]
+[BlackElo "2539"]
+[ECO "D94"]
+[Opening "Grünfeld Defense: Three Knights Variation, Burille Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:44:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. e3 Bg7 5. Nf3 O-O 6. b3 c5 7. Bb2 cxd4 8. Nxd4
+Nc6 9. Nxc6 bxc6 10. cxd5 Nxd5 11. Qd2 Nb4 12. a3 Qxd2+ 13. Kxd2 Rd8+ 14. Kc1
+Nd3+ 15. Bxd3 Rxd3 16. Kc2 Rd6 17. Rad1 Be6 18. Na4 Rb8 19. Nc5 Bg4 20. f3 Bc8
+21. Bxg7 Kxg7 22. Kc3 a5 23. Rd4 Rd5 24. b4 axb4+ 25. axb4 Ra8 26. Rb1 e5 27.
+Rxd5 cxd5 28. b5 Bf5 29. Rb3 Rc8 30. Kb4 d4 31. exd4 exd4 32. b6 Bc2 33. Ra3
+Rd8 34. b7 d3 35. Nxd3 Bxd3 36. Rxd3 Rb8 37. Rd7 Kf6 38. Kc5 Ke6 1-0
+

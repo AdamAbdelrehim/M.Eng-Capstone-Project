@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "bob_2004"]
+[Black "toomanymanoevres"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/pWSyEjrI"]
+[WhiteTitle "FM"]
+[WhiteElo "2719"]
+[BlackElo "2927"]
+[ECO "A40"]
+[Opening "Kangaroo Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:19:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 e6 2. c4 Bb4+ 3. Bd2 Bxd2+ 4. Qxd2 Nf6 5. g3 O-O 6. Bg2 d6 7. Nc3 e5 8.
+Nf3 Qe7 9. O-O Re8 10. b4 Nc6 11. a3 Bg4 12. d5 Bxf3 13. Bxf3 Nd4 14. Rab1
+Nxf3+ 15. exf3 Qd7 16. Qd3 h6 17. Rfe1 Nh7 18. Kg2 f5 19. Rbc1 Rf8 20. c5 Ng5
+21. h4 e4 0-1
+

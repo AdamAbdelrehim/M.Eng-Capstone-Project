@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "mick_chess"]
+[Black "Statham_13"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/gAtsD0Vn"]
+[BlackTitle "CM"]
+[WhiteElo "2763"]
+[BlackElo "2728"]
+[ECO "C78"]
+[Opening "Ruy Lopez: Morphy Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:57:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. Re1 Bb7 8. c3
+Ng4 9. d4 exd4 10. cxd4 Nxd4 11. Nxd4 Qh4 12. h3 Qxf2+ 13. Kh1 Bxd4 14. Rf1
+Bxe4 15. Bxf7+ Kd8 16. Bg5+ Kc8 17. Rg1 h5 18. Nc3 Qg3 0-1
+

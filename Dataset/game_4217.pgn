@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "spectraline"]
+[Black "Grukjr"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/co4iWtyr"]
+[BlackTitle "GM"]
+[WhiteElo "2521"]
+[BlackElo "2651"]
+[ECO "C28"]
+[Opening "Bishop's Opening: Vienna Hybrid, Hromádka Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:35:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Bb4 5. Ne2 d5 6. exd5 Nxd5 7. O-O Nxc3 8.
+bxc3 Bc5 9. Kh1 O-O 10. f4 Bg4 11. f5 Na5 12. Bb3 Qh4 13. g3 Qh5 0-1
+

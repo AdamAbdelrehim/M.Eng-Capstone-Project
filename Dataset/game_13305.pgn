@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Artem_Neizvestno"]
+[Black "prof28"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/71etDLju"]
+[WhiteElo "2430"]
+[BlackElo "2516"]
+[ECO "A48"]
+[Opening "East Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:22:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. Nf3 g6 3. e3 Bg7 4. Be2 O-O 5. O-O b6 6. b3 Bb7 7. Bb2 e6 8. Nbd2
+Ne4 9. c4 f5 10. Qc2 d6 11. Bd3 Nxd2 12. Nxd2 Nd7 13. f3 e5 14. Rae1 Qh4 15. d5
+a5 16. a4 Rae8 17. g3 Qh3 18. Rf2 Nc5 19. Bf1 Qh5 20. Bg2 Bc8 21. Rfe2 Rf7 22.
+f4 exf4 23. exf4 Rxe2 0-1
+

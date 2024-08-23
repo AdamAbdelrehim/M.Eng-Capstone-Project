@@ -1,0 +1,34 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "bot_adario"]
+[Black "Hoon_Bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/uX8mvZxj"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2706"]
+[BlackElo "2903"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "600+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:06:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 e6 2. c4 d6 3. Nf3 Nf6 4. Nc3 d5 5. Bf4 Bd6 6. Bg3 O-O 7. e3 c5 8. dxc5
+Bxc5 9. a3 dxc4 10. Qc2 a6 11. Bxc4 b5 12. Be2 Be7 13. O-O Bb7 14. Ne5 Nbd7 15.
+Rfd1 Qc8 16. Nxd7 Nxd7 17. Bd6 Bxd6 18. Rxd6 Nf6 19. Rc1 Qc7 20. Rd4 Rac8 21.
+Qd2 Ne4 22. Qd1 Nxc3 23. Rxc3 Qb8 24. Qd2 Rxc3 25. Qxc3 Rc8 26. Qd2 h6 27. h4
+Qa8 28. f3 Qb8 29. Rd6 Bd5 30. Rxa6 Rd8 31. Qc3 Qg3 32. Rb6 Bc4 33. Bxc4 bxc4
+34. Qc1 e5 35. Rc6 e4 36. Qf1 exf3 37. Qxf3 Qe1+ 38. Kh2 Qxh4+ 39. Qh3 Qxh3+
+40. Kxh3 Rd2 41. Rxc4 Rxb2 42. a4 Rb3 43. Re4 f6 44. g4 Ra3 45. Kg3 Kh7 46. Kf4
+Ra2 47. Kf5 Ra3 48. Kf4 Ra2 49. Rd4 Kg6 50. Rc4 Ra1 51. Kf3 Rf1+ 52. Kg2 Ra1
+53. Kf3 Ra3 54. Rd4 Ra2 55. Rc4 Kh7 56. Rd4 Kg6 57. Rc4 Ra3 58. Kf4 h5 59.
+gxh5+ Kxh5 60. Rc5+ g5+ 61. Kf5 Kh4 62. Kxf6 Rxa4 63. Kf5 g4 64. Rc8 Ra1 65.
+Rh8+ Kg3 66. e4 Rb1 67. Ra8 Rc1 68. e5 Rb1 69. Ra4 Rf1+ 70. Kg5 Re1 71. Rxg4+
+Kh3 72. Rh4+ Kg3 73. Rg4+ Kh3 74. Rh4+ Kg3 75. Rg4+ 1/2-1/2
+

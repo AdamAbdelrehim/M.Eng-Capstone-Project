@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "QuantGuy"]
+[Black "iakov98"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/GSPmlaxQ"]
+[BlackTitle "IM"]
+[WhiteElo "2486"]
+[BlackElo "2677"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation, Rubinstein Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:41:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+3"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Nf6 6. Bf4 Bg4 7. Qb3 Qd7 8. h3
+Bh5 9. Nd2 e6 10. Ngf3 Bd6 11. Ne5 Qc7 12. g4 Bg6 13. Bxg6 hxg6 14. Ndf3 Nxg4
+15. O-O-O Nxf2 0-1
+

@@ -1,0 +1,28 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "magnusglad_bot"]
+[Black "ELO_1500"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/5r3Bbij5"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2575"]
+[BlackElo "2689"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack"]
+[TimeControl "1200+20"]
+[UTCDate "2024.06.03"]
+[UTCTime "03:17:10"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. f4
+exf4 9. Bxf4 Nc6 10. Qd2 d5 11. exd5 Nxd5 12. Nxd5 Qxd5 13. O-O-O O-O-O 14. Bd3
+Bd6 15. h3 h6 16. Rhf1 Rhe8 17. Bxd6 Rxd6 18. Qf2 Red8 19. Kb1 Nb4 20. a3 Nxd3
+21. Rxd3 Qg5 22. Rxd6 Rxd6 23. Nd4 Bd7 24. g4 Qe5 25. Nf5 Bxf5 26. gxf5 Rf6 27.
+Qg1 Rxf5 28. Rxf5 Qxf5 29. Qxg7 Qf1+ 30. Ka2 Qxh3 31. Qxf7 Qe3 32. Qg8+ Kc7 33.
+b3 Qc3 0-1
+

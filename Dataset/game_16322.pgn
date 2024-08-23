@@ -1,0 +1,31 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "ChessatronBot"]
+[Black "fornax-engine"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/kyqwwoxq"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2509"]
+[BlackElo "2420"]
+[ECO "E30"]
+[Opening "Nimzo-Indian Defense: Leningrad Variation"]
+[TimeControl "900+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "01:02:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bg5 Bxc3+ 5. bxc3 h6 6. Bh4 b6 7. e3 g5 8. Bg3
+Bb7 9. Nf3 d6 10. Bd3 g4 11. Nh4 Rg8 12. a4 Nh5 13. a5 Nxg3 14. hxg3 a6 15.
+axb6 cxb6 16. d5 Qf6 17. O-O Nd7 18. dxe6 fxe6 19. Be2 Ke7 20. Bxg4 Qxc3 21.
+Bf3 Bxf3 22. Qxf3 Qf6 23. Qb7 a5 24. Rad1 Rab8 25. Qc6 Qe5 26. Nf3 Qc5 27. Nd4
+Ne5 28. Qe4 Rg4 29. f4 Rc8 30. Rb1 Rc7 31. Qh7+ Nf7 32. f5 e5 33. f6+ Ke8 34.
+Nf5 Kf8 35. Kh2 h5 36. Rb5 Qc6 37. Nh6 Nxh6 38. Qxh6+ Kg8 39. Qxh5 Kf8 40. f7
+Rf4 41. Qh6+ Kxf7 42. Rxf4+ exf4 43. Rg5 fxg3+ 44. Kxg3 Ke7 45. Rg7+ Kd8 46.
+Rg8+ Ke7 47. Qh7+ Ke6 48. Rg6+ Kf5 49. Rg7+ Ke6 50. Qh6+ Ke5 51. Qf4+ Ke6 52.
+Qg4+ Ke5 53. Rg5+ Kf6 54. Qf5+ Ke7 55. Rg7+ Ke8 56. Qe6+ Re7 57. Qxe7# 1-0
+

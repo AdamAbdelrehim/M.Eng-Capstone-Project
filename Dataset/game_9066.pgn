@@ -1,0 +1,39 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Nam-stockfish"]
+[Black "PetersBot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/pRrJ82Fm"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2880"]
+[BlackElo "2971"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, Rio Gambit Accepted"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "06:40:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-2"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Nxe5 7. Bf1 Be7
+8. Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. c3 Rxe1 12. Qxe1 Nf5 13. a4 a5 14. Bf4
+Ne7 15. Nd2 Nd5 16. Bg3 d6 17. Qe4 Be6 18. Re1 Nb6 19. b3 Nd5 20. Qf3 c6 21.
+Ne4 Be7 22. h4 h6 23. Bd3 Qd7 24. Bb1 f5 25. c4 Rf8 26. Nd2 Nf6 27. Qe3 Bf7 28.
+Nf3 Re8 29. Qd2 b6 30. Bd3 Ne4 31. Bxe4 fxe4 32. Rxe4 Bf8 33. Rf4 Qe6 34. Kh2
+Qg6 35. Qc3 Qh5 36. Kg1 g5 37. Rf5 Be7 38. Qe3 Bd8 39. Qd3 Bg6 40. Bxd6 Re6 41.
+c5 Bxf5 42. Qxf5 Qf7 43. Qxf7+ Kxf7 44. hxg5 hxg5 45. Ne5+ Ke8 46. Kh2 bxc5 47.
+dxc5 Be7 48. Nxc6 Bxd6+ 49. cxd6 Rxd6 50. Nxa5 Rd3 51. Nb7 Rxb3 52. Nc5 Rb4 53.
+Ne6 Rxa4 54. Nxg5 Ra1 55. f4 Rb1 56. Kg3 Ra1 57. f5 Rb1 58. Ne4 Ra1 59. Nf6+
+Ke7 60. Ne4 Rb1 61. Kf3 Ra1 62. g4 Rb1 63. g5 Ra1 64. g6 Rb1 65. Kg4 Ra1 66.
+f6+ Ke8 67. Nc5 Rb1 68. Ne6 Rf1 69. Nc7+ Kf8 70. Ne6+ Ke8 71. Nf4 Ra1 72. Kf5
+Rb1 73. Nd5 Rf1+ 74. Ke6 Re1+ 75. Kf5 Rf1+ 76. Kg5 Rg1+ 77. Kh6 Kf8 78. Kh5 Ra1
+79. Ne3 Rb1 80. Ng4 Ra1 81. Kh6 Rg1 82. Ne5 Rh1+ 83. Kg5 Rd1 84. Kf5 Rf1+ 85.
+Kg5 Rd1 86. Ng4 Rg1 87. Kf5 Rf1+ 88. Ke6 Re1+ 89. Kf5 Rf1+ 90. Ke4 Re1+ 91. Kd4
+Rd1+ 92. Ke4 Re1+ 93. Kf4 Rf1+ 94. Ke5 Re1+ 95. Kd6 Rd1+ 96. Ke6 Re1+ 97. Ne5
+Re2 98. g7+ Kg8 99. Kf5 Rf2+ 100. Ke6 Re2 101. Kd6 Rg2 102. Ke7 Rxg7+ 103. fxg7
+Kxg7 1/2-1/2
+

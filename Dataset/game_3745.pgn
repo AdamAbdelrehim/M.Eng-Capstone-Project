@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "B-the-bot"]
+[Black "expositor"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/aNMcMyKv"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2892"]
+[BlackElo "2748"]
+[ECO "D41"]
+[Opening "Queen's Gambit Declined: Semi-Tarrasch Defense"]
+[TimeControl "300+3"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:30:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+43"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 cxd4 6. Qxd4 exd5 7. Bg5 Be7 8.
+e3 Nc6 9. Qd3 h6 10. Bh4 O-O 11. Be2 Nb4 12. Qd1 Ne4 13. Bxe7 Qxe7 14. a3 Nxc3
+15. bxc3 Na6 16. Qxd5 Nc5 17. Nd4 Bd7 18. O-O Rac8 19. Qc4 Qf6 20. Qb4 b6 21.
+c4 Rfd8 22. Rab1 Rc7 23. Rbd1 Ba4 24. Rd2 Ne4 25. Ra2 Bd7 26. a4 a5 27. Qb2 Nc5
+28. Rfa1 Qg6 29. h4 Rcc8 30. h5 Qf6 31. Bf3 Nd3 32. Qb3 Nc5 33. Qb1 Kh8 34. Qc2
+Na6 35. Qb3 Nc5 36. Qb1 Re8 37. Qd1 Ne4 38. Ne2 Nc5 39. Nf4 Be6 40. Nd5 Qe5 41.
+Nxb6 Red8 42. Qf1 Rb8 43. Rb1 Qc7 44. Nd5 Qa7 45. Rb5 Bd7 46. Qe1 Ra8 47. Nf4
+Bxb5 48. axb5 Nb7 49. Bd5 Rd7 50. g3 Qc5 51. Qa1 Rc8 52. e4 Qf8 53. e5 Qb4 54.
+Bc6 Rdc7 55. Nd5 Qxc4 56. Nxc7 Rxc7 57. Rd2 Qg4 58. Qb1 Qg5 59. Qd1 Re7 60.
+Bxb7 Re8 61. Bc6 Rb8 62. Rd7 Rc8 63. Kg2 a4 64. Rxf7 Qxe5 65. Qf3 Rg8 66. Rf8
+Qe6 67. Rxg8+ Qxg8 68. b6 Qd8 69. b7 a3 70. Qf5 Qg8 71. Bd5 Qd8 72. Qc8 g6 73.
+Qxd8+ Kg7 74. Qe7+ Kh8 75. b8=R# 1-0
+

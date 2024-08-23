@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Nikitosik-ai"]
+[Black "Nikitosikbot_v2"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/jQjvdJm9"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3016"]
+[BlackElo "3018"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "05:07:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O d6 6. c3 a5 7. Re1 O-O 8. Nbd2
+Be6 9. Bb5 Qb8 10. Nf1 Qa7 11. Be3 Bxe3 12. Nxe3 Ne7 13. a4 Ng6 14. Bc4 Bxc4
+15. Nxc4 Rfe8 16. g3 Qb8 17. h4 Qc8 18. Ne3 Nf8 19. Kg2 Qd7 20. Qc2 h6 21. b3
+b6 22. Rac1 Rac8 23. Re2 Rb8 24. Ree1 Rbd8 25. Rcd1 Rb8 26. Rb1 Rbc8 27. Rbd1
+Rcd8 28. Re2 d5 29. b4 d4 30. Nf5 axb4 31. cxb4 h5 32. Rc1 g6 33. Qd2 N6h7 34.
+Nh6+ Kg7 35. Ng5 Re7 36. Ngxf7 Rxf7 37. Nxf7 Qxf7 38. Rc6 Ne6 39. Qa2 Re8 40.
+Qd5 Nf6 41. Qxe5 Nd8 42. Qxc7 Nxc6 43. Qxc6 Re6 44. Qc4 Qd7 45. Rc2 Ng4 46. Qc7
+Re7 47. Qxb6 Ne5 48. Rc5 Nxd3 49. Rd5 Nf4+ 50. gxf4 Qg4+ 51. Kf1 Qd1+ 52. Kg2
+Qg4+ 53. Kf1 Qd1+ 54. Kg2 Qg4+ 1/2-1/2
+

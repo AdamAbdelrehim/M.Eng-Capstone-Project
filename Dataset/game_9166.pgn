@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "odonata-bot"]
+[Black "ChessatronBot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/wVUin1Wy"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2625"]
+[BlackElo "2456"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation"]
+[TimeControl "180+3"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:00:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 O-O 12. Nc2 Rb8 13. h4 Re8 14. Nce3 Re6
+15. g3 Ne7 16. Bh3 Nxd5 17. Nxd5 Re8 18. Bxc8 Rxc8 19. O-O Rc4 20. Qf3 Be7 21.
+b3 Rc6 22. a4 Qd7 23. axb5 axb5 24. Ra5 Rcc8 25. Kg2 Bd8 26. Ra6 Rc6 27. Ra2
+Rc5 28. b4 Rc8 29. Rfa1 Rb8 30. Ra7 Rb7 31. Ra8 g6 32. h5 Qe6 33. h6 Rf8 34.
+R1a6 Rd7 35. Rb6 Bg5 36. Rxf8+ Kxf8 37. Rxb5 Rd8 38. Rb7 Rd7 39. Rb6 Bxh6 40.
+c4 Rd8 41. c5 Rc8 42. Rxd6 Qe8 43. Qf6 Bg7 44. Qg5 h6 45. Qh4 g5 46. Qg4 Rc6
+47. Rd7 Re6 48. Rb7 Qa8 49. Rc7 Qe8 50. Qf5 Kg8 51. b5 h5 52. b6 Kh8 53. b7 Qg8
+54. Rc8 Qf8 55. b8=Q Kg8 56. Rxf8+ Bxf8 57. Nf6+ Rxf6 58. Qxf6 h4 59. gxh4 gxh4
+60. Kh2 h3 61. Qbxe5 Kh7 62. Qxf7+ Kh6 63. Qef4# 1-0
+

@@ -1,0 +1,29 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "RaspFish"]
+[Black "Butzke_BOT"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/VJr6Ls34"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3034"]
+[BlackElo "2957"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Closed, Anti-Sveshnikov Variation, Kharlov-Kramnik Line"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:51:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+4"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e5 4. Bc4 Be7 5. d3 d6 6. Nd2 Bg5 7. h4 Bxd2+ 8.
+Bxd2 Nf6 9. Bb5 O-O 10. Bxc6 bxc6 11. Qf3 Rb8 12. b3 h6 13. Qg3 Nh5 14. Qf3 Nf6
+15. Rg1 Ng4 16. Qg3 f5 17. exf5 Bxf5 18. O-O-O Rb7 19. h5 Nf6 20. Bxh6 Bg4 21.
+f3 gxh6 22. fxg4 Rg7 23. Rdf1 Nxg4 24. Kb1 d5 25. Nd1 Rg5 26. Rf3 Qe7 27. Rgf1
+Rxf3 28. Qxf3 Kg7 29. Rh1 e4 30. dxe4 dxe4 31. Qf1 Nf6 32. Ne3 Kh7 33. Rh3 Nd5
+34. Qc4 Kh8 35. a3 Qd6 36. Ka2 Re5 37. g4 Re8 38. a4 a5 39. Kb1 Qe5 40. Nxd5
+Qxd5 41. Qe2 Kg7 42. Rc3 Re5 1/2-1/2
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "chessdax"]
+[Black "L2CH"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/vCNLCteq"]
+[WhiteElo "2521"]
+[BlackElo "2455"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation, Barmen Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:47:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 e6 6. Na3 Nc6 7. Nc2 cxd4 8.
+Ncxd4 Nxd4 9. Qxd4 Bc5 10. Qxd5 Nxd5 11. g3 b6 12. Bg2 Ba6 13. Ne5 Rd8 14. a3
+f6 15. Nc6 Rd7 16. Nb4 Bxb4 17. axb4 Bc4 18. Bd2 Ke7 19. Bf1 Bxf1 20. Rxf1 Rhd8
+21. Ke2 Nxb4 22. Rfc1 0-1
+

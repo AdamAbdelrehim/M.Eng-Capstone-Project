@@ -1,0 +1,29 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "CruelKen"]
+[Black "BitByByte"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/ZcBFNFN6"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3008"]
+[BlackElo "2903"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation"]
+[TimeControl "360+3"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:52:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. d4 Nf6 2. Nf3 d5 3. Nbd2 Bf5 4. c4 e6 5. Qb3 b6 6. h3 h6 7. Ne5 Bd6 8. g4
+Bh7 9. h4 c5 10. g5 cxd4 11. Nef3 Ng4 12. gxh6 Nxh6 13. cxd5 O-O 14. Nxd4 Na6
+15. Bh3 Nc5 16. Qf3 exd5 17. Qg2 Kh8 18. N2f3 Qe8 19. Be3 Bf4 20. Rg1 Rg8 21.
+Bxf4 Nd3+ 22. Kf1 Nxf4 23. Qg3 Nxh3 24. Qxh3 Rc8 25. Ng5 Qa4 26. e3 Be4 27.
+Nxe4 dxe4 28. b3 Qa6+ 29. Kg2 Rc5 30. Kh2 Qa5 31. Qg2 Qd2 32. Rgd1 Qb2 33. Rdb1
+Qd2 34. Rd1 Qb2 35. Rdb1 Qd2 36. Rf1 Re5 37. a4 g6 38. Rfd1 Qb2 39. Rdb1 Qd2
+40. Rd1 Qb2 41. Rdb1 Qc3 42. Rc1 Qb2 43. Rcb1 1/2-1/2
+

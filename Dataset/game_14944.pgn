@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Giraffe_Chess"]
+[Black "HL7"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/iOmeQpxA"]
+[WhiteTitle "NM"]
+[WhiteElo "2508"]
+[BlackElo "2475"]
+[ECO "A31"]
+[Opening "English Opening: Symmetrical Variation, Anti-Benoni Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:26:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. c4 c5 3. Nf3 cxd4 4. Nxd4 e5 5. Nb5 d5 6. cxd5 Bc5 7. e3 O-O 8.
+N5c3 a6 9. a3 b5 10. b4 Bb6 11. Be2 Bb7 12. Bf3 Re8 13. Qd3 Nbd7 14. e4 Nf8 15.
+Be3 Ng6 16. O-O Rc8 17. g3 h5 18. Nd2 h4 19. Rfc1 hxg3 20. hxg3 Bxe3 21. Qxe3
+Qd7 22. Nd1 Qh3 23. Bg2 Qh5 24. Qf3 Ng4 25. Nf1 Rxc1 26. Rxc1 Rf8 27. Nde3 f5
+28. exf5 1-0
+

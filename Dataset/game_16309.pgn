@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Founoir"]
+[Black "Jugadordebil"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/j2Ytay2r"]
+[WhiteElo "2501"]
+[BlackElo "2422"]
+[ECO "C41"]
+[Opening "Philidor Defense: Hanham Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:57:25"]
+[Termination "Normal"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+7"]
+
+1. d4 d6 2. e4 Nd7 3. Nf3 e5 4. Bc4 f6 5. O-O c6 6. Nh4 g6 7. f4 Qe7 8. fxe5
+dxe5 9. c3 Bh6 10. Bxh6 Nxh6 11. Nd2 Nf7 12. a4 O-O 13. a5 Kg7 14. Qg4 Nb6 15.
+Nf5+ Bxf5 16. exf5 Nxc4 17. Nxc4 exd4 18. cxd4 Qb4 19. Rac1 Rad8 20. h4 Nh6 21.
+Qg3 Rxd4 22. b3 Rg4 23. Qf3 Qc5+ 24. Rf2 Qxf5 25. Qe3 Qe4 26. Qxa7 Rxh4 27. Nd6
+Qe5 28. Qxb7+ Kh8 29. Qxc6 Ng4 30. Kf1 Rh1# 0-1
+

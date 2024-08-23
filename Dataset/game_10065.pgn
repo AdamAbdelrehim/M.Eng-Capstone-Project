@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Grandstodge"]
+[Black "Rory_Sutherland"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/59FRpmm0"]
+[WhiteElo "2521"]
+[BlackElo "2709"]
+[ECO "C58"]
+[Opening "Italian Game: Two Knights Defense, Polerio Defense, Bishop Check Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:41:58"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Bd3 h6 9. Ne4 Nd5 10. O-O Be7 11. Re1 O-O 12. Ng3 Bd6 13. Bf5 c5 14. d3 Nc6 15.
+Qg4 Nde7 16. Bxh6 Nxf5 17. Nxf5 Qf6 18. Qxg7+ Qxg7 19. Bxg7 Bxf5 20. Bxf8 Kxf8
+21. Nc3 Nd4 22. Rac1 Rb8 23. Nd1 f6 24. Kf1 Kf7 25. Re3 Bf8 26. c3 Ne6 27. Rc2
+c4 28. Rd2 Bxd3+ 29. Rexd3 cxd3 30. Rxd3 a5 31. b3 Nc5 32. Rf3 Ke6 33. Ne3 Ne4
+34. Nc4 a4 35. Re3 Kd5 36. f3 Nc5 37. Nd2 axb3 38. c4+ Kd4 39. Ke2 bxa2 40. f4
+Rb2 0-1
+

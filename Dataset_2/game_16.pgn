@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2020.11.13"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Jackga217"]
+[Result "1-0"]
+[CurrentPosition "rnbqkbnr/p1p2ppp/1p1p4/4N3/4P3/8/PPPP1PPP/RNBQKB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "C40"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation"]
+[UTCDate "2020.11.13"]
+[UTCTime "02:59:30"]
+[WhiteElo "1200"]
+[BlackElo "634"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "02:59:30"]
+[EndDate "2020.11.13"]
+[EndTime "02:59:53"]
+[Link "https://www.chess.com/game/live/5735269813"]
+
+1. e4 { [%clk 0:09:59.9] } 1... e5 { [%clk 0:09:59.9] } 2. Nf3
+{ [%clk 0:09:58] } 2... b6 { [%clk 0:09:54.1] } 3. Nxe5 { [%clk 0:09:53.3] }
+3... d6 { [%clk 0:09:49.8] } 1-0
+

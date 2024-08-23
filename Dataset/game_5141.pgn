@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "odonata-bot"]
+[Black "ChessatronBot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/AqtKcgOk"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2626"]
+[BlackElo "2464"]
+[ECO "B60"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation"]
+[TimeControl "180+3"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:34:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 Qb6 7. Nb3 Be6 8.
+Bxf6 exf6 9. Nd5 Bxd5 10. Qxd5 g6 11. Bc4 Ne5 12. Bb5+ Ke7 13. O-O-O Rc8 14.
+Kb1 a6 15. Be2 Bh6 16. g3 Qc6 17. Qxc6 Nxc6 18. f4 Bg7 19. Rd5 Rhd8 20. a4 Nb4
+21. Rd2 Nc6 22. c3 Rb8 23. Rd5 Kd7 24. Rhd1 Kc7 25. Bc4 Rd7 26. R5d3 Rf8 27.
+Bd5 Re8 28. Nd2 b5 29. axb5 axb5 30. Nf1 Na5 31. Ne3 h6 32. Kc2 Nc6 33. h4 h5
+34. Ra1 Kb6 35. Ra6+ Kxa6 36. Bxc6 Red8 37. Nd5 Rb7 38. Rd1 Ka7 39. Ra1+ Kb8
+40. Bxb7 Kxb7 41. Ra5 Rd7 42. Rxb5+ Ka7 43. b4 Bh8 44. Rb6 g5 45. Kd3 g4 46.
+Rb5 f5 47. exf5 f6 48. c4 Bg7 49. Ra5+ Kb7 50. b5 Rd8 51. Ra6 Rd7 52. Ra1 Rd8
+53. Re1 Rd7 54. Re6 Ka7 55. Nxf6 Bxf6 56. Rxf6 Kb6 57. Kd4 Kc7 58. Kd5 Rd8 59.
+b6+ Kb7 60. Rxd6 Rf8 61. f6 Ka6 62. c5 Ka5 63. Kc4 Ka4 64. Rd2 Ka3 65. b7 Rb8
+66. f7 Rxb7 67. f8=Q Rb4+ 68. Kd5 Rxf4 69. Qxf4 Kb3 70. Qc4+ Ka3 71. Ra2# 1-0
+

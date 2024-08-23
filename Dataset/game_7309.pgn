@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Knights4base"]
+[Black "r-3141592-pi"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Z6d4chED"]
+[WhiteTitle "IM"]
+[WhiteElo "2549"]
+[BlackElo "2330"]
+[ECO "A05"]
+[Opening "King's Indian Attack"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:48:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 Nc6 4. d4 e6 5. c4 Be7 6. Nc3 O-O 7. Bg5 h6 8. Bxf6
+Bxf6 9. cxd5 exd5 10. e3 a6 11. O-O b5 12. Rc1 Na5 13. Nxd5 c6 14. Nxf6+ Qxf6
+15. Ne5 Ra7 16. Qd2 Nc4 17. Nxc4 bxc4 18. Rxc4 Bd7 19. Rfc1 Rc8 20. Qc2 Rac7
+21. Qc3 Be6 22. Rc5 Bxa2 23. Bxc6 Be6 24. d5 Qxc3 25. R5xc3 Bg4 26. d6 Ra7 27.
+e4 f6 28. f3 Be6 29. Bd5 Re8 30. Rc8 Bxd5 31. Rxe8+ Kf7 32. exd5 Kxe8 33. Rc7
+Rxc7 34. dxc7 Kd7 35. d6 1-0
+

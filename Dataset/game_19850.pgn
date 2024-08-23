@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Otsz"]
+[Black "training_account_555"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/dPDWxbyL"]
+[WhiteTitle "FM"]
+[WhiteElo "2637"]
+[BlackElo "2645"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:21:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. Ne2 g6 7. Bf4 Qb6 8. Qb3
+Qxb3 9. axb3 Bg7 10. b4 Bf5 11. Bxf5 gxf5 12. b5 Nd8 13. Nd2 e6 14. Nb3 Nf6 15.
+Nc5 b6 16. Na6 O-O 17. Nc7 Rc8 18. Rxa7 Ne4 19. f3 Nf6 20. Bd6 1-0
+

@@ -1,0 +1,43 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2023.06.20"]
+[Round "-"]
+[White "chesskingboy"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "6k1/1p4bp/1pn1q1p1/3Bpp2/8/2N3P1/PP2PP1P/4Q1K1 b - - 1 25"]
+[Timezone "UTC"]
+[ECO "E62"]
+[ECOUrl "https://www.chess.com/openings/Kings-Indian-Defense-Fianchetto-Variation"]
+[UTCDate "2023.06.20"]
+[UTCTime "22:50:41"]
+[WhiteElo "1487"]
+[BlackElo "1320"]
+[TimeControl "1/259200"]
+[Termination "chesskingboy won by resignation"]
+[StartTime "22:50:41"]
+[EndDate "2023.06.24"]
+[EndTime "04:26:29"]
+[Link "https://www.chess.com/game/daily/531777711"]
+
+1. d4 { [%clk 70:13:29] } 1... Nf6 { [%clk 72:00:00] } 2. c4
+{ [%clk 65:55:48] } 2... g6 { [%clk 71:59:46] } 3. g3 { [%clk 49:54:09] } 3...
+Bg7 { [%clk 71:03:35] } 4. Bg2 { [%clk 71:46:44] } 4... O-O { [%clk 71:59:36] }
+5. Nf3 { [%clk 61:20:06] } 5... e6 { [%clk 71:56:19] } 6. Qc2
+{ [%clk 71:49:20] } 6... c5 { [%clk 71:53:06] } 7. O-O { [%clk 69:52:50] } 7...
+cxd4 { [%clk 71:59:16] } 8. Nxd4 { [%clk 71:58:43] } 8... Nc6
+{ [%clk 71:59:49] } 9. Nb5 { [%clk 71:58:53] } 9... d5 { [%clk 71:59:17] } 10.
+cxd5 { [%clk 70:32:55] } 10... Nxd5 { [%clk 71:57:04] } 11. N5c3
+{ [%clk 71:42:43] } 11... Nb6 { [%clk 71:59:07] } 12. Bf4 { [%clk 71:58:26] }
+12... e5 { [%clk 71:59:22] } 13. Rd1 { [%clk 71:33:51] } 13... Qe7
+{ [%clk 71:59:15] } 14. Be3 { [%clk 71:56:49] } 14... Bf5 { [%clk 71:59:08] }
+15. Qc1 { [%clk 71:31:51] } 15... Rfd8 { [%clk 71:59:33] } 16. Nd2
+{ [%clk 71:57:05] } 16... Rd7 { [%clk 71:59:13] } 17. Nde4 { [%clk 71:59:03] }
+17... Rad8 { [%clk 71:58:44] } 18. Rxd7 { [%clk 71:59:21] } 18... Rxd7
+{ [%clk 71:59:48] } 19. Qe1 { [%clk 71:59:31] } 19... Be6 { [%clk 68:33:57] }
+20. Rd1 { [%clk 71:57:31] } 20... f5 { [%clk 71:59:22] } 21. Rxd7
+{ [%clk 71:58:09] } 21... Qxd7 { [%clk 71:59:45] } 22. Nc5 { [%clk 48:18:59] }
+22... Qe7 { [%clk 71:59:33] } 23. Nxe6 { [%clk 68:54:15] } 23... Qxe6
+{ [%clk 71:59:43] } 24. Bxb6 { [%clk 71:59:53] } 24... axb6 { [%clk 71:59:50] }
+25. Bd5 { [%clk 71:59:54] } 1-0
+

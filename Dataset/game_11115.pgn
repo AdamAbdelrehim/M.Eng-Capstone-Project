@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "LabutinAa"]
+[Black "theuncannycapybara"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/G08zdcjk"]
+[WhiteElo "2518"]
+[BlackElo "2476"]
+[ECO "C00"]
+[Opening "French Defense: King's Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:17:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 e6 2. d3 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. g3 dxe4 6. dxe4 Bc5 7. Bg2 e5 8.
+O-O O-O 9. c3 a5 10. Qc2 Qe7 11. Nc4 Rd8 12. Ne3 Be6 13. Nh4 g6 14. Bd2 a4 15.
+b4 axb3 16. axb3 Rxa1 17. Rxa1 Bxb3 18. Qxb3 Rxd2 19. Qxb7 Bxe3 20. fxe3 Qc5
+21. Re1 Qxc3 22. Qxc7 Rd7 23. Qc8+ Rd8 24. Qxd8+ Nxd8 25. Rf1 Qxe3+ 26. Kh1
+Nxe4 0-1
+

@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "xiaochess"]
+[Black "GelioChess"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/LopIPckj"]
+[BlackTitle "FM"]
+[WhiteElo "2845"]
+[BlackElo "2754"]
+[ECO "E12"]
+[Opening "Queen's Indian Defense: Petrosian Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:20:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 Ba6 5. Qc2 d5 6. cxd5 exd5 7. Bf4 c5 8. Bxb8
+1-0
+

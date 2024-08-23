@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "RTG_R"]
+[Black "BadAsMe"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/A0rrZ6Ld"]
+[BlackTitle "IM"]
+[WhiteElo "2567"]
+[BlackElo "2511"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:04:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Bxc6 dxc6 5. d3 Bg4 6. h3 Bh5 7. g4 Bg6 8. b3
+Qc7 9. Bb2 Nd7 10. Nbd2 e5 11. Nh4 f6 12. g5 Bf7 13. gxf6 gxf6 14. Rg1 O-O-O
+15. Nf5 Bg6 16. Qf3 Bxf5 17. Qxf5 Bh6 18. O-O-O Qd6 19. Kb1 Bxd2 20. Rxd2 Qe7
+21. f4 Rdg8 22. Rxg8+ Rxg8 23. a4 a5 24. Rf2 Kc7 25. fxe5 fxe5 26. Qf7 Rg7 27.
+Qh5 Qg5 28. Qf3 Qg3 29. Qf5 Rg5 30. Qf7 Rg7 31. Qe8 Qg1+ 32. Ka2 Qxf2 33. Bxe5+
+Nxe5 34. Qxe5+ Kb6 35. Qxg7 Qxc2+ 36. Qb2 Qxd3 37. e5 Qxh3 38. Qd2 Qe6 39. Qd8+
+Ka6 40. Qa8+ Kb6 41. Qd8+ Ka6 42. Qf6 Qd5 43. e6 Qd2+ 44. Qb2 Qe3 45. Qf6 Qd2+
+46. Ka3 Qc1+ 47. Qb2 Qe3 48. Qf6 c4 49. Ka2 Qxb3+ 50. Ka1 c3 51. Qf1+ Ka7 52.
+Qe2 Qxa4+ 53. Kb1 Qb3+ 54. Kc1 Qa3+ 55. Kc2 Qb2+ 56. Kd3 Qb5+ 57. Ke3 Qe5+ 58.
+Kf2 Qf4+ 59. Ke1 Qc1+ 60. Kf2 Qf4+ 61. Ke1 Qc1+ 62. Kf2 c2 63. e7 Qf4+ 64. Kg2
+c1=Q 65. e8=Q Qcd2 0-1
+

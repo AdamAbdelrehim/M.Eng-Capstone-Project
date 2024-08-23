@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Computercheat"]
+[Black "alfil_zero"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/QjpfPq5k"]
+[WhiteTitle "FM"]
+[WhiteElo "2571"]
+[BlackElo "2432"]
+[ECO "D01"]
+[Opening "Richter-Veresov Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "23:25:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 h6 4. Bh4 g5 5. Bg3 Bg7 6. e3 Nbd7 7. Nf3 a6 8. h4
+g4 9. Ne5 c5 10. Bd3 cxd4 11. exd4 Qb6 12. O-O Qxd4 13. Nxf7 Ne4 14. Bxe4 1-0
+

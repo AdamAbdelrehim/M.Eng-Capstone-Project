@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Glek_Igor"]
+[Black "chesssnotasport"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/xV5C7UA7"]
+[WhiteTitle "GM"]
+[WhiteElo "2585"]
+[BlackElo "2504"]
+[ECO "C40"]
+[Opening "Elephant Gambit: Paulsen Countergambit"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:37:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Nf6 5. Nc3 Be7 6. Nxe4 O-O 7. d3 c6 8. d6
+Bxd6 9. Bg5 Be7 10. Nxf6+ Bxf6 11. Bxf6 Qxf6 12. O-O-O Bg4 13. h3 Bxf3 14. Qxf3
+Qxf3 15. gxf3 Nd7 16. d4 Rfe8 17. Bd3 g6 18. Rhe1 Kg7 19. Re3 Rxe3 20. fxe3 Re8
+21. Kd2 Nf6 22. Re1 c5 23. dxc5 Rc8 24. b4 Nd5 25. c3 Kf6 26. Be4 Rd8 27. Kc2
+b6 28. cxb6 Nxb6 29. Rd1 Re8 30. Rd6+ Ke5 31. Rc6 f5 32. Bd3 Kd5 33. Rc7 Rxe3
+34. c4+ Ke6 35. Rxa7 Nd7 36. f4 Rxh3 37. c5 Rh2+ 38. Kc3 h5 39. Bc4+ 1-0
+

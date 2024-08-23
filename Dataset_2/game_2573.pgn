@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.26"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Jexx_Masta"]
+[Result "0-1"]
+[CurrentPosition "8/p4kpp/1p6/4R3/8/8/P4PPP/2r3K1 w - -"]
+[Timezone "UTC"]
+[ECO "A06"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-Tennison-Gambit"]
+[UTCDate "2021.10.26"]
+[UTCTime "08:18:20"]
+[WhiteElo "1277"]
+[BlackElo "1373"]
+[TimeControl "60"]
+[Termination "Jexx_Masta won by resignation"]
+[StartTime "08:18:20"]
+[EndDate "2021.10.26"]
+[EndTime "08:19:55"]
+[Link "https://www.chess.com/game/live/28975193349"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.6] }
+2... dxe4 { [%clk 0:00:59.4] } 3. Ng5 { [%clk 0:00:58.4] } 3... Nf6
+{ [%clk 0:00:58.9] } 4. Nc3 { [%clk 0:00:57.7] } 4... Bf5 { [%clk 0:00:57.8] }
+5. d3 { [%clk 0:00:55.5] } 5... exd3 { [%clk 0:00:56.6] } 6. Bxd3
+{ [%clk 0:00:55.4] } 6... Bxd3 { [%clk 0:00:55.4] } 7. Qxd3 { [%clk 0:00:55] }
+7... Qxd3 { [%clk 0:00:54.8] } 8. cxd3 { [%clk 0:00:53.3] } 8... Nbd7
+{ [%clk 0:00:54.1] } 9. Bf4 { [%clk 0:00:52.4] } 9... e6 { [%clk 0:00:52.8] }
+10. Bxc7 { [%clk 0:00:49.8] } 10... Bb4 { [%clk 0:00:51.9] } 11. O-O
+{ [%clk 0:00:45.5] } 11... Bxc3 { [%clk 0:00:50.8] } 12. bxc3
+{ [%clk 0:00:44.3] } 12... b6 { [%clk 0:00:50.1] } 13. Rfe1
+{ [%clk 0:00:41.8] } 13... O-O { [%clk 0:00:48.3] } 14. Re2
+{ [%clk 0:00:35.6] } 14... Rfe8 { [%clk 0:00:46.7] } 15. Rae1
+{ [%clk 0:00:32.1] } 15... Rac8 { [%clk 0:00:45.9] } 16. Be5
+{ [%clk 0:00:30.9] } 16... Nxe5 { [%clk 0:00:43.5] } 17. Rxe5
+{ [%clk 0:00:28.4] } 17... Rxc3 { [%clk 0:00:42.9] } 18. d4
+{ [%clk 0:00:23.2] } 18... Nd5 { [%clk 0:00:39.1] } 19. Nf3
+{ [%clk 0:00:21.7] } 19... Nb4 { [%clk 0:00:35.5] } 20. d5 { [%clk 0:00:17.8] }
+20... Nd3 { [%clk 0:00:34.6] } 21. dxe6 { [%clk 0:00:14.3] } 21... Nxe5
+{ [%clk 0:00:32.5] } 22. exf7+ { [%clk 0:00:12.5] } 22... Kxf7
+{ [%clk 0:00:30.2] } 23. Nxe5+ { [%clk 0:00:11.6] } 23... Rxe5
+{ [%clk 0:00:29.2] } 24. Rxe5 { [%clk 0:00:09.6] } 24... Rc1+
+{ [%clk 0:00:28.6] } 0-1
+

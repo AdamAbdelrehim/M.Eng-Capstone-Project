@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "PurpleHunter"]
+[Black "odonata-bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/Dc3DlbTt"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2589"]
+[BlackElo "2637"]
+[ECO "E32"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Keres Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:18:22"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Bb7 8.
+f3 h6 9. Bh4 d5 10. e3 Nbd7 11. cxd5 Nxd5 12. Bxd8 Nxc3 13. Bh4 Nd5 14. Bf2 c5
+15. e4 Ne7 16. Bb5 Bc6 17. Bxc6 Nxc6 18. Ne2 cxd4 19. Nxd4 Rfc8 20. Rd1 Nde5
+21. Ke2 Nxd4+ 22. Bxd4 Rc2+ 23. Rd2 Rxd2+ 24. Kxd2 Rd8 25. Kc3 Nc6 26. Be3 Ne5
+27. Re1 Kh7 28. Re2 g5 29. Kb4 Rd3 30. Kb5 Rb3+ 31. Ka6 Nc4 32. Bd4 e5 33. Bc3
+Kg6 34. a4 Kf6 35. Kxa7 Ke6 36. Re1 b5 37. axb5 Rxb5 38. Rc1 Rb3 39. Rc2 Ne3
+40. Rd2 Nc4 41. Rc2 Ne3 42. Rd2 Nc4 43. Rc2 1/2-1/2
+

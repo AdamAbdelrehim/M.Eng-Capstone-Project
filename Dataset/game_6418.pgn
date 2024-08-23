@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Dmitrij_Osetrov"]
+[Black "silence404"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/FkLg1yWV"]
+[WhiteElo "2557"]
+[BlackElo "2779"]
+[ECO "E18"]
+[Opening "Queen's Indian Defense: Classical Variation, Traditional Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:24:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 c5 8. d5
+exd5 9. Nxd5 Nxd5 10. cxd5 d6 11. e4 Nd7 12. Bf4 b5 13. a4 a6 14. Re1 c4 15.
+Nd4 Nc5 16. Bf1 Qd7 17. Nf5 Bf6 18. Bxd6 Nxa4 19. Qg4 Kh8 20. Bxf8 Rxf8 21. Bg2
+Bxb2 22. e5 g6 23. e6 fxe6 24. dxe6 Qc7 25. e7 Re8 26. Bxb7 gxf5 27. Qxf5 Bg7
+28. Qf7 Qb8 29. Bc6 Rf8 30. exf8=Q+ Qxf8 31. Re8 Qg8 32. Qxg8# 1-0
+

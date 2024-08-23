@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "FIDE-Trainer1984"]
+[Black "d4nf6bf40-1"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/KUXKx816"]
+[WhiteElo "2531"]
+[BlackElo "2455"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:55:49"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+10"]
+
+1. e4 e6 2. d4 c5 3. c3 d5 4. e5 Nc6 5. Nf3 cxd4 6. cxd4 Nge7 7. Na3 Ng6 8. Nc2
+Nh4 9. Nxh4 Qxh4 10. Be2 Nb4 11. Ne3 Nc6 12. Nc2 Nb4 13. Ne3 Nc6 14. Bg4 h5 15.
+g3 Qg5 16. h4 Qg6 17. Bf3 Bb4+ 18. Kf1 f6 19. a3 Ba5 20. exf6 Qxf6 21. Bxh5+ g6
+22. Bg4 Nxd4 23. Kg2 Nf5 24. Re1 O-O 25. Re2 Nd4 26. b4 Nxe2 27. Qxe2 Bb6 28.
+Bb2 Bd4 29. Bxd4 Qxd4 30. Rd1 Qf6 31. Bh3 Bd7 32. Ng4 Qg7 33. Ne5 Bc6 34. Bxe6+
+Kh8 0-1
+

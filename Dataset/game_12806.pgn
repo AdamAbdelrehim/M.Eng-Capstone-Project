@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "PrinsesCracker"]
+[Black "FIDE-Trainer1984"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/KlXBeAMp"]
+[WhiteElo "2560"]
+[BlackElo "2536"]
+[ECO "A20"]
+[Opening "English Opening: King's English Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:18:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. c4 e5 2. g3 Nf6 3. Bg2 h6 4. Nf3 e4 5. Nd4 Nc6 6. Nc2 d5 7. cxd5 Qxd5 8. Nc3
+Qe5 9. O-O Bf5 10. Ne3 Bg6 11. Qa4 O-O-O 12. b4 Bxb4 13. Rb1 Qa5 14. Qb3 b6 15.
+a3 Bc5 16. d3 Nd4 17. Qb2 Qxc3 0-1
+

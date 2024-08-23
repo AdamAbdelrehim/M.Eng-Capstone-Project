@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Kurald_Ganorin"]
+[Black "BGIlehoangbach"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/8OkHzpzk"]
+[WhiteElo "2919"]
+[BlackElo "2729"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:14:50"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-31"]
+
+1. e4 c5 2. Qf3 d6 3. Bc4 Nf6 4. g4 e6 5. h4 Be7 6. Ne2 O-O 7. g5 Ne8 8. h5 e5
+9. g6 hxg6 10. hxg6 Be6 11. Rh8+ Kxh8 12. Qh5+ Kg8 13. Qh7# 1-0
+

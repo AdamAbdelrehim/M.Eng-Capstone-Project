@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Miron_Bayanych"]
+[Black "Shuvalov"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/lh0ilb4O"]
+[WhiteElo "2504"]
+[BlackElo "2544"]
+[ECO "D79"]
+[Opening "Neo-Grünfeld Defense: Ultra-Delayed Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:29:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 c6 5. Bg2 d5 6. cxd5 cxd5 7. O-O O-O 8. Nc3
+Bf5 9. Ne5 Ne4 10. Qb3 Nc6 11. Nxc6 bxc6 12. Nxe4 Bxe4 13. Bxe4 dxe4 14. Be3
+Rb8 15. Qc2 c5 16. dxc5 Rxb2 17. Qxe4 Rxe2 18. Rad1 Qc7 19. c6 Rxa2 20. Rd7 Qa5
+21. Rxa7 Qxa7 22. Bxa7 Rxa7 23. Rb1 Rc7 24. Rb7 Rfc8 25. Rxc7 Rxc7 26. Qd5 Bf8
+27. Qd7 Rxd7 28. cxd7 1-0
+

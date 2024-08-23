@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.08.17"]
+[Round "-"]
+[White "chaariwalid9"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r1br2k1/pp2ppbp/1q4p1/4P3/2BNQ3/8/P4PPP/R1B1K2R b KQ -"]
+[Timezone "UTC"]
+[ECO "D85"]
+[ECOUrl "https://www.chess.com/openings/Grunfeld-Defense-Exchange-Variation-5.e4-Nxc3-6.bxc3-Bg7"]
+[UTCDate "2023.08.17"]
+[UTCTime "16:24:21"]
+[WhiteElo "1916"]
+[BlackElo "1900"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "16:24:21"]
+[EndDate "2023.08.17"]
+[EndTime "16:28:52"]
+[Link "https://www.chess.com/game/live/86028578513"]
+
+1. d4 { [%clk 0:09:58.3] } 1... Nf6 { [%clk 0:09:57.5] } 2. c4
+{ [%clk 0:09:51.1] } 2... g6 { [%clk 0:09:54.8] } 3. Nc3 { [%clk 0:09:49.8] }
+3... d5 { [%clk 0:09:54.4] } 4. cxd5 { [%clk 0:09:45.1] } 4... Nxd5
+{ [%clk 0:09:54.3] } 5. e4 { [%clk 0:09:42.1] } 5... Nxc3 { [%clk 0:09:53.7] }
+6. bxc3 { [%clk 0:09:41] } 6... Bg7 { [%clk 0:09:53.6] } 7. e5
+{ [%clk 0:09:38.9] } 7... c5 { [%clk 0:09:53.3] } 8. Nf3 { [%clk 0:09:29.8] }
+8... Nc6 { [%clk 0:09:51.3] } 9. Bb5 { [%clk 0:09:26.4] } 9... Qb6
+{ [%clk 0:09:37.4] } 10. Qd3 { [%clk 0:08:51] } 10... O-O { [%clk 0:09:22.8] }
+11. Bc4 { [%clk 0:08:10] } 11... cxd4 { [%clk 0:09:00.7] } 12. cxd4
+{ [%clk 0:08:03.6] } 12... Nxd4 { [%clk 0:08:58.3] } 13. Nxd4
+{ [%clk 0:07:42.8] } 13... Rd8 { [%clk 0:08:55.9] } 14. Qe4
+{ [%clk 0:06:48.7] } 0-1
+

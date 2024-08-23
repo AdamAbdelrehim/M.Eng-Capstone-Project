@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "cibona"]
+[Black "manneredmonkey"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/zIamt2pp"]
+[BlackTitle "NM"]
+[WhiteElo "2531"]
+[BlackElo "2592"]
+[ECO "B00"]
+[Opening "Pirc Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:47:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 d6 2. d4 Kd7 3. Nc3 Qe8 4. f4 Kd8 5. Nf3 h6 6. Bc4 e6 7. O-O a6 8. a4 b6
+9. Be3 Bb7 10. Qd3 Nd7 11. Rae1 Kc8 12. b4 d5 13. exd5 Bxb4 14. dxe6 fxe6 15.
+Bd2 Nf8 16. f5 Nf6 17. fxe6 Be7 18. Ne5 Kb8 19. Nf7 Rg8 20. d5 Ka7 21. a5 Rd8
+22. axb6+ cxb6 23. Nxd8 Qxd8 24. Bf4 g5 25. Bg3 Nh5 26. d6 Nxg3 27. dxe7 Qxe7
+28. hxg3 Ng6 29. Rf7 Qc5+ 30. Kh2 g4 31. Bd5 Ne7 32. Bxb7 Rg5 33. Qe3 Rh5+ 34.
+Kg1 1-0
+

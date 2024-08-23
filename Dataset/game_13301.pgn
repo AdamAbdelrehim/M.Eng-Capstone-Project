@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "PatienceNEnthusiam"]
+[Black "existenceispunchline"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/8GXSSztD"]
+[WhiteElo "2438"]
+[BlackElo "2551"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Dutch Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:22:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. g3 f5 2. Bg2 Nf6 3. a3 g6 4. b4 Bg7 5. Bb2 O-O 6. d3 Re8 7. Nd2 e5 8. e4 Nc6
+9. Ngf3 d5 10. exf5 e4 11. dxe4 Nxe4 12. Bxg7 Nc3+ 0-1
+

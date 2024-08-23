@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "hyo_lee"]
+[Black "DmitryAkimov"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/he2wpP59"]
+[WhiteElo "2618"]
+[BlackElo "2599"]
+[ECO "A00"]
+[Opening "Van Geet Opening: Napoleon Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:20:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. Nc3 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. g3 Bc5 6. Be3 Bb4 7. Nxc6 bxc6
+8. Qd4 Qe7 9. Bg2 O-O 10. O-O h6 11. a3 Ba5 12. Qd3 d5 13. Na4 Bb6 14. Nxb6
+axb6 15. c4 Be6 16. cxd5 cxd5 17. b4 c5 18. bxc5 bxc5 19. Rfc1 Rfc8 20. a4 Rab8
+21. a5 d4 22. Bf4 Rb3 23. Qd1 c4 24. Qxd4 c3 25. a6 Ra3 1-0
+

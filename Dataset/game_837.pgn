@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "matistesek"]
+[Black "Mginsburg"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/FMdDfQsP"]
+[BlackTitle "IM"]
+[WhiteElo "2344"]
+[BlackElo "2517"]
+[ECO "B06"]
+[Opening "Modern Defense: Pseudo-Austrian Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:55:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 a6 5. Nf3 b5 6. Bd3 Bb7 7. e5 e6 8. Ne4 Nc6
+9. c3 Nge7 10. O-O Nd5 11. Qe1 Nce7 12. Nfg5 h6 13. Nh3 h5 14. Nhg5 Nf5 15. Ng3
+h4 16. Nxf5 gxf5 17. exd6 cxd6 18. Bxf5 Qe7 19. Bd3 Bf6 20. h3 Kd7 21. Nf3 Rhg8
+22. f5 Rg3 23. Rf2 Rag8 24. Kh2 Qf8 25. a4 Qg7 26. Qf1 Ne7 27. axb5 Bxf3 28.
+gxf3 Rxh3+ 29. Qxh3 Qg1# 0-1
+

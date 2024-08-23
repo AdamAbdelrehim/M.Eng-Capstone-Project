@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "bancsoo"]
+[Black "vistagusta"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/HVOtn0sL"]
+[WhiteTitle "GM"]
+[WhiteElo "2770"]
+[BlackElo "2809"]
+[ECO "E68"]
+[Opening "King's Indian Defense: Fianchetto Variation, Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:16:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. d4 O-O 5. O-O d6 6. c4 Nbd7 7. Nc3 e5 8. e4
+exd4 9. Nxd4 Nc5 10. h3 Nfd7 11. Be3 Ne5 12. b3 a5 13. Rb1 Re8 14. Kh2 h5 15.
+Qd2 Bd7 16. f4 Ned3 17. Rfd1 h4 18. g4 c6 19. Nf3 Nb4 20. e5 b6 21. Qxd6 Bf8
+22. Qd2 Ra7 23. Bxc5 Bxc5 24. Ne4 Be7 25. g5 Qb8 26. Qf2 Bf5 27. Nf6+ Bxf6 28.
+gxf6 Bxb1 29. Qxh4 Rxe5 30. Qh6 Qf8 31. Rd8 Qxd8 32. Qg7# 1-0
+

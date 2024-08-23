@@ -1,0 +1,40 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.12.13"]
+[Round "-"]
+[White "RemziBrruti"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "1r1r2k1/1bq2pp1/p6p/1p1pB3/4B3/P5Q1/1P3PPP/R2R2K1 b - -"]
+[Timezone "UTC"]
+[ECO "E40"]
+[ECOUrl "https://www.chess.com/openings/Nimzo-Indian-Defense-Normal-Line-4...d5"]
+[UTCDate "2022.12.13"]
+[UTCTime "22:15:07"]
+[WhiteElo "1805"]
+[BlackElo "1772"]
+[TimeControl "600"]
+[Termination "RemziBrruti won by resignation"]
+[StartTime "22:15:07"]
+[EndDate "2022.12.13"]
+[EndTime "22:22:36"]
+[Link "https://www.chess.com/game/live/64708895961"]
+
+1. d4 { [%clk 0:09:57.9] } 1... d5 { [%clk 0:09:57.5] } 2. c4
+{ [%clk 0:09:56.3] } 2... e6 { [%clk 0:09:55.3] } 3. Nc3 { [%clk 0:09:55] }
+3... Nf6 { [%clk 0:09:54.9] } 4. e3 { [%clk 0:09:53.2] } 4... Bb4
+{ [%clk 0:09:54.3] } 5. Bd2 { [%clk 0:09:50.6] } 5... c5 { [%clk 0:09:53] } 6.
+Nf3 { [%clk 0:09:47.9] } 6... Nc6 { [%clk 0:09:49.4] } 7. a3
+{ [%clk 0:09:38.6] } 7... Bxc3 { [%clk 0:09:44.9] } 8. Bxc3 { [%clk 0:09:36] }
+8... cxd4 { [%clk 0:09:44.4] } 9. exd4 { [%clk 0:09:32.1] } 9... dxc4
+{ [%clk 0:09:40.2] } 10. Bxc4 { [%clk 0:09:29.3] } 10... O-O
+{ [%clk 0:09:40.1] } 11. O-O { [%clk 0:09:25] } 11... a6 { [%clk 0:09:38.9] }
+12. Bb3 { [%clk 0:09:18.1] } 12... b5 { [%clk 0:09:37.6] } 13. Bc2
+{ [%clk 0:09:11.9] } 13... Bb7 { [%clk 0:09:34.8] } 14. Ng5
+{ [%clk 0:08:49.3] } 14... h6 { [%clk 0:09:30.6] } 15. Ne4 { [%clk 0:08:42.1] }
+15... Nxe4 { [%clk 0:09:27] } 16. Bxe4 { [%clk 0:08:37.5] } 16... Rb8
+{ [%clk 0:09:26] } 17. Qf3 { [%clk 0:08:17.3] } 17... Qc7 { [%clk 0:08:45.1] }
+18. Rfd1 { [%clk 0:08:06.6] } 18... Rfd8 { [%clk 0:08:35.8] } 19. d5
+{ [%clk 0:07:35] } 19... Ne5 { [%clk 0:07:00.6] } 20. Qg3 { [%clk 0:07:26.7] }
+20... exd5 { [%clk 0:05:51] } 21. Bxe5 { [%clk 0:07:14.9] } 1-0
+

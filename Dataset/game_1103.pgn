@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "PurpleHunter"]
+[Black "pawn_git"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/s7OTAGfo"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2646"]
+[BlackElo "2695"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:19:34"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 e5 4. Bc4 Be7 5. Nd5 Nf6 6. Nxf6+ Bxf6 7. d3 O-O 8.
+c3 Na6 9. O-O Nc7 10. a4 b6 11. Re1 Be6 12. Qe2 a6 13. Nd2 Bd7 14. Bb3 Bg5 15.
+Nc4 Bxc1 16. Rexc1 Be6 17. Ba2 b5 18. Ne3 Bxa2 19. Rxa2 b4 20. g3 Rb8 21. Rd1
+Ne6 22. h4 g6 23. Qg4 Kh8 24. Rd2 Ng7 25. Qh3 f5 26. a5 f4 27. Nd5 fxg3 28.
+cxb4 gxf2+ 29. Rxf2 Rxf2 30. Kxf2 Nh5 31. b3 Nf4 32. Nxf4 exf4 33. bxc5 dxc5
+34. h5 Qd4+ 35. Kg2 gxh5 36. Kh2 Qe5 37. Rf2 Rf8 38. Qf3 Kg7 39. Qg2+ Kh6 40.
+Rf3 Qc3 41. Qe2 Qd4 42. Qd2 Rf7 43. Qc1 Rf6 44. Qd2 Rf8 45. Rf2 Qd8 46. Kh3 Qg5
+47. Rg2 Qf6 48. Rf2 Qe6+ 49. Kg2 Qg4+ 50. Kf1 h4 51. d4 cxd4 52. Qxd4 f3 53.
+Qc5 Qf4 54. Rd2 Rf6 55. Qc3 Kh5 56. Rd5+ Kg4 57. b4 h3 58. Qc8+ Kh4 59. Qc5 h6
+60. Rh5+ Kg4 61. Rxh3 Kxh3 62. Qc8+ Qg4 63. Qxg4+ Kxg4 64. b5 axb5 65. Kf2 Re6
+66. Ke3 Kg3 67. a6 Rxa6 68. Kd2 f2 69. Kc1 Ra2 70. Kb1 Re2 71. Ka1 f1=Q# 0-1
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "crosky"]
+[Black "Nadtkins"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/qQMXo2fv"]
+[WhiteTitle "NM"]
+[BlackTitle "IM"]
+[WhiteElo "2414"]
+[BlackElo "2512"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:08:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nd2 c5 4. dxc5 e6 5. b4 a5 6. c3 b6 7. e4 bxc5 8. b5 Be7
+9. e5 Nfd7 10. Bxe7 Qxe7 11. Ngf3 Bb7 12. c4 Nb6 13. Rc1 N8d7 14. Be2 O-O 15.
+O-O f6 16. exf6 Qxf6 17. Bd3 Rad8 18. Qe2 dxc4 19. Bxc4 Nxc4 20. Rxc4 Bd5 21.
+Rg4 Bxa2 22. Ne4 Qh6 23. Qxa2 Rxf3 24. gxf3 Ne5 25. Rg3 Rd3 26. Qe2 c4 27. b6
+Rb3 28. Nc5 1-0
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "MightBeDecent"]
+[Black "stallion28"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/GNpfWzJP"]
+[WhiteElo "2622"]
+[BlackElo "2587"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Portuguese Gambit, Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:13:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. Nf3 Qxd5 5. Be2 Nc6 6. Be3 O-O-O 7. Nbd2 Qf5
+8. O-O e5 9. Nxe5 Nxe5 10. dxe5 Bxe2 11. Qxe2 Qxe5 12. Nc4 Qh5 13. Qxh5 Nxh5
+14. Ne5 Rd5 15. Nxf7 Rg8 16. Rad1 Nf6 17. Rxd5 Nxd5 18. Rd1 c6 19. c4 Nxe3 20.
+Rd8+ Kc7 21. fxe3 a5 22. a4 g5 23. Kf2 g4 24. Ke2 h5 25. g3 Kb6 26. Kd3 Kc5 27.
+b3 Kb4 28. Kc2 b5 29. cxb5 cxb5 30. Rb8 Ka3 31. axb5 Rg5 32. Rxf8 Rc5+ 33. Kd3
+Rxb5 34. e4 Rxb3+ 35. Kd4 Rb2 36. e5 Rxh2 37. e6 Re2 38. Ne5 Rd2+ 39. Ke4 Rd6
+40. Kf5 1-0
+

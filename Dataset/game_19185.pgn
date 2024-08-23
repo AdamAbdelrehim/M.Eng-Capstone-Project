@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Lopuh99"]
+[Black "JelenaZ"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ucwQuuCz"]
+[WhiteElo "2567"]
+[BlackElo "2582"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:38:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nc3 d6 3. Nf3 e5 4. Bc4 Be6 5. O-O Bxc4 6. d3 Be6 0-1
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "JKR1"]
+[Black "vointeka"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/qgPHC4F0"]
+[WhiteElo "2454"]
+[BlackElo "2548"]
+[ECO "C00"]
+[Opening "French Defense: Horwitz Attack, Papa-Ticulat Gambit"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:04:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 e6 2. b3 d5 3. Bb2 dxe4 4. Nc3 Nf6 5. g4 h6 6. Bg2 Bd7 7. h4 Bc6 8. g5
+hxg5 9. hxg5 Rxh1 10. Bxh1 Nh7 11. Nxe4 Nxg5 12. Qg4 Nxe4 13. Bxe4 Bxe4 14.
+Qxe4 Qd5 15. Qxd5 exd5 16. O-O-O Nc6 17. Re1+ Kd7 18. Nf3 f6 19. Nh4 Bc5 20.
+Nf5 g6 21. Ne3 Bxe3 22. dxe3 Ke6 23. Rg1 g5 24. f4 gxf4 25. exf4 Kf7 26. Rh1
+Rg8 27. Rh7+ Rg7 28. Rh6 Rg1+ 29. Kd2 Rg2+ 30. Kd1 d4 31. a3 a5 32. Rh7+ Rg7
+33. Rh5 Ke6 34. Rb5 b6 35. Kd2 Rg2+ 36. Kd3 Rg3+ 37. Kc4 Rg2 38. f5+ Kd6 39.
+Rd5+ Ke7 40. Kd3 Ne5+ 41. Kxd4 Rxc2 42. Ba1 c6 43. Rxe5+ fxe5+ 44. Kxe5 Re2+
+45. Kf4 Ra2 46. Bd4 c5 47. Be5 Rxa3 48. f6+ Ke6 49. Kg5 Rxb3 50. Kg6 Kxe5 51.
+f7 Rf3 0-1
+

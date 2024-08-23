@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Ilikeknightmost"]
+[Black "admin_chernishsquad"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/u9aB6hlm"]
+[WhiteElo "2705"]
+[BlackElo "2617"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:34:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-10"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. O-O Nf6 5. Re1 O-O 6. c3 a6 7. d4 b5 8. Bd3
+Nbd7 9. Nbd2 Bb7 10. Nf1 Re8 11. Ng3 Bf8 12. a4 bxa4 13. Qxa4 c5 14. d5 g6 15.
+Nf1 Bg7 16. Ne3 h6 17. Nc4 Nb6 18. Nxb6 Qxb6 19. Nd2 Qc7 20. Nc4 Nd7 21. Qa5
+Qb8 22. Bc2 Kh7 23. Ba4 Rd8 24. Bxd7 Rxd7 25. Nb6 Re7 26. Nxa8 Qxa8 27. Qb6 Qb8
+28. b4 cxb4 29. cxb4 f5 30. b5 axb5 31. Ba3 Rd7 32. Qxb5 fxe4 1-0
+

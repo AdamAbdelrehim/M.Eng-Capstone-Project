@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "muah-muah"]
+[Black "Pampen"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/olHknz3O"]
+[WhiteElo "2497"]
+[BlackElo "2500"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game: Anglo-Slav Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:37:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 c6 2. c4 d6 3. Nc3 e5 4. Nf3 Nd7 5. e3 Ngf6 6. Be2 g6 7. O-O Bg7 8. b3
+O-O 9. Bb2 Re8 10. b4 a5 11. a3 h5 12. Qc2 e4 13. Nd2 d5 14. cxd5 cxd5 15. Nb5
+Re7 16. bxa5 Rxa5 17. a4 Nb6 18. Ba3 Bf8 19. Bxe7 Bxe7 20. Rfc1 Be6 21. Qc7
+Rxa4 22. Rxa4 Nxa4 23. Qxb7 Kg7 24. Nc7 Bc8 25. Ne8+ Nxe8 26. Rxc8 Nd6 27. Rxd8
+Nxb7 28. Rd7 Nc3 29. Rxe7 Nxe2+ 30. Kf1 1-0
+

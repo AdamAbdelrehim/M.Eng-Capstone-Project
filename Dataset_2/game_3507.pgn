@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.01.30"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "BurnerSingh"]
+[Result "1-0"]
+[CurrentPosition "rn1qkbnr/ppp2Qpp/3p4/8/2BpP3/8/PPP2PPP/RNB1K2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C41"]
+[ECOUrl "https://www.chess.com/openings/Philidor-Defense-3.Bc4"]
+[UTCDate "2022.01.30"]
+[UTCTime "00:14:20"]
+[WhiteElo "1311"]
+[BlackElo "1281"]
+[TimeControl "60"]
+[Termination "AdamAbdelrehim won by checkmate"]
+[StartTime "00:14:20"]
+[EndDate "2022.01.30"]
+[EndTime "00:14:27"]
+[Link "https://www.chess.com/game/live/37240795111"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:00:59.9] } 2. Nf3
+{ [%clk 0:00:59.8] } 2... d6 { [%clk 0:00:59.3] } 3. Bc4 { [%clk 0:00:59.6] }
+3... Bg4 { [%clk 0:00:58.6] } 4. d4 { [%clk 0:00:59.3] } 4... Bxf3
+{ [%clk 0:00:58.5] } 5. Qxf3 { [%clk 0:00:58.6] } 5... exd4
+{ [%clk 0:00:58.3] } 6. Qxf7# { [%clk 0:00:57.9] } 1-0
+

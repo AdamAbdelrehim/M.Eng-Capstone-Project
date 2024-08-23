@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "DebilChomik"]
+[Black "manneredmonkey"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/WKVbvf0L"]
+[BlackTitle "NM"]
+[WhiteElo "2443"]
+[BlackElo "2583"]
+[ECO "E60"]
+[Opening "Indian Defense: King's Indian Variation, Fianchetto Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:54:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+
+1. d4 Nf6 2. g3 g6 3. Bg2 Bg7 4. c4 O-O 5. Nc3 c5 6. e3 d6 7. Nge2 Nc6 8. O-O
+Bd7 9. b3 Rb8 10. Bb2 a6 11. Rc1 b5 12. cxb5 axb5 13. dxc5 dxc5 14. a4 bxa4 15.
+Nxa4 Na5 16. Nxc5 Nxb3 17. Bxf6 Nxc1 18. Nxc1 Bxf6 19. Nxd7 Kg7 20. Nxb8 Qxb8
+21. Ne2 1-0
+

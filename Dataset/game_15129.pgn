@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "vointeka"]
+[Black "nooartur"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/QShBBIEF"]
+[BlackTitle "IM"]
+[WhiteElo "2571"]
+[BlackElo "2550"]
+[ECO "D01"]
+[Opening "Richter-Veresov Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:51:48"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Nbd7 4. Qd2 c6 5. O-O-O b5 6. f3 Qa5 7. a3 e6 8. Na2
+Qxd2+ 9. Bxd2 a5 10. Kb1 Nb6 11. e3 Nc4 12. Bxc4 bxc4 13. Ne2 c5 14. Bc3 Bd7
+15. g4 h6 16. h4 cxd4 17. Bxd4 Rb8 18. g5 Nh5 19. Kc1 Bd6 20. f4 Ke7 21. Nac3
+Rh7 22. Rdg1 hxg5 23. hxg5 g6 24. Bf6+ Kf8 25. Be5 Ke7 26. Nd4 Bxe5 27. fxe5
+Rbh8 28. Nce2 Ng7 29. Rxh7 Rxh7 30. Kd2 Rh2 31. Kc3 Nf5 32. Nxf5+ gxf5 33. Nf4
+Ba4 34. b3 cxb3 35. cxb3 Be8 36. a4 Rf2 37. g6 fxg6 38. Nxg6+ Bxg6 39. Rxg6 Re2
+40. Rg7+ Kf8 41. Rg3 Ke7 42. b4 axb4+ 43. Kb3 1-0
+

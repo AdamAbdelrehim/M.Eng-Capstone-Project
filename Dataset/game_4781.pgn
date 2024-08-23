@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Beluna"]
+[Black "Al_Nouria"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/l3IBPVhp"]
+[WhiteElo "2364"]
+[BlackElo "2658"]
+[ECO "A00"]
+[Opening "Van Geet Opening"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:53:53"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+
+1. Nc3 d5 2. e4 d4 3. Nce2 e5 4. Ng3 Be6 5. Bb5+ c6 6. Ba4 Bd6 7. Bb3 Qd7 8. d3
+Ne7 9. N1e2 h5 10. h4 c5 11. O-O Nbc6 12. f4 f6 13. f5 Bxb3 14. axb3 a5 15. c3
+b6 16. Bd2 O-O-O 17. b4 dxc3 18. bxc3 cxb4 19. Qb3 Bc5+ 20. Kh2 Qxd3 21. Rfd1
+Qb5 22. cxb4 Bxb4 23. Bxb4 Rxd1 24. Rxd1 Qxb4 25. Qe6+ Kb7 26. Rd7+ Ka6 27. Nc1
+a4 28. Nd3 Qb3 29. Rxe7 Qxe6 30. Rxe6 Rc8 31. Ne2 Ka5 32. Rd6 b5 33. Nc3 Nb4
+34. Nxb4 Kxb4 35. Nd5+ Kc5 36. Ra6 Kd4 37. Kg3 Kxe4 0-1
+

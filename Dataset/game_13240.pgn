@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "chessmaniac07"]
+[Black "TheTacticator"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/2QaEyyYH"]
+[WhiteElo "2509"]
+[BlackElo "2526"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack, Two Knights Defense, Blockade Line"]
+[TimeControl "300+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:14:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+10"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 c6 8. b4 b6
+9. h4 a5 10. a3 Ba6 11. Bxa6 Rxa6 12. b5 cxb5 13. c6 b4 14. Nb5 bxa3 15. cxd7
+Bb4+ 16. Ke2 Qxd7 17. Qd3 Ne4 18. Rhc1 f6 19. Nd6 Raa8 20. Nxe4 dxe4 21. Qxe4
+Rac8 22. Ne1 Rxc1 23. Rxc1 Rc8 24. Rxc8+ Qxc8 25. Qc2 Qc3 26. Qd1 Qxe1+ 0-1
+

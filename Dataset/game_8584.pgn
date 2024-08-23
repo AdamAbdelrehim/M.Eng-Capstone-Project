@@ -1,0 +1,30 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ChessatronBot"]
+[Black "admete_bot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/vMRYCASp"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2524"]
+[BlackElo "2471"]
+[ECO "B25"]
+[Opening "Sicilian Defense: Closed"]
+[TimeControl "900+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "03:51:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. g3 g6 3. Bg2 Bg7 4. Nc3 Nc6 5. d3 d6 6. Nge2 e6 7. Be3 Nf6 8. h3
+O-O 9. Qd2 Rb8 10. d4 b5 11. a3 b4 12. axb4 cxb4 13. Na4 Bb7 14. b3 Ne7 15. f3
+a5 16. O-O-O Qc7 17. Kb1 Bc6 18. Nb2 a4 19. bxa4 Ra8 20. Qd3 Bxa4 21. Nxa4 Rxa4
+22. Bc1 Nd7 23. Bb2 Nb6 24. Nc1 Nc4 25. Nb3 Rfa8 26. e5 d5 27. Rd2 Ra2 28. c3
+Nxd2+ 29. Qxd2 bxc3 30. Qxc3 Qxc3 31. Bxc3 Rxg2 32. Nc5 Rxg3 33. Rd1 Rxh3 34.
+Rd3 Bh6 35. f4 Rh1+ 36. Kc2 Bxf4 37. Rf3 Rh2+ 38. Kb1 Ra3 39. Rd3 Nf5 40. Bb4
+Rxd3 41. Nxd3 Be3 42. Ba3 g5 43. Nc5 g4 44. Na4 g3 45. Nc3 Bxd4 46. Nb5 g2 47.
+Kc2 g1=Q+ 48. Kb3 Bb6 49. Nc3 Qg4 50. Ne4 Qxe4 51. Bf8 Qc4+ 52. Ka3 Ra2# 0-1
+

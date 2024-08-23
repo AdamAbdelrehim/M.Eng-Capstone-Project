@@ -1,0 +1,33 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "CruelKen"]
+[Black "expositor"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/rGA8UpZJ"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3005"]
+[BlackElo "2816"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Queen's Knight Variation"]
+[TimeControl "360+3"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:29:47"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 Nf6 6. cxd5 exd5 7. e3 Bf5 8.
+f3 O-O 9. Ne2 Nc6 10. h3 Na5 11. g4 Bg6 12. Nf4 Rc8 13. h4 h6 14. Bh3 Re8 15.
+Ra2 Nc4 16. O-O Qd6 17. g5 Nxe3 18. Bxe3 Rxe3 19. Nxg6 Qg3+ 20. Rg2 Qxh3 21.
+Qd2 fxg6 22. Qxe3 Re8 23. Qf4 hxg5 24. Qxg5 Qf5 25. Qxg6 Qxg6 26. Rxg6 Re3 27.
+Rb1 Kf7 28. Rg5 b6 29. Kf2 Rxc3 30. Rbg1 Ne8 31. Rxd5 Rxa3 32. Rf5+ Kg8 33. Re5
+Kf8 34. h5 Ra2+ 35. Kg3 Rc2 36. h6 gxh6 37. Rf5+ Kg8 38. Kf4+ Ng7 39. Rd5 Kf8
+40. Rd7 Ne6+ 41. Kf5 Ke8 42. Rh7 Ng5 43. Rxh6 Nxf3 44. Rg7 Nxd4+ 45. Ke4 Ne6
+46. Rxe6+ Kd8 47. Kd3 Rc5 48. Re2 Rd5+ 49. Kc3 Rh5 50. Kb2 a5 51. Rc2 c5 52.
+Rf2 Ke8 53. Ra7 a4 54. Rff7 b5 55. Rfb7 Rh2+ 56. Kc3 Rh3+ 57. Kd2 Rh2+ 58. Ke3
+Rh3+ 59. Kf4 Rh4+ 60. Kf5 Rh5+ 61. Kf6 Rh6+ 62. Kg7 Rd6 63. Rf7 Rg6+ 64. Kxg6
+a3 65. Ra8# 1-0
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "SearchNDestroy"]
+[Black "RomChartres"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/HzeOdWZZ"]
+[WhiteTitle "NM"]
+[WhiteElo "2551"]
+[BlackElo "2509"]
+[ECO "A43"]
+[Opening "Benoni Defense: Old Benoni"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:04:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. d4 c5 2. d5 b5 3. e4 a6 4. a4 b4 5. Nd2 d6 6. Ngf3 g6 7. a5 Bg7 8. Nc4 Nd7
+9. h3 Ngf6 10. Bd3 O-O 11. Bf4 Nh5 12. Bh2 Qc7 13. g4 Nhf6 14. Qd2 h5 15. e5
+dxe5 16. Nfxe5 Nxe5 17. Nxe5 Qd8 18. Bc4 hxg4 19. hxg4 Bb7 20. Bf4 Bxd5 21.
+Bxd5 Qxd5 22. O-O-O Qxd2+ 23. Rxd2 Ne4 24. Rd7 g5 25. Re1 Nxf2 26. Bg3 Bxe5 27.
+Rxe5 Nh3 28. Rdxe7 f6 29. Rxc5 Rf7 30. Rxf7 Kxf7 31. Rc7+ Kg6 32. Rc6 Ng1 33.
+Be5 Nf3 34. Bxf6 Ne5 35. Bxe5+ 1-0
+

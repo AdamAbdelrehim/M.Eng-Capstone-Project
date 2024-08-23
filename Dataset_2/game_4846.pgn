@@ -1,0 +1,42 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.04.29"]
+[Round "-"]
+[White "quispemamani"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "8/p1k2ppp/N2bp3/2p5/2P1n3/1P2P3/PBK2PPP/3R3R b - -"]
+[Timezone "UTC"]
+[ECO "A01"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Larsen-Attack-English-Variation-2.Bb2-Nc6-3.e3"]
+[UTCDate "2022.04.29"]
+[UTCTime "05:05:47"]
+[WhiteElo "1461"]
+[BlackElo "1442"]
+[TimeControl "60"]
+[Termination "quispemamani won by resignation"]
+[StartTime "05:05:47"]
+[EndDate "2022.04.29"]
+[EndTime "05:06:44"]
+[Link "https://www.chess.com/game/live/44947771881"]
+
+1. b3 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. Bb2 { [%clk 0:00:59.9] }
+2... Nc6 { [%clk 0:00:58.9] } 3. e3 { [%clk 0:00:59.8] } 3... d6
+{ [%clk 0:00:57.9] } 4. Nf3 { [%clk 0:00:59.7] } 4... Nf6 { [%clk 0:00:57.7] }
+5. d4 { [%clk 0:00:59.6] } 5... e6 { [%clk 0:00:57.3] } 6. dxc5
+{ [%clk 0:00:58.8] } 6... dxc5 { [%clk 0:00:57.2] } 7. Qxd8+
+{ [%clk 0:00:57.8] } 7... Kxd8 { [%clk 0:00:57.1] } 8. Bb5 { [%clk 0:00:56.9] }
+8... Bd6 { [%clk 0:00:56.8] } 9. Bxc6 { [%clk 0:00:56.2] } 9... bxc6
+{ [%clk 0:00:56.7] } 10. Nbd2 { [%clk 0:00:55.1] } 10... Ba6
+{ [%clk 0:00:56.3] } 11. O-O-O { [%clk 0:00:53.1] } 11... Ke7
+{ [%clk 0:00:55.9] } 12. c4 { [%clk 0:00:47.8] } 12... Rab8
+{ [%clk 0:00:54.9] } 13. Kc2 { [%clk 0:00:46.3] } 13... Rb7
+{ [%clk 0:00:54.4] } 14. Ne5 { [%clk 0:00:44.1] } 14... Rhb8
+{ [%clk 0:00:52.6] } 15. Nxc6+ { [%clk 0:00:43] } 15... Kd7
+{ [%clk 0:00:49.9] } 16. Nxb8+ { [%clk 0:00:42.3] } 16... Rxb8
+{ [%clk 0:00:49.8] } 17. Nf3 { [%clk 0:00:41.4] } 17... Ne4
+{ [%clk 0:00:46.8] } 18. Ne5+ { [%clk 0:00:38.6] } 18... Ke7
+{ [%clk 0:00:42.7] } 19. Nc6+ { [%clk 0:00:37.8] } 19... Kd7
+{ [%clk 0:00:41.6] } 20. Nxb8+ { [%clk 0:00:37.7] } 20... Kc7
+{ [%clk 0:00:40] } 21. Nxa6+ { [%clk 0:00:36.8] } 1-0
+

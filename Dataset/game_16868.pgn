@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Hoon_Bot"]
+[Black "pawn_git"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/66UlQA0X"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2897"]
+[BlackElo "2721"]
+[ECO "A00"]
+[Opening "Ware Opening: Meadow Hay Trap"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:09:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+
+1. a4 e5 2. Ra3 Bxa3 3. Nxa3 Nf6 4. e3 O-O 5. b3 c5 6. Bb2 Re8 7. Ne2 Nc6 8.
+Ng3 d5 9. Bb5 Bd7 10. O-O a6 11. Be2 Be6 12. f4 exf4 13. Rxf4 d4 14. Rf1 Nd5
+15. Bf3 Qe7 16. Qe2 Rad8 17. e4 Nf4 18. Qf2 d3 19. Bh5 Ng6 20. cxd3 Rxd3 21.
+Bc3 Qg5 22. Be2 Rdd8 23. Nc4 Nd4 24. Ne3 Bxb3 25. Nef5 Be6 26. d3 Bxf5 27. Bxd4
+cxd4 28. Nxf5 Ne5 29. h4 Qg6 30. a5 h6 31. Qf4 Kh7 32. Rb1 Rd7 33. g3 Qf6 34.
+g4 Ng6 35. Qf3 Re6 36. g5 hxg5 37. Rf1 Kg8 38. Qg4 Ne5 39. Qg2 gxh4 40. Kh1 Re8
+41. Qg1 Rc7 42. Rd1 Rc2 43. Nxd4 Ra2 44. Qe3 Ng6 45. Rg1 Qe5 46. Nf3 Qf4 47.
+Qxf4 Nxf4 48. Bf1 Rxa5 49. Rg4 Ra1 50. Rxf4 Rxf1+ 51. Kg2 Rd1 52. Rxh4 Rxd3 53.
+Kf2 a5 54. Ke2 Rd7 55. e5 b5 56. Rh5 a4 57. e6 Rxe6+ 58. Kf2 Rd3 59. Ng1 b4 60.
+Ra5 a3 61. Ra4 Rd2+ 0-1
+

@@ -1,0 +1,39 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.03.06"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "ShreepadNade"]
+[Result "0-1"]
+[CurrentPosition "r2q1rk1/2p2ppp/1p3b2/pPn1Q3/P7/5N2/1BP2PPP/R3R1K1 w - -"]
+[Timezone "UTC"]
+[ECO "B01"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nc3-Qd8-4.Nf3"]
+[UTCDate "2023.03.06"]
+[UTCTime "04:03:14"]
+[WhiteElo "1622"]
+[BlackElo "1662"]
+[TimeControl "180"]
+[Termination "ShreepadNade won by resignation"]
+[StartTime "04:03:14"]
+[EndDate "2023.03.06"]
+[EndTime "04:05:09"]
+[Link "https://www.chess.com/game/live/71814255343"]
+
+1. e4 { [%clk 0:02:58] } 1... d5 { [%clk 0:02:59.9] } 2. exd5
+{ [%clk 0:02:56.5] } 2... Qxd5 { [%clk 0:02:59.8] } 3. Nc3 { [%clk 0:02:56] }
+3... Qd8 { [%clk 0:02:59.2] } 4. Nf3 { [%clk 0:02:54.3] } 4... Nf6
+{ [%clk 0:02:59.1] } 5. Bc4 { [%clk 0:02:53.1] } 5... e6 { [%clk 0:02:59] } 6.
+O-O { [%clk 0:02:51.7] } 6... Be7 { [%clk 0:02:58.9] } 7. Re1
+{ [%clk 0:02:51.1] } 7... b6 { [%clk 0:02:58.2] } 8. a3 { [%clk 0:02:47.6] }
+8... Bb7 { [%clk 0:02:57.4] } 9. b4 { [%clk 0:02:46.9] } 9... O-O
+{ [%clk 0:02:54.5] } 10. Bb2 { [%clk 0:02:45.6] } 10... a5 { [%clk 0:02:53.5] }
+11. b5 { [%clk 0:02:39.2] } 11... Nbd7 { [%clk 0:02:52.1] } 12. a4
+{ [%clk 0:02:38] } 12... Nc5 { [%clk 0:02:46.3] } 13. d4 { [%clk 0:02:31.8] }
+13... Ncd7 { [%clk 0:02:44] } 14. d5 { [%clk 0:02:23.2] } 14... exd5
+{ [%clk 0:02:41.8] } 15. Nxd5 { [%clk 0:02:22.1] } 15... Nxd5
+{ [%clk 0:02:40.4] } 16. Bxd5 { [%clk 0:02:21.3] } 16... Bxd5
+{ [%clk 0:02:33.7] } 17. Qxd5 { [%clk 0:02:21.2] } 17... Nc5
+{ [%clk 0:02:28.9] } 18. Qe5 { [%clk 0:02:06.2] } 18... Bf6
+{ [%clk 0:02:25.5] } 0-1
+

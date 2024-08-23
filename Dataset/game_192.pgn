@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Kyoka_Izumi"]
+[Black "zcx001"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/2K5455JS"]
+[WhiteElo "2664"]
+[BlackElo "2752"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "01:15:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+11"]
+
+1. c4 e6 2. g3 d5 3. Bg2 a6 4. d4 Nc6 5. Nf3 dxc4 6. O-O Rb8 7. a4 Nf6 8. e3 b5
+9. Qe2 Be7 10. Rd1 O-O 11. axb5 axb5 12. e4 Nb4 13. Ne1 Bb7 14. Nc3 c6 15. Bf4
+Ra8 16. Rac1 h6 17. d5 exd5 18. e5 Ne8 19. e6 Bc8 20. exf7+ Rxf7 21. Nf3 Bg4
+22. h3 Bxf3 23. Qxf3 Bd6 24. Nxb5 Bxf4 25. Rxc4 Bd6 26. Qc3 Na2 27. Qd2 dxc4
+28. Nxd6 Qxd6 0-1
+

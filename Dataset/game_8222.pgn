@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "terminator2_bkd"]
+[Black "eltactico62"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/FHJups0Z"]
+[WhiteElo "2435"]
+[BlackElo "2517"]
+[ECO "A09"]
+[Opening "Réti Opening: Advance Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:32:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. Nf3 d5 2. c4 d4 3. e3 c5 4. exd4 cxd4 5. b4 Bg4 6. Bb2 e5 7. h3 Bxf3 8. Qxf3
+Nc6 9. b5 Nb4 10. Qxb7 Nc2+ 11. Kd1 Nxa1 12. Qc6+ Qd7 13. Qxa8+ 1-0
+

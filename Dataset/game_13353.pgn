@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "chesssnotasport"]
+[Black "Glek_Igor"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/rixZ16X3"]
+[BlackTitle "GM"]
+[WhiteElo "2509"]
+[BlackElo "2581"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:28:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 d6 5. Nf3 a6 6. Bxc6+ bxc6 7. d4 e4 8.
+Nfd2 Bg4 9. Qc1 d5 10. Ba3 Bd6 11. c4 O-O 12. Nc3 Re8 13. h3 Be6 14. Na4 h5 15.
+Bxd6 cxd6 16. c5 h4 17. cxd6 Qxd6 18. Qc5 Qc7 19. Rc1 Rac8 20. Qb6 Qd6 21. Qxa6
+Nd7 22. Qe2 f5 23. Qh5 c5 24. Nxc5 Nxc5 25. dxc5 Qa6 26. a4 f4 27. Qe2 Qa7 28.
+c6 d4 29. O-O f3 30. gxf3 d3 31. Qd1 Bxh3 32. fxe4 Re6 33. Kh2 Bxf1 34. Qxf1
+Rexc6 35. Rxc6 Rxc6 36. Qxd3 Qc7+ 37. Kh3 Qc8+ 38. Kh2 Rf6 39. Qd5+ Kf8 40. Kg1
+Qg4+ 41. Kf1 h3 42. Qd8+ Kf7 43. Qc7+ Kg8 44. Ke1 Qg1+ 45. Ke2 Qxf2+ 46. Kd3 h2
+47. Qc8+ Kh7 48. e5 Rh6 0-1
+

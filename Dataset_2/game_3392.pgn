@@ -1,0 +1,43 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.01.12"]
+[Round "-"]
+[White "yil348"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "8/pp3pkp/5np1/q2pn3/3P4/2N4P/PPP2PPK/8 w - -"]
+[Timezone "UTC"]
+[ECO "D00"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-Steinitz-Countergambit-3.e3-Nc6"]
+[UTCDate "2022.01.12"]
+[UTCTime "05:42:29"]
+[WhiteElo "1578"]
+[BlackElo "1591"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "05:42:29"]
+[EndDate "2022.01.12"]
+[EndTime "05:49:17"]
+[Link "https://www.chess.com/game/live/35705187053"]
+
+1. d4 { [%clk 0:10:00] } 1... d5 { [%clk 0:09:43.3] } 2. Bf4
+{ [%clk 0:09:47.1] } 2... c5 { [%clk 0:09:33.6] } 3. e3 { [%clk 0:09:32.1] }
+3... Nc6 { [%clk 0:09:29.1] } 4. Bb5 { [%clk 0:09:29] } 4... Qa5+
+{ [%clk 0:09:17.2] } 5. Nc3 { [%clk 0:09:23.2] } 5... cxd4 { [%clk 0:09:15.8] }
+6. exd4 { [%clk 0:09:21.4] } 6... e5 { [%clk 0:08:20.9] } 7. Bxe5
+{ [%clk 0:09:11.9] } 7... Bb4 { [%clk 0:08:17.4] } 8. Qd3 { [%clk 0:09:04.8] }
+8... Bd7 { [%clk 0:07:57.9] } 9. Ne2 { [%clk 0:09:01.6] } 9... Nxe5
+{ [%clk 0:07:49.4] } 10. Bxd7+ { [%clk 0:08:59] } 10... Nxd7
+{ [%clk 0:07:46.2] } 11. O-O { [%clk 0:08:50.3] } 11... Bxc3
+{ [%clk 0:07:37.4] } 12. Nxc3 { [%clk 0:08:46.2] } 12... Ngf6
+{ [%clk 0:07:35.9] } 13. Rfe1+ { [%clk 0:08:40.8] } 13... Kf8
+{ [%clk 0:07:34.5] } 14. Re2 { [%clk 0:08:25.8] } 14... Re8 { [%clk 0:07:31] }
+15. Rae1 { [%clk 0:08:22.5] } 15... Rxe2 { [%clk 0:07:28.3] } 16. Rxe2
+{ [%clk 0:08:20.9] } 16... g6 { [%clk 0:07:24.3] } 17. Qe3 { [%clk 0:08:09.9] }
+17... Kg7 { [%clk 0:07:18.1] } 18. h3 { [%clk 0:08:00] } 18... Re8
+{ [%clk 0:07:04.7] } 19. Qf3 { [%clk 0:07:56.2] } 19... Rxe2
+{ [%clk 0:07:02.4] } 20. Qxe2 { [%clk 0:07:54.7] } 20... Nb6
+{ [%clk 0:06:55.5] } 21. Qe5 { [%clk 0:07:19.3] } 21... Nc4
+{ [%clk 0:06:48.1] } 22. Kh2 { [%clk 0:07:00.9] } 22... Nxe5
+{ [%clk 0:06:29.1] } 0-1
+

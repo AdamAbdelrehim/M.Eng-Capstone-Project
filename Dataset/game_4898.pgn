@@ -1,0 +1,32 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "PetersBot"]
+[Black "ELO_1500"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/NP4PXEYP"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2677"]
+[BlackElo "2697"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "1200+30"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:07:13"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
+Nbd7 9. g4 Be7 10. Qd2 O-O 11. g5 Nh5 12. O-O-O b5 13. Nd5 Bxd5 14. exd5 f6 15.
+gxf6 Rxf6 16. Na5 Nf4 17. c4 Qe8 18. Nc6 bxc4 19. Bxc4 h6 20. Kb1 Bd8 21. Nxd8
+Qxd8 22. Rhg1 Rf7 23. Rc1 Qf6 24. Ka1 Nf8 25. Bb3 Nh3 26. Rg3 Nf4 27. Rc6 N8g6
+28. Qb4 Rd7 29. Qa4 a5 30. Bc2 Nh4 31. Qe4 g6 32. Bb1 h5 33. Rg1 Kh7 34. Bd2
+Qf5 35. Qa4 Qf6 36. Be4 Qe7 37. a3 Qf7 38. Be3 Kg7 39. Rc2 Kh6 40. Rc4 Rb7 41.
+Rc6 Rd7 42. Rc2 Rb8 43. Qxa5 Nf5 44. Bxf4+ exf4 45. Rcg2 Rg8 46. Rg5 Ng3 47.
+R1xg3 fxg3 48. Qd2 Kg7 49. Bxg6 Qxg6 50. Rxg6+ Kxg6 51. hxg3 Rf7 52. Qd3+ Kg7
+53. Ka2 Rgf8 54. Qe3 Kh7 55. Qg5 Rxf3 56. Qxh5+ Kg7 57. Qg5+ Kf7 58. Qh6 Rf6
+59. Qh7+ Ke8 60. a4 R6f7 61. Qh6 Rf6 62. Qh4 Rf5 63. Qc4 Kf7 64. Qc7+ Kf6 65.
+Qxd6+ Kg7 66. Qe6 R5f6 67. Qe5 Ra8 68. Ka3 Kf7 69. d6 Re8 70. Qd5+ Kg7 71. Qc5
+1-0
+

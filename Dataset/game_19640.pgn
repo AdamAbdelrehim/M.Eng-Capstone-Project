@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "MattLoncke"]
+[Black "bigmoneybill"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/epTuqsLI"]
+[WhiteElo "2526"]
+[BlackElo "2535"]
+[ECO "A56"]
+[Opening "Benoni Defense: Czech Benoni Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:51:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. g3 Be7 6. Bg2 Nbd7 7. e4 a6 8. a4 b6
+9. Nge2 O-O 10. O-O Ne8 11. f4 exf4 12. gxf4 Bf6 13. Kh1 g6 14. Be3 Ng7 15. Qd2
+Re8 16. Rae1 Ra7 17. Ng3 Nf8 18. e5 dxe5 19. fxe5 Bxe5 20. Bg5 Qc7 21. Bf6 Nd7
+22. Bxe5 Rxe5 23. Rxe5 Qxe5 24. Re1 Qd4 25. Qe2 Nf6 26. Qe5 Qxe5 27. Rxe5 Bd7
+28. b3 h5 29. Nce4 Nxe4 30. Nxe4 Nf5 31. a5 Rb7 32. Nf6+ Kg7 33. Nxd7 Rxd7 34.
+axb6 Rb7 35. d6 Rxb6 36. d7 Rxb3 37. d8=Q Rb1+ 38. Bf1 Rxf1+ 39. Kg2 Rf4 40.
+Rxf5 Rxf5 41. Qb6 Rf6 42. Qxc5 Kh6 43. Qe3+ Kg7 44. Qe5 a5 45. h4 a4 46. c5 a3
+47. c6 a2 48. c7 g5 49. hxg5 a1=Q 50. Qxa1 Kg6 51. Qxf6+ Kh7 52. Qh6+ Kg8 53.
+g6 f6 54. Qh7+ Kf8 55. Qf7# 1-0
+

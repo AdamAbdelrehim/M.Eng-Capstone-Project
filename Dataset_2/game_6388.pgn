@@ -1,0 +1,38 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.08"]
+[Round "-"]
+[White "deathtown"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1b2r2/pp1q2p1/n1pb2p1/6Nk/3P1B2/7P/PPP2PP1/RN2K2R b KQ -"]
+[Timezone "UTC"]
+[ECO "B10"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-2.Nf3"]
+[UTCDate "2022.10.08"]
+[UTCTime "05:30:02"]
+[WhiteElo "1337"]
+[BlackElo "1398"]
+[TimeControl "10"]
+[Termination "deathtown won on time"]
+[StartTime "05:30:02"]
+[EndDate "2022.10.08"]
+[EndTime "05:30:27"]
+[Link "https://www.chess.com/game/live/58945811583"]
+
+1. e4 { [%clk 0:00:10] } 1... c6 { [%clk 0:00:10] } 2. Nf3 { [%clk 0:00:09.8] }
+2... d6 { [%clk 0:00:09.9] } 3. d4 { [%clk 0:00:09.5] } 3... Qd7
+{ [%clk 0:00:09.8] } 4. e5 { [%clk 0:00:09.2] } 4... Na6 { [%clk 0:00:09.7] }
+5. exd6 { [%clk 0:00:09] } 5... Nf6 { [%clk 0:00:09.6] } 6. dxe7
+{ [%clk 0:00:08.8] } 6... Bxe7 { [%clk 0:00:09] } 7. Be2 { [%clk 0:00:08.3] }
+7... O-O { [%clk 0:00:08.9] } 8. Bd3 { [%clk 0:00:08.2] } 8... Qe6+
+{ [%clk 0:00:07.9] } 9. Be4 { [%clk 0:00:07.3] } 9... Qd7 { [%clk 0:00:07.8] }
+10. Qd3 { [%clk 0:00:06.8] } 10... Bd6 { [%clk 0:00:07.5] } 11. Bxh7+
+{ [%clk 0:00:06.5] } 11... Kh8 { [%clk 0:00:06.2] } 12. Bg6
+{ [%clk 0:00:05.3] } 12... Nh7 { [%clk 0:00:06.1] } 13. Qe4 { [%clk 0:00:05] }
+13... fxg6 { [%clk 0:00:05.2] } 14. Qh4 { [%clk 0:00:04.9] } 14... Kg8
+{ [%clk 0:00:03.9] } 15. Qxh7+ { [%clk 0:00:04.8] } 15... Kxh7
+{ [%clk 0:00:03] } 16. Ng5+ { [%clk 0:00:04.7] } 16... Kh6 { [%clk 0:00:01.9] }
+17. Bf4 { [%clk 0:00:04.6] } 17... Kh5 { [%clk 0:00:00.8] } 18. h3
+{ [%clk 0:00:04.5] } 1-0
+

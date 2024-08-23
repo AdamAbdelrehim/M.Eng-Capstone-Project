@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "semnik"]
+[Black "KingofCheapos"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/CLMA23Bg"]
+[BlackTitle "IM"]
+[WhiteElo "2351"]
+[BlackElo "2509"]
+[ECO "A05"]
+[Opening "King's Indian Attack: Spassky Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:56:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. Nf3 Nf6 2. g3 b5 3. Bg2 Bb7 4. O-O e6 5. d4 Be7 6. e3 O-O 7. b3 c5 8. Bb2
+cxd4 9. exd4 b4 10. Nbd2 a5 11. a3 Nc6 12. Ne5 Qb8 13. Nxc6 Bxc6 14. Bxc6 dxc6
+15. axb4 axb4 16. Nc4 Rd8 17. Qf3 Qb5 18. Ne5 Rxa1 19. Rxa1 c5 20. Ra7 Re8 21.
+Nc6 Bf8 22. dxc5 Qxc5 23. Bxf6 gxf6 24. Qxf6 Qh5 25. Ra5 Qd1+ 26. Kg2 h6 27.
+Ne5 Re7 28. Ra8 Qd5+ 29. Kh3 Qxa8 30. Ng4 Rc7 31. Nxh6+ Bxh6 32. Qxh6 Qd5 33.
+Qe3 Rxc2 34. g4 Rc3 35. f3 Rxe3 36. Kh4 Rxf3 37. h3 Qd3 38. Kg5 Kg7 39. h4 Qg6#
+0-1
+

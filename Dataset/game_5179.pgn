@@ -1,0 +1,23 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/oNUIaDtp"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Artyom-Odegov"]
+[Black "Broadcast1"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/wslcbZXd"]
+[WhiteTitle "FM"]
+[WhiteElo "2595"]
+[BlackElo "2391"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:38:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. Nc3 g6 3. e4 Bg7 4. Bg5 O-O 5. e5 Ne8 6. h4 c5 7. h5 cxd4 8. Qxd4
+Nc6 9. Qh4 h6 10. hxg6 hxg5 11. Qh7# 1-0
+

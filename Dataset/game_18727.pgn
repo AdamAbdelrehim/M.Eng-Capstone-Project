@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "zashibeatles_chess"]
+[Black "soudewn33"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/HUruBVgw"]
+[WhiteElo "2465"]
+[BlackElo "2607"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:34:07"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. Re1 a6 6. Bf1 d5 7. e5 d4 8. c3
+Ng6 9. g3 Be7 10. h4 h5 11. Bd3 O-O 12. Qe2 b5 13. cxd4 Bb7 14. Be4 Nxd4 15.
+Nxd4 Bxe4 16. Nxe6 fxe6 17. Qxe4 Rf5 18. f4 Qd4+ 19. Qxd4 cxd4 20. d3 Rc8 21.
+Bd2 Rc2 22. Rc1 Rxb2 23. Rc8+ Kh7 24. a3 Rf8 25. Rxf8 Nxf8 26. Kf1 Nd7 27. Ke2
+Nc5 0-1
+

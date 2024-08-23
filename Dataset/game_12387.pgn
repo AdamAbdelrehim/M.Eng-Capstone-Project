@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "MarioVillanueva"]
+[Black "Mr_BaronMunchausen"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/dIO1RBdR"]
+[WhiteTitle "IM"]
+[WhiteElo "2666"]
+[BlackElo "2891"]
+[ECO "B52"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:17:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nf6 6. e5 dxe5 7. Nxe5 Qc8
+8. Na3 Qc7 9. d4 a6 10. Bf4 Qc8 11. Nac4 Nbd7 12. Re1 Nxe5 13. dxe5 1-0
+

@@ -1,0 +1,33 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Lynx_BOT"]
+[Black "jpg-bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/o93FlpIJ"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2564"]
+[BlackElo "2330"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "600+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:25:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-3"]
+
+1. e4 c5 2. h3 Nc6 3. a3 e6 4. Nf3 d5 5. Bd3 Bd6 6. exd5 exd5 7. O-O Nge7 8.
+Re1 O-O 9. Nc3 a6 10. Bf1 Be6 11. d4 Nxd4 12. Nxd4 cxd4 13. Ne2 Nc6 14. Nxd4
+Nxd4 15. Qxd4 Rc8 16. Bd3 Bc5 17. Qf4 Re8 18. Be3 Bd6 19. Qf3 Qc7 20. c3 Bh2+
+21. Kh1 Bd6 22. Rad1 Rcd8 23. Bc2 h6 24. Bd4 Bc5 25. Be5 Bd6 26. Bxd6 Qxd6 27.
+Qd3 g6 28. Qd4 Kh7 29. Bb3 Qc6 30. a4 Rd6 31. c4 Rdd8 32. c5 Rc8 33. Rc1 Rcd8
+34. Bc2 Qc7 35. b4 Kg8 36. Bb3 Qe7 37. Re3 Kh7 38. Rce1 Qd7 39. a5 Qc6 40. Kg1
+Qd7 41. Re5 Rf8 42. h4 Kg8 43. h5 g5 44. f4 g4 45. Bc2 Qb5 46. f5 Qc4 47. Qxc4
+dxc4 48. fxe6 fxe6 49. Rxe6 Rf4 50. Rxh6 Rd2 51. Rg6+ Kf7 52. h6 Rxc2 53. h7
+Kxg6 54. h8=Q Rcf2 55. Qg8+ Kh6 56. Re7 Rf7 57. Rxf7 Rxf7 58. Qxf7 c3 59. Qxb7
+c2 60. Qxa6+ Kg7 61. Qc4 c1=B 62. Qxc1 Kf6 63. c6 Ke6 64. c7 g3 65. c8=Q+ Ke5
+66. Q1c5+ Ke4 67. Q8f5# 1-0
+

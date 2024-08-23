@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "viennadragon"]
+[Black "mboldysh"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/AYdJqb9k"]
+[WhiteElo "2539"]
+[BlackElo "2443"]
+[ECO "D85"]
+[Opening "Grünfeld Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:38:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Be3 c5 8.
+Nf3 Bg4 9. Be2 Nc6 10. d5 Bxf3 11. gxf3 Bxc3+ 12. Bd2 Bxa1 13. Qxa1 Nd4 14. Be3
+Nc2+ 0-1
+

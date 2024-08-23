@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.04.22"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "tidiest_platypus"]
+[Result "0-1"]
+[CurrentPosition "r1bqkbnr/ppp3pp/2n5/3pp3/2B1N3/5N2/PPPP1PPP/R1BQK2R w KQkq d6"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Rousseau-Gambit"]
+[UTCDate "2024.04.22"]
+[UTCTime "19:52:15"]
+[WhiteElo "1890"]
+[BlackElo "2019"]
+[TimeControl "600"]
+[Termination "tidiest_platypus won by resignation"]
+[StartTime "19:52:15"]
+[EndDate "2024.04.22"]
+[EndTime "19:53:22"]
+[Link "https://www.chess.com/game/live/107554449761"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:21.4] } 2. Nf3
+{ [%clk 0:09:57.1] } 2... Nc6 { [%clk 0:09:20.2] } 3. Bc4 { [%clk 0:09:56.3] }
+3... f5 { [%clk 0:09:18.6] } 4. Nc3 { [%clk 0:09:49.8] } 4... fxe4
+{ [%clk 0:09:16.6] } 5. Nxe4 { [%clk 0:09:49.7] } 5... d5 { [%clk 0:09:15.3] }
+0-1
+

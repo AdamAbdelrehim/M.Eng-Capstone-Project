@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.27"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Jackga217"]
+[Result "1-0"]
+[CurrentPosition "r1bqkb1r/ppp2Qpp/5n2/3B4/3pP3/8/PPPP1PPP/RNB1K2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game"]
+[UTCDate "2021.01.27"]
+[UTCTime "02:35:47"]
+[WhiteElo "1158"]
+[BlackElo "840"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by checkmate"]
+[StartTime "02:35:47"]
+[EndDate "2021.01.27"]
+[EndTime "02:36:51"]
+[Link "https://www.chess.com/game/live/6358956695"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:49] }
+2... Nc6 { [%clk 0:09:54.8] } 3. Bc4 { [%clk 0:09:46.5] } 3... d5
+{ [%clk 0:09:52.4] } 4. Bxd5 { [%clk 0:09:41.7] } 4... Nd4 { [%clk 0:09:46] }
+5. Nxd4 { [%clk 0:09:35.8] } 5... exd4 { [%clk 0:09:43.5] } 6. Qh5
+{ [%clk 0:09:29.4] } 6... Nf6 { [%clk 0:09:35.3] } 7. Qxf7#
+{ [%clk 0:09:24.5] } 1-0
+

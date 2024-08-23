@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "RRS03"]
+[Black "thurstoncat"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/2CVvKegm"]
+[WhiteTitle "FM"]
+[WhiteElo "2575"]
+[BlackElo "2427"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:45:50"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nc3 Bf5 6. Bc4 e6 7. Nf3 h6 8. O-O
+Bd6 9. Re1 O-O 10. h3 Nbd7 11. Ne5 Nb6 12. Bd3 Bxd3 13. Qxd3 c5 14. dxc5 Bxc5
+15. Qg3 Kh8 16. Rd1 Qe7 17. Qh4 Nfd5 18. Qh5 Nf6 19. Qf3 Rad8 20. Bf4 Nfd5 21.
+Ne4 Nxf4 22. Qxf4 Bd4 23. c3 Bxe5 24. Qxe5 Nc4 25. Qb5 Qc7 26. b3 Nb6 27. c4
+Qf4 28. Nc5 Qc7 29. Ne4 Kg8 30. Qh5 Qf4 31. Qg4 Qxg4 32. hxg4 Nc8 33. Kf1 Ne7
+34. Ke2 Nc6 35. Ke3 e5 36. Rd5 Rxd5 37. cxd5 Nb4 38. d6 Nc2+ 39. Kd3 Nxa1 40.
+Kc3 Rd8 41. Kb2 Nxb3 42. Kxb3 g6 43. Kc4 f5 44. gxf5 gxf5 45. Ng3 Rxd6 46. Nxf5
+Rc6+ 47. Kd5 Rc2 48. Nxh6+ Kh7 49. Ng4 Rxa2 50. Kxe5 b5 51. f4 Rxg2 52. Nf6+
+Kh6 53. Ne4 b4 54. f5 b3 55. f6 Rg8 56. Nc3 a5 57. Ke6 Kg6 58. Nd5 Rf8 59. Ne7+
+Kg5 60. Nd5 Rxf6+ 61. Nxf6 b2 62. Ne4+ Kf4 63. Nc3 a4 64. Kd5 a3 65. Kc4 a2 0-1
+

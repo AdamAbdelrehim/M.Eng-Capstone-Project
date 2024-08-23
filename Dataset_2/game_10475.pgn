@@ -1,0 +1,46 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.25"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "W1ldskies"]
+[Result "0-1"]
+[CurrentPosition "6k1/1p4pp/p7/8/4P3/1P5P/1q4P1/7K w - -"]
+[Timezone "UTC"]
+[ECO "B33"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Open-3...cxd4-4.Nxd4"]
+[UTCDate "2023.10.25"]
+[UTCTime "20:58:07"]
+[WhiteElo "1632"]
+[BlackElo "1715"]
+[TimeControl "60"]
+[Termination "W1ldskies won by resignation"]
+[StartTime "20:58:07"]
+[EndDate "2023.10.25"]
+[EndTime "20:59:01"]
+[Link "https://www.chess.com/game/live/92006406101"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.8] }
+2... Nc6 { [%clk 0:00:59.6] } 3. d4 { [%clk 0:00:59.6] } 3... cxd4
+{ [%clk 0:00:58.8] } 4. Nxd4 { [%clk 0:00:59.5] } 4... Nxd4
+{ [%clk 0:00:58.5] } 5. Qxd4 { [%clk 0:00:58.5] } 5... Qb6 { [%clk 0:00:58.1] }
+6. Nc3 { [%clk 0:00:58.4] } 6... Qxd4 { [%clk 0:00:57.7] } 7. Be3
+{ [%clk 0:00:57.8] } 7... Qd6 { [%clk 0:00:55.6] } 8. Rd1 { [%clk 0:00:56.1] }
+8... Qc7 { [%clk 0:00:54.8] } 9. Bc4 { [%clk 0:00:55.8] } 9... a6
+{ [%clk 0:00:53.8] } 10. Bb3 { [%clk 0:00:54.8] } 10... Nf6
+{ [%clk 0:00:52.9] } 11. O-O { [%clk 0:00:54.7] } 11... d6 { [%clk 0:00:52.4] }
+12. f3 { [%clk 0:00:54.3] } 12... Be6 { [%clk 0:00:51.5] } 13. Rfe1
+{ [%clk 0:00:54.1] } 13... Bxb3 { [%clk 0:00:50.2] } 14. axb3
+{ [%clk 0:00:54] } 14... e6 { [%clk 0:00:49.7] } 15. Bf2 { [%clk 0:00:53.9] }
+15... d5 { [%clk 0:00:49.2] } 16. exd5 { [%clk 0:00:52.8] } 16... Be7
+{ [%clk 0:00:47] } 17. dxe6 { [%clk 0:00:51.8] } 17... fxe6
+{ [%clk 0:00:46.6] } 18. Rxe6 { [%clk 0:00:50.8] } 18... O-O
+{ [%clk 0:00:45.9] } 19. Rde1 { [%clk 0:00:49.5] } 19... Bc5
+{ [%clk 0:00:45.3] } 20. Bxc5 { [%clk 0:00:46.9] } 20... Qxc5+
+{ [%clk 0:00:44.5] } 21. Kh1 { [%clk 0:00:46.8] } 21... Rfe8 { [%clk 0:00:43] }
+22. Rxe8+ { [%clk 0:00:42.8] } 22... Rxe8 { [%clk 0:00:42.9] } 23. Ne4
+{ [%clk 0:00:41.7] } 23... Nxe4 { [%clk 0:00:42] } 24. Rxe4
+{ [%clk 0:00:41.3] } 24... Rxe4 { [%clk 0:00:41] } 25. fxe4
+{ [%clk 0:00:41.2] } 25... Qxc2 { [%clk 0:00:40.4] } 26. h3
+{ [%clk 0:00:40.2] } 26... Qxb2 { [%clk 0:00:39.6] } 0-1
+

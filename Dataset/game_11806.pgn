@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "vistagausta"]
+[Black "samtakoj"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/PYBpI4eI"]
+[WhiteElo "2899"]
+[BlackElo "2620"]
+[ECO "A05"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:02:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+10"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. c4 O-O 5. Nc3 c6 6. O-O d5 7. d4 dxc4 8. e4
+Nbd7 9. a4 e5 10. dxe5 Ng4 11. e6 fxe6 12. Nd4 Nde5 13. h3 Nxf2 14. Rxf2 Rxf2
+15. Kxf2 Nd3+ 16. Kg1 Qxd4+ 17. Kh2 Bd7 18. Qe2 Rf8 19. Be3 Qe5 20. Rf1 Rxf1
+21. Bxf1 Nxb2 22. Qxb2 Qxc3 23. Qxb7 Qxe3 24. Qxd7 Qxe4 25. Bg2 Qe5 26. Qxa7
+Bf8 27. Qa8 c3 28. Qxc6 Bd6 29. Qa8+ Kg7 30. Qb7+ Kh6 31. Qf3 Qxg3+ 32. Qxg3
+Bxg3+ 33. Kxg3 c2 0-1
+

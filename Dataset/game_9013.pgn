@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "firegus16"]
+[Black "Predator_Shark"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/0hSmGE5p"]
+[WhiteElo "2548"]
+[BlackElo "2484"]
+[ECO "A56"]
+[Opening "Benoni Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "06:29:50"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. c4 c5 3. e3 e6 4. Nf3 d6 5. Be2 Be7 6. O-O O-O 7. b3 b6 8. Bb2 Bb7
+9. Nbd2 Ne4 10. Qc2 f5 11. Rad1 Nc6 12. a3 d5 13. cxd5 exd5 14. dxc5 Bxc5 15.
+b4 Bd6 16. Qb3 Ne7 17. Nd4 Rf6 18. N2f3 Rh6 19. h3 Qe8 20. Nxf5 Nxf5 21. Rxd5
+Bxd5 22. Qxd5+ Kh8 23. Qxf5 Qg6 24. Qxg6 Rxg6 25. Rd1 Re6 26. Bc4 Re7 27. Bd5
+Rd8 28. Kf1 Nf6 29. Bb3 h6 30. Nh4 Red7 31. Be6 Rc7 32. Nf5 Be7 33. Bd4 Bf8 34.
+Nxh6 Rxd4 35. Rxd4 gxh6 36. Rd8 Kg7 37. g4 Ne4 38. Bf5 Nd6 39. Bd3 Be7 40. Ra8
+Kf6 41. f4 Ke6 42. e4 Rc3 43. Ke2 Rxa3 44. e5 Nb7 45. Bc4+ Kd7 46. Rh8 Rxh3 47.
+Rh7 a5 48. bxa5 Nxa5 49. f5 Nxc4 50. f6 Re3+ 51. Kf2 Rxe5 52. f7 Kc6 53. Rh8
+Re6 54. Kg2 Rf6 55. Rh7 Ne5 56. Kg3 Bf8 57. Rh8 Rxf7 58. Rg8 Rf3+ 59. Kg2 Bd6
+60. Rh8 Rc3 61. Rxh6 Kd5 62. g5 Rc2+ 63. Kg3 Rc3+ 64. Kg2 b5 65. g6 b4 66. g7
+Rc4 67. g8=Q+ Kd4 68. Qg7 Rc2+ 69. Kg3 Bc5 70. Rh4+ Kd3 71. Qxe5 Rc3 72. Qf5+
+Kd2+ 73. Kg2 Kc1 74. Rh2 Rc2+ 75. Kh3 Kb2 76. Rxc2+ Kb3 77. Qd3+ Ka4 78. Rc4
+Kb5 79. Rxc5+ 1-0
+

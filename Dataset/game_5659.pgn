@@ -1,0 +1,34 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "simbelmyne-bot"]
+[Black "Weiawaga"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ejog0oCd"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2639"]
+[BlackElo "2703"]
+[ECO "D05"]
+[Opening "Queen's Pawn Game: Colle System"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:35:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. Nf3 Nf6 2. d4 d5 3. e3 e6 4. c4 a6 5. Nc3 Be7 6. cxd5 exd5 7. Bd3 O-O 8. O-O
+Nbd7 9. Re1 Re8 10. Bd2 c5 11. Rc1 b5 12. e4 dxe4 13. Nxe4 c4 14. Bb1 Bb7 15.
+Ng3 Qc7 16. Nf5 Bf8 17. Rxe8 Rxe8 18. h3 Ne4 19. Be3 Qc6 20. N3h4 Ndf6 21. Bf4
+g6 22. Nh6+ Kg7 23. Nf3 Nh5 24. Be3 f5 25. Bxe4 Rxe4 26. Bg5 Nf4 27. Kf1 Bd6
+28. a3 Qd5 29. Rc3 Ne6 30. h4 Nxd4 31. Rc1 Bf4 32. Rb1 Bxg5 33. hxg5 c3 34. Qd3
+Nxf3 35. Qxc3+ Ne5 36. f3 Rc4 37. Qe3 Qd3+ 38. Qxd3 Nxd3 39. Rd1 Rc1 40. Rxc1
+Nxc1 41. Kf2 Nd3+ 42. Ke3 Nxb2 43. Kd4 Na4 44. Ke5 a5 45. Kd4 b4 46. axb4 axb4
+47. Kc4 Nc5 48. Kxb4 Ne6 49. Kb5 Nxg5 50. Kb6 Bxf3 51. gxf3 Kxh6 52. Kb5 f4 53.
+Kb4 Nxf3 54. Kc3 Ng5 55. Kd2 Kh5 56. Kd3 Kg4 57. Ke2 f3+ 58. Kf1 Kg3 59. Ke1
+f2+ 60. Ke2 Nf3 61. Kd3 Kg4 62. Ke2 h5 63. Kxf2 h4 64. Kg2 Nd2 65. Kf2 h3 66.
+Ke3 h2 67. Kd3 h1=Q 68. Kxd2 Qc6 69. Ke1 Qd5 70. Ke2 Kf4 71. Kf1 Qd2 72. Kg1
+Kg3 73. Kf1 Qd1# 0-1
+

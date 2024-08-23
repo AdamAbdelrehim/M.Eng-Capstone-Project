@@ -1,0 +1,41 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.26"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Rosetov"]
+[Result "0-1"]
+[CurrentPosition "7r/p4kpp/1p3p2/8/1bp5/P3B3/1P2RPPP/3r2K1 w - -"]
+[Timezone "UTC"]
+[ECO "C57"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Knight-Attack-Normal-Variation-5.exd5-Nxd5"]
+[UTCDate "2022.07.26"]
+[UTCTime "21:36:43"]
+[WhiteElo "1824"]
+[BlackElo "1856"]
+[TimeControl "600"]
+[Termination "Rosetov won by resignation"]
+[StartTime "21:36:43"]
+[EndDate "2022.07.26"]
+[EndTime "21:42:23"]
+[Link "https://www.chess.com/game/live/52610401761"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:55.7] } 2. Nf3
+{ [%clk 0:09:58.6] } 2... Nc6 { [%clk 0:09:53.7] } 3. Bc4 { [%clk 0:09:58] }
+3... Nf6 { [%clk 0:09:51.3] } 4. Ng5 { [%clk 0:09:44.2] } 4... d5
+{ [%clk 0:09:48.5] } 5. exd5 { [%clk 0:09:39.3] } 5... Nxd5
+{ [%clk 0:09:46.4] } 6. Nf3 { [%clk 0:09:11] } 6... Be6 { [%clk 0:09:38.4] } 7.
+O-O { [%clk 0:08:58.7] } 7... f6 { [%clk 0:09:36.7] } 8. Re1
+{ [%clk 0:08:51.9] } 8... Qd7 { [%clk 0:09:21.3] } 9. d4 { [%clk 0:08:50.1] }
+9... exd4 { [%clk 0:09:14.3] } 10. Nxd4 { [%clk 0:08:49.1] } 10... Nxd4
+{ [%clk 0:09:11.2] } 11. Qxd4 { [%clk 0:08:49] } 11... c6 { [%clk 0:08:55.5] }
+12. Nc3 { [%clk 0:08:45.9] } 12... Kf7 { [%clk 0:08:46.6] } 13. Nxd5
+{ [%clk 0:08:32.5] } 13... Bxd5 { [%clk 0:08:41.8] } 14. Bxd5+
+{ [%clk 0:08:24.6] } 14... Qxd5 { [%clk 0:08:38.7] } 15. Qxd5+
+{ [%clk 0:08:20.2] } 15... cxd5 { [%clk 0:08:36.1] } 16. Be3
+{ [%clk 0:08:14.7] } 16... b6 { [%clk 0:08:32.5] } 17. Rad1
+{ [%clk 0:08:11.7] } 17... Rd8 { [%clk 0:08:29.5] } 18. c4 { [%clk 0:08:07.7] }
+18... Bb4 { [%clk 0:08:20.1] } 19. Re2 { [%clk 0:07:10.6] } 19... dxc4
+{ [%clk 0:08:14.7] } 20. a3 { [%clk 0:06:26] } 20... Rxd1+ { [%clk 0:08:08.6] }
+0-1
+

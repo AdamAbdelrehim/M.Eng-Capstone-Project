@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "CaissaSoeze"]
+[Black "Kliunkius"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/UfZJX5ld"]
+[WhiteElo "2598"]
+[BlackElo "2536"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:57:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nc3 e6 3. Nge2 Nc6 4. g3 d5 5. exd5 exd5 6. d4 Nf6 7. Bg2 c4 8. O-O
+Be7 9. Nf4 Be6 10. Re1 Qd7 11. b3 cxb3 12. axb3 Bb4 13. Bd2 O-O 14. Na4 Bxd2
+15. Qxd2 b6 16. Nxe6 fxe6 17. Re2 Rae8 18. Rae1 Qd6 19. c3 Kh8 20. Nb2 e5 21.
+dxe5 Rxe5 22. Rxe5 Nxe5 23. Nc4 Nxc4 24. bxc4 Ng4 25. cxd5 Qc5 26. Re2 h6 27.
+d6 Rd8 28. d7 Nf6 29. Bh3 Qh5 30. Be6 Qc5 31. Re3 a5 32. Bh3 a4 33. Qe2 Qf8 34.
+Re7 a3 35. Qe6 a2 36. Rf7 a1=Q+ 37. Kg2 Qxf7 38. Qxf7 Qa8+ 39. f3 Rf8 40. Be6
+Rxf7 41. Bxf7 Nxd7 42. Kh3 Qc8 43. Kh4 Nf6 44. g4 Qc7 45. h3 Qf4 46. Bh5 g5#
+0-1
+

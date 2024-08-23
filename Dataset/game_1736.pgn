@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Leon_Blanco"]
+[Black "KarolyHonfi"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/vABDIZxA"]
+[WhiteTitle "NM"]
+[WhiteElo "2347"]
+[BlackElo "2519"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:45:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. h3 e6 7. Qe2 Bd6 8. Nf3
+Nge7 9. Nbd2 O-O 10. O-O f6 11. Bc2 e5 12. dxe5 fxe5 13. Bb3 Kh8 14. Rd1 e4 15.
+Ng5 Bf5 16. Qh5 Bg6 17. Qe2 Qc8 18. Ndxe4 Bc7 19. Nc5 Bb6 20. Nge6 Rf6 21. Bg5
+Rf5 22. Bxe7 Nxe7 23. Nd4 Qxc5 24. Nxf5 Bxf5 25. Re1 Be4 26. Rad1 Rf8 27. Rd2
+Ng6 28. Qe3 Qc7 29. Qg5 h6 30. Qg4 Rf4 31. Qh5 Qf7 32. Rf1 Rf5 33. Qg4 Ne5 34.
+Qxe4 dxe4 35. Bxf7 Rxf7 36. Re2 Nd3 37. Rxe4 Nxf2 38. Rd4 Bxd4 39. cxd4 Nxh3+
+40. gxh3 Rxf1+ 41. Kxf1 Kg8 42. Kf2 Kf7 43. Kf3 Kf6 44. Ke4 g5 45. b4 h5 46. a4
+Ke6 47. a5 a6 48. d5+ Kd6 49. Kf5 g4 50. hxg4 hxg4 51. Kxg4 Kxd5 0-1
+

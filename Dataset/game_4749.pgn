@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "EuphoriaGD"]
+[Black "Random_chess1234"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/8WYGD0uQ"]
+[WhiteElo "2658"]
+[BlackElo "2348"]
+[ECO "A42"]
+[Opening "Modern Defense: Kotov Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:48:41"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-364"]
+[BlackRatingDiff "+6"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nc6 5. Be3 e5 6. d5 Nce7 7. f3 f5 8. Bd3 Nf6
+9. Nge2 fxe4 10. Nxe4 Nf5 11. Bf2 O-O 12. N2c3 Nxe4 13. Nxe4 Nd4 14. O-O Bf5
+15. Rc1 c5 16. dxc6 bxc6 17. Qa4 d5 18. Bxd4 dxe4 19. Bc5 exd3 20. Bxf8 Bxf8
+21. Qxc6 Rc8 22. Qb5 Qd4+ 23. Kh1 Bh6 24. Rcd1 d2 25. Qb7 Rd8 26. Qb3 Bd3 27.
+Rxd2 Bxd2 28. Rd1 Bxc4 29. Qb7 Bd5 30. Qe7 Bxa2 31. Qa3 Bc4 32. Qe7 Rd7 33.
+Qe8+ Kg7 34. Qb8 Bd5 35. Qe8 Bb7 36. Qb8 e4 37. Qg3 exf3 38. gxf3 Rf7 39. Rxd2
+Qxd2 40. Qe5+ Kh6 0-1
+

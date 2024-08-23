@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "alesdr2024"]
+[Black "Dmitrij_Osetrov"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/xii9EEqT"]
+[WhiteElo "2430"]
+[BlackElo "2566"]
+[ECO "E63"]
+[Opening "King's Indian Defense: Fianchetto Variation, Panno Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:35:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nc6 7. O-O a6 8. e4
+Bg4 9. Be3 Nd7 10. Qd2 Bxf3 11. Bxf3 e5 12. d5 Nd4 13. Bg2 c5 14. dxc6 bxc6 15.
+b4 Rb8 16. Rab1 a5 17. a3 axb4 18. axb4 Qc7 19. f4 Rb7 20. f5 Rfb8 21. b5 cxb5
+22. cxb5 Nxb5 23. Nd5 Qd8 24. Bg5 f6 25. Be3 g5 26. h4 h6 27. hxg5 hxg5 28. Bf3
+Nc7 29. Rxb7 Rxb7 30. Bh5 Rb5 31. Nxc7 Qxc7 32. Qa2+ d5 33. exd5 Qd6 34. Rd1 e4
+35. Kg2 Nb6 36. Bxb6 Rxb6 37. Bg6 Rb7 38. Kh3 e3 39. Qe2 Re7 40. Qh5 e2 41. Re1
+Qxd5 42. Kh2 Qd2 43. Ra1 e1=Q+ 44. Kh3 Qxa1 45. Bh7+ Kf8 46. Qf3 Qae1 47. Qa8+
+Re8 48. Qb7 Qf1+ 49. Kg4 Qd4+ 50. Kh5 Qh3+ 51. Kg6 Qh6# 0-1
+

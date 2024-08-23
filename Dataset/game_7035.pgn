@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Mondano"]
+[Black "GabrielMur2011"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/zkYsBQxh"]
+[WhiteElo "2509"]
+[BlackElo "2349"]
+[ECO "C41"]
+[Opening "Philidor Defense: Steinitz Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:06:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. c3 Nf6 5. Qe2 c6 6. Bb3 Nbd7 7. d4 O-O 8. O-O
+Qc7 9. Bg5 h6 10. Bh4 a5 11. Nbd2 a4 12. Bc2 Re8 13. Nc4 b6 14. dxe5 dxe5 15.
+Ne3 Nc5 16. Rfe1 Nfxe4 17. Nc4 f5 18. Bxe7 Rxe7 19. Ncxe5 Rxe5 20. Nxe5 Qxe5
+21. f3 Ba6 22. Qd1 Nd3 23. b4 Nxe1 24. Qxe1 Qxc3 25. Qxc3 Nxc3 26. Re1 Ne2+ 27.
+Kf2 Nd4 28. Bxa4 Bc4 29. Rd1 Rxa4 30. Rxd4 Rxa2+ 31. Kg3 b5 32. Rd8+ Kh7 0-1
+

@@ -1,0 +1,25 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Chess_hero_2024"]
+[Black "avcs"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/2GP1pCjQ"]
+[WhiteElo "2826"]
+[BlackElo "2471"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+[TimeControl "600+5"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:58:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "+28"]
+[BlackRatingDiff "-3"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Nf3 Nc6 7. Bc4 Nb6 8. Bb3
+dxe5 9. d5 Na5 10. Nc3 Bg4 11. Be3 Nxb3 12. Qxb3 Bxf3 13. gxf3 g6 14. a4 Bg7
+15. a5 Nc8 16. Qxb7 Nd6 17. Qc6+ Kf8 18. O-O f5 19. f4 Kf7 20. Rfd1 e4 21. Bd4
+Bxd4 22. Rxd4 Rc8 23. Qa6 Qc7 24. Rc1 Qc5 25. Rdd1 e3 26. Ne4 Qxc1 27. Nxd6+
+exd6 28. Rxc1 Rxc1+ 29. Kg2 Rhc8 30. Qxa7+ R8c7 1-0
+

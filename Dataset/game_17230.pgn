@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "supertolchok"]
+[Black "sergeikim2003"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/dhpttAIK"]
+[BlackTitle "FM"]
+[WhiteElo "2414"]
+[BlackElo "2548"]
+[ECO "C20"]
+[Opening "King's Pawn Game: King's Head Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:49:09"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+
+1. e4 e5 2. f3 Nf6 3. Nc3 Bc5 4. Bc4 Nc6 5. Nge2 a6 6. a4 d6 7. d3 h6 8. h4 Be6
+9. g4 d5 10. exd5 Nxd5 11. Ne4 Ba7 12. c3 Qd7 13. Qb3 Na5 14. Qb4 Nxc4 15. dxc4
+Ne3 16. Bxe3 Bxe3 17. Qxb7 O-O 18. Rd1 Qxa4 19. Qxc7 Bxc4 20. Qxe5 Rfe8 21. Qd6
+Qc2 22. Rh2 Bb3 23. Qd3 Qxd1+ 24. Qxd1 Bxd1 25. Kxd1 a5 26. Kc2 a4 27. Rh1 Red8
+28. N2g3 Rab8 29. Nf5 Bf4 30. Ne7+ Kf8 31. Nc6 Rbc8 32. Nxd8 Rxd8 33. Rd1 Ra8
+34. h5 a3 35. bxa3 Rxa3 36. Rb1 Ra2+ 37. Rb2 Ra1 38. c4 Rf1 39. Rb3 Ke7 40. c5
+Kd7 41. Rb7+ Ke6 42. c6 Rxf3 43. c7 Kd7 44. c8=Q+ Kxc8 45. Rxf7 Kd8 46. Rxg7
+Be5 47. Rh7 Rf4 48. Nc5 Rxg4 49. Ne6+ Ke8 50. Kd3 Bf4 51. Ke4 Bc1+ 52. Kf5 Rg1
+53. Nc7+ 1-0
+

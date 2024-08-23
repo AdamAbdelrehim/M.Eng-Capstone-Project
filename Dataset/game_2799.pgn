@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "destroylevel"]
+[Black "eugmind"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Au0GKmv1"]
+[WhiteElo "2496"]
+[BlackElo "2518"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Greco Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:18:39"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 d5 7. Be2 Ne4 8. cxd4
+Bb4+ 9. Bd2 Nxd2 10. Nbxd2 Bg4 11. O-O O-O 12. Nb3 Re8 13. Rc1 Bf8 14. Bb5 Bd7
+15. Bxc6 Bxc6 16. Na5 Bb5 17. Re1 Ba6 18. Qb3 Rb8 19. Qc2 c6 20. Nb3 Bc4 21.
+Nbd2 Ba6 22. a3 Rc8 23. b4 b6 24. Qf5 g6 25. Qg4 Bh6 26. e6 f5 27. Qh3 Bxd2 28.
+Nxd2 Qf6 29. Qe3 Re7 30. Nf3 Bb7 31. Qe5 Qxe5 32. Rxe5 Rce8 33. Ng5 h6 34. Nf7
+Rxe6 35. Nd6 Rxe5 36. dxe5 Re7 37. Nxb7 Rxb7 38. Rxc6 Kf7 39. f4 Rd7 40. Kf2
+Kg7 41. Ke3 g5 42. g3 gxf4+ 43. gxf4 a5 44. Rxb6 axb4 45. axb4 Ra7 46. Kd4 Ra2
+47. Kxd5 Rxh2 48. Ke6 h5 49. Kxf5 h4 50. e6 h3 51. Rb7+ Kg8 52. e7 Kf7 53. Rb6
+Kxe7 54. Rh6 Rh1 55. b5 Rb1 56. b6 Rb5+ 57. Kg6 Rxb6+ 0-1
+

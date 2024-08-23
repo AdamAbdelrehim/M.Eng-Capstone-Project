@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "art-tabar"]
+[Black "IceBelkaChess"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/0SYWkv7f"]
+[WhiteElo "2493"]
+[BlackElo "2610"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:01:47"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+11"]
+
+1. d4 d5 2. Nf3 c6 3. g3 Nf6 4. Bg2 Bf5 5. O-O e6 6. b3 h6 7. Bb2 Bd6 8. Nbd2
+O-O 9. c4 Nbd7 10. a3 a5 11. h3 Qe7 12. Ne5 Bh7 13. c5 Bc7 14. b4 Nxe5 15. dxe5
+Nd7 16. f4 f6 17. exf6 gxf6 18. e4 d4 19. Bxd4 e5 20. Bc3 Rf7 21. Qh5 Rg7 22.
+Kh2 exf4 23. gxf4 Kh8 24. Qxh6 Rag8 25. Rg1 Qf8 26. Qh4 Rg6 27. Bf3 Rh6 28.
+Rxg8+ Bxg8 29. Qg4 Qe7 30. Rg1 Be6 31. Qg5 Rxh3+ 32. Kg2 Kh7 33. Bxf6 Qxf6 34.
+Qxf6 Nxf6 35. e5 Nh5 36. Bxh5 Rxh5 37. Kf3 Bd5+ 38. Kg4 Rh6 39. Nf3 Bxf3+ 40.
+Kxf3 Rh3+ 41. Ke4 Rxa3 42. bxa5 Rxa5 43. Kf5 Rxc5 44. Kf6 Rd5 45. Rh1+ Kg8 46.
+Ra1 Rd8 47. Ra7 Rf8+ 48. Kg5 Bd8+ 49. Kg4 Rf7 50. e6 Rg7+ 51. Kf5 Kf8 52. Ke5
+Ke8 53. f5 c5 54. f6 Rg5+ 55. Kd6 Bxf6 56. Ra8+ Bd8 57. e7 Rg6+ 58. Kxc5 Kxe7
+59. Rb8 Rc6+ 60. Kb5 Rb6+ 61. Kc5 Bc7 62. Rc8 Kd7 63. Rg8 Rb1 64. Rg7+ Kc8 65.
+Rg8+ Bd8 66. Rg7 Rc1+ 67. Kb5 Rh1 68. Rf7 Rh5+ 69. Kc4 b6 70. Rg7 Bc7 71. Kb4
+Kb7 72. Kc4 Kc6 73. Rg6+ Bd6 74. Rg8 b5+ 75. Kb3 Rh3+ 76. Kc2 Kc5 77. Rg5+ Kb4
+78. Rg4+ Ka3 79. Rg6 Rh2+ 80. Kd3 Bb4 81. Rb6 Rh5 82. Kc2 Rc5+ 83. Kb1 Kb3 84.
+Re6 Bd2 0-1
+

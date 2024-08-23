@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "AttackSparrow"]
+[Black "Masterasasin"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/4IXPZ1mn"]
+[WhiteTitle "FM"]
+[WhiteElo "2651"]
+[BlackElo "2546"]
+[ECO "C10"]
+[Opening "Sicilian Defense: Marshall Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:34:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. dxc5 Nf6 5. Bg5 d4 6. e5 h6 7. Bxf6 gxf6 8. Ne4
+fxe5 9. Qh5 Bxc5 10. O-O-O Be7 11. Nf3 Qd5 12. Nc3 Qa5 13. Rxd4 Nc6 14. Bb5 Bf6
+15. Nxe5 1-0
+

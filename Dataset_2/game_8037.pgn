@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.03.27"]
+[Round "-"]
+[White "LittleScotch"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r2qkbnr/3B1ppp/p2pp3/1pp5/4PP2/2N2N2/PPPP2PP/R1BQ1RK1 b kq -"]
+[Timezone "UTC"]
+[ECO "B23"]
+[ECOUrl "https://www.chess.com/openings/Closed-Sicilian-Defense-Grand-Prix-Attack-3...d6"]
+[UTCDate "2023.03.27"]
+[UTCTime "06:18:14"]
+[WhiteElo "1899"]
+[BlackElo "1847"]
+[TimeControl "600"]
+[Termination "LittleScotch won by resignation"]
+[StartTime "06:18:14"]
+[EndDate "2023.03.27"]
+[EndTime "06:18:43"]
+[Link "https://www.chess.com/game/live/73636859527"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:10:00] } 2. Nc3 { [%clk 0:09:58.4] }
+2... d6 { [%clk 0:09:59.9] } 3. f4 { [%clk 0:09:57] } 3... Nc6
+{ [%clk 0:09:58] } 4. Nf3 { [%clk 0:09:56] } 4... e6 { [%clk 0:09:57.1] } 5.
+Bb5 { [%clk 0:09:53.5] } 5... Bd7 { [%clk 0:09:55.8] } 6. O-O
+{ [%clk 0:09:51.1] } 6... a6 { [%clk 0:09:55.5] } 7. Bxc6 { [%clk 0:09:48.2] }
+7... b5 { [%clk 0:09:55.4] } 8. Bxd7+ { [%clk 0:09:46.7] } 1-0
+

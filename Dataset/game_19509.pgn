@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Defendiendome"]
+[Black "LapprentiSorcier"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/K9b0RawK"]
+[WhiteElo "2521"]
+[BlackElo "2474"]
+[ECO "A61"]
+[Opening "Benoni Defense: Knight's Tour Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:30:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+9"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bf4 Ne8 10. Qd2 Qe7 11. a4 Nd7 12. e3 Nb6 13. a5 Nxc4 14. Bxc4 f5 15.
+O-O Nf6 16. f3 Nh5 17. Rfe1 Nxf4 18. exf4 Qh4 19. g3 Qf6 20. Kg2 Bd7 21. Bb5
+Bc8 22. a6 bxa6 23. Bxa6 Bd7 24. Bb5 Bxb5 25. Nxb5 Rab8 26. Qe2 Qxb2 27. Nxd6
+Qxe2+ 28. Rxe2 Bxa1 0-1
+

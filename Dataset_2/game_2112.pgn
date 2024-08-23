@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.05"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "mfuoco"]
+[Result "0-1"]
+[CurrentPosition "r1bqkbnr/pppp1pp1/7p/4n3/2BNPB2/8/PPP2PPP/RN1QK2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C55"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Anti-Fried-Liver-Defense"]
+[UTCDate "2021.10.05"]
+[UTCTime "01:18:20"]
+[WhiteElo "1569"]
+[BlackElo "1656"]
+[TimeControl "600"]
+[Termination "mfuoco won by resignation"]
+[StartTime "01:18:20"]
+[EndDate "2021.10.05"]
+[EndTime "01:19:11"]
+[Link "https://www.chess.com/game/live/27135646293"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:59.6] } 2. Nf3
+{ [%clk 0:09:59.3] } 2... Nc6 { [%clk 0:09:57.9] } 3. Bc4 { [%clk 0:09:58.6] }
+3... h6 { [%clk 0:09:50] } 4. d4 { [%clk 0:09:57.8] } 4... exd4
+{ [%clk 0:09:47.2] } 5. Nxd4 { [%clk 0:09:57.7] } 5... Ne5 { [%clk 0:09:32.8] }
+6. Bf4 { [%clk 0:09:46.3] } 0-1
+

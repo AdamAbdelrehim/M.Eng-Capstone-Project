@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "FischersFrisoer"]
+[Black "CRBorn"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/M65lcS7s"]
+[WhiteElo "2420"]
+[BlackElo "2551"]
+[ECO "D43"]
+[Opening "Semi-Slav Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:47:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. Bg5 a6 6. e3 Be7 7. Qc2 Nbd7 8. Rd1
+O-O 9. a3 dxc4 10. Bxc4 b5 11. Ba2 Bb7 12. O-O Rc8 13. e4 h6 14. Bh4 Qe8 15. e5
+Nd5 16. Bxe7 Qxe7 17. Ne4 c5 18. Nd6 cxd4 19. Nxc8 Rxc8 20. Qd2 N7b6 21. Qxd4
+Rc2 22. Rc1 Qc7 23. Rxc2 Qxc2 24. Bxd5 Nxd5 25. Qa7 Bc6 26. Nd4 Qc4 27. Qxa6
+Be8 28. Rd1 Nf4 29. Qa8 Kf8 30. Qe4 g5 31. Qh7 Bc6 32. Qxh6+ Ke8 33. Qxg5 Nd5
+34. Nf3 Qe2 35. Rc1 Kd7 36. Qd2 Qe4 37. Qd4 Qf5 38. Qc5 Ne7 39. Qd6+ Ke8 40. h3
+Bxf3 41. gxf3 Qg5+ 0-1
+

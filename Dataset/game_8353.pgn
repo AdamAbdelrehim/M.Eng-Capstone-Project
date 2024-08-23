@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "silence404"]
+[Black "veselchak-u"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/HZyHpmWh"]
+[WhiteElo "2739"]
+[BlackElo "2552"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack, Fianchetto Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:19:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 b6 7. Bd3 Bb7 8. O-O
+Nbd7 9. Qe2 c5 10. Rfd1 cxd4 11. exd4 a6 12. cxd5 Nxd5 13. Nxd5 exd5 14. Rac1
+Nf6 15. Rc7 Qd7 16. Rxd7 1-0
+

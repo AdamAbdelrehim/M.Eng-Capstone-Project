@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.20"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Extractor886"]
+[Result "0-1"]
+[CurrentPosition "r2qkb1r/ppp1ppp1/7p/8/8/2N1B3/PPb2PPP/R3KB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "A06"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-Tennison-Gambit"]
+[UTCDate "2022.03.20"]
+[UTCTime "00:11:13"]
+[WhiteElo "1342"]
+[BlackElo "1397"]
+[TimeControl "60"]
+[Termination "Extractor886 won by resignation"]
+[StartTime "00:11:13"]
+[EndDate "2022.03.20"]
+[EndTime "00:11:45"]
+[Link "https://www.chess.com/game/live/41473832611"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:58.8] }
+2... dxe4 { [%clk 0:00:59.2] } 3. Ng5 { [%clk 0:00:58.5] } 3... Nf6
+{ [%clk 0:00:59.1] } 4. Nc3 { [%clk 0:00:56.5] } 4... h6 { [%clk 0:00:58.1] }
+5. Ngxe4 { [%clk 0:00:55.3] } 5... Nxe4 { [%clk 0:00:56.8] } 6. Nxe4
+{ [%clk 0:00:55.2] } 6... Bf5 { [%clk 0:00:56] } 7. Nc3 { [%clk 0:00:54.6] }
+7... Nc6 { [%clk 0:00:54.7] } 8. d4 { [%clk 0:00:52.6] } 8... Nxd4
+{ [%clk 0:00:52.2] } 9. Be3 { [%clk 0:00:51.2] } 9... Nxc2+ { [%clk 0:00:49] }
+10. Qxc2 { [%clk 0:00:49.8] } 10... Bxc2 { [%clk 0:00:46.6] } 0-1
+

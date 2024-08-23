@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Aesio2005"]
+[Black "Katinbakkie"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/EA7gdWS9"]
+[BlackTitle "IM"]
+[WhiteElo "2501"]
+[BlackElo "2510"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:41:47"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 e6 2. Nf3 d5 3. exd5 exd5 4. d4 Bd6 5. Bd3 Ne7 6. O-O O-O 7. h3 Bf5 8. b3
+Bxd3 9. Qxd3 c6 10. Bb2 Nd7 11. Nbd2 Ng6 12. Rfe1 Qf6 13. c4 Nf4 14. Qc2 Rfe8
+15. Nf1 Qg6 16. Ng3 Qxc2 0-1
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "bob_2004"]
+[Black "aceg39"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/dZCY9a6z"]
+[WhiteTitle "FM"]
+[WhiteElo "2753"]
+[BlackElo "2630"]
+[ECO "D21"]
+[Opening "Queen's Gambit Accepted: Normal Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:03:39"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 Bg4 4. e3 e5 5. Bxc4 exd4 6. Bxf7+ Kxf7 7. Ne5+ Ke6
+8. Qxg4+ Kxe5 9. exd4+ Qxd4 10. Qh5+ Ke6 11. Qe8+ Be7 12. O-O Qd7 13. Re1+ Kf6
+14. Qh5 Qf5 15. Qh4+ Kf7 16. Qc4+ Kf8 17. Nc3 Nc6 18. Nd5 Qf7 19. Qb5 Rd8 20.
+Nxc7 Nd4 21. Qxb7 Nf6 22. Bf4 Kg8 23. Rad1 Ne2+ 24. Kh1 Nxf4 0-1
+

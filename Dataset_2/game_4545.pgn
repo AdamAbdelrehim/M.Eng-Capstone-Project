@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.04.03"]
+[Round "-"]
+[White "Rob568"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rnbBkbnr/ppp2ppp/4p3/3p4/3P4/8/PPP1PPPP/RN1QKBNR b KQkq -"]
+[Timezone "UTC"]
+[ECO "D00"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Levitsky-Attack"]
+[UTCDate "2022.04.03"]
+[UTCTime "21:49:57"]
+[WhiteElo "1424"]
+[BlackElo "1398"]
+[TimeControl "60"]
+[Termination "Rob568 won by resignation"]
+[StartTime "21:49:57"]
+[EndDate "2022.04.03"]
+[EndTime "21:50:04"]
+[Link "https://www.chess.com/game/live/42761426541"]
+
+1. d4 { [%clk 0:01:00] } 1... d5 { [%clk 0:00:56.8] } 2. Bg5
+{ [%clk 0:00:59.9] } 2... e6 { [%clk 0:00:56.7] } 3. Bxd8 { [%clk 0:00:59] }
+1-0
+

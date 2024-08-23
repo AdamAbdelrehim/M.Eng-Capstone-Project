@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.17"]
+[Round "-"]
+[White "JimV0910"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1bq3r/pppp2pp/2n3k1/2b1P1Nn/3p4/3Q4/PPP2PPP/RNB2RK1 b - -"]
+[Timezone "UTC"]
+[ECO "C55"]
+[ECOUrl "https://www.chess.com/openings/Scotch-Game-Dubois-Reti-Max-Lange-Attack"]
+[UTCDate "2021.03.17"]
+[UTCTime "01:48:42"]
+[WhiteElo "1355"]
+[BlackElo "1318"]
+[TimeControl "600"]
+[Termination "JimV0910 won by resignation"]
+[StartTime "01:48:42"]
+[EndDate "2021.03.17"]
+[EndTime "01:50:42"]
+[Link "https://www.chess.com/game/live/9684866147"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:59.7] } 2. Nf3 { [%clk 0:09:59] }
+2... Nc6 { [%clk 0:09:59] } 3. Bc4 { [%clk 0:09:57.7] } 3... Bc5
+{ [%clk 0:09:55.9] } 4. O-O { [%clk 0:09:54.8] } 4... Nf6 { [%clk 0:09:53.6] }
+5. d4 { [%clk 0:09:51.8] } 5... exd4 { [%clk 0:09:51.3] } 6. e5
+{ [%clk 0:09:33.3] } 6... Nh5 { [%clk 0:09:33.1] } 7. Bxf7+
+{ [%clk 0:09:25.2] } 7... Kxf7 { [%clk 0:09:26.1] } 8. Ng5+
+{ [%clk 0:09:24.2] } 8... Kg6 { [%clk 0:09:20] } 9. Qd3+ { [%clk 0:09:12.4] }
+1-0
+

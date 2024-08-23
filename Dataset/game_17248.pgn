@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "firegus16"]
+[Black "Jora_Barygin"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/7kV5vprD"]
+[WhiteElo "2569"]
+[BlackElo "2599"]
+[ECO "D39"]
+[Opening "Queen's Gambit Declined: Ragozin Defense, Vienna Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:54:22"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 dxc4 5. Bg5 Bb4 6. Qa4+ Nc6 7. e3 Qd5 8.
+Bxf6 b5 9. Qc2 gxf6 10. Be2 Bb7 11. O-O Bxc3 12. bxc3 Ne7 13. Ne1 Qd7 14. Bf3
+Bxf3 15. Nxf3 a6 16. a4 O-O 17. e4 c5 18. Rfd1 cxd4 19. Rxd4 Qc6 20. e5 f5 21.
+Qd2 Ng6 22. Qh6 f6 23. exf6 Rxf6 24. Rad1 Rf7 25. h4 Rg7 26. Ng5 Nf8 27. Qf6
+Qc7 28. Rd8 Rxd8 29. Rxd8 Qe7 30. Rxf8+ Qxf8 31. Qe5 Qe8 32. axb5 axb5 33. Nxe6
+Re7 34. Qg3+ Qg6 35. Ng5 h6 36. Qb8+ Re8 37. Qxb5 hxg5 38. Qd5+ Qe6 39. Qd4
+Qe1+ 40. Kh2 Qe5+ 41. Qxe5 Rxe5 42. hxg5 Rd5 43. Kg3 Rd3+ 44. Kf4 Rxc3 45. Kxf5
+Rd3 46. f4 Rd1 47. Kf6 c3 48. f5 c2 49. Kg6 c1=Q 50. f6 Qc6 51. Kh6 Rd6 52. g4
+Rxf6+ 53. gxf6 Qxf6+ 54. Kh5 Kg7 55. g5 Qf3+ 56. Kh4 Qf2+ 57. Kh5 Qg1 58. Kh4
+Kg6 0-1
+

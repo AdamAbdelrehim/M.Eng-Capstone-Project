@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "thickgreenphlegm"]
+[Black "stilet777777stilet"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/2DzNHKhZ"]
+[WhiteTitle "FM"]
+[WhiteElo "2515"]
+[BlackElo "2409"]
+[ECO "E62"]
+[Opening "King's Indian Defense: Fianchetto Variation, Delayed Fianchetto"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:29:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 d6 2. Nf3 g6 3. c4 Bg7 4. Nc3 Nf6 5. g3 O-O 6. Bg2 c6 7. O-O a6 8. a4 a5
+9. h3 Nbd7 10. e4 e5 11. Be3 exd4 12. Nxd4 Nc5 13. Qc2 Re8 14. Rfe1 Qb6 15.
+Rab1 Qb4 16. b3 Bd7 17. Na2 Qb6 18. Nc3 Rad8 19. f4 Bc8 20. Bf2 Qc7 21. Re2 Na6
+22. Rbe1 Nb4 23. Qb1 Nd7 24. Qd1 Nc5 25. Kh2 Ncd3 26. Rf1 Nxf2 27. Rfxf2 Qb6
+28. Rd2 Qc5 29. Rfe2 h5 30. Nb1 h4 31. g4 d5 32. cxd5 cxd5 33. e5 Nc6 34. Nb5
+Qb4 35. Bxd5 Qxf4+ 36. Kh1 Bxe5 37. N1c3 Kg7 38. Rf2 Qe3 39. Rxf7+ Kh8 40. Rf3
+Qg5 41. Re2 Bxg4 42. hxg4 Qxg4 43. Rfe3 Rf8 44. Qg1 Qxg1+ 45. Kxg1 Bf4 46. Rf3
+g5 47. Ref2 Ne5 48. Rh3 Ng4 49. Rf1 Ne3 50. Rxe3 Bxe3+ 51. Kg2 Rxf1 52. Kxf1 g4
+53. Nc7 h3 54. Ne6 Rd6 55. Nc5 Bxc5 56. Ne4 Rxd5 57. Nxc5 Rxc5 58. Kf2 Rc3 59.
+Kg1 g3 60. Kf1 Rc2 61. Ke1 h2 62. Kd1 Rg2 63. Kc1 h1=Q# 0-1
+

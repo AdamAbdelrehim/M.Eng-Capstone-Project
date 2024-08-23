@@ -1,0 +1,39 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Nikitosikbot_v2"]
+[Black "RaspFish"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/qzHj8Uj2"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3034"]
+[BlackElo "2990"]
+[ECO "A35"]
+[Opening "English Opening: Symmetrical Variation, Four Knights Variation"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:26:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+0"]
+
+1. c4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. g3 e5 5. Bg2 d6 6. O-O Be7 7. d3 O-O 8. Ne1
+Be6 9. e4 a6 10. Nc2 b5 11. Ne3 bxc4 12. dxc4 Nd4 13. f4 Bd7 14. f5 Kh8 15. Rf2
+Rb8 16. b3 a5 17. Qd3 Bc6 18. Bf3 Nd7 19. Ng4 Rg8 20. Bd2 Bg5 21. Bxg5 Qxg5 22.
+h4 Qe7 23. Raf1 g5 24. Rh2 Nf6 25. Nh6 gxh4 26. Nxg8 Rxg8 27. Rxh4 Nxe4 28.
+Rxe4 Rxg3+ 29. Kh2 Qg5 30. Ne2 Nxf3+ 31. Rxf3 Rg2+ 32. Kh3 h5 33. Qxd6 Bxe4 34.
+Qf8+ Kh7 35. Qxf7+ Kh6 36. Qe6+ Kh7 37. Qf7+ Kh6 38. Qe6+ Kh7 39. Qd7+ Qg7 40.
+Qxg7+ Rxg7 41. Rf2 Rg5 42. Ng3 Bb1 43. Rf1 Bc2 44. Kh4 Rg4+ 45. Kh3 Rg5 46. Rf2
+Bb1 47. Rf3 Kg7 48. Kh4 Kh6 49. f6 Rg4+ 50. Kh3 Rf4 51. Rxf4 exf4 52. Nxh5 Kg6
+53. Nxf4+ Kxf6 54. Nd5+ Ke5 55. Nc3 Bc2 56. Kg3 Kd4 57. Nb5+ Kd3 58. Kf3 Bb1
+59. Kf2 Bxa2 60. Nd6 Bxb3 61. Nb7 Bxc4 62. Nxc5+ Kc3 63. Ke3 Bb3 64. Ke4 Ba2
+65. Kf4 Bf7 66. Kf5 Kb4 67. Ke4 Bd5+ 68. Ke3 Bh1 69. Ne6 Kb3 70. Kd4 a4 71.
+Nc5+ Ka2 72. Ke3 Kb2 73. Kd3 Kc1 74. Kc3 Be4 75. Kc4 Bg6 76. Nb3+ Kc2 77. Nd4+
+Kb1 78. Ne2 Bc2 79. Nd4 Kb2 80. Ne2 Bb3+ 81. Kb4 Bf7 82. Nf4 Be8 83. Nd3+ Kb1
+84. Nf2 Bg6 85. Nh1 Ka1 86. Ng3 Bh5 87. Kc3 Bg6 88. Ne2 a3 89. Kd2 Bh5 90. Nc1
+Bg4 91. Nd3 Bc8 92. Nf4 Ba6 93. Kc1 a2 94. Nh3 Bc8 95. Ng5 Bg4 96. Nf7 Be6 97.
+Ng5 Bd5 98. Nh3 Bf3 99. Nf2 Be2 100. Nh3 Bd3 101. Nf4 Bg6 102. Ne2 Be8 103. Kc2
+Bg6+ 104. Kb3 Bc2+ 105. Kxc2 1/2-1/2
+

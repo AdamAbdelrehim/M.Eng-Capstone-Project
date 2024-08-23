@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "bata_njaa"]
+[Black "santiago2018"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/5vvwy68U"]
+[WhiteElo "2649"]
+[BlackElo "2585"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Vienna Variation, Quiet Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:30:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 dxc4 4. Nc3 e6 5. e3 c5 6. Bxc4 cxd4 7. Nxd4 a6 8.
+Bb3 Bd6 9. O-O O-O 10. e4 Qe7 11. Be3 Nbd7 12. f4 e5 13. Nf5 1-0
+

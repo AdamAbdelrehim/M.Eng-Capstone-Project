@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.04.02"]
+[Round "-"]
+[White "NaujLesPaul"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r2qkbnr/ppp2ppp/8/3Ppb2/2B5/2PP1P2/PP1K2PP/nNB3NR w kq -"]
+[Timezone "UTC"]
+[ECO "C23"]
+[ECOUrl "https://www.chess.com/openings/Bishops-Opening-2...Nc6"]
+[UTCDate "2021.04.02"]
+[UTCTime "04:59:38"]
+[WhiteElo "891"]
+[BlackElo "910"]
+[TimeControl "60"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "04:59:38"]
+[EndDate "2021.04.02"]
+[EndTime "05:00:14"]
+[Link "https://www.chess.com/game/live/11078605377"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Bc4 { [%clk 0:00:59] }
+2... Nc6 { [%clk 0:00:59.9] } 3. Qg4 { [%clk 0:00:58.2] } 3... d5
+{ [%clk 0:00:57.3] } 4. exd5 { [%clk 0:00:56.7] } 4... Bxg4
+{ [%clk 0:00:55.8] } 5. f3 { [%clk 0:00:54.7] } 5... Bf5 { [%clk 0:00:50.6] }
+6. d3 { [%clk 0:00:50.6] } 6... Nd4 { [%clk 0:00:47.1] } 7. c3
+{ [%clk 0:00:49.4] } 7... Nc2+ { [%clk 0:00:46.1] } 8. Kd2 { [%clk 0:00:49.3] }
+8... Nxa1 { [%clk 0:00:45.9] } 0-1
+

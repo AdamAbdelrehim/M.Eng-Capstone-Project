@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Ibon17"]
+[Black "FIDE-Trainer1984"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ngAZyV1f"]
+[WhiteElo "2488"]
+[BlackElo "2523"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:24:51"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. Nbd2 Nf6 5. g3 Be7 6. Bg2 O-O 7. O-O b6 8. Qc2
+Bb7 9. e4 Na6 10. e5 Nd7 11. b3 c5 12. Bb2 Rc8 13. Qd3 Nb4 14. Qe2 dxc4 15.
+Nxc4 Nc2 16. Rad1 Nxd4 17. Nxd4 Bxg2 18. Kxg2 cxd4 19. Rxd4 Qc7 20. Rfd1 Nc5
+21. Nd6 Bxd6 22. exd6 Qb7+ 23. Kg1 Nd7 24. Rg4 e5 25. f4 f6 26. fxe5 fxe5 27.
+Bxe5 Rc2 28. Rxg7+ Kh8 29. Qxc2 1-0
+

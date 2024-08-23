@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ChessatronBot"]
+[Black "Lynx_BOT"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/JcUcfQBW"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2472"]
+[BlackElo "2502"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Closed, Anti-Sveshnikov Variation, with Nf6"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:59:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 e5 4. Bc4 Be7 5. d3 Nf6 6. Nd5 Nxd5 7. exd5 Nd4 8.
+Nxe5 d6 9. Nf3 Bg4 10. c3 Nxf3+ 11. gxf3 Bh3 12. Qa4+ Kf8 13. Rg1 Bh4 14. Be3
+a6 15. Qc2 b5 16. Bb3 Qf6 17. Qe2 Re8 18. O-O-O Qf5 19. c4 Bf6 20. f4 Kg8 21.
+Qd2 Rb8 22. d4 bxc4 23. Bxc4 Bg4 24. Qd3 Qh5 25. Rd2 Bf5 26. Qf1 cxd4 27. Bxd4
+Bxd4 28. Rxd4 g6 29. Bxa6 Qh4 30. Bc4 Kg7 31. Qe1 Qxh2 32. Rh1 Qg2 33. Rg1 Qh3
+34. Qe3 Qh4 35. a4 Rhe8 36. Qd2 Qf6 37. Rd1 h5 38. f3 h4 39. a5 h3 40. a6 Rec8
+41. Qc3 Ra8 42. b3 Rxa6 43. Kb2 Ra7 44. Rc1 Rca8 45. b4 Ra3 46. Bb3 Ra1 47.
+Rdd1 Qxc3+ 48. Kxc3 Rc8+ 49. Bc4 Ra3+ 50. Kb2 Rxf3 51. Rd2 Rxf4 52. Kb3 Rh4 53.
+Rh2 Bd3 54. Bxd3 Rxc1 55. Ka2 Rg1 56. Be4 Rxe4 57. Rxh3 Rxb4 58. Rd3 g5 59. Ka3
+Rb6 60. Ka2 g4 61. Rd4 g3 62. Rg4+ Kf8 63. Rg5 g2 64. Rg3 Ke7 65. Re3+ Kf6 66.
+Rf3+ Ke5 67. Rg3 Kxd5 68. Rg4 Ke6 69. Rg5 Rb8 70. Rg3 Rb5 71. Re3+ Kf6 72. Rf3+
+Rf5 73. Rg3 Rg5 74. Rf3+ Kg7 75. Rd3 Rc1 76. Rxd6 g1=Q 77. Re6 fxe6 78. Ka3 Qb6
+79. Ka4 Ra5# 0-1
+

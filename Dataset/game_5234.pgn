@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "boblibob"]
+[Black "MWeedkiller"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/QdygcaQE"]
+[WhiteElo "2439"]
+[BlackElo "2584"]
+[ECO "C46"]
+[Opening "Three Knights Opening: Steinitz-Rosenthal Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:45:00"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 g6 4. d4 exd4 5. Nd5 h6 6. Nxd4 Bg7 7. Nb5 Be5 8. f4
+a6 9. fxe5 axb5 10. Bxb5 Qh4+ 11. Kf1 Kd8 12. Bf4 g5 13. Bg3 Qxe4 14. e6 fxe6
+15. Nxc7 Nge7 16. h4 Rf8+ 17. Kg1 Ra5 18. Qd2 Qd4+ 19. Qxd4 Nxd4 20. Bd3 gxh4
+21. Bxh4 Kxc7 22. Bxe7 Rg8 23. Rxh6 Re5 24. Bf6 Rd5 25. Be4 Ne2+ 26. Kf2 Rd2
+27. Ke3 Ng3 28. Be5+ d6 29. Bxg3 1-0
+

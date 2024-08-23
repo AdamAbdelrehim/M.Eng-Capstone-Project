@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "SerHio1963"]
+[Black "Vahe_S"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ZRmgFM9l"]
+[WhiteElo "2547"]
+[BlackElo "2721"]
+[ECO "A50"]
+[Opening "Slav Indian"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:59:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. cxd5 cxd5 5. Nf3 Nc6 6. e3 Bf5 7. Ne5 e6 8. g4
+Bg6 9. h4 Nxe5 10. dxe5 Ne4 11. h5 Nxc3 12. bxc3 Be4 13. Bb5+ Ke7 14. Ba3+ 1-0
+

@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sevanb"]
+[Black "positionaloldman"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/yWpzLZGu"]
+[WhiteElo "2585"]
+[BlackElo "2545"]
+[ECO "B51"]
+[Opening "Sicilian Defense: Moscow Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:08:31"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. Ba4 Nf6 5. O-O e6 6. c4 Be7 7. Nc3 O-O 8. d4
+cxd4 9. Nxd4 a6 10. Qe2 Qc7 11. Bd2 b6 12. Rae1 Bb7 13. Kh1 Rac8 14. Bb3 Rfe8
+15. f4 e5 16. Nf5 Bf8 17. Qf3 exf4 18. Bxf4 Ne5 19. Qg3 Nh5 20. Qg5 Nxf4 21.
+Rxf4 Ng6 22. Rf3 Re5 23. Ref1 Rce8 24. c5 dxc5 25. Nd5 Qd8 26. Nh6+ gxh6 27.
+Qxd8 Rxd8 28. Rxf7 Bxd5 29. Bxd5 Rexd5 30. exd5 Rxd5 31. Rb7 b5 32. g3 c4 33.
+Rff7 Rd1+ 34. Kg2 Rd2+ 35. Kh3 Rxb2 36. Rxh7 Ne7 37. Rhxe7 Bxe7 38. Rxe7 Rxa2
+39. g4 c3 40. Rc7 c2 41. Kh4 b4 42. Kh5 b3 43. Kg6 Kf8 44. Kf6 Ke8 45. h4 b2
+46. Ke6 Kd8 47. Rxc2 b1=Q 0-1
+

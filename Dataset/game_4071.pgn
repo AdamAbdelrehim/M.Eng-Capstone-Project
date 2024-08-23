@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Grandstodge"]
+[Black "LTop"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/1jyL2D6U"]
+[WhiteElo "2520"]
+[BlackElo "2353"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Center Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:15:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. b4 Bb6 7. e5 d5 8. exf6
+dxc4 9. Qe2+ Be6 10. b5 Na5 11. fxg7 Rg8 12. cxd4 Qf6 13. Bb2 Qxg7 14. g3 O-O-O
+15. d5 Qg4 16. dxe6 Rge8 17. e7 Rxe7 18. Ne5 Qxe2+ 19. Kxe2 f6 20. Nd2 fxe5 21.
+Ne4 Bd4 22. Ba3 Re6 23. Rac1 c3 24. Nc5 Ree8 25. Bb4 Nc4 26. Ne4 Rf8 27. Rhf1
+Nd6 28. Bxd6 cxd6 29. Nxc3 Kb8 30. Nd5 Bc5 31. a4 e4 32. Rc4 Rf3 33. Rxe4 Ra3
+34. f4 Ra2+ 35. Kf3 Rxh2 36. Re7 h5 37. f5 Rf8 38. Kf4 h4 39. g4 h3 40. f6 Rg2
+41. Rfe1 a5 42. Re8+ Rxe8 43. Rxe8+ Ka7 44. g5 h2 45. Rh8 Rf2+ 46. Kg4 Bb6 47.
+f7 Bd8 48. g6 Rg2+ 49. Kf5 Bb6 50. Nxb6 Kxb6 51. Rxh2 Rf2+ 52. Rxf2 d5 53. g7
+d4 54. f8=Q d3 55. Qd6+ Ka7 56. g8=Q b6 57. Qf7+ Ka8 58. Qdf8# 1-0
+

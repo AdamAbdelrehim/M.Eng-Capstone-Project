@@ -1,0 +1,32 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "PetersBot"]
+[Black "Hoon_Bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/AwBZzrWv"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2979"]
+[BlackElo "2896"]
+[ECO "B48"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:23:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+
+1. e4 e6 2. Nc3 c5 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Qc7 6. Be3 a6 7. Qf3 b5 8.
+Nxc6 Qxc6 9. Bd3 b4 10. Nb1 a5 11. O-O Nf6 12. Nd2 Ba6 13. Qg3 h5 14. h3 h4 15.
+Qf3 Be7 16. Rac1 Rc8 17. c4 bxc3 18. Rxc3 Qa8 19. Rxc8+ Qxc8 20. Bg5 Ng8 21.
+Bf4 Nf6 22. Bg5 Ng8 23. Bf4 Nf6 24. b3 Bxd3 25. Qxd3 O-O 26. Bg5 Nd5 27. Bxe7
+Nxe7 28. Nf3 Ng6 29. Rd1 Rd8 30. Qd2 Qc7 31. Rc1 Qf4 32. Qxf4 Nxf4 33. Rc4 d5
+34. exd5 Nxd5 35. Nxh4 Nb4 36. a3 Rd1+ 37. Kh2 Nd3 38. Rd4 Nxf2 39. Rxd1 Nxd1
+40. Nf3 Nc3 41. Nd2 a4 42. bxa4 Nxa4 43. Kg3 f6 44. Kf4 Kf7 45. Ke4 Kg6 46. g3
+e5 47. Kd5 Kf5 48. Kd6 Nb6 49. Ke7 e4 50. Nf1 g5 51. Kf7 Ke5 52. h4 gxh4 53.
+gxh4 Kf5 54. h5 Kg5 55. h6 Kxh6 56. Kxf6 e3 57. Nxe3 Na4 58. Nd1 Nc5 59. a4
+Nxa4 60. Nb2 Nxb2 1/2-1/2
+

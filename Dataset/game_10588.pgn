@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "pawn_git"]
+[Black "PurpleHunter"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/qhysqNDT"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2711"]
+[BlackElo "2615"]
+[ECO "C69"]
+[Opening "Ruy Lopez: Exchange Variation, Gligoric Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:03:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O f6 6. d4 Bg4 7. dxe5 Qxd1 8.
+Rxd1 fxe5 9. Rd3 Bd6 10. Nbd2 b5 11. h3 Be6 12. a4 Ne7 13. Nb3 c5 14. Rd1 c4
+15. Na5 Bc8 16. Bg5 c3 17. bxc3 Ng6 18. c4 h6 19. Be3 bxa4 20. Rxa4 Rf8 21. c5
+Be7 22. Nc4 Bd7 23. Rb4 Bf6 24. Na5 Be7 25. Rb7 Bd8 26. Rdb1 Bxh3 27. Rb8 Rxb8
+28. Rxb8 Be6 29. Nc6 Kd7 30. Ncxe5+ Nxe5 31. Nxe5+ Ke8 32. f4 Rg8 33. f5 Bf7
+34. Bf2 g5 35. fxg6 Bxg6 36. Bh4 Kf8 37. Rxd8+ Be8 38. c6 Rg7 39. Rc8 a5 40.
+Nd7+ Kg8 41. Rxe8+ Kf7 42. Re7+ Kg8 43. Nf6+ Kf8 44. Rxg7 Kxg7 45. Ne8+ Kg6 46.
+Nxc7 Kh5 47. Nd5 Kxh4 48. c7 Kg5 49. c8=Q h5 50. Qg8+ Kh6 51. Nf4 h4 52. Qg6#
+1-0
+

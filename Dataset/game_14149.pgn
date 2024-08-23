@@ -1,0 +1,22 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/GjtMaMjt"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "kapinovo"]
+[Black "daaleksandrov"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/5fxMYtuT"]
+[WhiteElo "2506"]
+[BlackElo "2394"]
+[ECO "A09"]
+[Opening "Réti Opening: Advance Variation"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:00:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. Nf3 d5 2. c4 d4 3. c5 g6 4. Qa4+ Nc6 5. b4 Bg7 6. Bb2 Bd7 7. b5 Nb8 8. Bxd4
+Nf6 9. e3 O-O 10. Be2 a6 11. Qb3 axb5 12. Bxb5 Nc6 13. Bb2 Na5 14. Qb4 Nd5 0-1
+

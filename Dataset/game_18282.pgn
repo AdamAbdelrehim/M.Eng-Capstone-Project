@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "sykv"]
+[Black "Karlos_ulsk"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/dltPHDIF"]
+[BlackTitle "FM"]
+[WhiteElo "2502"]
+[BlackElo "2569"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:30:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 c5 4. f3 Nf6 5. d5 d6 6. e4 e5 7. dxe6 Bxe6 8. c4
+Be7 9. Nc3 O-O 10. Bd3 Nc6 11. Nge2 a6 12. O-O Ne5 13. b3 Qd7 14. Nd5 Bxd5 15.
+exd5 Ng6 16. Bd2 b5 17. Qc2 Rfe8 18. Bf5 Qb7 19. g4 Nd7 20. Ng3 Bf6 21. Rab1
+Bd4+ 22. Kh1 Nf6 23. Bd3 Be3 24. Nf5 Bxd2 25. Nxd6 Qb8 26. Nxe8 Bf4 27. Nxf6+
+gxf6 28. Bxg6 hxg6 29. Rfe1 Kg7 30. Re7 Qd6 31. Rbe1 Rh8 32. R7e2 bxc4 33. Qxc4
+Rh3 34. Rc2 Bxh2 35. Kg2 Qg3+ 36. Kf1 Qxf3+ 37. Rf2 Qg3 38. Qxc5 Bg1 39. Re8
+Qxf2+ 40. Qxf2 Bxf2 41. Kxf2 Rd3 42. Ra8 Rxd5 43. Rxa6 f5 44. g5 f4 45. b4 Rxg5
+46. a4 Rg3 47. b5 Rb3 48. b6 g5 49. a5 g4 50. Ra7 Rb2+ 51. Ke1 f3 52. b7 f2+
+53. Kf1 g3 54. a6 Rb1+ 55. Kg2 f1=Q+ 56. Kxg3 Qg1+ 0-1
+

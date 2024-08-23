@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "MiguelPetroff"]
+[Black "workoutbobby"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/4WUaFogh"]
+[WhiteElo "2425"]
+[BlackElo "2530"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:16:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Nf3 cxd4 8.
+cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Nd7 12. O-O b6 13. Rad1 Bb7 14.
+Rfe1 Rc8 15. Bb3 h6 16. h3 Qc7 17. Re3 Nf6 18. Qe2 Rfd8 19. g4 Qf4 20. Re1 Rc7
+21. Qd3 Rdc8 22. d5 exd5 23. e5 Ne4 24. Bxd5 Nc5 25. Qc4 Qxc4 26. Bxc4 Ne6 27.
+Bxe6 fxe6 28. Nd4 Bd5 29. a3 a6 30. f4 Rc4 31. Rd1 Rc1 32. Rxc1 Rxc1+ 33. Kf2
+b5 34. f5 Kf7 35. Rd3 Ke7 36. Nxe6 Bxe6 37. fxe6 a5 38. Rd7+ Kxe6 39. Rxg7 Rc2+
+40. Kg1 Kxe5 41. Rb7 Rb2 42. a4 b4 43. Rb5+ Kf4 44. Rxa5 Ra2 45. Rb5 Rxa4 46.
+Kf2 Ra2+ 47. Ke1 Rb2 48. Rb6 b3 49. Rxh6 Rh2 50. Rb6 b2 51. Kd1 Ke3 52. g5 Kd3
+53. Rd6+ Kc3 54. Rc6+ Kd3 55. Rd6+ Kc4 56. Rb6 Kc3 57. Rc6+ Kb3 58. Rb6+ Ka2
+59. Ra6+ Kb1 60. g6 Rxh3 61. g7 Rg3 62. Ra7 Rd3+ 63. Ke2 Rd8 64. Rd7 Ra8 65.
+Kd2 Ka1 66. Ra7+ Rxa7 67. g8=Q b1=Q 0-1
+

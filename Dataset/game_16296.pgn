@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "rabmar"]
+[Black "CRBorn"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/wYNehblX"]
+[WhiteElo "2428"]
+[BlackElo "2555"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:52:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nd7 5. Neg5 e6 6. Bc4 Nb6 7. Ne5 Qxg5
+0-1
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "PinePiper"]
+[Black "NorthWind05"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Ue1U3evC"]
+[WhiteTitle "GM"]
+[WhiteElo "2682"]
+[BlackElo "2574"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "06:49:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Nf3 Bd6 7. Bd3 O-O
+8. O-O Na6 9. c3 Nc7 10. Re1 Be6 11. c4 g6 12. Bh6 Re8 13. h3 b5 14. d5 cxd5
+15. cxb5 Bc5 16. Rc1 Bb6 17. a4 Qd6 18. Qd2 Bc5 19. Bf4 Qe7 20. Bxc7 Bb4 21.
+Qf4 Bxe1 22. Rxe1 Rac8 23. Bd6 Qd7 24. b4 Kg7 25. Bc5 1-0
+

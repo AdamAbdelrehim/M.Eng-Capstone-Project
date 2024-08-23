@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "thickgreenphlegm"]
+[Black "Andres_de_Fonollasa"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/1jzkYPaS"]
+[WhiteTitle "FM"]
+[WhiteElo "2473"]
+[BlackElo "2536"]
+[ECO "E00"]
+[Opening "Catalan Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:39:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 a5 5. Bg2 O-O 6. e4 d6 7. Ne2 e5 8. O-O
+Bxd2 9. Qxd2 b6 10. Nbc3 Ba6 11. b3 Nc6 12. f4 exd4 13. Nxd4 Nxd4 14. Qxd4 Bb7
+15. Rad1 Nd7 16. e5 Bxg2 17. Kxg2 Nc5 18. exd6 Ne6 19. Qe5 cxd6 20. Rxd6 Qb8
+21. f5 Nc5 22. f6 g6 23. Qf4 Kh8 24. Qh6 Rg8 25. Rfd1 Qb7+ 26. Kg1 Rae8 27.
+R6d4 g5 28. Nd5 Qc8 29. Ne7 Qe6 30. Nxg8 Qe3+ 31. Kg2 Qe2+ 32. Kh3 Qe6+ 33. Rg4
+Rxg8 34. Rd8 1-0
+

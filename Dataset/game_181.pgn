@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Hoon_Bot"]
+[Black "BitByByte"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/N0U9armR"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2879"]
+[BlackElo "2801"]
+[ECO "A00"]
+[Opening "Amar Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "01:12:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+1"]
+
+1. Nh3 d5 2. d4 Nf6 3. Nf4 c5 4. c3 Nc6 5. e3 e5 6. dxe5 Nxe5 7. Bb5+ Bd7 8. a4
+a6 9. Be2 Bc6 10. Nh5 Nxh5 11. Bxh5 Bd6 12. O-O O-O 13. f4 Nc4 14. Bf3 Qe7 15.
+Bxd5 Nxe3 16. Bxe3 Qxe3+ 17. Kh1 Bxf4 18. Bxc6 bxc6 19. Na3 Bc7 20. Qf3 Qxf3
+21. Rxf3 f5 22. b4 cxb4 23. cxb4 Bd6 24. Nc2 Rab8 25. Rb1 g6 26. g3 Rfc8 27.
+Rfb3 Rb6 28. a5 Rb7 29. Nd4 Be7 30. h4 Kf7 31. Kg2 Rcc7 32. Nf3 Rb5 33. Nd4 Rb8
+34. Kh3 Bf6 35. Nf3 h6 36. Rc1 g5 37. hxg5 hxg5 38. g4 f4 39. Rbb1 c5 40. Rc4
+Rb5 41. Rbc1 Ke6 42. R4c2 Rc6 43. bxc5 Rxa5 44. Kg2 Kf7 45. Nd2 Ra3 46. Nf3 Ra5
+47. Nd2 Ra3 48. Nf3 a5 49. Rd1 a4 50. Rd7+ Ke8 51. Ra7 Kd8 52. Rc4 Ra2+ 53. Kf1
+a3 54. Ra5 Rc7 55. c6 Ke8 56. Rcc5 Ra1+ 57. Kg2 Ra2+ 58. Kf1 Ke7 59. Ra6 Ra1+
+60. Kg2 Kd6 61. Rf5 Ra2+ 62. Kf1 Ke7 63. Rc5 Kd6 64. Rf5 Ra1+ 65. Kg2 Bb2 66.
+Nxg5 Rc1 67. Ne4+ Ke7 68. Kf3 R7xc6 69. Ra8 R6c2 70. Kxf4 Rf1+ 71. Kg5 Bc1+ 72.
+Kh5 Rh1+ 73. Kg6 Rc6+ 74. Nf6 Rxf6+ 75. Rxf6 Rh6+ 76. Kg7 Rxf6 77. Ra7+ Ke6 78.
+Ra6+ Ke7 79. Ra7+ Ke6 80. Ra6+ Ke7 81. Ra7+ 1/2-1/2
+

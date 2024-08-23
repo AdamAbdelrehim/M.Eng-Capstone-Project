@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.12.26"]
+[Round "-"]
+[White "wilmarfabianp"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rk1R1b1r/pp2pppp/5n2/1N2n3/2B5/4B3/PP3PPP/2K5 b - -"]
+[Timezone "UTC"]
+[ECO "B53"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Tartakower-Variation"]
+[UTCDate "2022.12.26"]
+[UTCTime "05:55:54"]
+[WhiteElo "1866"]
+[BlackElo "1806"]
+[TimeControl "600"]
+[Termination "wilmarfabianp won by checkmate"]
+[StartTime "05:55:54"]
+[EndDate "2022.12.26"]
+[EndTime "05:57:53"]
+[Link "https://www.chess.com/game/live/65773291779"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:09:59.2] } 2. Nf3
+{ [%clk 0:09:59.9] } 2... d6 { [%clk 0:09:58.7] } 3. d4 { [%clk 0:09:59] } 3...
+cxd4 { [%clk 0:09:58.6] } 4. c3 { [%clk 0:09:58.1] } 4... dxc3
+{ [%clk 0:09:57] } 5. Nxc3 { [%clk 0:09:58] } 5... Nc6 { [%clk 0:09:55] } 6.
+Bc4 { [%clk 0:09:57.1] } 6... Nf6 { [%clk 0:09:54] } 7. e5 { [%clk 0:09:53.6] }
+7... dxe5 { [%clk 0:09:52.8] } 8. Qxd8+ { [%clk 0:09:27.2] } 8... Kxd8
+{ [%clk 0:09:50.8] } 9. Be3 { [%clk 0:09:08.6] } 9... Bg4 { [%clk 0:09:47] }
+10. O-O-O+ { [%clk 0:09:04.8] } 10... Kc7 { [%clk 0:09:44.8] } 11. Nb5+
+{ [%clk 0:08:59.3] } 11... Kb8 { [%clk 0:09:37.9] } 12. Nxe5
+{ [%clk 0:08:48.7] } 12... Bxd1 { [%clk 0:09:26.3] } 13. Rxd1
+{ [%clk 0:08:47.5] } 13... Nxe5 { [%clk 0:09:23.1] } 14. Rd8#
+{ [%clk 0:08:45.1] } 1-0
+

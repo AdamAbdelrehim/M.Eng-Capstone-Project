@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.12"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "casus_bell"]
+[Result "0-1"]
+[CurrentPosition "r2qk2r/1p2bppp/p2p4/4p1B1/2Nnn3/8/PPP1B1PP/R2Q2KR b kq -"]
+[Timezone "UTC"]
+[ECO "B33"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Open-Pelikan-and-Sveshnikov-Variations-6.Ndb5-d6-7.Bg5-a6-8.Na3"]
+[UTCDate "2022.10.12"]
+[UTCTime "16:17:15"]
+[WhiteElo "1804"]
+[BlackElo "1852"]
+[TimeControl "600"]
+[Termination "casus_bell won by resignation"]
+[StartTime "16:17:15"]
+[EndDate "2022.10.12"]
+[EndTime "16:22:09"]
+[Link "https://www.chess.com/game/live/59330428239"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:09:59.8] } 2. Nf3
+{ [%clk 0:09:58.2] } 2... Nc6 { [%clk 0:09:58.5] } 3. d4 { [%clk 0:09:57.7] }
+3... cxd4 { [%clk 0:09:56.1] } 4. Nxd4 { [%clk 0:09:56.6] } 4... Nf6
+{ [%clk 0:09:54.7] } 5. Nc3 { [%clk 0:09:53.7] } 5... e5 { [%clk 0:09:53.2] }
+6. Ndb5 { [%clk 0:09:49.6] } 6... d6 { [%clk 0:09:41.5] } 7. Bg5
+{ [%clk 0:09:40.1] } 7... a6 { [%clk 0:09:30.1] } 8. Na3 { [%clk 0:09:23.1] }
+8... Be7 { [%clk 0:09:26.8] } 9. Nc4 { [%clk 0:09:17.8] } 9... Nd4
+{ [%clk 0:08:41.6] } 10. Ne2 { [%clk 0:08:37.5] } 10... Bg4
+{ [%clk 0:07:33.1] } 11. f3 { [%clk 0:08:28.6] } 11... Bxf3
+{ [%clk 0:07:22.8] } 12. Kf2 { [%clk 0:08:14.9] } 12... Bxe2
+{ [%clk 0:07:11.6] } 13. Bxe2 { [%clk 0:08:10.1] } 13... Nxe4+
+{ [%clk 0:07:09.4] } 14. Kg1 { [%clk 0:08:06.7] } 0-1
+

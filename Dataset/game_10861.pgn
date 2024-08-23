@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Beta99"]
+[Black "JeansusChrist"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/5zAP6002"]
+[WhiteTitle "IM"]
+[WhiteElo "2621"]
+[BlackElo "2562"]
+[ECO "A51"]
+[Opening "Indian Defense: Budapest Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:42:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 e5 3. e3 exd4 4. exd4 d5 5. Nc3 Be7 6. Nf3 O-O 7. h3 Re8 8. Bd3
+Bb4+ 9. Be3 dxc4 10. Bxc4 Nd5 11. O-O Be6 12. Qb3 Nxc3 13. bxc3 Bxc4 14. Qxc4
+Bd6 15. Qb3 b6 16. Bg5 Qd7 17. c4 Nc6 18. Rad1 h6 19. Be3 Na5 20. Qc2 Rad8 21.
+d5 Bf8 22. Bd4 c5 23. Bb2 Bd6 24. Rfe1 f6 25. Nh4 Qf7 26. Nf5 Nb7 27. Re4 Rxe4
+28. Qxe4 Re8 29. Qg4 Kh7 30. Bc1 h5 31. Qf3 g6 32. Ne3 Be5 33. g4 Bd4 34. gxh5
+gxh5 35. Nf5 Qg6+ 36. Kf1 Rg8 37. Be3 Bxe3 38. Nxe3 Nd6 39. Qf4 Ne4 40. d6 Qg1+
+41. Ke2 Nc3+ 42. Kf3 Nxd1 43. Qf5+ Qg6 44. Qxg6+ Kxg6 45. Nxd1 Rd8 46. Nc3 Rxd6
+47. Nb5 0-1
+

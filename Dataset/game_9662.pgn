@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ShadowMessmer"]
+[Black "Nikita_Sannikov"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/vMXc1G8K"]
+[WhiteElo "2588"]
+[BlackElo "2442"]
+[ECO "A56"]
+[Opening "Benoni Defense: Hromádka System"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:37:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Nf3 O-O 7. Bd3 e6 8. O-O
+exd5 9. exd5 Re8 10. Bg5 h6 11. Bh4 Nbd7 12. Bg3 Ne5 13. Nxe5 dxe5 14. Re1 Nh5
+15. Bc2 Nxg3 16. hxg3 f5 17. Ba4 Bd7 18. d6 e4 19. Qd5+ Kh7 20. Rad1 Bxc3 21.
+Qf7+ Bg7 22. Bxd7 Rf8 23. Qe7 Kh8 24. Ba4 Bf6 25. Qe6 Kg7 26. d7 Bd4 27. b4 Rf6
+28. Qd5 b6 29. Rxd4 cxd4 30. Qxd4 Qe7 31. c5 Rd8 32. Rd1 bxc5 33. bxc5 Qe6 34.
+c6 e3 35. fxe3 Kh7 36. c7 Rff8 37. c8=Q Rxc8 38. dxc8=Q Rxc8 39. Bd7 1-0
+

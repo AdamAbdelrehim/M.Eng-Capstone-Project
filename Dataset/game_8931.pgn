@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "BorisPlotnikov"]
+[Black "BonessaSagittova"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/G6qNaFGA"]
+[WhiteElo "2605"]
+[BlackElo "2522"]
+[ECO "E68"]
+[Opening "King's Indian Defense: Fianchetto Variation, Classical Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "06:07:54"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nbd7 7. O-O e5 8. e4
+exd4 9. Nxd4 Re8 10. Re1 Nc5 11. Qc2 Ng4 12. Nde2 Ne5 13. Be3 Nxc4 14. Bxc5
+dxc5 15. Na4 Nd6 16. Rad1 Qg5 17. f4 Qh5 18. e5 Bg4 19. Nxc5 Nf5 20. Rd3 Rad8
+21. Nxb7 Rxd3 22. Qxd3 f6 23. Qd7 Rf8 24. Nd4 Kh8 25. e6 Nxd4 26. Qxd4 f5 27.
+Qb4 1-0
+

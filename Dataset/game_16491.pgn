@@ -1,0 +1,38 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "PurpleHunter"]
+[Black "odonata-bot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/hOZvFX26"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2596"]
+[BlackElo "2634"]
+[ECO "B25"]
+[Opening "Sicilian Defense: Closed"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "02:03:53"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 d6 6. Nge2 Rb8 7. Bg5 b5 8. Qd2
+b4 9. Nd1 Nf6 10. Bh6 O-O 11. Bxg7 Kxg7 12. O-O a5 13. f4 e5 14. Ne3 Ng4 15.
+Nd5 exf4 16. gxf4 Ne7 17. Nxe7 Qxe7 18. h3 Nf6 19. Ng3 a4 20. Rae1 Kh8 21. b3
+axb3 22. axb3 Bb7 23. Rf2 Kg8 24. Kh2 Rfe8 25. Ref1 Rf8 26. Rg1 Kh8 27. Re1 Nd7
+28. d4 Rfe8 29. Rd1 Nf6 30. e5 dxe5 31. dxe5 Rbd8 32. Qxd8 Rxd8 33. exf6 Qxf6
+34. Rxd8+ Qxd8 35. Bxb7 c4 36. Bg2 Qd4 37. Nh1 c3 38. f5 Qd6+ 39. Kg1 gxf5 40.
+Bf3 Qf4 41. Kg2 Qg5+ 42. Kh2 Qe3 43. Kg2 Qg5+ 44. Kh2 Qf4+ 45. Ng3 h5 46. Kg2
+h4 47. Ne2 Qg5+ 48. Kf1 Qd2 49. Ng1 Qc1+ 50. Kg2 Kg7 51. Ba8 Qg5+ 52. Kh1 Qc1
+53. Bb7 Kf8 54. Ba6 Qe3 55. Rf3 Qc5 56. Bd3 Qc6 57. Kg2 Qg6+ 58. Kf1 Qd6 59.
+Ne2 Qd5 60. Rxf5 Qh1+ 61. Ng1 Qh2 62. Rf2 Qg3 63. Bc4 Qg5 64. Rxf7+ Ke8 65. Rf2
+Kd8 66. Be6 Qc1+ 67. Kg2 Kc7 68. Bc4 Qg5+ 69. Kh1 Qg6 70. Bd3 Qc6+ 71. Nf3 Qf6
+72. Kg1 Qf4 73. Kf1 Kd6 74. Ng1 Qc1+ 75. Kg2 Qg5+ 76. Kh1 Qd5+ 77. Rg2 Ke7 78.
+Bc4 Qa8 79. Be2 Qe4 80. Bf3 Qf5 81. Re2+ Kd6 82. Ba8 Kc5 83. Be4 Qf4 84. Bd3
+Qg3 85. Rg2 Qf4 86. Rg6 Qf2 87. Rg4 Kd6 88. Rxb4 Qg3 89. Rg4 Qf2 90. Rc4 Ke7
+91. Rxc3 Kd8 92. Rc6 Qe1 93. Rg6 Qf2 94. Rg2 Qe1 95. Rg8+ Ke7 96. Kg2 Qd2+ 97.
+Kf3 Qh2 0-1
+

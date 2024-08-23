@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Llamahealthy"]
+[Black "on_my_zadachi_tasks"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/SRiOb67e"]
+[WhiteElo "2622"]
+[BlackElo "2679"]
+[ECO "D74"]
+[Opening "Neo-Grünfeld Defense: Delayed Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:35:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. c4 d5 6. cxd5 Nxd5 7. d4 c5 8. e4
+Nf6 9. e5 Nd5 10. Nc3 Nxc3 11. bxc3 Be6 12. Rb1 Bd5 13. Qe2 cxd4 14. cxd4 Nc6
+15. Be3 b6 16. Rfc1 Rc8 17. Rd1 Qd7 18. Ng5 Bxg2 19. Kxg2 Qd5+ 20. Nf3 Na5 21.
+Rb5 Qe4 22. d5 Rc2 23. Qd3 Qxd3 24. Rxd3 Rxa2 25. d6 exd6 26. exd6 Rd8 27. d7
+Bf6 28. Ne5 Rc2 29. Bd2 Rc7 30. Bb4 Bxe5 31. Rxe5 Rcxd7 32. Re8+ Rxe8 33. Rxd7
+Nc6 34. Bc3 Rc8 35. Bf6 Kf8 36. Rb7 Ke8 37. Kf3 a5 38. Rxb6 Kd7 39. Rb7+ Ke6
+40. Bc3 a4 41. Rb6 Kd5 42. Ra6 Kc4 43. Bg7 Kb3 44. Rb6+ Nb4 45. Bf6 a3 46. Be7
+Rc4 47. Bf6 a2 48. Rb8 Rc1 49. Ra8 Nc2 50. Rb8+ Kc4 51. Ra8 a1=Q 52. Bxa1 Rxa1
+53. Rc8+ Kd3 54. Rf8 Nd4+ 55. Kg4 f5+ 56. Kg5 Ne6+ 57. Kh6 Nxf8 58. Kg7 Ne6+
+59. Kh6 Ke4 60. f4 0-1
+

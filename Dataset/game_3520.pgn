@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "solovaleaganar"]
+[Black "Strategistas"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/9z4EwZ7L"]
+[WhiteElo "2511"]
+[BlackElo "2369"]
+[ECO "C11"]
+[Opening "French Defense: Classical Variation, Steinitz Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:59:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Ne4 5. Nce2 f6 6. exf6 Nxf6 7. Nf3 c5 8. Ng3
+Nc6 9. Bb5 Bd7 10. O-O cxd4 11. Nxd4 Nxd4 12. Bxd7+ Qxd7 13. Qxd4 Bd6 14. Bf4
+O-O 15. Bxd6 Qxd6 16. Rae1 b6 17. c4 Rad8 18. Re2 Rfe8 19. Rfe1 Kf7 20. h3 Qc5
+21. Qxc5 bxc5 22. cxd5 exd5 23. Rxe8 Rxe8 24. Rxe8 Kxe8 25. Kf1 Kd7 26. Ke2 Ke6
+27. b3 a5 28. Kd2 Ke5 29. Ne2 Ne4+ 30. Ke3 d4+ 31. Kd3 Nxf2+ 32. Kc4 d3 33. Nc3
+d2 34. Kxc5 d1=Q 35. Nxd1 Nxd1 36. Kb5 Nc3+ 37. Kxa5 Nxa2 38. Kb5 Kf4 39. Ka4
+Kg3 40. Ka3 Nc3 41. Kb4 Nd5+ 42. Kc5 Nc7 43. Kc6 Na6 44. Kb6 Nb4 45. Kb5 Na2
+46. Ka4 Kxg2 47. Ka3 Nc3 48. Kb4 Nd5+ 49. Kc5 Nc7 50. Kb6 Ne6 51. b4 Kxh3 52.
+Kc6 Nd4+ 53. Kc5 Ne6+ 54. Kd6 Nd8 55. b5 g5 56. Kc7 Ne6+ 57. Kd6 Nd8 58. Kc7
+Nb7 59. Kxb7 g4 60. b6 g3 61. Kc7 g2 62. b7 g1=Q 63. b8=Q Qg3+ 64. Kc8 Qxb8+
+65. Kxb8 Kg3 66. Kb7 h5 67. Kb6 h4 68. Kb5 h3 69. Kb4 h2 0-1
+

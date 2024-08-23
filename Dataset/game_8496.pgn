@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "crunchy_roll"]
+[Black "Ivan_Brucal"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/C2xcao7e"]
+[WhiteElo "2516"]
+[BlackElo "2402"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "03:11:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-5"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. Qd2 b5 6. a4 b4 7. Nce2 a5 8. Nf3 Bb7
+9. Ng3 e6 10. h4 h6 11. h5 g5 12. Bd3 Nd7 13. Nh2 Ngf6 14. O-O Qe7 15. c3 bxc3
+16. bxc3 c5 17. f4 gxf4 18. Bxf4 cxd4 19. cxd4 Rg8 20. Rab1 Bc6 21. Bxh6 Bxh6
+22. Qxh6 Rxg3 23. Nf3 Qf8 24. Qf4 Qg8 25. Rf2 Ke7 26. e5 dxe5 27. dxe5 Nxh5 28.
+Qh4+ Ke8 29. Qxh5 Rd8 30. Bb5 Be4 31. Rd1 Qg7 32. Kf1 Bxf3 33. Rxf3 Rxg2 34.
+Rxd7 Rg1+ 35. Ke2 Qg2+ 36. Ke3 Re1+ 37. Kf4 Rxd7 38. Bxd7+ Ke7 39. Qg5+ Qxg5+
+40. Kxg5 Kxd7 41. Rxf7+ Kc6 42. Ra7 Kd5 43. Rxa5+ Kc6 44. Kf6 Kd7 45. Ra7+ Kd8
+46. a5 Rb1 47. Kxe6 Rb8 48. a6 Ke8 49. Re7+ Kf8 50. Rb7 Ra8 51. a7 1-0
+

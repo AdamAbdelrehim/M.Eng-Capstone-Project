@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Bebas_BKD"]
+[Black "DaniloBesedes"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/q0BZ4u36"]
+[BlackTitle "FM"]
+[WhiteElo "2509"]
+[BlackElo "2544"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:25:30"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. b3 d5 2. Bb2 Nf6 3. e3 c5 4. Nf3 a6 5. d4 Nc6 6. h3 Bf5 7. dxc5 e6 8. Nd4
+Bg6 9. Nxc6 bxc6 10. b4 Qb8 11. Qd4 Nd7 12. Bd3 e5 13. Qc3 Be7 14. Nd2 O-O 15.
+Nb3 Bf6 16. Bxg6 hxg6 17. a3 e4 18. Nd4 a5 19. Qb3 Qc7 20. O-O Rfb8 21. Qc3 Ne5
+22. Qb3 Nc4 23. Bc3 Be7 24. b5 cxb5 25. Nxb5 Qxc5 26. a4 Rd8 27. Rfd1 Qc6 28.
+Rab1 Bc5 29. Bd4 Rab8 30. Bxc5 Qxc5 31. Qc3 Rdc8 32. Rd4 Nb6 33. Qxc5 Rxc5 34.
+Na3 Rxc2 35. Nxc2 Kh7 36. Rb5 Rc8 37. Rxb6 Rxc2 38. Rxd5 f6 39. Rxa5 g5 40. Ra7
+Kg6 41. Rbb7 Kf5 42. Rxg7 Rc1+ 43. Kh2 Rc2 44. g4+ Ke6 45. Kg3 Rc1 46. Rad7
+Rg1+ 0-1
+

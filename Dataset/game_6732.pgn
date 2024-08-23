@@ -1,0 +1,27 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "stka1969"]
+[Black "Chess_Computer_101"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/zdLC8jzB"]
+[BlackTitle "NM"]
+[WhiteElo "2481"]
+[BlackElo "2503"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:14:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+11"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. c4 dxc4 6. Bxc4 Ne7 7. O-O O-O 8.
+Nc3 Bg4 9. h3 Bh5 10. g4 Bg6 11. Ne5 Nbc6 12. f4 h6 13. Be3 Bh7 14. Qf3 Ng6 15.
+Nxc6 bxc6 16. Qxc6 Bxf4 17. Bf2 Bd6 18. Nb5 Nf4 19. Qf3 Ne6 20. Nxd6 Qxd6 21.
+Rad1 Ng5 22. Qg3 Qxg3+ 23. Bxg3 Nxh3+ 24. Kh2 Ng5 25. b3 Be4 26. Bxc7 Bf3 27.
+Rde1 Bxg4 28. Re7 Rae8 29. Rxe8 Rxe8 30. Bf4 Be2 31. Rf2 Nf3+ 32. Kg3 Nxd4 33.
+Bxf7+ Kxf7 34. Be5+ Nf5+ 35. Rxf5+ Kg6 0-1
+

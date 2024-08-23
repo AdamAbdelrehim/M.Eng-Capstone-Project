@@ -1,0 +1,42 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "PurpleHunter"]
+[Black "BitByByte"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/D39Ehwlv"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2639"]
+[BlackElo "2804"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Classical Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:07:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bf5 6. Bc4 e6 7. Bd2 Bb4 8.
+a3 Bxc3 9. Bxc3 Qb6 10. d5 exd5 11. Bxd5 O-O 12. Bxf6 gxf6 13. O-O Nd7 14. Qd4
+Rad8 15. b4 Bxc2 16. Qxb6 cxb6 17. Bxb7 Ne5 18. Rac1 Bg6 19. Nh4 Rd7 20. Bc8
+Rd4 21. Nf5 Bxf5 22. Bxf5 Rfd8 23. Rc7 Rf4 24. Bb1 a5 25. bxa5 bxa5 26. Ra7 Ra4
+27. f4 Ng6 28. Ba2 Nh8 29. f5 Rxa3 30. Bc4 Rd4 31. Be2 Re3 32. Ra8+ Kg7 33. Rf2
+Rde4 34. Bf1 a4 35. h3 a3 36. Rd2 Re8 37. Ra4 R3e5 38. g4 Re3 39. Rd3 Rxd3 40.
+Bxd3 Re3 41. Bf1 h5 42. Kf2 Re5 43. Rxa3 hxg4 44. hxg4 Re4 45. Kf3 Rd4 46. Ra8
+Ng6 47. fxg6 fxg6 48. Ra7+ Kh6 49. Be2 f5 50. Kg3 Kg5 51. Kg2 fxg4 52. Bxg4
+Kxg4 53. Ra1 Rd2+ 54. Kf1 Kg3 55. Rb1 Rg2 56. Rb3+ Kh2 57. Rb6 Rg4 58. Rf6 g5
+59. Rf2+ Kh3 60. Rf6 Rg3 61. Rh6+ Kg4 62. Rh2 Rf3+ 63. Kg1 Rg3+ 64. Kf1 Rh3 65.
+Ra2 Kh4 66. Rb2 g4 67. Ra2 Rd3 68. Ra1 Kh3 69. Kg1 Rf3 70. Rb1 Rd3 71. Ra1 Kg3
+72. Rb1 Kh4 73. Ra1 Rc3 74. Rb1 Kh3 75. Ra1 Rc4 76. Rb1 Ra4 77. Rc1 Rb4 78. Ra1
+Re4 79. Rb1 Rd4 80. Ra1 Kg3 81. Rb1 Kf3 82. Ra1 Rd2 83. Rb1 Kg3 84. Ra1 Rf2 85.
+Rb1 Rg2+ 86. Kh1 Rf2 87. Ra1 Rf3 88. Rb1 Kh3 89. Ra1 Rf2 90. Rb1 Rh2+ 91. Kg1
+Rg2+ 92. Kh1 Rd2 93. Ra1 Rh2+ 94. Kg1 Rg2+ 95. Kh1 Rf2 96. Rb1 Rf3 97. Ra1 Kg3
+98. Rb1 Rd3 99. Ra1 Rc3 100. Rb1 Ra3 101. Rc1 Kf2 102. Rc2+ Kf1 103. Rc1+ Kf2
+104. Rc2+ Kg3 105. Rc1 Rd3 106. Ra1 Rc3 107. Rb1 Kh3 108. Ra1 g3 109. Rb1 Ra3
+110. Rc1 Ra2 111. Rb1 Ra6 112. Rc1 Ra2 113. Rb1 Ra4 114. Rc1 g2+ 115. Kg1 Ra3
+116. Rb1 Rc3 117. Ra1 Rb3 118. Rc1 Rf3 119. Ra1 Rf1+ 120. Rxf1 gxf1=Q+ 121.
+Kxf1 1/2-1/2
+

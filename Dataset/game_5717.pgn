@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "CarlosPujol"]
+[Black "obilv"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/cpC7Vxki"]
+[WhiteTitle "FM"]
+[WhiteElo "2531"]
+[BlackElo "2440"]
+[ECO "B75"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Early Deviations"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:43:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nbd7 8.
+Qd2 h5 9. O-O-O a6 10. Bg5 Qc7 11. f4 b5 12. e5 dxe5 13. fxe5 Nxe5 14. Bxb5+
+Kf8 15. Be2 Rb8 16. Nf3 Ned7 17. Bf4 e5 18. Nxe5 Nxe5 19. Qd8+ Qxd8 20. Rxd8+
+Ne8 21. Bxa6 Bxa6 22. Rxb8 Ke7 23. Re1 f6 24. Ra8 Bb7 25. Ra7 Nd6 26. Nb5 Rb8
+27. Nxd6 Kxd6 28. Rd1+ Ke6 29. g3 g5 30. Be3 Nc4 31. Bd4 Nd6 32. Bc5 Ne4 33.
+Ba3 f5 34. Ra5 Be5 35. Re1 f4 36. gxf4 Bxf4+ 37. Kb1 h4 38. Ka1 Bd5 39. b3 g4
+40. c4 Be5+ 41. Bb2 Bxb2+ 42. Kxb2 Bc6 43. Rc5 Kd6 44. Rxc6+ Kxc6 45. Rxe4 Rg8
+46. Re2 h3 47. b4 g3 48. hxg3 Rxg3 49. Kb1 Rg2 50. Re6+ Kd7 51. Rh6 h2 52. b5
+Rg1+ 53. Kb2 h1=Q 54. Rxh1 Rxh1 55. a4 Kc7 56. a5 Rh3 57. c5 Kb7 58. a6+ Ka7
+59. c6 Kb6 60. Kc2 Kxb5 61. a7 Rh8 0-1
+

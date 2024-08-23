@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "vistagusta"]
+[Black "bancsoo"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/6W7Ez5oK"]
+[BlackTitle "GM"]
+[WhiteElo "2803"]
+[BlackElo "2775"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Gubinsky-Melts Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:14:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 c6 6. Ne5 Nbd7 7. Bf4 Nd5 8.
+Nxd5 Qxd5 9. Bc4 Qa5+ 10. Bd2 1-0
+

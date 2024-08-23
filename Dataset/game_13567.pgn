@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "DeviousCat"]
+[Black "grispeck"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/mtK4YWpp"]
+[WhiteElo "2657"]
+[BlackElo "2645"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Milner-Barry Gambit"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:58:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Bd3 cxd4 7. O-O Bd7 8. a3
+Nge7 9. Ra2 Ng6 10. Re1 dxc3 11. Nxc3 Rc8 12. h4 Be7 13. h5 Nh4 14. Bf4 h6 15.
+Bg3 Nxf3+ 16. Qxf3 O-O 17. Bf4 f5 18. Qg3 Kh8 19. Bxh6 gxh6 20. Qg6 Bg5 0-1
+

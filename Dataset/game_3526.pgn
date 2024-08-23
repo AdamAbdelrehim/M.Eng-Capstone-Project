@@ -1,0 +1,31 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "RaspFish"]
+[Black "odonata-bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/RYrfkTGJ"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3024"]
+[BlackElo "2729"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:00:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. b3 e5 2. c4 Nc6 3. Bb2 Nf6 4. e3 d5 5. cxd5 Nxd5 6. a3 Bd6 7. d3 Be6 8. Nf3
+f6 9. b4 Qd7 10. Nbd2 O-O 11. b5 Na5 12. d4 Rad8 13. Qa4 b6 14. Qc2 exd4 15.
+Nxd4 Kh8 16. Nc4 c5 17. Nxe6 Qxe6 18. O-O-O Be5 19. Bxe5 Nxc4 20. Bxc4 Qxe5 21.
+Rd3 Ne7 22. Rhd1 Rxd3 23. Qxd3 g5 24. g3 Ng6 25. f4 Qe7 26. Kb2 Kg7 27. h4 gxh4
+28. gxh4 Nxh4 29. Qd7 Qxd7 30. Rxd7+ Kg6 31. Rxa7 Nf5 32. Bd3 Rd8 33. Kc3 h5
+34. a4 h4 35. a5 bxa5 36. Rxa5 h3 37. Ra1 h2 38. Rh1 c4 39. Kxc4 Rh8 40. Kc3
+Rb8 41. Rxh2 Rxb5 42. Bxb5 Nxe3 43. f5+ Kxf5 44. Kd4 Nd1 45. Ba4 Ke6 46. Bxd1
+f5 47. Rh6+ Ke7 48. Ra6 Kf8 49. Ra7 f4 50. Ke5 Ke8 51. Ba4+ Kd8 52. Kd6 Kc8 53.
+Bc6 f3 54. Ra8# 1-0
+

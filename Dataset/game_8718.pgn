@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "FastCavalier"]
+[Black "The-Flash"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/voiIMfNp"]
+[WhiteElo "2550"]
+[BlackElo "2466"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "04:54:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. e4 c5 2. Nf3 e6 3. c3 Nc6 4. d4 cxd4 5. cxd4 Nf6 6. e5 Nd5 7. Bc4 Nb6 8. Bb3
+d6 9. Qe2 dxe5 10. dxe5 Bb4+ 11. Bd2 Bxd2+ 12. Nbxd2 O-O 13. O-O Nd4 14. Nxd4
+Qxd4 15. Nf3 Qg4 16. h3 Qh5 17. Rac1 Bd7 18. Nd4 Qxe2 19. Nxe2 Bb5 20. Rfe1
+Bxe2 21. Rxe2 Rac8 22. Rec2 Rxc2 23. Rxc2 Rc8 24. Rxc8+ Nxc8 25. f4 Kf8 26. Kf2
+Ke7 27. Ke3 Nb6 28. Kd4 Kd7 29. a4 Nc8 30. Kc5 Ne7 31. a5 h5 32. Ba4+ Kc7 33.
+Be8 Ng6 34. g3 h4 35. gxh4 Nxf4 36. Bxf7 b6+ 37. axb6+ axb6+ 38. Kd4 Kd7 39.
+Ke3 Nd5+ 40. Kf3 Ke7 41. Bg6 Nb4 42. Bb1 Nc6 43. Kf4 Kf7 44. h5 Nb4 45. Be4 Na6
+46. Kg5 Nc5 47. Bc2 Nd7 48. Kf4 Nc5 49. Ke3 Nd7 50. Kd4 Nc5 51. Be4 Ke7 52. Bc6
+Kf7 53. Kc4 Ke7 54. h4 Kf7 55. b4 Na6 56. Kb5 Nc7+ 57. Kxb6 Nd5+ 58. Bxd5 exd5
+59. Kc5 Ke6 60. Kd4 1-0
+

@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "berval"]
+[Black "RomanovRG"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/1KNPtdkE"]
+[WhiteTitle "FM"]
+[WhiteElo "2516"]
+[BlackElo "2368"]
+[ECO "C70"]
+[Opening "Ruy Lopez: Morphy Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:16:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Qe2 axb5 0-1
+

@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "DarkKnight97"]
+[Black "capa21"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/3YtxK4rW"]
+[WhiteTitle "GM"]
+[WhiteElo "2616"]
+[BlackElo "2641"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Chigorin Variation, Alburt Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:49:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. Nc3 d5 2. d4 Bf5 3. Bf4 e6 4. a3 Nf6 5. e3 a6 6. Nf3 c5 7. dxc5 Bxc5 8. Bd3
+Bg6 9. Ne5 Nc6 10. Nxg6 hxg6 11. Be2 Bd6 12. Bxd6 Qxd6 13. h3 Rc8 14. O-O O-O
+15. Rc1 Rfd8 16. Na4 b5 17. Nc3 Ne5 18. Qd4 Nc4 19. Rb1 e5 20. Qd3 Qc5 21. Rfd1
+Nxb2 22. Rxb2 Qxc3 23. Ra2 Qxd3 24. Bxd3 Rd6 25. a4 b4 26. a5 d4 27. exd4 Rxd4
+28. Re1 b3 29. Rb2 bxc2 30. Rxc2 Rxc2 31. Bxc2 Rd5 32. Ra1 Nd7 33. Be4 Rd4 34.
+Bc6 Nc5 35. Rb1 Kf8 36. Rb8+ Ke7 37. Rb6 Rd1+ 38. Kh2 Ra1 39. Bd5 Rxa5 40. Rc6
+Nd7 41. Bc4 Rc5 42. Rxc5 Nxc5 43. Kg3 a5 44. Kf3 a4 45. Ke3 g5 46. Kd2 f5 47.
+f3 Kd6 48. Kc3 e4 49. Kd4 a3 50. Kc3 e3 51. Kc2 Ke5 52. Be2 Kf4 53. Kb1 Kg3 54.
+Ka2 Kf2 55. Bc4 e2 56. Bxe2 Kxe2 57. Kxa3 f4 58. Kb4 Nd3+ 59. Kc4 Ne1 60. Kd4
+Nxg2 61. Ke4 Nh4 62. Ke5 Kxf3 63. Ke6 Kg3 64. Kf7 f3 65. Kxg7 f2 66. Kh6 f1=Q
+67. Kh5 Qf5 68. Kh6 Qg6# 0-1
+

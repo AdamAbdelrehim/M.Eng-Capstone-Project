@@ -1,0 +1,41 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "expositor"]
+[Black "ELO_1500"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/y6FtrISe"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2585"]
+[BlackElo "2699"]
+[ECO "B53"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+[TimeControl "1200+30"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:02:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-2"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 Nc6 5. Qe3 g6 6. Bc4 Bg7 7. O-O Nf6 8. h3
+a6 9. a4 O-O 10. Rd1 Qc7 11. Nc3 b6 12. Qg5 Bb7 13. Qh4 Na5 14. Bd3 Rfe8 15.
+Rb1 Nc4 16. b3 Na3 17. Bxa3 Qxc3 18. Bc1 Qc7 19. Be3 Nd7 20. c4 Rac8 21. Rbc1
+Nc5 22. Bc2 Qd7 23. Rd2 b5 24. axb5 axb5 25. b4 Ne6 26. c5 Qc6 27. Ng5 Nxg5 28.
+Qxg5 Bb2 29. Rb1 Bf6 30. Qg3 Red8 31. cxd6 Rxd6 32. Rxd6 Qxd6 33. Qxd6 exd6 34.
+Bd3 Rc3 35. Bxb5 Bxe4 36. Rd1 Rb3 37. Rxd6 Rxb4 38. Rxf6 Rxb5 39. f3 Bd5 40.
+Rd6 Kf8 41. Bg5 Be6 42. Bf6 Rb8 43. Kh2 Ra8 44. g4 h6 45. Kg2 g5 46. Kg3 Kg8
+47. h4 h5 48. gxh5 gxh4+ 49. Kxh4 Kh7 50. Rd4 Rg8 51. Be5 Kh6 52. Bf4+ Kh7 53.
+Rd1 Bc8 54. Bh2 Be6 55. Ra1 Bd5 56. Rf1 Ra8 57. Bf4 Ra2 58. Bb8 Bc4 59. Re1 Rg2
+60. Bg3 Be6 61. Rd1 Re2 62. Bf4 Rg2 63. Be5 Re2 64. Bf6 Kh6 65. Bg5+ Kg7 66.
+Bf4 Kh7 67. Kg3 Rc2 68. h6 Rc8 69. Ra1 Re8 70. Kf2 Rg8 71. Rh1 Ra8 72. Rh5 Rg8
+73. Ke3 Rc8 74. Ra5 Kg6 75. Ra1 Kh7 76. Rg1 Rg8 77. Rxg8 Kxg8 78. Be5 f6 79.
+Bc3 f5 80. f4 Ba2 81. Bd4 Bb1 82. Bg7 Ba2 83. Kd3 Bb1+ 84. Kd2 Ba2 85. Kc3 Bb1
+86. Kd4 Ba2 87. Ke5 Bb1 88. Kf6 Ba2 89. Kg6 Bf7+ 90. Kg5 Ba2 91. Ba1 Bb3 92.
+Kg6 Bf7+ 93. Kf6 Ba2 94. Bc3 Bb3 95. Kg6 Bf7+ 96. Kg5 Ba2 97. Bb2 Bb3 98. Kh5
+Ba2 99. Kg6 Bf7+ 100. Kf6 Ba2 101. Ba1 Bb3 102. Kg5 Ba2 103. Bc3 Bb3 104. Bd2
+Ba2 105. Bc1 Bb3 106. Bb2 Ba2 107. Kh5 Bb3 108. Bc3 Ba2 109. Kg5 Bb3 110. Ba1
+Ba2 111. Bd4 Bb3 112. Bb2 Ba2 113. Kg6 Bf7+ 114. Kf6 Ba2 115. Kxf5 Bb1+ 116.
+Ke5 Ba2 117. Bc1 Bb1 118. Ba3 Ba2 1/2-1/2
+

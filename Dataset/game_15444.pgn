@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "waldur"]
+[Black "Knights4base"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/KfmoWPaE"]
+[BlackTitle "IM"]
+[WhiteElo "2422"]
+[BlackElo "2547"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Line"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:36:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. f4 d5 5. e5 Nh6 6. Nf3 O-O 7. Bd3 f6 8. Ne2 Bg4
+9. Ng3 fxe5 10. fxe5 c5 11. Be3 cxd4 12. Bxd4 Nc6 13. c3 Nxd4 14. cxd4 Qb6 15.
+Be2 Nf5 16. Nxf5 Rxf5 17. O-O e6 18. Qd2 Bxf3 19. Bxf3 Bxe5 20. Rad1 Raf8 21.
+Kh1 Bf4 22. Qe2 Qd6 23. Bg4 R5f6 24. Rfe1 Bxh2 25. Bxe6+ Kg7 26. Bh3 Bg3 27.
+Qe7+ Qxe7 28. Rxe7+ R8f7 29. Rxf7+ Kxf7 30. Bg4 Rf2 31. Bf3 Ke6 32. Re1+ Kd6
+33. Bg4 Rxb2 34. Rf1 h5 35. Bc8 b5 36. Kg1 Rxa2 37. Rb1 b4 38. Kf1 Rf2+ 39. Kg1
+Rc2 40. Ba6 b3 41. Rxb3 Rc1+ 42. Bf1 a5 43. Rxg3 Ke7 44. Rxg6 Rd1 45. Ra6 Rxd4
+46. Rxa5 Rd2 47. Ra6 h4 48. Rh6 Rd4 49. Rxh4 Rxh4 50. g3 Rg4 51. Kf2 Rb4 52.
+Be2 Kd6 53. Ke3 Ke5 54. Bd3 Rb3 55. Kd2 d4 56. Be2 Rb2+ 57. Ke1 Rb3 58. Kf2 Ke4
+59. Bd1 Rb2+ 60. Be2 d3 0-1
+

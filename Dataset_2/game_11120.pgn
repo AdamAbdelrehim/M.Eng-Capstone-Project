@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.01.01"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "fisher-ua"]
+[Result "0-1"]
+[CurrentPosition "r1bqkbnr/pp1ppppp/8/8/3nP3/8/PPPN1PPP/R1BQKB1R b KQkq -"]
+[Timezone "UTC"]
+[ECO "B33"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Open-3...cxd4-4.Nxd4"]
+[UTCDate "2024.01.01"]
+[UTCTime "09:16:03"]
+[WhiteElo "1737"]
+[BlackElo "1746"]
+[TimeControl "180"]
+[Termination "fisher-ua won by resignation"]
+[StartTime "09:16:03"]
+[EndDate "2024.01.01"]
+[EndTime "09:16:12"]
+[Link "https://www.chess.com/game/live/97839598187"]
+
+1. e4 { [%clk 0:03:00] } 1... c5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:02:59.1] }
+2... Nc6 { [%clk 0:02:59.6] } 3. d4 { [%clk 0:02:58.8] } 3... cxd4
+{ [%clk 0:02:58.5] } 4. Nxd4 { [%clk 0:02:58.7] } 4... Nxd4
+{ [%clk 0:02:57.9] } 5. Nd2 { [%clk 0:02:57.8] } 0-1
+

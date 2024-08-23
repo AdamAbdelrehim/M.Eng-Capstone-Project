@@ -1,0 +1,28 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "RaspFish"]
+[Black "caissa-x"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/h1uAERim"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3034"]
+[BlackElo "3028"]
+[ECO "E32"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:42:51"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+1"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4 7. Bd3 c5 8. Nf3
+cxd4 9. Nxd4 Nd7 10. Bf4 Ndc5 11. O-O Nxd3 12. Qxd3 Bxc3 13. bxc3 b6 14. cxd5
+Qxd5 15. Rfd1 Bb7 16. c4 Qa5 17. Nb3 Qb4 18. Be3 Rfc8 19. Rac1 h6 20. f3 Ng5
+21. Nd4 Rd8 22. Qe2 Nh7 23. h4 Nf8 24. Nb5 Rxd1+ 25. Rxd1 Ng6 26. Nd6 Bc6 27.
+Bf2 Ne7 28. Kh2 Nc8 29. Ne4 Ne7 30. Nd6 Nc8 31. Be1 Qa4 32. Rd4 Nxd6 33. exd6
+Bd7 34. Rg4 Rf8 35. c5 Qc6 36. Qe3 f6 37. Qxh6 Rf7 38. Bc3 1/2-1/2
+

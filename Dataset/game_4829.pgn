@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "MarkosianDavid"]
+[Black "jhedigm"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/funsyWVD"]
+[WhiteTitle "GM"]
+[BlackTitle "FM"]
+[WhiteElo "2567"]
+[BlackElo "2517"]
+[ECO "A46"]
+[Opening "Indian Defense: Wade-Tartakower Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:59:17"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. Nf3 d6 3. c4 Nbd7 4. Nc3 g6 5. Bg5 h6 6. Bh4 Bg7 7. e3 O-O 8. Be2
+c5 9. O-O a6 10. Qc2 g5 11. Bg3 Nh5 12. Nxg5 hxg5 13. Bxh5 1-0
+

@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "checkmate_tt"]
+[Black "tapkus"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/KCrdL4w8"]
+[WhiteElo "2553"]
+[BlackElo "2576"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Line"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:08:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 e6 4. h4 d5 5. Nf3 h5 6. Bg5 Ne7 0-1
+

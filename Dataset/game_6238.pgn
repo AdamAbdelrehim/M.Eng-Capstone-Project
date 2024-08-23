@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "alfredogto"]
+[Black "Roman_Yanchenko"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/IGbiBZUg"]
+[BlackTitle "FM"]
+[WhiteElo "2663"]
+[BlackElo "2700"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:52:03"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+6"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 Bf5 4. e3 e6 5. Bd3 Bxd3 6. Qxd3 a6 7. Nbd2 c5 8. c3
+Nc6 9. a4 Bd6 10. Bg3 O-O 11. O-O h6 12. Ne5 Bxe5 13. dxe5 Nd7 14. f4 c4 15.
+Qc2 Nc5 16. Nf3 f5 17. Rfd1 b5 18. axb5 axb5 19. Bf2 b4 20. h3 b3 21. Qe2 Ne4
+22. Rab1 Ra2 23. Be1 Qb6 24. Kh2 Rfa8 25. g4 g6 26. Bd2 Kh7 27. Rg1 Qd8 28.
+gxf5 gxf5 29. Rg2 Qe7 30. Ne1 Qf7 31. Nf3 Rg8 32. Rxg8 Kxg8 33. Rg1+ Kf8 34.
+Be1 Qh5 35. Qg2 Qf7 36. Nh4 Ne7 37. Nf3 Nc6 38. Nh4 Ra1 39. Ng6+ Ke8 40. Bh4
+Rxg1 41. Qxg1 Nd2 42. Qg2 Nf3+ 43. Qxf3 Qxg6 44. Qd1 Kd7 45. Qa1 Qh5 46. Qe1
+Qf3 47. Bf6 Na7 48. Qg1 Qe2+ 49. Kh1 Kc6 50. Qg8 Qd1+ 51. Kh2 Qd2+ 52. Kh1 Qc1+
+53. Kg2 Qxb2+ 54. Kg3 Qxc3 55. Qxe6+ Kc7 56. Qd6+ Kc8 57. Qe6+ Kb7 58. Qxd5+
+Nc6 59. Qd7+ Kb6 60. Bd8+ Nxd8 61. Qxd8+ Kb5 62. Qd5+ Ka4 63. Qa8+ Qa5 64. Qe8+
+Qb5 65. Qa8+ Kb4 66. Qf8+ Kc3 67. e6 b2 68. Qg7+ Kc2 69. e7 b1=Q 70. Kh4 Qe1+
+71. Kh5 Qxe3 72. Qg2+ Kd3 73. Qf1+ Kd4 74. Qd1+ Ke4 75. Qh1+ Kxf4 76. Qf1+ Qf3+
+77. Qxf3+ Kxf3 78. h4 Qe8+ 79. Kxh6 Qxe7 80. h5 f4 81. Kg6 Kg4 82. h6 f3 83. h7
+Qe6+ 84. Kg7 Kg5 85. Kh8 Qd7 0-1
+

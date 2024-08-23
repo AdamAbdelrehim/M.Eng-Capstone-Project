@@ -1,0 +1,36 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "pawn_git"]
+[Black "ELO_1500"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/4CGn1F2T"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2705"]
+[BlackElo "2882"]
+[ECO "B92"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+[TimeControl "60+10"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:31:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Be2
+Nbd7 9. f4 exf4 10. Bxf4 Ne5 11. Qd4 Qc7 12. Qa4+ Bd7 13. Qa5 b6 14. Qb4 b5 15.
+O-O-O Rc8 16. Nd4 a5 17. Qb3 a4 18. Qb4 d5 19. Ncxb5 Nd3+ 20. Bxd3 Qxf4+ 21.
+Qd2 Qxd2+ 22. Kxd2 Nxe4+ 23. Kc1 Be7 24. Rhe1 f5 25. Nc3 Rc5 26. Bb5 Nxc3 27.
+bxc3 Rxb5 28. Nxb5 Bxb5 29. Rxd5 Bc6 30. Rxf5 Kd8 31. g4 Re8 32. Kd2 Kc8 33.
+Re3 h6 34. Ke2 Bd7 35. Rf4 Bd6 36. Rxe8+ Bxe8 37. Rc4+ Kd8 38. Rd4 Kc7 39. h4
+a3 40. c4 Bg6 41. Kd2 Kc6 42. h5 Bh7 43. Kc1 Be7 44. Kb1 Bg8 45. Re4 Bg5 46.
+Rd4 Be6 47. Re4 Kd6 48. Rd4+ Kc5 49. Rd3 Bxg4 50. Rxa3 Bxh5 51. Ra7 g6 52. Ra6
+Kxc4 53. a4 Bf4 54. Ka2 g5 55. Rxh6 Bf3 56. a5 Kd4 57. a6 g4 58. Rh4 Ke5 59. a7
+g3 60. Rh5+ Ke6 61. Rh8 g2 62. Rg8 Kf5 63. Rxg2 Bxg2 64. Kb3 Be3 65. Kb4 Bxa7
+66. Kb5 Be4 67. Ka6 Bf2 68. Kb5 Kf6 69. c4 Ke5 70. c5 Kd5 71. c6 Bg2 72. c7 Bh3
+73. Kb4 Bb6 74. Kc3 Bf5 75. c8=R Bd4+ 76. Kb4 Bxc8 77. Kb3 Bg4 78. Kb4 Bd1 79.
+Kb5 Bc5 80. Ka6 Kc6 81. Ka5 Be7 82. Ka6 Bb4 83. Ka7 Kc7 84. Ka6 Be2+ 85. Ka7
+Bc5+ 86. Ka8 Bf3# 0-1
+

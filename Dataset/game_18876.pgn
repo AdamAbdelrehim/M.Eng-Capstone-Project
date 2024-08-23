@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "mick_chess"]
+[Black "DiaryTraining"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/EOrmxz6t"]
+[BlackTitle "IM"]
+[WhiteElo "2772"]
+[BlackElo "2834"]
+[ECO "C89"]
+[Opening "Ruy Lopez: Marshall Attack, Re3 Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:55:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d5 9. exd5 Nxd5 10. Nxe5 Nxe5 11. Rxe5 c6 12. Bxd5 cxd5 13. d4 Bd6 14. Re3 Qh4
+15. h3 Bf5 16. Nd2 Rfe8 17. Nf3 Qh5 18. g4 Qxh3 19. gxf5 Re4 20. Rxe4 dxe4 21.
+Ne5 h5 22. Qf1 Qxf5 23. Qg2 Bxe5 24. dxe5 Rd8 25. Be3 1-0
+

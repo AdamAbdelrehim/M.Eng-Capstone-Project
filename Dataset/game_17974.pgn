@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "ie1"]
+[Black "Peligro_98"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/pyeYjEDZ"]
+[WhiteElo "2673"]
+[BlackElo "2717"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:34:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qe5+ 4. Be2 Bg4 5. d4 Bxe2 6. Ngxe2 Qa5 7. O-O Nf6
+8. b4 Qxb4 9. Rb1 Qc4 10. Rxb7 e6 11. Bf4 Na6 12. Nb5 Nd5 13. Bg3 Qc6 14. Rxa7
+Rxa7 15. Nxa7 Qc4 16. Qb1 Qxe2 17. Qb7 Be7 18. Qc6+ Kd8 19. c4 Nb6 20. c5 Nb4
+21. Qxc7+ 1-0
+

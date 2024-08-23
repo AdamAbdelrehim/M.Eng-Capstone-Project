@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "jgeg"]
+[Black "ChosAlexeu"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/IvKl8bMH"]
+[WhiteTitle "FM"]
+[BlackTitle "IM"]
+[WhiteElo "2619"]
+[BlackElo "2523"]
+[ECO "A60"]
+[Opening "Benoni Defense: Modern Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:48:26"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. d4 c5 2. d5 e6 3. c4 Nf6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 a6 7. a4 g6 8. Nd2
+Bg7 9. e4 O-O 10. Be2 Re8 11. O-O Nbd7 12. Re1 Rb8 13. a5 h6 14. Nc4 Ne5 15.
+Nb6 g5 16. Be3 Ng6 17. f3 Nd7 18. Nxd7 Bxd7 19. Qc2 Be5 20. Nd1 Qf6 21. Ra3 Bb5
+22. Bxb5 axb5 23. b4 cxb4 24. Rb3 Rbc8 25. Qd3 Rc4 26. Bd2 Rec8 27. Rxb4 Nf4
+28. Qf1 Bd4+ 29. Kh1 R8c5 30. Ne3 Bxe3 31. Rxe3 Rxb4 32. Bxb4 Rc2 33. g3 Ng6
+34. Re2 Rc4 35. Be1 Qa1 36. Kg2 Rc1 37. Qf2 Ne5 38. Ra2 Qb1 39. Rb2 Qd3 40. Rd2
+Qc4 41. Qe3 g4 42. fxg4 Nxg4 43. Qe2 h5 44. Rb2 Kh7 45. Qxc4 bxc4 46. Bd2 Rd1
+47. Bf4 c3 48. Rc2 Rd3 49. h3 Ne3+ 50. Bxe3 Rxe3 51. Kf2 Rd3 52. g4 h4 53. Ke2
+Rxh3 54. e5 Rh2+ 55. Kd3 Rxc2 56. Kxc2 h3 57. exd6 h2 58. d7 h1=Q 59. d8=Q Qg2+
+60. Kxc3 Qxg4 61. Qc7 Qf3+ 62. Kb4 Qxd5 63. Qh2+ Kg8 64. Qg3+ Kf8 65. Qc3 Ke8
+66. Qc5 1-0
+

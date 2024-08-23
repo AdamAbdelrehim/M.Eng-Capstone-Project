@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Chess-maestro1982"]
+[Black "NiccoloTartaglia"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/i3C5XAz3"]
+[WhiteElo "2583"]
+[BlackElo "2652"]
+[ECO "C36"]
+[Opening "King's Gambit Accepted: Abbazia Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:00:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e5 2. f4 d5 3. exd5 exf4 4. Nf3 Nf6 5. c4 c6 6. d4 cxd5 7. c5 b6 8. b4 a5
+9. Bb5+ Bd7 10. Qa4 axb4 11. Qxa8 Bxb5 12. Bxf4 Nc6 13. Qxd8+ Kxd8 14. cxb6 Ne4
+15. b7 b3 16. axb3 Bb4+ 17. Nbd2 Re8 18. Ra8+ Kd7 19. Rxe8 Kxe8 20. b8=Q+ Nxb8
+21. Bxb8 g5 22. h3 h5 23. g4 hxg4 24. hxg4 f5 25. Rh8+ Ke7 26. Kd1 fxg4 27.
+Nxe4 gxf3 28. Nf2 Ke6 29. Bg3 Bc3 30. Rg8 Kf5 31. Rf8+ Ke6 32. Be5 Be2+ 33. Kc2
+Be1 34. Nd3 Bh4 35. b4 g4 36. Kd2 g3 37. Nf4+ Ke7 38. Rg8 Bc4 39. b5 f2 40.
+Ng6+ Kf7 41. Rg7+ Ke6 42. Nf8+ Kf5 43. Rf7+ Kg4 44. b6 g2 45. b7 f1=Q 46. Rxf1
+gxf1=Q 47. b8=Q Bg5+ 48. Kc3 Qe1+ 49. Kb2 Qc1# 0-1
+

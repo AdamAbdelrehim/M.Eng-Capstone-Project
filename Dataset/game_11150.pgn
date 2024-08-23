@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ChessatronBot"]
+[Black "AKS-Mantissa"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/nrdeDkBZ"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2446"]
+[BlackElo "2723"]
+[ECO "C07"]
+[Opening "French Defense: Tarrasch Variation, Chistyakov Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:22:39"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 Qxd5 5. Ngf3 cxd4 6. Bc4 Qd7 7. O-O Nc6 8.
+Nb3 Nf6 9. Nbxd4 Nxd4 10. Qxd4 Qxd4 11. Nxd4 Bd7 12. Bf4 Rc8 13. Bb3 Bc5 14.
+Rad1 O-O 15. a4 Nd5 16. Be5 Rfd8 17. Rd3 Nb4 18. Rg3 g6 19. Bf6 Re8 20. Nb5 Nd5
+21. Be5 f6 22. Bxd5 exd5 23. Bxf6 Re6 24. Bc3 a6 25. Nd4 Re4 26. Rd3 Bxd4 27.
+Rxd4 Rxd4 28. Bxd4 Rxc2 29. a5 Rd2 30. Bc3 Rd3 31. Be5 d4 32. h4 Kf7 33. g3 Ke6
+34. Re1 Kd5 35. Bf4 h5 36. Be5 Rd2 37. Bf6 Kc4 38. Rc1+ Kd3 39. b3 Ke2 40. Kg2
+d3 41. g4 Ra2 42. Rc3 Bxg4 43. Bg5 Rxa5 44. Rc7 Bf3+ 45. Kg3 Rxg5+ 46. hxg5 d2
+47. Rc2 Be4 48. Ra2 Ke1 49. Rxd2 Kxd2 50. Kf4 Bf5 51. Kf3 Kc3 52. Kg3 Kxb3 53.
+Kh4 b5 54. Kg3 Kc3 55. Kf4 Kd4 56. Kf3 b4 57. Kg2 b3 58. Kh2 b2 59. f4 b1=Q 60.
+Kg3 Qg1+ 61. Kf3 Bg4# 0-1
+

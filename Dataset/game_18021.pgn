@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "PudgeTheButcher"]
+[Black "ChessValkyrie"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Ne4zGLdG"]
+[WhiteTitle "CM"]
+[WhiteElo "2630"]
+[BlackElo "2489"]
+[ECO "B31"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:43:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. c3 Bg7 5. O-O Nf6 6. Re1 O-O 7. d4 d5 8. e5
+Ne4 9. Bxc6 bxc6 10. Be3 cxd4 11. cxd4 Qb6 12. Qc1 f6 13. Nc3 fxe5 14. Nxe4
+exd4 15. Nxd4 Bxd4 16. Bxd4 Qxd4 17. Qxc6 dxe4 18. Qxa8 Qxf2+ 19. Kh1 e3 20.
+Qd5+ Rf7 21. Rf1 e6 22. Qd8+ Rf8 23. Qxf8+ Kxf8 24. Rxf2+ exf2 25. Rf1 1-0
+

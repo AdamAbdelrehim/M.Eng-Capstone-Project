@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "RaspFish"]
+[Black "simbelmyne-bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/R36WVPUk"]
+[WhiteTitle "BOT"]
+[WhiteElo "2976"]
+[BlackElo "2552"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:58:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "-1"]
+
+1. e3 c5 2. c4 Nf6 3. d4 cxd4 4. exd4 e6 5. Nf3 d5 6. Nc3 Bd6 7. c5 Bc7 8. Bd3
+O-O 9. O-O Nc6 10. Bg5 h6 11. Bh4 a6 12. Qd2 b5 13. Rae1 Bb7 14. Bb1 b4 15. Qd3
+g5 16. Rxe6 Ne5 17. dxe5 Ne4 18. Rxh6 gxh4 19. Nxe4 dxe4 20. Qe3 Qe7 21. Bxe4
+Bxe4 22. Qxe4 f5 23. Rg6+ Kh8 24. Qf4 Rf7 25. Ng5 Rh7 26. Nxh7 Qxe5 27. Qxh4
+Qxh2+ 28. Qxh2 Bxh2+ 29. Kxh2 Kxh7 30. Rg5 Kh6 31. f4 Rg8 32. Rxg8 Kh7 33. Rg5
+Kh8 34. Rh1 Kh7 35. Kg1# 1-0
+

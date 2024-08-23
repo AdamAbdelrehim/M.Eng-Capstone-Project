@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Knights4base"]
+[Black "AI-84-ios"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/DyZqP203"]
+[WhiteTitle "IM"]
+[WhiteElo "2565"]
+[BlackElo "2361"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "02:57:14"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Nf6 4. O-O Bf5 5. d3 e6 6. c4 h6 7. Be3 Nbd7 8. Qb3
+Qc8 9. Nc3 Be7 10. cxd5 exd5 11. Rac1 Be6 12. Nd4 O-O 13. Nxe6 fxe6 14. Bh3 Nb6
+15. Bxb6 axb6 16. Qxb6 Kf7 17. e4 Qb8 18. exd5 exd5 19. Rfe1 Bd6 20. Be6+ Kg6
+21. Qd4 Kh7 22. Qh4 Qd8 23. a3 Ng8 24. Qxd8 Rfxd8 25. f4 Nf6 26. Bf5+ g6 27.
+Be6 Kg7 28. Kg2 Re8 29. Kf3 Re7 30. Bh3 Rxe1 31. Rxe1 h5 32. Re6 Rd8 33. Ne2
+Kf7 34. Re3 Bc5 35. Be6+ Ke7 36. d4 Bd6 37. Bc8+ Kf8 38. Bxb7 Rb8 39. Bxc6 Rxb2
+40. a4 Ng4 41. Re6 Nxh2+ 42. Kg2 Ng4 43. Bb5 Bb4 44. Rxg6 Kf7 45. Rg5 Bc3 46.
+Rxh5 Bxd4 47. Kf3 Nf6 48. Nxd4 Nxh5 49. Bc6 Nf6 50. g4 Rb4 51. Nb5 Rb3+ 52. Ke2
+Rb2+ 53. Kd3 Nxg4 54. Kd4 Ke6 55. Bxd5+ Kd7 56. Bc4 Nf6 57. a5 Kc6 58. Nc3 Rf2
+59. Ke5 Nd7+ 60. Ke4 Nc5+ 61. Ke3 Rc2 62. Bd5+ Kd6 63. Kd4 Rd2+ 64. Kc4 Rc2 65.
+Kb4 Rxc3 66. Kxc3 Kxd5 67. a6 Nxa6 68. f5 Nc7 69. f6 Ne6 70. f7 Nf8 71. Kd3 Ke5
+72. Ke3 Kf6 73. Kf3 Kg6 74. Kf4 Kg7 0-1
+

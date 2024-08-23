@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Guillermo31-08"]
+[Black "Dmitry_Gritsenko"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/z1kUUf9a"]
+[WhiteElo "2349"]
+[BlackElo "2512"]
+[ECO "A05"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:00:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 d6 6. e4 e5 7. Re1 Nc6 8. c3 h6
+9. d4 Kh7 10. h3 Re8 11. Qd3 d5 12. dxe5 Nxe5 13. Nxe5 Rxe5 14. f4 Re8 15. e5
+Ne4 16. Bxe4 dxe4 17. Qxe4 Bxh3 18. Be3 Qd7 19. Nd2 Rad8 20. Nf3 Qb5 21. Qc2 c5
+22. a4 Qc6 23. Qf2 Rd3 24. Rad1 Red8 25. Rxd3 Rxd3 26. Kh2 Bg4 27. Ng1 b6 28.
+a5 Bf8 29. axb6 axb6 30. Ra1 Qd7 31. Ra8 Be7 32. Ra6 Qb7 33. Ra1 b5 34. Ra5 b4
+35. Bxc5 bxc3 36. bxc3 Rxc3 37. Bxe7 Qxe7 38. Rd5 Qe6 39. Rd2 Qf5 40. Qd4 Rc1
+41. Qf2 Qb1 42. Rb2 Qe4 43. Rd2 h5 44. Rb2 Rc3 45. Qd2 Rd3 46. Qf2 Ra3 47. Rd2
+Be6 48. Qg2 Qf5 49. Qf2 Ra1 50. Re2 Bd5 51. Qe3 Bc6 52. Qf2 Qe6 53. Qe3 Qd5 54.
+Nf3 Qxf3 55. Qxf3 Bxf3 56. Rf2 Rh1# 0-1
+

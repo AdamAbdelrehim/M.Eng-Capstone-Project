@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.17"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "G_Bloem"]
+[Result "0-1"]
+[CurrentPosition "r1bqk1nr/pppp1ppp/8/8/2BbP3/8/PPP2PPP/RNB1K2R w KQkq -"]
+[Timezone "UTC"]
+[ECO "C45"]
+[ECOUrl "https://www.chess.com/openings/Scotch-Game-Scotch-Gambit-Haxo-Gambit"]
+[UTCDate "2021.02.17"]
+[UTCTime "22:46:18"]
+[WhiteElo "914"]
+[BlackElo "947"]
+[TimeControl "300"]
+[Termination "G_Bloem won by resignation"]
+[StartTime "22:46:18"]
+[EndDate "2021.02.17"]
+[EndTime "22:46:45"]
+[Link "https://www.chess.com/game/live/6593085883"]
+
+1. e4 { [%clk 0:05:00] } 1... e5 { [%clk 0:05:00] } 2. Nf3 { [%clk 0:04:58.8] }
+2... Nc6 { [%clk 0:04:59.6] } 3. Bc4 { [%clk 0:04:55.6] } 3... Bc5
+{ [%clk 0:04:59] } 4. d4 { [%clk 0:04:50.9] } 4... exd4 { [%clk 0:04:55.2] } 5.
+Nxd4 { [%clk 0:04:48] } 5... Nxd4 { [%clk 0:04:54.2] } 6. Qxd4
+{ [%clk 0:04:46.5] } 6... Bxd4 { [%clk 0:04:53.4] } 0-1
+

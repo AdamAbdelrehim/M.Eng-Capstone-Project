@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "bob_2004"]
+[Black "thanozz"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/pB4kW8nt"]
+[WhiteTitle "FM"]
+[WhiteElo "2737"]
+[BlackElo "2780"]
+[ECO "A46"]
+[Opening "Indian Defense: Wade-Tartakower Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:09:10"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. d4 d6 2. Nf3 Nf6 3. c4 Nbd7 4. Nc3 e5 5. Bg5 Be7 6. e3 h6 7. Bxf6 Bxf6 8.
+Bd3 O-O 9. O-O exd4 10. exd4 g6 11. Qd2 Bg7 12. Rfe1 a6 13. h3 Rb8 14. Re3 c5
+15. d5 Nf6 16. Rae1 Bd7 17. a4 Qb6 18. Qc2 Rbe8 19. b3 Rxe3 20. Rxe3 Qa5 21.
+Ne2 Re8 22. Rxe8+ Bxe8 23. Qd2 Qxd2 24. Nxd2 b5 25. cxb5 axb5 26. Bxb5 Kf8 27.
+Nc4 Ke7 28. Bxe8 Nxe8 29. Kf1 Nc7 30. Nb6 Kd8 31. Ke1 Na6 32. Kd2 Kc7 33. Nc4
+Nb4 34. Nc3 Bxc3+ 35. Kxc3 Nxd5+ 36. Kd2 Nb4 37. g4 f6 38. f4 d5 39. Ne3 Kd6
+40. h4 d4 41. Nc4+ Kd5 42. a5 Ke4 43. f5 gxf5 44. Nd6+ Kf4 45. Nxf5 Kxg4 46.
+Nxh6+ Kxh4 47. Nf5+ Kg4 48. Nd6 f5 49. Nb7 Na6 50. Nxc5 Nxc5 51. b4 Na6 52. b5
+Nc5 53. a6 Na4 54. Kd3 f4 55. Kxd4 f3 56. a7 Nb6 57. Kc5 Na8 58. Kc6 f2 59. Kb7
+f1=Q 60. Kxa8 Qf3+ 61. Kb8 Qf4+ 62. Kb7 Qe4+ 63. Ka6 Qa4+ 64. Kb6 Kf5 65. Kb7
+Qxb5+ 66. Ka8 Qe8+ 0-1
+

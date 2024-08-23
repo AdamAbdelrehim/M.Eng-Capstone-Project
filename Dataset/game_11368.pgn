@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Mandarlad17"]
+[Black "Dmitrij_Osetrov"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/0KYYGbBc"]
+[WhiteElo "2575"]
+[BlackElo "2512"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:57:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Nb8 9. a4 Be7 10. a5 O-O 11. Be3 a6 12. Bb6 Qe8 13. Nc7 Nd7 1-0
+

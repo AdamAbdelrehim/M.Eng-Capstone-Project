@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "macdoforever"]
+[Black "thomasasv"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/DQmF61FY"]
+[WhiteElo "2698"]
+[BlackElo "2586"]
+[ECO "B24"]
+[Opening "Sicilian Defense: Closed, Fianchetto Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:17:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 d6 4. Nge2 h5 5. h4 g6 6. Bg2 Bg7 7. O-O Nf6 8. d3
+O-O 9. Nd5 e6 10. Nxf6+ Bxf6 11. c3 d5 12. Nf4 d4 13. Nxh5 gxh5 14. Qxh5 dxc3
+15. Bh6 Re8 16. bxc3 Qxd3 17. Rfd1 Qxc3 18. Rac1 Qe5 19. Qg4+ Kh7 20. Bf4 Rg8
+21. Qf3 Nd4 22. Rxd4 Qxd4 23. Qh5+ 1-0
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Chess_Antistress"]
+[Black "kalempir"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/fs1w8rbd"]
+[WhiteElo "2553"]
+[BlackElo "2464"]
+[ECO "B08"]
+[Opening "Pirc Defense: Classical Variation, Quiet System, Chigorin Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:39:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Nc6 7. d5 Nb4 8. Nd4
+c5 9. Nf3 e5 10. Nd2 Bd7 11. a4 Ne8 12. Nc4 f5 13. exf5 gxf5 14. f4 e4 15. Bh5
+Rf6 16. Ra3 Rh6 17. Be3 Qh4 18. Bxe8 Qxh2+ 19. Kf2 Rxe8 20. Ne2 Rg6 21. Rg1 b5
+22. axb5 Bxb5 23. b3 a6 24. Rh1 Rxg2+ 0-1
+

@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "positionaloldman"]
+[Black "Punchen"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/4ACAoM2j"]
+[WhiteElo "2549"]
+[BlackElo "2571"]
+[ECO "C04"]
+[Opening "French Defense: Tarrasch Variation, Guimard Defense, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:54:39"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nc6 4. Ngf3 Nf6 5. e5 Nd7 6. Nb3 f6 7. exf6 Qxf6 8.
+Bb5 Bd6 9. O-O O-O 10. Bg5 Qg6 11. Bd3 Qh5 12. c3 Rxf3 13. Qxf3 Qxh2# 0-1
+

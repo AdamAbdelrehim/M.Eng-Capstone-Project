@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "deribasyosya"]
+[Black "JelenaZ"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/sWMgC6BS"]
+[WhiteElo "2590"]
+[BlackElo "2606"]
+[ECO "A53"]
+[Opening "Old Indian Defense: Janowski Variation, Fianchetto Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:02:25"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Bf5 4. g3 e5 5. Bg2 exd4 6. Bxb7 dxc3 7. Bxa8 c6 8.
+bxc3 Be7 9. Nf3 Bh3 10. Ng5 Qd7 11. Qa4 O-O 12. Nxh3 Qxh3 13. Bxc6 Nxc6 14.
+Qxc6 Ng4 15. Bf4 Bf6 16. Qf3 Be5 17. Kd2 h5 18. Rag1 Nf6 19. c5 Qe6 20. Bxe5
+Qxa2+ 21. Ke3 dxe5 22. Qb7 e4 23. Rd1 Ng4+ 24. Kf4 Qxe2 25. Qxe4 Qxf2+ 26. Kg5
+Qf6+ 0-1
+

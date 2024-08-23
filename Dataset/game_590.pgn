@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "simbelmyne-bot"]
+[Black "AKS-Mantissa"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ciqTztAD"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2566"]
+[BlackElo "2714"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Dutch Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "03:37:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. Nf3 f5 2. d4 Nf6 3. c4 g6 4. g3 Bg7 5. Nc3 d6 6. Bg2 O-O 7. O-O Qe8 8. Nd5
+Nxd5 9. cxd5 Nd7 10. Ng5 Nf6 11. Qc2 h6 12. Ne6 Bxe6 13. dxe6 c6 14. Qb3 Qc8
+15. Be3 d5 16. Rac1 Ne4 17. Qb4 Rf6 18. Qxe7 Rxe6 19. Qa3 Qd7 20. Rfd1 Qf7 21.
+h4 g5 22. hxg5 hxg5 23. Bd2 f4 24. gxf4 gxf4 25. Qd3 Rae8 26. Kf1 Rh6 27. b4
+Rh4 28. b5 Qg6 29. Ba5 Qh6 30. Kg1 Re6 31. Bd8 Rh2 32. Rxc6 bxc6 33. e3 Rxg2+
+34. Kxg2 Rg6+ 35. Bg5 Qxg5+ 36. Kf1 Qg1+ 37. Ke2 Qxf2# 0-1
+

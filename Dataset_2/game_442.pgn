@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.19"]
+[Round "-"]
+[White "papirrin777"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "rnb1kb1r/ppp1qppp/8/4N3/2B5/8/PPPPnPPP/RNB2K1R w kq -"]
+[Timezone "UTC"]
+[ECO "C42"]
+[ECOUrl "https://www.chess.com/openings/Petrovs-Defense-Urusov-Gambit"]
+[UTCDate "2021.02.19"]
+[UTCTime "07:42:15"]
+[WhiteElo "1298"]
+[BlackElo "1347"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "07:42:15"]
+[EndDate "2021.02.19"]
+[EndTime "07:43:09"]
+[Link "https://www.chess.com/game/live/7459344065"]
+
+1. e4 { [%clk 0:09:59.6] } 1... e5 { [%clk 0:09:59.3] } 2. Bc4
+{ [%clk 0:09:58.7] } 2... Nf6 { [%clk 0:09:55] } 3. Nf3 { [%clk 0:09:57.3] }
+3... d5 { [%clk 0:09:53] } 4. exd5 { [%clk 0:09:56.2] } 4... Nxd5
+{ [%clk 0:09:51.6] } 5. Nxe5 { [%clk 0:09:53.5] } 5... Qe7 { [%clk 0:09:48.7] }
+6. Qe2 { [%clk 0:09:42.7] } 6... Nf4 { [%clk 0:09:36.7] } 7. Kf1
+{ [%clk 0:09:38.7] } 7... Nxe2 { [%clk 0:09:34.9] } 0-1
+

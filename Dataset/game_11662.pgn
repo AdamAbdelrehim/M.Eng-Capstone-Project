@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Tactic_Trainer2023"]
+[Black "Gaius_Baltar"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/AanSLhMe"]
+[WhiteElo "2826"]
+[BlackElo "2813"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:42:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. a3 Bxc5 6. Qg4 Ne7 7. Nf3 O-O 8. Bd3
+f5 9. exf6 Rxf6 10. Bg5 Nd7 11. Qh4 h6 12. Bxf6 Nxf6 13. O-O Qd6 14. Nc3 Nc6
+15. Rad1 Bd7 16. Na4 e5 17. Nxc5 Qxc5 18. b4 Qc3 19. b5 Ne7 20. Be2 Nf5 21. Qb4
+Qc7 22. c4 d4 23. c5 Kh8 24. Rc1 Nd5 25. Qb3 Nf4 26. Rfe1 e4 27. c6 Nxe2+ 28.
+Rxe2 exf3 29. Qxf3 bxc6 30. bxc6 Rd8 31. g4 d3 32. Qxd3 Bc8 33. Qh3 Nd4 34. Re3
+Rf8 35. g5 Bxh3 0-1
+

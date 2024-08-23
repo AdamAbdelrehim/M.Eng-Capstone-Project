@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ilprofessore87"]
+[Black "Midnight_Mushroom"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/vYErdEua"]
+[WhiteElo "2577"]
+[BlackElo "2494"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:43:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 c6 2. Nc3 d5 3. Nf3 dxe4 4. Nxe4 Nf6 5. Qe2 Nxe4 6. Qxe4 Qd5 7. Qf4 Qf5
+8. Qe3 Qe6 9. b3 Qxe3+ 10. fxe3 Bf5 11. d3 e6 12. Bb2 Nd7 13. O-O-O Be7 14. e4
+Bg4 15. Bxg7 Rg8 16. Bb2 Bf6 17. d4 Bg5+ 18. Kb1 Nf6 19. Bd3 O-O-O 20. Rdf1 Be3
+21. Ne5 Nh5 22. Nxf7 Rdf8 23. Ne5 1-0
+

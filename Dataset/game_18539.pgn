@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "loasis"]
+[Black "ErgRaider"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/2yf0s9Kz"]
+[BlackTitle "FM"]
+[WhiteElo "2455"]
+[BlackElo "2527"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:07:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+4"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. Qd2 Qe7 10. O-O-O Nb6 11. Be2 Bd7 12. Bf3 Rc8 13. Kb1 Nc4 14. Qf2 Nxe3
+15. Qxe3 Nxd4 16. Rxd4 O-O 17. h4 f6 18. g4 fxe5 19. Qxe5 Bxd4 20. Qxd4 Rc4 21.
+Nxd5 Rxd4 22. Nxe7+ Kf7 0-1
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "QuantGuy"]
+[Black "Sambaw"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/4YU3FqQJ"]
+[WhiteElo "2502"]
+[BlackElo "2475"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:35:34"]
+[Termination "Normal"]
+[WhiteRatingDiff "-16"]
+[BlackRatingDiff "+6"]
+
+1. e4 g6 2. d4 Bg7 3. Be2 c6 4. Be3 d5 5. e5 f6 6. f4 Nh6 7. Nd2 O-O 8. c3 b6
+9. Ngf3 Ba6 10. O-O Bxe2 11. Qxe2 fxe5 12. fxe5 e6 13. Ng5 Rxf1+ 14. Rxf1 Qe7
+15. Ngf3 Nf7 16. h4 c5 17. dxc5 bxc5 18. Qb5 Nd7 19. Ng5 Nfxe5 20. Qb7 Rb8 21.
+Qxa7 Rxb2 22. Nb3 h6 23. Bxc5 Qe8 24. Nf3 Nxf3+ 25. Rxf3 Ne5 26. Rf1 g5 27. Bd4
+gxh4 28. c4 Rc2 29. cxd5 Qg6 30. Rf2 Nf3+ 31. Kh1 Nxd4 32. Nxd4 Rxf2 33. Qb8+
+Kh7 34. Qh2 0-1
+

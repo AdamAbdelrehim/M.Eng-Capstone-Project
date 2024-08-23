@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.07.10"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Kaisora"]
+[Result "0-1"]
+[CurrentPosition "r1b2rk1/p3nppp/2p5/2b5/Nq1p4/3B1Q2/PPP2PPP/R1B1K2R w KQ -"]
+[Timezone "UTC"]
+[ECO "B40"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Marshall-Counterattack"]
+[UTCDate "2024.07.10"]
+[UTCTime "01:49:15"]
+[WhiteElo "1823"]
+[BlackElo "1819"]
+[TimeControl "600"]
+[Termination "Kaisora won by resignation"]
+[StartTime "01:49:15"]
+[EndDate "2024.07.10"]
+[EndTime "01:50:42"]
+[Link "https://www.chess.com/game/live/114315012885"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:59.1] }
+2... e6 { [%clk 0:09:59.5] } 3. d4 { [%clk 0:09:58.9] } 3... d5
+{ [%clk 0:09:58.6] } 4. dxc5 { [%clk 0:09:55.2] } 4... Bxc5
+{ [%clk 0:09:58.5] } 5. exd5 { [%clk 0:09:54] } 5... exd5 { [%clk 0:09:57.7] }
+6. Nc3 { [%clk 0:09:52.8] } 6... Ne7 { [%clk 0:09:57] } 7. Bb5+
+{ [%clk 0:09:48.6] } 7... Nbc6 { [%clk 0:09:56.2] } 8. Ne5 { [%clk 0:09:44.2] }
+8... Qb6 { [%clk 0:09:49.8] } 9. Qf3 { [%clk 0:09:30.5] } 9... O-O
+{ [%clk 0:09:46.5] } 10. Nxc6 { [%clk 0:09:23.7] } 10... bxc6
+{ [%clk 0:09:45.3] } 11. Bd3 { [%clk 0:09:22.8] } 11... d4 { [%clk 0:09:25.7] }
+12. Na4 { [%clk 0:09:21] } 12... Qb4+ { [%clk 0:09:24.6] } 0-1
+

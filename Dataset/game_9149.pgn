@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "doclex"]
+[Black "alexa01123"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/vlmJPzrZ"]
+[WhiteElo "2448"]
+[BlackElo "2510"]
+[ECO "A06"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "06:56:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. Nf3 d5 2. b3 c5 3. Bb2 Nc6 4. e3 f6 5. Bb5 Bd7 6. d4 e6 7. O-O Nge7 8. dxc5
+a6 9. Bd3 Ng6 10. c4 dxc4 11. Bxc4 Bxc5 12. Nc3 Rc8 13. Ne4 Be7 14. Nd6+ Bxd6
+15. Qxd6 Qe7 16. Rad1 Qxd6 17. Rxd6 b5 18. Bxe6 Bxe6 19. Rxe6+ Kf7 20. Rd6 Rhd8
+21. Rxd8 Nxd8 22. Nd4 Ne5 23. Rc1 Rxc1+ 24. Bxc1 Nd3 25. Bd2 Nb7 26. Kf1 Nbc5
+27. Ke2 Ne5 28. f3 g6 29. Nc2 Ke6 30. Bc3 Kd5 31. Nb4+ Kd6 32. Bxe5+ Kxe5 33.
+Nd3+ Nxd3 34. Kxd3 f5 35. Kc3 a5 36. a3 Kd5 37. Kd3 Ke5 38. g3 Kd5 39. e4+
+fxe4+ 40. fxe4+ Ke5 41. Ke3 g5 42. g4 Kd6 43. Kd4 Ke6 44. e5 1-0
+

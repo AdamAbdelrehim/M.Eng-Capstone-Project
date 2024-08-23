@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "DanielaAndrade"]
+[Black "berval"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/wL5PQgne"]
+[BlackTitle "FM"]
+[WhiteElo "2521"]
+[BlackElo "2525"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:43:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. d3 d5 3. f4 dxe4 4. dxe4 Qxd1+ 5. Kxd1 Nc6 6. Nf3 Bg4 7. Be3 e5 8.
+f5 O-O-O+ 9. Nd2 Nf6 10. Bd3 c4 11. Bxc4 Nxe4 12. Bxf7 Nxd2 13. Be6+ Kc7 14.
+Bxd2 g6 15. h3 Bxf3+ 16. gxf3 Bh6 17. Rh2 Nd4 18. Bxh6 Nxe6+ 19. Rd2 gxf5 20.
+c3 f4 21. h4 Rhg8 22. Rxd8 Kxd8 23. Kc2 Rg2+ 24. Kb3 Rg6 25. Bg5+ Nxg5 26. hxg5
+Rxg5 27. Rh1 h5 28. Kc4 Ke7 29. Kd5 Kf6 30. Rh2 Kf5 31. a4 e4 32. fxe4+ Kg4+
+33. e5 Kg3 34. Rd2 f3 0-1
+

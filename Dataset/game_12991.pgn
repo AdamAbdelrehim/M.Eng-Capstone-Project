@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "sebastiano1908"]
+[Black "Clean98"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/5eNkroVw"]
+[WhiteTitle "FM"]
+[WhiteElo "2633"]
+[BlackElo "2602"]
+[ECO "E11"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:43:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 a5 5. b3 d6 6. a3 Bc3 7. Rb1 Qe7 8. Qc2
+Bxd2+ 9. Bxd2 O-O 10. g3 e5 11. Bg2 Nc6 12. d5 Nb8 13. O-O Bg4 14. h3 Bh5 15.
+e4 Bxf3 16. Bxf3 Nbd7 17. b4 axb4 18. axb4 Ra3 19. Rb3 Rfa8 20. Rxa3 Rxa3 21.
+Bc3 Qd8 22. Ra1 Qa8 23. Qb2 Rxa1+ 24. Qxa1 Qxa1+ 25. Bxa1 Nb6 26. c5 Nc4 27.
+Bc3 b6 28. c6 Na3 29. Kf1 Nb5 30. Bb2 Kf8 31. Be2 Na7 32. f3 Ke7 33. Bc1 h6 34.
+Kf2 Ne8 35. Ba6 g5 36. h4 f6 37. Kg2 Kf7 38. Kh3 Kg6 39. hxg5 fxg5 40. Kg2 h5
+41. Be3 Kf6 42. f4 gxf4 43. gxf4 exf4 44. Bxf4 Kg6 45. Kf3 h4 46. e5 dxe5 47.
+Bxe5 Kf5 48. Bh2 b5 49. Bxc7 Nxc7 50. d6 Nxa6 51. c7 Ke6 52. Kg4 Kxd6 53. Kxh4
+Kxc7 0-1
+

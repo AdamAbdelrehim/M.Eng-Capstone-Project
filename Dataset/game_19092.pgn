@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "variouschess"]
+[Black "Ersenov"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/WudxquZh"]
+[WhiteElo "2593"]
+[BlackElo "2526"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:24:40"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+
+1. b3 g6 2. Bb2 Nf6 3. Bxf6 exf6 4. c4 d5 5. Nc3 d4 6. Ne4 f5 7. Ng3 h5 8. h4
+Be7 9. Nf3 Nc6 10. e3 O-O 11. a3 Bf6 12. Ra2 Re8 13. Qb1 f4 14. Ne4 Bf5 15. Bd3
+Bxe4 16. Bxe4 fxe3 17. dxe3 dxe3 18. O-O exf2+ 19. Raxf2 Bxh4 20. Nxh4 Qxh4 21.
+Bxc6 bxc6 22. Rxf7 Qd4+ 23. Kh2 Qh4+ 24. Kg1 Qd4+ 25. R1f2 Re6 26. Qf1 Rae8 27.
+Kh2 Qh4+ 28. Kg1 Qd4 29. Kh2 Qd6+ 30. g3 Re3 31. Qg2 R8e4 32. R7f6 Rh4+ 33. Kg1
+Re1+ 34. Rf1 Qd4+ 35. Rf2 Rhe4 36. Kh2 Rxf1 37. Qxf1 Kg7 38. Rf7+ Kh6 39. Qc1+
+Qe3 40. Qxe3+ Rxe3 41. Rxc7 Rxb3 42. Rxa7 Kg5 43. Kh3 h4 44. Ra5+ Kh6 45. Kxh4
+Rc3 46. Rc5 Rxa3 47. Rxc6 Rc3 48. Kg4 Rc1 49. Rc7 Rc2 50. Rc8 Rc1 51. Kf4 Rf1+
+52. Ke5 Rg1 53. Kf4 Rf1+ 54. Ke3 Rg1 55. Kf2 Rc1 56. c5 Kg5 57. c6 Kg4 58. Ke3
+g5 59. Kd4 Kxg3 60. Kd5 g4 61. Ra8 Kh3 62. Ra3+ g3 63. Kd6 Kh2 64. Rxg3 Kxg3
+65. c7 Kf4 66. Kd7 Rd1+ 67. Kc8 Ke5 68. Kb8 Rb1+ 69. Kc8 Kd6 70. Kd8 Rh1 71.
+c8=N+ Ke6 72. Kc7 Rc1+ 73. Kd8 Rc2 74. Ne7 Rd2+ 75. Ke8 Re2 76. Nc8 Kf6+ 77.
+Kd8 Ke5 78. Kc7 Kd4 0-1
+

@@ -1,0 +1,37 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.04"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Jackga217"]
+[Result "1-0"]
+[CurrentPosition "r2qk2r/ppp2pQ1/2n2b2/6B1/2BP3p/2P3nP/PP4P1/RN2R1K1 b kq -"]
+[Timezone "UTC"]
+[ECO "C44"]
+[ECOUrl "https://www.chess.com/openings/Ponziani-Opening-Jaenisch-Neumann-Gambit"]
+[UTCDate "2021.03.04"]
+[UTCTime "06:28:21"]
+[WhiteElo "1294"]
+[BlackElo "1177"]
+[TimeControl "1800"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "06:28:21"]
+[EndDate "2021.03.04"]
+[EndTime "06:34:55"]
+[Link "https://www.chess.com/game/live/8578401007"]
+
+1. e4 { [%clk 0:30:00] } 1... e5 { [%clk 0:30:00] } 2. Nf3 { [%clk 0:29:58.6] }
+2... Nc6 { [%clk 0:29:58.8] } 3. Bc4 { [%clk 0:29:56.1] } 3... Nf6
+{ [%clk 0:29:57.9] } 4. c3 { [%clk 0:29:36.3] } 4... d5 { [%clk 0:29:56] } 5.
+exd5 { [%clk 0:29:31.9] } 5... Nxd5 { [%clk 0:29:54.4] } 6. d4
+{ [%clk 0:29:23.4] } 6... e4 { [%clk 0:29:46] } 7. Nfd2 { [%clk 0:29:14.6] }
+7... h5 { [%clk 0:29:25] } 8. Nxe4 { [%clk 0:29:09.4] } 8... Bg4
+{ [%clk 0:29:20.9] } 9. f3 { [%clk 0:29:06.4] } 9... Bf5 { [%clk 0:29:19.1] }
+10. O-O { [%clk 0:28:48] } 10... h4 { [%clk 0:28:47.1] } 11. h3
+{ [%clk 0:28:33.8] } 11... Bxe4 { [%clk 0:28:45.2] } 12. Re1
+{ [%clk 0:28:24.2] } 12... Be7 { [%clk 0:28:31.7] } 13. fxe4
+{ [%clk 0:28:21.3] } 13... Nf6 { [%clk 0:28:19.9] } 14. Be3
+{ [%clk 0:27:25.5] } 14... Nxe4 { [%clk 0:28:03.3] } 15. Qg4
+{ [%clk 0:27:21.4] } 15... Ng3 { [%clk 0:27:28.7] } 16. Qxg7 { [%clk 0:27:10] }
+16... Bf6 { [%clk 0:27:28.3] } 17. Bg5+ { [%clk 0:26:50.4] } 1-0
+

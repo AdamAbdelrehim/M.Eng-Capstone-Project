@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.12.31"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "kunalpallu888"]
+[Result "1-0"]
+[CurrentPosition "r1bqkb1r/1p2p1p1/p1n4p/3p1p1n/3N4/2NPB3/PPP1BPPP/R2Q1RK1 b kq -"]
+[Timezone "UTC"]
+[ECO "B01"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Modern-Variation-3.Nf3"]
+[UTCDate "2022.12.31"]
+[UTCTime "04:19:31"]
+[WhiteElo "1827"]
+[BlackElo "1810"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "04:19:31"]
+[EndDate "2022.12.31"]
+[EndTime "04:21:32"]
+[Link "https://www.chess.com/game/live/66199283527"]
+
+1. e4 { [%clk 0:09:59.1] } 1... d5 { [%clk 0:09:58.7] } 2. exd5
+{ [%clk 0:09:57.8] } 2... Nf6 { [%clk 0:09:57.6] } 3. Nf3 { [%clk 0:09:50.6] }
+3... a6 { [%clk 0:09:56] } 4. Be2 { [%clk 0:09:46.2] } 4... c6
+{ [%clk 0:09:54.7] } 5. O-O { [%clk 0:09:45.7] } 5... cxd5 { [%clk 0:09:50.8] }
+6. Nc3 { [%clk 0:09:42.1] } 6... Nc6 { [%clk 0:09:50.7] } 7. d3
+{ [%clk 0:09:36] } 7... h6 { [%clk 0:09:47.5] } 8. Bf4 { [%clk 0:09:35.2] }
+8... Nh5 { [%clk 0:09:38.7] } 9. Be3 { [%clk 0:09:32.4] } 9... f5
+{ [%clk 0:09:23.5] } 10. Nd4 { [%clk 0:09:26.7] } 1-0
+

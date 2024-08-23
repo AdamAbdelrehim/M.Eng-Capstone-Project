@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "richard_nati"]
+[Black "CRBorn"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Svrm7Kmf"]
+[WhiteElo "2466"]
+[BlackElo "2558"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "04:29:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+
+1. d4 a6 2. c4 b5 3. e4 Bb7 4. f3 bxc4 5. d5 c6 6. Bxc4 cxd5 7. exd5 Nf6 8. Nc3
+d6 9. Nge2 Nbd7 10. O-O Rc8 11. Bb3 g6 12. Re1 Bg7 13. Be3 O-O 14. Rc1 Nc5 15.
+Bc2 a5 16. Qd2 Re8 17. Nf4 Rb8 18. h4 Ba8 19. b3 Rc8 20. h5 Ncd7 21. hxg6 hxg6
+22. Bd3 Rc7 23. Bb5 Qb8 24. a4 Rec8 25. Nce2 Nc5 26. Rb1 g5 27. Nh3 g4 28. Nhf4
+Qb6 29. Ng3 gxf3 30. gxf3 Bh6 31. Nf5 Bxf4 32. Qg2+ Kf8 33. Qg7# 1-0
+

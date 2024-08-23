@@ -1,0 +1,27 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Barba-stratega"]
+[Black "pawn_git"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/hU3yg5Zm"]
+[BlackTitle "BOT"]
+[WhiteElo "2570"]
+[BlackElo "2542"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Berlin Defense, Greco Gambit"]
+[TimeControl "1800+30"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:13:19"]
+[Termination "Normal"]
+
+1. e4 e5 2. Bc4 Nf6 3. f4 d5 4. exd5 Nxd5 5. Bxd5 Qxd5 6. Nf3 Qe4+ 7. Kf2 Qxf4
+8. d4 Qf5 9. Re1 Bd6 10. dxe5 Be7 11. Nc3 Be6 12. Nb5 O-O 13. Nxc7 Rd8 14. Qe2
+Rc8 15. Nxe6 Rxc2 16. Bd2 Qxe6 17. b3 Nc6 18. Qe4 Nd4 19. Nxd4 Rxd2+ 20. Re2
+Rxe2+ 21. Kxe2 Qa6+ 22. Kf3 Bc5 23. Rc1 Bxd4 24. Qxd4 Qxa2 25. Qd5 Rf8 26. Rc7
+b6 27. h3 a5 28. Kg3 Qe2 29. Qd4 h6 30. Re7 Qb5 31. Qc3 Qd5 32. Kh2 Qe4 33. e6
+Qf4+ 34. Kg1 Qd6 35. exf7+ Rxf7 36. Re8+ Rf8 37. Qc4+ Kh8 38. Re6 Qd1+ 39. Kh2
+Qd8 40. Qc6 Qb8+ 41. Kg1 Qf4 42. Qxb6 Qc1+ 43. Kh2 Qf4+ 44. Kg1 Qc1+ 45. Kh2
+Qf4+ 46. Kh1 Qc1+ 47. Kh2 1/2-1/2
+

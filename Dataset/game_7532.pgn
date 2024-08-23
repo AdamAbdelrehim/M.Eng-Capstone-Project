@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "GGTOURS"]
+[Black "johndoe695"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/csCP9hhm"]
+[WhiteTitle "WFM"]
+[WhiteElo "2487"]
+[BlackElo "2546"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, Freak Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:21:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Rg1 e5 7. Nb3 h5 8. h3
+Be6 9. g4 hxg4 10. hxg4 d5 11. g5 Nxe4 12. Nxe4 dxe4 13. Qxd8+ Kxd8 14. Bg2 Nc6
+15. Be3 Kc7 16. Bxe4 Rd8 17. Rd1 Bb4+ 18. c3 Be7 19. Rh1 Rxd1+ 20. Kxd1 Bg4+
+21. Kc2 Rxh1 22. Bxh1 Bf5+ 23. Kd2 Bb1 24. a3 f5 25. gxf6 gxf6 26. f4 Bd6 27.
+fxe5 Nxe5 28. Bd4 Nc4+ 29. Kc1 Ba2 30. Nd2 Bf4 31. Bxf6 Nxd2 32. Kc2 Bb3+ 33.
+Kd3 Nc4 34. Ke4 Bd6 35. Bg2 Nxb2 36. Bf1 Bxa3 37. Kd4 Na4 38. c4 Bc5+ 39. Kd3
+Kb6 40. Bd8+ Kc6 41. Bg2+ Kd7 42. Bxb7 Kxd8 43. Bxa6 Kc7 44. Bb5 Kd6 45. Be8
+Ba3 46. Bf7 Kc5 47. Bg8 Bb2 48. Bf7 Bf6 49. Bg8 Nb2+ 50. Ke2 Kb4 51. Bf7 Kc3
+52. Bg8 Bg5 53. Kf3 Nxc4 54. Kg4 Be3 55. Bh7 Kd4 56. Bb1 Ne5+ 57. Kg3 Be6 58.
+Bh7 Nd3 59. Kf3 Bd5+ 60. Kg4 Bf2 61. Kg5 Bg3 62. Kg4 Bd6 63. Kh3 Ke3 64. Kh4
+Nf4 65. Kg5 Be7+ 66. Kh6 Bf6 67. Bb1 Kf3 68. Kh7 Kg4 69. Kh6 Bf7 70. Kh7 Kg5
+71. Bc2 Ne6 72. Bb3 Nf8# 0-1
+

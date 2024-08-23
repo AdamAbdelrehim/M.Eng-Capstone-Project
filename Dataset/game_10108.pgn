@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "LP26GOAT"]
+[Black "RomanovRG"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/XEdAUO4g"]
+[WhiteElo "2556"]
+[BlackElo "2384"]
+[ECO "A14"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:47:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. Nf3 Be7 5. O-O O-O 6. b3 c5 7. cxd5 Nxd5 8. Nc3
+Bf6 9. Bb2 Nc6 10. Qc1 Nxc3 11. Bxc3 Bxc3 12. Qxc3 Nd4 13. e3 Ne2+ 0-1
+

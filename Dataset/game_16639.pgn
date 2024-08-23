@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "ShramovIgor"]
+[Black "Super_FM"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/w9X72BYb"]
+[BlackTitle "FM"]
+[WhiteElo "2538"]
+[BlackElo "2448"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "02:55:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Qb6 8. Nd2
+c5 9. c4 Qxb2 10. Rd1 Nc6 11. Ngf3 Nb4 12. Qe2 Nc2+ 13. Kf1 cxd4 14. cxd5 exd5
+15. Nb3 Qc3 16. Rh3 Qc4 17. Qxc4 dxc4 18. Nbxd4 Nxd4 19. Nxd4 Rc8 20. Nb5 Be7
+21. Nxa7 Rc5 22. Rg3 Rxe5 23. Nc8 f6 24. Bf4 Rc5 25. Nxe7 Nxe7 26. Rxg7 Rg8 27.
+Rh7 Ng6 28. Bd6 Rb5 29. Bc7 Ne5 30. Rd8# 1-0
+

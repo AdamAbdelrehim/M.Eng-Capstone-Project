@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "NoahSkyler"]
+[Black "TheUncannyCapybara"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/qh6Z6Nl8"]
+[WhiteElo "2563"]
+[BlackElo "2445"]
+[ECO "C19"]
+[Opening "French Defense: Winawer Variation, Poisoned Pawn Variation, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "06:37:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 dxc3 11. f4 Nbc6 12. Qd3 a6 13. g3 Bd7 14. Bg2
+O-O-O 15. O-O d4 16. h3 Nf5 17. g4 Nh4 18. Bh1 f6 19. exf6 e5 20. Ng3 Na5 21.
+fxe5 Bb5 22. Qe4 Bxf1 23. Nxf1 Ng6 24. e6 d3 25. cxd3 c2 26. f7 Rh8 27. Qxg6
+Nb3 28. Qf5 Nxa1 29. e7+ Kb8 30. f8=Q Qb6+ 31. Kh2 Re8 32. Bf4+ Ka8 33. Q8f6
+Qf2+ 34. Bg2 Nb3 35. Qxh8 Rxh8 36. Qf8+ Ka7 37. Bb8+ Kb6 38. Qxf2+ Kb5 39. Qxc2
+Nd4 40. Qc4+ Kb6 41. Qxd4+ Kb5 42. Qb4# 1-0
+

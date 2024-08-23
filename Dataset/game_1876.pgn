@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "manneredmonkey"]
+[Black "NoahSkyler"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/IvLV7Opw"]
+[WhiteTitle "NM"]
+[WhiteElo "2583"]
+[BlackElo "2567"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:12:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. e3 c5 2. Ke2 d5 3. Qe1 Nc6 4. Kd1 e5 5. d3 Nf6 6. Nd2 Be6 7. g3 Be7 8. f4
+O-O 9. h3 e4 10. dxe4 Nxe4 11. Nxe4 dxe4+ 12. Ke2 Nb4 13. Qd1 Bc4+ 14. Ke1
+Qxd1+ 15. Kxd1 Bxf1 16. Bd2 Rfd8 17. Kc1 Bf6 18. Rh2 Rac8 19. g4 g6 20. h4 a5
+21. a3 Nc6 22. g5 Bg7 23. h5 b5 24. hxg6 hxg6 25. Rf2 Bc4 26. Nh3 Be6 27. Rh2
+b4 28. axb4 cxb4 29. Nf2 Ra8 30. Nxe4 Bf5 31. Nf6+ Bxf6 32. gxf6 a4 33. c3 Na5
+34. Kd1 0-1
+

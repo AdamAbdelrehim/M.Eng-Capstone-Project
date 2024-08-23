@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "stochasticvolatility"]
+[Black "tumaridodiegoni"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/XFwRniK1"]
+[WhiteElo "2560"]
+[BlackElo "2617"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:44:55"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. g3 Bb4+ 5. Bd2 a5 6. Qc2 O-O 7. Bg2 c5 8. dxc5
+Na6 9. cxd5 exd5 10. O-O Bxc5 11. Bg5 h6 12. Bxf6 Qxf6 13. Nc3 Nb4 14. Qd2 Be6
+15. a3 Na6 16. Nxd5 Bxd5 17. Qxd5 Qxb2 18. Rab1 Qxe2 19. Rxb7 Rad8 20. Qf5 Rd1
+21. Ne5 Bxf2+ 22. Qxf2 Rxf1+ 23. Qxf1 Qxe5 24. Qxa6 Qe3+ 25. Kh1 Qxa3 26. Qf1
+Qc5 27. h3 a4 28. Qb5 Qe3 29. Kh2 a3 30. Qb3 Qc5 31. h4 Qa5 32. Bd5 Qd2+ 33.
+Kh3 Kh8 34. Rxf7 Rd8 35. Bg2 Qa5 36. Rf2 Qa7 37. Ra2 Qd7+ 38. Kh2 Qe7 39. Qxa3
+Qf7 40. Qa4 Rf8 41. Re2 Rd8 42. Qe4 Rf8 43. Qe7 Qxe7 44. Rxe7 Kg8 45. Bd5+ Kh7
+46. h5 Rb8 47. Be4+ Kh8 48. Kh3 Kg8 49. Bg6 Kf8 50. Rf7+ Kg8 51. Rf3 Rf8 52. g4
+Rxf3+ 53. Kg2 Rf8 54. Kg3 Rb8 55. Kh4 Kf8 56. g5 Ke7 57. Kg3 Rb4 58. gxh6 gxh6
+59. Kf2 Kf6 60. Ke1 Kg7 61. Kd2 Kf6 62. Kc3 Kg5 63. Kxb4 Kh4 64. Kc5 Kg5 65.
+Kd6 Kf6 66. Kd7 Kg5 67. Ke7 Kf4 68. Kf7 Ke3 69. Kg7 Kd2 70. Kxh6 Kc3 71. Kg7
+Kd2 72. h6 Kc3 1/2-1/2
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "SCORPIO_2021"]
+[Black "CJ100"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/258GhWnZ"]
+[WhiteElo "2372"]
+[BlackElo "2544"]
+[ECO "B28"]
+[Opening "Sicilian Defense: O'Kelly Variation, Yerevan System"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:02:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. Nc3 c5 2. e4 a6 3. Nf3 b5 4. d4 cxd4 5. Nxd4 Bb7 6. Bd3 Nc6 7. Be3 Nf6 8. f3
+d5 9. Nxc6 Bxc6 10. exd5 Nxd5 11. Nxd5 Bxd5 12. a4 b4 13. a5 e6 14. O-O Bd6 15.
+Qe2 O-O 16. g3 Qc7 17. Bb6 Bc5+ 18. Bxc5 Qxc5+ 19. Qf2 Qc6 20. Kg2 Rfb8 21. b3
+Qc3 22. Qe2 g6 23. h4 Rc8 24. Rad1 Rc5 25. Bxa6 Rxa5 26. Bd3 Ra2 27. Rf2 Bxb3
+28. Be4 Rb8 29. Qd2 Qxd2 30. Rfxd2 Bc4 31. Kf2 Kg7 32. Ke3 e5 33. Rd7 Be6 34.
+Rc7 Ra3+ 35. Kf2 Rc3 36. Rxc3 bxc3 37. Rd3 Rc8 38. Ke3 Rc5 39. f4 f5 40. Bb7 e4
+41. Rd6 Kf7 42. Rc6 Rb5 43. Bc8 Bd5 44. Rxc3 Rb1 45. Kd4 Ba8 46. Rc5 e3 47.
+Kxe3 Re1+ 48. Kd4 Rg1 49. Ke5 Re1+ 50. Kd4 Re4+ 51. Kd3 Kf6 52. c4 Re1 53. Ba6
+Be4+ 54. Kc3 Rg1 55. Kd4 Rxg3 56. Bb5 Rd3# 0-1
+

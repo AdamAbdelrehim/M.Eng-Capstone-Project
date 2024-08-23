@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "AlexD64"]
+[Black "HiddenStrategist"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/rMRRdnvc"]
+[WhiteElo "2592"]
+[BlackElo "2484"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Berlin Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:17:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+18"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Nbd2 d6 6. c3 O-O 7. O-O Ne7 8. d4
+exd4 9. cxd4 Bb6 10. Re1 Bd7 11. Bd3 Nc6 12. Nb3 a5 13. a4 Nb4 14. h3 Re8 15.
+Bg5 h6 16. Bh4 Bc6 17. d5 Bd7 18. Nbd4 g5 19. Bg3 Nfxd5 20. Bc4 Qf6 21. Bxd5
+Nxd5 22. exd5 Rxe1+ 23. Qxe1 Bxd4 24. Nxd4 Qxd4 25. Qe7 Bxa4 26. Qxc7 Qxd5 27.
+Bxd6 Bc6 28. f3 Qd4+ 29. Kh2 Bxf3 30. gxf3 Qxb2+ 31. Kg3 Qxa1 32. Kg4 Qe1 33.
+Be5 Re8 34. Kf5 Qe3 35. f4 Qxh3+ 36. Kf6 Qe6# 0-1
+

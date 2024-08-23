@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "TsarBombaBoom"]
+[Black "FischyAnand"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/jsdQXVRZ"]
+[WhiteElo "2510"]
+[BlackElo "2346"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Bayonet Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:27:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-3"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. g4 Be4 5. f3 Bg6 6. e6 fxe6 7. h4 h5 8. Bd3 Bxd3
+9. Qxd3 e5 10. dxe5 e6 11. Bg5 Qc7 12. Qg6+ Qf7 13. Qxf7+ Kxf7 14. Nh3 Nd7 15.
+Bf4 Bb4+ 16. c3 Bc5 17. Nd2 Ke7 18. gxh5 Rf8 19. Bg5+ Ke8 20. Nf4 Rxf4 21. Bxf4
+Ne7 22. O-O-O Rxh5 23. Rde1 Nf5 24. Bg5 Kf7 25. Kc2 Rh8 26. Rh2 b5 27. f4 a5
+28. b3 Nb6 29. Kd3 a4 30. h5 d4 31. c4 bxc4+ 32. Nxc4 Nd5 33. Nd6+ Nxd6 34.
+exd6 axb3 35. axb3 Rb8 36. d7 Nf6 37. Bxf6 Kxf6 38. h6 Rxb3+ 39. Kc2 Rc3+ 40.
+Kb2 Ba3+ 41. Ka2 Be7 42. h7 d3 43. h8=Q Rc2+ 44. Rxc2 dxc2 45. d8=Q 1-0
+

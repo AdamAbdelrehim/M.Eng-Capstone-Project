@@ -1,0 +1,31 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "YoBot_v2"]
+[Black "RaspFish"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/AxkRk9pZ"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3045"]
+[BlackElo "3030"]
+[ECO "D85"]
+[Opening "Grünfeld Defense: Exchange Variation, Modern Exchange Variation"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "03:12:38"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 c5 8.
+Rb1 O-O 9. Be2 cxd4 10. cxd4 Qa5+ 11. Bd2 Qxa2 12. O-O Bg4 13. Be3 Nc6 14. d5
+Bxf3 15. Bxf3 Ne5 16. Be2 Nc4 17. Bf4 b5 18. Rxb5 Nd6 19. Rb4 a5 20. Ra4 Qb2
+21. Bc1 Qb7 22. Bf4 Qb2 23. Bg5 Rfe8 24. g3 Rab8 25. Bc1 Qb3 26. Bd2 Rec8 27.
+Qxb3 Rxb3 28. Rd1 Kf8 29. Bf1 Be5 30. f4 Bc3 31. Bxc3 Rcxc3 32. e5 Nb7 33. d6
+Rb4 34. Rxb4 axb4 35. Bg2 Nd8 36. dxe7+ Kxe7 37. Rb1 Rc4 38. Bf1 Rd4 39. Kf2
+Ne6 40. Ke3 h5 41. h4 f6 42. exf6+ Kxf6 43. Rb2 Rd1 44. Bd3 Nc5 45. Be2 Ra1 46.
+Rxb4 Ra3+ 47. Kf2 Nd3+ 48. Bxd3 Rxd3 49. Rb6+ Kg7 50. Rb7+ Kh6 51. Rb5 Ra3 52.
+Rg5 Rb3 53. Kg1 Rb2 54. Kf1 Ra2 55. Re5 Ra1+ 56. Kf2 Ra2+ 57. Re2 Rxe2+ 58.
+Kxe2 Kg7 59. g4 hxg4 60. Ke1 g3 61. Kf1 g2+ 62. Kxg2 Kf7 63. f5 Kf6 64. fxg6
+Kxg6 65. h5+ Kf5 66. h6 Kf6 67. h7 Kg7 68. h8=B+ 1/2-1/2
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sett5"]
+[Black "ArdianJashari"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/I5WS3uKv"]
+[BlackTitle "FM"]
+[WhiteElo "2538"]
+[BlackElo "2431"]
+[ECO "C57"]
+[Opening "Italian Game: Two Knights Defense, Fritz Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:51:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Nd4 6. Bb5+ Nxb5 7. c4 Nd4 8.
+O-O h6 9. Nf3 Bg4 10. Re1 Nxf3+ 11. gxf3 Bh5 12. Rxe5+ Be7 13. Nc3 Qd6 14. d4
+O-O 15. c5 Qd7 16. Qe2 Rfe8 17. Bf4 Bf8 18. Re1 Rxe5 19. Bxe5 Nxd5 20. Ne4 Re8
+21. Kh1 Qf5 0-1
+

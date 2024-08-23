@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "jhedigm"]
+[Black "cibona"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/O12m30Nr"]
+[WhiteTitle "FM"]
+[WhiteElo "2538"]
+[BlackElo "2519"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Kingside Fianchetto"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:44:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. Nf3 g6 2. g3 Bg7 3. Bg2 d5 4. O-O e5 5. d4 e4 6. Ne1 f5 7. e3 Nf6 8. c4 c6
+9. cxd5 cxd5 10. b3 O-O 11. Ba3 Re8 12. Nc3 b6 13. Nc2 Ba6 14. Re1 Nc6 15. Rc1
+Rc8 16. Qd2 Qd7 17. Nb4 Bf8 18. Nc2 Bxa3 19. Nxa3 Nb4 20. Nxe4 fxe4 21. Qxb4
+Qf5 22. Qd2 h5 23. Nc2 h4 24. Nb4 Bd3 25. Rxc8 Rxc8 26. Rc1 Rf8 27. h3 hxg3 28.
+fxg3 Qg5 29. g4 Nxg4 30. hxg4 Qxg4 31. Nxd3 exd3 32. Rf1 1-0
+

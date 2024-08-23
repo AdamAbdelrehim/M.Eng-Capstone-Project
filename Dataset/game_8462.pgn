@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Chess_Antistress"]
+[Black "drawingchest"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/mzjENIe9"]
+[BlackTitle "FM"]
+[WhiteElo "2540"]
+[BlackElo "2578"]
+[ECO "E91"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:59:38"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 a6 7. Be3 c6 8. Rc1 b5
+9. a3 Bb7 10. O-O Nfd7 11. d5 bxc4 12. Bxc4 Nb6 13. dxc6 Nxc6 14. Ba2 Rb8 15.
+b4 Ba8 16. Qe2 a5 17. b5 Ne5 18. Nxe5 Bxe5 19. Bxb6 Qxb6 20. a4 e6 21. Qd3 Rbc8
+22. Ne2 Bb7 23. Kh1 Rxc1 24. Rxc1 Qxf2 25. h3 Qh4 26. Bb1 f5 27. Qb3 d5 28.
+exf5 gxf5 29. Qe3 d4 30. Qxe5 Qxh3+ 31. Qh2 Bxg2+ 32. Kg1 Qe3+ 33. Kxg2 Qxe2+
+34. Kh1 Qxh2+ 35. Kxh2 e5 36. Kg3 Kg7 37. b6 Kf6 38. Rc6+ Kg5 39. b7 Rb8 40.
+Rb6 e4 41. Rb5 d3 42. Kf2 Kf4 43. Ke1 h5 44. Kf2 h4 45. Kg2 h3+ 46. Kxh3 Ke3
+47. Kg3 f4+ 48. Kg4 f3 49. Kg3 f2 50. Kg2 Ke2 51. Re5 f1=Q+ 0-1
+

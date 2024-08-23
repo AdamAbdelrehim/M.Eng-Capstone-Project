@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ChickaChick"]
+[Black "Skin_Ticket"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/QoVZaFuJ"]
+[WhiteElo "2639"]
+[BlackElo "2652"]
+[ECO "B51"]
+[Opening "Sicilian Defense: Moscow Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:46:25"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bd3 Ngf6 6. Re1 e6 7. c3 b5 8. a4
+c4 9. Bc2 Bb7 10. d3 cxd3 11. Qxd3 Nc5 12. Qe2 bxa4 13. e5 dxe5 14. Nxe5 Qd5
+15. f3 Bd6 16. Rd1 Qxe5 0-1
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Bierblitz"]
+[Black "Pukitis"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/HehNkVgY"]
+[WhiteElo "2564"]
+[BlackElo "2546"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:11:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. f4 d5 2. Nf3 Nf6 3. e3 g6 4. Be2 Bg7 5. O-O O-O 6. d3 c5 7. Qe1 Nc6 8. a4
+Rb8 9. Bd1 a6 10. a5 c4 11. dxc4 dxc4 12. e4 Nd4 13. e5 Nh5 14. Nc3 Bg4 15.
+Nxd4 Qxd4+ 16. Be3 Qd7 17. h3 Bxd1 18. Qxd1 Qc6 19. Qd5 Ng3 20. Rfd1 Qc8 21.
+Ba7 Ra8 22. Bb6 Bh6 23. Qf3 Nf5 24. g4 Nh4 25. Qf2 g5 26. f5 Qc6 27. Nd5 Rfe8
+28. Nc7 Bg7 29. Nxa8 Rxa8 30. f6 exf6 31. Rd6 Qe4 32. exf6 Bf8 33. Rd7 Nf3+ 34.
+Kf1 Ne5 35. Rd4 Qh1+ 36. Qg1 Qf3+ 37. Qf2 Qxh3+ 38. Qg2 Qe3 39. Re1 Qf3+ 40.
+Kg1 Qxg2+ 41. Kxg2 Nc6 42. Rd7 h5 43. Kf3 h4 44. Rxb7 Nb4 45. Rc7 Nxc2 46. Ree7
+Bxe7 47. fxe7 Re8 48. Rd7 Nb4 49. Rd8 f5 50. Rxe8+ Kf7 51. gxf5 Kf6 52. Rf8+
+Ke5 53. e8=Q+ Kd5 54. Qe4+ Kd6 55. Rd8# 1-0
+

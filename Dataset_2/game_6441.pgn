@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.17"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "MensaKorean"]
+[Result "0-1"]
+[CurrentPosition "rnb1k1nr/ppp2ppp/4p3/8/1b2q3/2N5/PPP1B1PP/R1BQK2R w KQkq -"]
+[Timezone "UTC"]
+[ECO "C01"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Perseus-Gambit-3...dxe4"]
+[UTCDate "2022.10.17"]
+[UTCTime "21:16:02"]
+[WhiteElo "1826"]
+[BlackElo "1972"]
+[TimeControl "600"]
+[Termination "MensaKorean won by resignation"]
+[StartTime "21:16:02"]
+[EndDate "2022.10.17"]
+[EndTime "21:17:46"]
+[Link "https://www.chess.com/game/live/59780399667"]
+
+1. e4 { [%clk 0:10:00] } 1... e6 { [%clk 0:09:46] } 2. d4 { [%clk 0:09:56.3] }
+2... d5 { [%clk 0:09:41.6] } 3. Nf3 { [%clk 0:09:55.8] } 3... dxe4
+{ [%clk 0:09:37.3] } 4. Nfd2 { [%clk 0:09:54] } 4... Qxd4 { [%clk 0:09:27.2] }
+5. Nc3 { [%clk 0:09:46.8] } 5... e3 { [%clk 0:09:21.1] } 6. fxe3
+{ [%clk 0:09:37.9] } 6... Qxe3+ { [%clk 0:09:14.2] } 7. Be2
+{ [%clk 0:09:36.3] } 7... Bb4 { [%clk 0:09:07.7] } 8. Nde4 { [%clk 0:09:25.7] }
+8... Qxe4 { [%clk 0:08:58.2] } 0-1
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/hovAVUIp"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Bobance"]
+[Black "licg"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/FGimvGl0"]
+[BlackTitle "IM"]
+[WhiteElo "2724"]
+[BlackElo "2639"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Accelerated London System, Steinitz Countergambit, Morris Countergambit Accepted"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:01:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. d4 d5 2. Bf4 c5 3. e4 dxe4 4. d5 Nf6 5. Nc3 a6 6. f3 exf3 7. Nxf3 b5 8. Qd2
+b4 9. Na4 Qxd5 10. Nb6 Qe4+ 11. Be2 Nbd7 12. Nxa8 Qxa8 13. O-O-O g6 14. Ne5 Bg7
+15. Bf3 Qa7 16. Bc6 O-O 17. Bxd7 Nh5 18. Bxc8 Rxc8 19. Qd8+ Rxd8 20. Rxd8+ Bf8
+21. Bh6 Ng7 22. Rhd1 f6 23. Rxf8+ 1-0
+

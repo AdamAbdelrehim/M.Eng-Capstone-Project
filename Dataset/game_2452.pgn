@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "DrMiniatura"]
+[Black "chesselite2023"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/9vsdy5ai"]
+[WhiteElo "2351"]
+[BlackElo "2527"]
+[ECO "D83"]
+[Opening "Grünfeld Defense: Brinckmann Attack, Grünfeld Gambit, Capablanca Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:27:47"]
+[Termination "Normal"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-13"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bf4 Bg7 5. e3 O-O 6. Rc1 c5 7. dxc5 Na6 8. cxd5
+Qa5 9. Bxa6 bxa6 10. Qd2 Rd8 11. e4 e5 12. Be3 Ng4 13. c6 f5 14. f3 Nxe3 15.
+Qxe3 Rb8 16. b3 Rb4 17. Nge2 fxe4 18. fxe4 Rf8 19. Rf1 Rxf1+ 20. Kxf1 Bg4 21.
+d6 Bxe2+ 22. Nxe2 Qxa2 23. c7 Rxb3 24. c8=Q+ 1-0
+

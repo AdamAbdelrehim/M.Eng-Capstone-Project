@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "tomo71hr"]
+[Black "Cf3paraCg1"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/kjgJaJ87"]
+[WhiteElo "2421"]
+[BlackElo "2601"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:52:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. c4 Bxc5 6. cxd5 exd5 7. Nc3 Ne7 8. Nf3
+Nbc6 9. Bd3 Bg4 10. Qa4 Bxf3 11. gxf3 O-O 12. f4 Ng6 13. Qb5 Bxf2+ 14. Kxf2
+Qh4+ 15. Ke2 Nd4+ 0-1
+

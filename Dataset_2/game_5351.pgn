@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.06.03"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Maher_85"]
+[Result "0-1"]
+[CurrentPosition "rn1qk2r/p2p1ppp/1pp1pn2/1Q6/3P4/2P1B3/P1P2P1P/R3K1NB w Qkq -"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Owens-Defense-2.d4-Bb7-3.Nc3-e6"]
+[UTCDate "2022.06.03"]
+[UTCTime "18:32:41"]
+[WhiteElo "1760"]
+[BlackElo "1856"]
+[TimeControl "600"]
+[Termination "Maher_85 won by resignation"]
+[StartTime "18:32:41"]
+[EndDate "2022.06.03"]
+[EndTime "18:33:58"]
+[Link "https://www.chess.com/game/live/48020331235"]
+
+1. e4 { [%clk 0:10:00] } 1... e6 { [%clk 0:10:00] } 2. d4 { [%clk 0:09:57.2] }
+2... b6 { [%clk 0:09:58.4] } 3. Nc3 { [%clk 0:09:51.8] } 3... Bb7
+{ [%clk 0:09:57.2] } 4. Be3 { [%clk 0:09:47.4] } 4... Bb4 { [%clk 0:09:55.2] }
+5. Qd3 { [%clk 0:09:39.9] } 5... Bxc3+ { [%clk 0:09:49.8] } 6. bxc3
+{ [%clk 0:09:38.4] } 6... Nf6 { [%clk 0:09:48.4] } 7. Be2 { [%clk 0:09:32.2] }
+7... Bxe4 { [%clk 0:09:43.5] } 8. Qb5 { [%clk 0:09:24.9] } 8... Bxg2
+{ [%clk 0:09:40] } 9. Bf3 { [%clk 0:09:22.4] } 9... Bxh1 { [%clk 0:09:38.4] }
+10. Bxh1 { [%clk 0:09:21] } 10... c6 { [%clk 0:09:37.4] } 0-1
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Caschmirr"]
+[Black "Shuvalov"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/mqP3ffgq"]
+[WhiteElo "2440"]
+[BlackElo "2502"]
+[ECO "C09"]
+[Opening "French Defense: Tarrasch Variation, Open System, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:14:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Ngf3 Nc6 6. Bb5 Qe7+ 7. Qe2 Qxe2+
+8. Bxe2 Bf5 9. c3 cxd4 10. Nxd4 Nxd4 11. cxd4 Bd6 12. Bf3 Ne7 13. Nf1 Be4 14.
+Nd2 f5 15. O-O Nc6 16. Bxe4 dxe4 17. Nc4 Bc7 18. d5 Nb4 19. d6 Bb6 20. Bg5 Kd7
+21. Ne5+ Ke6 22. Nc4 Bd8 23. Bd2 Nd3 24. Bc3 Rg8 25. f3 b5 26. Ne3 Bb6 27. Bd2
+f4 28. Rae1 Nxe1 29. Rxe1 Kxd6 30. fxe4 Ke6 31. Kf1 fxe3 32. Bxe3 0-1
+

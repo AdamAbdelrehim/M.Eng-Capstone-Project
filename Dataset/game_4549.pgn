@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Winquitter"]
+[Black "Skin_Ticket"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/tboqJ6OD"]
+[WhiteElo "2476"]
+[BlackElo "2626"]
+[ECO "A00"]
+[Opening "Barnes Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:22:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. f3 e5 2. d3 d5 3. g4 Qh4+ 4. Kd2 Nc6 5. c3 Be6 6. Kc2 e4 7. Nh3 h6 8. Bd2
+O-O-O 9. Bg2 exd3+ 10. exd3 d4 11. Re1 Bd6 12. c4 Bxh2 13. Rxe6 fxe6 14. Nf4
+Bxf4 15. Bxf4 e5 16. Bd2 Qf2 17. Qh1 Nb4+ 18. Kb3 Nxd3 19. f4 e4 20. Bxe4 Nc5+
+21. Ka3 Nxe4 22. Qxe4 Nf6 23. Qd3 Nxg4 24. Qf5+ Kb8 25. Qxg4 h5 26. Qh3 h4 27.
+f5 Qg3+ 28. Qxg3 hxg3 29. Be1 g2 30. Bf2 Rh1 31. b3 Rf1 0-1
+

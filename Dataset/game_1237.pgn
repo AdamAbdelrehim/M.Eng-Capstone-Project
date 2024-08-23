@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Jarakkk"]
+[Black "Aesio2005"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/oTTgyia5"]
+[WhiteElo "2645"]
+[BlackElo "2480"]
+[ECO "D17"]
+[Opening "Slav Defense: Czech Variation, Wiesbaden Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:59:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 dxc4 5. a4 Bf5 6. Ne5 e6 7. f3 Bb4 8. Nxc4
+O-O 9. Kf2 e5 10. Nxe5 Bc2 11. Qxc2 Qxd4+ 12. e3 Qxe5 13. Bd3 Nbd7 14. Bd2 Nc5
+15. Be2 Rad8 16. Rad1 Rd7 17. h3 Rfd8 18. Rhe1 Rxd2 19. Rxd2 Rxd2 20. Qxd2
+Nce4+ 21. fxe4 Nxe4+ 22. Nxe4 Bxd2 23. Nxd2 Qxb2 24. Nc4 Qb4 25. Rd1 g6 26. Rd7
+Qxa4 27. Rxb7 Qa1 28. Rd7 a5 29. Nd6 a4 30. Rxf7 a3 31. Bc4 Kh8 32. Ne8 Qb2+
+33. Kf3 Qb4 34. Nf6 Qxc4 35. Rxh7# 1-0
+

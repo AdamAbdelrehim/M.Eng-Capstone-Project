@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "sapphire_phoenix"]
+[Black "CIBA-Dr_Strange"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/yGDNpPmN"]
+[WhiteElo "2745"]
+[BlackElo "2617"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:54:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bd3 Nbd7 7. Be3 e6 8. a4
+Qc7 9. a5 b5 10. axb6 Nxb6 11. O-O Bb7 12. Qe2 Be7 13. Bxa6 O-O 14. Ndb5 Bxa6
+15. Rxa6 1-0
+

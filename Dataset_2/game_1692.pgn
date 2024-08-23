@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.01"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Akp276143"]
+[Result "0-1"]
+[CurrentPosition "rnbBk1nr/pp4p1/2pp3p/2b1p2q/4P2N/2NP4/PPPQ1PPP/R3K2R w KQ -"]
+[Timezone "UTC"]
+[ECO "C40"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-McConnell-Defense-3.Bc4"]
+[UTCDate "2021.08.01"]
+[UTCTime "03:37:43"]
+[WhiteElo "1529"]
+[BlackElo "1533"]
+[TimeControl "600"]
+[Termination "Akp276143 won by resignation"]
+[StartTime "03:37:43"]
+[EndDate "2021.08.01"]
+[EndTime "03:40:42"]
+[Link "https://www.chess.com/game/live/21527998401"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:59.9] } 2. Nf3
+{ [%clk 0:09:58.2] } 2... Qf6 { [%clk 0:09:58] } 3. Bc4 { [%clk 0:09:54.2] }
+3... Bc5 { [%clk 0:09:56.4] } 4. Nc3 { [%clk 0:09:52.7] } 4... c6
+{ [%clk 0:09:55] } 5. d3 { [%clk 0:09:39] } 5... d6 { [%clk 0:09:52.3] } 6. Bg5
+{ [%clk 0:09:34.9] } 6... Qg6 { [%clk 0:09:45.6] } 7. Qd2 { [%clk 0:08:59] }
+7... h6 { [%clk 0:09:31.9] } 8. Nh4 { [%clk 0:08:57.3] } 8... Qh5
+{ [%clk 0:09:23.8] } 9. Bxf7+ { [%clk 0:08:21] } 9... Kxf7 { [%clk 0:09:16.5] }
+10. Bd8 { [%clk 0:08:14.9] } 10... Ke8 { [%clk 0:09:11.4] } 0-1
+

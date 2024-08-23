@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Minhntq81"]
+[Black "Chess_diviner"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/6EnduWSi"]
+[BlackTitle "IM"]
+[WhiteElo "2527"]
+[BlackElo "2641"]
+[ECO "A00"]
+[Opening "Polish Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "06:01:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+4"]
+
+1. b4 e6 2. a3 Nf6 3. d4 b6 4. Nf3 Bb7 5. e3 c5 6. c3 Be7 7. Be2 O-O 8. O-O d5
+9. Nbd2 Nbd7 10. Re1 Rc8 11. Bb2 h6 12. h3 Qc7 13. Bf1 Qb8 14. Rc1 Rfd8 15. Bd3
+cxb4 16. c4 bxa3 17. Ba1 Bb4 18. Qa4 a5 19. Red1 dxc4 20. Nxc4 Bxf3 21. gxf3 b5
+0-1
+

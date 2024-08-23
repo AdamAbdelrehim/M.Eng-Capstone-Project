@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "xiaochess"]
+[Black "amourmonstre"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/6itvuNI8"]
+[WhiteElo "2841"]
+[BlackElo "2675"]
+[ECO "A47"]
+[Opening "Marienbad System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:45:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 c5 5. dxc5 bxc5 6. O-O g6 7. Re1 Bg7 8. e4
+d6 9. e5 dxe5 10. Nxe5 Qxd1 11. Rxd1 Bxg2 12. Kxg2 Nbd7 13. Nxd7 Nxd7 14. c3
+O-O-O 15. Na3 Ne5 16. Be3 Nd3 17. Nc4 Kb7 18. Rd2 e5 19. f3 f5 20. Rad1 e4 21.
+h4 Bf6 22. Bg5 Bxg5 23. hxg5 Kc7 24. b3 h5 25. gxh6 Rxh6 26. fxe4 fxe4 27. Ne5
+Rdh8 28. Ng4 Rh5 29. Re2 Ne5 30. Rxe4 Nxg4 31. Rxg4 Rh2+ 32. Kf3 Rf8+ 33. Ke3
+Rxa2 34. Rxg6 Ra3 35. Rd5 Rxb3 36. Rxc5+ Kb8 37. g4 a5 38. Ra6 Re8+ 39. Kd3 Rg8
+40. g5 Rb1 41. Raxa5 Rg1 42. Rab5+ Ka7 43. Kc4 Rg6 44. Rf5 Rg4+ 45. Kb3 Rg3 46.
+Kb4 Rg1 47. Rf7+ Ka6 48. Rff5 Ka7 49. c4 Rg4 50. Rbe5 Kb6 51. Rf6+ Rxf6 52.
+gxf6 Rf4 53. Re6+ Kc7 54. Kc5 Kd7 55. Re7+ Kd8 56. Re6 Kd7 57. Rd6+ Kc7 58. Ra6
+Rf5+ 59. Kd4 Rf4+ 60. Ke5 Rxc4 61. f7 1-0
+

@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.08"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "ClassifiedKing"]
+[Result "0-1"]
+[CurrentPosition "r2qkbnr/ppp2ppp/2npP3/8/2b1P3/5N2/PPP2PPP/RNBQK2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-3...d6-4.d4"]
+[UTCDate "2023.07.08"]
+[UTCTime "07:22:32"]
+[WhiteElo "1669"]
+[BlackElo "1686"]
+[TimeControl "60"]
+[Termination "ClassifiedKing won by resignation"]
+[StartTime "07:22:32"]
+[EndDate "2023.07.08"]
+[EndTime "07:22:43"]
+[Link "https://www.chess.com/game/live/82539724541"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.5] }
+2... Nc6 { [%clk 0:00:59.4] } 3. Bc4 { [%clk 0:00:59.1] } 3... d6
+{ [%clk 0:00:58.8] } 4. d4 { [%clk 0:00:59] } 4... Be6 { [%clk 0:00:57.7] } 5.
+dxe5 { [%clk 0:00:58.2] } 5... Bxc4 { [%clk 0:00:56.9] } 6. e6
+{ [%clk 0:00:57.5] } 0-1
+

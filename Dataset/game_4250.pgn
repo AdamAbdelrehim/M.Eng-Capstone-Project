@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Kyojuro-rengoku1"]
+[Black "ChessOKRU"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/q1T2DO2v"]
+[BlackTitle "NM"]
+[WhiteElo "2586"]
+[BlackElo "2529"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:41:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+6"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. Be3 O-O 7. Qd2 Re8 8.
+f3 d5 9. O-O-O c5 10. Ndb5 a6 0-1
+

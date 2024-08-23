@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "MarioVillanueva"]
+[Black "Ajedrezactivo"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/cRvWO1gR"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2660"]
+[BlackElo "2853"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:38:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bg4 4. d4 e6 5. c3 c5 6. dxc5 Bxf3 7. Qxf3 Bxc5 8. Qg3
+Kf8 9. Bd3 Nc6 10. O-O Nge7 11. b4 Bb6 12. b5 Na5 13. Ba3 Rc8 14. Rd1 h5 15. h4
+Nc4 16. Bb4 Kg8 17. Nd2 Nb2 18. Re1 Nxd3 19. Qxd3 Nf5 20. g3 g5 21. hxg5 Qxg5
+22. Nf3 Qxg3+ 0-1
+

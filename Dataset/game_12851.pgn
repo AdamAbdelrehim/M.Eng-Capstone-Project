@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "PurpleHunter"]
+[Black "AKS-Mantissa"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/uVjLeMqE"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2604"]
+[BlackElo "2726"]
+[ECO "B19"]
+[Opening "Caro-Kann Defense: Classical Variation, Spassky Variation"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:23:25"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. Nf3 Nd7 8. h5
+Bh7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bf4 Ngf6 12. O-O-O Be7 13. Kb1 O-O 14. Ne4 Qb6
+15. Ne5 Rad8 16. Nxf6+ Nxf6 17. Qg3 Kh8 18. c3 Nd5 19. Bc1 c5 20. c4 Nf6 21.
+dxc5 Bxc5 22. Rxd8 Qxd8 23. f3 Qd6 24. a3 Qb6 25. f4 Qc7 26. Rd1 Kg8 27. Qf3
+Bd6 28. Qe2 a6 29. b3 b5 30. g3 bxc4 31. Nxc4 Be7 32. Bb2 Rb8 33. Ka2 Rb5 34.
+Rd3 Qc6 35. Ne5 Qb7 36. Qf2 Ra5 37. Qd2 Rc5 38. g4 Qc8 39. b4 Rc7 40. Rc3 Bd8
+41. Rc5 Be7 42. Rxc7 Qxc7 43. Kb3 Qb7 44. Qd3 Ne4 45. Ka4 Bd6 46. g5 a5 47. Qb5
+Qxb5+ 48. Kxb5 axb4 49. axb4 hxg5 50. fxg5 Nxg5 51. Nc4 Bxb4 52. Kxb4 Kh7 53.
+Nd6 Kh6 54. Ne8 f6 55. Kc4 e5 56. Kd5 Kxh5 57. Nxg7+ Kg6 58. Bxe5 fxe5 59. Kxe5
+Kxg7 1/2-1/2
+

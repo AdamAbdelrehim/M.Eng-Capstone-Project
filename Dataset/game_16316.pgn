@@ -1,0 +1,32 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "YoBot_v2"]
+[Black "Hoon_Bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/vKIDRRq3"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3044"]
+[BlackElo "2896"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Englund Gambit"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "01:00:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+
+1. d4 e5 2. dxe5 Qe7 3. Nf3 Nc6 4. Bf4 Qb4+ 5. Bd2 Qxb2 6. Nc3 Bb4 7. Rb1 Qxc3
+8. Bxc3 Bxc3+ 9. Nd2 Bxe5 10. e4 d6 11. Bb5 Ne7 12. a4 a6 13. Bc4 O-O 14. O-O
+Bf4 15. Nf3 b6 16. Qd3 Bb7 17. Rbd1 h6 18. h4 Rad8 19. Rfe1 Bc8 20. g3 Be5 21.
+Nxe5 dxe5 22. Qf1 Nd4 23. f3 Rde8 24. c3 Ne6 25. a5 Nc5 26. axb6 cxb6 27. Qe2
+Na4 28. Rc1 Nc5 29. Rcd1 Na4 30. Rc1 Nc5 31. Qb2 b5 32. Qa3 Nxe4 33. Rxe4 bxc4
+34. Rxe5 Be6 35. Rd1 Nf5 36. Qc5 Rc8 37. Qf2 Ne7 38. Qe2 Rcd8 39. Kf2 Rfe8 40.
+g4 Rxd1 41. Qxd1 Ng6 42. Re4 Nf8 43. Re3 Ng6 44. Qd6 Ne7 45. f4 Nd5 46. Qxd5
+Bxd5 47. Rxe8+ Kh7 48. Re7 g6 49. Re5 Bc6 50. Rc5 Bd7 51. Kg3 Kg7 52. Rxc4 h5
+53. gxh5 gxh5 54. Rc7 Bf5 55. Rc5 Bc2 56. Kf2 Be4 57. Ke3 Bc2 58. c4 Bd1 59.
+Rg5+ Kf6 60. Ra5 Bg4 61. Rxa6+ Ke7 62. c5 f6 63. Rd6 1-0
+

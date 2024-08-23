@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "DrLaPompa"]
+[Black "matrix12345"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Vgo405IZ"]
+[BlackTitle "FM"]
+[WhiteElo "2479"]
+[BlackElo "2612"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Wing Gambit, Carlsbad Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:09:34"]
+[Termination "Normal"]
+[WhiteRatingDiff "+16"]
+[BlackRatingDiff "-8"]
+
+1. e4 c5 2. b4 cxb4 3. a3 bxa3 4. d4 d5 5. e5 Bf5 6. Bd3 Bxd3 7. Qxd3 e6 8. f4
+Nh6 9. Nf3 Nf5 10. O-O Be7 11. g4 Nh6 12. h3 Ng8 13. f5 Nc6 14. c3 Qd7 15. Nxa3
+a6 16. Nb5 O-O-O 17. fxe6 fxe6 18. Nd6+ Bxd6 19. exd6 Qxd6 20. Ne5 Nxe5 21.
+dxe5 Qc5+ 22. Be3 Qc4 23. Qb1 Ne7 24. Qb6 Qc6 25. Qa7 Qd7 26. Rfb1 Nc6 27. Qa8+
+Nb8 28. Rxa6 Qc7 29. Rab6 Rd7 30. Rd6 Rhd8 31. Bb6 Qxc3 32. Bxd8 Qg3+ 33. Kh1
+Qxh3+ 34. Kg1 Qxg4+ 35. Kh1 Qf3+ 36. Kh2 Qf2+ 37. Kh3 Qf5+ 38. Kh2 Qxb1 39.
+Rxd7 Qf5 40. Rc7+ Kxd8 41. Qxb8# 1-0
+

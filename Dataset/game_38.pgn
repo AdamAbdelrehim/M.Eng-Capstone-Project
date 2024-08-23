@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Ahmed-abdelsattar"]
+[Black "willycasanova"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/TN8beRTS"]
+[WhiteElo "2445"]
+[BlackElo "2554"]
+[ECO "B87"]
+[Opening "Sicilian Defense: Sozin Attack, Flank Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "00:13:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. Bg5
+Be7 9. Qf3 Qc7 10. O-O-O Nbd7 11. Rhe1 Nc5 12. Nf5 exf5 13. Bxf6 fxe4 14. Nxe4
+gxf6 15. Nxf6+ Kd8 16. Rxe7 Qxe7 17. Qxa8 Qxf6 18. Qc6 Bd7 19. Rxd6 Qf4+ 20.
+Kb1 Ke7 21. Qxc5 Qxd6 22. Qe3+ Be6 23. a4 bxa4 24. Bxa4 Qd1+ 0-1
+

@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Hoon_Bot"]
+[Black "AKS-Mantissa"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/wPEkydRg"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2885"]
+[BlackElo "2746"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Berlin Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:12:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+
+1. e4 e5 2. Bc4 Nf6 3. Qf3 c6 4. Nc3 b5 5. Bb3 a5 6. a3 Bc5 7. Qg3 O-O 8. d3 d6
+9. Nf3 Nh5 10. Qg5 Qxg5 11. Bxg5 Na6 12. h3 h6 13. Bd2 Nf6 14. g4 Nc7 15. Be3
+Nd7 16. O-O Bxe3 17. fxe3 g6 18. Kf2 Kg7 19. Kg3 f6 20. h4 Nc5 21. d4 Nxb3 22.
+cxb3 Bb7 23. h5 g5 24. Rfd1 Rfd8 25. Rac1 c5 26. dxc5 dxc5 27. Nd2 Bc6 28. a4
+Rd3 29. Kf3 Rad8 30. Ke2 Bb7 31. Ncb1 R3d7 32. axb5 Nxb5 33. Rxc5 Ba6 34. Re1
+Rd3 35. Rec1 Kg8 36. Nc4 Rxb3 37. Nbd2 Rbd3 38. Nf1 Rb3 39. Nfd2 Rbd3 40. Nf1
+Rb3 41. Rc6 Bc8 42. Ke1 Bxg4 43. Rxf6 Rc8 44. Nfd2 Rxe3+ 45. Nxe3 Rxc1+ 46. Kf2
+Bxh5 47. Rxh6 Bf7 48. Ra6 Ra1 49. Ng4 Ra2 50. Ke3 Rxb2 51. Nxe5 Bh5 52. Rxa5
+Nd6 53. Nd3 Rb5 54. Ra6 Nf7 55. Ra8+ Kg7 56. Ra7 Kh6 57. Ra6+ Kg7 58. Nc4 Rb8
+59. Nc5 Rb1 60. Nd3 Rb8 61. Nc5 Rb1 62. Ne6+ Kh7 63. Nf8+ Kg7 64. Ne6+ Kh7 65.
+Ra5 Kh6 66. Nd4 Re1+ 67. Kd3 Bg6 68. Ne3 Nd6 69. Ra6 Nxe4 70. Ndf5+ Kh5 71.
+Ng7+ Kh6 72. Ngf5+ Kh5 73. Ng7+ Kh6 74. Ngf5+ 1/2-1/2
+

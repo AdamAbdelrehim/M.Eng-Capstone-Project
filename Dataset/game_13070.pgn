@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "DonkinDonat"]
+[Black "viento-de_poniente"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/uaOrxEgd"]
+[WhiteElo "2659"]
+[BlackElo "2408"]
+[ECO "A10"]
+[Opening "English Opening: Anglo-Dutch Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:53:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+9"]
+
+1. c4 f5 2. Nf3 Nf6 3. d3 d6 4. e3 e5 5. a3 a5 6. Nc3 Be7 7. Be2 O-O 8. Qc2 c6
+9. Bd2 Be6 10. h3 Kh8 11. g4 Qd7 12. Ng5 Bg8 13. O-O-O b5 14. gxf5 Qxf5 15. h4
+bxc4 16. e4 Qd7 17. dxc4 Na6 18. Be3 Qc7 19. f4 exf4 20. Bxf4 Nc5 21. Kb1 Rab8
+22. h5 h6 23. Nf3 Bh7 24. Rd4 Nfxe4 25. Nxe4 Rxf4 26. Nfd2 Bf6 0-1
+

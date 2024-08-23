@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "betheking"]
+[Black "ekfj4cxjx8vkco0acjx2"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/GgjMcrM4"]
+[WhiteTitle "GM"]
+[WhiteElo "2733"]
+[BlackElo "2806"]
+[ECO "A50"]
+[Opening "Mexican Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "23:30:34"]
+[Termination "Normal"]
+[WhiteRatingDiff "-13"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 Nc6 3. Nf3 d6 4. Nc3 e5 5. d5 Ne7 6. e4 Ng6 7. g3 Be7 8. Bg2
+O-O 9. O-O h6 10. Rb1 a5 11. a3 Nh7 12. b4 Ng5 13. Nxg5 Bxg5 14. c5 Bxc1 15.
+Qxc1 axb4 16. axb4 f5 17. exf5 Bxf5 18. Ne4 Qd7 19. b5 Ra4 20. Re1 Qf7 21. Rb2
+Bxe4 22. Bxe4 Ne7 23. b6 cxb6 24. cxd6 Nxd5 25. Rd1 Rxe4 26. Qc2 Rd4 27. Rxd4
+exd4 28. Qe4 Rd8 29. Rc2 d3 30. Rd2 Rxd6 31. Qxd3 Rd7 32. Rc2 g6 33. Rc8+ Kg7
+34. Qe2 Nf6 35. h4 Qd5 36. Kh2 h5 37. Rc1 Rf7 38. f3 Qf5 39. Rf1 Qc5 40. Qb2
+Re7 41. Kh1 Qc4 42. Rc1 Qe2 43. Qc3 Qf2 44. Rg1 Re2 45. Qc7+ Kh6 46. Qf4+ Kg7
+47. Qc7+ Kf8 48. Qc8+ Ne8 49. Qh3 Qxf3+ 50. Rg2 Qxg2+ 51. Qxg2 Rxg2 52. Kxg2 b5
+53. Kf3 b4 54. Ke3 b3 55. Kd2 Nf6 56. Kc3 Ne4+ 57. Kxb3 Nxg3 58. Kc4 Nf5 59.
+Kb5 Nxh4 60. Kb6 Nf5 61. Kxb7 h4 62. Kc6 h3 63. Kd5 h2 64. Ke5 h1=Q 65. Kf6 Qc1
+66. Kxg6 Ng3 67. Kh7 Nf1 68. Kg6 Ke7 69. Kh5 Qc4 70. Kg5 Qe4 71. Kh6 Qf5 72.
+Kg7 Qf6+ 73. Kg8 Ke6 74. Kh7 Qg5 75. Kh8 Kf7 76. Kh7 Qg7# 0-1
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Bierblitz"]
+[Black "Masterasasin"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/9xiJESG3"]
+[WhiteElo "2570"]
+[BlackElo "2551"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:07:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. f4 g6 2. Nf3 Bg7 3. e4 d5 4. e5 c5 5. d4 cxd4 6. Nxd4 e6 7. Nb5 Bf8 8. Bd3
+a6 9. Nd6+ Bxd6 10. exd6 Qxd6 11. O-O Nc6 12. b3 Nge7 13. Bb2 O-O 14. Nd2 b6
+15. a4 Bb7 16. Nf3 Nf5 17. Qe1 Nb4 18. g4 Qc5+ 19. Kh1 Ne3 20. Bd4 Nbxc2 21.
+Qxe3 Nxe3 22. Bxc5 bxc5 0-1
+

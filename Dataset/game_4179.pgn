@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "GUNNE_USER"]
+[Black "YCAW"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/RL3j9gnt"]
+[WhiteTitle "FM"]
+[WhiteElo "2572"]
+[BlackElo "2442"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:30:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+
+1. d4 d5 2. Nf3 c6 3. Bg5 Qb6 4. Qc1 Bg4 5. e3 Bxf3 6. gxf3 Nd7 7. Bd3 e6 8.
+Nd2 Be7 9. Rg1 Bxg5 10. Rxg5 g6 11. h4 Ngf6 12. f4 c5 13. dxc5 Nxc5 14. Nb3 Rc8
+15. Nxc5 Qxc5 16. Qd2 O-O 17. O-O-O Rfd8 18. Rdg1 Kf8 19. Kb1 a6 20. Qe2 Rd6
+21. h5 Rb6 22. hxg6 hxg6 23. b3 a5 24. Bxg6 a4 25. Bd3 axb3 26. cxb3 Qc3 27.
+Qc2 Qxc2+ 28. Bxc2 Rbc6 29. Bd3 Ke7 30. Rd1 Nd7 31. Rgg1 Nc5 32. Rd2 R6c7 33.
+Rc1 Rc6 34. Bb5 R6c7 35. Rdc2 Kd6 36. f3 b6 37. e4 dxe4 38. Rd1+ Ke7 39. fxe4
+Nxe4 40. Rxc7+ Rxc7 41. Kb2 Nc3 42. Be2 Nxd1+ 43. Bxd1 Rd7 44. Bc2 Rd4 45. a4
+Rxf4 46. Kc3 Kd6 47. b4 e5 48. Bd3 f5 49. a5 bxa5 50. bxa5 Rf3 51. Kd2 Rxd3+
+52. Kxd3 Kc6 53. Ke3 Kb5 54. Kd3 Kxa5 55. Kc4 Kb6 56. Kd5 e4 57. Kd4 Kc6 58.
+Ke3 Kd5 59. Kf4 Kd4 60. Kxf5 e3 61. Kf4 e2 62. Kf5 e1=Q 63. Kf6 Qe5+ 64. Kg6
+Ke4 65. Kf7 Qd6 66. Kg7 Kf5 67. Kf7 Qd7+ 68. Kg8 Kg6 69. Kh8 Qg7# 0-1
+

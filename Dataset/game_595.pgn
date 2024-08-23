@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "drawingchest"]
+[Black "Levonal"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/54hylssF"]
+[WhiteTitle "FM"]
+[WhiteElo "2591"]
+[BlackElo "2650"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Wade Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "03:38:53"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Bd7 6. Bd3 cxd4 7. O-O Bb5 8. Bxb5+
+Qxb5 9. Nxd4 Qd7 10. Nd2 Nc6 11. N2f3 Nge7 12. h4 h6 13. h5 Nxd4 14. cxd4 Rc8
+15. Nh4 Nf5 16. Nxf5 exf5 17. Qf3 Bb4 18. Qg3 Kf8 19. Bf4 Kg8 20. a3 Ba5 21.
+Rac1 Kh7 22. Qd3 g6 23. hxg6+ fxg6 24. Qh3 h5 25. Bg5 Rxc1 26. Rxc1 Rc8 27.
+Rxc8 Qxc8 28. Qb3 Qc6 29. Kh2 Bb6 30. Qb4 Qe6 31. Bf6 Kg8 32. Qc3 Kf7 33. a4
+Qc6 34. Qb4 Qd7 35. a5 Bc7 36. f4 b6 37. a6 h4 38. Qc3 Ke6 39. Bxh4 Qh7 40. Qh3
+Kd7 41. Bf6 Qxh3+ 42. Kxh3 Kc6 43. Kh4 Kb5 44. Kg5 Kxa6 45. Kxg6 Kb5 46. Kxf5
+Kc6 47. Ke6 b5 48. f5 a6 49. Be7 a5 50. Bc5 b4 51. f6 Bd8 52. f7 Be7 53. Bxe7
+a4 0-1
+

@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "blueberry_pancakes"]
+[Black "Goldenpawn1211"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/T31Scouf"]
+[WhiteElo "2468"]
+[BlackElo "2614"]
+[ECO "A40"]
+[Opening "Englund Gambit Complex: Stockholm Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "01:02:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+3"]
+
+1. d4 e5 2. dxe5 Nc6 3. Nf3 Qe7 4. Qd5 b6 5. Nc3 Bb7 6. Bg5 f6 7. exf6 gxf6 8.
+Bf4 O-O-O 9. Qb3 Bh6 10. Bxh6 Nxh6 11. e3 Ne5 12. Be2 Rhg8 13. Nxe5 fxe5 14.
+Rg1 Rxg2 15. Rxg2 Bxg2 16. O-O-O Bb7 17. Nd5 Qh4 18. Qc4 Qxc4 19. Bxc4 Rf8 20.
+f4 b5 21. Bb3 exf4 22. Nxf4 Ng4 23. Re1 c5 24. Bd5 Nxe3 25. Bxb7+ Kxb7 26. Rxe3
+Rxf4 27. Re7 Rf1+ 28. Kd2 Rf2+ 29. Kd3 Rxh2 30. Rxd7+ Kb6 31. b3 a6 32. Kc3 h5
+33. Rd6+ Kb7 34. Rh6 h4 35. a4 h3 36. axb5 axb5 37. b4 cxb4+ 38. Kxb4 Rh1 39.
+Kxb5 h2 40. Kc5 Kc7 41. c4 Kd7 42. Rh7+ Ke6 43. Kc6 Rc1 44. Rxh2 Rxc4+ 45. Kb5
+Rc1 46. Rh6+ Kd5 47. Rh2 Rb1+ 48. Ka4 Kc4 49. Ka3 Kc3 50. Ka2 Rb8 51. Rh3+ Kd4
+52. Rh4+ Kd3 53. Rh3+ Kc4 54. Rh2 Rf8 55. Kb1 Kc3 56. Rh3+ Kb4 57. Rh2 Rf3 58.
+Rb2+ Kc3 59. Rc2+ Kd3 60. Rc1 Rf2 61. Rc6 Rf5 62. Kb2 Ra5 63. Rd6+ Kc4 64. Rb6
+Ra4 65. Rb3 Ra8 66. Rc3+ Kd4 67. Rb3 Re8 68. Ra3 Re2+ 69. Kb3 Kc5 70. Ka4 Kc4
+71. Rb3 Ra2+ 72. Ra3 Rh2 73. Rb3 Rh8 74. Ra3 Ra8# 0-1
+

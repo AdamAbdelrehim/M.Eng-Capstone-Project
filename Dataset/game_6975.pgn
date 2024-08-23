@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "shaheus"]
+[Black "ChessValkyrie"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/6BKZvFMC"]
+[WhiteTitle "FM"]
+[WhiteElo "2369"]
+[BlackElo "2503"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:57:15"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 Nc6 3. c3 Nf6 4. e5 Nd5 5. d4 cxd4 6. cxd4 d6 7. Bc4 Nb6 8.
+Bxf7+ Kxf7 9. e6+ Bxe6 10. Ng5+ Kf6 11. Nc3 d5 12. Qf3+ Bf5 13. Be3 h5 14. h3
+Nxd4 15. Bxd4+ Kxg5 16. O-O-O e6 17. g4 hxg4 18. hxg4 Rxh1 19. Rxh1 Bxg4 20.
+Be3+ Kg6 21. Qxg4+ Kf7 22. Qh5+ Kg8 23. Bd4 Qe8 24. Qh7+ Kf7 25. Rg1 e5 0-1
+

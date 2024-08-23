@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "leopslr"]
+[Black "frisby_super"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/2tVjWYJa"]
+[WhiteTitle "FM"]
+[WhiteElo "2556"]
+[BlackElo "2472"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation, Boleslavsky Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:03:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 Nc6 7. Be3 cxd4 8. Nxd4
+Bc5 9. Na4 Qa5+ 10. c3 Bxd4 11. Bxd4 Nxd4 12. b4 O-O 13. bxa5 1-0
+

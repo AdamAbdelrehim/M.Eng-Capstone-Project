@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "NeverEnoughPawns"]
+[Black "toosz17"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/sKZCLo6Z"]
+[WhiteElo "2560"]
+[BlackElo "2496"]
+[ECO "E33"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Milner-Barry Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:01:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 Nc6 5. Nf3 d6 6. Bd2 O-O 7. e4 e5 8. d5
+Nb8 9. Bd3 Nbd7 10. a3 Bxc3 11. Bxc3 a5 12. b4 axb4 13. axb4 Rxa1+ 14. Bxa1 c5
+15. dxc6 bxc6 16. O-O Bb7 17. Rd1 c5 18. b5 Qb6 19. Bc3 Ra8 20. Nd2 Nf8 21. f4
+Ng4 22. fxe5 Ne3 23. Qc1 Nxd1 24. Qxd1 dxe5 25. Bxe5 Rd8 26. Qe2 Ng6 27. Bg3
+Qf6 28. Nf3 Qa1+ 29. Qe1 Qa3 30. Bf1 Qb3 31. e5 Bxf3 32. gxf3 Qxf3 33. e6 fxe6
+34. Qxe6+ Kh8 35. Be2 Qf8 36. b6 Re8 37. Qg4 Qe7 38. Bf3 Ne5 39. Bxe5 Qxe5 40.
+b7 g6 41. Qe4 Qa1+ 42. Kg2 Qb2+ 43. Kg3 Rxe4 44. Bxe4 Kg7 45. Bd5 Kf6 46. Kf4
+Qd4+ 47. Kf3 Qe5 48. h3 Qb8 49. h4 Ke5 50. Kg4 h6 51. h5 g5 52. Bf7 Qxb7 53.
+Bd5 Qd7+ 54. Kf3 Qf5+ 55. Ke3 Qf4+ 56. Kd3 Qd4+ 57. Kc2 Qxd5 58. Kb3 Qxc4+ 59.
+Kxc4 Kf4 60. Kxc5 g4 61. Kd4 g3 62. Kd3 g2 63. Kd4 g1=Q+ 64. Kd5 Qg5+ 65. Ke6
+Qxh5 66. Ke7 Qg4 67. Kf7 h5 68. Kf6 h4 69. Kf7 h3 70. Kf6 h2 71. Kf7 h1=Q 72.
+Kf6 Qh6+ 73. Kf7 Qgg7+ 74. Ke8 Qhh8# 0-1
+

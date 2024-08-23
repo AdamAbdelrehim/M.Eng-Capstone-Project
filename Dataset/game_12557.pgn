@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "str_ga"]
+[Black "Sheeshi123"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/fYBICXJE"]
+[WhiteElo "2353"]
+[BlackElo "2532"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:42:47"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 b5 6. cxb5 Nxd5 7. Bd2 a6 8. e4
+Nxc3 9. bxc3 Ba5 10. Nh3 O-O 11. Nf2 d5 12. c4 axb5 13. cxd5 c4 14. dxe6 Bxe6
+15. Be2 c3 16. O-O cxd2 17. Bxb5 Nd7 18. Nd3 Qb6+ 0-1
+

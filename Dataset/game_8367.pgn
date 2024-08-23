@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "melgabry"]
+[Black "Mginsburg"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/v2DxMGxx"]
+[BlackTitle "IM"]
+[WhiteElo "2490"]
+[BlackElo "2520"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:23:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. b3 d5 2. Bb2 Nf6 3. e3 a6 4. Nf3 c5 5. d4 Nc6 6. Ba3 cxd4 7. exd4 Bg4 8. Be2
+Qa5+ 9. c3 g6 10. O-O Bg7 11. h3 Bxf3 12. Bxf3 O-O 13. Qd3 Rfe8 14. Bb2 e5 15.
+Qd2 Rad8 16. Na3 exd4 17. Nc2 Ne4 18. Bxe4 dxe4 19. b4 dxc3 20. Qe1 Qa4 21.
+Bxc3 Qxc2 22. Bxg7 Kxg7 23. a4 Qd3 24. b5 Nd4 25. bxa6 Qxa6 26. Qc3 Kg8 27. Qb2
+Nf5 28. Rfe1 e3 29. fxe3 Nxe3 30. Qf2 Nf5 31. Rf1 Qe2 32. Qf4 Qe3+ 33. Qxe3
+Rxe3 34. Rab1 Rd7 35. Rb4 Re2 36. Rfb1 Rdd2 37. Rg4 Ne3 38. Rg3 Rxg2+ 39. Rxg2
+Rxg2+ 40. Kh1 Ra2 41. Rxb7 Rxa4 42. Rb3 Nf5 43. Kg2 h5 44. Rd3 h4 45. Kf3 Kg7
+46. Rb3 g5 47. Rd3 Kg6 48. Rc3 f6 49. Rd3 Rf4+ 50. Kg2 Nd4 51. Ra3 Re4 52. Ra8
+Re2+ 53. Kf1 Rh2 54. Kg1 Rxh3 55. Kg2 Rg3+ 56. Kh1 g4 57. Rg8+ Kf5 58. Rh8 Rh3+
+59. Kg2 Ne6 60. Rh5+ Kg6 61. Rh8 Nf4+ 62. Kg1 Rg3+ 63. Kh2 Kg5 64. Rg8+ Ng6 65.
+Ra8 Rf3 66. Ra2 f5 67. Kg2 h3+ 68. Kh2 Nf4 69. Ra1 Rf2+ 70. Kh1 g3 71. Rg1 Rh2#
+0-1
+

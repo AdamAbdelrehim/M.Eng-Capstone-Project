@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ilprofessore87"]
+[Black "the_vengeful_one"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/7C4vz0fp"]
+[WhiteElo "2535"]
+[BlackElo "2538"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Open"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:46:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Qc7 6. Ndb5 Qb8 7. Nd5 Nxd5
+8. exd5 a6 9. Nc3 Qe5+ 10. Be2 Nd4 11. Be3 Nxe2 12. Qxe2 g6 13. O-O-O Bg7 14.
+Qf3 Qf5 15. Qxf5 gxf5 16. Bd4 Bh6+ 17. Kb1 Rg8 18. g3 b5 19. Rhe1 d6 20. Bf6
+Bf8 21. Bh4 Rg4 22. Ne2 Ra7 23. Nd4 Rc7 24. f3 Rxh4 25. gxh4 Bg7 26. Rg1 Kf8
+27. Rg5 Bf6 28. Rh5 Rc4 29. Nxf5 Rf4 30. Ng3 Rxf3 31. Ne4 Bg7 32. Rg5 Bf5 33.
+Ng3 Bh3 34. Nh5 Bd4 35. Rg3 Rxg3 36. hxg3 Be5 37. Nf4 Bg4 38. Kc1 Bxd1 39. Kxd1
+Kg7 40. b3 Kf6 41. Ne2 Kf5 42. Kd2 Ke4 43. c4 bxc4 44. bxc4 f5 45. a4 a5 46.
+Kc2 Ke3 47. Nc3 Kd4 48. Nb5+ Kxc4 49. Nc7 Bxg3 50. Ne6 Bxh4 51. Ng7 Bf6 52.
+Nxf5 Kxd5 53. Ng3 Be5 54. Ne2 h5 55. Nc1 h4 56. Nd3 h3 57. Ne1 Ke4 58. Nf3 Kxf3
+59. Kd3 h2 60. Kc4 h1=Q 61. Kb5 Qc1 62. Ka6 Ke4 63. Ka7 Kd5 64. Ka6 Kc6 65. Ka7
+Qb2 66. Ka8 Qb7# 0-1
+

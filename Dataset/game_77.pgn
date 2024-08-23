@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "NothingSpecialBTW"]
+[Black "toilet_seat_chess"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ANecDDeX"]
+[WhiteElo "2505"]
+[BlackElo "2389"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "00:26:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 b6 5. a4 Qd7 6. a5 Ba6 7. Bxa6 Nxa6 8. axb6
+axb6 9. Qe2 c4 10. b4 Nc7 11. Rxa8+ Nxa8 12. Qa2 Nc7 13. Qa7 Ne7 14. Qb8+ Nc8
+15. Bg5 Be7 16. Bxe7 Kxe7 17. Nf3 Qc6 18. b5 Nxb5 19. O-O Rd8 0-1
+

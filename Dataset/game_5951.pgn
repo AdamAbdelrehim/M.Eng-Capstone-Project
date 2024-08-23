@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Alpha_Zero_System"]
+[Black "Ibon17"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/iYSCVPls"]
+[WhiteElo "2513"]
+[BlackElo "2484"]
+[ECO "C00"]
+[Opening "French Defense: Queen's Knight"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:12:56"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+0"]
+
+1. e4 e6 2. Nc3 d5 3. d3 dxe4 4. dxe4 Qxd1+ 5. Nxd1 Nc6 6. Bb5 Bd7 7. Be3 O-O-O
+8. Ne2 Nf6 9. f3 a6 10. Bxc6 Bxc6 11. Nf2 Nd7 12. O-O-O Bc5 13. Bxc5 Nxc5 14.
+Rxd8+ Rxd8 15. Rd1 Rxd1+ 16. Kxd1 e5 17. Ng3 Bd7 18. Nh5 Ne6 19. Kd2 f6 20. Nd1
+Be8 21. Ng3 Kd7 22. Ne3 c6 23. Ngf5 Bg6 24. Ng3 Nf4 25. Ne2 Ne6 26. c3 Bf7 27.
+a3 Nc5 28. b4 Ne6 29. g3 g6 30. Nc1 Ng5 31. Ke2 Ke7 32. Nd3 b6 33. Nf2 Bb3 34.
+Nd3 Ne6 35. Nc1 Ba4 36. Kd3 c5 37. Nd5+ Kd6 38. Nxb6 Bc6 39. Nc4+ Ke7 40. Ne3
+Bb5+ 41. Kd2 cxb4 42. axb4 Bc6 43. Nb3 Kd6 44. c4 Ba4 45. Nc1 Nd4 46. f4 Bc6
+47. Nd5 Bxd5 48. exd5 exf4 49. gxf4 Nf3+ 50. Ke3 Nxh2 51. Ke4 f5+ 52. Ke3 h5
+53. Nd3 h4 54. Ne5 Ng4+ 55. Nxg4 fxg4 56. Kf2 Ke7 57. c5 Kd7 58. Kg2 Kc7 59.
+Kf2 Kd7 60. Kg2 h3+ 61. Kg3 Kc8 62. Kh2 Kc7 63. Kg3 Kb7 64. Kh2 Kc7 65. Kg3 Kd7
+66. Kh2 Ke7 67. Kg3 Kf6 68. Kh2 Kf5 69. c6 Kxf4 70. c7 g3+ 71. Kxh3 Kf3 72.
+c8=Q g2 73. Qf8+ Ke3 74. Kxg2 Kd4 75. Qg7+ Kc4 76. Qxg6 a5 77. Qa6+ Kxb4 78.
+Qxa5+ Kxa5 1/2-1/2
+

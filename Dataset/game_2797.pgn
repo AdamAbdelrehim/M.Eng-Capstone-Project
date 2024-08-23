@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sameow"]
+[Black "cocafanta"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/JqxwFiXC"]
+[WhiteElo "2639"]
+[BlackElo "2646"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack, Two Knights Defense, Blockade Line"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:18:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 c6 8. b4 b6
+9. h4 a5 10. a3 Ne4 11. Nxe4 dxe4 12. Ne5 Nxe5 13. Bxe5 Qd5 14. Rc1 Ba6 15.
+Bxa6 Rxa6 16. Qg4 f6 17. Bc7 axb4 18. axb4 bxc5 19. bxc5 Rc8 20. Bf4 Qf5 21.
+Qxf5 exf5 22. O-O Kf7 23. Rb1 Ke6 24. Rb7 Rca8 25. Kh2 R8a7 26. Rfb1 Rxb7 27.
+Rxb7 g5 28. Bg3 h5 29. Rb6 Ra2 30. Rxc6+ Kd7 31. Rc7+ Kd8 32. Rb7 f4 33. exf4
+gxf4 34. Bxf4 Rxf2 35. Kg3 Rc2 36. Be3 f5 37. Bg5 Bxg5 38. hxg5 e3 39. g6 f4+
+40. Kxf4 Rxg2 41. Kxe3 Rxg6 42. Rh7 Rg5 43. Kf4 Rd5 44. Ke4 Rg5 45. d5 Rg4+ 46.
+Kf5 Rd4 47. Ke5 Rh4 48. c6 Rh1 49. Kd6 Ke8 50. c7 Rc1 51. Rxh5 1-0
+

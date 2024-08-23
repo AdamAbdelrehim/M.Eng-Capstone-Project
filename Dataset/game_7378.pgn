@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Gertrude_Weichsel"]
+[Black "GGTOURS"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/AOfEKmn3"]
+[BlackTitle "WFM"]
+[WhiteElo "2586"]
+[BlackElo "2479"]
+[ECO "A46"]
+[Opening "Indian Defense: Wade-Tartakower Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:58:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. Nf3 d6 3. c4 g6 4. g3 Bg7 5. Bg2 O-O 6. O-O Ne4 7. Qc2 Bf5 8. g4
+Ng3 9. gxf5 Nxf1 10. Kxf1 Nc6 11. e3 e5 12. fxe6 fxe6 13. Qe4 Qf6 14. Nc3 Rae8
+15. Bd2 e5 16. d5 Ne7 17. Qh4 Qf7 18. Ng5 1-0
+

@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "simbelmyne-bot"]
+[Black "pawn_git"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/0X9Gkqa8"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2562"]
+[BlackElo "2720"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Queen's Gambit Invitation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "02:59:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. Nf3 e6 2. d4 d5 3. c4 Nf6 4. e3 Bd6 5. Qc2 O-O 6. c5 Be7 7. a3 b6 8. b4 a5
+9. b5 c6 10. Nbd2 bxc5 11. dxc5 a4 12. Bb2 cxb5 13. c6 Qb6 14. Rc1 Ba6 15. Bd4
+Qxc6 16. Qxc6 Nxc6 17. Rxc6 Rfc8 18. Rc3 Bxa3 19. Rg1 Rxc3 20. Bxc3 Rc8 21. Nb1
+Ne4 22. Bd3 Rxc3 23. Nxc3 Bb4 24. Kd1 Bxc3 25. Kc2 b4 26. Bxa6 b3+ 27. Kd3 a3
+28. Ng5 a2 29. Nxe4 b2 30. Nxc3 a1=Q 31. Rb1 Qxa6+ 32. Kc2 Qc4 33. Rxb2 g5 34.
+g3 Qf1 35. Kb3 Qg1 36. Rc2 Qxh2 37. e4 d4 38. Nb5 d3 39. Rd2 h5 40. Kc4 h4 41.
+gxh4 gxh4 42. Nd4 Qg2 43. Rxd3 h3 44. Nf3 Qxf2 45. Rc3 h2 46. Nxh2 Qxh2 47. Kb3
+Qb8+ 48. Kc2 Qf4 49. Rc4 Qe3 50. Kb2 Kg7 51. Kc2 Kf6 52. Kb2 Kg5 53. Rb4 Qd3
+54. Ka2 e5 55. Kb2 Kf4 56. Ra4 Qb5+ 57. Ka3 Qxa4+ 58. Kxa4 Kxe4 59. Kb3 f5 60.
+Kc2 f4 61. Kd1 f3 62. Kd2 Kd4 63. Ke1 Ke3 64. Kf1 f2 65. Kg2 Ke2 66. Kg3 f1=Q
+67. Kg4 Qf4+ 68. Kh5 Qf6 69. Kg4 Qg6+ 70. Kh4 Kf2 71. Kh3 Qg3# 0-1
+

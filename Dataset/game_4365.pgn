@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Rumboalfracaso"]
+[Black "Dmitrij_Osetrov"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/zoTUqruN"]
+[WhiteElo "2450"]
+[BlackElo "2540"]
+[ECO "A07"]
+[Opening "King's Indian Attack: Double Fianchetto"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:00:13"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 Nf6 5. b3 O-O 6. Bb2 c5 7. O-O cxd4 8. Nxd4
+Bd7 9. c4 e6 10. Nc3 Bc6 11. Nxc6 bxc6 12. Rc1 Nbd7 13. e4 Nxe4 14. Bxe4 dxe4
+15. Qd6 Ne5 16. Nxe4 Qxd6 17. Nxd6 Nf3+ 18. Kg2 Bxb2 19. Kxf3 Bxc1 20. Rxc1 c5
+21. Ne4 Rac8 22. Rd1 Rc7 23. Rd6 Rfc8 24. g4 h6 25. h4 Kf8 26. g5 hxg5 27. hxg5
+Ke7 28. Rd1 Rh8 29. Kg3 a5 30. f4 Ra8 31. Nf6 a4 32. Rd3 axb3 33. axb3 Ra3 34.
+Ng8+ Ke8 35. Nf6+ Kf8 36. Rd8+ Ke7 37. Rb8 Raa7 38. Ne4 Rab7 39. Rxb7 Rxb7 40.
+Nxc5 Rb8 41. Kf3 Kd6 42. Ne4+ Kc6 43. Nd2 Kc5 44. Ke4 Rd8 45. Nf3 Kb4 46. Ne5
+Rf8 47. Nd7 Rc8 48. Ke5 Kxb3 49. Kf6 Rxc4 50. Kxf7 Rxf4+ 51. Kxe6 Rf5 52. Ne5
+Rxg5 53. Kf6 Rg1 54. Nxg6 Kc3 55. Nf4 Kd2 56. Ke5 Rf1 57. Nd5 Re1+ 58. Kd6 Rd1
+59. Nf6 Ke3+ 60. Ke6 Kd4 61. Nd7 Re1+ 62. Kd6 Kd3 63. Nc5+ Kc4 64. Ne6 Rd1+ 65.
+Ke7 Rb1 66. Nf4 Rb7+ 67. Kf6 Rb6+ 68. Kf5 Rb3 69. Ne6 Rd3 70. Ke5 Rd1 71. Kf6
+Re1 72. Ke7 Rd1 0-1
+

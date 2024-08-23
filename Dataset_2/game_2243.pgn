@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.08"]
+[Round "-"]
+[White "papito53"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "3q1rk1/p2b1ppp/1rn5/4p3/2pPP3/b1P2N2/P3BPPP/R1B1K2R w KQ -"]
+[Timezone "UTC"]
+[ECO "A22"]
+[ECOUrl "https://www.chess.com/openings/English-Opening-Two-Knights-Variation-3.d3"]
+[UTCDate "2021.10.08"]
+[UTCTime "20:56:24"]
+[WhiteElo "1330"]
+[BlackElo "1325"]
+[TimeControl "300"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "20:56:24"]
+[EndDate "2021.10.08"]
+[EndTime "20:57:50"]
+[Link "https://www.chess.com/game/live/27465596785"]
+
+1. c4 { [%clk 0:05:00] } 1... e5 { [%clk 0:04:58.2] } 2. Nc3 { [%clk 0:04:59] }
+2... Nf6 { [%clk 0:04:57.4] } 3. d3 { [%clk 0:04:58.2] } 3... d5
+{ [%clk 0:04:55.4] } 4. cxd5 { [%clk 0:04:56.5] } 4... Nxd5
+{ [%clk 0:04:54.6] } 5. e4 { [%clk 0:04:55.5] } 5... Nxc3 { [%clk 0:04:51.4] }
+6. bxc3 { [%clk 0:04:54.7] } 6... c5 { [%clk 0:04:49.8] } 7. Nf3
+{ [%clk 0:04:48.1] } 7... Nc6 { [%clk 0:04:46.8] } 8. Be2 { [%clk 0:04:46.9] }
+8... Be7 { [%clk 0:04:42.9] } 9. Qa4 { [%clk 0:04:44.8] } 9... Bd7
+{ [%clk 0:04:37.3] } 10. Qb3 { [%clk 0:04:43.3] } 10... O-O
+{ [%clk 0:04:35.3] } 11. Qxb7 { [%clk 0:04:39.1] } 11... Rb8
+{ [%clk 0:04:29.7] } 12. Qa6 { [%clk 0:04:37.9] } 12... Rb6
+{ [%clk 0:04:22.3] } 13. Qa3 { [%clk 0:04:32.1] } 13... c4 { [%clk 0:04:19.3] }
+14. d4 { [%clk 0:04:27.3] } 14... Bxa3 { [%clk 0:04:17.3] } 0-1
+

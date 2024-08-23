@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "domore"]
+[Black "Arrowlimit"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/QpHcIuBE"]
+[BlackTitle "IM"]
+[WhiteElo "2446"]
+[BlackElo "2507"]
+[ECO "C92"]
+[Opening "Ruy Lopez: Closed, Karpov Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "01:45:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Nd7 10. d4 Bf6 11. a4 Bb7 12. Be3 Na5 13. Bc2 Nc4 14. b3 Nxe3 15.
+Rxe3 exd4 16. cxd4 c5 17. Na3 cxd4 18. Nxd4 Qb6 19. Rd3 Bxe4 20. Rd2 Nc5 21.
+Rb1 bxa4 22. bxa4 Qc7 23. Bxe4 Nxe4 24. Rc2 Qd7 25. Nc4 Qxa4 26. Qe2 d5 27. Nb6
+Qxd4 28. Nxa8 Rxa8 29. Qxa6 Rf8 30. Qa3 g6 31. Rbc1 Kg7 32. g4 h6 33. Rc8 Qxf2+
+34. Kh1 Ng3+ 35. Qxg3 Qxg3 36. g5 Be5 37. h4 Qh2# 0-1
+

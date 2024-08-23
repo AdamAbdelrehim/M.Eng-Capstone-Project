@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Pastukhov_Nicolay"]
+[Black "Darmik"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/mKhWMhwC"]
+[BlackTitle "IM"]
+[WhiteElo "2536"]
+[BlackElo "2539"]
+[ECO "E38"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Berlin Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:34:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 c5 5. dxc5 Na6 6. Nf3 Nxc5 7. Bd2 O-O 8.
+e3 d5 9. cxd5 Bxc3 10. Bxc3 Nxd5 11. Bd2 b6 12. b4 Nd7 13. Bd3 N5f6 14. O-O Bb7
+15. Rfd1 Rc8 16. Qa4 Nc5 17. Bxh7+ Nxh7 18. bxc5 Bxf3 19. gxf3 Rxc5 20. Qxa7
+Qh4 21. Kf1 Ng5 22. Ke2 Qh3 23. Qb7 Rd5 24. Rg1 Qxf3+ 25. Ke1 Rxd2 0-1
+

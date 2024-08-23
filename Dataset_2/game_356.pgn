@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.09"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "arikshkol"]
+[Result "1-0"]
+[CurrentPosition "r1bqkb1r/pp1p1Qp1/5n2/2p4p/2B1P3/8/PPP2PPP/RNB1K2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game"]
+[UTCDate "2021.02.09"]
+[UTCTime "23:34:42"]
+[WhiteElo "1303"]
+[BlackElo "1238"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by checkmate"]
+[StartTime "23:34:42"]
+[EndDate "2021.02.09"]
+[EndTime "23:35:44"]
+[Link "https://www.chess.com/game/live/6506600801"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:59.9] } 2. Nf3
+{ [%clk 0:09:58.6] } 2... Nc6 { [%clk 0:09:58.7] } 3. Bc4 { [%clk 0:09:54.9] }
+3... h5 { [%clk 0:09:56.9] } 4. d4 { [%clk 0:09:50.8] } 4... Nxd4
+{ [%clk 0:09:51.8] } 5. Nxd4 { [%clk 0:09:49.6] } 5... exd4
+{ [%clk 0:09:50.8] } 6. Qxd4 { [%clk 0:09:47.9] } 6... c5 { [%clk 0:09:40.8] }
+7. Qd5 { [%clk 0:09:40.8] } 7... Nf6 { [%clk 0:09:26.3] } 8. Qxf7#
+{ [%clk 0:09:35.7] } 1-0
+

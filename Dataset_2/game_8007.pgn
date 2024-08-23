@@ -1,0 +1,34 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.03.24"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "cheespmw"]
+[Result "0-1"]
+[CurrentPosition "rn3rk1/pp1b2p1/3p3p/3npp2/8/2BP1N1P/qPPQ1PP1/2KR1B1R b - -"]
+[Timezone "UTC"]
+[ECO "C40"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Elephant-Gambit-3.exd5"]
+[UTCDate "2023.03.24"]
+[UTCTime "18:12:26"]
+[WhiteElo "1832"]
+[BlackElo "1854"]
+[TimeControl "600"]
+[Termination "cheespmw won by resignation"]
+[StartTime "18:12:26"]
+[EndDate "2023.03.24"]
+[EndTime "18:15:59"]
+[Link "https://www.chess.com/game/live/73420532173"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:45] } 2. Nf3 { [%clk 0:09:58.1] }
+2... d5 { [%clk 0:09:41.4] } 3. exd5 { [%clk 0:09:55.5] } 3... Qxd5
+{ [%clk 0:09:35.4] } 4. Nc3 { [%clk 0:09:50.1] } 4... Qe6 { [%clk 0:09:15.3] }
+5. d3 { [%clk 0:09:39.9] } 5... f5 { [%clk 0:09:03.7] } 6. Qe2
+{ [%clk 0:09:33.8] } 6... Bd6 { [%clk 0:08:58.5] } 7. Bg5 { [%clk 0:09:29.3] }
+7... h6 { [%clk 0:08:53.7] } 8. Bd2 { [%clk 0:09:15.2] } 8... Nf6
+{ [%clk 0:08:41.6] } 9. Nb5 { [%clk 0:09:12] } 9... Bd7 { [%clk 0:08:36.6] }
+10. Nxd6+ { [%clk 0:09:10.4] } 10... cxd6 { [%clk 0:08:35.1] } 11. O-O-O
+{ [%clk 0:09:07.1] } 11... Qxa2 { [%clk 0:08:29.2] } 12. Bc3
+{ [%clk 0:09:04.6] } 12... O-O { [%clk 0:08:13.2] } 13. h3 { [%clk 0:08:51.9] }
+13... Nd5 { [%clk 0:08:00] } 14. Qd2 { [%clk 0:08:43.8] } 0-1
+

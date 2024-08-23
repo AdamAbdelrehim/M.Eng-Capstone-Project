@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Chu-do"]
+[Black "AlexD64"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/teRWv1Qz"]
+[WhiteElo "2587"]
+[BlackElo "2580"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: English Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:12:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. b3 c5 2. Bb2 b6 3. d4 cxd4 4. Nf3 Nc6 5. g3 e5 6. Bg2 Ba6 7. O-O Nf6 8. Re1
+Rc8 9. e3 dxe3 10. Nxe5 exf2+ 11. Kxf2 Nxe5 12. Bxe5 Be7 13. Bxf6 gxf6 14. c4
+b5 15. Nc3 O-O 16. Nd5 Bc5+ 17. Kf3 bxc4 18. Rc1 cxb3 19. Qxb3 Rc6 20. Re4 f5
+21. Ra4 Qb8 22. Rxc5 Rxc5 23. Ne7+ Kg7 24. Rxa6 Qxb3+ 25. axb3 Re8 26. Nxf5+
+Rxf5+ 27. Kg4 Rb5 28. Rxa7 Rd8 29. Ra3 d5 30. Kf5 d4+ 31. Ke4 d3 32. Bf3 d2 33.
+Bd1 Rc5 34. Ke3 Re5+ 35. Kf2 Re1 36. Ra1 Rc8 37. b4 Rc1 0-1
+

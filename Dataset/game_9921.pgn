@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "szeprozse"]
+[Black "Saeidbero"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Ddkcq3ZX"]
+[WhiteTitle "FM"]
+[WhiteElo "2567"]
+[BlackElo "2506"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Scheveningen Variation, Delayed Keres Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:22:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 Qc7 8. g5
+Nfd7 9. f4 b5 10. Bg2 Bb7 11. a3 Be7 12. Qe2 Nc6 13. O-O-O Nb6 14. f5 Nxd4 15.
+Rxd4 e5 16. Rdd1 Nc4 17. Nd5 Bxd5 18. Rxd5 Rc8 19. c3 Nxa3 20. bxa3 Qxc3+ 21.
+Kb1 Qb3+ 22. Ka1 Qxa3+ 23. Kb1 Qb3+ 24. Ka1 Rc2 0-1
+

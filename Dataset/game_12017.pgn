@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Hasenfuss64"]
+[Black "Micheliavelli"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/slRLYrvl"]
+[WhiteElo "2500"]
+[BlackElo "2574"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:29:37"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Qc7 5. O-O Nd4 6. Re1 a6 7. Bf1 Ng4 8. e5
+Nxf3+ 9. Qxf3 Nxe5 10. Qh5 d6 11. f4 Ng4 12. f5 Nf6 13. Qf3 e6 14. Bc4 e5 15.
+d3 Be7 16. Bg5 O-O 17. Kh1 Rb8 18. Bxf6 Bxf6 19. Nd5 Qd8 20. a4 b5 21. axb5
+axb5 22. Bb3 Bb7 23. Ra7 Bc6 24. Nxf6+ Qxf6 25. Qxc6 Qxf5 26. h3 c4 27. dxc4
+Qf2 28. Rea1 bxc4 29. Qxc4 h5 30. Qd5 Rbe8 31. Qxd6 e4 32. Re7 Rxe7 33. Qxe7 e3
+34. Rg1 Rc8 35. Qe4 e2 36. c3 Rb8 37. Bc4 Rxb2 38. Qe8+ Kh7 39. Bd3+ g6 40. Qe4
+Rd2 41. Bc4 Rd1 0-1
+

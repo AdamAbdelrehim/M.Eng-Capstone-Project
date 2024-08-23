@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "sapphire_phoenix"]
+[Black "MarioVillanueva"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/gsDcbWJ0"]
+[BlackTitle "IM"]
+[WhiteElo "2745"]
+[BlackElo "2672"]
+[ECO "B81"]
+[Opening "Sicilian Defense: Scheveningen Variation, Keres Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:51:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. g4 e5 7. Nf5 h5 8. Bg5
+hxg4 9. Nd5 Bxf5 10. Bxf6 gxf6 11. exf5 Bh6 12. c3 Bg5 13. Bg2 Nc6 14. Qd3 Kf8
+15. h3 gxh3 16. Rxh3 Rxh3 17. Qxh3 Kg7 18. Ke2 Qh8 19. Qg3 Qh4 20. Qxh4 Bxh4
+21. Rd1 Bg5 22. b4 Rc8 23. Be4 b6 24. a4 Kf8 25. Rh1 Kg7 26. Kd3 Nb8 27. Ra1
+Kf8 28. a5 b5 29. Kc2 Nc6 30. Kb3 Ne7 31. Rh1 Rc4 32. f3 Nxd5 33. Bxd5 Rc7 34.
+Rh8+ Kg7 35. Rb8 Bd2 36. c4 bxc4+ 37. Bxc4 Kh6 38. Bd5 Kg5 39. Ka4 Kxf5 40. b5
+Rc5 41. Bxf7 d5 42. Rh8 Rc4+ 43. Kb3 Rb4+ 44. Kc2 Bg5 45. Be8 d4 46. Rh7 Kf4
+47. Rxa7 Ke3 48. b6 d3+ 49. Kc3 d2 50. Rd7 Rd4 51. Kc2 Rxd7 52. Bxd7 Ke2 53.
+Bb5+ Ke1 0-1
+

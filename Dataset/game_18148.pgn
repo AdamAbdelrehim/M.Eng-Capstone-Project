@@ -1,0 +1,33 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "B-the-bot"]
+[Black "weiawaga"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/lXOIeGrV"]
+[WhiteTitle "BOT"]
+[WhiteElo "3079"]
+[BlackElo "2715"]
+[ECO "D43"]
+[Opening "Semi-Slav Defense"]
+[TimeControl "600+5"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:05:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 Be7 6. e3 h6 7. Bf4 O-O 8. Qc2
+Bd6 9. Bxd6 Qxd6 10. Be2 dxc4 11. g4 Nxg4 12. Rg1 Nf6 13. O-O-O Nbd7 14. Ne4
+Qe7 15. Rg3 Kh8 16. Rdg1 Rg8 17. Bxc4 b5 18. Neg5 g6 19. Rh3 bxc4 20. Ne5 Nxe5
+21. dxe5 Nh5 22. Rxh5 Kg7 23. Ne4 c5 24. Nd6 Rd8 25. Qxc4 a5 26. Rh3 Rb8 27.
+Qf4 Rh8 28. Rf3 Rf8 29. Qe4 Bb7 30. Rxf7+ Qxf7 31. Qc2 g5 32. Nxf7 Rxf7 33. f4
+Bf3 34. fxg5 h5 35. g6 Rfb7 36. Rf1 Bg4 37. Rf7+ Rxf7 38. gxf7 Rf8 39. Qg2 Kh7
+40. Qf2 Bf5 41. e4 Bxe4 42. a4 Bg6 43. Qxc5 Rxf7 44. Qxa5 Rf1+ 45. Kd2 Rf2+ 46.
+Kc3 Rxh2 47. Qa7+ Kh6 48. Qe3+ Kg7 49. a5 Rc2+ 50. Kb3 Rc8 51. Qg5 Rc7 52. Ka4
+Rf7 53. a6 Rf5 54. Qe7+ Rf7 55. Qh4 Rf1 56. Ka5 Ra1+ 57. Kb6 Kh6 58. a7 Bd3 59.
+Qf6+ Kh7 60. Qf7+ Kh6 61. Qf8+ Kg6 62. a8=Q Rxa8 63. Qxa8 Bf5 64. Qg8+ Kh6 65.
+Qd8 Kh7 66. Qh4 Bg4 67. Kc7 Kg8 68. Kd8 Bf5 69. Ke7 Bg6 70. Qf6 Kh7 71. Qf8 Bf5
+72. Kf6 h4 73. Qg7# 1-0
+

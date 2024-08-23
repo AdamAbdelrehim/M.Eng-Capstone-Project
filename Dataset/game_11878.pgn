@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Bamboccione"]
+[Black "mick_chess"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/6JDcvN6E"]
+[WhiteTitle "FM"]
+[WhiteElo "2772"]
+[BlackElo "2759"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Three Knights Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:11:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+6"]
+
+1. Nf3 d5 2. d4 e6 3. c4 Nf6 4. Nc3 Be7 5. cxd5 exd5 6. Bf4 O-O 7. h3 c6 8. Qc2
+Re8 9. e3 Nbd7 10. Bd3 Nf8 11. O-O b5 12. Rad1 Bb7 13. Ne5 Qb6 14. Rfe1 Ne6 15.
+Bh2 Rac8 16. a3 c5 17. dxc5 Bxc5 18. Qd2 d4 19. exd4 Nxd4 20. Ne4 Bxe4 21. Bxe4
+Rcd8 22. Bd3 Bd6 23. Qg5 h6 24. Qh4 Bb8 25. Bg3 Re6 26. Ng4 Bxg3 27. Qxg3 Nxg4
+28. Qxg4 Rf6 29. Re3 Ne6 30. Rde1 Rxd3 31. Rxd3 Qxf2+ 32. Kh2 Qxe1 0-1
+

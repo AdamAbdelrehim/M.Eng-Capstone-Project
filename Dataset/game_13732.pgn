@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "theprodigco"]
+[Black "TheDemonAzrael"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/7nv0kY4n"]
+[WhiteElo "2644"]
+[BlackElo "2479"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Modern Variations"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:18:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+31"]
+
+1. e4 c5 2. Nf3 d6 3. e5 dxe5 4. Nxe5 Nf6 5. Nc3 g6 6. Bc4 e6 7. d3 Bg7 8. Bg5
+Nbd7 9. O-O Nxe5 0-1
+

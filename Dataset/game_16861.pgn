@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "firegus16"]
+[Black "johndoe695"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/CNK0B023"]
+[WhiteElo "2575"]
+[BlackElo "2560"]
+[ECO "D60"]
+[Opening "Queen's Gambit Declined: Orthodox Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:07:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 O-O 6. e3 Nbd7 7. a3 a6 8. Bd3
+dxc4 9. Bxc4 c5 10. O-O b5 11. Ba2 Bb7 12. Re1 Qb6 13. Ne5 Nxe5 14. dxe5 Rad8
+15. Qe2 Qc6 16. f3 b4 17. Nd1 b3 18. Bxb3 Qb6 19. exf6 gxf6 20. Bh6 Qxb3 21.
+Nc3 Rfe8 22. Qf2 Rf8 23. Qg3+ 1-0
+

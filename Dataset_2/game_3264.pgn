@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.12.27"]
+[Round "-"]
+[White "Seminole_Sapper"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r3r1k1/1Q4pp/p2NPq2/1pp1np2/3p4/PP6/1P3PPP/R1B1R1K1 w - -"]
+[Timezone "UTC"]
+[ECO "B20"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Bowdler-Attack-2...e6-3.Nc3-a6"]
+[UTCDate "2021.12.27"]
+[UTCTime "05:23:33"]
+[WhiteElo "1549"]
+[BlackElo "1562"]
+[TimeControl "600"]
+[Termination "Seminole_Sapper won by resignation"]
+[StartTime "05:23:33"]
+[EndDate "2021.12.27"]
+[EndTime "05:30:49"]
+[Link "https://www.chess.com/game/live/34321748541"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:10:00] } 2. Bc4 { [%clk 0:09:59.2] }
+2... e6 { [%clk 0:09:58.3] } 3. Nc3 { [%clk 0:09:57.6] } 3... a6
+{ [%clk 0:09:54.9] } 4. a3 { [%clk 0:09:56.3] } 4... Nf6 { [%clk 0:09:53.1] }
+5. d3 { [%clk 0:09:54] } 5... d5 { [%clk 0:09:51.5] } 6. exd5
+{ [%clk 0:09:52.9] } 6... exd5 { [%clk 0:09:49.4] } 7. Qe2+
+{ [%clk 0:09:51.8] } 7... Be7 { [%clk 0:09:47.8] } 8. Bb3 { [%clk 0:09:48.1] }
+8... O-O { [%clk 0:09:45] } 9. Nf3 { [%clk 0:09:46.8] } 9... Re8
+{ [%clk 0:09:42.8] } 10. O-O { [%clk 0:09:45.4] } 10... Nc6
+{ [%clk 0:09:39.6] } 11. Re1 { [%clk 0:09:42.9] } 11... d4 { [%clk 0:09:16.5] }
+12. Ne4 { [%clk 0:09:40.3] } 12... Nxe4 { [%clk 0:09:13.1] } 13. dxe4
+{ [%clk 0:09:39.1] } 13... Bf8 { [%clk 0:09:03.8] } 14. Qc4
+{ [%clk 0:09:20.9] } 14... Be6 { [%clk 0:08:59.1] } 15. Qe2
+{ [%clk 0:09:13.1] } 15... Bxb3 { [%clk 0:08:57] } 16. cxb3
+{ [%clk 0:09:12.3] } 16... f5 { [%clk 0:08:50.7] } 17. e5 { [%clk 0:09:06.1] }
+17... Bd6 { [%clk 0:08:42.6] } 18. Qc4+ { [%clk 0:09:01.9] } 18... Kh8
+{ [%clk 0:08:30.8] } 19. e6 { [%clk 0:08:59.9] } 19... b5 { [%clk 0:07:57] }
+20. Qd5 { [%clk 0:08:55.8] } 20... Ne7 { [%clk 0:07:49.2] } 21. Qb7
+{ [%clk 0:08:34.9] } 21... Ng6 { [%clk 0:06:35.3] } 22. Ng5
+{ [%clk 0:08:26.1] } 22... Qf6 { [%clk 0:05:15.2] } 23. Nf7+
+{ [%clk 0:08:16.7] } 23... Kg8 { [%clk 0:05:11.4] } 24. Nxd6 { [%clk 0:08:14] }
+24... Ne5 { [%clk 0:04:56.1] } 1-0
+

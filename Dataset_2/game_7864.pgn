@@ -1,0 +1,40 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.03.05"]
+[Round "-"]
+[White "bachess"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r7/1b1pk1bp/p1n3p1/1ppB2N1/8/2N5/PPPK1PPP/R6R w - -"]
+[Timezone "UTC"]
+[ECO "B20"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Bowdler-Attack-2...e6"]
+[UTCDate "2023.03.05"]
+[UTCTime "06:13:43"]
+[WhiteElo "1682"]
+[BlackElo "1659"]
+[TimeControl "180"]
+[Termination "bachess won by resignation"]
+[StartTime "06:13:43"]
+[EndDate "2023.03.05"]
+[EndTime "06:16:18"]
+[Link "https://www.chess.com/game/live/71735669949"]
+
+1. e4 { [%clk 0:03:00] } 1... c5 { [%clk 0:03:00] } 2. Bc4 { [%clk 0:02:59.4] }
+2... e6 { [%clk 0:02:58.9] } 3. d4 { [%clk 0:02:58.1] } 3... a6
+{ [%clk 0:02:58.6] } 4. d5 { [%clk 0:02:56.3] } 4... exd5 { [%clk 0:02:57] } 5.
+exd5 { [%clk 0:02:56.2] } 5... Nf6 { [%clk 0:02:53.7] } 6. Nc3
+{ [%clk 0:02:54.4] } 6... Be7 { [%clk 0:02:47.9] } 7. d6 { [%clk 0:02:52.8] }
+7... Bf8 { [%clk 0:02:45.4] } 8. Nf3 { [%clk 0:02:51.3] } 8... Qb6
+{ [%clk 0:02:44.1] } 9. Bf4 { [%clk 0:02:43] } 9... Nh5 { [%clk 0:02:33.8] }
+10. Qd5 { [%clk 0:02:33.9] } 10... Nxf4 { [%clk 0:02:20.9] } 11. Qxf7+
+{ [%clk 0:02:32.5] } 11... Kd8 { [%clk 0:02:20.4] } 12. Qxf4 { [%clk 0:02:15] }
+12... Qxd6 { [%clk 0:02:18.4] } 13. Qg5+ { [%clk 0:02:10.5] } 13... Qe7+
+{ [%clk 0:02:15.2] } 14. Kd2 { [%clk 0:02:05.5] } 14... Qxg5+
+{ [%clk 0:02:13.9] } 15. Nxg5 { [%clk 0:02:04.9] } 15... b5
+{ [%clk 0:02:07.4] } 16. Bd5 { [%clk 0:02:02.5] } 16... Nc6
+{ [%clk 0:01:51.1] } 17. Nf7+ { [%clk 0:02:01.3] } 17... Ke7
+{ [%clk 0:01:50.6] } 18. Nxh8 { [%clk 0:02:00.9] } 18... Bb7
+{ [%clk 0:01:44.9] } 19. Nf7 { [%clk 0:01:59.1] } 19... g6 { [%clk 0:01:42] }
+20. Ng5 { [%clk 0:01:57.2] } 20... Bg7 { [%clk 0:01:40.7] } 1-0
+

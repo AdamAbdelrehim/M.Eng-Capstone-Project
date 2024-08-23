@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "CivEn"]
+[Black "CoolGuy64Chess"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/h6DIpIVB"]
+[WhiteElo "2528"]
+[BlackElo "2505"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:22:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 d5 2. Nf3 e6 3. c3 Nf6 4. Bg5 c5 5. e3 Nbd7 6. Nbd2 b6 7. Bd3 Bb7 8. O-O
+Qc7 9. a4 Bd6 10. Qb1 Ne4 11. Nxe4 dxe4 12. Bxe4 Bxe4 13. Qxe4 O-O 14. Bh4 cxd4
+15. exd4 Rae8 16. Ra2 Qc4 17. Rfa1 f5 18. Qb7 Qc7 19. Qxc7 Bxc7 20. Re1 h6 21.
+h3 f4 22. b4 g5 23. Bxg5 hxg5 24. Nxg5 e5 25. d5 Bd6 26. Ne4 Be7 27. d6 Bf6 28.
+c4 Rc8 29. Rc1 Kf7 30. c5 bxc5 31. bxc5 Rc6 32. Rb2 Rb8 33. Rxb8 Nxb8 34. Rb1
+Na6 35. Rb7+ Ke6 36. d7 Bd8 37. Rxa7 Nxc5 38. Nxc5+ Rxc5 39. g3 f3 40. g4 Rd5
+41. Kh2 Bh4 42. g5 Bxg5 43. Kg3 e4 44. h4 Bf6 45. Ra6+ Kf5 46. h5 Be5+ 47. Kh4
+e3 48. fxe3 f2 49. Ra8 Bf6+ 50. Kg3 f1=Q 0-1
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "mikailidis_efkerios"]
+[Black "Venevtsev_Andrey"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/mQgMKyHP"]
+[WhiteElo "2535"]
+[BlackElo "2477"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:09:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 f6 7. O-O fxe5 8. Nxe5
+Nxe5 9. dxe5 Qc7 10. Re1 O-O-O 11. Bf1 Nh6 12. a4 Nf7 13. Na3 a6 14. Bf4 Be7
+15. b4 g5 16. Bg3 h5 17. h3 Rdg8 18. bxc5 Bxc5 19. c4 Bc6 20. cxd5 Bxd5 21. Rc1
+h4 22. Bh2 g4 23. hxg4 h3 24. gxh3 Ng5 25. Rc3 Bxf2+ 26. Kxf2 Qxc3 27. Qc1 Rf8+
+28. Ke2 Bf3+ 29. Kf2 Bxg4+ 30. Bf4 Ne4+ 31. Rxe4 Qxc1 32. Rc4+ Qxc4 33. Nxc4
+Rxf4+ 0-1
+

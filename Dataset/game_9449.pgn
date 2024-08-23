@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Cicero2000"]
+[Black "Ersahin"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/fcgNHNgB"]
+[BlackTitle "CM"]
+[WhiteElo "2450"]
+[BlackElo "2512"]
+[ECO "B98"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:03:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+4"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qe2
+Nc6 9. O-O-O h6 10. Bh4 Qc7 11. Nxc6 bxc6 12. g4 g5 13. Bg3 gxf4 14. Bxf4 Nd7
+15. Qd2 Ne5 16. h3 h5 17. gxh5 Rxh5 18. Rg1 Rh8 19. Rg3 a5 20. Qg2 Bf6 21. Rg8+
+Rxg8 22. Qxg8+ Ke7 23. Bg5 Bxg5+ 24. Qxg5+ Kf8 25. h4 a4 26. h5 Ra5 27. Kb1 a3
+28. h6 Ng6 29. Qf6 Qb6 30. b3 Rh5 31. Qg7+ Ke7 32. h7 Qc5 33. Be2 Rxh7 34. Qd4
+Qxd4 35. Rxd4 Rh1+ 36. Bd1 e5 37. Ra4 Bg4 38. Kc1 Bxd1 39. Nxd1 d5 40. exd5
+cxd5 41. Rxa3 e4 42. c4 d4 43. b4 e3 44. Rd3 Nf4 45. Rxd4 Ne2+ 0-1
+

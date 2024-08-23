@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "matvey9"]
+[Black "Undercoverchessagent"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/oRVKx91s"]
+[WhiteElo "2545"]
+[BlackElo "2484"]
+[ECO "E73"]
+[Opening "King's Indian Defense: Normal Variation, Standard Development"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:20:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-10"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. h4 c5 7. d5 e6 8. h5 exd5
+9. exd5 Re8 10. Be3 b5 11. Nxb5 Ba6 12. a4 Ne4 13. Qc2 Qf6 1-0
+

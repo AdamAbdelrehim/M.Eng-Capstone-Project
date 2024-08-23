@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Murakami"]
+[Black "simplesimpson03"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ubIYGDOS"]
+[WhiteTitle "IM"]
+[WhiteElo "2559"]
+[BlackElo "2511"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Dutch Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "01:29:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+7"]
+
+1. Nf3 f5 2. c4 Nf6 3. e3 g6 4. Be2 Bg7 5. O-O O-O 6. Nc3 d6 7. Qc2 c6 8. b3
+Kh8 9. Bb2 e5 10. d3 Be6 11. a3 Nbd7 12. b4 d5 13. cxd5 cxd5 14. Rfd1 Rc8 15.
+Qa4 a6 16. Rac1 Bg8 17. d4 e4 18. Ne5 Qe7 19. Rc2 Qd6 20. Qa5 Rc7 21. Nxd7 Rxd7
+22. Na4 f4 23. Qb6 Qb8 24. Nc5 Re7 25. Bf1 fxe3 26. fxe3 Ng4 27. g3 Nxe3 28.
+Rdd2 Rxf1# 0-1
+

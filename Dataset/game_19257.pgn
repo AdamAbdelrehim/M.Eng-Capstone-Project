@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "thisisdi96"]
+[Black "Defendiendome"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/muscbqK5"]
+[WhiteElo "2494"]
+[BlackElo "2541"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:50:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 d5 2. Nf3 e6 3. Bg5 Be7 4. h4 h6 5. Bf4 Nf6 6. Nbd2 b6 7. e3 Bb7 8. c3
+Ne4 9. Nxe4 dxe4 10. Ne5 O-O 11. Qg4 Kh8 12. Qh5 Qe8 13. Bxh6 gxh6 14. Qxh6+
+Kg8 15. Rh3 1-0
+

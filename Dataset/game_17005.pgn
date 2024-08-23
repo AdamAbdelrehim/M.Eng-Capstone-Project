@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "secret1234567"]
+[Black "el-kun78"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/iE7n5pS9"]
+[BlackTitle "IM"]
+[WhiteElo "2420"]
+[BlackElo "2591"]
+[ECO "D10"]
+[Opening "Slav Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:47:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. d4 c6 2. c4 d5 3. cxd5 cxd5 4. Nc3 e5 5. dxe5 d4 6. Nb1 Nc6 7. Nf3 Bg4 8.
+Nbd2 Qd5 9. h3 Bh5 10. g4 Bg6 11. Bg2 h5 12. Nb3 O-O-O 13. Bg5 Be7 14. Bf4 hxg4
+15. hxg4 Rxh1+ 16. Bxh1 Bb4+ 17. Kf1 Nge7 18. Bg2 Be4 19. Rc1 Ng6 20. Bg3 Kb8
+21. a3 Be7 22. Nbd2 Ka8 23. Nxe4 Qxe4 24. Nh2 Qxe5 25. Bxe5 Ngxe5 26. Qb3 Bg5
+27. Rc5 Bf4 28. Kg1 Rd6 29. Bf3 d3 30. Bxc6 bxc6 31. exd3 Rxd3 32. Qa4 g5 33.
+Rxc6 Rd7 34. Rc8+ Kb7 35. Rc5 f6 36. Rxe5 Bxh2+ 37. Kxh2 Rh7+ 38. Kg2 fxe5 39.
+Qb5+ Kc8 40. Qxe5 Rb7 41. Qxg5 Rxb2 42. Qg8+ Kd7 43. Qg7+ Ke6 44. Qxb2 a6 45.
+Qb6+ Kd5 46. Qxa6 Ke4 47. Qe2+ Kf4 48. Qe3+ Kxg4 49. Qf3+ Kg5 50. a4 Kg6 51. a5
+Kg5 52. a6 Kg6 53. a7 Kg5 54. a8=Q Kh4 55. Qae4+ Kg5 56. Qff5+ Kh6 57. Qee6+
+Kg7 58. Qff7+ Kh8 59. Qh6# 1-0
+

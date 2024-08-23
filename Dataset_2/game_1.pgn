@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.02.24"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Fredoc"]
+[Result "0-1"]
+[CurrentPosition "rn3rk1/ppp2pp1/3p1nqp/8/2BB4/2Q4P/PP3P1P/RN3RK1 w - -"]
+[Timezone "UTC"]
+[ECO "C20"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Napoleon-Attack"]
+[UTCDate "2014.02.24"]
+[UTCTime "00:09:45"]
+[WhiteElo "1003"]
+[BlackElo "1104"]
+[TimeControl "60"]
+[Termination "Fredoc won on time"]
+[StartTime "00:09:45"]
+[EndDate "2014.02.24"]
+[EndTime "00:11:12"]
+[Link "https://www.chess.com/game/live/735198110"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Qf3 { [%clk 0:00:59] }
+2... Nf6 { [%clk 0:00:57.4] } 3. Bc4 { [%clk 0:00:57.2] } 3... Bc5
+{ [%clk 0:00:56.3] } 4. Nh3 { [%clk 0:00:52.6] } 4... h6 { [%clk 0:00:54.9] }
+5. c3 { [%clk 0:00:45.7] } 5... d6 { [%clk 0:00:52.4] } 6. d4
+{ [%clk 0:00:43.8] } 6... exd4 { [%clk 0:00:51.5] } 7. cxd4
+{ [%clk 0:00:42.1] } 7... Bxd4 { [%clk 0:00:51] } 8. O-O { [%clk 0:00:29.9] }
+8... Bg4 { [%clk 0:00:49.9] } 9. Qg3 { [%clk 0:00:27.1] } 9... O-O
+{ [%clk 0:00:48.7] } 10. Be3 { [%clk 0:00:17.4] } 10... Qe7
+{ [%clk 0:00:46.3] } 11. Bxd4 { [%clk 0:00:11.1] } 11... Qxe4
+{ [%clk 0:00:44.2] } 12. Qc3 { [%clk 0:00:06.5] } 12... Bxh3
+{ [%clk 0:00:42.6] } 13. gxh3 { [%clk 0:00:04.4] } 13... Qg6+
+{ [%clk 0:00:39.7] } 0-1
+

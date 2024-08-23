@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "RaspFish"]
+[Black "expositor"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/fkUys4kq"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2992"]
+[BlackElo "2746"]
+[ECO "A21"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:31:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+
+1. c4 e5 2. Nc3 Bb4 3. d3 d6 4. Bd2 Bxc3 5. Bxc3 c5 6. f4 Nc6 7. Nf3 Qe7 8. Qd2
+Nh6 9. e4 f5 10. O-O-O O-O 11. exf5 Nxf5 12. Re1 Nfd4 13. Bxd4 Nxd4 14. Nxd4
+cxd4 15. g3 b5 16. Bg2 Bb7 17. cxb5 Rab8 18. Kb1 Bxg2 19. Qxg2 Rxb5 20. Rhf1
+Rfb8 21. Rf2 h6 22. Qe4 Qf7 23. Rc1 Re8 24. Qc6 Rb6 25. Qg2 Qf5 26. Qd5+ Kh7
+27. Rd2 Qg6 28. b3 exf4 29. gxf4 Qf6 30. Rf2 Rbb8 31. Kb2 Re6 32. Rc6 Rbe8 33.
+Qh5 Qe7 34. Qf5+ Kh8 35. Rcc2 Re1 36. Qh5 Rf8 37. Qd5 Qf6 38. Rc6 Rfe8 39. Ka3
+Rd1 40. Qxd6 Qxd6+ 41. Rxd6 Rxd3 42. Rd7 Rd1 43. Rg2 Rg8 44. Rxa7 d3 45. f5 g5
+46. fxg6 Rg7 47. Ra8+ Rg8 48. Rxg8+ Kxg8 49. Kb2 Kg7 50. a4 h5 51. Kc3 h4 52.
+a5 Rf1 53. Kxd3 Rf4 54. Kc3 Rf1 55. b4 Rc1+ 56. Kb3 Rh1 57. a6 Rb1+ 58. Ka4
+Ra1+ 59. Kb5 Ra3 60. Rg4 h3 61. Kb6 Rd3 62. a7 Rd8 63. b5 Re8 64. Rg3 Re6+ 65.
+Ka5 Re8 66. Kb6 Re6+ 67. Kb7 Re7+ 68. Ka6 Re6+ 69. Kb7 Re7+ 70. Ka6 Re6+ 71. b6
+Re8 72. Rxh3 Kf6 73. Rg3 Kg7 74. h4 Rc8 75. h5 Rh8 76. h6+ Rxh6 77. a8=Q Rxg6
+78. Rxg6+ Kf7 79. Qg8+ Ke7 80. Re6+ Kd7 81. Qe8# 1-0
+

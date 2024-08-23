@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "caissa-x"]
+[Black "Hoon_Bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/hRFm4Xgs"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2995"]
+[BlackElo "2879"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Indian Variation"]
+[TimeControl "180+3"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:23:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+1"]
+
+1. b3 Nf6 2. Bb2 g6 3. Nf3 Bg7 4. g3 d6 5. d4 c5 6. Bg2 Qa5+ 7. Qd2 Qxd2+ 8.
+Nbxd2 Na6 9. O-O O-O 10. c3 Bd7 11. e4 cxd4 12. cxd4 Nb4 13. e5 dxe5 14. Nxe5
+Bc8 15. Ndc4 Rb8 16. Ne3 Rd8 17. Bc3 Nfd5 18. Nxd5 Nxd5 19. Ba5 Rd6 20. Nc4 Rd7
+21. Ne5 Rd6 22. Rfe1 Be6 23. Bd2 Rc8 24. Rac1 Rxc1 25. Rxc1 Nb6 26. Be3 Nd5 27.
+Bd2 Nb6 28. Be3 Nd5 29. Bd2 1/2-1/2
+

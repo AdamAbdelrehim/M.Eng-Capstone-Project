@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "yairhoff2005"]
+[Black "domore"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/IWrq44fu"]
+[WhiteElo "2586"]
+[BlackElo "2483"]
+[ECO "A57"]
+[Opening "Benko Gambit Accepted: Modern Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:28:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 e6 6. Nc3 axb5 7. Bxb5 exd5 8.
+Nxd5 Nxd5 9. Qxd5 Qa5+ 10. Bd2 Qxb5 11. Qxa8 Ba6 12. O-O-O Be7 13. Qe4 Nc6 14.
+Bc3 O-O 15. Rxd7 Re8 16. Qg4 Bf8 17. Qh5 g6 18. Qf3 Be7 19. Nh3 Nb4 20. Rxe7
+Nxa2+ 21. Kc2 Qd3+ 22. Kb3 Bc4+ 23. Ka3 Rb8 24. Qb7 Rd8 25. Qb6 Nxc3 26. Nf4
+Nb5+ 27. Ka4 Ra8+ 28. Ra7 Qb3+ 29. Ka5 Qb4+ 30. Ka6 Nd6+ 31. Qb5 Qxb5# 0-1
+

@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "BoringAlien"]
+[Black "pimpermann"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/LUDnhkpC"]
+[WhiteElo "2521"]
+[BlackElo "2477"]
+[ECO "A46"]
+[Opening "Torre Attack: Classical Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:10:03"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 Be7 4. Nbd2 d5 5. e3 Nbd7 6. c3 O-O 7. Bd3 b6 8. O-O
+Bb7 9. Qa4 a6 10. Ne5 b5 11. Qc2 h6 12. Bh4 c5 13. f4 c4 14. Be2 Ne4 15. Bxe7
+Qxe7 16. a3 Nxd2 17. Qxd2 Nxe5 18. fxe5 f5 19. exf6 Rxf6 20. Rxf6 Qxf6 21. Rf1
+Qe7 22. Qc2 Rf8 23. Rxf8+ Qxf8 24. Qg6 Qf7 25. Bh5 Qxg6 26. Bxg6 Kf8 27. Kf2
+Ke7 28. Kf3 Bc6 29. Kf4 Kf6 30. Bc2 g5+ 31. Kf3 e5 32. Kg3 e4 33. Bd1 Bd7 34.
+h4 Bf5 35. Bh5 Bd7 36. Be2 Bf5 37. Bd1 Bd7 38. Bh5 gxh4+ 39. Kxh4 Kg7 40. Bd1
+Kg6 41. Be2 Be6 42. Bh5+ Kf6 43. Be8 Ke7 44. Bg6 Kf6 45. Kh5 Kg7 46. Be8 Kh7
+47. Bc6 Kg7 48. Bb7 Bf7+ 49. Kg4 a5 50. Kf5 Kf8 51. Ke5 1-0
+

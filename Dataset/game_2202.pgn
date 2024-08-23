@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "magnusglad_bot"]
+[Black "PurpleHunter"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/p5POHb5e"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2780"]
+[BlackElo "2659"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:53:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. Qc2
+Nc6 9. Rd1 Qa5 10. a3 Be7 11. Be2 Ne4 12. cxd5 Nxc3 13. bxc3 exd5 14. O-O a6
+15. a4 Bf6 16. Nd4 Bd7 17. Qb2 Nxd4 18. cxd4 Bxa4 19. Ra1 b5 20. Bf3 Qd8 21.
+Rfc1 Rc8 22. Rxc8 Qxc8 23. h3 Qf5 24. Bg4 Qd3 25. Rc1 Qb3 26. Qa1 Be7 27. Bf3
+Bb4 28. Rc7 h6 29. Qc1 Qa2 30. Qc6 Bb3 31. Qd7 Qb1+ 32. Kh2 Be1 33. Bg3 Qg6 34.
+Rc6 Qb1 35. Bh5 Bb4 36. Rc7 g6 37. Bg4 g5 38. Bf5 Qe1 39. Be6 Qxf2 40. Bxf2
+Bd6+ 41. Qxd6 Bc2 42. Bxf7+ Rxf7 43. Qe6 Bg6 44. Qxg6+ Kh8 45. Rxf7 h5 46. Rh7#
+1-0
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "riga1960"]
+[Black "Bassket"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Go3IfOSi"]
+[BlackTitle "FM"]
+[WhiteElo "2545"]
+[BlackElo "2379"]
+[ECO "C10"]
+[Opening "French Defense: Rubinstein Variation, Blackburne Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:13:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. d4 e6 2. Nc3 d5 3. e4 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Ng3 b6 7. Bb5 Bb7 8.
+Ne5 Bd6 9. Nxd7 Nxd7 10. Qg4 Qf6 11. Nh5 Qg6 12. Bxd7+ Kxd7 13. Qe2 Bxg2 14.
+Rg1 Bxh2 15. Rxg2 Qxg2 16. Nf4 Qg1+ 17. Qf1 Qxf1+ 18. Kxf1 Bxf4 19. Bxf4 Rac8
+20. c4 c5 21. d5 exd5 22. cxd5 Rhe8 23. Rd1 Re4 24. Bg3 Rd4 0-1
+

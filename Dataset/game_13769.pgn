@@ -1,0 +1,32 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "InanisBot"]
+[Black "Nimfish"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/nwBRWLFi"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2500"]
+[BlackElo "2301"]
+[ECO "D22"]
+[Opening "Queen's Gambit Accepted: Alekhine Defense"]
+[TimeControl "600+8"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:22:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 a6 4. a4 Nc6 5. e3 e5 6. Bxc4 e4 7. Qb3 Nh6 8. Ne5
+Nxe5 9. dxe5 Qg5 10. g3 Qxe5 11. Bd2 c6 12. Bc3 Qf5 13. Nd2 Ng4 14. O-O Qg6 15.
+Nxe4 Qxe4 16. f3 Qxe3+ 17. Kg2 Ne5 18. Bxf7+ Nxf7 19. Rae1 Qe7 20. Rxe7+ Bxe7
+21. Re1 Nd6 22. Bb4 Nf5 23. Bxe7 Nxe7 24. Qb4 O-O 25. Rxe7 Kh8 26. Qc3 Rg8 27.
+a5 h6 28. Qe5 Ra7 29. g4 Bxg4 30. fxg4 Raa8 31. g5 Raf8 32. h4 c5 33. b3 Rf6
+34. Rxb7 Rff8 35. Rb6 Kh7 36. Rxa6 Re8 37. Qxc5 Re2+ 38. Kf3 Re1 39. Qc2+ Kh8
+40. Rxh6+ gxh6 41. Qc3+ Kh7 42. Qxe1 hxg5 43. Qe7+ Rg7 44. Qxg7+ Kxg7 45. hxg5
+Kg8 46. b4 Kf8 47. b5 Ke8 48. g6 Kf8 49. b6 Kg7 50. a6 Kg8 51. g7 Kxg7 52. b7
+Kf7 53. a7 Kg7 54. b8=Q Kf7 55. a8=Q Kg7 56. Qd6 Kh7 57. Qh6+ Kxh6 58. Qg8 Kh5
+59. Qg7 Kh4 60. Qg4# 1-0
+

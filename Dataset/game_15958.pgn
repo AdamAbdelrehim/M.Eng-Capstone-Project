@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Revakirill"]
+[Black "AlvinM"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/MxCSnHpy"]
+[BlackTitle "FM"]
+[WhiteElo "2559"]
+[BlackElo "2392"]
+[ECO "C00"]
+[Opening "French Defense: Steiner Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "23:13:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+
+1. c4 e6 2. e4 c5 3. Nc3 a6 4. Nf3 d6 5. d4 cxd4 6. Nxd4 Nd7 7. Be2 Ngf6 8. O-O
+Be7 9. b3 O-O 10. Bb2 Re8 11. Bf3 Ne5 12. Re1 Qc7 13. Rc1 b6 14. g3 Nxf3+ 15.
+Qxf3 Bb7 16. Qe2 Rac8 17. Rcd1 Qb8 18. f3 d5 19. cxd5 exd5 20. e5 Bc5 21. Na4
+Nd7 22. Nxc5 bxc5 23. Nf5 d4 24. Nd6 Rxe5 25. Qxe5 Nxe5 26. Nxc8 Nxf3+ 0-1
+

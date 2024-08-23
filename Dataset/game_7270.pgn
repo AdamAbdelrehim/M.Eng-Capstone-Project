@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "kahvitauko"]
+[Black "loykozobar"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/PlNlvkR5"]
+[WhiteElo "2446"]
+[BlackElo "2581"]
+[ECO "B51"]
+[Opening "Sicilian Defense: Moscow Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:43:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 a6 6. Bxd7+ Bxd7 7. Bg5 Nf6
+8. Nc3 e6 9. O-O-O Be7 10. e5 dxe5 11. Nxe5 Bc6 12. Nxc6 bxc6 13. Qc4 Qc8 14.
+Bxf6 gxf6 15. Ne4 Qc7 16. Qc3 Kf8 17. g3 Qe5 18. Qe3 Kg7 19. f4 Qb5 20. Rd7
+Rhe8 21. Rhd1 Rad8 22. Rxd8 Rxd8 23. Rxd8 Bxd8 24. Qd3 Qd5 25. Qxd5 cxd5 26.
+Nc3 Kg6 27. g4 f5 28. h3 fxg4 29. hxg4 f5 30. gxf5+ Kxf5 31. Ne2 Bc7 32. Nd4+
+Kf6 33. f5 exf5 34. Kd2 Be5 35. Ke3 f4+ 36. Kd3 Bxd4 37. Kxd4 Kf5 38. Kd3 Kg4
+39. Ke2 Kg3 40. Kf1 h5 41. b4 h4 42. a4 h3 43. Kg1 h2+ 44. Kh1 f3 45. b5 f2 46.
+b6 f1=Q# 0-1
+

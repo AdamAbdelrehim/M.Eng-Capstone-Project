@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "trebor23"]
+[Black "tuti2500"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Noh0F2k4"]
+[WhiteElo "2427"]
+[BlackElo "2591"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "01:36:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 exf6 4. e3 f5 5. c4 g6 6. Nc3 dxc4 7. Bxc4 Bg7 8.
+Nf3 O-O 9. O-O Nd7 10. Re1 Nb6 11. Bf1 Be6 12. g3 c6 13. Bg2 h6 14. Qc2 Qd6 15.
+a3 Rac8 16. b4 Rfd8 17. Na4 Nd7 18. Nc5 Nxc5 19. bxc5 Qe7 20. Rab1 Bd5 21. Rb4
+Rc7 22. Reb1 Rdd7 23. Nd2 Bxg2 24. Kxg2 h5 25. Nc4 h4 26. Nd6 b5 27. R4b3 Qe6
+28. a4 a6 29. axb5 cxb5 30. Qe2 hxg3 31. hxg3 Rxd6 32. cxd6 Qxd6 33. Qf3 Bf8
+34. Ra1 b4 35. Ra5 Rc2 36. Rb1 Qb6 37. Rba1 b3 38. Rxa6 Qb4 39. Rb1 b2 40. Ra7
+Qb3 41. g4 Rc1 42. gxf5 Rxb1 43. fxg6 Rg1+ 44. Kxg1 b1=Q+ 45. Kh2 Qxg6 46. Qg3
+Bd6 47. f4 Qxg3+ 48. Kxg3 Qxe3+ 49. Kg4 Qxf4+ 50. Kh5 Qf5+ 51. Kh4 Qe4+ 52. Kg5
+Qd5+ 53. Kf6 Qxd4+ 54. Kf5 Qxa7 55. Kg5 Qe7+ 56. Kh6 Qf6+ 57. Kh5 Qg6+ 58. Kh4
+Kg7 59. Kh3 Kf6 60. Kh4 Kf5 61. Kh3 Qg4# 0-1
+

@@ -1,0 +1,43 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2024.01.17"]
+[Round "-"]
+[White "chesskingboy"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "8/p3pp1p/1p1r1kp1/1R6/P3P3/4KP2/6PP/8 w - - 1 26"]
+[Timezone "UTC"]
+[ECO "D80"]
+[ECOUrl "https://www.chess.com/openings/Grunfeld-Defense-Stockholm-Variation...5.Bxf6-Bxf6-6.cxd5-c6"]
+[UTCDate "2024.01.17"]
+[UTCTime "03:25:24"]
+[WhiteElo "1483"]
+[BlackElo "1398"]
+[TimeControl "1/259200"]
+[Termination "chesskingboy won by resignation"]
+[StartTime "03:25:24"]
+[EndDate "2024.02.05"]
+[EndTime "01:01:12"]
+[Link "https://www.chess.com/game/daily/610661381"]
+
+1. d4 { [%clk 64:20:50] } 1... Nf6 { [%clk 71:58:30] } 2. c4
+{ [%clk 57:53:03] } 2... g6 { [%clk 71:13:18] } 3. Nc3 { [%clk 69:59:34] } 3...
+d5 { [%clk 69:54:03] } 4. Bg5 { [%clk 34:25:18] } 4... Bg7 { [%clk 70:40:36] }
+5. Bxf6 { [%clk 39:27:10] } 5... Bxf6 { [%clk 71:57:02] } 6. cxd5
+{ [%clk 50:38:13] } 6... c6 { [%clk 71:57:52] } 7. e4 { [%clk 57:28:54] } 7...
+Qb6 { [%clk 9:48:34] } 8. dxc6 { [%clk 51:43:11] } 8... Nxc6
+{ [%clk 71:58:40] } 9. Nf3 { [%clk 56:48:50] } 9... Nxd4 { [%clk 71:58:50] }
+10. Nxd4 { [%clk 64:02:43] } 10... Bxd4 { [%clk 71:56:52] } 11. Bb5+
+{ [%clk 49:02:49] } 11... Kf8 { [%clk 71:44:28] } 12. Qe2 { [%clk 69:11:23] }
+12... Bg4 { [%clk 66:16:25] } 13. Qc2 { [%clk 64:41:36] } 13... Rc8
+{ [%clk 71:37:37] } 14. Bd3 { [%clk 65:15:27] } 14... Qxb2 { [%clk 70:33:40] }
+15. Qxb2 { [%clk 71:27:22] } 15... Bxc3+ { [%clk 71:59:47] } 16. Qxc3
+{ [%clk 58:17:06] } 16... Rxc3 { [%clk 71:55:04] } 17. Kd2 { [%clk 71:54:34] }
+17... Rc6 { [%clk 10:13:01] } 18. Rhc1 { [%clk 62:26:33] } 18... Bd7
+{ [%clk 64:43:23] } 19. f3 { [%clk 71:46:46] } 19... Kg7 { [%clk 71:59:45] }
+20. Rxc6 { [%clk 71:59:41] } 20... Bxc6 { [%clk 71:59:54] } 21. Rb1
+{ [%clk 53:12:08] } 21... Rd8 { [%clk 71:14:28] } 22. Ke3 { [%clk 46:14:25] }
+22... Kf6 { [%clk 71:55:38] } 23. Bb5 { [%clk 62:59:19] } 23... Bxb5
+{ [%clk 66:33:12] } 24. Rxb5 { [%clk 61:51:56] } 24... b6 { [%clk 71:48:16] }
+25. a4 { [%clk 69:17:34] } 25... Rd6 { [%clk 71:59:03] } 1-0
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Alpha_Zero_System"]
+[Black "Boreminator"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/1ePvC9fi"]
+[WhiteElo "2506"]
+[BlackElo "2541"]
+[ECO "B25"]
+[Opening "Sicilian Defense: Closed"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:06:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 d6 2. Nc3 g6 3. g3 Bg7 4. Bg2 c5 5. d3 Nc6 6. f4 e6 7. Nf3 Nge7 8. O-O
+Rb8 9. Be3 Nd4 10. e5 Nec6 11. Ne4 dxe5 12. Nxe5 O-O 13. c3 Nxe5 14. fxe5 Nf5
+15. Bxc5 Bxe5 16. Bxf8 Qxf8 17. d4 Bg7 18. Qf3 h5 19. Rae1 Bd7 20. Nd2 Bc6 21.
+Qe2 Qd6 22. Bxc6 Qxc6 23. Nc4 Qc7 24. Ne3 Nd6 25. Qf3 b5 26. a3 a5 27. h3 b4
+28. axb4 axb4 29. Rc1 bxc3 30. bxc3 Rb2 31. Rf2 Rb3 32. Rfc2 Bh6 33. Kg2 Nc4
+34. Nxc4 Bxc1 35. Qa8+ Kg7 36. Qa4 Rb1 37. Qa2 Qb7+ 38. Kf2 Bg5 39. Rb2 Rxb2+
+40. Qxb2 Qe4 41. Qe2 Qxe2+ 42. Kxe2 Kf8 43. Ne5 Ke7 44. c4 Bf6 45. Nf3 Kd6 46.
+Kd3 Kc6 47. Nd2 Kd6 48. Ne4+ Ke7 49. c5 Bg7 50. g4 hxg4 51. hxg4 f5 52. Nf2
+fxg4 53. Nxg4 Kd7 54. Ke4 Ke7 55. Ne5 g5 56. Nf3 Kd7 57. Nxg5 e5 58. d5 1-0
+

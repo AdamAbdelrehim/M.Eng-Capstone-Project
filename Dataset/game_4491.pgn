@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "MarioVillanueva"]
+[Black "Chess_diviner"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/ZIb20h4r"]
+[WhiteTitle "IM"]
+[BlackTitle "IM"]
+[WhiteElo "2645"]
+[BlackElo "2642"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo, with h6"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:16:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. O-O h6 6. a4 d6 7. Be3 Bxe3 8. fxe3
+O-O 9. Nbd2 Be6 10. Bxe6 fxe6 11. a5 a6 12. c3 Qe8 13. Qb3 Rb8 14. Qc4 Ng4 15.
+Rfe1 Qd7 16. h3 Nf6 17. Rf1 Nh7 18. Rf2 Rf6 19. b4 Rbf8 20. Raf1 Qe7 21. d4 Kh8
+22. dxe5 Nxe5 23. Nxe5 dxe5 24. Qe2 Rxf2 25. Rxf2 Rxf2 26. Qxf2 Kg8 27. Nc4 Qf6
+28. Qg3 Ng5 29. Qxe5 Qxe5 30. Nxe5 Nxe4 31. c4 Kf8 32. c5 c6 33. Kf1 Ke7 34.
+Ke2 Kf6 35. Nc4 e5 36. Kd3 Nf2+ 37. Kc2 Ne4 38. g4 Ke6 39. Kd3 Nf2+ 40. Ke2 Ne4
+41. Kf3 Ng5+ 42. Kg2 Ne4 43. Kf3 Ng5+ 44. Ke2 Ne4 45. h4 Kd5 46. Nb6+ Ke6 47.
+Nc8 Kd7 48. Nb6+ Ke6 49. Nc4 Kd5 50. Nb6+ Ke6 1/2-1/2
+

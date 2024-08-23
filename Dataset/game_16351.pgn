@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "tt99326"]
+[Black "blueberry_pancakes"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/0Gm45LIN"]
+[WhiteElo "2639"]
+[BlackElo "2463"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "01:11:59"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+12"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 c5 4. e3 Nc6 5. Nbd2 Qb6 6. dxc5 Qxb2 7. Rb1 Qc3 8.
+Bb5 g6 9. O-O Bg7 10. Be5 Qxc5 11. c4 O-O 12. Nb3 Qa3 13. Bb2 Qd6 14. Nbd4 Nxd4
+15. Bxd4 dxc4 16. Bxc4 Ne4 17. Qb3 Bxd4 18. Rfd1 Qb6 19. Rxd4 Qxb3 20. Rxb3 Nd6
+21. Bd5 Be6 22. Bxe6 fxe6 23. Ne5 Rac8 24. f4 Rc1+ 25. Kf2 Rc2+ 26. Kf3 Rxa2
+27. h3 Rc8 28. Nd3 Rcc2 29. g4 Rh2 30. Kg3 Rh1 31. e4 Rg1+ 32. Kh4 b6 33. e5
+Nf7 34. g5 h6 35. Rd7 hxg5+ 36. fxg5 Nxg5 37. Nf4 Rf2 38. Nxg6 Nf3+ 39. Rxf3
+Rxf3 40. Nxe7+ Kf8 41. Nc6 Rf4+ 42. Kh5 Rc4 43. Nd8 Ke8 44. Rd6 Rg3 45. Nxe6
+Rxh3+ 46. Kg6 Rh8 47. Kf6 Rh6+ 0-1
+

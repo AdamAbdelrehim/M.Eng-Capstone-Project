@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "yoruv"]
+[Black "Son1kWave"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/i2g7nUT1"]
+[WhiteElo "2510"]
+[BlackElo "2455"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Reversed Mexican Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:35:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. Nf3 d5 2. Nc3 Nf6 3. d3 Bf5 4. Bg5 e6 5. e4 dxe4 6. dxe4 Qxd1+ 7. Rxd1 Bg4
+8. a3 Nc6 9. Bb5 Bc5 10. Bxc6+ bxc6 11. Bxf6 gxf6 12. Na4 Bb6 13. h3 Bxf3 14.
+gxf3 Rg8 15. Kf1 Ke7 16. Rg1 Rg6 17. Rg4 h5 18. Rg2 Rd8 19. Rxd8 Kxd8 20. Rxg6
+fxg6 21. f4 Kd7 22. Ke2 Kd6 23. c4 Bd4 24. f3 c5 25. Kd3 Kc6 26. b4 Bg1 27. Nc3
+cxb4 28. axb4 a6 29. Ne2 Bf2 30. Nc3 Be1 31. Na2 Kb6 32. Ke2 Bg3 33. Ke3 c5 34.
+bxc5+ Kxc5 35. Kd3 Bxf4 36. Nc3 a5 37. Ne2 Be5 38. f4 Bb2 39. f5 exf5 40. exf5
+g5 41. Ng3 h4 42. Ne4+ Kb4 43. Kc2 Be5 44. c5 a4 45. c6 a3 46. Kb1 g4 47. hxg4
+h3 48. Nf2 Kb3 49. c7 a2+ 50. Kc1 a1=Q+ 51. Kd2 Bxc7 52. Nxh3 Qd4+ 53. Ke2 Qe4+
+54. Kf2 Bb6+ 55. Kg3 Qe1+ 56. Kg2 Qh4 57. g5 Qg4+ 58. Kh2 Bc7+ 59. Kh1 Qxh3+
+60. Kg1 Bb6# 0-1
+

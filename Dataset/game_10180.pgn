@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "REALCHESS_SCHOOL"]
+[Black "silence404"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/oym2aIKp"]
+[WhiteElo "2734"]
+[BlackElo "2740"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Pirc Invitation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:59:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. Nf3 d6 2. g3 Nf6 3. Bg2 g6 4. O-O Bg7 5. d4 O-O 6. c3 b5 7. Bg5 Bb7 8. a4 a6
+9. axb5 axb5 10. Rxa8 Bxa8 11. Na3 c6 12. Nd2 Nbd7 13. e4 Qc7 14. Re1 Rc8 15.
+h3 h6 16. Be3 Ne8 17. Nc2 c5 18. Qe2 Qb8 19. Ra1 cxd4 20. Bxd4 e5 21. Ba7 Qb7
+22. Be3 Nc7 23. Nb3 Nb6 24. Na5 Qb8 25. Nb4 Na4 26. Nbc6 Bxc6 27. Nxc6 Qb7 28.
+Ne7+ Kh7 29. Nxc8 Qxc8 30. Qd2 Ne6 31. Qxd6 Nxb2 32. Bf1 Qxc3 33. Ra7 Kg8 34.
+Qd7 Ng5 35. Bxg5 Qf3 36. Bf4 Bf6 37. Qxf7+ Kh8 38. Bxh6 Nd1 39. Ra8+ Bd8 40.
+Qxf3 Ne3 41. fxe3 Kh7 42. Rxd8 b4 43. Qf6 b3 44. Rh8# 1-0
+

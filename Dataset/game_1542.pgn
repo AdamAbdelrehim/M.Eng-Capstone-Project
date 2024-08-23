@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Consent_to_treatment"]
+[Black "Dmitry_Alekseevic"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/kyMoKb0K"]
+[WhiteElo "2701"]
+[BlackElo "2588"]
+[ECO "A41"]
+[Opening "Rat Defense: English Rat"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:07:47"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 d6 2. c4 e5 3. d5 f5 4. g3 Nf6 5. Bg2 Be7 6. Nc3 O-O 7. e4 fxe4 8. Nxe4
+Nxe4 9. Bxe4 Nd7 10. Ne2 Nf6 11. Bg2 Qe8 12. O-O Qg6 13. Nc3 Bf5 14. b3 h5 15.
+h4 Rf7 16. Bg5 Raf8 17. Qd2 Nd7 18. Rfe1 a5 19. Rad1 Bxg5 20. Qxg5 Qxg5 21.
+hxg5 Nc5 22. Re3 b6 23. Bf1 Kh7 24. Rde1 Bg4 25. Nb5 e4 26. Bg2 Bf3 27. Bxf3
+Rxf3 28. Rxf3 Rxf3 29. Nxc7 Kg6 30. Ne8 Kxg5 31. Nxd6 Rd3 32. Nxe4+ Nxe4 33.
+Rxe4 Kf5 34. Re7 g5 35. Re6 Rd2 36. Rxb6 Rxa2 37. Rb8 Rc2 38. Re8 a4 39. bxa4
+Rxc4 40. d6 Rd4 41. Rd8 Rxa4 42. d7 Ra1+ 43. Kg2 Ke6 44. Rg8 Kxd7 45. Rxg5 h4
+46. g4 Ra3 47. Rh5 Ke6 48. Rxh4 Kf7 49. f3 Ra2+ 50. Kg3 Ra1 51. Rh5 Rg1+ 52.
+Kf4 Rb1 53. Rf5+ Ke6 54. Re5+ Kd6 55. Re4 Rb5 56. g5 Rb8 57. Kf5 Rf8+ 58. Kg4
+Ra8 59. Re1 Ra4+ 60. f4 Ra2 61. f5 Rg2+ 62. Kh5 Kd7 63. Kg6 Rh2 64. f6 Rh8 65.
+Re7+ Kd6 66. Re2 Rg8+ 67. Kf5 Rc8 68. Rd2+ Kc7 69. Rc2+ Kb7 70. Rxc8 Kb6 71. f7
+Kb5 72. f8=Q Ka4 73. Qf7 Kb5 74. Re8 Ka4 75. Re6 Kb5 76. Qd7+ Kb4 77. Rc6 Ka3
+78. Qb7 Ka2 79. Ra6# 1-0
+

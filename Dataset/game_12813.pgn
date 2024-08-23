@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "berval"]
+[Black "Reverse_Kasparov"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/OchXkAkj"]
+[WhiteTitle "FM"]
+[WhiteElo "2501"]
+[BlackElo "2455"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Cozio Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:20:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. c3 g6 5. h4 h6 6. d4 exd4 7. cxd4 d5 8. e5
+Bg4 9. Be2 Bg7 10. Nc3 O-O 11. Be3 Nf5 12. Qd2 Nxe3 13. fxe3 f6 14. O-O-O fxe5
+15. dxe5 Ne7 16. Nxd5 Nxd5 17. Qxd5+ Qxd5 18. Rxd5 Be6 19. Rc5 c6 20. Bc4 Bxc4
+21. Rxc4 Rae8 22. Re4 Rf5 23. Rd1 Bxe5 24. Nxe5 Rfxe5 25. Rxe5 Rxe5 26. Rd8+
+Kf7 27. Rd7+ Re7 28. Rxe7+ Kxe7 29. Kd2 Ke6 30. Kd3 Ke5 31. g3 b6 32. b4 Kd5
+33. e4+ Ke5 34. a4 g5 35. h5 g4 36. a5 c5 37. bxc5 bxc5 38. a6 c4+ 39. Kxc4
+Kxe4 40. Kc5 Kf3 41. Kc6 Kxg3 42. Kb7 Kh4 43. Kxa7 g3 44. Kb8 g2 45. a7 g1=Q
+46. a8=Q Qg8+ 47. Kc7 Qxa8 0-1
+

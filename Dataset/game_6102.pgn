@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Oleg_Ras"]
+[Black "aceas"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Y78cZ7T5"]
+[WhiteElo "2455"]
+[BlackElo "2507"]
+[ECO "B27"]
+[Opening "Sicilian Defense: Hyperaccelerated Fianchetto"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:33:18"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nf3 g6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6 dxc6 7. Qxd8+ Kxd8
+8. Bc4 Ke8 9. Bg5 Nd7 10. O-O-O f6 11. Be3 e5 12. h4 Bc5 13. Bxc5 Nxc5 14. h5
+g5 15. f3 Ke7 16. Ne2 Be6 17. Bxe6 Kxe6 18. Ng3 Rhd8 19. Nf5 a5 20. a3 b5 21.
+Ng7+ Kf7 22. Nf5 b4 23. Nd6+ Ke6 24. Nc4 bxa3 25. Nxa3 Rab8 26. Nc4 a4 27. Na5
+Rbc8 28. Rxd8 Rxd8 29. Nxc6 Rd6 30. Na5 g4 31. Rd1 Ra6 32. Nc4 Rc6 33. Ne3 gxf3
+34. gxf3 Nb3+ 35. Kb1 Nd4 36. Rf1 Ne2 37. Nf5 Rc8 38. Rd1 Rc6 39. h6 Kf7 40.
+Rd7+ Kg6 41. Rg7+ Kh5 42. Rxh7 Rb6 43. Ra7 Rb8 44. Ka2 Nd4 45. c3 Nxf5 46. exf5
+Kxh6 47. Rxa4 Kg5 48. Rg4+ Kxf5 49. b4 Ra8+ 50. Kb3 Ke6 51. c4 f5 52. Rg7 Kf6
+53. Rb7 Rd8 54. c5 e4 55. fxe4 f4 56. Rb6+ Ke5 57. Rb7 Kxe4 58. Rf7 Ke3 59. c6
+f3 60. b5 Rc8 61. Kb4 Rb8 62. Kc5 Re8 63. c7 Re5+ 64. Kd6 Re8 65. Rxf3+ Kxf3
+66. Kd7 Rg8 0-1
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Greg-Li"]
+[Black "Shvanov_Georgiy"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/TTbXvvse"]
+[WhiteElo "2390"]
+[BlackElo "2532"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Old Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:47:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d3 d5 2. Nf3 Nf6 3. g3 Nc6 4. Bg2 e5 5. O-O a5 6. Bg5 Be7 7. Nc3 O-O 8. e4
+d4 9. Bxf6 Bxf6 10. Nd5 g6 11. Nxf6+ Qxf6 12. Nd2 b5 13. f4 Qe7 14. f5 f6 15.
+fxg6 hxg6 16. a4 Ba6 17. axb5 Bxb5 18. Qg4 Kg7 19. Bh3 Nb8 20. Qf3 a4 21. Ra3
+Bd7 22. Bxd7 Nxd7 23. Rfa1 Nb6 24. h4 c5 25. Qg4 c4 26. h5 g5 27. Qf5 Qe8 28.
+g4 cxd3 29. cxd3 Ra7 30. b3 Qb5 31. Qg6+ Kh8 32. bxa4 Qb2 33. Qh6+ Kg8 34. Rb1
+Qxd2 35. Rxb6 Rc8 36. Rxf6 Rc1+ 37. Rf1 Rxf1+ 38. Kxf1 Rf7+ 39. Kg1 Qe1+ 40.
+Kh2 Rf2+ 41. Kg3 Qg1+ 42. Kh3 Qg2# 0-1
+

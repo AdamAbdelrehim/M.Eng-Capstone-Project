@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "beyondbirthday"]
+[Black "Vivaldi2006"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/1HQbWnLS"]
+[WhiteElo "2510"]
+[BlackElo "2463"]
+[ECO "B54"]
+[Opening "Sicilian Defense: Modern Variations, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:49:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Nxc6 bxc6 7. c4 g6 8.
+O-O Bg7 9. Nc3 O-O 10. h3 Rb8 11. Qc2 Nd7 12. Be3 c5 13. Rac1 Ne5 14. b3 Nc6
+15. f4 Nd4 16. Qd1 Qa5 17. Bd2 Qd8 18. Ne2 Nxe2+ 19. Qxe2 Bd4+ 20. Be3 a5 21.
+Bxd4 cxd4 22. Bc2 a4 23. bxa4 Rb2 24. Qd3 Ba6 25. Bb3 e5 26. fxe5 Qg5 27. Rc2
+Rxc2 28. Qxc2 dxe5 29. Rf3 Kg7 30. c5 d3 31. Qc3 d2 32. c6 Be2 33. Rg3 Qf4 34.
+c7 h5 35. Re3 Qf1+ 36. Kh2 Qf4+ 37. Rg3 h4 38. c8=Q Rxc8 39. Qe3 hxg3+ 40. Qxg3
+Qxg3+ 41. Kxg3 d1=Q 42. Bxd1 Bxd1 43. Kf2 Bxa4 44. Ke3 Rc2 45. Kf3 Rxa2 46. Kg3
+Ra3+ 47. Kf2 Rd3 48. Ke2 Rd4 49. Kf2 Rxe4 50. Kf3 Rf4+ 51. Kg3 Rf5 52. Kg4 Rf6
+53. Kg3 e4 54. Kg4 e3 55. g3 e2 56. h4 e1=Q 57. Kh3 Qh1+ 58. Kg4 Bd7+ 59. Kg5
+Rf5+ 60. Kg4 Rf2+ 61. Kg5 Qd5# 0-1
+

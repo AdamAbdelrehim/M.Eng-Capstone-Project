@@ -1,0 +1,37 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "zlatana75"]
+[Black "Hoon_Bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/h2yqFM41"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3030"]
+[BlackElo "2864"]
+[ECO "C00"]
+[Opening "Rat Defense: Small Center Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:23:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 e6 2. d4 d6 3. Nf3 Nf6 4. Bd3 Nbd7 5. e5 Nd5 6. O-O Nb4 7. Be2 Nc6 8. Bf4
+Be7 9. Nc3 O-O 10. Bg3 a6 11. Re1 dxe5 12. dxe5 Nc5 13. Qc1 Nb4 14. Rd1 Nd5 15.
+Bf1 a5 16. Rd2 c6 17. Qe1 Qb6 18. Rb1 a4 19. Nd1 Bd7 20. c4 Nb4 21. a3 Nba6 22.
+Qe3 Rfd8 23. Bd3 Be8 24. Bc2 Rxd2 25. Nxd2 Nd7 26. Qe2 Qa5 27. Nc3 Nac5 28.
+Nde4 Nxe4 29. Qxe4 g6 30. Nxa4 b5 31. Nc3 Nb6 32. cxb5 cxb5 33. Bh4 Bf8 34. Qd4
+b4 35. Ne4 Nd5 36. Bb3 Kg7 37. Nf6 Nxf6 38. Bxf6+ Kg8 39. axb4 Bxb4 40. Bc4 Bc5
+41. Qf4 Rb8 42. b3 Bb5 43. Rc1 Bxc4 44. Qxc4 Bf8 45. h3 Qa3 46. Rc3 Qa5 47. Rc1
+Qa3 48. Rd1 Qb2 49. Rd3 h6 50. Qc3 Qa2 51. Qc4 Bg7 52. Qc7 Ra8 53. Qb7 Bxf6 54.
+exf6 Rf8 55. Qf3 Qa1+ 56. Rd1 Qe5 57. h4 Rb8 58. g3 g5 59. h5 Qf5 60. Qc3 Qg4
+61. Rc1 Qxh5 62. Qc7 Ra8 63. b4 g4 64. Rd1 Qf5 65. Rd8+ Rxd8 66. Qxd8+ Kh7 67.
+Qf8 Qxf6 68. b5 h5 69. Qc5 Qa1+ 70. Kg2 Qa8+ 71. Kf1 Kg6 72. b6 Qh1+ 73. Ke2
+Qf3+ 74. Ke1 f5 75. Qd6 Qc3+ 76. Kd1 Qf3+ 77. Kc1 Qc3+ 78. Kd1 Qf3+ 79. Ke1
+Qc3+ 80. Kf1 Qc4+ 81. Kg1 Qe4 82. Kh2 Qe2 83. Kg2 Qe4+ 84. Kh2 Qe2 85. Qd4 Qf3
+86. Qb2 h4 87. gxh4 Qd5 88. Qa3 Qd4 89. Qe3 Qd6+ 90. Kg1 Qd1+ 91. Kg2 Qd5+ 92.
+Kg1 Qd1+ 1/2-1/2
+

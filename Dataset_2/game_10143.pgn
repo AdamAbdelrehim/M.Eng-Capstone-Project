@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.09.02"]
+[Round "-"]
+[White "Parth220407"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "6k1/pp1b2p1/4p3/2ppb1Bq/8/2PP2R1/PP4PP/5R1K w - -"]
+[Timezone "UTC"]
+[ECO "B21"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-McDonnell-Attack-2...d5-3.e5"]
+[UTCDate "2023.09.02"]
+[UTCTime "04:57:15"]
+[WhiteElo "1999"]
+[BlackElo "1952"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "04:57:15"]
+[EndDate "2023.09.02"]
+[EndTime "05:08:33"]
+[Link "https://www.chess.com/game/live/87369666893"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:09:58.3] } 2. f4
+{ [%clk 0:09:58.9] } 2... d5 { [%clk 0:09:55.1] } 3. e5 { [%clk 0:09:56.7] }
+3... e6 { [%clk 0:09:51.1] } 4. Nf3 { [%clk 0:09:55.8] } 4... Nc6
+{ [%clk 0:09:49.8] } 5. Nc3 { [%clk 0:09:50.1] } 5... f6 { [%clk 0:09:47.6] }
+6. Be2 { [%clk 0:09:46.9] } 6... Nge7 { [%clk 0:09:44.2] } 7. O-O
+{ [%clk 0:09:45.5] } 7... Ng6 { [%clk 0:09:42.5] } 8. d3 { [%clk 0:09:36.1] }
+8... fxe5 { [%clk 0:09:40.3] } 9. fxe5 { [%clk 0:09:34.2] } 9... Be7
+{ [%clk 0:09:36.4] } 10. Ne1 { [%clk 0:08:18.2] } 10... Ncxe5
+{ [%clk 0:08:55.5] } 11. Bh5 { [%clk 0:08:13.5] } 11... Bf6
+{ [%clk 0:08:45.1] } 12. Nf3 { [%clk 0:08:07.6] } 12... O-O
+{ [%clk 0:08:40.3] } 13. Qe2 { [%clk 0:07:48.5] } 13... Nxf3+
+{ [%clk 0:08:27.7] } 14. Rxf3 { [%clk 0:07:46.2] } 14... Bxc3
+{ [%clk 0:08:26.2] } 15. Bxg6 { [%clk 0:07:25.3] } 15... Bd4+
+{ [%clk 0:08:21.8] } 16. Kh1 { [%clk 0:07:02.5] } 16... hxg6
+{ [%clk 0:08:15.6] } 17. Rg3 { [%clk 0:07:00] } 17... Bd7 { [%clk 0:07:10.9] }
+18. Rxg6 { [%clk 0:06:40.4] } 18... Rf2 { [%clk 0:07:06.9] } 19. Qe1
+{ [%clk 0:05:51.4] } 19... Qh4 { [%clk 0:06:48.5] } 20. Rg3
+{ [%clk 0:05:42.7] } 20... Raf8 { [%clk 0:06:39.9] } 21. Bg5
+{ [%clk 0:05:23.2] } 21... Qh5 { [%clk 0:05:40.5] } 22. c3 { [%clk 0:05:12.4] }
+22... Rf1+ { [%clk 0:05:20] } 23. Qxf1 { [%clk 0:05:10.1] } 23... Rxf1+
+{ [%clk 0:05:19.9] } 24. Rxf1 { [%clk 0:05:08.5] } 24... Be5
+{ [%clk 0:05:08.1] } 0-1
+

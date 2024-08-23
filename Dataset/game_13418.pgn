@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "andrewrun"]
+[Black "Plmlgs99"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/jErIj1s6"]
+[WhiteTitle "NM"]
+[WhiteElo "2409"]
+[BlackElo "2568"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:36:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. d4 cxd4 3. c3 g6 4. Bc4 Bg7 5. Nf3 d6 6. O-O Nf6 7. Qe2 dxc3 8.
+Nxc3 O-O 9. Rd1 Bg4 10. h3 Bxf3 11. Qxf3 Nc6 12. Bf4 Nd7 13. Bd5 Qb6 14. Rac1
+Nd4 15. Qd3 Ne5 16. Qb1 Rac8 17. Be3 Nc4 18. Bxc4 Rxc4 19. Nd5 Rxc1 20. Nxe7+
+Kh8 21. Bxc1 Ne2+ 22. Kh1 Nc3 23. Nd5 Nxd5 24. Rxd5 Qxf2 25. b3 Qf1+ 26. Kh2
+Be5+ 27. Rxe5 dxe5 28. Qc2 Qf6 29. Bb2 Qf4+ 30. Kh1 Rd8 31. Qc7 Rd1# 0-1
+

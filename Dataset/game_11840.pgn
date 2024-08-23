@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "bot_adario"]
+[Black "ChessatronBot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/qiq3iSJ0"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2620"]
+[BlackElo "2446"]
+[ECO "B08"]
+[Opening "Pirc Defense: Classical Variation, Quiet System, Chigorin Line"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:06:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Nc6 7. d5 Ne5 8. Nxe5
+dxe5 9. Bg5 c6 10. dxc6 bxc6 11. Qxd8 Rxd8 12. Rfd1 Re8 13. Be3 a5 14. f3 Nh5
+15. Na4 Nf4 16. Bf1 Bf6 17. Bc4 Bg5 18. Bf2 h5 19. h4 Bf6 20. Kh2 Be6 21. Bb3
+g5 22. g3 Ng6 23. Bxe6 fxe6 24. hxg5 Bxg5 25. Nb6 Rab8 26. b3 Kg7 27. Nd7 Ra8
+28. Kg2 Rh8 29. Rh1 h4 30. gxh4 Bxh4 31. Bxh4 Nxh4+ 32. Kf2 Ng6 33. Ke3 Kf7 34.
+a4 Kg7 35. Rxh8 Rxh8 36. Rd1 Kf7 37. Rd2 Ra8 38. Kd3 Ke8 39. Kc3 Rc8 40. Nc5
+Nf8 41. Kc4 Ra8 42. c3 Kf7 43. b4 Ng6 44. b5 cxb5+ 45. axb5 Rb8 46. Na6 Rb7 47.
+Kc5 Nh4 48. c4 Kg6 49. Rd3 Kg5 50. Kc6 Nxf3 51. Rxf3 Rxb5 52. cxb5 Kg4 53. Ra3
+Kf4 54. Nc5 Kg5 55. b6 Kf4 56. b7 a4 57. b8=Q Kg5 58. Qg8+ Kh4 59. Nxe6 Kh5 60.
+Rh3# 1-0
+

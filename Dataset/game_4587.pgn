@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "MarkusMaischberger"]
+[Black "Gwynbleidd888"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/uP3EDRni"]
+[WhiteElo "2510"]
+[BlackElo "2493"]
+[ECO "B38"]
+[Opening "Sicilian Defense: Accelerated Dragon, Maróczy Bind"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:27:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. c4 Bg7 6. Be3 d6 7. Be2 Nf6 8. Nc3
+Bd7 9. O-O Nxd4 10. Bxd4 Bc6 11. f3 O-O 12. Qd2 a5 13. b3 Nd7 14. Be3 Nc5 15.
+Rab1 Qb6 16. Nb5 Bxb5 17. cxb5 Rfc8 18. Rfc1 Bh6 19. Bxh6 Nxe4+ 20. Qe3 Qxe3+
+21. Bxe3 Nc3 22. Rb2 a4 23. bxa4 Rxa4 24. Rbc2 Nxe2+ 25. Rxe2 Rxc1+ 26. Bxc1 e6
+27. Rc2 1-0
+

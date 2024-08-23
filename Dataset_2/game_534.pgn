@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.28"]
+[Round "-"]
+[White "Pegasus024"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r1b1k2r/ppp2ppp/2p5/4P3/8/8/PPP2KPP/R1Bq1B1R w kq -"]
+[Timezone "UTC"]
+[ECO "C46"]
+[ECOUrl "https://www.chess.com/openings/Three-Knights-Opening"]
+[UTCDate "2021.02.28"]
+[UTCTime "09:16:28"]
+[WhiteElo "723"]
+[BlackElo "867"]
+[TimeControl "60"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "09:16:28"]
+[EndDate "2021.02.28"]
+[EndTime "09:17:12"]
+[Link "https://www.chess.com/game/live/8242981653"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Nc3 { [%clk 0:00:57.9] }
+2... Nc6 { [%clk 0:00:59.9] } 3. Nf3 { [%clk 0:00:57.4] } 3... Nf6
+{ [%clk 0:00:59] } 4. d4 { [%clk 0:00:56.8] } 4... exd4 { [%clk 0:00:57.9] } 5.
+Nxd4 { [%clk 0:00:56.5] } 5... Bc5 { [%clk 0:00:57.6] } 6. e5
+{ [%clk 0:00:52.9] } 6... Ng4 { [%clk 0:00:55] } 7. Nxc6 { [%clk 0:00:50.9] }
+7... dxc6 { [%clk 0:00:51.5] } 8. Ne4 { [%clk 0:00:48.4] } 8... Nxf2
+{ [%clk 0:00:49.4] } 9. Nxf2 { [%clk 0:00:39.7] } 9... Bxf2+ { [%clk 0:00:48] }
+10. Kxf2 { [%clk 0:00:38.2] } 10... Qxd1 { [%clk 0:00:47.6] } 0-1
+

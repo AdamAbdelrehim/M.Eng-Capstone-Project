@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "zadokhlik"]
+[Black "JKR1"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/UdwdNbNy"]
+[WhiteElo "2558"]
+[BlackElo "2445"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Portuguese Gambit, Melbourne Shuffle Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:04:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Bg4 4. f3 Bf5 5. Bb5+ Nbd7 6. Nc3 a6 7. Ba4 b5 8.
+Bb3 Nb6 9. Nge2 Nfxd5 10. Nxd5 Nxd5 11. O-O e6 12. Ng3 Bg6 13. f4 c5 14. c4 Nb6
+15. f5 exf5 16. Nxf5 Bxf5 17. Rxf5 bxc4 18. Ba4+ Nxa4 19. Qxa4+ Qd7 20. Qc2
+Qxd4+ 21. Kh1 Bd6 22. Qe2+ Kf8 23. Qf3 Re8 24. Rxf7+ Kg8 25. Bg5 Qe5 26. g3
+Qxg5 0-1
+

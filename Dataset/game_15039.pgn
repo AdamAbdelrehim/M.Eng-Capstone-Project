@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "AKS-Mantissa"]
+[Black "solistabot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/sHttfk7k"]
+[WhiteTitle "BOT"]
+[WhiteElo "2726"]
+[BlackElo "3030"]
+[ECO "E92"]
+[Opening "King's Indian Defense: Orthodox Variation, Gligoric-Taimanov System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:38:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 g6 2. c4 Nf6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. Be3 exd4 8. Nxd4
+Re8 9. f3 c6 10. Qd2 d5 11. exd5 cxd5 12. O-O-O Nc6 13. Rhe1 Bd7 14. cxd5 Nb4
+15. Nc2 a5 16. a3 Bf5 17. Nd4 Bd7 18. Nc2 Bf5 19. Nd4 Bd7 20. Nc2 1/2-1/2
+

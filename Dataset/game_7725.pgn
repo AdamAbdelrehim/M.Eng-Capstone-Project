@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ViennaDragon"]
+[Black "Gertrude_Weichsel"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/qZ2OAaTp"]
+[WhiteElo "2546"]
+[BlackElo "2598"]
+[ECO "E01"]
+[Opening "Catalan Opening: Closed"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:03:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Bb4+ 5. Nd2 O-O 6. Nf3 dxc4 7. Qc2 a5 8. O-O
+b5 9. a3 Bxd2 10. Bxd2 Bb7 11. a4 Be4 12. Qc1 c6 13. Bg5 Nbd7 14. Ne5 Bxg2 15.
+Kxg2 Nxe5 0-1
+

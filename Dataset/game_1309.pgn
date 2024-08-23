@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "train_account"]
+[Black "Boris1970"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/K1czRg4E"]
+[WhiteElo "2591"]
+[BlackElo "2471"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:17:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6 bxc6 7. e5 Nd5 8.
+Ne4 f5 9. exf6 Nxf6 10. Nd6+ Bxd6 11. Qxd6 Qe7 12. Qxe7+ Kxe7 13. Be2 d5 14. c4
+e5 15. b3 d4 16. Ba3+ Kf7 17. Rd1 Bf5 18. f4 Rhe8 19. fxe5 Rxe5 20. Rxd4 Rae8
+21. O-O Rxe2 22. Rxf5 Rxa2 23. Bb4 Ree2 24. Rg4 Ke6 25. Rgg5 h6 0-1
+

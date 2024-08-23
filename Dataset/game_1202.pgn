@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "suddenly_sad"]
+[Black "bigslon_pupo"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/0thaSMjA"]
+[WhiteTitle "FM"]
+[WhiteElo "2559"]
+[BlackElo "2524"]
+[ECO "A45"]
+[Opening "Indian Defense: Reversed Chigorin Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:49:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. Nc3 c5 3. d5 g6 4. e4 d6 5. Nf3 Bg7 6. Be2 O-O 7. O-O e6 8. dxe6
+Bxe6 9. Bf4 d5 10. exd5 Nxd5 11. Nxd5 Qxd5 12. Qxd5 Bxd5 13. Rfd1 Be6 14. c3
+Nc6 15. Bd6 Rfd8 16. Bxc5 b6 17. Bd6 Na5 18. Be5 Rxd1+ 19. Bxd1 Nc4 20. Bxg7
+Kxg7 21. b3 Nd6 22. c4 b5 23. cxb5 Nxb5 24. Rc1 Rd8 25. Be2 Nd4 26. Nxd4 Rxd4
+27. Rc2 a5 28. f3 a4 29. Bc4 axb3 30. Bxb3 Bxb3 31. axb3 Rd1+ 32. Kf2 Rb1 33.
+Rc3 h5 34. g4 hxg4 35. fxg4 Rb2+ 36. Kg3 Kh7 37. h4 Kg7 38. Kf4 Rh2 39. b4 Rxh4
+40. b5 f5 41. Ke5 Rxg4 42. Rb3 Re4+ 43. Kd5 Re8 44. b6 Kf6 45. b7 Rb8 46. Kd6
+f4 47. Kc7 Rh8 48. b8=Q Rxb8 49. Rxb8 Kf5 50. Kd6 f3 51. Rf8+ Kg4 52. Ke5 g5
+53. Ke4 f2 54. Rxf2 Kh5 55. Kf5 Kh4 56. Rg2 Kh3 57. Rxg5 Kh2 58. Kf4 Kh3 59.
+Kf3 Kh4 60. Rf5 1-0
+

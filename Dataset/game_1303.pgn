@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "bordovyi_pion"]
+[Black "Igor_Akimov32"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/tNHxZV8W"]
+[WhiteElo "2402"]
+[BlackElo "2509"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:16:17"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 c5 2. Be2 d6 3. f4 Nf6 4. d3 Nc6 5. Nf3 Bg4 6. O-O e6 7. c3 Be7 8. Be3
+O-O 9. Nbd2 b5 10. d4 Rb8 11. h3 Bxf3 12. Bxf3 cxd4 13. cxd4 e5 14. fxe5 dxe5
+15. d5 Nd4 16. Nb3 Nxf3+ 17. Qxf3 a6 18. Rac1 Nd7 19. Qf2 a5 20. Nc5 Nxc5 21.
+Bxc5 Rc8 22. Bxe7 Qxe7 23. a3 b4 24. Qe3 Qd6 25. Rxc8 Rxc8 26. Rc1 Rf8 27. Rc6
+Qb8 28. Qb6 bxa3 29. bxa3 g6 30. d6 Qxb6+ 31. Rxb6 Rd8 32. Kf2 Kg7 33. Rb5 Kf6
+34. Rxa5 Rxd6 35. a4 Rd3 36. Ra7 h5 37. a5 g5 38. a6 g4 39. hxg4 hxg4 40. g3
+Rf3+ 41. Kg2 Re3 42. Rb7 Rxe4 43. a7 Re2+ 44. Kf1 Ra2 45. Ke1 Kg6 46. Kd1 f6
+47. Kc1 Kf5 48. Kb1 Ra6 49. Kb2 Ke4 50. Kb3 Kf3 0-1
+

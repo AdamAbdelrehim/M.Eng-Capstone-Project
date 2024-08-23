@@ -1,0 +1,43 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "expositor"]
+[Black "ELO_1500"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/E37dk2th"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2819"]
+[BlackElo "2958"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+[TimeControl "1200+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:16:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 Nf6 4. d4 cxd4 5. Nxd4 a6 6. h3 e5 7. Nb3 Be7 8. Be3
+Be6 9. Qf3 O-O 10. g4 a5 11. a4 Na6 12. O-O-O Rc8 13. Bb5 Rxc3 14. bxc3 d5 15.
+exd5 Bxd5 16. Rxd5 Nxd5 17. Bd2 Qd6 18. Kb1 Nac7 19. c4 Nxb5 20. axb5 a4 21.
+Qxd5 Qa3 22. Nd4 exd4 23. Re1 g6 24. Qxd4 Rd8 25. Qc3 Rxd2 26. Qxd2 Bf6 27. c3
+Bxc3 28. Re8+ Kg7 29. Qa2 Qd6 30. Qxa4 Qd3+ 31. Qc2 Qxc4 32. Re3 Qxb5+ 33. Kc1
+Qf1+ 34. Qd1 Bb2+ 35. Kc2 Qxf2+ 36. Qd2 Qxd2+ 37. Kxd2 h5 38. gxh5 gxh5 39. Rb3
+Be5 40. Rxb7 h4 41. Rb6 f6 42. Ke2 f5 43. Ke3 Bh2 44. Kf3 f4 45. Rc6 Bg3 46.
+Rc5 Be1 47. Rc1 Bg3 48. Rc6 Bh2 49. Re6 Bg3 50. Re5 Bh2 51. Re2 Bg3 52. Re6 Bh2
+53. Rd6 Bg3 54. Rd5 Be1 55. Rd1 Bg3 56. Rd6 Be1 57. Rd5 Bg3 58. Rd1 Bh2 59. Rb1
+Bg3 60. Rb5 Be1 61. Rb6 Bg3 62. Ra6 Bh2 63. Ra7+ Kf6 64. Ra6+ Ke5 65. Rh6 Bg3
+66. Rh5+ Kd4 67. Rb5 Be1 68. Rg5 Bg3 69. Rh5 Be1 70. Rb5 Bg3 71. Rh5 Be1 72.
+Rf5 Bg3 73. Rg5 Be1 74. Rh5 Bg3 75. Rh8 Be1 76. Rd8+ Kc3 77. Re8 Bg3 78. Re2
+Kb3 79. Re8 Bh2 80. Rh8 Bg3 81. Rc8 Bh2 82. Rc1 Bg3 83. Rd1 Bh2 84. Rc1 Bg3 85.
+Rc5 Bh2 86. Rb5+ Kc2 87. Ra5 Bg3 88. Ra3 Kb1 89. Ke2 Kb2 90. Ra6 Kc2 91. Rc6+
+Kb3 92. Rh6 f3+ 93. Kf1 f2 94. Rc6 Kb2 95. Rc4 Kb3 96. Rg4 Kb2 97. Rg6 Kc2 98.
+Rf6 Kd1 99. Rf5 Kc2 100. Rf3 Kd1 101. Rd3+ Kc2 102. Rf3 Kd1 103. Ra3 Kd2 104.
+Ra1 Be5 105. Ra2+ Kc3 106. Ra3+ Kb4 107. Ra6 Bh2 108. Ra2 Bg3 109. Ra8 Bh2 110.
+Rg8 Bg3 111. Rh8 Ka3 112. Rf8 Kb3 113. Rf7 Bh2 114. Rf5 Bg3 115. Rc5 Bd6 116.
+Rc6 Bg3 117. Rf6 Bh2 118. Rf3+ Kb4 119. Re3 Bg3 120. Rf3 Bh2 121. Rd3 Bg3 122.
+Rd2 Be5 123. Rd5 Bg3 124. Rf5 Bh2 125. Rh5 Bg3 126. Rf5 Bh2 127. Kxf2 Bg3+ 128.
+Kf1 Kb3 1/2-1/2
+

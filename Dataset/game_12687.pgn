@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "GhostStrikes"]
+[Black "Vihajaisestatulesta"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/A9islgWJ"]
+[WhiteElo "2557"]
+[BlackElo "2439"]
+[ECO "C45"]
+[Opening "Scotch Game: Tartakower Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:59:51"]
+[Termination "Normal"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Nd2 Bc5 7. Bd3 d5 8.
+O-O O-O 9. exd5 Bg4 10. Be2 Bxe2 11. Qxe2 cxd5 12. Nf3 h6 13. b3 Re8 14. Qd3
+Bd6 15. Bb2 c6 16. Rfe1 Ne4 17. c4 Bf8 18. cxd5 Qxd5 19. Qxd5 cxd5 20. Rad1
+Rad8 21. Nd4 Bb4 22. Re2 Bc3 23. f3 Bxb2 24. Rxb2 Nf6 25. Rbd2 Rc8 26. Kf2 Kf8
+27. g4 g6 28. h4 a6 29. Ne2 g5 30. hxg5 hxg5 31. Ng3 Ke7 32. Nf5+ Kd7 33. Ne3
+Kc6 34. Nxd5 Nxd5 35. Rxd5 Kb6 36. R1d2 f6 37. Rd6+ Rc6 38. Rxc6+ Kxc6 39. Re2
+Rf8 40. Re6+ Kb5 41. a4+ Kb4 42. Rb6+ Ka5 43. Rc6 Kb4 44. Rxa6 Kxb3 45. Ke3 f5
+46. Ra5 Re8+ 47. Kf2 fxg4 48. fxg4 Kb4 49. Rxg5 Kxa4 50. Rc5 Kb4 51. Rc1 Kb5
+52. Kf3 Kb6 53. Kf4 Rf8+ 54. Kg3 Kb7 55. g5 Rc8 56. Rxc8 Kxc8 57. Kf4 Kd8 58.
+Kf5 Ke8 59. Kg6 Kf8 60. Kh7 Kf7 61. g6+ Kf6 62. g7 Kg5 63. g8=Q+ Kh5 64. Qg1
+Kh4 65. Kg6 Kh3 66. Kf5 Kh4 67. Qg4# 1-0
+

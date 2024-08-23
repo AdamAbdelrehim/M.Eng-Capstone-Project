@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "old_school_chess467"]
+[Black "SeekingCompensation"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/swW5n7Dn"]
+[WhiteElo "2615"]
+[BlackElo "2570"]
+[ECO "B07"]
+[Opening "Pirc Defense: Kholmov System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:23:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Bc4 Bg7 5. Qe2 Nc6 6. e5 Ng4 7. e6 Nxd4 8. Qxg4
+Nxc2+ 9. Kd1 Nxa1 10. exf7+ Kf8 11. Qh4 d5 12. Bd3 Kxf7 13. Bh6 e5 14. Bg5 Qd6
+15. Nge2 Be6 16. Kd2 e4 17. Bb5 c6 18. Ba4 b5 19. Bd1 b4 20. Na4 b3 21. axb3
+Qb4+ 22. Nac3 Nxb3+ 23. Bxb3 Qxb3 24. Qf4+ Kg8 25. Kc1 h6 26. Qd6 Bf7 27. Bf6
+Rb8 28. Nd1 Bxf6 29. Qxf6 Qc4+ 30. Kd2 c5 31. Ne3 Qd3+ 32. Ke1 d4 33. Nd1 Re8
+34. h4 h5 35. Rh3 Qb1 36. Rg3 Rh6 37. Nf4 e3 38. fxe3 dxe3 39. Ke2 Qc2+ 0-1
+

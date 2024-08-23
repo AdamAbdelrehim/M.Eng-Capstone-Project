@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "smurf42"]
+[Black "GalimovaTS"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/CmdaNXCW"]
+[WhiteTitle "NM"]
+[WhiteElo "2568"]
+[BlackElo "2513"]
+[ECO "D78"]
+[Opening "Neo-Grünfeld Defense: Classical Variation, Original Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:39:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. c4 c6 2. g3 d5 3. Bg2 Nf6 4. Nf3 g6 5. O-O Bg7 6. d4 O-O 7. b3 Bf5 8. Bb2
+Ne4 9. Nbd2 Nd7 10. Rc1 Nxd2 11. Qxd2 Be4 12. cxd5 cxd5 13. Qb4 b6 14. Rc6 Rc8
+15. Rfc1 Rxc6 16. Rxc6 Qb8 17. Qxe7 Rd8 18. Ng5 1-0
+

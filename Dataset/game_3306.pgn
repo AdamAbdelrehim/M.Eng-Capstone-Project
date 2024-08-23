@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Belousov1996"]
+[Black "Patriarch2"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/DJCrY4kX"]
+[WhiteElo "2337"]
+[BlackElo "2526"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:30:57"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Nf6 4. Nc3 e6 5. Nxd5 exd5 6. d4 Bb4+ 7. c3 Bxc3+
+8. bxc3 1-0
+

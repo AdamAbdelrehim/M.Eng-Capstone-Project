@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.08"]
+[Round "-"]
+[White "jpmartop"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1bq1rk1/ppp2ppQ/2n5/2bnp1N1/2B5/3P4/PPP2PPP/RNB1K2R b KQ -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Giuoco-Piano-Game-Giuoco-Pianissimo-Variation-4...Nf6"]
+[UTCDate "2021.03.08"]
+[UTCTime "16:41:53"]
+[WhiteElo "886"]
+[BlackElo "871"]
+[TimeControl "60"]
+[Termination "jpmartop won by checkmate"]
+[StartTime "16:41:53"]
+[EndDate "2021.03.08"]
+[EndTime "16:42:16"]
+[Link "https://www.chess.com/game/live/8960800371"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:58.3] }
+2... Nc6 { [%clk 0:00:59.9] } 3. Bc4 { [%clk 0:00:57.4] } 3... Bc5
+{ [%clk 0:00:59.8] } 4. d3 { [%clk 0:00:55.5] } 4... Nf6 { [%clk 0:00:59.1] }
+5. Ng5 { [%clk 0:00:54.5] } 5... d5 { [%clk 0:00:56] } 6. exd5
+{ [%clk 0:00:52.2] } 6... Nxd5 { [%clk 0:00:55.9] } 7. Qh5 { [%clk 0:00:50.3] }
+7... O-O { [%clk 0:00:52.6] } 8. Qxh7# { [%clk 0:00:48.5] } 1-0
+

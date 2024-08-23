@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "DimaGrand"]
+[Black "Al_Nouria"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/lpRMdh3S"]
+[WhiteElo "2831"]
+[BlackElo "2683"]
+[ECO "A45"]
+[Opening "Trompowsky Attack: Classical Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:09:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. Bg5 e6 3. Nd2 Be7 4. e3 b6 5. Bd3 Bb7 6. Ngf3 c5 7. c3 Nc6 8. O-O
+O-O 9. Rc1 Rc8 10. Qa4 cxd4 11. cxd4 Nb4 12. Bb1 Rxc1 13. Rxc1 Qa8 14. a3 Nc6
+15. Ne5 Nxe5 16. dxe5 Nd5 17. Qh4 1-0
+

@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Vyka"]
+[Black "mandioka"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/wG1SB2H8"]
+[WhiteElo "2535"]
+[BlackElo "2414"]
+[ECO "B51"]
+[Opening "Sicilian Defense: Moscow Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:38:17"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. c4 Nf6 5. Nc3 e5 6. O-O Be7 7. d3 O-O 8. Ne2
+a6 9. Ba4 Rb8 10. Bb3 b5 11. cxb5 axb5 12. a4 c4 13. dxc4 bxc4 14. Bxc4 Nxe4
+15. a5 Ndc5 16. Qe1 d5 17. Ba2 Bf6 18. Ng3 Ba6 19. Qd1 Bxf1 20. Nxf1 d4 21. Bc4
+Qc7 22. Ra3 Nd6 23. Bd5 Nb5 24. Ra1 Rfd8 25. Bc4 Ne4 26. Bd3 Nbd6 27. a6 Nc5
+28. Ne1 Nb3 29. Rb1 e4 30. Bc2 Nxc1 31. Rxc1 Rdc8 32. Ra1 d3 33. Bb3 Bxb2 34.
+Rb1 Bf6 35. Ne3 Nb5 36. Nd5 Qd6 37. f3 Nc3 38. Nxc3 Rxc3 39. fxe4 d2 40. Nf3
+Rc1 41. Rxc1 dxc1=Q 42. Qxc1 Rxb3 43. e5 Bxe5 44. Nxe5 Rb8 45. Nf3 Qxa6 46. h3
+Qb6+ 47. Kh2 Qb7 48. Kh1 Qb1 49. Qxb1 Rxb1+ 50. Kh2 g6 51. Ne5 f6 52. Nd7 Kf7
+53. Nc5 f5 54. Nd3 Kf6 55. Nf4 g5 56. Nd5+ Ke5 57. Nc3 Rb2 58. Nd1 Ra2 59. Nc3
+Ra8 60. Nb5 f4 61. Nc3 Kf5 62. Nd1 h5 63. Nf2 g4 64. hxg4+ hxg4 65. Nd3 Kg5 66.
+Kg1 Ra3 67. Kf2 Rxd3 68. Ke2 Ra3 0-1
+

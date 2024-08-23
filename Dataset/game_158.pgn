@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "bsmail"]
+[Black "Micheliavelli"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/gbFUHEyg"]
+[WhiteElo "2445"]
+[BlackElo "2590"]
+[ECO "E21"]
+[Opening "Nimzo-Indian Defense: Three Knights Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "01:03:39"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 O-O 5. Qc2 c5 6. g3 cxd4 7. Nxd4 d5 8.
+cxd5 Nxd5 9. Bg2 Nxc3 10. bxc3 Qxd4 11. cxb4 Qxa1 12. O-O Qf6 13. Bb2 e5 14. f4
+Nc6 15. b5 Nd4 16. Qe4 Bf5 17. Qxb7 Qb6 18. e3 Qxb7 19. Bxb7 Rab8 20. Ba6 Nxb5
+21. Bxe5 Rb6 0-1
+

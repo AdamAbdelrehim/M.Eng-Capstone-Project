@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ksxpjsy"]
+[Black "illinisieve"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/laqBXLHG"]
+[WhiteElo "2548"]
+[BlackElo "2368"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "04:00:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. f4 d5 2. Nf3 Nf6 3. g3 g6 4. Bg2 Bg7 5. O-O O-O 6. d3 c5 7. Qe1 d4 8. e4
+dxe3 9. Bxe3 Qc7 10. Nc3 b6 11. Nb5 Qd8 12. Ne5 Nd5 13. c4 Nb4 14. Bxa8 Nc2 15.
+Qe2 Nxa1 16. Rxa1 1-0
+

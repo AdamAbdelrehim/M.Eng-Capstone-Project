@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ynos31"]
+[Black "SevanB"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ZosRocBw"]
+[BlackTitle "IM"]
+[WhiteElo "2547"]
+[BlackElo "2568"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:31:48"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e3 d5 2. Nf3 Bf5 3. Be2 e6 4. O-O Nf6 5. d4 Nbd7 6. Nbd2 Bd6 7. b3 c6 8. Bb2
+Qb8 9. Re1 Ne4 10. Nf1 O-O 11. N3d2 Bg6 12. Bd3 f5 13. f4 c5 14. c3 b5 15. Nf3
+b4 16. cxb4 Qxb4 17. a3 Qb6 18. Rb1 Bh5 19. Qc2 Rac8 20. Qd1 c4 21. bxc4 dxc4
+22. Bc2 Ndf6 23. Ng3 Nxg3 24. hxg3 Qc7 25. Qc1 c3 26. Ba1 Bxf3 27. gxf3 Qc6 28.
+Kf2 Nd5 29. Rb3 Qc7 30. Qd1 Qe7 31. e4 fxe4 32. fxe4 Nxf4 33. gxf4 Qh4+ 34. Ke2
+Qh2+ 35. Kd3 Bxf4 36. Rf1 Bd2 37. Rf3 Rxf3+ 38. Qxf3 Rf8 39. Qe2 Rf2 40. Qg4 h5
+41. Qxe6+ Kh7 42. Bxc3 Qg3+ 43. Kc4 Qc7+ 44. Kd5 Bxc3 45. Qc6 Qxc6+ 46. Kxc6
+Rxc2 47. Kd5 Ba1 48. Rd3 Ra2 49. e5 Re2 50. e6 Kg6 51. Kd6 Kf6 52. d5 g5 53.
+Rf3+ Kg6 54. e7 Be5+ 55. Kd7 Bf6 56. Rxf6+ Kxf6 57. d6 g4 58. e8=Q Rxe8 59.
+Kxe8 1-0
+

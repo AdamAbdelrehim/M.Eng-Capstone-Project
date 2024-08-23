@@ -1,0 +1,36 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "pawn_git"]
+[Black "RaspFish"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/jt9x2U2N"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2787"]
+[BlackElo "3033"]
+[ECO "C08"]
+[Opening "French Defense: Tarrasch Variation, Open System"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "02:31:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. exd5 exd5 5. Bb5+ Bd7 6. Bxd7+ Qxd7 7. Ne2 Nf6
+8. O-O Be7 9. dxc5 Bxc5 10. b3 Nc6 11. Bb2 O-O-O 12. Bxf6 gxf6 13. Nf3 h5 14.
+Qd3 Bb6 15. Rad1 d4 16. h3 Kb8 17. c3 Ne5 18. Qe4 d3 19. Nf4 Nxf3+ 20. Qxf3 d2
+21. Nxh5 Qb5 22. Nxf6 Rd3 23. Qf4+ Bc7 24. c4 Qc5 25. Ne4 Qxc4 26. Qf6 Qd4 27.
+Qxd4 Rxd4 28. Ng5 Rd5 29. f4 f6 30. Ne4 Rd4 31. Nxf6 Bxf4 32. Rf3 Rc8 33. Nd7+
+Kc7 34. Nc5 Kb6 35. Na4+ Ka5 36. Nc3 Bh6 37. a3 Rc6 38. b4+ Kb6 39. Kf2 a6 40.
+g3 Rd7 41. h4 Rd4 42. h5 Rd7 43. Na4+ Kb5 44. Nc3+ Kc4 45. Ne4 Rd4 46. Nc5 b6
+47. Na4 Re6 48. Nb2+ Kd5 49. Rf7 b5 50. Rf5+ Kc6 51. Rc5+ Kd6 52. Rc3 Rd5 53.
+g4 Rd4 54. Rf3 Rxg4 55. Nd3 Bg5 56. Rf5 Be3+ 57. Ke2 Rg3 58. Rxd2 Bxd2+ 59.
+Kxd2 Ree3 60. Nc5 Rh3 61. Rf6+ Kd5 62. Rxa6 Rxa3 63. Rxa3 Rxa3 64. Ke2 Kc4 65.
+Ne4 Kxb4 66. Nf6 Kb3 67. Ke3 b4 68. Kd4 Ka2 69. Nd5 b3 70. Nc3+ Ka1 71. Nd1 b2
+72. Nxb2 Kxb2 73. Ke4 Rh3 74. Kd4 Rxh5 75. Kc4 Kc2 76. Kd4 Kd1 77. Ke3 Rh4 78.
+Kd3 Ra4 79. Kc3 Ke2 80. Kb3 Rd4 81. Kc3 Rg4 82. Kc2 Rg3 83. Kc1 Kd3 84. Kb2 Kd2
+85. Kb1 Kc3 86. Ka1 Kb3 87. Kb1 Rg1# 0-1
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Alex_Lidsky"]
+[Black "Prebranac"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/kz7Lkbq4"]
+[WhiteElo "2509"]
+[BlackElo "2362"]
+[ECO "D11"]
+[Opening "Slav Defense: Modern Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:59:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. d4 d5 2. c4 c6 3. Nf3 e6 4. e3 f5 5. b3 Nf6 6. Bb2 Bd6 7. Nbd2 O-O 8. Ne5
+Bxe5 9. dxe5 Nfd7 10. Nf3 a6 11. Be2 b5 12. O-O Bb7 13. cxd5 cxd5 14. Nd4 Re8
+15. f4 Nc6 16. Rc1 Nxd4 17. Bxd4 Nf8 18. Qd2 Qh4 19. Rc7 Re7 20. g3 Rxc7 21.
+gxh4 Rac8 22. Bd3 Ng6 23. h5 Nh4 24. Qf2 g5 25. fxg5 1-0
+

@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "mboldysh"]
+[Black "ilprofessore87"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/dH0tG5DD"]
+[WhiteElo "2438"]
+[BlackElo "2568"]
+[ECO "E94"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:24:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. Nf3 d6 2. d4 Nf6 3. c4 g6 4. Nc3 Bg7 5. e4 O-O 6. Be2 e5 7. O-O b6 8. d5 a5
+9. Rb1 Na6 10. a3 Nc5 11. Qc2 Nfxe4 12. Nxe4 Nxe4 13. Qxe4 Bf5 14. Qh4 Bxb1 15.
+Bg5 f6 16. Rxb1 fxg5 17. Nxg5 h6 18. Nf3 Qxh4 19. Nxh4 g5 20. Ng6 Rf6 21. Ne7+
+Kf7 22. Nc6 a4 23. Bd3 Rf4 24. f3 h5 25. Be4 Rf8 26. Na7 Ke8 27. Nb5 Kd7 28.
+Nc3 Ra8 29. h3 Bh6 30. g4 hxg4 31. hxg4 Bg7 32. Rc1 Ra5 33. Bf5+ Kd8 34. Be4
+Kd7 35. Kg2 Ra8 36. Bf5+ Rxf5 37. gxf5 e4 38. fxe4 Ke7 39. Rc2 Bxc3 40. Rxc3
+Kf6 41. Rh3 Ke5 42. Kf3 Rg8 43. Rh7 g4+ 44. Kg3 Kxe4 45. f6 Kf5 46. Rxc7 Kxf6
+47. Rc6 Ke5 48. Rxb6 Rc8 49. Rb4 Kd4 50. Rxa4 Kd3 51. Kxg4 Kc2 52. Rb4 Ra8 53.
+Kf5 Kd3 54. Ke6 Kd4 55. Kxd6 Ra6+ 56. Kc7 Kc5 57. Kb7 Rh6 58. Ka7 Rh7+ 59. Ka6
+Rh6+ 60. Ka5 Rh8 61. Ka4 Ra8+ 62. Kb3 Rg8 63. Rb5+ Kd4 64. Kb4 Rg3 65. d6 Rg2
+66. Rd5+ Ke4 67. d7 Rg8 68. Kc5 Rb8 69. d8=Q Rc8+ 70. Qxc8 Ke3 71. Qe8+ Kf2 72.
+Rd7 Kg1 73. Rf7 Kh1 74. Qg8 Kh2 75. Rh7# 1-0
+

@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.16"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Ujkobolji"]
+[Result "0-1"]
+[CurrentPosition "r1bqkbnr/pppp1pp1/7p/8/2nNPB2/8/PPP1QPPP/RN2K2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C55"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Anti-Fried-Liver-Defense"]
+[UTCDate "2021.02.16"]
+[UTCTime "23:01:20"]
+[WhiteElo "1328"]
+[BlackElo "1348"]
+[TimeControl "600"]
+[Termination "Ujkobolji won by resignation"]
+[StartTime "23:01:20"]
+[EndDate "2021.02.16"]
+[EndTime "23:02:05"]
+[Link "https://www.chess.com/game/live/6581911846"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:59.8] } 2. Nf3
+{ [%clk 0:09:59.2] } 2... Nc6 { [%clk 0:09:58.5] } 3. Bc4 { [%clk 0:09:56.7] }
+3... h6 { [%clk 0:09:56.5] } 4. d4 { [%clk 0:09:51.2] } 4... exd4
+{ [%clk 0:09:55] } 5. Nxd4 { [%clk 0:09:49.6] } 5... Ne5 { [%clk 0:09:54.3] }
+6. Bf4 { [%clk 0:09:44.4] } 6... Nxc4 { [%clk 0:09:52.9] } 7. Qe2
+{ [%clk 0:09:38.4] } 0-1
+

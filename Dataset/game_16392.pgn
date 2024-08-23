@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "cranberry314"]
+[Black "firegus16"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/5j1Br7N8"]
+[WhiteElo "2556"]
+[BlackElo "2592"]
+[ECO "A67"]
+[Opening "Benoni Defense: Taimanov Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "01:28:59"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. e4 g6 7. f4 Bg7 8. Bb5+
+Nfd7 9. a4 Qh4+ 10. g3 Qd8 11. Nf3 O-O 12. O-O Nf6 13. Nd2 Bh3 14. Re1 a6 15.
+Bc4 Re8 16. Qb3 Qc7 17. Bf1 Bxf1 18. Rxf1 Nbd7 19. Re1 Rab8 20. Nc4 Ng4 21. Bd2
+Bd4+ 22. Kg2 Nf2 23. Be3 Nd3 24. Red1 Bxe3 25. Rxd3 Bd4 26. Re1 Bxc3 27. Qxc3
+b5 28. axb5 axb5 29. Nd2 c4 30. Rde3 Qc5 31. b4 cxb3 32. Nxb3 Qxc3 33. Rxc3 Nf6
+34. Rce3 b4 35. Kf3 Rbc8 36. Rd3 Rc4 37. e5 Nd7 38. e6 Nf6 39. g4 fxe6 40. dxe6
+d5 41. g5 Ne4 42. Rxd5 Rxe6 43. Nd4 Nd2+ 44. Kf2 Rxe1 45. Kxe1 Rxd4 46. Rb5
+Nf3+ 47. Kf2 Nh4 48. Kg3 Nf5+ 49. Kg4 Rc4 50. Rb8+ Kf7 51. Rb7+ Ke6 52. Rxh7
+Kd5 53. Rb7 Ne3+ 54. Kf3 Nf5 55. Rb6 Kc5 56. Rxg6 b3 57. Rg8 Rb4 58. Rc8+ Kd4
+59. Rc1 b2 60. Rb1 Kc3 61. Kg4 Nd4 62. g6 Nb3 63. Rxb2 Kxb2 64. g7 Rb8 65. Kg5
+Rg8 66. Kg6 Rc8 67. f5 Nd4 68. f6 Ne6 69. f7 Nxg7 70. Kxg7 Rc7 71. Kg8 Rc6 72.
+f8=Q Rc8 73. Kf7 Rc7+ 0-1
+

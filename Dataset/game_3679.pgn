@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Paparama"]
+[Black "Entrenamiento2021"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/KYWGZgCW"]
+[WhiteTitle "FM"]
+[WhiteElo "2627"]
+[BlackElo "2368"]
+[ECO "B54"]
+[Opening "Sicilian Defense: Prins Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:21:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 Nc6 6. c4 e5 7. Nc2 Be6 8. Nc3
+Be7 9. Be2 O-O 10. O-O Nd7 11. Be3 a6 12. Qd2 f5 13. exf5 Bxf5 14. Rad1 Kh8 15.
+Nd5 Nf6 16. Bb6 Qc8 17. Nce3 Nxd5 18. Nxd5 Bd8 19. Be3 b5 20. cxb5 axb5 21.
+Bxb5 Qb7 22. a4 Nd4 23. Bxd4 Qxd5 24. Be3 Qxd2 25. Rxd2 Be7 26. Rc1 Rfc8 27.
+Rxc8+ Rxc8 28. b4 Be6 29. Kf2 d5 30. Rb2 d4 31. Bd2 Rf8 32. Bd3 Bd5 33. Ke2 g5
+34. h3 h5 35. Rb1 g4 36. hxg4 hxg4 37. Rh1+ Kg8 38. Bh7+ Kf7 39. Be4 gxf3+ 40.
+gxf3 Bc4+ 41. Bd3 Bd5 42. Rh7+ Ke6 43. Rh6+ Kd7 44. Be4 Bc4+ 45. Kf2 Rb8 46. b5
+Bb3 47. a5 Bc5 48. Bc6+ Ke7 49. b6 d3+ 50. Kg3 Rg8+ 51. Kh2 Bg1+ 52. Kh3 Be6+
+53. Rxe6+ Kxe6 54. b7 Ba7 55. Bb5 Kf5 56. Bxd3+ Kf6 57. a6 Ke7 58. Bb4+ Kd7 59.
+Be4 Kc7 60. Bc3 Re8 61. Kg4 Kb6 62. Kf5 Kxa6 63. Bxe5 Bb8 64. Bxb8 Rxb8 65. Ke6
+Kb6 66. Ke7 Kc7 67. f4 Rh8 68. f5 Rh4 69. Bd5 Rh7+ 70. Ke6 Kb8 71. f6 Rh8 72.
+f7 Rd8 73. Ke7 Kc7 74. f8=Q 1-0
+

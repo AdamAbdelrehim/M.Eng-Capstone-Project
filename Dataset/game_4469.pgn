@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "vistagusta"]
+[Black "Gaius_Baltar"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/8KvaWf4x"]
+[WhiteElo "2798"]
+[BlackElo "2829"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:13:17"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 a6 6. O-O Bg6 7. c3 c5 8. Be3 cxd4
+9. Nxd4 Ne7 10. Nd2 Nbc6 11. f4 Nxd4 12. Bxd4 Nc6 13. Bf2 Be7 14. Nf3 O-O 15.
+Nd4 Nxd4 16. Bxd4 Be4 17. a4 Rc8 18. Qb3 Qc7 19. Bf3 Bg6 20. Kh1 Bc5 21. Rfd1
+Bxd4 22. Rxd4 f6 23. exf6 Rxf6 24. Re1 Bf7 25. g3 g5 26. Bg4 gxf4 27. gxf4 Rxf4
+28. Bxe6 Bxe6 29. Rxe6 Rf1+ 30. Kg2 Rcf8 31. Rg4+ Kh8 32. Re2 Qf7 33. Rg3 Rg1+
+34. Kh3 Qh5# 0-1
+

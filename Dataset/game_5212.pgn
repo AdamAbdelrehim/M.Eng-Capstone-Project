@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "monty82"]
+[Black "kmuruganim"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/q8U38drD"]
+[WhiteElo "2397"]
+[BlackElo "2501"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:42:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nc3 Nc6 3. d3 e6 4. Be3 d5 5. exd5 exd5 6. d4 Nge7 7. Nf3 Nf5 8.
+dxc5 d4 9. Bg5 Qa5 10. b4 Qxb4 0-1
+

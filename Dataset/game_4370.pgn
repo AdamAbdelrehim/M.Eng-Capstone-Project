@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "yeti806"]
+[Black "Rerres"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/zNg1Dahi"]
+[BlackTitle "FM"]
+[WhiteElo "2585"]
+[BlackElo "2404"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange, Alekhine Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:01:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd7
+8. Be3 O-O-O 9. Nd2 Ne7 10. O-O-O Ng6 11. h4 h5 12. f3 f6 13. Nf5 Bxf5 14. exf5
+Ne5 15. Ne4 Be7 16. Bf4 Nf7 17. Rxd8+ Rxd8 18. g4 Bd6 19. Bxd6 cxd6 20. Ng3
+hxg4 21. fxg4 Re8 22. Nh5 Re4 23. Nxg7 Rxg4 24. Ne8 Rf4 25. h5 Rxf5 26. h6 Kd7
+27. Ng7 Rg5 28. Nh5 Nxh6 29. Nxf6+ Kc7 30. Rxh6 d5 31. Rh7+ Kc8 32. Kd2 Rg6 33.
+Nh5 a5 34. a4 Rg2+ 35. Kd3 c5 36. b3 Rg4 37. Nf6 Rg3+ 38. Kd2 c4 39. Rh8+ Kc7
+40. Nxd5+ Kd6 41. Nc3 Rg2+ 42. Ne2 cxb3 43. cxb3 Kc5 44. Rh4 1-0
+

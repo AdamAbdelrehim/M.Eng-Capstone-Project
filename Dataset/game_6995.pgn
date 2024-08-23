@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ErenYerden"]
+[Black "BenHascom"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/T49qUiGU"]
+[WhiteElo "2440"]
+[BlackElo "2579"]
+[ECO "E04"]
+[Opening "Catalan Opening: Open Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:00:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 dxc4 5. Bg2 c5 6. O-O Nc6 7. Be3 Nd5 8. Bg5
+Qb6 9. e4 Ndb4 10. dxc5 Bxc5 11. Na3 Qa6 12. Qe2 b5 13. b3 Qxa3 0-1
+

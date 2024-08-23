@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "CaptainBucko"]
+[Black "alirezathenext"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/MbcPE9yH"]
+[WhiteElo "2538"]
+[BlackElo "2364"]
+[ECO "D06"]
+[Opening "Queen's Gambit Declined: Marshall Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:29:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+30"]
+
+1. d4 d5 2. c4 Nf6 3. cxd5 Nxd5 4. Nf3 e6 5. e4 Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 Nf6
+8. Nc3 c5 9. d5 exd5 10. exd5 O-O 11. Be2 Nbd7 12. O-O Nb6 13. Rad1 Re8 14. Bb5
+Bd7 15. d6 a6 16. Bd3 c4 17. Bc2 Bc6 18. Ng5 Re5 19. f4 Re8 20. Qd4 h6 21. Nf3
+Rc8 22. Ne5 Nbd7 23. Rde1 Qb6 24. Qxb6 Nxb6 25. g4 Nfd5 26. g5 Nxc3 27. bxc3
+Red8 28. gxh6 Rxd6 29. hxg7 Kxg7 30. Re3 Rh8 31. Rg3+ Kf8 32. Re1 Bd5 33. f5
+Rdh6 34. Ng4 Rh3 35. Ree3 Rxg3+ 36. Rxg3 Nd7 37. f6 Be6 38. h3 Bxg4 39. Rxg4 b5
+40. Rf4 Rh6 41. Bf5 Rxf6 42. Rf2 Ne5 43. Bg4 Nxg4 44. hxg4 Rxf2 45. Kxf2 Ke7
+46. Ke3 Kf6 47. Kd4 Kg5 48. Kc5 Kxg4 49. Kb6 f5 50. Kxa6 f4 51. Kxb5 f3 52.
+Kxc4 f2 53. Kb4 f1=Q 54. c4 Qb1+ 55. Kc5 Qxa2 56. Kd5 Kf5 57. Kd4 Ke6 58. Kc5
+Kd7 59. Kd4 Kc6 60. Ke4 Qxc4+ 61. Ke5 0-1
+

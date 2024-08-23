@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ilprofessore87"]
+[Black "tacticstrategy2"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/XiXGgnK4"]
+[WhiteElo "2523"]
+[BlackElo "2406"]
+[ECO "C18"]
+[Opening "French Defense: Winawer Variation, Portisch-Hook Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:49:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 Qa4 8. h4
+Nc6 9. Rb1 c4 10. Qc1 Nge7 11. h5 h6 12. g4 b6 13. f4 Bd7 14. Bh3 O-O-O 15. Ne2
+Kb8 16. O-O g6 17. Ng3 Rdg8 18. Kh2 Qa5 19. f5 gxf5 20. gxf5 exf5 21. Bxh6 Nd8
+22. Bg5 Qxc3 23. Ne2 Qxh3+ 24. Kxh3 Rxh5+ 25. Kg3 Rgxg5+ 26. Kf2 Rh2+ 27. Ke1
+Rgg2 28. Nf4 Rxc2 29. Qe3 Ne6 30. Nh3 Ba4 31. Nf2 f4 32. Qf3 Nf5 33. Qg4 Nfxd4
+34. Qg8+ Kb7 35. Qxf7+ Ka6 36. Qg8 Re2# 0-1
+

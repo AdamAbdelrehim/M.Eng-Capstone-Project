@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Veselchak-U"]
+[Black "pepek_mu_baukk"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/6y05LLHG"]
+[WhiteElo "2535"]
+[BlackElo "2566"]
+[ECO "D21"]
+[Opening "Queen's Gambit Accepted: Slav Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:47:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+12"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 b5 4. a4 c6 5. b3 Qa5+ 6. Bd2 b4 7. bxc4 c5 8. e3
+Nf6 9. Bd3 Nbd7 10. O-O e6 11. Be1 Bb7 12. Nbd2 Rd8 13. Nb3 Qc7 14. Qe2 a5 15.
+Bd2 Ne4 16. Rfc1 Bd6 17. Be1 O-O 18. h3 Rfe8 19. Nfd2 Nxd2 20. Bxd2 e5 21. d5
+e4 22. Bc2 Ba6 23. Be1 f5 24. Nd2 Nf6 25. Qd1 g5 26. Bb3 Qg7 27. Nf1 f4 28. Bd2
+Bc8 29. Rc2 f3 30. Bc1 fxg2 31. Ng3 Bxh3 32. Bb2 Qh6 33. Bxf6 Qxf6 34. Rcc1
+Bxg3 35. fxg3 Rf8 36. Qe2 Qe5 37. Kh2 Rd6 38. Qh5 Rf3 39. Qxh3 Rh6 40. Qxh6
+Qxg3+ 41. Kg1 Qf2+ 42. Kh2 g1=Q# 0-1
+

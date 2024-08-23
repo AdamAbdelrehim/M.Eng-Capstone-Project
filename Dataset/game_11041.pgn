@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "pepek_mu_baukk"]
+[Black "terminator_t1000-01"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/rurTT4Us"]
+[WhiteElo "2611"]
+[BlackElo "2429"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:06:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-3"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Bd3 Nf6 5. e5 dxe5 6. dxe5 Nfd7 7. Qe2 Nc5 8.
+Bc4 Bg4 9. Bxf7+ Kf8 10. h3 Bf5 11. Bc4 Nc6 12. Be3 Ne6 13. g4 1-0
+

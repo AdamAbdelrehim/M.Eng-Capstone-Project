@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "DenishevM"]
+[Black "peahuelle"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/OLol4MYT"]
+[WhiteTitle "FM"]
+[WhiteElo "2659"]
+[BlackElo "2620"]
+[ECO "D01"]
+[Opening "Richter-Veresov Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:14:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nc3 c6 4. e3 Bf5 5. h3 Nbd7 6. g4 Bg6 7. h4 h5 8. Bxf6
+Nxf6 9. g5 Ne4 10. Nxe4 Bxe4 11. f3 Bg6 12. Bd3 Bxd3 13. Qxd3 g6 14. Ne2 e6 15.
+f4 Qb6 16. O-O-O Be7 17. Rhe1 O-O-O 18. Ng1 Kb8 19. Nf3 Rhf8 20. Ne5 Rc8 21.
+Nd7+ 1-0
+

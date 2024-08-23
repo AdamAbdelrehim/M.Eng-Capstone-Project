@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ThomasASV"]
+[Black "okriak"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/hCvZ5BHj"]
+[WhiteElo "2591"]
+[BlackElo "2759"]
+[ECO "D21"]
+[Opening "Queen's Gambit Accepted: Normal Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:57:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c6 4. e3 Be6 5. Nbd2 b5 6. Ng5 Bd5 7. e4 h6 8. Ngf3
+Be6 9. a4 a6 10. axb5 cxb5 11. d5 Bg4 12. b3 c3 13. Bxb5+ axb5 14. Rxa8 cxd2+
+15. Bxd2 Nf6 16. Bf4 Nfd7 17. O-O g5 18. Bxb8 Nxb8 19. Qd4 f6 20. Qa7 Kf7 21.
+Rxb8 Qd6 22. Nd4 Bg7 23. h3 Bd7 24. Rxh8 Bxh8 25. Rc1 f5 26. Nxf5 Bxf5 27. exf5
+Qxd5 28. Qe3 Qxf5 29. Qf3 Qxf3 30. gxf3 b4 31. Rc4 Bc3 32. Kg2 Kf6 33. Kg3 Kf5
+34. Rc5+ e5 35. h4 gxh4+ 36. Kxh4 Kf4 37. Rc6 Kxf3 38. Rf6+ Ke2 39. Kg3 Kd3 40.
+Rxh6 Kc2 41. Kf3 Kxb3 42. Ke4 Kc2 43. Rh2 Kd1 44. f3 Ke1 45. Kd3 Kf1 46. Rc2
+Ke1 47. Ra2 Kf1 48. Ke3 Bd4+ 49. Kd3 b3 50. Rd2 b2 51. Rd1+ Kf2 52. Ke4 Ke2 53.
+Rh1 Kd2 54. f4 Kc2 55. f5 b1=Q 56. Rxb1 Kxb1 57. f6 Kc2 58. Kd5 Bb2 59. f7 Ba3
+60. Kxe5 Kd3 61. f8=Q Bxf8 1/2-1/2
+

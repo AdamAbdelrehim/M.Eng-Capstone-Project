@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "alina0220"]
+[Black "drawingchest"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Kzp4Z4vV"]
+[WhiteTitle "FM"]
+[BlackTitle "FM"]
+[WhiteElo "2574"]
+[BlackElo "2573"]
+[ECO "E73"]
+[Opening "King's Indian Defense: Normal Variation, Standard Development"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "02:21:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. h4 e5 7. d5 c6 8. Be3 Na6
+9. h5 Nc5 10. h6 Bh8 11. f3 Nh5 12. Rxh5 gxh5 13. Qd2 f5 14. dxc6 bxc6 15.
+O-O-O Ne6 16. exf5 Nd4 17. g4 Rb8 18. Nh3 Qh4 19. Ng5 hxg4 20. fxg4 Ba6 21. Nf3
+Nxf3 22. Bxf3 Bxc4 23. Bxc6 Rf7 24. b3 Rc8 25. Qxd6 Qg3 26. Bd2 Rfc7 27. Bd7
+Bxb3 28. Bxc8 Rxc3+ 29. Kb2 Rc2+ 30. Kb1 Bxa2+ 31. Kxc2 Qb3+ 0-1
+

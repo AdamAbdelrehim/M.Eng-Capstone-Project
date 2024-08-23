@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "chessforthemasses"]
+[Black "sumpf"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/si7AiUsc"]
+[WhiteElo "2504"]
+[BlackElo "2346"]
+[ECO "B27"]
+[Opening "Sicilian Defense: Hyperaccelerated Fianchetto"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:44:25"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. Nf3 g6 2. e4 c5 3. d4 cxd4 4. Qxd4 Nf6 5. e5 Nc6 6. Qa4 Nd5 7. c4 Nb6 8. Qb3
+d5 9. cxd5 Qxd5 10. Qxd5 Nxd5 11. a3 Bg7 12. Bf4 Nxf4 0-1
+

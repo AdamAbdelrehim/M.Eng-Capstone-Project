@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "RaceKing_2022"]
+[Black "yoda-wins"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/VOyQ07mm"]
+[WhiteElo "2554"]
+[BlackElo "2567"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:03:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 e6 7. Be3 Be7 8. g4
+b5 9. g5 Nfd7 10. h4 Bb7 11. Bg2 Nc6 12. f4 Na5 13. b3 Rc8 14. Nce2 Nc6 15. O-O
+Nc5 16. Ng3 O-O 17. f5 Nxd4 18. Bxd4 e5 19. Be3 Re8 20. f6 Bf8 21. fxg7 Bxg7
+22. Qh5 Rc7 23. Rad1 Ne6 24. Nf5 d5 25. exd5 Nf4 26. Bxf4 exf4 27. Nxg7 Kxg7
+28. Qh6+ Kg8 29. Rfe1 Rxc2 30. Be4 Rxe4 31. Rxe4 Qc8 32. Qh5 Qc5+ 33. Red4 Bxd5
+34. g6 Rg2+ 35. Kf1 Bc4+ 36. bxc4 Qxh5 37. gxf7+ Kg7 38. Kxg2 Qe2+ 39. Kh3 Qf3+
+40. Kh2 Qg3+ 41. Kh1 Qxh4+ 42. Kg2 Qg3+ 43. Kh1 Qh3+ 44. Kg1 Qe3+ 45. Kh2 bxc4
+46. Rg1+ Kxf7 0-1
+

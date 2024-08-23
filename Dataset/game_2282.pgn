@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Lynx_BOT"]
+[Black "expositor"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/rbM7rqhm"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2510"]
+[BlackElo "2740"]
+[ECO "D05"]
+[Opening "Queen's Pawn Game: Colle System"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:04:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+
+1. Nf3 d5 2. d4 Nf6 3. e3 e6 4. b3 Bd6 5. Nbd2 Nbd7 6. a4 e5 7. dxe5 Nxe5 8.
+Bb2 Nxf3+ 9. Qxf3 Be6 10. Bd3 Qe7 11. h3 O-O-O 12. O-O-O Kb8 13. Kb1 Rhe8 14.
+Bxf6 gxf6 15. Qh5 Be5 16. Nf3 Bc3 17. Ka2 Qb4 18. Bf5 c5 19. Bxe6 fxe6 20. Qxh7
+Rd6 21. Qg6 Rc8 22. Qg3 e5 23. Qg4 c4 24. Rb1 Ra6 25. Qd7 b5 26. Qxb5+ Qxb5 27.
+Rhc1 Kc7 28. Rb2 Qb4 29. Kb1 Rxa4 30. Nxe5 Qa3 31. bxa4 Qxb2# 0-1
+

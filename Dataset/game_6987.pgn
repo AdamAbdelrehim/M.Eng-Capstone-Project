@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "domore"]
+[Black "Hemoglobinski"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/UdzT5DM9"]
+[WhiteElo "2477"]
+[BlackElo "2572"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:58:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 g6 2. Nf3 Bg7 3. Bc4 c6 4. Nc3 d5 5. exd5 b5 6. Bb3 b4 7. Na4 cxd5 8. d4
+Nf6 9. Nc5 Nbd7 10. Nxd7 Bxd7 11. O-O O-O 12. a3 a5 13. axb4 axb4 14. Rxa8 Qxa8
+15. Bd2 Qb7 16. Re1 e6 17. Bf4 Ne4 18. Nd2 Nxf2 19. Kxf2 Bxd4+ 20. Be3 Bxb2 21.
+Nf3 Bc3 22. Bd4 Bxe1+ 23. Qxe1 f6 24. Bc5 Rc8 25. Qxb4 Qxb4 26. Bxb4 Kf7 27.
+Ke3 Bb5 28. Nd4 Bc4 29. Bxc4 Rxc4 30. c3 e5 31. Ne2 Ke6 32. Kd3 h5 33. h3 Rc8
+34. Nc1 Kf5 35. Nb3 Kf4 36. Ke2 Kg3 37. Kf1 Ra8 38. Be7 Ra6 39. Nd2 Ra1+ 40.
+Ke2 Ra6 41. Kf1 e4 42. c4 e3 43. Nf3 dxc4 44. Ke2 Kxg2 45. Kxe3 Re6+ 46. Kf4
+Rxe7 47. Nh4+ Kxh3 48. Nxg6 Rg7 49. Kf5 Rxg6 50. Kxg6 c3 51. Kh6 c2 52. Kg7
+c1=Q 53. Kf7 Qg5 54. Kf8 f5 55. Kf7 f4 56. Ke8 f3 57. Kd7 f2 58. Ke8 f1=Q 59.
+Kd7 Qf7+ 60. Kc8 Qgg8# 0-1
+

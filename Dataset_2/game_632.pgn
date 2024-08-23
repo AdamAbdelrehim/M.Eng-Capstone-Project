@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.06"]
+[Round "-"]
+[White "alejandrocortezon"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r1bqk1nr/pppp1ppp/2n5/4p3/4P3/3PbN2/PPP2PPP/RN1QKB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "C44"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation-2...Nc6-3.d3"]
+[UTCDate "2021.03.06"]
+[UTCTime "09:34:10"]
+[WhiteElo "1310"]
+[BlackElo "1289"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won - game abandoned"]
+[StartTime "09:34:10"]
+[EndDate "2021.03.06"]
+[EndTime "09:36:16"]
+[Link "https://www.chess.com/game/live/8762169937"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:59.7] } 2. Nf3
+{ [%clk 0:09:58.8] } 2... Nc6 { [%clk 0:09:59] } 3. d3 { [%clk 0:09:57] } 3...
+Bc5 { [%clk 0:09:56.2] } 4. Be3 { [%clk 0:09:53.8] } 4... Bxe3
+{ [%clk 0:09:36.2] } 0-1
+

@@ -1,0 +1,36 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "gmmitkov"]
+[Black "zxcvbnm595"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/shCSREYL"]
+[WhiteElo "2629"]
+[BlackElo "2639"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:57:31"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. a3 d6 7. f4 Be7 8. Be3
+O-O 9. Be2 e5 10. Nf5 Bxf5 11. exf5 exf4 12. Bxf4 d5 13. Qd3 Qb6 14. O-O-O Rfe8
+15. Bf3 Rad8 16. Rhe1 Na5 17. Nxd5 Nxd5 18. Bxd5 Bf6 19. Rxe8+ Rxe8 20. b4 Nc6
+21. Qc4 Ne5 22. Bxe5 Qe3+ 23. Kb1 Qxe5 24. c3 Qxf5+ 25. Kb2 Rc8 26. Qe4 Bxc3+
+27. Kb3 Qf2 28. Qc2 Qxc2+ 29. Kxc2 Bxb4+ 30. Kb3 Bf8 31. Bxb7 Rb8 32. Rd7 g6
+33. a4 Kg7 34. a5 Kf6 35. a6 Ke6 36. Rd3 f5 37. Kc4 g5 38. Re3+ Kf6 39. Rd3 Ke6
+40. Kb5 Bd6 41. h3 h5 42. Kc6 Be5 43. Rd7 g4 44. Rh7 gxh3 45. gxh3 f4 46. Rh6+
+Kf5 47. Rxh5+ Ke4 48. Rh7 Ke3 49. Kd5 Bc3 50. Re7+ Kf2 51. Rf7 Bd2 52. Ke4 Be3
+53. h4 Re8+ 54. Kd3 Rh8 55. h5 Rxh5 56. Be4 Ra5 57. Rxa7 Ra3+ 58. Kc4 Bxa7 59.
+Bd5 Ra5 60. Kb4 Rxd5 61. Kc4 Rd6 62. Kb5 Rb6+ 63. Ka5 Ke3 64. Ka4 Rxa6+ 65. Kb5
+Rb6+ 66. Kc4 f3 67. Kd5 f2 68. Kc4 f1=Q+ 69. Kd5 Qd3+ 70. Kc5 Rd6+ 71. Kb4 Qc4+
+72. Kxc4 Rd4+ 73. Kb5 Rd3 74. Kc6 Bd4 75. Kb5 Rc3 76. Kb4 Kd3 77. Kb5 Rc4 78.
+Ka5 Rc3 79. Kb5 Kd2 80. Ka4 Be3 81. Kb4 Rd3 82. Kb5 Kc2 83. Kc6 Rc3+ 84. Kb5
+Rb3+ 85. Kc6 Rc3+ 86. Kd5 Bd2 87. Ke6 Rd3 88. Kf5 Kc3 89. Kg4 Rd4+ 90. Kf3 Kc4
+91. Kg2 Rd3 92. Kf2 Bc3 93. Ke2 Rd2+ 94. Ke1 Rd3+ 95. Kf1 Rd4 96. Kg1 Re4 97.
+Kg2 Re3 0-1
+

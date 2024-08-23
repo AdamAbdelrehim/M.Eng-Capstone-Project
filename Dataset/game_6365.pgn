@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Dmitrij_Osetrov"]
+[Black "FIDE-Trainer1984"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Cpi0M6se"]
+[WhiteElo "2548"]
+[BlackElo "2484"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:12:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. d4 d5 2. c4 e6 3. Nf3 c6 4. g3 dxc4 5. Bg2 Nd7 6. O-O b5 7. a4 Bb7 8. b3
+cxb3 9. Qxb3 a6 10. Ba3 Bxa3 11. Nxa3 Ngf6 12. Rfd1 O-O 13. Ne5 Qc8 14. Rac1
+Nxe5 15. dxe5 Nd7 16. axb5 axb5 17. Nxb5 Rb8 18. Nd6 Qc7 19. Qe3 Rfd8 20. Nxb7
+Qxb7 21. Rxc6 Nf8 22. Rcd6 Qc7 23. Qd4 Rdc8 24. h4 h6 25. h5 Qc5 26. Qxc5 Rxc5
+27. f4 Rc2 28. Bf3 Rcc8 29. Kf2 Nh7 30. Rd7 Nf8 31. R7d6 Nh7 32. Be4 Nf8 33.
+R1d2 Re8 34. g4 Red8 35. Rxd8 1-0
+

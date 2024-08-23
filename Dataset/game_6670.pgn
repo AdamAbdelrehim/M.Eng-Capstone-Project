@@ -1,0 +1,33 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ChessatronBot"]
+[Black "Lynx_BOT"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/SsaHzPQ8"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2519"]
+[BlackElo "2565"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Exchange Variation"]
+[TimeControl "900+3"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:04:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nxc6 bxc6 7. Qf3 Rb8 8.
+Bc4 Bc5 9. Bg5 h6 10. Be3 Bd4 11. Bb3 O-O 12. O-O-O Bxc3 13. bxc3 Qe7 14. c4 d6
+15. Rde1 c5 16. Bd2 Bd7 17. Rhg1 Bc6 18. Qd3 Ne8 19. Qg3 Kh7 20. a3 f5 21. exf5
+Rxf5 22. f4 e4 23. Qh3 Rf7 24. g4 Kg8 25. Ref1 a5 26. Bxa5 Ra8 27. Bd2 Rxa3 28.
+Kb1 Ra8 29. g5 hxg5 30. Rxg5 Bd7 31. f5 Nf6 32. Bc3 e3 33. Rfg1 e2 34. Kb2 Ra7
+35. Rg6 Ne8 36. Rh6 Rxf5 37. Rh8+ Kf7 38. Qg3 Rf6 39. Qg2 Bf5 40. Re1 Rg6 41.
+Qd5+ Be6 42. Qf3+ Nf6 43. Qxe2 Rg5 44. h4 Rf5 45. h5 Rg5 46. h6 Rd7 47. hxg7
+Kxg7 48. Qh2 Kf7 49. Rh6 Re5 50. Bxe5 dxe5 51. Qxe5 Rb7 52. Rf1 Ke8 53. Rfxf6
+Bf7 54. Qg5 Bxc4 55. Qh5+ Kd8 56. Rd6+ Qxd6 57. Rxd6+ Rd7 58. Rxd7+ Kxd7 59.
+Bxc4 Kc7 60. Qxc5+ Kd7 61. Bf7 Kd8 62. Qd6+ Kc8 63. Be6+ Kb7 64. Bd5+ Ka7 65.
+Qc7+ Ka6 66. Bc4# 1-0
+

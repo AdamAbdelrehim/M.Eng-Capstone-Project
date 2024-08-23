@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Predator_Shark"]
+[Black "Bertrandrussell55"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/maNES3PM"]
+[WhiteElo "2503"]
+[BlackElo "2470"]
+[ECO "C45"]
+[Opening "Scotch Game: Mieses Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:20:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+h4 d6 9. c4 Nb6 10. exd6 Qxe2+ 11. Bxe2 cxd6 12. Nc3 Be7 13. Bf4 O-O 14. O-O-O
+Rd8 15. Bf3 Nxc4 16. Bxc6 Rb8 17. Rhe1 Be6 18. b3 Ne5 19. Bxe5 dxe5 20. Rxd8+
+Rxd8 21. Rxe5 Rc8 0-1
+

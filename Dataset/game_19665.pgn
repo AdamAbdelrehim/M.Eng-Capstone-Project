@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "whingfoofang"]
+[Black "rankoneplayer"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/NFLAmYgC"]
+[WhiteElo "2472"]
+[BlackElo "2525"]
+[ECO "E60"]
+[Opening "King's Indian Defense: Santasiere Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:54:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. Nf3 g6 3. b4 Bg7 4. c4 O-O 5. Bb2 c6 6. e3 d5 7. a4 Nbd7 8. Nc3
+Re8 9. Be2 dxc4 10. Bxc4 Qc7 11. O-O e5 12. dxe5 Nxe5 13. Nxe5 Qxe5 14. Qb3 Be6
+15. Nd5 Qg5 16. Nc7 Bxc4 17. Qxc4 Re4 18. Bxf6 Rxc4 19. Bxg5 Rc8 20. Rac1 Rxc1
+21. Rxc1 Rxc7 22. b5 c5 23. Rc4 b6 24. Kf1 Rd7 25. Ke2 h6 26. Bf4 g5 27. Bb8
+Rb7 28. Bd6 Rd7 29. Bb8 Rb7 30. Bd6 f5 31. h3 Kf7 32. g4 Ke6 33. Bg3 Rd7 34.
+Bb8 Kd5 35. Rc1 Rb7 36. Bg3 fxg4 37. hxg4 c4 38. Rd1+ Ke6 39. Rd6+ Ke7 40. Rc6
+c3 41. e4 Rd7 42. Bb8 Rd2+ 43. Ke1 Ra2 44. Bxa7 Rxa4 45. Bxb6 Rxe4+ 46. Kd1
+Rxg4 47. Bc5+ Kd7 48. Rd6+ Kc7 49. b6+ Kb7 50. Rd7+ Kc6 51. Rc7+ Kd5 52. b7
+Rg1+ 53. Kc2 Be5 1-0
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Hanskai"]
+[Black "silence404"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/vy1RIjdK"]
+[WhiteElo "2786"]
+[BlackElo "2760"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with d6"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:15:27"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. Bd3 g6 5. Bc2 Bg7 6. d4 cxd4 7. cxd4 O-O 8. Nc3
+Nc6 9. h3 b6 10. O-O Bb7 11. Re1 Rc8 12. Qe2 Nd7 13. Be3 Na5 14. Rad1 Nc4 15.
+Bc1 a6 16. e5 dxe5 17. Nxe5 Ndxe5 18. dxe5 Qc7 19. e6 f5 20. Rd7 Qc6 21. Nd5
+Qxd5 22. Rxd5 Bxd5 23. Rd1 Rfd8 24. Bb3 b5 25. Bg5 Kf8 26. Rd3 h6 27. Bf4 g5
+28. Bc1 Kg8 29. h4 gxh4 30. Qh5 Bxe6 31. Rxd8+ Rxd8 32. Bxh6 Bf6 33. Qg6+ Kh8
+34. Bg5 Rd1+ 35. Kh2 Be5+ 36. f4 Ne3 37. Bxd1 Ng4+ 38. Bxg4 1-0
+

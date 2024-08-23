@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "NoahSkyler"]
+[Black "Blue_Sphinx"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/zfnOaJ3a"]
+[WhiteElo "2594"]
+[BlackElo "2588"]
+[ECO "C11"]
+[Opening "French Defense: Burn Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:22:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 e6 4. e4 dxe4 5. Nxe4 Be7 6. Bxf6 Bxf6 7. Nf3 b6 8.
+Bd3 Bb7 9. c3 Nd7 10. Qe2 O-O 11. O-O-O a5 12. h4 Be7 13. Neg5 h6 14. Nh7 Re8
+15. g4 g6 16. h5 Kxh7 17. hxg6+ fxg6 18. Qxe6 Bg5+ 19. Kb1 Rxe6 0-1
+

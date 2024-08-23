@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Chess_Ark"]
+[Black "Attila76"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/qxbbBZdX"]
+[BlackTitle "FM"]
+[WhiteElo "2771"]
+[BlackElo "2597"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Milner-Barry Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "06:27:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Nc6 6. Bd3 Bd7 7. dxc5 Bxc5 8. O-O
+a5 9. a4 Nge7 10. Na3 Ng6 11. Qe2 O-O 12. Nb5 f5 13. h4 h6 14. h5 Nh8 15. g3
+Nf7 16. Kg2 Qd8 17. Bf4 Ne7 18. Nbd4 Nc6 19. Nb3 Be7 20. Rh1 Ng5 21. Ne1 Ne4
+22. Qe3 b6 23. Bb5 Rc8 24. Bxc6 Bxc6 25. Nd4 Bd7 26. f3 Ng5 27. Nd3 Qe8 28.
+Bxg5 Bxg5 29. f4 Be7 30. Nf2 Bxa4 31. Nxe6 Bc5 32. Nd4 Bc2 33. g4 Be4+ 34. Nxe4
+dxe4 35. Kg3 fxg4 36. Rh4 Qb5 37. Nxb5 Bxe3 38. Rxg4 Rf5 39. Re1 Bd2 40. Re2 e3
+41. Nd6 Rcf8 42. Nxf5 Rxf5 43. Rh4 Kf7 44. Kf3 Ke6 45. Ke4 Rf7 46. Rg4 Rc7 47.
+Rg6+ Kf7 48. Rxb6 Rc4+ 49. Kf5 Rc7 50. Rg6 a4 51. Ra6 g6+ 52. hxg6+ Kg7 53.
+Rxa4 h5 54. Re4 h4 55. Kg4 Kxg6 56. f5+ Kh6 57. Kxh4 Rf7 58. Kg4 Rg7+ 59. Kf3
+Rg1 60. Rg4 Rf1+ 61. Ke4 Rh1 62. Reg2 Kh5 63. Rg5+ Kh6 64. f6 Kh7 65. Rg6 e2
+66. Rg7+ Kh8 67. Rxe2 Bxc3 68. bxc3 Rh4+ 69. Rg4 Rxg4+ 70. Kf5 Ra4 71. Rh2+ Kg8
+72. Rg2+ Kf8 73. Rg5 Ra5 74. Kg6 Rxe5 75. Rxe5 Kg8 76. Re8# 1-0
+

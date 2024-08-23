@@ -1,0 +1,29 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "DmitriiZakurdaev"]
+[Black "rtahmass"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/wCzkAQOQ"]
+[WhiteTitle "CM"]
+[WhiteElo "2557"]
+[BlackElo "2539"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Vienna Variation, Quiet Variation"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:46:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 dxc4 5. e3 a6 6. Bxc4 b5 7. Be2 Bb7 8. O-O
+Nbd7 9. a4 b4 10. Nb1 c5 11. b3 cxd4 12. Nxd4 Be7 13. Bb2 O-O 14. Nd2 Nd5 15.
+Nc4 Nc5 16. Bf3 Bf6 17. Qc2 Rc8 18. Rfd1 Qc7 19. Rac1 Rfd8 20. g3 e5 21. Nf5
+Nxe3 22. Rxd8+ Qxd8 23. fxe3 Bxf3 24. Nxe5 Be4 25. Qf2 Bxf5 26. Qxf5 Ne6 27.
+Rf1 Qd2 28. Rf2 Qxe3 29. Ng4 Qe1+ 30. Rf1 Qxf1+ 31. Kxf1 Bxb2 32. Ne5 Bxe5 33.
+Qxe5 Rc5 34. Qb8+ Nf8 35. Qxb4 Rf5+ 36. Kg2 a5 37. Qb8 g6 38. b4 axb4 39. Qxb4
+Ne6 40. a5 Nc5 41. Qb6 Nd3 42. Qd8+ Kg7 43. Qxd3 Rxa5 44. Qc3+ f6 45. Qxa5 Kh6
+46. Qc7 f5 47. Qe7 g5 48. Qf6+ Kh5 49. h3 f4 50. g4+ Kh4 51. Qh6# 1-0
+

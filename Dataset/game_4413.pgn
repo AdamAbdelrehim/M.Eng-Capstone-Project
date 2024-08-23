@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Al_Nouria"]
+[Black "Incike"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/SuHoDXw7"]
+[WhiteElo "2641"]
+[BlackElo "2689"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Levitsky Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:07:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-7"]
+
+1. d4 d5 2. Bg5 h6 3. Bh4 c5 4. Nf3 cxd4 5. Nxd4 g5 6. Bg3 Bg7 7. Nc3 Na6 8. e3
+e5 9. Bb5+ Bd7 10. Nf5 Bf6 11. Qxd5 Bxb5 12. Nd6+ Kd7 13. Nxb7+ 1-0
+

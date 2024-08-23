@@ -1,0 +1,37 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.04.09"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "skaterWorm"]
+[Result "0-1"]
+[CurrentPosition "r1b1k2r/p1p2ppp/8/1P1P4/Qb1pq3/N2nB3/PP2K1PP/R4B1R w kq -"]
+[Timezone "UTC"]
+[ECO "B01"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Modern-Marshall-Kiel-Variation"]
+[UTCDate "2022.04.09"]
+[UTCTime "01:48:17"]
+[WhiteElo "1819"]
+[BlackElo "1873"]
+[TimeControl "600"]
+[Termination "skaterWorm won by resignation"]
+[StartTime "01:48:17"]
+[EndDate "2022.04.09"]
+[EndTime "01:56:19"]
+[Link "https://www.chess.com/game/live/43207790155"]
+
+1. e4 { [%clk 0:09:58.8] } 1... d5 { [%clk 0:09:59] } 2. exd5
+{ [%clk 0:09:57.7] } 2... Nf6 { [%clk 0:09:58.4] } 3. d4 { [%clk 0:09:55] }
+3... Nxd5 { [%clk 0:09:57.4] } 4. c4 { [%clk 0:09:40.5] } 4... Nb4
+{ [%clk 0:09:55.4] } 5. Qa4+ { [%clk 0:09:21.5] } 5... N8c6
+{ [%clk 0:09:54.3] } 6. d5 { [%clk 0:09:20.1] } 6... b5 { [%clk 0:09:53.4] } 7.
+cxb5 { [%clk 0:08:49.6] } 7... Nd4 { [%clk 0:09:50.2] } 8. Na3
+{ [%clk 0:08:28.4] } 8... e5 { [%clk 0:09:19.9] } 9. Ne2 { [%clk 0:08:03.7] }
+9... Nd3+ { [%clk 0:08:59.9] } 10. Kd1 { [%clk 0:07:40.9] } 10... Nxf2+
+{ [%clk 0:08:58.7] } 11. Ke1 { [%clk 0:07:38.8] } 11... Qh4
+{ [%clk 0:08:46.7] } 12. Nxd4 { [%clk 0:06:55.5] } 12... Bb4+
+{ [%clk 0:08:28.9] } 13. Bd2 { [%clk 0:06:39.4] } 13... Nd3+
+{ [%clk 0:08:11.8] } 14. Ke2 { [%clk 0:06:14.9] } 14... Qe4+
+{ [%clk 0:07:43.8] } 15. Be3 { [%clk 0:05:53.6] } 15... exd4
+{ [%clk 0:07:42.4] } 0-1
+

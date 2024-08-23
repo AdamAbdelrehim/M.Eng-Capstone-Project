@@ -1,0 +1,22 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/kVrN1TQn"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "cacique26"]
+[Black "Shuvalov"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/QjVFHSk6"]
+[WhiteElo "2306"]
+[BlackElo "2523"]
+[ECO "C00"]
+[Opening "French Defense: Two Knights Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:37:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 e6 2. Nc3 d5 3. Nf3 Bb4 4. exd5 exd5 5. Ne2 Qe7 6. c3 Bd6 7. d4 Nf6 8. g3
+O-O 9. Bg2 Re8 10. Be3 Ng4 11. Bd2 b6 12. h3 Ba6 13. hxg4 Bxe2 0-1
+

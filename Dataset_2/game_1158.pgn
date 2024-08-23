@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.05.13"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Radev_Dota2"]
+[Result "1-0"]
+[CurrentPosition "r1b2rk1/ppp2ppp/2n1p3/3N4/1b1P2n1/3BBN2/PPP2PPP/R2Q1RK1 b - -"]
+[Timezone "UTC"]
+[ECO "C01"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Exchange-Variation-3...Qxd5"]
+[UTCDate "2021.05.13"]
+[UTCTime "23:08:00"]
+[WhiteElo "1388"]
+[BlackElo "1366"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "23:08:00"]
+[EndDate "2021.05.13"]
+[EndTime "23:10:54"]
+[Link "https://www.chess.com/game/live/14686079073"]
+
+1. e4 { [%clk 0:10:00] } 1... e6 { [%clk 0:09:54.1] } 2. d4
+{ [%clk 0:09:57.7] } 2... d5 { [%clk 0:09:53] } 3. exd5 { [%clk 0:09:52] } 3...
+Qxd5 { [%clk 0:09:52.9] } 4. Nc3 { [%clk 0:09:49] } 4... Bb4
+{ [%clk 0:09:50.1] } 5. Nf3 { [%clk 0:09:20.3] } 5... Nf6 { [%clk 0:09:37.6] }
+6. Bd3 { [%clk 0:09:00.2] } 6... Nc6 { [%clk 0:09:13.9] } 7. Be3
+{ [%clk 0:08:51] } 7... O-O { [%clk 0:08:49.5] } 8. O-O { [%clk 0:08:47.5] }
+8... Ng4 { [%clk 0:08:35.9] } 9. Nxd5 { [%clk 0:08:44.6] } 1-0
+

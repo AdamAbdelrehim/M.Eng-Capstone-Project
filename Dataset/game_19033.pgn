@@ -1,0 +1,33 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Lynx_BOT"]
+[Black "Nimfish"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/FEipmVGR"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2568"]
+[BlackElo "2345"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System, with e6"]
+[TimeControl "300+6"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:17:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+10"]
+
+1. d4 d5 2. Nf3 e6 3. Bf4 Bd6 4. Qc1 b6 5. Bxd6 cxd6 6. Qf4 Nc6 7. e3 Nf6 8.
+Nc3 O-O 9. O-O-O Qe7 10. Qg3 Ne4 11. Nxe4 dxe4 12. Ng5 d5 13. Nh3 Bb7 14. Kb1
+Rac8 15. Nf4 Na5 16. h4 Nc4 17. Bxc4 Rxc4 18. c3 h6 19. Qh3 Ba6 20. g4 g6 21.
+g5 h5 22. Qf1 b5 23. a3 Bb7 24. Rc1 Rfc8 25. Rg1 a5 26. Qe2 b4 27. Nxh5 bxc3
+28. Nf6+ Kg7 29. h5 Ba6 30. Rxc3 Rxc3 31. Qxa6 Rb8 32. h6+ Kh8 33. Qe2 Qxa3 34.
+Nd7 Rxb2+ 35. Qxb2 Rb3 36. Qxb3 Qxb3+ 37. Kc1 a4 38. Nc5 Qc3+ 39. Kb1 a3 40.
+Na4 Qb3+ 41. Ka1 Qxa4 42. Rc1 Qb4 43. Rb1 Qc4 44. Rb7 Qf1+ 45. Rb1 Qxf2 46.
+Rb8+ Kh7 47. Rb7 Kh8 48. Rb8+ Kh7 49. Rb7 Qxe3 50. Rxf7+ Kg8 51. Rb7 Qxg5 52.
+Ka2 e3 53. Rb6 Qg2+ 54. Kxa3 e2 55. Rb1 Qf1 56. Rxf1 exf1=Q 57. Ka4 Qc4+ 58.
+Ka5 g5 59. Kb6 g4 60. Kb7 g3 61. Ka7 Kh7 62. Kb6 g2 63. Ka7 g1=Q 64. Ka8 Qc8+
+65. Ka7 Qxd4# 0-1
+

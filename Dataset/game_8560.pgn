@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "KonanderBarbar"]
+[Black "CRBorn"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/qa7dBt2U"]
+[WhiteElo "2463"]
+[BlackElo "2532"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "03:42:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. Nf3 c5 2. e3 a6 3. b3 d5 4. Bb2 Nc6 5. d4 Bg4 6. Be2 Bxf3 7. Bxf3 cxd4 8.
+exd4 e6 9. O-O Nf6 10. c4 Be7 11. Re1 O-O 12. a3 a5 13. c5 b6 14. cxb6 Qxb6 15.
+Qd2 Qxb3 0-1
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "vointeka"]
+[Black "DeviousCat"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/wTsEkqlm"]
+[WhiteElo "2576"]
+[BlackElo "2648"]
+[ECO "D01"]
+[Opening "Richter-Veresov Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:00:17"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 c5 4. Bxf6 gxf6 5. e4 dxe4 6. Bb5+ Bd7 7. dxc5 f5 8.
+Qd4 Rg8 9. O-O-O Bg7 10. Qc4 Nc6 11. Bxc6 bxc6 12. Nge2 Qc7 13. g3 Rb8 14. b3
+Be6 15. Qa6 Bc8 16. Qc4 a5 17. a3 Be6 18. Qa4 Kf8 19. Nd4 Bd7 20. Qc4 Bf6 21.
+Na4 Kg7 22. Nb6 Rxb6 23. cxb6 Qxb6 24. h3 c5 25. Qd5 cxd4 26. Qxd7 Qc5 27. Kb1
+d3 0-1
+

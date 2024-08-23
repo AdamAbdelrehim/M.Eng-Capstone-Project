@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "dudosoaspecto"]
+[Black "sleepheaddefence"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/nB1DcmsR"]
+[WhiteElo "2518"]
+[BlackElo "2521"]
+[ECO "D32"]
+[Opening "Tarrasch Defense: Symmetrical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:43:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 c5 5. e3 Nc6 6. a3 dxc4 7. Bxc4 a6 8. O-O
+b5 9. Bd3 Bb7 10. dxc5 Bxc5 11. b4 Bd6 12. Bb2 Ne5 13. Nxe5 Bxe5 14. Qe2 O-O
+15. Rfd1 Qb8 16. h3 Rd8 17. Rac1 Qa7 18. Nxb5 axb5 19. Bxe5 Qxa3 20. Bxf6 gxf6
+21. Qg4+ Kf8 22. Bxb5 Bd5 23. Bf1 Bb3 24. Rxd8+ Rxd8 25. Rc7 Rd1 26. Qe2 Qa1
+27. b5 Qb1 28. b6 Bd5 29. e4 Bxe4 30. Rc8+ Kg7 31. Qg4+ Bg6 32. Qe2 Re1 33. Qc4
+Qxb6 34. Qc5 Qb1 35. Qf8# 1-0
+

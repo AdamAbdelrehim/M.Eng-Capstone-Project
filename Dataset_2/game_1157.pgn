@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.05.13"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Waterbedded"]
+[Result "0-1"]
+[CurrentPosition "r3kbnr/ppP2pp1/2n4p/8/2B1P3/5b2/PPP2PPP/RNBqK2R w KQkq -"]
+[Timezone "UTC"]
+[ECO "C55"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Anti-Fried-Liver-Defense"]
+[UTCDate "2021.05.13"]
+[UTCTime "23:06:15"]
+[WhiteElo "1380"]
+[BlackElo "1416"]
+[TimeControl "600"]
+[Termination "Waterbedded won by checkmate"]
+[StartTime "23:06:15"]
+[EndDate "2021.05.13"]
+[EndTime "23:07:43"]
+[Link "https://www.chess.com/game/live/14686058059"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:57.8] } 2. Nf3
+{ [%clk 0:09:58.5] } 2... Nc6 { [%clk 0:09:54.5] } 3. Bc4 { [%clk 0:09:57.7] }
+3... h6 { [%clk 0:09:48.6] } 4. d4 { [%clk 0:09:55.9] } 4... d6
+{ [%clk 0:09:41.6] } 5. dxe5 { [%clk 0:09:50.5] } 5... Bg4 { [%clk 0:09:24.1] }
+6. exd6 { [%clk 0:09:43.4] } 6... Bxf3 { [%clk 0:09:20.8] } 7. dxc7
+{ [%clk 0:09:30.6] } 7... Qxd1# { [%clk 0:09:05] } 0-1
+

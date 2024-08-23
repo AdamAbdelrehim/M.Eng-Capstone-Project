@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "farbmates"]
+[Black "michalkrycki2010"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/HzgPz67J"]
+[WhiteTitle "NM"]
+[WhiteElo "2525"]
+[BlackElo "2487"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, Adams Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:07:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h3 b5 7. g4 Bb7 8. Bg2
+e6 9. O-O Nbd7 10. e5 Bxg2 11. exf6 Bxf1 12. fxg7 Bxg7 13. Kxf1 Qc7 14. Qf3 Rc8
+15. Be3 Ne5 16. Qd1 Nc4 17. Ne4 d5 18. Ng3 0-1
+

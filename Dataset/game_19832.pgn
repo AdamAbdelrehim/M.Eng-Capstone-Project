@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "vatani_fedai"]
+[Black "Fritzi_2003"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ObatTjAW"]
+[WhiteElo "2449"]
+[BlackElo "2652"]
+[ECO "A00"]
+[Opening "Grob Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:19:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. g4 h5 2. g5 h4 3. Bg2 h3 4. Nxh3 d5 5. Ng1 e5 6. h4 f6 7. d3 Bb4+ 8. c3 Be7
+9. Qa4+ c6 10. Nf3 b5 11. Qb3 a5 12. a4 b4 13. e4 Be6 14. Nbd2 Na6 15. Qd1 Nc5
+16. Qe2 fxg5 17. hxg5 Rxh1+ 18. Bxh1 d4 19. cxd4 exd4 20. e5 Qd5 21. Nc4 Bf5
+22. Nd6+ Bxd6 23. exd6+ Kf8 24. Ne5 Qxh1+ 25. Qf1 Qd5 26. Bf4 Re8 27. O-O-O
+Rxe5 28. Bxe5 Qxe5 29. d7 Nxd7 30. Re1 Qf4+ 31. Kb1 Nc5 32. Qh1 Nxd3 33. Re2
+Nxf2+ 0-1
+

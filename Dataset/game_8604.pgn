@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "firegus16"]
+[Black "Slava50"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ixFHmUQU"]
+[BlackTitle "NM"]
+[WhiteElo "2570"]
+[BlackElo "2499"]
+[ECO "A40"]
+[Opening "Pterodactyl Defense: Queen Pterodactyl, Quiet Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "03:58:01"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 c5 4. e3 cxd4 5. exd4 Nf6 6. Nf3 d5 7. h3 O-O 8. Be2
+dxc4 9. Bxc4 Nc6 10. O-O Bf5 11. a3 Rc8 12. Ba2 Ne4 13. Re1 Nxd4 14. Nxe4 Nc2
+15. Bg5 Nxa1 16. Qxa1 h6 17. Bh4 g5 18. Bg3 Rc2 19. Nc3 e6 20. Ne5 Qa5 21. Bb1
+Bxe5 22. Bxe5 Rd2 23. Bxf5 exf5 24. Qb1 Qb6 25. Qxf5 Re8 26. Ne4 1-0
+

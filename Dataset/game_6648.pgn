@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "AM0R_FATI"]
+[Black "MightBeDecent"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/OZwiWdts"]
+[WhiteElo "2628"]
+[BlackElo "2628"]
+[ECO "D80"]
+[Opening "Grünfeld Defense: Stockholm Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:02:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Bg5 Ne4 5. Bf4 Nxc3 6. bxc3 Bg7 7. e3 c5 8. Nf3
+O-O 9. cxd5 cxd4 10. cxd4 Qxd5 11. Be2 Qa5+ 12. Qd2 Qxd2+ 13. Kxd2 Nc6 14. Rhc1
+Rd8 15. Ke1 Bf5 16. Rc5 Nb4 17. Kd2 Rac8 18. Bc7 Rd7 19. Rac1 Nxa2 20. R1c4 b6
+21. Rc6 Be4 0-1
+

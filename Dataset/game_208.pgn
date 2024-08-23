@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "antimisil"]
+[Black "Knights4base"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/jK8RGtGF"]
+[BlackTitle "IM"]
+[WhiteElo "2418"]
+[BlackElo "2566"]
+[ECO "A00"]
+[Opening "Polish Opening: Outflank Variation"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "01:21:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+3"]
+
+1. b4 c6 2. e3 Qb6 3. a3 a5 4. c3 e5 5. Bb2 d5 6. d4 exd4 7. cxd4 axb4 8. axb4
+Rxa1 9. Bxa1 Bxb4+ 10. Bc3 Nf6 11. Bd3 Bxc3+ 12. Nxc3 Qa5 13. Ne2 O-O 14. O-O
+b6 15. Qc2 Ba6 16. Rb1 Bxd3 17. Qxd3 Nbd7 18. Ng3 g6 19. e4 dxe4 20. Ncxe4 Nxe4
+21. Nxe4 Qf5 22. Re1 Re8 23. f3 Kg7 24. Qc3 Qd5 25. Rc1 Re6 26. Kh1 h6 27. h3
+Nf6 28. Nxf6 Kxf6 29. Qb4 Qd8 30. Qd2 Kg7 31. Qf4 Rd6 32. Rc4 b5 33. Rc5 Kg8
+34. Qxh6 Qd7 35. Qc1 Rxd4 36. Kh2 Rd1 37. Qf4 Qd6 38. Re5 Rd5 39. Re8+ Kg7 40.
+Qxd6 Rxd6 41. Rc8 b4 42. Kg3 Kf6 43. Kf4 Ke6 44. Ke4 f5+ 45. Ke3 Kd5 46. g4
+fxg4 47. fxg4 c5 48. h4 c4 49. h5 gxh5 50. gxh5 b3 51. Kd2 Kd4 52. Kc1 Kc3 53.
+Rg8 b2+ 0-1
+

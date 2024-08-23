@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "firegus16"]
+[Black "abking1971"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/d6GfGE0Q"]
+[WhiteElo "2564"]
+[BlackElo "2553"]
+[ECO "A56"]
+[Opening "Benoni Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "06:00:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 c5 3. e3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O d6 7. Nc3 Nc6 8. h3 e5
+9. Re1 exd4 10. exd4 Bf5 11. Bg5 h6 12. Bh4 g5 13. Bg3 Ne4 14. Nxe4 Bxe4 15.
+dxc5 dxc5 16. Qb3 Bxf3 17. Bxf3 Nd4 18. Qxb7 Nxf3+ 19. Qxf3 Bxb2 20. Rad1 Qf6
+21. Qd5 Bd4 22. Kh1 Rad8 23. Qb7 h5 24. f3 g4 25. fxg4 hxg4 26. Rf1 Qg6 27. h4
+Rfe8 28. Rf5 f6 29. Rdf1 Re3 30. Bc7 Rde8 31. Qd5+ Kh8 32. Rh5+ Kg7 33. Bf4 Re1
+34. Bh6+ Qxh6 35. Rxh6 Rxf1+ 36. Kh2 Kxh6 37. Kg3 Re3+ 38. Kxg4 f5+ 39. Qxf5
+Rxf5 40. Kxf5 0-1
+

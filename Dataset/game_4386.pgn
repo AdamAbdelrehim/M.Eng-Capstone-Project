@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "vistagusta"]
+[Black "schaakam"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/z6Wc7tO0"]
+[WhiteElo "2810"]
+[BlackElo "2769"]
+[ECO "C17"]
+[Opening "French Defense: Winawer Variation, Bogoljubow Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:03:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. Bd2 Ne7 6. a3 Bxc3 7. Bxc3 b6 8. Bb5+
+Bd7 9. Bd3 Nbc6 10. Qg4 Kf8 11. Nf3 h6 12. h4 Rc8 13. h5 cxd4 14. Bxd4 Nf5 15.
+Bxf5 exf5 16. Qf4 Be6 17. O-O-O Qc7 18. Kb1 Na5 19. Bc3 Nc4 20. Nd4 Nxa3+ 21.
+Kc1 Nc4 22. Nxf5 Nxb2 23. Qb4+ Kg8 24. Ne7+ Kh7 25. Nxc8 Nxd1 26. Rxd1 Rxc8 27.
+Kb2 Qc4 28. Qxc4 Rxc4 29. f3 a5 30. Rd4 g6 31. hxg6+ Kxg6 32. Rxc4 dxc4 33. Bd4
+b5 34. Bb6 a4 35. Ka3 Bd7 36. Be3 h5 37. Kb4 Kf5 38. g4+ hxg4 39. fxg4+ Kxg4
+40. c3 Kf5 41. Bd4 Ke4 42. Ka3 Kd3 43. Kb4 Kc2 44. Ka3 Bc6 45. Ka2 b4 46. cxb4
+c3 47. Be3 Bb5 48. Bg5 Kd1 49. Ka3 c2 50. Kb2 a3+ 51. Kxa3 c1=Q+ 52. Bxc1 Kxc1
+53. Kb3 Kd2 54. e6 fxe6 55. Kb2 e5 0-1
+

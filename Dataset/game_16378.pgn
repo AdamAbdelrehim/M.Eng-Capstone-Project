@@ -1,0 +1,27 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "magnusglad_bot"]
+[Black "Weiawaga"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/uc0axeCR"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2797"]
+[BlackElo "2705"]
+[ECO "D46"]
+[Opening "Semi-Slav Defense: Chigorin Defense"]
+[TimeControl "600+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "01:24:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+2"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 O-O 8. O-O
+dxc4 9. Bxc4 b5 10. Bd3 Bb7 11. e4 e5 12. Nxe5 Nxe5 13. dxe5 Bxe5 14. h3 Re8
+15. Be3 a6 16. f4 Bxc3 17. bxc3 c5 18. e5 c4 19. Be2 Be4 20. Qd1 Nd5 21. Qd4 f5
+22. a4 Qd7 23. Bf3 Bxf3 24. Rxf3 Qe6 25. Kh2 h6 26. Bf2 Kh7 27. Bh4 b4 28. cxb4
+Nxb4 29. Rb1 a5 30. Rd1 Nd3 31. Rb1 Nb4 32. Rd1 Nd3 33. Rb1 Nb4 1/2-1/2
+

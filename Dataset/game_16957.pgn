@@ -1,0 +1,34 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "odonata-bot"]
+[Black "Hoon_Bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/txFD4VCO"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2728"]
+[BlackElo "2886"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Löwenthal Variation"]
+[TimeControl "600+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:35:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 Nf6 6. Bg5 Bb4+ 7. N1c3 O-O 8.
+a3 Ba5 9. Qf3 Nd4 10. Nxd4 exd4 11. b4 dxc3 12. bxa5 d5 13. Rd1 dxe4 14. Qxc3
+Qe7 15. Bc4 Bg4 16. Bxf6 Qxf6 17. Qxf6 gxf6 18. Rd4 Rfd8 19. Bd5 Be6 20. c4
+Bxd5 21. cxd5 Rd6 22. Ke2 Rad8 23. Rhd1 f5 24. f3 exf3+ 25. gxf3 Kg7 26. Ke3
+Kf6 27. Kf4 R8d7 28. a4 h5 29. h4 Ra6 30. Re1 Rxa5 31. Re5 Kg6 32. d6 Ra6 33.
+Red5 f6 34. a5 Rc6 35. Rd2 Rc4+ 36. R5d4 Rc5 37. Rd5 Rc4+ 38. R2d4 Rc3 39. Kg3
+Rc2 40. Kf4 Rh2 41. Kg3 Rc2 42. Kf4 Rc3 43. Kg3 Rc1 44. Rd2 Rc4 45. Kh3 Rc1 46.
+Rg2+ Kh6 47. Rgd2 f4 48. Rf5 Kg6 49. Rxf4 Rc5 50. Ra4 a6 51. Kg3 Rf5 52. Kf2
+Rc5 53. Kg3 Kf5 54. Rd1 Rg7+ 55. Kf2 Rd7 56. Kg3 Ke6 57. Re4+ Re5 58. Rxe5+
+Kxe5 59. f4+ Ke6 60. Rb1 Kxd6 61. Rb6+ Ke7 62. Kf3 Kf7 63. Ke4 Kg6 64. Re6 Rd1
+65. f5+ Kf7 66. Rb6 Rd7 67. Re6 Rd2 68. Rb6 Rd7 69. Kf4 Re7 70. Rb4 Kg8 71. Rb6
+Kg7 72. Rb4 Kg8 73. Rb6 Kf7 74. Rb1 Kg7 75. Rb4 Kg8 1/2-1/2
+

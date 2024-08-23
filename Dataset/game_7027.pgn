@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "NikolaSubicZrinski"]
+[Black "dolynachess"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/9FMZ0kdT"]
+[WhiteElo "2573"]
+[BlackElo "2523"]
+[ECO "A00"]
+[Opening "Kádas Opening"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:04:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. h4 c5 2. c4 Nc6 3. g3 Nf6 4. Bg2 g6 5. Nc3 Bg7 6. d3 a6 7. e4 d6 8. Nge2 Rb8
+9. a4 h5 10. Bg5 O-O 11. O-O Ne8 12. Qd2 Nc7 13. Nd5 b5 14. axb5 axb5 15. Rab1
+bxc4 16. dxc4 Nxd5 17. exd5 Ne5 18. b3 Bf5 19. Rb2 Nxc4 20. bxc4 Rxb2 21. Qe3
+Re8 22. Re1 Qa5 23. Rd1 Qa2 24. Bf3 Qxc4 25. Kg2 Rb3 26. Qd2 Rxf3 0-1
+

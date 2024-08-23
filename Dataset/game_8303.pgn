@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Chess_Antistress"]
+[Black "tfajedrez"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/9w2MLJye"]
+[WhiteElo "2538"]
+[BlackElo "2379"]
+[ECO "B08"]
+[Opening "Pirc Defense: Classical Variation, Quiet System, Parma Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:01:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O Bg4 7. h3 Bxf3 8.
+Bxf3 Nc6 9. Be3 e5 10. Ne2 Nd7 11. c3 Kh8 12. Ng3 Bf6 13. Qd2 Nb6 14. b3 Bg7
+15. a4 Na5 16. Rab1 Rc8 17. Rfd1 Qe7 18. d5 f5 19. Bg5 Bf6 20. Bxf6+ Qxf6 21.
+c4 Nd7 22. Qxa5 a6 23. Qd2 f4 24. Nf1 h5 25. b4 a5 26. b5 Nc5 27. Qe2 b6 28.
+Nd2 Nxa4 29. Rdc1 Kg7 30. Nb3 Rh8 31. Ra1 Nc5 32. Nxc5 dxc5 33. d6 cxd6 34. Rd1
+Rcd8 35. Rd5 Rhe8 36. Rad1 Re6 37. R1d2 Kh6 38. R2d3 Qe7 39. Kh2 Qg5 40. g3
+fxg3+ 41. fxg3 Qf6 42. Bg2 Rf8 43. Qd2+ Kg7 44. Rxd6 Rxd6 45. Rxd6 Qf2 46. Rd7+
+Kg8 47. Qd5+ Kh8 48. Qxe5+ Qf6 49. Qxf6+ Rxf6 50. g4 h4 51. g5 Rf2 52. e5 Re2
+53. Rd6 Kg7 54. Rxb6 Rxe5 55. Bd5 Re3 56. Rb7+ Kf8 57. Ra7 Re2+ 58. Kg1 Ra2 59.
+b6 Rb2 60. b7 Ke7 61. Ra8 Kd6 62. b8=Q+ Rxb8 63. Rxb8 Ke5 64. Rb5 Kd4 65. Rxa5
+Kc3 66. Ra6 Kb4 67. Rxg6 Kc3 68. Rh6 Kd4 69. Rxh4+ Ke3 70. Rh6 Kf4 71. Rc6 Kxg5
+72. Rxc5 Kf4 73. Rc6 Ke5 74. Re6+ Kd4 75. h4 Kc5 76. h5 Kd4 77. h6 Kc3 78. h7
+Kb4 79. h8=Q Kc5 80. Qh5 Kd4 81. Qh3 Kc5 82. Qg3 Kb4 83. Rf6 Kc5 84. Rf4 Kb4
+85. Be4 Kc5 86. Rf5+ Kb4 87. c5 Kc4 88. c6 Kd4 89. c7 Kxe4 90. c8=Q Kd4 91.
+Qcb8 Kc4 92. Qbf4# 1-0
+

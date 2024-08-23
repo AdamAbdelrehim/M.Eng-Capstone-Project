@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "scarlet_dawn"]
+[Black "Openingsonly"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/MLlvNMKp"]
+[WhiteElo "2716"]
+[BlackElo "2641"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:51:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 d5 2. Bf4 e6 3. e3 Bd6 4. Bg3 Nf6 5. Nd2 O-O 6. Bd3 c5 7. dxc5 Bxc5 8.
+Ngf3 Nc6 9. Qe2 Re8 10. e4 e5 11. O-O-O Bg4 12. Nb3 Bb6 13. h3 Bh5 14. Bh4 d4
+15. g4 Bg6 16. Bxf6 Qxf6 17. h4 h5 18. Ng5 Qf4+ 19. Nd2 Qxg4 20. f3 Qf4 21. Kb1
+Ba5 22. Nc4 Bc7 23. Rdg1 b5 24. Nd2 a6 25. Nb3 Bd6 26. Rg2 Nb4 27. Rhg1 Rac8
+28. Qd1 Bf8 29. a3 Nc6 30. Nc1 Rb8 31. Ne2 Qf6 32. Qd2 Bd6 33. Ng3 Kh8 34. Nf5
+Bxf5 35. exf5 Bf8 36. Ne4 Qxf5 37. Rg5 Qe6 38. Rxh5+ Kg8 39. Rh6 1-0
+

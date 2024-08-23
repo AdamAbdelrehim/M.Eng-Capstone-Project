@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Dybamo"]
+[Black "gmmitkov"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/fdERm3Eh"]
+[WhiteTitle "GM"]
+[WhiteElo "2686"]
+[BlackElo "2640"]
+[ECO "C70"]
+[Opening "Ruy Lopez: Morphy Defense, Cozio Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:21:43"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nge7 5. Nc3 d6 6. d4 b5 7. Bb3 Nxd4 8.
+Nxd4 exd4 0-1
+

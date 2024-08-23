@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Scarlet_dawn"]
+[Black "Openingsonly"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/juDeDwaG"]
+[WhiteTitle "FM"]
+[WhiteElo "2722"]
+[BlackElo "2635"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:12:02"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 c5 4. e3 Nc6 5. Nc3 Bg4 6. dxc5 e6 7. Nb5 e5 8. Bg5
+a6 9. Nc3 Be6 10. e4 d4 11. Bxf6 gxf6 12. Ne2 Bxc5 13. a3 a5 14. Nc1 f5 15. Bd3
+f4 16. Bb5 f6 17. Nd3 Be7 18. g3 Bg4 19. h3 Bh5 20. Qe2 fxg3 21. fxg3 Qb6 22.
+a4 O-O 23. O-O Kh8 24. g4 Bf7 25. Nh4 Na7 26. Nf5 Bb4 27. Nxb4 axb4 28. Bd3 Bg6
+29. Nh4 Nc6 30. b3 Nd8 31. Qd2 Kg7 32. Rf2 Ne6 33. Ng2 Ng5 34. Kh2 Bxe4 35. h4
+Nf3+ 36. Rxf3 Bxf3 37. Rf1 e4 38. Bc4 Qd6+ 39. Qf4 Qxf4+ 40. Nxf4 Kh8 41. Ne6
+Rg8 42. g5 fxg5 43. Nxg5 Rgf8 44. Kg3 h6 45. Ne6 Rg8+ 46. Kf4 Bg2 47. Re1 d3
+48. cxd3 exd3 49. Bxd3 Bd5 50. Bf5 Bxe6 51. Rxe6 Rgf8 52. Rxh6+ Kg7 53. Rb6 Ra5
+54. Rxb7+ Kh6 55. Rb6+ Kg7 56. Rb7+ Rf7 57. Rb5 Rxb5 58. axb5 Rb7 59. Bd3 Kf6
+60. Ke4 Rd7 61. Bc4 Rd6 62. h5 Rd8 63. h6 Kg6 64. Ke5 Kxh6 65. Ke6 Kg7 66. Ke7
+Rd4 67. b6 Rxc4 68. bxc4 b3 69. b7 b2 70. b8=Q b1=Q 71. Qxb1 1-0
+

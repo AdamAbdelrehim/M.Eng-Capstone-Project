@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Boris_Markoja"]
+[Black "Mischuk_D"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/DLrXZCzT"]
+[BlackTitle "IM"]
+[WhiteElo "2667"]
+[BlackElo "2672"]
+[ECO "C00"]
+[Opening "French Defense: Chigorin Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:56:25"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e6 2. Qe2 Nc6 3. Nf3 e5 4. g3 Nf6 5. Bg2 Bc5 6. O-O O-O 7. c3 Re8 8. b4
+Bb6 9. b5 Na5 10. d3 a6 11. bxa6 Rxa6 12. Nbd2 d5 13. Bb2 dxe4 14. Nxe4 Nxe4
+15. Qxe4 f6 16. Rfe1 Bd7 17. Qb4 Be6 18. d4 Nc6 19. Qb5 Ra5 20. Qf1 exd4 21.
+Nxd4 Nxd4 22. cxd4 c6 23. Bc3 Ra4 24. Rad1 Bxa2 25. Rxe8+ Qxe8 26. d5 Bxd5 27.
+Bxd5+ cxd5 28. Rxd5 Qe4 29. Qd1 Ra2 30. Be1 h6 31. Rd2 Rxd2 32. Qxd2 Bd4 33. h4
+b6 34. Qb4 Qd5 35. Kf1 Bc5 36. Qg4 h5 37. Qc8+ Kh7 38. Qe8 Qf5 39. Kg2 Bd4 40.
+Qd8 Qe4+ 41. Kf1 b5 42. Qb8 Qd3+ 43. Kg2 Qf5 44. Qd6 Qe5 45. Qb4 Qd5+ 46. Kf1
+Be5 47. Qb1+ Kg8 48. Ke2 Qc4+ 49. Qd3 Qxd3+ 50. Kxd3 Bd6 51. f3 Kf7 52. g4 Kg6
+53. gxh5+ Kxh5 54. Ke4 Kg6 55. f4 f5+ 56. Kd5 Bxf4 57. Kc5 Kh5 58. Kxb5 Kg4 59.
+Kc4 Bg3 60. Bc3 g6 61. Kd3 Bxh4 62. Ke2 Bg3 63. Kf1 Kf3 0-1
+

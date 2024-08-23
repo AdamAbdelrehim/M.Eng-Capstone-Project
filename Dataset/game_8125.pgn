@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "buildorderbot"]
+[Black "DanielPerchman"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/52ojLCel"]
+[WhiteElo "2619"]
+[BlackElo "2475"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:00:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. g3 e5 2. a4 d5 3. a5 c6 4. Ra4 Nf6 5. c4 d4 6. Bg2 c5 7. d3 Nc6 8. a6 Bd6 9.
+Nd2 O-O 10. Nh3 Rb8 11. Ng5 Nb4 12. O-O Nxa6 13. Nde4 Nxe4 14. Nxe4 Be7 15. e3
+f5 16. exd4 fxe4 17. dxe5 Qxd3 18. Qe1 Bf5 19. Bf4 Nb4 20. Qc1 Rbd8 21. Rxa7
+Rd7 22. Re1 Nc2 23. e6 Nxe1 24. exd7 Nxg2 0-1
+

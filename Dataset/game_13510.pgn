@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "vladislav-dorosheko"]
+[Black "matshow"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/V8NpzAIx"]
+[WhiteElo "2635"]
+[BlackElo "2532"]
+[ECO "A56"]
+[Opening "Benoni Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:50:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. e4 O-O 6. Nf3 d6 7. h3 e6 8. Bd3 Re8
+9. O-O a6 10. a4 exd5 11. cxd5 Nbd7 12. Bf4 Qc7 13. Nd2 Nh5 14. Bh2 Ne5 15. Be2
+Nf6 16. f4 Ned7 17. Bf3 Rb8 18. a5 b5 19. axb6 Rxb6 20. e5 dxe5 21. Nc4 Rb4 22.
+fxe5 Nxe5 23. Nxe5 Rxe5 24. d6 1-0
+

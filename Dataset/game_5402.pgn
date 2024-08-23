@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "mateusviageiro"]
+[Black "kitan4ev"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/cECL35qw"]
+[WhiteTitle "FM"]
+[WhiteElo "2398"]
+[BlackElo "2571"]
+[ECO "C00"]
+[Opening "French Defense: Chigorin Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:04:28"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 e6 2. Qe2 c5 3. f4 Nc6 4. Nf3 g6 5. g3 Bg7 6. Bg2 Nge7 7. O-O O-O 8. Kh1
+d6 9. c3 Rb8 10. d3 b5 11. Be3 a5 12. d4 cxd4 13. cxd4 d5 14. e5 b4 15. Rc1 Qb6
+16. Nbd2 Ba6 17. Qf2 Nf5 18. Nb3 Rfc8 19. Nc5 Bb5 20. Nd7 Qa7 21. Nxb8 Qxb8 22.
+Rc5 Bf8 23. Rc2 Bd3 24. Rcc1 Qb7 25. Ne1 Bb5 26. g4 Nxe3 27. Qxe3 Rb8 28. Nd3
+Qb6 29. Nc5 Rc8 30. Nd7 Qa7 31. Nxf8 Kxf8 32. Rc5 Ne7 33. Rac1 Rxc5 34. Rxc5
+Qb6 35. f5 exf5 36. Qh6+ Kg8 37. gxf5 Qb8 38. f6 Nf5 39. Qc1 Bd7 40. Rc7 Be6
+41. Qc5 h5 42. Bh3 Qa8 43. Bxf5 Bxf5 44. Qc6 Qf8 45. Qd6 Qa8 46. Qe7 Be6 47.
+Qc5 Qa6 48. Qc1 Qe2 49. Rc8+ Bxc8 50. Qxc8+ Kh7 51. Qf8 Qe4+ 52. Kg1 Qxd4+ 53.
+Kf1 Qf4+ 54. Ke2 Qxe5+ 55. Kd3 Qxf6 0-1
+

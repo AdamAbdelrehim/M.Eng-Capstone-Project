@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "HomeAp"]
+[Black "cn_ua"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/FkH350Bm"]
+[BlackTitle "IM"]
+[WhiteElo "2549"]
+[BlackElo "2609"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:32:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. Bg5 c5 3. Bxf6 gxf6 4. d5 d6 5. c4 f5 6. Nc3 Bg7 7. e3 f4 8. exf4
+Nd7 9. Nf3 a6 10. Bd3 b5 11. cxb5 axb5 12. Bxb5 Ba6 13. Bxa6 Rxa6 14. O-O O-O
+15. Qe2 Rb6 16. Nb5 Qb8 17. a4 Nf6 18. Rad1 Qb7 19. Rfe1 Nxd5 20. Qe4 e6 21. b3
+h6 22. f5 Rxb5 23. axb5 Qxb5 24. fxe6 Nc3 25. exf7+ Kh8 26. Qe8 Qxb3 27. Rxd6
+Qb4 28. Rd8 c4 29. Nh4 Kh7 30. Nf5 Qa5 31. Nxg7 Qxd8 32. Qxd8 Rxd8 33. Ne6 Ne2+
+34. Kf1 1-0
+

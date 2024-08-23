@@ -1,0 +1,39 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.02"]
+[Round "-"]
+[White "qajaq"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "kr6/p3pp1p/2N3p1/q1p5/4P3/4B3/P4PPP/Q5K1 b - -"]
+[Timezone "UTC"]
+[ECO "D85"]
+[ECOUrl "https://www.chess.com/openings/Grunfeld-Defense-Exchange-Modern-Exchange-Variation-7...c5-8.Be3-Nc6"]
+[UTCDate "2023.04.02"]
+[UTCTime "04:35:35"]
+[WhiteElo "1938"]
+[BlackElo "1943"]
+[TimeControl "600"]
+[Termination "qajaq won by resignation"]
+[StartTime "04:35:35"]
+[EndDate "2023.04.02"]
+[EndTime "04:38:47"]
+[Link "https://www.chess.com/game/live/74149228817"]
+
+1. d4 { [%clk 0:10:00] } 1... Nf6 { [%clk 0:09:58.6] } 2. c4
+{ [%clk 0:09:58.7] } 2... g6 { [%clk 0:09:56.4] } 3. Nc3 { [%clk 0:09:57.4] }
+3... d5 { [%clk 0:09:56] } 4. cxd5 { [%clk 0:09:55.9] } 4... Nxd5
+{ [%clk 0:09:55.9] } 5. e4 { [%clk 0:09:54.4] } 5... Nxc3 { [%clk 0:09:55.6] }
+6. bxc3 { [%clk 0:09:54.3] } 6... Bg7 { [%clk 0:09:53.9] } 7. Nf3
+{ [%clk 0:09:53.5] } 7... c5 { [%clk 0:09:48] } 8. Be3 { [%clk 0:09:51.4] }
+8... Nc6 { [%clk 0:09:45.8] } 9. Bb5 { [%clk 0:09:47.9] } 9... Bd7
+{ [%clk 0:09:37.9] } 10. O-O { [%clk 0:09:42] } 10... Qa5 { [%clk 0:09:34.2] }
+11. Bxc6 { [%clk 0:09:39.8] } 11... Bxc6 { [%clk 0:09:34.1] } 12. d5
+{ [%clk 0:09:37.8] } 12... Bxc3 { [%clk 0:09:20.6] } 13. dxc6
+{ [%clk 0:09:33] } 13... Bxa1 { [%clk 0:09:19.5] } 14. Qxa1
+{ [%clk 0:09:30.9] } 14... O-O-O { [%clk 0:08:49.2] } 15. cxb7+
+{ [%clk 0:09:25.9] } 15... Kxb7 { [%clk 0:08:49.1] } 16. Rb1+
+{ [%clk 0:09:21] } 16... Ka8 { [%clk 0:08:48] } 17. Ne5 { [%clk 0:09:10.8] }
+17... Rb8 { [%clk 0:08:19.2] } 18. Rxb8+ { [%clk 0:08:59.1] } 18... Rxb8
+{ [%clk 0:08:14] } 19. Nc6 { [%clk 0:08:57.5] } 1-0
+

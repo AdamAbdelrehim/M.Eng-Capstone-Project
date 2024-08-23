@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Ketakean"]
+[Black "lugovoiGross"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/E6RanZbU"]
+[WhiteTitle "FM"]
+[WhiteElo "2572"]
+[BlackElo "2535"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:12:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+13"]
+
+1. d4 Nf6 2. Bg5 d5 3. Bxf6 gxf6 4. c4 e5 5. dxe5 d4 6. Nf3 Nc6 7. exf6 Qxf6 8.
+Nbd2 Bf5 9. Qa4 O-O-O 10. O-O-O Bg7 11. Qa3 Kb8 12. Nb3 Bg6 13. h4 Bf8 14. Qa4
+Bh6+ 15. Nbd2 Qf5 16. Ng5 Nb4 17. Ndf3 Qb1+ 18. Kd2 Qxb2+ 0-1
+

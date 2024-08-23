@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.20"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Googleyes"]
+[Result "0-1"]
+[CurrentPosition "r1bqkb1r/ppp1pppp/5n2/4n3/8/2N5/PPPP1PPP/R1BQKB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "B07"]
+[ECOUrl "https://www.chess.com/openings/Pirc-Defense-Modern-Defense-Geller-System-2...Nf6"]
+[UTCDate "2023.04.20"]
+[UTCTime "22:22:32"]
+[WhiteElo "1686"]
+[BlackElo "1699"]
+[TimeControl "60"]
+[Termination "Googleyes won by resignation"]
+[StartTime "22:22:32"]
+[EndDate "2023.04.20"]
+[EndTime "22:22:41"]
+[Link "https://www.chess.com/game/live/75768196093"]
+
+1. e4 { [%clk 0:01:00] } 1... d6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.9] }
+2... Nf6 { [%clk 0:00:59.4] } 3. e5 { [%clk 0:00:59.3] } 3... dxe5
+{ [%clk 0:00:58.5] } 4. Nxe5 { [%clk 0:00:59.2] } 4... Nbd7
+{ [%clk 0:00:57.7] } 5. Nc3 { [%clk 0:00:59.1] } 5... Nxe5 { [%clk 0:00:56.5] }
+0-1
+

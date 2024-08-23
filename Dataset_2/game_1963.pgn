@@ -1,0 +1,36 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.09.03"]
+[Round "-"]
+[White "BadKarma04"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r1b1k2r/pp3ppp/8/q2pb3/8/3QP3/P1P1KPPP/5B1R w kq -"]
+[Timezone "UTC"]
+[ECO "A43"]
+[ECOUrl "https://www.chess.com/openings/Old-Benoni-Defense"]
+[UTCDate "2021.09.03"]
+[UTCTime "03:56:23"]
+[WhiteElo "1537"]
+[BlackElo "1506"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "03:56:23"]
+[EndDate "2021.09.03"]
+[EndTime "03:59:48"]
+[Link "https://www.chess.com/game/live/24380458761"]
+
+1. d4 { [%clk 0:10:00] } 1... c5 { [%clk 0:09:57.4] } 2. Bf4
+{ [%clk 0:09:58.3] } 2... cxd4 { [%clk 0:09:46.8] } 3. Qxd4
+{ [%clk 0:09:55.6] } 3... Nc6 { [%clk 0:09:43.9] } 4. Qd1 { [%clk 0:09:53.8] }
+4... e5 { [%clk 0:09:41] } 5. Bg3 { [%clk 0:09:51.5] } 5... d5
+{ [%clk 0:09:38.9] } 6. e3 { [%clk 0:09:44.4] } 6... Nf6 { [%clk 0:09:37.8] }
+7. Nc3 { [%clk 0:09:42.9] } 7... Bb4 { [%clk 0:09:34] } 8. Nf3
+{ [%clk 0:09:33.5] } 8... Qa5 { [%clk 0:09:24.5] } 9. Qd2 { [%clk 0:09:07.4] }
+9... Ne4 { [%clk 0:08:35.7] } 10. Qd3 { [%clk 0:09:04.5] } 10... Nxc3
+{ [%clk 0:08:31.1] } 11. bxc3 { [%clk 0:09:02.9] } 11... Bxc3+
+{ [%clk 0:08:27.8] } 12. Ke2 { [%clk 0:09:00.1] } 12... Bxa1
+{ [%clk 0:08:03.6] } 13. Nxe5 { [%clk 0:08:49.5] } 13... Nxe5
+{ [%clk 0:07:58.7] } 14. Bxe5 { [%clk 0:08:48.3] } 14... Bxe5
+{ [%clk 0:07:57.1] } 0-1
+

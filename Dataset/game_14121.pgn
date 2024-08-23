@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Winquitter"]
+[Black "denlogrendehund"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/LANf1O2C"]
+[WhiteElo "2473"]
+[BlackElo "2517"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:58:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Be7 5. e4 d6 6. f4 O-O 7. g4 d5 8. e5 Ne4
+9. g5 c5 10. Nxe4 dxe4 11. d5 exd5 12. cxd5 Qb6 13. Bg2 Bf5 14. Ne2 c4 15. Ng3
+g6 16. Nxe4 Bxe4 17. Bxe4 Bc5 18. Qe2 Bd4 19. Qxc4 Nd7 20. Kf1 Rac8 21. Qe2 Nc5
+22. Bc2 Nb3 23. Rb1 Nxc1 24. Rxc1 Qxb2 25. Kg2 Rc3 26. e6 fxe6 27. Qxe6+ Kh8
+28. Qe4 Re3 0-1
+

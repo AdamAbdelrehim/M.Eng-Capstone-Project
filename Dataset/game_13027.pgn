@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "HaroldChasen"]
+[Black "DarsLock"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/bAn1t1Nl"]
+[WhiteElo "2401"]
+[BlackElo "2555"]
+[ECO "A20"]
+[Opening "English Opening: King's English Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:48:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. c4 e5 2. e3 Nf6 3. a3 c6 4. Nf3 e4 5. Nd4 d5 6. cxd5 cxd5 7. d3 Nc6 8. dxe4
+dxe4 9. Bb5 Bd7 10. Nc3 Ne5 11. Be2 a6 12. O-O Rc8 13. Bd2 Bd6 14. b4 O-O 15.
+h3 Qe7 16. Qb3 Ng6 17. Nd5 Qe5 18. Nxf6+ Qxf6 19. Rfd1 Nh4 20. Bg4 Bxg4 21.
+hxg4 Qg5 22. Nf5 Nxf5 23. gxf5 Qxf5 24. Bc3 Rfd8 25. Bd4 Qh5 26. g3 Qf3 27.
+Rac1 Rxc1 28. Rxc1 h5 29. Qd1 Qxd1+ 30. Rxd1 Be5 31. Kf1 Bxd4 32. exd4 f5 33.
+Ke2 Kf7 34. Ke3 Rc8 35. d5 Ke7 36. Kf4 g6 37. Kg5 Rc2 38. Kxg6 Rxf2 39. Kxh5
+Kd6 40. Kg5 Rf3 41. g4 fxg4 42. Kxg4 Rxa3 43. Kf4 e3 44. Ke4 Rb3 45. Rh1 Rxb4+
+46. Kxe3 Kxd5 47. Rh5+ Kc6 48. Kd3 b5 49. Kc3 Rc4+ 50. Kb3 Kb6 51. Rh6+ Ka5 52.
+Rg6 Rh4 53. Rf6 Rh3+ 54. Kc2 b4 55. Rf5+ Ka4 56. Rf6 a5 57. Rf5 Rh2+ 58. Kd3 b3
+59. Kc3 b2 60. Rf1 Ka3 61. Rb1 a4 62. Kc4 Ka2 63. Rxb2+ Kxb2 64. Kb4 a3 65. Kb5
+a2 66. Kc6 a1=Q 67. Kd5 Qa3 0-1
+

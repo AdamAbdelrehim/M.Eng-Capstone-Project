@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "sergeikim2003"]
+[Black "Acehunter1"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/DRqcll9r"]
+[WhiteTitle "FM"]
+[BlackTitle "FM"]
+[WhiteElo "2547"]
+[BlackElo "2423"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Accelerated Move Order"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:21:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Bd6 5. f4 f5 6. Nf3 Nf6 7. Ne5 O-O 8. Bd3
+Nfd7 9. O-O Nxe5 10. fxe5 Be7 11. Bd2 b6 12. Rc1 Bb7 13. cxd5 cxd5 14. a3 Nc6
+15. Qe2 Rc8 16. Ba6 Bxa6 17. Qxa6 Na5 18. Nb5 Nb3 19. Bb4 Rxc1 0-1
+

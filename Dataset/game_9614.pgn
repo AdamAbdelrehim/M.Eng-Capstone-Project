@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "scarlet_dawn"]
+[Black "Openingsonly"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/JGILrKed"]
+[WhiteElo "2714"]
+[BlackElo "2642"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:30:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 c5 4. e3 Nc6 5. c3 Qb6 6. Qb3 c4 7. Qxb6 axb6 8. Na3
+Ra5 9. Bc7 Nd7 10. Nc2 e6 11. a3 b5 12. Bxa5 Nxa5 13. Be2 1-0
+

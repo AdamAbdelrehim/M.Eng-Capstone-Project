@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "gmcyborek"]
+[Black "MassterofMayhem"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ChsgPH8l"]
+[BlackTitle "IM"]
+[WhiteElo "2679"]
+[BlackElo "2665"]
+[ECO "A40"]
+[Opening "Englund Gambit Declined: Reversed French"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:04:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e3 e5 2. d4 e4 3. c4 d5 4. cxd5 Bd6 5. Nc3 Nf6 6. f3 Bf5 7. g4 Bg6 8. g5 Nh5
+9. f4 f6 10. Be2 fxg5 11. Bxh5 gxf4 12. Bxg6+ hxg6 13. Qg4 f3 14. Qxg6+ 1-0
+

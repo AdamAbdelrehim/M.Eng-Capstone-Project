@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "TRYITGAIN"]
+[Black "jim_halpert9807"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/u6RtTVgm"]
+[WhiteElo "2521"]
+[BlackElo "2366"]
+[ECO "D15"]
+[Opening "Slav Defense: Two Knights Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:25:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+22"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. Nc3 dxc4 5. Bg5 h6 6. Bh4 g5 7. Bg3 Bf5 8. Ne5
+b5 9. f3 Nfd7 10. e4 Bh7 11. h4 Nxe5 12. Bxe5 f6 13. Bg3 Nd7 14. d5 b4 15. Na4
+cxd5 16. Qxd5 Bg8 17. Qc6 Rc8 18. Qa6 c3 19. O-O-O Qc7 20. Bb5 cxb2+ 21. Kxb2
+Qc2+ 22. Ka1 Rd8 23. Qc6 Qxa2# 0-1
+

@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "iakov98"]
+[Black "Al_Nouria"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/aQlco93E"]
+[WhiteTitle "IM"]
+[WhiteElo "2667"]
+[BlackElo "2675"]
+[ECO "E62"]
+[Opening "King's Indian Defense: Fianchetto Variation, Karlsbad Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:15:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+8"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 Nc6 7. O-O Bd7 8. Bf4
+a6 9. Rc1 Rb8 10. c5 b5 11. d5 Na5 12. c6 Bf5 13. Nd4 Bc8 14. b3 b4 15. Na4
+Nxd5 16. Bxd5 e5 17. Be3 exd4 18. Bxd4 Bh3 19. Re1 Rb5 20. e4 Re8 21. Bxg7 Kxg7
+22. Qd4+ Qf6 23. Qxf6+ Kxf6 24. f3 Be6 25. Bxe6 Rxe6 26. Red1 h5 27. Kf2 g5 28.
+Rc2 Ke7 29. Nb2 f5 30. exf5 Rxf5 31. Nd3 Rd5 32. Rdd2 Rd4 33. f4 h4 34. fxg5
+hxg3+ 35. hxg3 Kf7 36. Nf4 Rxd2+ 37. Rxd2 Re5 38. g6+ Kf6 39. Rc2 Rg5 40. Kf3
+Re5 41. Rc1 Rc5 42. Rxc5 dxc5 43. Ke4 c4 44. bxc4 Nxc6 45. Kd5 Na7 46. Kc5 a5
+47. g4 Kg7 48. g5 Nc8 49. Kc6 a4 50. Kxc7 b3 51. axb3 axb3 52. Nd3 Ne7 53. Kd6
+Nc8+ 54. Kc7 Ne7 55. Kd7 Nxg6 56. c5 Ne5+ 57. Nxe5 b2 58. c6 b1=Q 59. c7 Qb5+
+60. Nc6 Qd5+ 61. Ke7 Qxc6 62. Kd8 Qd6+ 63. Kc8 Kf7 64. g6+ Ke7 65. g7 Qd5 66.
+Kb8 Qb3+ 67. Ka8 Kd7 0-1
+

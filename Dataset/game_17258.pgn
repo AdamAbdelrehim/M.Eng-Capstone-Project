@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "bobbystruk"]
+[Black "train_account"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Y00bTCRI"]
+[WhiteElo "2425"]
+[BlackElo "2596"]
+[ECO "B43"]
+[Opening "Sicilian Defense: Kan Variation, Wing Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:56:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 b5 6. Bd3 Bb7 7. O-O Nc6 8.
+Nxc6 Bxc6 9. Be3 Qc7 10. a4 b4 11. Ne2 Nf6 12. f3 d5 13. Nd4 Bb7 14. e5 Qxe5
+15. Qd2 Bc5 16. Kh1 O-O 17. Rae1 Qc7 18. Bf4 Bd6 19. Bxd6 Qxd6 20. f4 Rac8 21.
+a5 Ne4 22. Qe3 Qc5 23. Bxe4 dxe4 24. Rf2 Rfd8 25. Rd2 Qxa5 26. f5 e5 27. f6 Qb6
+28. Qg3 Qxf6 29. Rf2 Qg6 30. Nf5 Qxg3 31. hxg3 Rd7 32. g4 g6 33. Ng3 Rdc7 34.
+Nxe4 Rxc2 35. Nf6+ Kg7 36. Rxc2 Rxc2 37. g5 Rxg2 38. Rxe5 Rxg5+ 0-1
+

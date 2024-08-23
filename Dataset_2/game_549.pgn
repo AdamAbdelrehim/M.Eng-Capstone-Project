@@ -1,0 +1,37 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.28"]
+[Round "-"]
+[White "scream_net"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "3r1rk1/ppp2ppp/3R1n2/4p3/P3P3/1P3Q2/2q2PPP/5RK1 w - -"]
+[Timezone "UTC"]
+[ECO "C20"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Leonardis-Variation"]
+[UTCDate "2021.02.28"]
+[UTCTime "22:28:30"]
+[WhiteElo "803"]
+[BlackElo "889"]
+[TimeControl "60"]
+[Termination "AdamAbdelrehim won on time"]
+[StartTime "22:28:30"]
+[EndDate "2021.02.28"]
+[EndTime "22:30:04"]
+[Link "https://www.chess.com/game/live/8290415685"]
+
+1. e4 { [%clk 0:00:59.5] } 1... e5 { [%clk 0:00:59.9] } 2. d3
+{ [%clk 0:00:57.1] } 2... Nc6 { [%clk 0:00:59.8] } 3. Nf3 { [%clk 0:00:55.9] }
+3... Nf6 { [%clk 0:00:59.3] } 4. Be2 { [%clk 0:00:54.4] } 4... Bc5
+{ [%clk 0:00:58.6] } 5. O-O { [%clk 0:00:52.8] } 5... O-O { [%clk 0:00:57.9] }
+6. Nbd2 { [%clk 0:00:50.7] } 6... d5 { [%clk 0:00:57.2] } 7. b3
+{ [%clk 0:00:49] } 7... dxe4 { [%clk 0:00:56.3] } 8. dxe4 { [%clk 0:00:46.3] }
+8... Bb4 { [%clk 0:00:54.3] } 9. Bd3 { [%clk 0:00:38.6] } 9... Bxd2
+{ [%clk 0:00:51.6] } 10. Bxd2 { [%clk 0:00:37.5] } 10... Bg4
+{ [%clk 0:00:48.5] } 11. a4 { [%clk 0:00:31.1] } 11... Nd4 { [%clk 0:00:43.1] }
+12. Be2 { [%clk 0:00:25.7] } 12... Nxe2+ { [%clk 0:00:40.7] } 13. Qxe2
+{ [%clk 0:00:24.6] } 13... Bxf3 { [%clk 0:00:39.2] } 14. Qxf3
+{ [%clk 0:00:23.3] } 14... Qxd2 { [%clk 0:00:38.9] } 15. Rad1
+{ [%clk 0:00:19.2] } 15... Qxc2 { [%clk 0:00:37.3] } 16. Rd6
+{ [%clk 0:00:12.4] } 16... Rad8 { [%clk 0:00:34.2] } 0-1
+

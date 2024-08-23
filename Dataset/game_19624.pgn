@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "hajeko"]
+[Black "one_last_trick"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/RupbRQlx"]
+[WhiteTitle "CM"]
+[WhiteElo "2541"]
+[BlackElo "2519"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:49:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Be3 a6 5. f3 b5 6. Qd2 Bb7 7. h4 h6 8. Nh3 Nd7
+9. a4 b4 10. Ne2 c5 11. h5 g5 12. Ng3 e6 13. d5 Bxb2 14. Qd1 Bxa1 15. Qxa1 Qf6
+16. Qd1 exd5 17. Nf5 Ne7 18. Nxe7 Qxe7 19. Be2 O-O-O 20. O-O d4 21. Bf2 Ne5 22.
+f4 gxf4 23. Nxf4 Rhg8 24. Nd5 Qg5 25. g3 f5 0-1
+

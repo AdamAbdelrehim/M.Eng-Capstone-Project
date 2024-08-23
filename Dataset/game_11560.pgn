@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Candidate89"]
+[Black "misha81"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/cK67aXk1"]
+[WhiteElo "2626"]
+[BlackElo "2461"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:27:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. Bxc6 bxc6 5. d3 Ne7 6. h4 d5 7. h5 c4 8. dxc4
+Ba6 9. Na3 dxe4 10. Qxd8+ Rxd8 11. Ng5 Nf5 12. Nxe4 Bxa3 13. bxa3 Bxc4 14. h6
+gxh6 15. Bb2 Nd4 16. O-O-O Ne2+ 17. Kb1 Rb8 18. Nd6+ Ke7 19. Nxc4 1-0
+

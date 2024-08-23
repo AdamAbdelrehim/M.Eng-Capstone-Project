@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "HellBorg"]
+[Black "cr1994"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/vRPiJ74o"]
+[WhiteElo "2501"]
+[BlackElo "2386"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Scandinavian Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:11:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. Nc3 Nf6 2. e4 d5 3. e5 d4 4. exf6 dxc3 5. fxg7 cxd2+ 6. Bxd2 Bxg7 7. Qh5 Nc6
+8. Nf3 Bxb2 9. Rd1 Bf5 10. Qxf5 1-0
+

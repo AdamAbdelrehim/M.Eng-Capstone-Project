@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Chess-Network"]
+[Black "bancsoo"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/N6Ox2Hjo"]
+[WhiteTitle "NM"]
+[BlackTitle "GM"]
+[WhiteElo "2667"]
+[BlackElo "2788"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:16:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+
+1. f4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. d3 Nc6 7. e4 e5 8. Nc3
+Nd7 9. f5 Nc5 10. g4 Nd4 11. Be3 Nxf3+ 12. Qxf3 f6 13. h4 c6 14. b4 Nd7 15. a4
+a5 16. b5 Qc7 17. Rf2 Nc5 18. Bh3 Bd7 19. g5 Kh8 20. Raf1 d5 21. Bxc5 1-0
+

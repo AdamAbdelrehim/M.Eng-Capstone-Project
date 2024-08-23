@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "sergeikim2003"]
+[Black "yackal"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/xI4k2V0d"]
+[WhiteElo "2538"]
+[BlackElo "2392"]
+[ECO "E70"]
+[Opening "King's Indian Defense: Kramer Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:38:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nge2 O-O 6. Ng3 e5 7. d5 c5 8. Be2 a6
+9. a4 h5 10. Bg5 Qa5 11. Qd2 Bd7 12. O-O Kh7 13. f4 exf4 14. Qxf4 Qc7 1-0
+

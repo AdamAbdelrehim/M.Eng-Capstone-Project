@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "saeta"]
+[Black "Neftegor"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/fjdH2Twp"]
+[WhiteElo "2485"]
+[BlackElo "2531"]
+[ECO "E00"]
+[Opening "Catalan Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:33:19"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Bd2 Qe7 5. Bg2 Nc6 6. Nf3 Bxd2+ 7. Nbxd2 O-O
+8. Rc1 d6 9. Nf1 Ne4 10. Ne3 f5 11. d5 Nd8 12. Nd4 Ng5 13. dxe6 Bxe6 14. Nxe6
+Ngxe6 15. Nd5 Qf7 16. e3 Kh8 17. O-O a5 18. b3 Nc5 19. Qc2 c6 20. Nc3 Nde6 21.
+Rcd1 Qe7 22. Rd2 Ng5 23. Rfd1 Rf6 24. a3 Raf8 25. b4 axb4 26. axb4 Nce4 27. Rd4
+Ne6 28. R4d3 N6g5 29. h4 Nf7 30. Rd4 Nxc3 31. Qxc3 Ne5 32. Qd2 Nf7 33. b5 c5
+34. Rd5 b6 35. Qc3 h6 36. Qd3 Ne5 37. Qc2 g5 38. hxg5 hxg5 39. Qc3 Kh7 40. f4
+Ng4 41. Re1 gxf4 42. exf4 Re6 43. Rdd1 Rff6 44. Bd5 Rxe1+ 45. Rxe1 Qg7 46. Bf3
+Nh6 47. Kf2 Qg6 48. Re7+ Rf7 49. Qe3 Qf6 50. Rxf7+ Qxf7 51. Bd5 Qf6 52. Bf3
+Qb2+ 53. Qe2 Qd4+ 54. Qe3 Qb2+ 55. Kg1 Qb1+ 56. Kh2 1-0
+

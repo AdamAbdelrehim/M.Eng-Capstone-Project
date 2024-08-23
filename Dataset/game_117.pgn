@@ -1,0 +1,40 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "magnusglad_bot"]
+[Black "Hoon_Bot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/JKnuXLWR"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2793"]
+[BlackElo "2908"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "600+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "00:43:40"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c5 5. Bd2 a6 6. Ne4 Qc7 7. Nxc5 e5 8.
+Nb3 Be7 9. g3 Nc6 10. Bg2 Nxd4 11. Nxd4 exd4 12. Nf3 Nf6 13. O-O O-O 14. Nxd4
+Bg4 15. Bf4 Qxf4 16. gxf4 Bxd1 17. Raxd1 Rab8 18. Rfe1 Rfe8 19. Nf3 g6 20. Ne5
+Kg7 21. Nd3 Kg8 22. c3 Nd7 23. Nb4 Nb6 24. Nd3 Nd7 25. Re2 Kf8 26. Rde1 a5 27.
+Kf1 Nf6 28. a4 b6 29. Bc6 Red8 30. Rxe7 Rxd3 31. Bb5 Rd2 32. Ra7 Ng4 33. Re2
+Rbd8 34. Kg2 Nh6 35. Rxd2 Rxd2 36. b4 axb4 37. cxb4 Rd4 38. Ra6 Rxf4 39. Rxb6
+Rg4+ 40. Kf1 Rxb4 41. Ke2 Rb3 42. a5 Ra3 43. a6 Nf5 44. Kd2 Nd4 45. Bc4 Ke7 46.
+Rb7+ Kd6 47. Rxf7 h6 48. Bf1 Kc5 49. Rf6 g5 50. Kc1 Kb4 51. Rf7 Nb5 52. Bxb5
+Kxb5 53. a7 g4 54. Kb2 Ra4 55. Kc3 Kb6 56. Kd3 Kc6 57. Ke3 Kd6 58. Rh7 Ke5 59.
+Kd2 Kd5 60. Rc7 Kd6 61. Rh7 Kd5 62. Kc3 Kc5 63. Re7 Ra3+ 64. Kb2 Ra4 65. Rh7
+Ra5 66. Rb7 Ra4 67. Rh7 Ra5 68. Kb3 Ra6 69. Kc3 Ra3+ 70. Kc2 Kb6 71. Rf7 Kc5
+72. Rg7 Kb6 73. Kd2 Kc5 74. Kc2 Kb6 75. Rxg4 Rxa7 76. Rg6+ Kc5 77. Kd2 Kd4 78.
+Rxh6 Ke4 79. Ke2 Ra2+ 80. Kf1 Kf5 81. Rc6 Ra4 82. Rc3 Kg6 83. Kg1 Rb4 84. Rc5
+Rg4+ 85. Kh1 Kh6 86. Rc8 Rf4 87. Kg2 Rg4+ 88. Kh3 Rd4 89. Kg3 Rd1 90. f3 Rb1
+91. Kg4 Rg1+ 92. Kf4 Rb1 93. Kg4 Rg1+ 94. Kf5 Rg5+ 95. Kf4 Rb5 96. Rc6+ Kg7 97.
+h4 Rb1 98. Kf5 Rh1 99. Rc4 Kh6 100. Rc6+ Kg7 101. Rg6+ Kh7 102. Rg4 Kh6 103. f4
+Rh2 104. Kf6 Ra2 105. Rg5 Ra6+ 106. Kf5 Ra5+ 107. Kf6 Ra6+ 108. Kf5 Ra5+ 109.
+Kg4 Ra1 110. Re5 Rg1+ 111. Kf5 Rh1 0-1
+

@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "NoahSkyler"]
+[Black "tough-guy"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/fS8yX8uT"]
+[WhiteElo "2588"]
+[BlackElo "2533"]
+[ECO "C12"]
+[Opening "French Defense: MacCutcheon Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:24:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. Bxf6 Qxf6 6. e5 Qd8 7. Qg4 O-O 8.
+Nf3 c5 9. a3 Bxc3+ 10. bxc3 Qa5 11. Bd3 Qxc3+ 12. Ke2 h6 13. dxc5 Nc6 14. Qf4
+f6 15. exf6 e5 16. Qd2 Qxd2+ 17. Nxd2 gxf6 18. f3 Nd4+ 19. Kf2 Ne6 20. Nb3 Rf7
+21. c4 d4 22. Be4 Rc7 23. Bd5 Kf8 24. Rab1 a5 25. a4 Nxc5 26. Nxc5 Rxc5 27.
+Bxb7 Bxb7 28. Rxb7 Rxc4 29. Rhb1 Rac8 30. Rh7 R4c7 31. Rxh6 Kg7 32. Rh4 Rc2+
+33. Kg3 d3 34. Rb7+ Kg6 35. Rhh7 Rd8 36. Kh3 Kf5 37. Rh5+ Kf4 38. Rh4+ Ke3 39.
+Kg3 d2 40. Re4+ Kd3 41. Rb3+ Rc3 42. Rb1 Rc1 43. Rb3+ Kc2 44. Ree3 Rc8 45. Rbd3
+d1=Q 46. Rxd1 Rxd1 47. h4 Rg8+ 48. Kh2 Rd2 49. f4 Rgxg2+ 50. Kh3 exf4 51. Rf3
+Rg3+ 52. Rxg3 fxg3 53. Kxg3 Rd3+ 54. Kg4 Rd4+ 55. Kg3 Rxh4 56. Kxh4 Kb3 57. Kg4
+Kxa4 58. Kf5 Kb3 59. Kxf6 a4 60. Ke5 a3 61. Kd4 a2 62. Kd3 a1=Q 63. Ke4 Qc3 64.
+Kd5 Qc4+ 65. Ke5 Kc3 66. Kd6 Kd3 67. Ke5 Qd4+ 68. Ke6 Ke4 69. Ke7 Qd5 70. Kf6
+Kd4 71. Ke7 Qe5+ 72. Kf7 Kc5 73. Kg6 Qd6+ 74. Kf7 Kd5 75. Kg7 Qe6 76. Kf8 Ke5
+77. Kg7 Kf5 78. Kh7 Qd7+ 79. Kh8 Qe7 80. Kg8 Kg6 81. Kh8 Qe8# 0-1
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "siwphlos_ektelesths"]
+[Black "Arthas_tsalb"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/VgaS1OX8"]
+[WhiteElo "2538"]
+[BlackElo "2608"]
+[ECO "B17"]
+[Opening "Caro-Kann Defense: Karpov Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:47:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Nxf6+ Nxf6 7. Bg5 Bg4
+8. c3 Qd5 9. Be2 Bxf3 10. Bxf3 Qxg5 11. Qb3 Qb5 12. Qc2 e6 13. a4 Qa5 14. b4
+Qc7 15. a5 a6 16. O-O Bd6 17. g3 O-O 18. Rae1 Rfd8 19. Bg2 e5 20. Rd1 exd4 21.
+Rxd4 Be5 22. Rdd1 Rxd1 23. Rxd1 Rd8 24. Rxd8+ Qxd8 25. c4 g6 26. f4 Qd4+ 27.
+Kf1 Qa1+ 28. Ke2 Bc3 29. Bf3 Qe1+ 30. Kd3 Bxb4 31. Qb3 Qd2# 0-1
+

@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "EmperatorTrajano"]
+[Black "aceg39"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/rjuiSbS6"]
+[WhiteElo "2677"]
+[BlackElo "2648"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Central Variation, McDonnell Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:17:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. Nf3 Bg4 5. Bxc4 Bxf3 6. Qxf3 Qf6 7. dxe5 Qxf3
+8. gxf3 Nc6 9. Nc3 Nxe5 10. Be2 O-O-O 11. Be3 Nd3+ 12. Bxd3 Rxd3 13. Ke2 Rd7
+14. Rac1 a6 15. Nd5 Ne7 16. Nb6+ Kd8 17. Nxd7 Kxd7 18. Rhd1+ Kc8 19. b4 Nc6 20.
+a3 Be7 21. f4 Re8 22. Kf3 g6 23. Rd5 Bd6 24. e5 Be7 25. Bc5 Bh4 26. a4 h5 27.
+b5 axb5 28. axb5 Nb8 29. Bd6 c6 30. Bxb8 Kxb8 31. bxc6 bxc6 32. Rxc6 Kb7 33.
+Rc2 Re6 34. Rb5+ Ka6 35. Rb3 Rb6 36. Rxb6+ Kxb6 37. Rc8 Kb7 38. Rf8 f6 39. exf6
+Kc6 40. f7 Kd6 41. Re8 Be7 42. f8=Q Bxf8 43. Rxf8 Ke6 44. f5+ gxf5 45. Kf4 h4
+46. Rxf5 h3 47. Kg4 Ke7 48. Rf3 Ke6 49. Kxh3 Ke5 50. Kg3 Ke4 51. h4 Ke5 52. h5
+Ke4 53. h6 Ke5 54. h7 Ke6 55. h8=Q Kd5 56. Qh4 Ke6 57. Rf4 Kd7 58. Rf6 Ke8 59.
+Qh7 Kd8 60. Rf8# 1-0
+

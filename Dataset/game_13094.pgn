@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "zheskiyestzhi"]
+[Black "Chessibague"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/X9HGjXKk"]
+[BlackTitle "IM"]
+[WhiteElo "2632"]
+[BlackElo "2582"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:56:23"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. d4 d5 2. g3 Bf5 3. Bg2 c6 4. Nh3 e6 5. f3 Nf6 6. Nf2 c5 7. e4 Bg6 8. e5 Nfd7
+9. f4 Nc6 10. dxc5 Bxc5 11. O-O h5 12. Kh1 h4 13. g4 h3 14. Bf3 Qh4 15. Nd3
+O-O-O 16. Nxc5 Nxc5 17. Be3 d4 18. Bf2 Qe7 19. Nd2 f6 20. f5 exf5 21. exf6 Qxf6
+22. Bg3 f4 23. Bxf4 Qxf4 24. Bxc6 Qc7 25. Bf3 Rhf8 26. Qe1 Rde8 27. Qh4 Kb8 28.
+Qxh3 Ne6 29. Qg3 Qxg3 30. hxg3 Bxc2 31. Bd5 Nc7 32. Bc4 d3 33. a4 Na6 34. Bb5
+Rxf1+ 35. Rxf1 Re2 36. Rf8+ Kc7 37. Nf3 Nc5 38. a5 Ne4 39. Rf7+ Kd6 40. Nd4
+Nxg3+ 41. Kg1 Re4 42. Nf3 Rxg4 43. Kf2 Ne4+ 44. Ke3 Nc5 45. Rf8 Re4+ 46. Kf2
+Re2+ 47. Kg3 Ne4+ 48. Kf4 Nf6 49. Rd8+ Kc7 50. Rd4 Nh5+ 51. Kg4 Nf6+ 52. Kf5
+d2+ 53. Kf4 Re1 54. Nxe1 dxe1=Q 55. Rc4+ Kd6 56. Rd4+ Kc5 57. Rd2 1-0
+

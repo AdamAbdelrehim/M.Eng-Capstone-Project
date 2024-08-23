@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "BulentBilenGegic"]
+[Black "likeyacutg"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/UOm5J1fj"]
+[WhiteElo "2392"]
+[BlackElo "2576"]
+[ECO "C45"]
+[Opening "Scotch Game: Schmidt Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:34:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. exd5 cxd5
+8. Bg5 Be7 9. O-O O-O 10. c4 c6 11. Nc3 Rb8 12. b3 Be6 13. Qc2 h6 14. Bh4 dxc4
+15. Bxc4 Bxc4 16. bxc4 Qd4 17. Bg3 Rb4 18. Rfe1 Bc5 19. Ne4 Nxe4 20. Qxe4 Rxc4
+21. Qxc6 Qxa1 22. Rxa1 Bxf2+ 23. Bxf2 Rxc6 24. h3 Rfc8 25. Bxa7 Rc1+ 26. Rxc1
+Rxc1+ 27. Kh2 Ra1 28. Bd4 Rxa2 29. Be5 g6 30. Kg3 h5 0-1
+

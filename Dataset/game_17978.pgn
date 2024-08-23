@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "JelenaZ"]
+[Black "okriak"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/Q0hnZjey"]
+[WhiteElo "2592"]
+[BlackElo "2755"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:35:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-3"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. Nc3 Bb4 6. a3 Bxc3+ 7. bxc3 Ne7 8. Ne2
+O-O 9. Ng3 Bg6 10. h4 h6 11. Qg4 c5 12. h5 Bf5 13. Nxf5 Nxf5 14. Bd3 dxc4 15.
+Bxf5 exf5 16. Qxf5 cxd4 17. Rh3 Qd7 18. Qxd7 Nxd7 19. cxd4 b5 20. Rb1 a6 21.
+Rg3 Kh7 22. a4 Rab8 23. Ba3 Rfe8 24. Bd6 Rb6 25. Kd2 f6 26. f4 bxa4 27. Rxb6
+Nxb6 28. Ra3 Nd5 29. g3 Rc8 30. Rxa4 c3+ 31. Kc1 Rc6 32. Bc5 g6 33. exf6 Nxf6
+34. hxg6+ Kxg6 35. Kc2 Ne4 36. Ra5 Nxg3 37. Kxc3 h5 38. d5 Rxc5+ 39. Rxc5 Ne4+
+40. Kd4 Nxc5 41. Kxc5 Kf7 42. Kb6 h4 43. d6 Ke6 44. Kc7 h3 45. d7 h2 46. d8=Q
+h1=Q 47. Qd6+ Kf7 48. Qd7+ Kf6 49. Qd6+ Kf7 50. Qxa6 Qc1+ 51. Qc6 Qxf4+ 52. Qd6
+Qxd6+ 53. Kxd6 1/2-1/2
+

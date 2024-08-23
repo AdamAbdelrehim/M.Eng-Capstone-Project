@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.02.06"]
+[Round "-"]
+[White "lmaLoser"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r4rk1/1b3pp1/p1np4/2p1pN2/4P1Q1/2bq2B1/Bp3PP1/1R1K3R w - -"]
+[Timezone "UTC"]
+[ECO "B50"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-2.Nf3-d6-3.Bc4-e6"]
+[UTCDate "2022.02.06"]
+[UTCTime "00:41:19"]
+[WhiteElo "1583"]
+[BlackElo "1608"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by checkmate"]
+[StartTime "00:41:19"]
+[EndDate "2022.02.06"]
+[EndTime "00:51:55"]
+[Link "https://www.chess.com/game/live/37846828981"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:09:58.7] } 2. Nf3
+{ [%clk 0:09:54.5] } 2... d6 { [%clk 0:09:45.2] } 3. Bc4 { [%clk 0:09:01.7] }
+3... e6 { [%clk 0:09:25.5] } 4. a3 { [%clk 0:08:48.5] } 4... Nf6
+{ [%clk 0:09:20.3] } 5. d3 { [%clk 0:08:46.5] } 5... a6 { [%clk 0:08:27.2] } 6.
+c3 { [%clk 0:08:43.7] } 6... b5 { [%clk 0:08:12.3] } 7. Ba2
+{ [%clk 0:08:41.1] } 7... Be7 { [%clk 0:08:06.1] } 8. h3 { [%clk 0:08:38] }
+8... O-O { [%clk 0:08:03.8] } 9. Be3 { [%clk 0:08:27.1] } 9... Nc6
+{ [%clk 0:08:00.1] } 10. Nbd2 { [%clk 0:08:25.7] } 10... Bb7
+{ [%clk 0:07:47.9] } 11. Qc2 { [%clk 0:08:23.5] } 11... Qc7
+{ [%clk 0:07:33.2] } 12. Ng5 { [%clk 0:08:17.4] } 12... h6 { [%clk 0:07:24.8] }
+13. h4 { [%clk 0:07:34.1] } 13... hxg5 { [%clk 0:06:53.7] } 14. hxg5
+{ [%clk 0:07:32.6] } 14... Ng4 { [%clk 0:06:51] } 15. Bf4 { [%clk 0:06:41.4] }
+15... e5 { [%clk 0:06:21.7] } 16. Bg3 { [%clk 0:06:35.4] } 16... Bxg5
+{ [%clk 0:06:17.9] } 17. Nf3 { [%clk 0:06:29.6] } 17... Bh6
+{ [%clk 0:06:02.1] } 18. Qe2 { [%clk 0:06:21.6] } 18... b4 { [%clk 0:05:21] }
+19. Nh4 { [%clk 0:06:16.1] } 19... bxc3 { [%clk 0:05:15.9] } 20. Qxg4
+{ [%clk 0:06:08] } 20... cxb2 { [%clk 0:05:11.1] } 21. Rb1 { [%clk 0:06:06.1] }
+21... Qa5+ { [%clk 0:05:07] } 22. Kd1 { [%clk 0:05:34.3] } 22... Qxa3
+{ [%clk 0:04:58.9] } 23. Nf5 { [%clk 0:05:26] } 23... Qxd3+
+{ [%clk 0:04:37.8] } 24. Ke1 { [%clk 0:05:22.1] } 24... Bd2+
+{ [%clk 0:04:27.1] } 25. Kd1 { [%clk 0:05:18.1] } 25... Bc3#
+{ [%clk 0:04:18.7] } 0-1
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "black_robber"]
+[Black "dedyka"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/qgKBYSQ6"]
+[WhiteElo "2494"]
+[BlackElo "2520"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Snyder Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:05:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 c5 2. b3 Nc6 3. Bb2 e5 4. Bc4 d6 5. f4 exf4 6. Qf3 Qg5 7. g3 Nf6 8. gxf4
+Qh4+ 9. Kf1 Bg4 10. Qe3 Be7 11. Nc3 O-O-O 12. Qg3 Nh5 13. Qxh4 Bxh4 14. Nd5 f5
+15. h3 Ng3+ 16. Kg2 Nxh1 17. hxg4 Ng3 18. Nf3 fxg4 19. Nxh4 Nxe4 20. Bxg7 Rhg8
+21. Bc3 Nd4 22. Bxd4 cxd4 23. Ne7+ Kd7 24. Nxg8 Nxd2 25. Nf6+ Kc6 26. Bd5+ Kc5
+27. Bxb7 h5 28. Ne4+ Nxe4 29. Bxe4 Re8 30. Bd3 Re3 31. Rf1 Rh3 32. f5 1-0
+

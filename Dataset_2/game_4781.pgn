@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.04.25"]
+[Round "-"]
+[White "alex-grimus"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rnb1k2r/pp2qppp/3pp3/2p5/4P3/3P1N2/PPPN1PPP/R2QKB1R b KQkq -"]
+[Timezone "UTC"]
+[ECO "B50"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-2.Nf3-d6-3.d3"]
+[UTCDate "2022.04.25"]
+[UTCTime "07:20:26"]
+[WhiteElo "1446"]
+[BlackElo "1444"]
+[TimeControl "60"]
+[Termination "alex-grimus won by resignation"]
+[StartTime "07:20:26"]
+[EndDate "2022.04.25"]
+[EndTime "07:20:40"]
+[Link "https://www.chess.com/game/live/44610015603"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.6] }
+2... d6 { [%clk 0:00:59.9] } 3. d3 { [%clk 0:00:59.3] } 3... e6
+{ [%clk 0:00:58.3] } 4. Bg5 { [%clk 0:00:58.7] } 4... Nf6 { [%clk 0:00:58.2] }
+5. Bxf6 { [%clk 0:00:57.9] } 5... Be7 { [%clk 0:00:58.1] } 6. Bxe7
+{ [%clk 0:00:56.6] } 6... Qxe7 { [%clk 0:00:55.9] } 7. Nbd2
+{ [%clk 0:00:55.8] } 1-0
+

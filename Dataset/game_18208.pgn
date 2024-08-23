@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "GMVallejo"]
+[Black "NewTwist"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/px582jgu"]
+[WhiteTitle "GM"]
+[WhiteElo "2887"]
+[BlackElo "2676"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Indian Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:16:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+
+1. b3 Nf6 2. Bb2 g6 3. e3 Bg7 4. c4 O-O 5. Nf3 c5 6. Be2 Nc6 7. O-O d5 8. cxd5
+Qxd5 9. Nc3 Qf5 10. Qb1 Qxb1 11. Raxb1 Bf5 12. Rbc1 Rac8 13. Rfd1 Rfd8 14. d3
+Nb4 15. Ne1 Be6 16. h3 b6 17. Rd2 Nd7 18. Nb5 Bxb2 19. Rxb2 a6 20. Nc3 Ne5 21.
+Rd1 Bf5 22. Rbd2 h5 23. f4 Nd7 24. Kf2 e5 25. g4 hxg4 26. hxg4 Be6 27. Nf3 exf4
+28. exf4 Bxg4 29. d4 Nf6 30. dxc5 Rxd2 31. Nxd2 Rxc5 32. Nce4 Nxe4+ 33. Nxe4
+Rc2 34. Nf6+ Kg7 35. Nxg4 Rxa2 36. Rd7 a5 37. Ne5 Rb2 38. Rxf7+ Kg8 39. Rd7 Na2
+40. Ke1 Rb1+ 41. Kd2 Rb2+ 42. Ke1 Rb1+ 43. Rd1 Rxd1+ 44. Kxd1 Nc3+ 45. Kd2 Nxe2
+46. Kxe2 Kg7 47. Nc4 1-0
+

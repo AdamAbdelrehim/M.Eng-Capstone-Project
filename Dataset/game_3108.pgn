@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "kvadrik"]
+[Black "HugoHabicht"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/oBtAFIH6"]
+[WhiteElo "2508"]
+[BlackElo "2427"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:03:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 Be6 7. N1c3 a6 8. Na3
+g6 9. Bd3 Bg7 10. Nc2 Nf6 11. O-O O-O 12. b3 Rc8 13. Nd5 Nd7 14. Ba3 Nc5 15.
+Qd2 f5 16. f3 Qh4 17. Rae1 Bh6 18. Qd1 Bxd5 19. cxd5 Nd4 20. exf5 Nxd3 21. Qxd3
+Nxc2 22. Bxd6 Nxe1 23. Qe2 Qd4+ 24. Kh1 Nd3 25. Bxf8 Rxf8 26. Rd1 Nf2+ 0-1
+

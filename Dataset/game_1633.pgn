@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "obilv"]
+[Black "MashxBurnedead"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/EA3uGMP2"]
+[WhiteElo "2431"]
+[BlackElo "2624"]
+[ECO "C22"]
+[Opening "Center Game: Berger Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:25:44"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 Nf6 5. Nc3 Bb4 6. Bd2 O-O 7. O-O-O Re8
+8. Bc4 Na5 9. Be2 d5 10. Qg3 Bd6 11. Bf4 dxe4 12. Bxd6 cxd6 13. Rxd6 Qe7 14.
+Nh3 Nc6 15. Rhd1 Bxh3 16. Qxh3 a6 17. Qe3 Rac8 18. Qb6 Qe5 19. Qxb7 Qf4+ 20.
+Kb1 Ne5 21. Nd5 Nxd5 22. R6xd5 h6 23. Bxa6 Rb8 24. Qc7 Rxb2+ 25. Kxb2 Nd3+ 26.
+R5xd3 Qxc7 27. Rc3 Qb6+ 0-1
+

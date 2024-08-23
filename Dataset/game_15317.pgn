@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "odonata-bot"]
+[Black "ChessatronBot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/PsiF2Qme"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2633"]
+[BlackElo "2446"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:18:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 cxd4 7. Nxd4 Ne7 8. Nd2
+Nbc6 9. N2f3 Be4 10. O-O Bxf3 11. Nxf3 Qc7 12. c4 O-O-O 13. Qa4 d4 14. Bd2 Ng6
+15. b4 d3 16. Bd1 Kb8 17. c5 Ncxe5 18. Nxe5 Nxe5 19. Rc1 a6 20. c6 Be7 21. cxb7
+Qxb7 22. f4 Ng6 23. Bf3 Qb6+ 24. Kh1 Rc8 25. b5 Rxc1 26. Rxc1 Rc8 27. Rxc8+
+Kxc8 28. Qxa6+ Qxa6 29. bxa6 Bc5 30. Be4 Kc7 31. Ba5+ Kb8 32. g3 d2 33. Bxd2
+Ne7 34. Bxh7 g6 35. h4 Ka7 36. g4 Kxa6 37. h5 Kb5 38. h6 Bd4 39. Kg2 Kc4 40.
+Bc1 Kd3 41. Kf3 e5 42. fxe5 Bxe5 43. g5 Bd4 44. Ba3 Nf5 45. Bg8 f6 46. h7 fxg5
+47. Bc5 Be5 48. Kg4 Bf6 49. a4 Nd4 50. Bd5 Ne2 51. a5 Nc3 52. Bg2 Bg7 53. a6
+Kc4 54. a7 Kxc5 55. a8=Q Bd4 56. Bb7 Kc4 57. Ba6+ Kb3 58. Bd3 Kb4 59. Qb8+ Ka4
+60. Bc4 Bf6 61. Qa8+ Kb4 62. Qf8+ Ka4 63. Qxf6 Ne4 64. Qb6 Nc5 65. h8=Q Nb7 66.
+Qa1# 1-0
+

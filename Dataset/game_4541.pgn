@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sapphire_phoenix"]
+[Black "Viktor_Solovyov"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/dYBN6JnZ"]
+[WhiteElo "2782"]
+[BlackElo "2690"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:21:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 Nf6 5. O-O d6 6. c3 a6 7. Nbd2 Ba7 8. Re1
+O-O 9. Nf1 Na5 10. Bb3 Nxb3 11. axb3 Ng4 12. Re2 f5 13. h3 Nf6 14. exf5 Bxf5
+15. Be3 Bxe3 16. Nxe3 Bd7 17. d4 e4 18. Nh2 Nh5 19. Re1 Nf4 20. Neg4 h5 21. Ne3
+Qg5 22. Kh1 Nd3 23. Re2 Nxf2+ 24. Rxf2 Rxf2 25. Qe1 Raf8 26. Nf3 R8xf3 27. gxf3
+Rxf3 0-1
+

@@ -1,0 +1,28 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "PetersBot"]
+[Black "CruelKen"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/F2YYYMRE"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2978"]
+[BlackElo "3003"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, Rio Gambit Accepted"]
+[TimeControl "360+3"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:28:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Nxe5 7. Rxe5+ Be7
+8. Bf1 O-O 9. d4 Bf6 10. Re2 b6 11. Re1 Bb7 12. Bf4 Nf5 13. c3 Re8 14. Nd2 Rxe1
+15. Qxe1 g5 16. Bg3 Nxg3 17. hxg3 c5 18. dxc5 bxc5 19. Rd1 Rb8 20. Qe2 Bd5 21.
+Nb3 Bxb3 22. axb3 Rxb3 23. Rd2 Rb6 24. Qd1 d6 25. Bc4 Qd7 26. g4 Kg7 27. g3 a5
+28. Kg2 a4 29. Qe2 h6 30. Qe4 Qb7 31. Bd5 Qd7 32. Bc4 Qb7 33. Bd5 Qd7 34. Bc4
+1/2-1/2
+

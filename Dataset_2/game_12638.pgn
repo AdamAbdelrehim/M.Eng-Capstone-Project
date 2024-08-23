@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.08.18"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Nawouzy"]
+[Result "0-1"]
+[CurrentPosition "rnb1k2r/pp1p1ppp/4p3/8/4P1n1/2N1PN2/PqP1Q1PP/R3KB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "B40"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-French-Variation"]
+[UTCDate "2024.08.18"]
+[UTCTime "21:56:16"]
+[WhiteElo "1591"]
+[BlackElo "1663"]
+[TimeControl "60"]
+[Termination "Nawouzy won by resignation"]
+[StartTime "21:56:16"]
+[EndDate "2024.08.18"]
+[EndTime "21:56:58"]
+[Link "https://www.chess.com/game/live/117757161897"]
+
+1. e4 { [%clk 0:01:00] } 1... e6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.6] }
+2... c5 { [%clk 0:00:59.5] } 3. Nc3 { [%clk 0:00:57.2] } 3... Nf6
+{ [%clk 0:00:58.6] } 4. d4 { [%clk 0:00:56.6] } 4... Qb6 { [%clk 0:00:58.1] }
+5. dxc5 { [%clk 0:00:55.5] } 5... Bxc5 { [%clk 0:00:58] } 6. Qe2
+{ [%clk 0:00:50.3] } 6... Ng4 { [%clk 0:00:56.4] } 7. Be3 { [%clk 0:00:34.8] }
+7... Bxe3 { [%clk 0:00:55] } 8. fxe3 { [%clk 0:00:34.7] } 8... Qxb2
+{ [%clk 0:00:54.4] } 0-1
+

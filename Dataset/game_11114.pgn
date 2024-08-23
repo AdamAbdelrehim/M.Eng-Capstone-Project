@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Nadtkins"]
+[Black "Aborigen100500"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/f9vsY98Z"]
+[WhiteTitle "IM"]
+[BlackTitle "NM"]
+[WhiteElo "2567"]
+[BlackElo "2604"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Black Mustang Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:17:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. Nf3 Nc6 2. g3 d6 3. d4 Bd7 4. c4 Qc8 5. Nc3 g6 6. d5 Ne5 7. Nxe5 dxe5 8. h4
+Nf6 9. Bg2 Bg7 10. c5 O-O 11. Bg5 h6 12. Bxf6 Bxf6 13. h5 g5 14. Qc2 Bg7 15. e4
+g4 16. f3 gxf3 17. Bxf3 Bf6 18. O-O-O Bg5+ 19. Kb1 b6 20. c6 Bg4 21. Qe2 Bxf3
+22. Qxf3 b5 23. Qf5 b4 24. Qxc8 Raxc8 25. Na4 f5 26. exf5 Rxf5 27. Rhf1 Rcf8
+28. Rxf5 Rxf5 29. Nc5 Rf3 30. g4 Be3 31. Na6 Bb6 32. Nxb4 e4 33. Re1 e3 34. Nc2
+Kf7 35. b4 Kf6 36. a4 a6 37. a5 Ba7 38. Kb2 Ke5 39. g5 hxg5 40. h6 Rh3 41. h7
+Kxd5 42. Nxe3+ Bxe3 43. Rxe3 Rxh7 44. Rg3 Rg7 45. b5 axb5 46. a6 Kxc6 47. a7
+Kb7 48. Ra3 Rg8 49. Ra5 c6 50. Kc3 g4 51. Kd4 g3 52. Ra1 g2 53. Rg1 Kxa7 54.
+Ke3 b4 55. Ke4 b3 56. Kd3 Kb6 57. Kc3 b2 58. Kxb2 Kc5 59. Kc3 Kd5 60. Kd3 c5
+61. Ke3 c4 62. Rd1+ Kc5 63. Rg1 Kb4 64. Kd2 Kc5 65. Kc2 Rg7 66. Kc3 Rg6 67. Rd1
+Rg3+ 68. Kd2 g1=Q 69. Rxg1 Rxg1 70. Ke2 Rg3 71. Kf2 Rd3 72. Ke2 Kd4 73. Ke1 c3
+74. Kf2 c2 75. Ke2 c1=Q 76. Kf2 Qc2+ 77. Kg1 Rd1# 0-1
+

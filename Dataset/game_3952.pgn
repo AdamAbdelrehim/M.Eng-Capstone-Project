@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "chEss653447"]
+[Black "goldteam"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/tIAeMLTy"]
+[BlackTitle "CM"]
+[WhiteElo "2590"]
+[BlackElo "2571"]
+[ECO "E46"]
+[Opening "Nimzo-Indian Defense: Normal Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:59:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+8"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd2 d5 6. Nf3 c6 7. a3 Be7 8. Qc2
+Nbd7 9. Rg1 a5 10. g4 dxc4 11. g5 Nd5 12. Bxc4 b5 13. Bd3 g6 14. h4 Kg7 15. h5
+b4 16. Ne4 Ba6 17. Bxa6 Rxa6 18. h6+ Kg8 19. Qd3 Ra8 20. Ng3 bxa3 21. bxa3 a4
+22. e4 Nc7 23. Kf1 Rb8 24. Kg2 Nc5 25. Qc4 Nb3 26. Bf4 Nxa1 27. Rxa1 Bd6 28.
+Be3 Qd7 29. Ne5 Bxe5 30. dxe5 Rfd8 31. Rc1 Rb3 32. Nf1 Rxa3 33. Bc5 Rb3 34.
+Qxa4 Qd3 35. Ne3 Rbb8 36. Qxc6 Nb5 37. Rd1 Qe2 38. Rxd8+ Rxd8 39. Bd6 Nd4 40.
+Qc7 Qf3+ 41. Kg1 Ra8 42. Qe7 Ra1+ 43. Nf1 Rxf1+ 44. Kxf1 Qh1# 0-1
+

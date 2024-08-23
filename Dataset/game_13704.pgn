@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Adrian_DelaCruz"]
+[Black "Entrenamiento2021"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/4CBI1sIP"]
+[WhiteElo "2602"]
+[BlackElo "2390"]
+[ECO "A61"]
+[Opening "Benoni Defense: Knight's Tour Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:14:18"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. Nc4
+O-O 9. Bf4 Nbd7 10. Bxd6 Re8 11. e3 Nb6 12. Bxc5 Nfxd5 13. Nxd5 Nxd5 14. Bd4
+Nxe3 15. Bxe3 Qh4 16. Be2 b5 17. Qd5 Be6 18. Qxb5 Rab8 19. Qa6 Bxc4 20. Qxc4
+Re4 21. Qd3 Rd8 22. Qb3 Bxb2 23. Qxb2 Rxe3 24. O-O Re6 25. Bf3 Qg5 26. Rfe1
+Red6 27. h3 Rd2 28. Qc3 Qb5 29. Re7 Qb6 30. Rf1 Qd6 31. Rfe1 Qb6 32. Re8+ 1-0
+

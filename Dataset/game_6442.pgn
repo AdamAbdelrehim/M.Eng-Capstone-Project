@@ -1,0 +1,31 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "YoBot_v2"]
+[Black "CruelKen"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/FlPwVJ9U"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3028"]
+[BlackElo "3003"]
+[ECO "D41"]
+[Opening "Queen's Gambit Declined: Semi-Tarrasch Defense"]
+[TimeControl "360+3"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:29:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 cxd4 6. Qxd4 exd5 7. e4 dxe4 8.
+Qxd8+ Kxd8 9. Ng5 Be6 10. Bd2 Bb4 11. g3 Ke7 12. Nxe6 fxe6 13. Bg2 Nc6 14. a3
+Bxc3 15. Bxc3 Rhd8 16. O-O Nd4 17. Rae1 Nf3+ 18. Bxf3 exf3 19. Re3 Nd5 20. Rxf3
+Nxc3 21. Rxc3 Rac8 22. Rfc1 Rxc3 23. Rxc3 Rd2 24. Rc7+ Rd7 25. Rc8 Rd3 26. Rc7+
+Rd7 27. Rc8 Rd3 28. Ra8 a6 29. b4 Rxa3 30. Ra7 Rb3 31. Rxb7+ Kf6 32. Rb6 h5 33.
+h4 g5 34. hxg5+ Kxg5 35. Rxe6 h4 36. gxh4+ Kxh4 37. Rxa6 Rxb4 38. f3 Kg3 39.
+Ra1 Rb2 40. f4 Kxf4 41. Rc1 Kg3 42. Ra1 Rg2+ 43. Kf1 Rf2+ 44. Ke1 Rf7 45. Rb1
+Ra7 46. Rc1 Kg2 47. Rb1 Ra2 48. Rc1 Rb2 49. Ra1 Kf3 50. Rc1 Ke3 51. Ra1 Kf3 52.
+Rc1 Ke3 53. Ra1 Kf3 1/2-1/2
+

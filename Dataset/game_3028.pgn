@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "CACHS"]
+[Black "sleepheaddefence"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/up7gJmgq"]
+[WhiteTitle "FM"]
+[WhiteElo "2518"]
+[BlackElo "2534"]
+[ECO "B87"]
+[Opening "Sicilian Defense: Sozin Attack, Flank Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:52:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. Be3
+Be7 9. f3 Bd7 10. g4 Nc6 11. h4 Rc8 12. h5 h6 13. Qd2 Nxd4 14. Bxd4 a5 15. a4
+b4 16. Ne2 Qc7 17. O-O-O d5 18. e5 Ng8 19. f4 Bc5 20. f5 Ne7 21. f6 gxf6 22.
+exf6 Bxd4 23. Nxd4 Nc6 24. Nb5 Qb8 25. g5 hxg5 26. Qxg5 Ne5 27. Qg7 Rf8 28. h6
+Bxb5 29. h7 Ng6 30. axb5 Kd7 31. h8=Q Nxh8 32. Rxh8 Rxh8 33. Qxf7+ Kd6 34.
+Rxd5+ exd5 35. Qe7# 1-0
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "locobreath"]
+[Black "positionaloldman"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/0uj7i927"]
+[WhiteElo "2520"]
+[BlackElo "2550"]
+[ECO "A21"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:55:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. c4 e5 2. Nc3 Bb4 3. Qb3 a5 4. a3 Bxc3 5. Qxc3 d6 6. b3 Ne7 7. Bb2 O-O 8. g3
+Nd7 9. Bg2 Nc5 10. Nf3 Bd7 11. d4 exd4 12. Nxd4 f6 13. O-O Nc6 14. Nb5 Ne5 15.
+f4 Ng4 16. h3 Nh6 17. e4 Bxb5 18. cxb5 a4 19. b4 Nb3 20. Rae1 Qd7 21. e5 fxe5
+22. Bxb7 Qxh3 23. Bg2 Qh5 24. Bxa8 Rxa8 25. Qc6 Rf8 26. fxe5 Nf5 27. Qd5+ Kh8
+28. exd6 1-0
+

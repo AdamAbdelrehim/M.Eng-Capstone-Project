@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "t-stevenson"]
+[Black "the_reverse_flash"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/i2cHOXtA"]
+[WhiteElo "2603"]
+[BlackElo "2517"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation, Barmen Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:38:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nc6 5. Nf3 Nf6 6. dxc5 Qxc5 7. Be3 Qh5 8.
+Be2 Bg4 9. h3 Rd8 10. Qb3 Rd7 11. Nbd2 e5 12. O-O-O Be6 13. Qa4 Qg6 14. Nh4 1-0
+

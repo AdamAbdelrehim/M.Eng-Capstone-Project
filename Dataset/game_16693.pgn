@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "skonov"]
+[Black "johndoe695"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/B9BErGtD"]
+[WhiteElo "2456"]
+[BlackElo "2579"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "03:15:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. Bf4 e6 3. e3 d5 4. Nd2 c5 5. c3 Nc6 6. Ngf3 Bd6 7. Bg3 O-O 8. Bd3
+b6 9. Qe2 Bb7 10. O-O-O cxd4 11. exd4 Rc8 12. Kb1 b5 13. Bxb5 Rb8 14. Bd3 Ne7
+15. Ka1 Bc6 16. Nb3 a5 17. Bxd6 Qxd6 18. Nc5 Rfc8 19. Rhe1 Be8 20. Rb1 Ng6 21.
+h3 a4 22. a3 Nf4 23. Qf1 Nxd3 24. Qxd3 Qb6 25. Nxa4 Bxa4 26. Ne5 Bb3 27. g4 Qa5
+28. g5 Ne4 29. h4 Rxc3 30. Qf1 Rc2 0-1
+

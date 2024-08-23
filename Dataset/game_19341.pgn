@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "vonhbs"]
+[Black "ulovechess"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/4sJSfvwC"]
+[WhiteElo "2541"]
+[BlackElo "2419"]
+[ECO "D34"]
+[Opening "Tarrasch Defense: Classical Variation, Bogoljubow Variation"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:05:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-12"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 c5 5. cxd5 exd5 6. Bg2 Nc6 7. O-O Be7 8. Nc3
+O-O 9. Bg5 Be6 10. Rc1 c4 11. Ne5 Qa5 12. e4 Rad8 13. Nxc6 bxc6 14. e5 1-0
+

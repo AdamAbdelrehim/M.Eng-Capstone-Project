@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.31"]
+[Round "-"]
+[White "jovicamaric"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "4kb1r/ppp2ppp/2n2P2/8/8/P3P3/1PP2KBP/RNBr3R b k -"]
+[Timezone "UTC"]
+[ECO "A02"]
+[ECOUrl "https://www.chess.com/openings/Birds-Opening"]
+[UTCDate "2022.10.31"]
+[UTCTime "22:06:33"]
+[WhiteElo "1929"]
+[BlackElo "1845"]
+[TimeControl "600"]
+[Termination "jovicamaric won by resignation"]
+[StartTime "22:06:33"]
+[EndDate "2022.10.31"]
+[EndTime "22:08:06"]
+[Link "https://www.chess.com/game/live/60992980473"]
+
+1. f4 { [%clk 0:09:58.4] } 1... Nc6 { [%clk 0:09:55] } 2. Nf3
+{ [%clk 0:09:57.4] } 2... Nf6 { [%clk 0:09:53.7] } 3. e3 { [%clk 0:09:56.8] }
+3... d6 { [%clk 0:09:51.8] } 4. d4 { [%clk 0:09:56.2] } 4... Bg4
+{ [%clk 0:09:47.2] } 5. a3 { [%clk 0:09:55.1] } 5... e5 { [%clk 0:09:43.5] } 6.
+dxe5 { [%clk 0:09:51.4] } 6... dxe5 { [%clk 0:09:43.4] } 7. Qxd8+
+{ [%clk 0:09:48.5] } 7... Rxd8 { [%clk 0:09:39.7] } 8. fxe5
+{ [%clk 0:09:42.9] } 8... Bxf3 { [%clk 0:09:35.5] } 9. exf6
+{ [%clk 0:09:25.3] } 9... Rd1+ { [%clk 0:09:23.7] } 10. Kf2
+{ [%clk 0:09:24.2] } 10... Bxg2 { [%clk 0:09:20.4] } 11. Bxg2
+{ [%clk 0:09:21.4] } 1-0
+

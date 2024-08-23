@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "saeta"]
+[Black "NothingSpecialBTW"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Hc52hv8A"]
+[WhiteElo "2493"]
+[BlackElo "2519"]
+[ECO "E75"]
+[Opening "King's Indian Defense: Averbakh Variation, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:13:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Be2 O-O 6. Bg5 c5 7. d5 e6 8. Qd2
+exd5 9. exd5 Qb6 10. Nf3 Bf5 11. Nh4 Ne4 12. Nxe4 Bxe4 13. f3 h6 14. Be3 Qxb2
+15. Rc1 Qxd2+ 16. Kxd2 Bf6 17. g3 Bxh4 18. gxh4 Bf5 19. Bxh6 Rd8 20. Bg5 Rd7
+21. Bf4 Na6 22. h5 Re8 23. Rhg1 Nc7 24. Bd3 Bxd3 25. Kxd3 Kh7 26. hxg6+ fxg6
+27. Rg4 Rf7 28. Rf1 Ref8 29. Bxd6 Rxf3+ 30. Rxf3 Rxf3+ 31. Ke4 Rf7 32. Rh4+ Kg8
+33. Be5 Ne8 34. Rh8# 1-0
+

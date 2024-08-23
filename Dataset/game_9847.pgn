@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Zari_Huella"]
+[Black "Oleg_Ras"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/SEkO9JeL"]
+[WhiteElo "2545"]
+[BlackElo "2488"]
+[ECO "E71"]
+[Opening "King's Indian Defense: Makogonov Variation"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:10:59"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. h3 O-O 6. Bg5 Na6 7. Bd3 c5 8. d5 Nc7
+9. Nf3 e5 10. g4 Rb8 11. a3 Bd7 12. b4 b5 13. bxc5 bxc4 14. Bxc4 Nb5 15. Bxb5
+Bxb5 16. Nxb5 Qa5+ 17. Qd2 1-0
+

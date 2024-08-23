@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Premier09"]
+[Black "Nat74"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/QEYJcC4A"]
+[WhiteElo "2554"]
+[BlackElo "2529"]
+[ECO "A43"]
+[Opening "Benoni Defense: Benoni-Staunton Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:19:34"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 c5 2. d5 f5 3. e4 fxe4 4. f3 Nf6 5. Nc3 d6 6. fxe4 g6 7. Nf3 Bg7 8. Bc4
+O-O 9. O-O Nbd7 10. e5 Nxe5 11. Nxe5 dxe5 12. d6+ Kh8 13. dxe7 Qxe7 14. Bg5 Be6
+15. Qe2 Rae8 16. Ne4 b6 17. Rad1 Bg4 18. Qxg4 Nxg4 19. Bxe7 Rxf1+ 20. Bxf1 Rxe7
+21. Rd8+ Bf8 22. Rxf8+ Kg7 1-0
+

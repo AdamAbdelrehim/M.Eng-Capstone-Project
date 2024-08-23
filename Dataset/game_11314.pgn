@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "bob_2004"]
+[Black "sapphire_phoenix"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/K702tJb2"]
+[WhiteTitle "FM"]
+[WhiteElo "2710"]
+[BlackElo "2768"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:48:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 b5 6. e4 d6 7. Bd2 a6 8. a4 bxc4
+9. Bxc4 O-O 10. Nge2 exd5 11. Nxd5 Bxd2+ 12. Qxd2 Nc6 13. O-O Rb8 14. Rfd1 Nxd5
+15. Bxd5 Ne5 16. Nc3 Bd7 17. Rab1 Qa5 18. b3 Rfd8 19. h3 Qc7 20. Qe2 Qa5 21.
+Qd2 Be8 22. f4 Nc6 23. Qd3 Nd4 24. Ne2 Nc6 25. Bc4 Nb4 26. Qg3 Bc6 27. Nc3 Qc7
+28. f5 Qe7 29. f6 Qxf6 30. Rf1 Qd4+ 31. Kh1 Be8 32. Rbd1 Qe5 33. Qf3 Nc6 34.
+Nd5 Nd4 35. Qf2 Kh8 36. b4 Bxa4 37. Ra1 Be8 38. bxc5 dxc5 39. Rxa6 f6 40. Qh4
+Bg6 41. Nf4 Bxe4 42. Ra7 Qg5 43. Qf2 Nf5 44. Ne6 Ng3+ 45. Kg1 Qe5 46. Nxd8 Rxd8
+47. Re1 f5 48. Ra5 Qd4 49. Rxc5 Qxf2+ 50. Kxf2 Nh5 51. Rxe4 fxe4 52. Rxh5 Rd4
+53. Be2 g6 54. Ke3 Rb4 55. Re5 Rb3+ 56. Kxe4 Kg7 57. Bf3 Rb2 58. Re7+ Kg8 59.
+Rd7 Re2+ 60. Bxe2 1-0
+

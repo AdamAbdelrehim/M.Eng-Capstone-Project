@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "str_ga"]
+[Black "sekiro-a"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/U5kNuyaT"]
+[WhiteElo "2362"]
+[BlackElo "2503"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:54:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 g6 2. e4 Bg7 3. Nc3 d6 4. Bg5 a6 5. Bc4 b5 6. Bb3 Nd7 7. Qf3 f6 8. e5 Rb8
+9. Qd5 Nxe5 10. dxe5 e6 11. exf6 Nxf6 12. Qf3 c5 13. Qc6+ Bd7 14. Qxd6 c4 15.
+O-O-O cxb3 16. axb3 Rb6 17. Qd3 Qc7 18. Nf3 b4 19. Bxf6 Bxf6 20. Ne4 Be7 21.
+Rhe1 Bb5 22. Qd4 O-O 23. Nfg5 Rc8 24. Rd2 Rc6 25. c4 bxc3 26. Nxc3 Bxg5 27. f4
+Bxf4 0-1
+

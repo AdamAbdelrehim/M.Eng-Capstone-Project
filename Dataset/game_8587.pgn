@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ShramovIgor"]
+[Black "ksxpjsy"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Wk1LXen3"]
+[WhiteElo "2524"]
+[BlackElo "2560"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed, Chameleon Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "03:51:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nge2 e6 4. d4 d5 5. exd5 exd5 6. dxc5 Be6 7. Nf4 d4 8.
+Nxe6 fxe6 9. Ne4 Bxc5 1-0
+

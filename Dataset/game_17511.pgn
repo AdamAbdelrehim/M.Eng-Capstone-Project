@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "kasparik_garik"]
+[Black "LY0329"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/WkVCub7q"]
+[WhiteElo "2604"]
+[BlackElo "2873"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Keres Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:00:51"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Ne2 d6 3. Nec3 Nf6 4. Bb5+ Nbd7 5. O-O a6 6. Bxd7+ Bxd7 7. d3 g6
+0-1
+

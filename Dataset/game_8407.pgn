@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "magnusglad_bot"]
+[Black "Hoon_Bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/aYtD8MJk"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2785"]
+[BlackElo "2875"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Löwenthal Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:35:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 Nf6 6. Bg5 Bb4+ 7. N1c3 O-O 8.
+a3 Ba5 9. Bc4 h6 10. Bxf6 Qxf6 11. O-O a6 12. Nd5 Qg6 13. Nbc3 d6 14. Qd3 Bxc3
+15. Nxc3 Qg5 16. Nd5 b5 17. Ba2 Be6 18. c3 Ne7 19. Rfd1 Rfd8 20. Nxe7+ Qxe7 21.
+Bxe6 fxe6 22. a4 Qd7 23. axb5 Qxb5 24. b4 d5 25. Ra5 Qxd3 26. Rxd3 Rd6 27. f3
+Rc8 28. Kf2 Kf7 29. h3 Rc4 30. exd5 exd5 31. Raxd5 Rxd5 32. Rxd5 Rxc3 33. Rxe5
+Rc6 34. Re4 Rb6 35. g4 Rb5 36. Rd4 a5 37. bxa5 Rxa5 38. Rd7+ Kg8 39. Rd6 Kh7
+40. Rd7 Ra2+ 41. Kg3 Ra1 42. h4 Rh1 43. Rd3 Rb1 44. Rd7 Ra1 45. Kf4 Rf1 46. Rd3
+Ra1 47. Kf5 Ra5+ 48. Ke4 Ra4+ 49. Rd4 Ra7 50. Rd5 Re7+ 51. Re5 Ra7 52. Rb5 Ra4+
+1/2-1/2
+

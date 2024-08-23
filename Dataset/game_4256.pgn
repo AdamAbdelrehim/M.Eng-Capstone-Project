@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "simplesimpson03"]
+[Black "Mighty_Ferz"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/iLz64bCf"]
+[WhiteElo "2515"]
+[BlackElo "2371"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:42:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bg4 4. O-O Bxf3 5. exf3 e6 6. f4 Nf6 7. d4 Be7 8. Nd2
+O-O 9. Nf3 Nbd7 10. c3 a6 11. Ne5 Nxe5 12. fxe5 Nd7 13. a4 b5 14. f4 g6 15. g4
+Nb6 16. axb5 axb5 17. Rxa8 Qxa8 18. f5 Re8 19. Qf3 exf5 20. gxf5 Qc8 21. fxg6
+fxg6 22. Qf7+ Kh8 23. Bh6 Bf8 24. Bxf8 1-0
+

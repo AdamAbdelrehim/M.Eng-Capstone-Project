@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "alfrechess2006"]
+[Black "vitaliy_garbuz"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/byeqm21q"]
+[WhiteElo "2364"]
+[BlackElo "2502"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:53:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+
+1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Nc3 a6 5. Nf3 c6 6. Bg5 f6 7. Bh4 Bd6 8. e3
+Ne7 9. Bd3 Bf5 10. O-O O-O 11. Re1 Nd7 12. e4 dxe4 13. Nxe4 Bb4 14. Re2 Kh8 15.
+Qb3 Nd5 16. Bg3 a5 17. a3 a4 18. Qc2 Be7 19. Rae1 N7b6 20. Nc5 Bxd3 21. Qxd3
+Bxc5 22. dxc5 Qd7 23. cxb6 Rfe8 24. Nd4 Rxe2 25. Qxe2 Nxb6 26. Nf5 h6 27. Qh5
+Nd5 28. Bh4 Rd8 29. Qg6 Nf4 30. Qg4 Re8 31. Rxe8+ Kh7 32. h3 Ng6 33. Re7 Qd2
+34. Rxg7+ Kh8 35. Rg8+ Kxg8 36. Qxg6+ Kf8 37. Qg7+ Ke8 38. Qe7# 1-0
+

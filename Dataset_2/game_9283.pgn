@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.05.31"]
+[Round "-"]
+[White "MH013"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "3r2k1/4qpQp/p3p3/1p1p4/1Pr5/2P3RP/P4PP1/2R3K1 b - -"]
+[Timezone "UTC"]
+[ECO "B21"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Smith-Morra-Gambit"]
+[UTCDate "2023.05.31"]
+[UTCTime "07:32:03"]
+[WhiteElo "1753"]
+[BlackElo "1732"]
+[TimeControl "60"]
+[Termination "MH013 won by checkmate"]
+[StartTime "07:32:03"]
+[EndDate "2023.05.31"]
+[EndTime "07:32:55"]
+[Link "https://www.chess.com/game/live/79257179637"]
+
+1. e4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. d4 { [%clk 0:00:59.8] }
+2... d6 { [%clk 0:00:59.9] } 3. Nf3 { [%clk 0:00:57.8] } 3... cxd4
+{ [%clk 0:00:58.9] } 4. Nxd4 { [%clk 0:00:57.7] } 4... Nf6 { [%clk 0:00:58.7] }
+5. Bd3 { [%clk 0:00:56.5] } 5... e6 { [%clk 0:00:58.2] } 6. c3
+{ [%clk 0:00:56] } 6... Be7 { [%clk 0:00:58] } 7. Nf3 { [%clk 0:00:55.7] } 7...
+O-O { [%clk 0:00:57.9] } 8. O-O { [%clk 0:00:55.5] } 8... a6
+{ [%clk 0:00:57.6] } 9. h3 { [%clk 0:00:55.4] } 9... b5 { [%clk 0:00:57.4] }
+10. Be3 { [%clk 0:00:54.8] } 10... Bb7 { [%clk 0:00:56.9] } 11. Re1
+{ [%clk 0:00:53.6] } 11... Nbd7 { [%clk 0:00:56.6] } 12. Nbd2
+{ [%clk 0:00:53] } 12... Nc5 { [%clk 0:00:55.8] } 13. Bc2 { [%clk 0:00:51.3] }
+13... Ncxe4 { [%clk 0:00:54.3] } 14. Nxe4 { [%clk 0:00:49.4] } 14... Nxe4
+{ [%clk 0:00:54.2] } 15. Bxe4 { [%clk 0:00:47.6] } 15... Bxe4
+{ [%clk 0:00:54.1] } 16. Bd2 { [%clk 0:00:46.1] } 16... Bxf3
+{ [%clk 0:00:53.5] } 17. Qxf3 { [%clk 0:00:44.8] } 17... d5
+{ [%clk 0:00:53.2] } 18. b4 { [%clk 0:00:43.3] } 18... Bd6 { [%clk 0:00:52.3] }
+19. Rac1 { [%clk 0:00:43.2] } 19... Qe7 { [%clk 0:00:50.6] } 20. Bf4
+{ [%clk 0:00:42.4] } 20... Bxf4 { [%clk 0:00:49.7] } 21. Qxf4
+{ [%clk 0:00:42.3] } 21... Rfd8 { [%clk 0:00:49] } 22. Qd4 { [%clk 0:00:41] }
+22... Rab8 { [%clk 0:00:46.2] } 23. Re3 { [%clk 0:00:38.1] } 23... Rbc8
+{ [%clk 0:00:45.4] } 24. Rg3 { [%clk 0:00:37.2] } 24... Rc4
+{ [%clk 0:00:45.1] } 25. Qxg7# { [%clk 0:00:35.9] } 1-0
+

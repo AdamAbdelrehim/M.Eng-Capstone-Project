@@ -1,0 +1,35 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "caissa-x"]
+[Black "Nikitosikbot_v2"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/TRB1X8os"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3028"]
+[BlackElo "3020"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack, Two Knights Defense, Blockade Line"]
+[TimeControl "900+3"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:33:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 Nh5 8. Bd3
+b6 9. b4 Nxf4 10. exf4 a5 11. a3 c6 12. O-O Ba6 13. Bxa6 Rxa6 14. Qe2 Qa8 15.
+b5 cxb5 16. Qxb5 Ra7 17. Ne5 Nxe5 18. cxb6 Nc4 19. bxa7 Qxa7 20. Ne2 Rb8 21.
+Qa4 g6 22. Ra2 Qa6 23. Nc1 Qb6 24. Nd3 Qxd4 25. Ne5 Qxf4 26. Nxc4 Qxc4 27. Qxc4
+dxc4 28. Rc2 Bxa3 29. Rxc4 Rb7 30. Ra1 Bb4 31. g3 Kf8 32. Rac1 Ke7 33. Rc7+
+Rxc7 34. Rxc7+ Kd6 35. Rxf7 a4 36. Kf1 Kd5 37. Rxh7 Kc4 38. Ra7 a3 39. Ke2 Kb3
+40. Kd3 a2 41. Rxa2 Kxa2 42. Kd4 Bd6 43. f4 Kb1 44. Ke4 Kc2 45. g4 Kd2 46. h4
+Ke2 47. f5 gxf5+ 48. gxf5 exf5+ 49. Kxf5 Kf1 50. h5 Ke1 51. h6 Bb4 52. h7 Bc3
+53. Kf4 Kf2 54. Ke4 Kg2 55. Kd5 Kh1 56. Kc4 Bb2 57. Kd3 Bh8 58. Ke4 Bc3 59. Kd5
+Kg2 60. Ke6 Bd4 61. Ke7 Kh2 62. Kf8 Ba1 63. Ke8 Kg1 64. Kf7 Kf1 65. Ke8 Bc3 66.
+Kd8 Kg2 67. Ke8 Bh8 68. Kf8 Bc3 69. Ke7 Bg7 70. Kf7 Be5 71. Ke7 Ba1 72. Kd7 Bc3
+73. Ke7 Bd4 74. Ke6 Kf3 75. Ke7 Kg3 76. Kf8 Kf2 77. Kf7 Ba1 78. Kg8 Kg3 79.
+h8=Q Bxh8 1/2-1/2
+

@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.04.29"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Luis7853"]
+[Result "0-1"]
+[CurrentPosition "r1bqkb1r/pp3ppp/2p5/3p4/4N3/3P4/PP1P1PPP/R1BQK2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C47"]
+[ECOUrl "https://www.chess.com/openings/Four-Knights-Game-Italian-Variation"]
+[UTCDate "2021.04.29"]
+[UTCTime "01:35:05"]
+[WhiteElo "1285"]
+[BlackElo "1332"]
+[TimeControl "600"]
+[Termination "Luis7853 won by resignation"]
+[StartTime "01:35:05"]
+[EndDate "2021.04.29"]
+[EndTime "01:37:38"]
+[Link "https://www.chess.com/game/live/13399273235"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:53.8] } 2. Nf3
+{ [%clk 0:09:58.3] } 2... Nc6 { [%clk 0:09:49.1] } 3. Bc4 { [%clk 0:09:49.3] }
+3... Nf6 { [%clk 0:09:42.4] } 4. Nc3 { [%clk 0:09:42.3] } 4... Nxe4
+{ [%clk 0:09:34.6] } 5. Nxe4 { [%clk 0:09:39.7] } 5... d5 { [%clk 0:09:28.7] }
+6. Nxe5 { [%clk 0:09:05.9] } 6... Nxe5 { [%clk 0:09:17.4] } 7. Bb5+
+{ [%clk 0:09:00.8] } 7... c6 { [%clk 0:09:06.6] } 8. Bd3 { [%clk 0:08:39] }
+8... Nxd3+ { [%clk 0:08:58.9] } 9. cxd3 { [%clk 0:08:35.8] } 0-1
+

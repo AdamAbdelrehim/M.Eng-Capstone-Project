@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "MarathonGo2700"]
+[Black "sergeikim2003"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/3n7E1p34"]
+[WhiteElo "2489"]
+[BlackElo "2540"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "06:11:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d4 Bxd4 6. Nxd4 Nxd4 7. Bg5 d6 8.
+f4 Be6 9. Na3 O-O 10. c3 Nc6 11. Bd5 h6 12. Bh4 exf4 13. Rxf4 g5 14. Qf3 Ne5
+15. Qf2 Nxd5 0-1
+

@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "simbelmyne-bot"]
+[Black "ChessatronBot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/eHp9NSAA"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2541"]
+[BlackElo "2468"]
+[ECO "B51"]
+[Opening "Sicilian Defense: Moscow Variation"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:38:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. Nf3 c5 2. e4 d6 3. Bb5+ Nd7 4. Nc3 a6 5. Be2 b5 6. d4 Bb7 7. dxc5 Nxc5 8.
+O-O e6 9. b4 Nxe4 10. Nxe4 Bxe4 11. a4 bxa4 12. b5 Nf6 13. Rxa4 axb5 14. Bxb5+
+Ke7 15. Rb4 Ra1 16. Nd2 Qa5 17. c3 Bd5 18. Nb3 Bxb3 19. Rxb3 Qa8 20. Qd4 h6 21.
+c4 e5 22. Qc3 Kd8 23. c5 Qa5 24. Qg3 Rg8 25. Rd1 h5 26. cxd6 Rxc1 27. Rxc1 Bxd6
+28. Rd3 Qxb5 29. Rxd6+ Nd7 30. Rcd1 Re8 31. Qxg7 h4 32. Qxf7 Re7 33. Qf8+ Re8
+34. Qf6+ Kc7 35. Rxd7+ Qxd7 36. Rxd7+ Kxd7 37. Qxh4 Kd6 38. Qb4+ Kc7 39. Qc5+
+Kd7 40. Qd5+ Ke7 41. Qxe5+ Kf7 42. Qf5+ Kg7 43. h4 Rg8 44. h5 Kh6 45. g4 Rg7
+46. Kh2 Rg8 47. Kg2 Kg7 48. g5 Ra8 49. h6+ Kg8 50. Qd5+ Kf8 51. Qxa8+ Ke7 52.
+h7 Kd6 53. h8=Q Kc5 54. Qc3+ Kb6 55. Qcc6# 1-0
+

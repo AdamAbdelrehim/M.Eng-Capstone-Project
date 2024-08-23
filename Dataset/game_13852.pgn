@@ -1,0 +1,37 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "expositor"]
+[Black "PurpleHunter"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/QfIu6JFt"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2764"]
+[BlackElo "2604"]
+[ECO "C88"]
+[Opening "Ruy Lopez: Closed"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:33:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. d4
+Nxd4 9. Nxd4 exd4 10. e5 Ne8 11. c3 c5 12. cxd4 c4 13. Bc2 d5 14. Nc3 Nc7 15.
+Ne2 b4 16. Nf4 g6 17. b3 c3 18. a3 a5 19. h3 Be6 20. Re3 Qd7 21. Rf3 Qc6 22.
+Rg3 Bh4 23. Rf3 Bd7 24. Kh2 Rfc8 25. Nh5 Ne8 26. Qd3 Be7 27. a4 f5 28. Rg3 Ng7
+29. Nxg7 Kxg7 30. Bf4 Be6 31. Rf3 Kh8 32. Qe3 Rg8 33. Bg5 Bxg5 34. Qxg5 Qd7 35.
+h4 Qd8 36. Qh6 Qe7 37. g3 g5 38. hxg5 Rg6 39. Qh4 Qxg5 40. Qxg5 Rxg5 41. Kg2
+Rg4 42. Rf4 Rxf4 43. gxf4 Kg7 44. Kf3 Rh8 45. Rh1 h6 46. Rh5 Kg6 47. Rh3 Rh7
+48. Ke3 h5 49. Rh4 Rh6 50. Bd1 Rh8 51. Bc2 Bd7 52. Bd1 Rh7 53. Ke2 Be6 54. Ke3
+Rh6 55. Bc2 Kf7 56. Bd1 Ke7 57. Bc2 Bd7 58. Bd3 Ke6 59. Bc2 Rh8 60. Bd1 Be8 61.
+Ke2 Bg6 62. Ke3 Bf7 63. Bc2 Be8 64. Kf3 Rh7 65. Ke3 Rg7 66. Rh1 Bg6 67. Bd1 Rh7
+68. Rh4 Rf7 69. Bc2 Rb7 70. Bb1 Rg7 71. Rh1 Rh7 72. Rh4 Rh6 73. Bc2 Ke7 74. Bd3
+Rh7 75. Bc2 Kf7 76. Bb1 Kg8 77. Bd3 Rh8 78. Kf3 Kf7 79. Kg3 Rg8 80. Kf3 Rc8 81.
+Bc2 Ke6 82. Rh1 Rf8 83. Rh4 Rg8 84. Rh1 Ke7 85. Ke3 Kf7 86. Ke2 Rh8 87. Rh4 Rh7
+88. Kd3 Rg7 89. Ke3 Ke6 90. Rh3 Rg8 91. Rh1 Rh8 92. Rh4 Kd7 93. Ke2 Ke8 94. Ke1
+Kf8 95. Ke2 Ke8 96. Ke3 Rh6 97. Bd3 Ke7 98. Ke2 Ke6 1/2-1/2
+

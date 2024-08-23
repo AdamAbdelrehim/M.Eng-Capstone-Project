@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Gertrude_Weichsel"]
+[Black "Partake"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/v89YzBsK"]
+[WhiteElo "2575"]
+[BlackElo "2557"]
+[ECO "E64"]
+[Opening "King's Indian Defense: Fianchetto Variation, Yugoslav System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:11:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. c4 c5 7. d5 b5 8. cxb5 a6
+9. b6 Qxb6 10. Nfd2 Nbd7 11. Nc3 Ne8 12. Qc2 Nc7 13. b3 Nb5 14. Nc4 Qc7 15. Bb2
+Nd4 16. Qd2 Nb6 17. e3 Nb5 18. Rab1 Bf5 19. e4 Bd7 20. Ne2 Bxb2 21. Rxb2 Rab8
+22. Ne3 Na3 23. Qc1 Qa7 24. Rd2 Nb5 25. h4 h5 26. Kh2 a5 27. e5 a4 28. e6 Be8
+29. Nf4 axb3 30. axb3 Nd4 31. Qb1 Qa3 32. exf7+ Bxf7 33. Nxg6 Qxb3 34. Nxe7+
+Kg7 35. Rb2 Qc3 36. Rxb6 Rxb6 37. Qxb6 Qd3 38. Qxd6 Re8 39. Qe5+ Kf8 40. d6 Qh7
+41. Be4 Qh6 42. N3f5 Qh7 43. Bc6 Nxc6 44. d7 Nxe5 45. dxe8=Q+ Bxe8 46. Re1 Ng4+
+47. Kg2 Qf7 48. Re5 Bc6+ 49. f3 Qa2+ 50. Re2 Qxe2+ 51. Kg1 Qf2+ 52. Kh1 Qh2#
+0-1
+

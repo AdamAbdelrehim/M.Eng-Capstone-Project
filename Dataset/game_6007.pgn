@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Igor196229"]
+[Black "Labourdonais"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/cXveBQJ3"]
+[WhiteElo "2394"]
+[BlackElo "2570"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:21:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. e3 b6 3. f4 Bb7 4. Nf3 g6 5. Nbd2 c5 6. c3 Bg7 7. Bd3 O-O 8. Qe2
+d6 9. O-O Nc6 10. a3 e5 11. Bb5 exd4 12. cxd4 Re8 13. Qd3 a6 14. Ba4 b5 15. Bc2
+Nd5 16. Ne4 Ncb4 17. axb4 Nxb4 18. Qd2 Nxc2 19. Qxc2 Bxe4 20. Qd2 Bxf3 21. Rxf3
+cxd4 22. exd4 Qb6 23. Rd3 Re4 24. Kf1 Rxd4 25. Rxd4 Qxd4 26. Qxd4 Bxd4 27. Rb1
+a5 28. Bd2 a4 29. Ke2 f5 30. Kd3 Bc5 31. Bc3 Kf7 32. Bd4 Ke6 33. Re1+ Kd5 34.
+Bc3 b4 35. Bd2 Ra7 36. Re8 a3 37. bxa3 bxa3 38. Re1 a2 39. Bc3 Ra3 40. Kc2
+Rxc3+ 41. Kxc3 a1=Q+ 0-1
+

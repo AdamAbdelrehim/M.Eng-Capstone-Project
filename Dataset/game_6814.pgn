@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Juanitochess"]
+[Black "GGTOURS"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/a4FHFzXo"]
+[WhiteTitle "CM"]
+[BlackTitle "WFM"]
+[WhiteElo "2415"]
+[BlackElo "2503"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:29:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 e6 2. Nf3 f5 3. b3 Nf6 4. Bb2 d6 5. Nbd2 Be7 6. Qb1 O-O 7. c4 Nc6 8. e4
+Qe8 9. d5 exd5 10. exd5 Nb4 11. Be2 f4 12. a3 Na6 13. O-O Nc5 14. Re1 h6 15. b4
+Na4 16. Bd3 Nxb2 17. Qxb2 Qf7 18. Nh4 Ng4 19. Ng6 Re8 20. Qc2 Bf6 21. Rxe8+
+Qxe8 22. Re1 Qxe1+ 23. Nf1 Bd4 24. Nxf4 Qxf2+ 0-1
+

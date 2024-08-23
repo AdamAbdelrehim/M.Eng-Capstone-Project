@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "calixtenes"]
+[Black "NoSpaghetti"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/vkLLNRMc"]
+[BlackTitle "NM"]
+[WhiteElo "2410"]
+[BlackElo "2511"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Pirc Invitation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "03:05:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+7"]
+
+1. Nf3 d6 2. g3 e5 3. Bg2 f5 4. O-O Nf6 5. d4 e4 6. c4 exf3 7. exf3 0-1
+

@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "MightBeDecent"]
+[Black "gmmitkov"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Y6iQMv6s"]
+[WhiteElo "2651"]
+[BlackElo "2631"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:33:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. a4 a6 7. c3 d5 8. exd5
+Nxd5 9. Re1 Bg4 10. Nbd2 Nf4 11. Nf1 Bd6 12. h3 Bd7 13. Ng3 Kh8 14. d4 exd4 15.
+Nxd4 Nxd4 16. Qxd4 Ne6 17. Bxe6 fxe6 18. Ne4 e5 19. Qd3 Bf5 20. Qg3 Qe8 21. Bg5
+h6 22. Nxd6 cxd6 23. Be3 Rc8 24. a5 Kh7 25. f4 Rf6 26. fxe5 dxe5 27. Bd4 Rg6
+28. Qf3 Qd7 29. Rxe5 Bxh3 30. g3 Qd6 31. Rae1 Rf8 32. Qd3 Bf5 33. Qe3 Qc6 34.
+Rf1 Bh3 35. Rf2 Rxf2 36. Qxf2 Qc4 37. Re2 Qd3 38. Kh2 Bg4 39. Re3 Qd1 40. Re1
+Qd3 41. Rf1 Rg5 42. Qe3 Rh5+ 43. Kg1 Qc2 44. Rf2 Qd1+ 45. Rf1 Qc2 46. Rf2 Qg6
+47. Rd2 Qc6 48. Qf2 Rh1# 0-1
+

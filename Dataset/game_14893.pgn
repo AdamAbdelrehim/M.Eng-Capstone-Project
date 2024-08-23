@@ -1,0 +1,37 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "magnusglad_bot"]
+[Black "solistabot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/lkHBCaOZ"]
+[WhiteTitle "BOT"]
+[WhiteElo "2786"]
+[BlackElo "3028"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:19:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 e6 4. O-O Nge7 5. d4 cxd4 6. Nxd4 Qb6 7. Nxc6 bxc6
+8. Be2 Ng6 9. c4 Be7 10. Nc3 O-O 11. Rb1 Qc7 12. Be3 Nf4 13. Bf3 Ng6 14. g3 Rd8
+15. c5 d5 16. cxd6 Bxd6 17. Qa4 Bd7 18. Be2 c5 19. Qa6 Bc8 20. Qa3 Be7 21. Rfd1
+Bb7 22. f3 Ne5 23. Rxd8+ Rxd8 24. Rd1 Rxd1+ 25. Nxd1 Qb6 26. b3 Nc6 27. Nb2 Nb4
+28. Nc4 Qa6 29. Qxa6 Bxa6 30. a4 Nc2 31. Kf2 Bxc4 32. Bxc4 Nxe3 33. Kxe3 Bf6
+34. Be2 Bc3 35. Kd3 Bb4 36. f4 Kf8 37. e5 Ke7 38. Kc4 a6 39. h4 Be1 40. Kxc5 a5
+41. Kb6 f6 42. Bd3 h6 43. g4 fxe5 44. fxe5 Bb4 45. Kb5 Bd2 46. Be4 Kd8 47. Bg6
+Be1 48. Kc6 Bb4 49. h5 Ke7 50. Kb5 Kd7 51. Kb6 Bc3 52. Be4 Ke8 53. Bd3 Kd8 54.
+Kb5 Bb4 55. Kb6 Ke7 56. Bc4 Be1 57. Kb7 Bc3 58. Ka6 Kd7 59. b4 Bxb4 60. Kb6 Bc3
+61. Bd3 Be1 62. Be4 Bc3 63. Bg6 Bb4 64. Bd3 Bc3 65. Be4 Ke7 66. Bc2 Be1 67. Bd1
+Bc3 68. Bf3 Be1 69. Kb7 Bc3 70. Kb6 Bd2 71. Bc6 Kf7 72. Kb5 Bc3 73. Be4 Ke8 74.
+Kb6 Bxe5 75. Kxa5 Ke7 76. Ka6 Bc3 77. Kb6 Kf6 78. a5 Kg5 79. Bf3 Bxa5+ 80. Kxa5
+g6 81. hxg6 Kxg6 82. Kb5 h5 83. gxh5+ Kf5 84. Kc6 e5 85. Kd5 e4 86. Bd1 e3 87.
+Kd4 Kf6 88. Bf3 Kg7 89. Be2 Kh7 90. Kd3 Kg7 91. Kxe3 Kf6 92. Bf3 Kg5 93. Be2
+Kf6 94. Ke4 Kg5 95. Bd1 Kh6 96. Kf4 Kh7 97. Bc2+ Kg7 98. Bf5 Kf7 99. h6 Kg8
+100. Bg6 Kh8 101. h7 Kg7 102. Be4 Kh8 103. Ke5 Kg7 104. h8=R Kxh8 1/2-1/2
+

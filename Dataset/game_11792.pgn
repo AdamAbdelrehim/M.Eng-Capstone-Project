@@ -1,0 +1,37 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "pawn_git"]
+[Black "PurpleHunter"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/IKrzxuWM"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2719"]
+[BlackElo "2607"]
+[ECO "B66"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation, Early Deviations"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:00:05"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 d6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O h6 9. Nxc6 bxc6 10. Bh4 Be7 11. Bxf6 gxf6 12. Bc4 d5 13. Bb3 Bb7 14. f4
+Qc7 15. f5 O-O-O 16. Qf2 Kb8 17. fxe6 fxe6 18. Rhe1 c5 19. exd5 c4 20. Ba4 exd5
+21. Re6 Bd6 22. Kb1 Bxh2 23. Qxf6 Rhf8 24. Qxh6 d4 25. Ne4 Bf4 26. Qg6 Rg8 27.
+Qf6 Rgf8 28. Qe7 Qxe7 29. Rxe7 Bc8 30. a3 Rf5 31. Re8 Rxe8 32. Bxe8 Re5 33. Bg6
+Be3 34. Nd6 Bg4 35. Re1 Be6 36. Bf7 Bxf7 37. Nxf7 Re6 38. Ng5 Rg6 39. Nf3 Rxg2
+40. Rd1 c3 41. bxc3 dxc3 42. Rd3 Bh6 43. Rd6 Bg7 44. Rxa6 Kb7 45. Ra4 Kc6 46.
+Ne1 Rh2 47. Nd3 Kb6 48. Rb4+ Ka5 49. Rb8 Bd4 50. Ra8+ Kb5 51. a4+ Kb6 52. Rb8+
+Kc7 53. Rb5 Kd6 54. a5 Ba7 55. Rf5 Ke6 56. Rg5 Kd6 57. Nb4 Rh4 58. Rd5+ Ke6 59.
+Rb5 Bc5 60. a6 Kd6 61. Ka2 Rh7 62. Nd3 Be3 63. Rf5 Kc7 64. Nb4 Kb8 65. Kb3 Ka7
+66. Kc4 Rg7 67. Nd5 Bc1 68. Kb5 Bd2 69. Rh5 Ka8 70. Nb4 Rg8 71. Re5 Rb8+ 72.
+Kc5 Bf4 73. Re6 Bg5 74. Nc6 Rc8 75. Kb5 Bh4 76. Re3 Rf8 77. Rxc3 Bf2 78. Rd3
+Rf5+ 79. Kb4 Bb6 80. Rd7 Rc5 81. Rd8+ Bxd8 82. Kxc5 Bg5 83. Kb5 Bh4 84. c4 Bf2
+85. Nd8 Kb8 86. c5 Bg3 87. Ne6 Ka7 88. c6 Kb8 89. Kb6 Bf2+ 90. Nc5 Bg3 91. Nd7+
+Ka8 92. c7 Bxc7+ 93. Kxc7 1-0
+

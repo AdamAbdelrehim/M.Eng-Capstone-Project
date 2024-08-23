@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "BadAsMe"]
+[Black "shorokhov_mikhail"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/FnXZammR"]
+[WhiteTitle "IM"]
+[WhiteElo "2506"]
+[BlackElo "2452"]
+[ECO "B08"]
+[Opening "Pirc Defense: Classical Variation, Schlechter Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:31:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. h3 O-O 6. Be3 Nc6 7. Bc4 e6 8. Bb3
+Na5 9. O-O Nxb3 10. axb3 a6 11. Qd2 Ne8 12. Bh6 Bxh6 13. Qxh6 Qf6 14. e5 Qg7
+15. Qe3 f6 16. exf6 Nxf6 17. Rfe1 Re8 18. Qd3 Bd7 19. Qc4 c6 20. Qb4 Qe7 21.
+Ra5 Reb8 22. Qb6 Qd8 23. Qxd8+ Rxd8 24. g4 d5 25. Ne5 Bc8 26. b4 Rb8 27. Kh2
+Kg7 28. Kg3 h6 29. h4 Re8 30. f3 Rf8 31. Raa1 h5 32. g5 Ng8 33. Nd1 Ne7 34. Ne3
+Nf5+ 35. Nxf5+ exf5 36. Nd3 Bd7 37. Re7+ Rf7 38. Rae1 Rd8 39. Kf4 Kf8 40. R7e2
+Re8 41. Ne5 Kg7 42. Nxf7 Kxf7 43. Rxe8 Bxe8 44. Ke5 Ke7 45. b3 Bd7 46. c4 Be6
+47. b5 axb5 48. cxb5 Bd7 49. b6 Be8 50. Ra1 Bd7 51. Ra8 1-0
+

@@ -1,0 +1,26 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "avcs"]
+[Black "Chess_hero_2024"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/8GklC8cj"]
+[WhiteElo "2474"]
+[BlackElo "2788"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Scheveningen Variation, Delayed Keres Attack, Perenyi Gambit"]
+[TimeControl "600+5"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:37:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+38"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e6 7. g4 e5 8. Nf5
+g6 9. g5 gxf5 10. exf5 d5 11. gxf6 d4 12. Bc4 Bxf5 13. Qh5 Qxf6 14. Nd5 Qg6 15.
+Qxg6 hxg6 16. Bg5 Bd6 17. O-O-O Nd7 18. Rhe1 Rc8 19. Rxd4 Kf8 20. Rd2 Rxc4 21.
+Ne3 Rc6 22. Nxf5 gxf5 23. Red1 f6 24. Rxd6 Rxd6 25. Rxd6 fxg5 26. Rxd7 Rxh2 27.
+Rxb7 Rxf2 28. c4 g4 29. c5 g3 30. c6 g2 31. Rb8+ Kf7 32. Rb7+ Kf6 33. Rd7 g1=Q+
+34. Rd1 Rf1 35. c7 Rxd1+ 36. Kc2 Qd4 37. c8=Q 0-1
+

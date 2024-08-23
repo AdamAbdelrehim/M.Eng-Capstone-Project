@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Nima737"]
+[Black "DeviousCat"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/i1CPIwk5"]
+[WhiteElo "2330"]
+[BlackElo "2520"]
+[ECO "A46"]
+[Opening "Torre Attack: Classical Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:16:05"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 Be7 4. Nbd2 d5 5. e3 O-O 6. Bd3 b6 7. Qe2 c5 8. c3
+a5 9. Ne5 Nfd7 10. Qh5 f5 11. h4 Nxe5 12. dxe5 Nc6 13. f4 Ba6 14. Bxa6 Rxa6 15.
+Qe2 Ra7 16. Qb5 Qc7 17. Bxe7 Nxe7 18. Nf3 a4 19. Ng5 Ra5 20. Nxe6 Qc8 21. Qxb6
+Ra6 22. Qxc5 Qxe6 23. O-O-O a3 24. b3 Rc8 25. Qd4 Nc6 26. Qxd5 Qxd5 27. Rxd5
+Nb4 28. Rd2 Rxc3+ 29. Kb1 Rxe3 30. Rhd1 h6 31. Rd8+ Kh7 32. R8d6 Ra5 33. R6d4
+Nc6 34. Rd6 Rc5 35. Rc1 Rxc1+ 36. Kxc1 Nb4 37. Rd2 Re1+ 38. Rd1 Nxa2+ 39. Kc2
+Nb4+ 0-1
+

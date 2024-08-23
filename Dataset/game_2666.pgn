@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Rvlc"]
+[Black "Pescaderocalvo"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/bgW1Ce5U"]
+[WhiteElo "2395"]
+[BlackElo "2589"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:01:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. b3 e5 2. Bb2 Nc6 3. g3 d5 4. Bg2 Nf6 5. e3 Bd6 6. Ne2 O-O 7. O-O Bg4 8. f4
+Qd7 9. Qe1 Bh3 10. fxe5 Bxe5 11. Bxe5 Nxe5 12. Nbc3 Bxg2 13. Kxg2 c6 14. Nd4
+Rfe8 15. Nf5 Ng6 16. Qf2 Ne4 17. Nxe4 Rxe4 18. d3 Re6 19. Rae1 a5 20. a4 Rae8
+21. h4 Ne5 22. Qf4 Rf6 23. Rf2 Kh8 24. Qg5 Rg6 25. Qf4 Rg4 26. Nxg7 Rxf4 27.
+exf4 Kxg7 28. fxe5 Re6 29. Rf5 Qe7 30. d4 c5 31. c3 cxd4 32. cxd4 Qc7 33. Ref1
+Re7 34. e6 Rxe6 35. Rxd5 Qc2+ 36. Kh3 Qxb3 37. Rg5+ Rg6 0-1
+

@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.04.06"]
+[Round "-"]
+[White "GetTo1400"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rnbqkb1r/pp1ppppp/5n2/2pP4/2P5/8/PP2PPPP/RNBQKBNR b KQkq c3"]
+[Timezone "UTC"]
+[ECO "A56"]
+[ECOUrl "https://www.chess.com/openings/Benoni-Defense-3.d5"]
+[UTCDate "2021.04.06"]
+[UTCTime "22:05:10"]
+[WhiteElo "1291"]
+[BlackElo "1289"]
+[TimeControl "600"]
+[Termination "GetTo1400 won by resignation"]
+[StartTime "22:05:10"]
+[EndDate "2021.04.06"]
+[EndTime "22:05:43"]
+[Link "https://www.chess.com/game/live/11485513101"]
+
+1. d4 { [%clk 0:10:00] } 1... c5 { [%clk 0:10:00] } 2. d5 { [%clk 0:09:57.8] }
+2... Nf6 { [%clk 0:09:45] } 3. c4 { [%clk 0:09:54.5] } 1-0
+

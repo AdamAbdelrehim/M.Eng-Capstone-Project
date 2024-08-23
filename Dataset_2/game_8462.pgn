@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.17"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "GirthTones"]
+[Result "1-0"]
+[CurrentPosition "rnbqk1nr/1pp1ppBp/p2p2p1/8/3PP3/5N2/PPP2PPP/RN1QKB1R b KQkq -"]
+[Timezone "UTC"]
+[ECO "A04"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-Kingside-Fianchetto-Variation-2.e4"]
+[UTCDate "2023.04.17"]
+[UTCTime "16:38:22"]
+[WhiteElo "1701"]
+[BlackElo "1716"]
+[TimeControl "60"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "16:38:22"]
+[EndDate "2023.04.17"]
+[EndTime "16:38:31"]
+[Link "https://www.chess.com/game/live/75488569015"]
+
+1. e4 { [%clk 0:01:00] } 1... g6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.2] }
+2... Bg7 { [%clk 0:00:59.9] } 3. d4 { [%clk 0:00:58.8] } 3... d6
+{ [%clk 0:00:59.8] } 4. Bh6 { [%clk 0:00:56] } 4... a6 { [%clk 0:00:59.7] } 5.
+Bxg7 { [%clk 0:00:55.3] } 1-0
+

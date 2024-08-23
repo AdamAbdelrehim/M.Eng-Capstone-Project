@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Berserkaren"]
+[Black "DePerdidosAlRio"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/8uyVUKQq"]
+[WhiteElo "2547"]
+[BlackElo "2344"]
+[ECO "A56"]
+[Opening "Benoni Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:38:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. c4 c5 3. dxc5 Na6 4. g3 Nxc5 5. Bg2 g6 6. b3 Bg7 7. Bb2 O-O 8. Nh3
+d6 9. O-O Bg4 10. Nf4 Qc8 11. Nc3 Ne6 12. Ncd5 Nxf4 13. Nxe7+ 1-0
+

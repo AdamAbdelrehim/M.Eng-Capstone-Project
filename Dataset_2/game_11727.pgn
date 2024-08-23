@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.03.18"]
+[Round "-"]
+[White "samschlem"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "1nb2rk1/rpN2ppp/p2qpn2/2p5/2B5/P2P1N1P/1PP2PP1/R2QK2R w KQ -"]
+[Timezone "UTC"]
+[ECO "B20"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Mengarini-Variation"]
+[UTCDate "2024.03.18"]
+[UTCTime "02:58:38"]
+[WhiteElo "1878"]
+[BlackElo "1906"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "02:58:38"]
+[EndDate "2024.03.18"]
+[EndTime "03:02:32"]
+[Link "https://www.chess.com/game/live/104469628805"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:09:58] } 2. a3 { [%clk 0:09:58] }
+2... d5 { [%clk 0:09:56] } 3. exd5 { [%clk 0:09:31.8] } 3... Qxd5
+{ [%clk 0:09:55.9] } 4. Nc3 { [%clk 0:09:30.9] } 4... Qd8 { [%clk 0:09:50.4] }
+5. Bc4 { [%clk 0:09:24.4] } 5... Nf6 { [%clk 0:09:48.1] } 6. Nf3
+{ [%clk 0:09:16.2] } 6... e6 { [%clk 0:09:46.7] } 7. d3 { [%clk 0:09:11] } 7...
+Be7 { [%clk 0:09:44.6] } 8. Bf4 { [%clk 0:09:06.4] } 8... O-O
+{ [%clk 0:09:40.1] } 9. Nb5 { [%clk 0:08:42.4] } 9... a6 { [%clk 0:09:24.6] }
+10. Nc7 { [%clk 0:07:59.1] } 10... Ra7 { [%clk 0:09:22.9] } 11. h3
+{ [%clk 0:07:07.9] } 11... Bd6 { [%clk 0:09:20.7] } 12. Bxd6 { [%clk 0:07:02] }
+12... Qxd6 { [%clk 0:09:19.6] } 0-1
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Lasker-on-speed"]
+[Black "Onderkoning"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/zqeqChMn"]
+[WhiteElo "2441"]
+[BlackElo "2510"]
+[ECO "C11"]
+[Opening "French Defense: Burn Variation"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:11:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+6"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 dxe4 5. Nxe4 Nbd7 6. Nf3 h6 7. Nxf6+ Nxf6
+8. Bh4 c5 9. dxc5 Qxd1+ 10. Rxd1 Bxc5 11. Bb5+ Ke7 12. Bd3 Bd7 13. O-O Rhd8 14.
+Ne5 Be8 15. h3 Rac8 16. a3 Bd6 17. Bg3 Bb8 18. c4 Nd7 19. Rfe1 Nxe5 20. Bxe5
+Bxe5 21. Rxe5 Rd4 22. Re4 Rcd8 23. Rxd4 Rxd4 24. Be2 Rxd1+ 25. Bxd1 e5 26. Bf3
+b6 27. Kf1 Kd6 28. b4 Bd7 29. Ke2 g5 30. Bd5 f5 31. Kd3 h5 32. f3 h4 33. Kc3 g4
+34. fxg4 fxg4 35. hxg4 Bxg4 36. Be4 Be2 37. a4 a5 38. Ba8 Bd1 39. c5+ bxc5 40.
+bxa5 Bxa4 41. a6 Bc6 42. Bxc6 Kxc6 43. a7 Kb7 44. Kc4 e4 0-1
+

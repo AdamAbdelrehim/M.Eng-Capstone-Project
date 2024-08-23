@@ -1,0 +1,33 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "BitByByte"]
+[Black "caissa-x"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/BeIt8ck5"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2895"]
+[BlackElo "3028"]
+[ECO "D14"]
+[Opening "Slav Defense: Exchange Variation, Trifunovic Variation"]
+[TimeControl "900+3"]
+[UTCDate "2024.06.02"]
+[UTCTime "05:23:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Qb3
+Bb4 9. Bb5 Bxc3+ 10. Qxc3 O-O 11. O-O Rc8 12. Qa3 Qb6 13. Qc5 Qd8 14. Bxc6 Rxc6
+15. Qxa7 Qc8 16. Qa4 h6 17. Qb5 Ne4 18. Ne5 Rc2 19. Nd7 Re8 20. a4 Bg4 21. f3
+e5 22. Nb6 Rxg2+ 23. Kh1 Qe6 24. Bxe5 Bh3 25. fxe4 Qg4 26. Bg3 Rxe4 27. Qxd5
+Rxg3 28. Qxf7+ Kh7 29. hxg3 Bxf1 30. Qxf1 Rxe3 31. Qb1+ g6 32. Qc2 Qxg3 33. Qh2
+Qf3+ 34. Qg2 Qh5+ 35. Kg1 Qh4 36. Qxb7+ Kg8 37. Qb8+ Kg7 38. Qb7+ Re7 39. Qd5
+Qg4+ 40. Kh1 Qh3+ 41. Kg1 Qe3+ 42. Kh1 Qh3+ 43. Kg1 Qg4+ 44. Kh1 Qh4+ 45. Kg1
+Re4 46. Qb7+ Kg8 47. Qa8+ Kh7 48. Qb7+ Kh8 49. Qb8+ Kg7 50. Qb7+ Kg8 51. Qc8+
+Kh7 52. Qc7+ Re7 53. Qh2 Qg4+ 54. Qg2 Qxd4+ 55. Qf2 Qg4+ 56. Qg2 Qd4+ 57. Qf2
+Qg4+ 58. Qg2 Qb4 59. Qf2 Qe4 60. Rc1 Qg4+ 61. Kf1 Qh3+ 62. Kg1 Qg4+ 63. Kf1
+Qh3+ 64. Kg1 Qg4+ 1/2-1/2
+

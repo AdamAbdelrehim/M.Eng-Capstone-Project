@@ -1,0 +1,41 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "fornax-engine"]
+[Black "PurpleHunter"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/LIQVLYSd"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2339"]
+[BlackElo "2594"]
+[ECO "E53"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Gligoric System"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "03:19:24"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. e3 O-O 6. Bd3 c5 7. O-O cxd4 8. exd4
+dxc4 9. Bxc4 b6 10. Qb3 Bxc3 11. bxc3 Nc6 12. Ba3 Na5 13. Qa4 Bd7 14. Qb4 Nxc4
+15. Qxc4 Rc8 16. Qd3 Re8 17. Ne5 Bc6 18. c4 Ba8 19. Rae1 Nh5 20. g3 Nf6 21. Re2
+Qc7 22. Rc1 Nd7 23. Nf3 Qb7 24. Re3 Nf6 25. Qe2 Ng4 26. Rb3 Red8 27. Bb2 h6 28.
+h3 Nf6 29. Kh2 Nh7 30. Re3 b5 31. c5 Qd5 32. Rb3 Ng5 33. Nh4 Bc6 34. f4 Ne4 35.
+Nf3 f6 36. Qe1 a5 37. Rc2 Rb8 38. Qxa5 Ra8 39. Qb4 Rxa2 40. Re3 Rda8 41. Rce2
+R8a4 42. Qe1 Qc4 43. Rg2 Rb4 44. Qb1 Rb3 45. Qxa2 Rxe3 46. Qxc4 bxc4 47. Ng1 c3
+48. Bc1 Rd3 49. Ne2 Nd2 50. h4 Nf3+ 51. Kh3 Rd1 52. g4 Nxd4 53. Nxd4 Bxg2+ 54.
+Kxg2 Rxc1 55. Ne2 Rb1 56. Nxc3 Rb2+ 57. Kf1 Rb4 58. Ne2 Rc4 59. Kf2 Rxc5 60.
+Ke3 Kf7 61. Ng3 Rc3+ 62. Kf2 Rb3 63. h5 Rb4 64. Kf3 Ke7 65. Nf1 Kd6 66. Nd2 Kd5
+67. Nf1 Rb3+ 68. Kg2 Kd4 69. Kf2 e5 70. Ng3 Rb2+ 71. Kg1 exf4 72. Nf5+ Ke4 73.
+Nxg7 Kf3 74. Nf5 Kxg4 75. Nxh6+ Kf3 76. Nf5 Rb1+ 77. Kh2 Kg4 78. Nd6 Rb6 79.
+Ne4 f5 80. Nf2+ Kf3 81. Nd3 Ke4 82. Nf2+ Ke5 83. Kg2 Rc6 84. Kf3 Rc3+ 85. Kg2
+Rg3+ 86. Kh2 Rg5 87. h6 Rg6 88. h7 Rh6+ 89. Kg2 f3+ 90. Kxf3 Rxh7 91. Nd3+ Ke6
+92. Nf4+ Kd6 93. Ke3 Re7+ 94. Kf2 Rb7 95. Ke3 Rb3+ 96. Kd4 Ra3 97. Nd3 Ra4+ 98.
+Ke3 Kd5 99. Nf4+ Kc6 100. Ng6 Re4+ 101. Kf3 Kd5 102. Nf4+ Kd4 103. Kg3 Re3+
+104. Kf2 Ke4 105. Ne6 f4 106. Ng5+ Kf5 107. Nf3 Rc3 108. Nd2 Kg4 109. Ne4 Rc2+
+110. Ke1 Kf3 111. Nf6 Rc1+ 112. Kd2 Rc6 113. Nh5 Rd6+ 114. Kc3 Ke3 115. Nxf4
+Rc6+ 116. Kb4 Rc2 117. Ne6 Ke4 118. Nc5+ Kd4 119. Ne6+ 1-0
+

@@ -1,0 +1,35 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "RaspFish"]
+[Black "Hoon_Bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/1ZRygNm7"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3022"]
+[BlackElo "2893"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "00:29:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c5 5. Bd2 a6 6. Ne4 Qc7 7. Nxc5 e5 8.
+Nb3 Be7 9. Nf3 e4 10. Ne5 Nf6 11. Bf4 Bd6 12. Nd2 Nc6 13. Ndc4 O-O 14. Bg3 b5
+15. Nxd6 Qxd6 16. c3 Qe6 17. Be2 Bb7 18. Qb3 Nd5 19. O-O f5 20. Nxc6 Bxc6 21.
+Be5 f4 22. f3 e3 23. Rfc1 Rad8 24. Bd3 Rf7 25. h3 Bd7 26. Qc2 h6 27. a4 bxa4
+28. Bc4 Bb5 29. Ba2 Bc6 30. Qd3 Rf5 31. Kh2 Kf8 32. Rg1 Bb7 33. Qe4 Qf7 34. Bb1
+Rh5 35. Qh7 Rg5 36. Ba2 Rg6 37. Rae1 Rb6 38. c4 Nf6 39. Qc2 Re6 40. Qxa4 Ba8
+41. c5 Nd5 42. Qa5 Ke8 43. Bb3 Qg6 44. Bxd5 Bxd5 45. Bxf4 e2 46. Qc3 Bc6 47.
+Be5 Bb5 48. Qe3 Qf5 49. Rc1 Rxd4 50. Qxd4 Qxe5+ 51. Qxe5 Rxe5 52. c6 Kd8 53.
+c7+ Kc8 54. Kg3 Ba4 55. Kf2 Bb5 56. b3 Rd5 57. h4 h5 58. g3 Rd6 59. Rc5 Bc6 60.
+Kxe2 Kxc7 61. Rxh5 Bb5+ 62. Ke3 Kb6 63. Rg5 a5 64. Rc1 Re6+ 65. Kf4 Rf6+ 66.
+Rf5 Rd6 67. g4 g6 68. Re5 Rf6+ 69. Kg3 Bc6 70. Rc3 Bd7 71. Rce3 Rd6 72. Kf4 Kc7
+73. Rxa5 Be6 74. Kg5 Rb6 75. Rxe6 Rxe6 76. b4 Kd7 77. Ra7+ Kc8 78. Rf7 Ra6 79.
+Rf6 Ra4 80. Kxg6 Ra1 81. h5 Kc7 82. h6 1-0
+

@@ -1,0 +1,41 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "BitByByte"]
+[Black "caissa-x"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/4MxqEmQQ"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2893"]
+[BlackElo "3035"]
+[ECO "D12"]
+[Opening "Slav Defense: Quiet Variation, Schallopp Defense"]
+[TimeControl "900+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:08:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. e3 Bf5 5. Nc3 e6 6. Nh4 Be4 7. f3 Bg6 8. Qb3
+Qc7 9. Bd2 Be7 10. Nxg6 hxg6 11. O-O-O dxc4 12. Bxc4 a6 13. Be2 b5 14. Ne4 Nbd7
+15. Kb1 Rc8 16. h4 c5 17. Nxc5 Nxc5 18. dxc5 Qg3 19. c6 Qxg2 20. Rhe1 O-O 21.
+Rc1 Bd6 22. Bb4 Bxb4 23. Qxb4 Nd5 24. Qa5 Qf2 25. e4 Nf4 26. Bf1 Rfd8 27. Rc2
+Qxf3 28. Qxa6 Nd3 29. Bxd3 Qxd3 30. Rc1 Rc7 31. Qb6 Rdc8 32. Ka1 f5 33. exf5
+exf5 34. Rc3 Qe2 35. a3 Kh7 36. Qd4 Qe6 37. Re3 Qf6 38. Qxf6 gxf6 39. Rec3 f4
+40. b4 g5 41. hxg5 fxg5 42. Kb2 g4 43. a4 Rxc6 44. Rxc6 Rxc6 45. Rxc6 g3 46.
+Rc7+ Kh6 47. axb5 g2 48. Rc1 f3 49. b6 f2 50. b7 g1=Q 51. Rc6+ Qg6 52. Rxg6+
+Kxg6 53. b8=Q f1=Q 54. Qg8+ Kh5 55. Qd5+ Kg4 56. b5 Qf2+ 57. Kb3 Kg3 58. Kb4
+Kh3 59. Qd3+ Kg2 60. Qd5+ Kh2 61. Qd6+ Kg1 62. Qc5 Kh1 63. b6 Qb2+ 64. Ka5 Qa2+
+65. Kb5 Qe2+ 66. Qc4 Qe5+ 67. Kc6 Qf6+ 68. Kb7 Qe5 69. Qc1+ Kg2 70. Qc7 Qd4 71.
+Qc2+ Kh1 72. Qc7 Qe3 73. Ka6 Qa3+ 74. Kb7 Qf8 75. Qc6+ Kg1 76. Qc1+ Kg2 77.
+Qc2+ Kg1 78. Qb1+ Kg2 79. Qc2+ Kg1 80. Qd1+ Kh2 81. Qh5+ Kg1 82. Qd1+ Kh2 83.
+Qd2+ Kh1 84. Qc1+ Kg2 85. Qg5+ Kh1 86. Qe3 Qf7+ 87. Kc6 Qf6+ 88. Kd5 Qd8+ 89.
+Kc4 Qc8+ 90. Kb3 Qg8+ 91. Kc3 Qc8+ 92. Kb2 Qb7 93. Qc1+ Kg2 94. Qd2+ Kf1 95.
+Qd3+ Kg2 96. Qd2+ Kf1 97. Qd6 Kg2 98. Qb4 Kh1 99. Qe1+ Kg2 100. Qe3 Qd5 101.
+Kc3 Qb7 102. Kb4 Qd5 103. Qf4 Kg1 104. Qc4 Qd2+ 105. Kc5 Qg2 106. Qd3 Qg5+ 107.
+Kc4 Qg2 108. Kc5 Qg5+ 109. Kc4 Qg2 110. Qe3+ Kh1 111. Qe1+ Kh2 112. Qc3 Qc6+
+113. Kb3 1/2-1/2
+

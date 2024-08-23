@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Chess_Antistress"]
+[Black "Ferran1850"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/I18GlnjD"]
+[WhiteElo "2559"]
+[BlackElo "2533"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:05:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+10"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 Be7 6. e3 c6 7. Bd3 h6 8. Bf4
+O-O 9. Nf3 Re8 10. h3 Bd6 11. Bxd6 Qxd6 12. O-O Nbd7 13. Qc2 a6 14. Rab1 b5 15.
+Rbc1 Bb7 16. Ne2 Rac8 17. Nf4 c5 18. dxc5 Nxc5 19. Bf5 Rc7 20. Nd4 Ne6 21. Qd3
+Rxc1 22. Rxc1 Nxf4 23. exf4 Qxf4 24. Rc5 Re1+ 0-1
+

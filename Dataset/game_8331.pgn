@@ -1,0 +1,32 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "yobot_v2"]
+[Black "expositor"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Aagi3DLB"]
+[BlackTitle "BOT"]
+[WhiteElo "2746"]
+[BlackElo "2578"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack, Two Knights Defense, Blockade Line"]
+[TimeControl "1500+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:10:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bf4 O-O 6. e3 Nbd7 7. c5 Nh5 8. a3
+Nxf4 9. exf4 b6 10. b4 c6 11. Bd3 Qc7 12. g3 a5 13. Kf1 Bf6 14. Kg2 Ba6 15. h4
+Rfb8 16. Bc2 axb4 17. axb4 bxc5 18. bxc5 Nxc5 19. dxc5 Bxc3 20. Bxh7+ Kf8 21.
+Rc1 Bf6 22. Ng5 Rb2 23. Bc2 Qd7 24. Qh5 Bc8 25. Rhf1 Raa2 26. Bb1 Ra3 27. Rc2
+Rxc2 28. Bxc2 Rc3 29. Ba4 Rxc5 30. Rb1 g6 31. Qh7 Bg7 32. h5 gxh5 33. Qxh5 Bb7
+34. Ne4 Ra5 35. Qg5 Ra7 36. Nf6 Bxf6 37. Qxf6 d4 38. Rh1 Qd5+ 39. Kg1 Qxh1+ 40.
+Kxh1 Rxa4 41. Qd8+ Kg7 42. Qg5+ Kf8 43. Qd8+ Kg7 44. Kh2 Ba8 45. g4 c5 46. Qg5+
+Kh7 47. f5 exf5 48. Qxf5+ Kg7 49. Qxc5 d3 50. Qc3+ Kg8 51. Qxd3 Be4 52. Qd8+
+Kg7 53. f4 Bb1 54. Qg5+ Kh7 55. Qb5 Ra1 56. Qh5+ Kg8 57. Qg5+ Kh7 58. Qf6 Ra2+
+59. Kg3 Ra3+ 60. Kh4 Kg8 61. f5 Ra8 62. Qh6 Ra2 63. Kg5 Bxf5 64. gxf5 Rg2+ 65.
+Kf6 Rg1 66. Qd2 Ra1 67. Qd8+ Kh7 68. Kxf7 Ra7+ 69. Kf8 Kh6 70. Qh4# 1-0
+

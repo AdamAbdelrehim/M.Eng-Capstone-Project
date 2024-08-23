@@ -1,0 +1,31 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ELO_1500"]
+[Black "Lynx_BOT"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/SegdeUEt"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2969"]
+[BlackElo "2572"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Drazic Variation"]
+[TimeControl "180+10"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:41:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. d4 a6 2. e4 e6 3. Nf3 c5 4. c3 d5 5. exd5 Qxd5 6. Bd3 Nc6 7. O-O Nf6 8. dxc5
+Bxc5 9. Qe2 Qh5 10. Nbd2 Bd7 11. Ne4 Nxe4 12. Bxe4 Bd6 13. h3 Bc7 14. a4 O-O-O
+15. b4 f5 16. Bd3 Ne7 17. b5 a5 18. Bg5 Rhe8 19. b6 Bxb6 20. Rab1 Nd5 21. Ba6
+f4 22. Rxb6 Nxb6 23. Rb1 Bc6 24. Rxb6 Bd5 25. Bxb7+ Bxb7 26. Qc4+ Kb8 27. Qb5
+Rd1+ 28. Kh2 Qf7 29. Rxb7+ Qxb7 30. Qxe8+ Ka7 31. Bxf4 Qd7 32. Qb8+ Ka6 33.
+Qa8+ Qa7 34. Qc8+ Qb7 35. Qxe6+ Ka7 36. Nd4 Rxd4 37. cxd4 Qb4 38. Be3 Kb8 39.
+Qe8+ Kc7 40. Qf7+ Kc8 41. Bf4 Kd8 42. Qc7+ Ke8 43. Bd6 Qe1 44. Qc8+ Kf7 45.
+Qf8+ Ke6 46. Qe7+ Kd5 47. Qxe1 Kxd6 48. Qe5+ Kd7 49. d5 Kc8 50. Qe7 Kb8 51. d6
+h5 52. Qc7+ Ka8 53. d7 h4 54. d8=Q# 1-0
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "PetersBot"]
+[Black "Nikitosik-ai"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/P5ZS3kn4"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2965"]
+[BlackElo "3018"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "03:56:10"]
+[Termination "Normal"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f3 e5 7. Nb3 Be6 8. Be3
+h5 9. Qd2 Nbd7 10. Nd5 Bxd5 11. exd5 g6 12. O-O-O Nb6 13. Qa5 Bh6 14. Bxh6 Rxh6
+15. Qd2 Rh8 16. c4 Kf8 17. Na5 Kg7 18. Bd3 Qc7 19. Kb1 Nbd7 20. Rhe1 Rac8 21.
+Rc1 Rhe8 22. Bc2 Qb8 23. Re3 h4 24. a3 Qc7 25. Ree1 Rh8 26. Rf1 Rce8 27. Ka2
+Rh5 28. b4 b6 29. Nc6 Nb8 30. Ba4 Rf5 31. g3 Rh8 32. f4 hxg3 33. hxg3 Rfh5 34.
+fxe5 dxe5 35. Ka1 Nxc6 36. dxc6 Rd8 37. Qc3 Rd4 38. Rfd1 a5 39. Rxd4 axb4 40.
+Rd7 Nxd7 41. axb4 Qa7 42. Qa3 Nf8 43. Kb2 Ne6 44. Bd1 Rh2+ 45. Rc2 Rxc2+ 46.
+Bxc2 Qe7 47. g4 Qd6 48. b5 Nc5 49. g5 e4 50. Kb1 Kf8 51. Qa8+ Kg7 52. Qa1+ Kg8
+53. Qa8+ Kg7 54. Qa1+ Kg8 55. Qa8+ Kg7 1/2-1/2
+

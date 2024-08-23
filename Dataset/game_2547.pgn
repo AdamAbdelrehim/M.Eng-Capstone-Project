@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "GalimovaTS"]
+[Black "train_account"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/eLOsDrAh"]
+[WhiteElo "2518"]
+[BlackElo "2583"]
+[ECO "A21"]
+[Opening "English Opening: King's English Variation, Kramnik-Shirov Counterattack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:44:19"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-7"]
+
+1. c4 e5 2. Nc3 Bb4 3. Nd5 Be7 4. e4 Nf6 5. Nxf6+ Bxf6 6. Nf3 O-O 7. Be2 c6 8.
+d4 exd4 9. e5 Bxe5 10. Nxe5 Qa5+ 11. Qd2 Qxe5 12. f4 Qe4 13. O-O c5 14. Bd3 Qe7
+15. f5 Qf6 16. g4 h6 17. Qg2 Re8 18. g5 Qc6 19. Qg3 hxg5 20. f6 gxf6 21. Qh3
+Re5 22. Qh7+ Kf8 23. Bg6 Qe6 24. Bf5 Qxc4 25. Qh8+ Ke7 26. Qxc8 Re2 27. Qxb7 d3
+28. Qf3 Qd4+ 29. Kh1 c4 30. Bxg5 fxg5 31. Rae1 Rxe1 32. Rxe1+ Kd8 33. Qxa8 Kc7
+34. Qf3 d5 35. b3 Kd6 36. bxc4 dxc4 37. Qg3+ Kc5 38. Qxg5 Qd5+ 39. Qg2 Qxg2+
+40. Kxg2 Nc6 41. Bxd3 Nb4 42. Bxc4 Kxc4 43. Rc1+ Kd4 44. Rb1 Nd3 45. Rd1 Ke3
+46. Rxd3+ Kxd3 47. h4 Ke4 48. h5 f5 49. h6 Ke3 50. h7 f4 51. h8=Q f3+ 52. Kg3
+Ke2 53. Qe8+ 1-0
+

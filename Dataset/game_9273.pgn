@@ -1,0 +1,29 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "RaspFish"]
+[Black "magnusglad_bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/x1wPsCNl"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3033"]
+[BlackElo "2800"]
+[ECO "E32"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:24:21"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4 7. Bd3 c5 8. Nf3
+cxd4 9. Nxd4 Nd7 10. Bf4 Qh4 11. g3 Qh3 12. O-O-O Nxc3 13. bxc3 Ba3+ 14. Kb1
+Nb6 15. Bf1 Qh5 16. Be2 Qh3 17. Nf3 dxc4 18. Nh4 Nd5 19. Rd4 Be7 20. Bg5 Bxg5
+21. Bf1 Qxf1+ 22. Rxf1 Rb8 23. Nf5 b5 24. Nd6 Bd7 25. f4 Be7 26. Re1 Bc6 27.
+Ka1 f6 28. exf6 Bxf6 29. Rxe6 Bxd4 30. cxd4 Nf6 31. Qe2 Bd5 32. Re5 Kh8 33. g4
+Bg8 34. g5 Nd5 35. Rxd5 Bxd5 36. Qe5 c3 37. Qxd5 Rxf4 38. Nf7+ Kg8 39. Nd8+ Kh8
+40. Kb1 1-0
+

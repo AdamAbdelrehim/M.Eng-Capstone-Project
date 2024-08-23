@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Adam303gbg"]
+[Black "Mginsburg"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/DuUPWKur"]
+[BlackTitle "IM"]
+[WhiteElo "2367"]
+[BlackElo "2521"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "06:14:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 Nc6 4. f3 e5 5. dxe5 g5 6. Bg3 Nxg3 7. hxg3 Nxe5 8.
+e4 Bg7 9. c3 d6 10. Nd2 Be6 11. Ne2 Nd3# 0-1
+

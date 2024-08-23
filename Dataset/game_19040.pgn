@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Sicilian_training"]
+[Black "Mikhailov_Viacheslav"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ngbxxxp6"]
+[BlackTitle "IM"]
+[WhiteElo "2743"]
+[BlackElo "2686"]
+[ECO "E91"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:18:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. Nf3 d6 6. Be2 Bg4 7. O-O Nc6 8. Be3
+e5 9. d5 Ne7 10. c5 a6 11. Nd2 Bxe2 12. Qxe2 Nh5 13. cxd6 cxd6 14. a4 Nf4 15.
+Bxf4 exf4 16. a5 Rc8 17. Nc4 f3 18. gxf3 g5 19. e5 Rxc4 20. Qxc4 Bxe5 21. f4
+Bxf4 22. Ne2 Ng6 23. Nxf4 Nxf4 24. Rfe1 Qd7 25. Ra3 Rc8 26. Qe4 h6 27. Rg3 Ng6
+28. h4 Qb5 29. hxg5 h5 30. Qf5 Rf8 31. Re7 Nxe7 0-1
+

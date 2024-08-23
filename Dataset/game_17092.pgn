@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "huangjiafangdan"]
+[Black "Train_account"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/jL68CEXM"]
+[WhiteElo "2622"]
+[BlackElo "2585"]
+[ECO "A06"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:08:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. Nf3 d5 2. b3 c5 3. Bb2 f6 4. e3 e5 5. d4 cxd4 6. exd4 e4 7. Nfd2 f5 8. c4
+Nf6 9. Nc3 Be6 10. cxd5 Nxd5 11. Bc4 Bb4 12. Rc1 Nxc3 13. Bxc3 Bxc3 14. Rxc3
+Qxd4 15. Qc2 Bd7 16. O-O Nc6 17. a3 Qd6 18. Re1 Nd4 19. Nxe4 fxe4 20. Qxe4+ Kf8
+21. Rf3+ Nxf3+ 22. Qxf3+ Qf6 23. Qxb7 Re8 24. Rd1 Bc6 25. Qc7 Re7 26. Qc8+ Be8
+27. h3 g6 28. Qg4 Kg7 29. Kh2 Bc6 30. Rd2 Rf8 31. Qg3 Qf4 32. Qxf4 Rxf4 0-1
+

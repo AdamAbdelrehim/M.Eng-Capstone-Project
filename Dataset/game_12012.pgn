@@ -1,0 +1,46 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "CruelKen"]
+[Black "PetersBot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/y4MXU1Fk"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3003"]
+[BlackElo "2971"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:29:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+
+1. d4 Nf6 2. Bf4 g6 3. e3 Bg7 4. Nf3 d6 5. c3 O-O 6. h3 Nfd7 7. Be2 e5 8. Bh2
+f5 9. O-O Nc6 10. a4 Kh8 11. a5 a6 12. d5 Ne7 13. c4 h6 14. Nc3 g5 15. Nd2 Ng6
+16. Rc1 Rb8 17. b4 Nf6 18. Rb1 b6 19. Qc2 Ne7 20. Rfd1 f4 21. Nde4 Nxe4 22.
+Nxe4 bxa5 23. bxa5 Rxb1 24. Rxb1 Bf5 25. Bd3 c6 26. dxc6 Nxc6 27. g4 fxg3 28.
+Bxg3 d5 29. cxd5 Qxd5 30. Rb6 Rc8 31. Qb1 Nxa5 32. Rd6 Qb3 33. Qa1 Nc4 34. Nd2
+Nxd2 35. Bxf5 Nf3+ 36. Kg2 Qb7 37. e4 Nd4 38. Bg6 Qb3 39. Rxa6 Qf3+ 40. Kh2 Rf8
+41. Ra8 Qf6 42. Rxf8+ Qxf8 43. Qa7 Nf3+ 44. Kg2 Nh4+ 45. Bxh4 gxh4 46. Bf5 Qg8
+47. Kf3 Bf6 48. Qb7 Qg7 49. Qb8+ Qg8 50. Qb7 Qg7 51. Qb8+ Qg8 52. Qd6 Qf7 53.
+Qc6 Kg7 54. Bg4 Be7+ 55. Bf5 Qf6 56. Qc7 Qd6 57. Qxd6 Bxd6 58. Bg4 Kg6 59. Bf5+
+Kh5 60. Kg2 Kg5 61. Bg4 Be7 62. f3 Bc5 63. Be6 Kf4 64. Bf7 Ke3 65. Be8 Bb4 66.
+Ba4 Ba5 67. Be8 Kf4 68. Ba4 Bc7 69. Bb3 Bb6 70. Bd1 Bc7 71. Bc2 Ba5 72. Bb3 Ke3
+73. Ba2 Bd2 74. Bc4 Ba5 75. Bf7 Bd8 76. Ba2 Bc7 77. Bd5 Bb8 78. Bc6 Ba7 79. Bb5
+Bb6 80. Ba4 Bd4 81. Bb3 Kf4 82. Bd1 Ke3 83. Ba4 Bc3 84. Bb3 Bd4 85. Ba4 Kf4 86.
+Bd1 Bb6 87. Be2 Ke3 88. Ba6 Ba7 89. Bb7 Kf4 90. Ba6 Be3 91. Bb5 Bb6 92. Be8 Be3
+93. Bf7 Bd4 94. Be8 h5 95. Bd7 Bb2 96. Bc6 Bd4 97. Ba4 Bb2 98. Bd7 Bd4 99. Ba4
+Ba1 100. Bd1 Bc3 101. Bc2 Ba1 102. Ba4 Ke3 103. Bb3 Bb2 104. Bf7 Bc3 105. Be8
+Bd4 106. Ba4 Bb6 107. Bb3 Bd8 108. Ba4 Ke2 109. Bb5+ Ke3 110. Ba4 Ba5 111. Bc6
+Ke2 112. Bb5+ Ke3 113. Be8 Kf4 114. Bd7 Kg5 115. Ba4 Kf6 116. f4 exf4 117. e5+
+Kxe5 118. Kf3 Kf5 119. Bd7+ Kg5 120. Bb5 Bb6 121. Ba6 Kf6 122. Kxf4 Bf2 123.
+Bb5 Bg3+ 124. Ke3 Kg6 125. Be8+ Kf6 126. Ba4 Be1 127. Kf3 Bd2 128. Bc2 Bc1 129.
+Bd1 Bb2 130. Bc2 Ba1 131. Bb3 Bb2 132. Bd1 Ba1 133. Ke3 Bb2 134. Bxh5 Ba1 135.
+Kf3 Bb2 136. Kg4 Ba1 137. Bf7 Kxf7 138. Kxh4 Bb2 139. Kg4 Ba1 140. h4 Bb2 141.
+Kf5 Ba1 142. h5 Bb2 143. h6 Ba1 144. Kg5 Bb2 145. h7 Ba1 146. Kh6 Bb2 147. h8=Q
+Bxh8 1/2-1/2
+

@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Aborigen100500"]
+[Black "buildorderbot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/0mdyvMV9"]
+[WhiteTitle "NM"]
+[WhiteElo "2629"]
+[BlackElo "2604"]
+[ECO "A00"]
+[Opening "Van Geet Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:23:04"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. Nc3 a5 2. e4 a4 3. Nf3 Ra5 4. d4 e6 5. Bd3 b6 6. O-O g5 7. Ne2 g4 8. Ne5 h5
+9. Bd2 Ra7 10. f3 d6 11. Nxf7 Kxf7 12. fxg4+ Ke8 13. e5 Kd7 14. Nf4 Bh6 15.
+Nxe6 Kxe6 16. g5 dxe5 17. gxh6 Qxd4+ 18. Kh1 Ne7 19. Qxh5 Ba6 20. Bc3 Qd5 21.
+Bf5+ Kd6 22. Rfd1 Nbc6 23. Rxd5+ Nxd5 24. Rd1 Bc4 25. b3 Kc5 26. Be1 axb3 27.
+axb3 Nd4 28. bxc4 Ne3 29. Bf2 Nexf5 30. Qxf5 Kxc4 31. Qd3+ Kd5 32. c3 c5 33.
+cxd4 cxd4 34. Qb5+ Ke6 35. Qxb6+ Kf5 36. Qxa7 Rxh6 37. Qf7+ Rf6 38. Qd7+ Ke4
+39. Bh4 Rf7 40. Re1+ Kd3 41. Qxf7 Kc2 42. Qc4+ Kd2 0-1
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "playingsomerapid"]
+[Black "jhedigm"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/SRC2cBXL"]
+[BlackTitle "FM"]
+[WhiteElo "2488"]
+[BlackElo "2517"]
+[ECO "E47"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Bishop Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:09:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 c5 6. Ne2 cxd4 7. exd4 d5 8.
+cxd5 Nxd5 9. O-O Nc6 10. a3 Be7 11. Re1 Nf6 12. h3 b6 13. Be3 Bb7 14. Ng3 Rc8
+15. Rc1 Qd7 16. Bb1 Rfd8 17. h4 Nxd4 18. Nh5 Nf3+ 19. gxf3 Nxh5 20. Qxd7 Rxd7
+21. Ne4 Bxh4 22. Rxc8+ Bxc8 23. Rc1 Bb7 0-1
+

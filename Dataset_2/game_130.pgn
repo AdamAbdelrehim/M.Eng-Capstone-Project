@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.15"]
+[Round "-"]
+[White "Yubyub78"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rnb1kr2/ppppbp2/8/8/8/8/PPPP1PPP/RNB1KBNR w KQq -"]
+[Timezone "UTC"]
+[ECO "C20"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Wayward-Queen-Kiddie-Countergambit"]
+[UTCDate "2021.01.15"]
+[UTCTime "01:59:16"]
+[WhiteElo "1040"]
+[BlackElo "1035"]
+[TimeControl "600"]
+[Termination "Yubyub78 won by resignation"]
+[StartTime "01:59:16"]
+[EndDate "2021.01.15"]
+[EndTime "02:00:27"]
+[Link "https://www.chess.com/game/live/6238998735"]
+
+1. e4 { [%clk 0:09:56.8] } 1... e5 { [%clk 0:09:59.1] } 2. Qh5
+{ [%clk 0:09:54.9] } 2... Nf6 { [%clk 0:09:49.4] } 3. Qxe5+
+{ [%clk 0:09:53.2] } 3... Be7 { [%clk 0:09:46.9] } 4. Qg3 { [%clk 0:09:49.7] }
+4... Nxe4 { [%clk 0:09:41.2] } 5. Qxg7 { [%clk 0:09:46.5] } 5... Rf8
+{ [%clk 0:09:35] } 6. Qxh7 { [%clk 0:09:42.3] } 6... Bc5 { [%clk 0:09:26.1] }
+7. Qxe4+ { [%clk 0:09:40.1] } 7... Qe7 { [%clk 0:09:24.7] } 8. Qxe7+
+{ [%clk 0:09:31.6] } 8... Bxe7 { [%clk 0:09:23.6] } 1-0
+

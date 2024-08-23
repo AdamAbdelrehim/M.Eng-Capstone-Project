@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.08.13"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Morvius7265"]
+[Result "0-1"]
+[CurrentPosition "4r1k1/2pb1p1p/p1p3p1/6Q1/5pnP/5P2/P6r/6RK w - -"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Declined-Williams-Variation"]
+[UTCDate "2022.08.13"]
+[UTCTime "02:07:46"]
+[WhiteElo "1529"]
+[BlackElo "1420"]
+[TimeControl "300"]
+[Termination "Morvius7265 won by checkmate"]
+[StartTime "02:07:46"]
+[EndDate "2022.08.13"]
+[EndTime "02:12:46"]
+[Link "https://www.chess.com/game/live/54095387049"]
+
+1. e4 { [%clk 0:04:59.4] } 1... d6 { [%clk 0:04:54.2] } 2. Nf3
+{ [%clk 0:04:58.7] } 2... Nc6 { [%clk 0:04:42.6] } 3. d4 { [%clk 0:04:55.9] }
+3... Nf6 { [%clk 0:04:35.3] } 4. Bb5 { [%clk 0:04:52.7] } 4... a6
+{ [%clk 0:04:30.8] } 5. Bxc6+ { [%clk 0:04:50] } 5... bxc6 { [%clk 0:04:27.5] }
+6. Nc3 { [%clk 0:04:49.3] } 6... g6 { [%clk 0:04:22.6] } 7. Bg5
+{ [%clk 0:04:46.4] } 7... Bg7 { [%clk 0:04:17.6] } 8. O-O { [%clk 0:04:43.6] }
+8... O-O { [%clk 0:04:13.5] } 9. Qd2 { [%clk 0:04:41.1] } 9... Rb8
+{ [%clk 0:04:08.3] } 10. Bh6 { [%clk 0:04:38.9] } 10... Bxh6
+{ [%clk 0:04:03.9] } 11. Qxh6 { [%clk 0:04:38.8] } 11... Rxb2
+{ [%clk 0:03:59.3] } 12. Ng5 { [%clk 0:04:28.7] } 12... e5 { [%clk 0:03:55.2] }
+13. dxe5 { [%clk 0:04:24.7] } 13... dxe5 { [%clk 0:03:51.3] } 14. Rad1
+{ [%clk 0:04:23.9] } 14... Qe7 { [%clk 0:03:45.1] } 15. Rd2
+{ [%clk 0:04:17.6] } 15... Re8 { [%clk 0:03:39.8] } 16. Rfd1
+{ [%clk 0:04:15.6] } 16... Bg4 { [%clk 0:03:30.8] } 17. Rd7
+{ [%clk 0:04:04.7] } 17... Bxd7 { [%clk 0:03:23.9] } 18. f4
+{ [%clk 0:03:58.1] } 18... Qc5+ { [%clk 0:03:17.6] } 19. Kh1
+{ [%clk 0:03:53.8] } 19... Qxc3 { [%clk 0:03:12.9] } 20. h3
+{ [%clk 0:03:51.7] } 20... Qxc2 { [%clk 0:03:05.3] } 21. Rg1 { [%clk 0:03:48] }
+21... exf4 { [%clk 0:03:00.9] } 22. Nf3 { [%clk 0:03:29.8] } 22... Qxe4
+{ [%clk 0:02:55.3] } 23. h4 { [%clk 0:03:25.6] } 23... Ng4 { [%clk 0:02:34.6] }
+24. Qg5 { [%clk 0:03:13.8] } 24... Qxf3 { [%clk 0:02:12.6] } 25. gxf3
+{ [%clk 0:03:07.9] } 25... Rh2# { [%clk 0:02:05.3] } 0-1
+

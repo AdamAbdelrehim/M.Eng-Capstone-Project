@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sleepheaddefence"]
+[Black "daggoetje"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/YpUi3Pou"]
+[WhiteElo "2509"]
+[BlackElo "2452"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Cozio Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:01:12"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. O-O d6 5. d4 exd4 6. Nxd4 Bd7 7. Nc3 a6 8.
+Ba4 Nxd4 9. Bxd7+ Qxd7 10. Qxd4 Nc6 11. Qd2 Be7 12. b3 Bf6 13. Bb2 O-O 14. Rad1
+Rfe8 15. Rfe1 g6 16. Na4 Bxb2 17. Nxb2 Rad8 18. Nc4 Ne5 19. Ne3 c6 20. h3 Qe7
+21. f4 Nd7 22. Nc4 Nc5 23. Nxd6 b6 24. e5 Nb7 25. Qc3 Nxd6 26. exd6 Rxd6 27.
+Rxd6 Qxe1+ 28. Qxe1 Rxe1+ 29. Kf2 Ra1 30. a4 b5 31. Rxc6 bxa4 32. b4 Rc1 33.
+Ke3 a3 34. Rxa6 Rxc2 35. Rxa3 Rxg2 36. Ra8+ Kg7 37. b5 Rg3+ 38. Kd4 Rxh3 39. b6
+Rb3 40. Kc5 Kf6 41. Ra5 Kf5 42. Rb5 Rc3+ 43. Kd6+ Kxf4 44. b7 Rd3+ 45. Ke7 Re3+
+46. Kxf7 Rc3 47. b8=Q+ Kg4 48. Rb4+ Rc4 49. Qf4+ Rxf4+ 50. Rxf4+ Kxf4 51. Kg7
+g5 52. Kh6 g4 53. Kh5 g3 0-1
+

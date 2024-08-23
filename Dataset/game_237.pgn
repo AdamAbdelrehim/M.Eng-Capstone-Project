@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Rooko64"]
+[Black "Knights4base"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ntt7lLgd"]
+[BlackTitle "IM"]
+[WhiteElo "2392"]
+[BlackElo "2569"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Line"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "01:30:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Nf3 d5 5. h3 Nh6 6. Bd3 O-O 7. O-O f6 8. Re1
+Nf7 9. b3 e6 10. Bb2 a5 11. Qd2 Bh6 12. Qe2 Na6 13. Rad1 Nb4 14. a3 Nxd3 15.
+Rxd3 b6 16. Nh2 Ba6 17. Ng4 Bg7 18. Qf3 Bxd3 19. Qxd3 dxe4 20. Nxe4 f5 21. Ng3
+fxg4 22. Rxe6 gxh3 23. gxh3 Qd5 24. Qe2 Ng5 25. Re7 Nxh3+ 0-1
+

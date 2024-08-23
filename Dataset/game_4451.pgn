@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Beluna"]
+[Black "Al_Nouria"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/7Wmx1gmz"]
+[WhiteElo "2367"]
+[BlackElo "2653"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Krause Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:10:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+
+1. Nf3 d5 2. d4 c5 3. dxc5 Nf6 4. c4 e6 5. cxd5 Bxc5 6. e3 exd5 7. Bb5+ Bd7 8.
+Bxd7+ Qxd7 9. O-O Nc6 10. Nc3 O-O-O 11. a3 d4 12. exd4 Nxd4 13. Nxd4 Bxd4 14.
+Bf4 Bxc3 15. Qc1 Qc6 16. bxc3 Rhe8 17. Rb1 Nd5 18. Bd2 Re4 19. c4 Rxc4 20. Qb2
+f6 21. Rbc1 Nb6 22. Be3 Na4 23. Qb3 b5 24. Bxa7 Rxc1 0-1
+

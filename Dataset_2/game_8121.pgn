@@ -1,0 +1,38 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.01"]
+[Round "-"]
+[White "VasilisPenintas"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1b2r1k/pp2bpp1/4p3/4q3/3pB3/7Q/PP1B1PPP/R4RK1 b - -"]
+[Timezone "UTC"]
+[ECO "D06"]
+[ECOUrl "https://www.chess.com/openings/Queens-Gambit-Declined-Marshall-Defense-3.cxd5-Nxd5-4.e4-Nf6"]
+[UTCDate "2023.04.01"]
+[UTCTime "02:54:25"]
+[WhiteElo "1924"]
+[BlackElo "1907"]
+[TimeControl "600"]
+[Termination "VasilisPenintas won by resignation"]
+[StartTime "02:54:25"]
+[EndDate "2023.04.01"]
+[EndTime "02:58:15"]
+[Link "https://www.chess.com/game/live/74056808847"]
+
+1. d4 { [%clk 0:10:00] } 1... d5 { [%clk 0:09:59.1] } 2. c4
+{ [%clk 0:09:57.7] } 2... Nf6 { [%clk 0:09:54] } 3. cxd5 { [%clk 0:09:55.2] }
+3... Nxd5 { [%clk 0:09:52.8] } 4. e4 { [%clk 0:09:50.9] } 4... Nf6
+{ [%clk 0:09:48.8] } 5. e5 { [%clk 0:09:49.4] } 5... Nd5 { [%clk 0:09:47.9] }
+6. Nc3 { [%clk 0:09:47.7] } 6... e6 { [%clk 0:09:41] } 7. Nf3
+{ [%clk 0:09:42.3] } 7... Be7 { [%clk 0:09:38.3] } 8. Bd2 { [%clk 0:09:38.8] }
+8... O-O { [%clk 0:09:36.5] } 9. Bd3 { [%clk 0:09:31.2] } 9... c5
+{ [%clk 0:09:32.7] } 10. O-O { [%clk 0:09:14.9] } 10... Nc6
+{ [%clk 0:09:03.9] } 11. Qc2 { [%clk 0:08:55.5] } 11... cxd4
+{ [%clk 0:08:52.8] } 12. Nxd5 { [%clk 0:08:49.2] } 12... Qxd5
+{ [%clk 0:08:41.2] } 13. Bxh7+ { [%clk 0:08:46.4] } 13... Kh8
+{ [%clk 0:08:40.8] } 14. Be4 { [%clk 0:08:42.6] } 14... Qc5
+{ [%clk 0:08:33.1] } 15. Qd3 { [%clk 0:08:19] } 15... Nxe5 { [%clk 0:08:22.7] }
+16. Nxe5 { [%clk 0:08:13] } 16... Qxe5 { [%clk 0:08:18] } 17. Qh3+
+{ [%clk 0:08:08.5] } 1-0
+

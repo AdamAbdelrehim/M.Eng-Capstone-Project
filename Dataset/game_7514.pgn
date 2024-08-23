@@ -1,0 +1,37 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "CruelKen"]
+[Black "PetersBot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/HKBzcoNV"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3004"]
+[BlackElo "2979"]
+[ECO "A50"]
+[Opening "Indian Defense: Normal Variation"]
+[TimeControl "360+3"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:19:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+0"]
+
+1. d4 Nf6 2. c4 e6 3. e3 d5 4. Nc3 Be7 5. Nf3 O-O 6. b3 c5 7. dxc5 dxc4 8. Bxc4
+Qxd1+ 9. Kxd1 Bxc5 10. Ke2 a6 11. Bd3 Be7 12. Bb2 Nbd7 13. Rhd1 b6 14. Rac1 Nc5
+15. Ne5 Bb7 16. Na4 Nxa4 17. bxa4 Rfc8 18. g3 Ne4 19. Nd7 Rxc1 20. Rxc1 Nc5 21.
+Nxc5 bxc5 22. a5 Bd5 23. Ba3 c4 24. Bxe7 cxd3+ 25. Kxd3 Bxa2 26. Kd4 Bb3 27.
+Bd6 Ba4 28. e4 h5 29. Rc7 Rd8 30. e5 f6 31. f4 Rd7 32. Rc8+ Kf7 33. Rb8 Bd1 34.
+h3 Kg6 35. Ke3 Ba4 36. Kd4 Bd1 37. Kc5 Be2 38. Kc6 Rf7 39. Kb6 Kf5 40. Re8 Rd7
+41. Rf8 Bb5 42. Bb4 Kg6 43. Bd6 Kf5 44. Rh8 Be2 45. Kc6 Rf7 46. Rg8 Bb5+ 47.
+Kb6 Ke4 48. Rh8 Be2 49. Re8 Bb5 50. Rh8 Be2 51. exf6 gxf6 52. Re8 Kd5 53. Rd8
+Ke4 54. g4 hxg4 55. hxg4 Bb5 56. Kc5 Rg7 57. Rf8 Rg6 58. Bc7 e5 59. f5 Rxg4 60.
+Rxf6 Rg5 61. Re6 Rxf5 62. Re7 Bf1 63. Re6 Bb5 64. Re7 Be2 65. Bxe5 Rxe5+ 66.
+Rxe5+ Kxe5 67. Kb4 Bd1 68. Kc4 Bc2 69. Kc3 Bb1 70. Kb2 Ba2 71. Kxa2 Kd4 72. Kb2
+Kd3 73. Kb3 Kd2 74. Kc4 Ke3 75. Kd5 Kd3 76. Kc5 Ke4 77. Kb6 Kd5 78. Kb7 Kc5 79.
+Kxa6 Kc6 80. Ka7 Kc7 81. a6 Kc8 82. Kb6 Kb8 83. Kb5 Ka7 84. Ka5 Ka8 85. Kb4 Ka7
+86. Kb5 Ka8 87. Ka5 Ka7 88. Kb5 Ka8 89. Kb4 Ka7 90. Ka5 Ka8 91. Kb6 Kb8 92. a7+
+Ka8 93. Kc6 Kxa7 1/2-1/2
+

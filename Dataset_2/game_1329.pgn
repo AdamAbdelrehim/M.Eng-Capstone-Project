@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.06.08"]
+[Round "-"]
+[White "Akshar71"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r2kqb1r/pbp1p2P/1pn2p2/3p4/3P2n1/4P1B1/PPP2PP1/RN2KBNR w KQ -"]
+[Timezone "UTC"]
+[ECO "D00"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Levitsky-Attack"]
+[UTCDate "2021.06.08"]
+[UTCTime "14:10:51"]
+[WhiteElo "1477"]
+[BlackElo "1476"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won - game abandoned"]
+[StartTime "14:10:51"]
+[EndDate "2021.06.08"]
+[EndTime "14:14:37"]
+[Link "https://www.chess.com/game/live/16900530555"]
+
+1. d4 { [%clk 0:10:00] } 1... d5 { [%clk 0:09:57.9] } 2. Bg5
+{ [%clk 0:09:57.9] } 2... Nc6 { [%clk 0:09:44.7] } 3. e3 { [%clk 0:09:56.1] }
+3... f6 { [%clk 0:09:22.6] } 4. Bh4 { [%clk 0:09:53.8] } 4... g5
+{ [%clk 0:09:14.8] } 5. Qh5+ { [%clk 0:09:50.2] } 5... Kd7 { [%clk 0:09:08] }
+6. Bg3 { [%clk 0:09:47.7] } 6... b6 { [%clk 0:09:04.5] } 7. h4
+{ [%clk 0:09:44.9] } 7... Bb7 { [%clk 0:08:56.6] } 8. hxg5 { [%clk 0:09:39.2] }
+8... Qe8 { [%clk 0:08:51.8] } 9. Qg4+ { [%clk 0:09:36.8] } 9... Kd8
+{ [%clk 0:08:47.4] } 10. g6 { [%clk 0:09:34.5] } 10... Nh6 { [%clk 0:08:36.4] }
+11. gxh7 { [%clk 0:09:13.7] } 11... Nxg4 { [%clk 0:08:30.2] } 0-1
+

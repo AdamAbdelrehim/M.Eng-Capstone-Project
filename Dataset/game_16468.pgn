@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "maunok"]
+[Black "domore"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/aiZjrD56"]
+[WhiteElo "2639"]
+[BlackElo "2442"]
+[ECO "D43"]
+[Opening "Semi-Slav Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "01:57:34"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Nf3 c6 5. g3 Nbd7 6. Bg2 dxc4 7. O-O b5 8. e4
+Bb7 9. e5 Nd5 10. Ng5 Nxc3 11. bxc3 Be7 12. Qh5 Bxg5 13. Bxg5 Qc7 14. Rad1 h6
+15. f4 c5 16. d5 Bxd5 17. Bxd5 exd5 18. Rxd5 Nb6 19. Rd6 g6 20. Qh3 Qc8 21. f5
+h5 22. Rd8+ Qxd8 23. Bxd8 Rxd8 24. fxg6 Rd7 25. e6 fxe6 26. Qxe6+ Re7 27. Qc6+
+Kd8 28. Rd1+ Rd7 29. Qf6+ 1-0
+

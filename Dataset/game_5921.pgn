@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "whiteprocess"]
+[Black "Pastukhov_Nicolay"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/K8YtRrz6"]
+[WhiteElo "2546"]
+[BlackElo "2550"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:08:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+5"]
+
+1. e4 c6 2. Nf3 d5 3. d3 Bg4 4. h3 Bh5 5. g4 Bg6 6. Qe2 e6 7. Nbd2 Nd7 8. h4 h5
+9. g5 Bd6 10. Bg2 Ne7 11. b3 O-O 12. Bb2 a5 13. a4 b5 14. O-O Nb6 15. axb5 cxb5
+16. Nd4 Qd7 17. e5 Bc5 18. Kh1 Rfc8 19. Rfc1 a4 20. f4 a3 0-1
+

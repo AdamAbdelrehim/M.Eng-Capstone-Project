@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.23"]
+[Round "-"]
+[White "killergo_99-KO"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1b1kbnr/pppp2pp/5p2/3q2B1/2Nn4/2N1P3/PPP2PPP/R2QKB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "A04"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-Black-Mustang-Defense"]
+[UTCDate "2021.01.23"]
+[UTCTime "20:42:04"]
+[WhiteElo "1057"]
+[BlackElo "1082"]
+[TimeControl "600"]
+[Termination "killergo_99-KO won by resignation"]
+[StartTime "20:42:04"]
+[EndDate "2021.01.23"]
+[EndTime "20:45:29"]
+[Link "https://www.chess.com/game/live/6325512974"]
+
+1. Nf3 { [%clk 0:09:51.7] } 1... Nc6 { [%clk 0:09:53.6] } 2. Nc3
+{ [%clk 0:09:43.6] } 2... e5 { [%clk 0:09:47.6] } 3. d4 { [%clk 0:09:36.5] }
+3... Qf6 { [%clk 0:09:34.6] } 4. d5 { [%clk 0:09:30.4] } 4... Nd4
+{ [%clk 0:09:30.8] } 5. Bg5 { [%clk 0:09:16.6] } 5... Qb6 { [%clk 0:09:14.4] }
+6. Nxe5 { [%clk 0:08:43.7] } 6... f6 { [%clk 0:09:11.7] } 7. Nc4
+{ [%clk 0:08:22.6] } 7... Qc5 { [%clk 0:08:57.9] } 8. e3 { [%clk 0:08:08] }
+8... Qxd5 { [%clk 0:08:35.2] } 1-0
+

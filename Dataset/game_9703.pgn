@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Antroposen"]
+[Black "metan0ia"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/9GcOabNu"]
+[WhiteTitle "GM"]
+[WhiteElo "2880"]
+[BlackElo "2744"]
+[ECO "A60"]
+[Opening "Benoni Defense: Modern Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:44:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 d6 5. e4 g6 6. Nf3 Bg7 7. Be2 O-O 8. O-O
+exd5 9. exd5 Bg4 10. h3 Bxf3 11. Bxf3 Nbd7 12. Bf4 Ne5 13. Be2 Ne8 14. Qd2 f5
+15. Rae1 Nf7 16. g3 g5 17. Be3 Qf6 18. f4 gxf4 19. gxf4 Nh8 20. Kh2 Ng6 21. Rg1
+Kh8 22. Rg5 Bh6 23. Rh5 Ne7 24. Bf2 Ng7 25. Bh4 Qg6 26. Rxh6 Qxh6 27. Bxe7 Rfe8
+28. Bf3 Nh5 29. Bxh5 Qxh5 30. Nb5 Qg6 31. Qc3+ Kg8 32. Nxd6 1-0
+

@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Labourdonais"]
+[Black "RaceKing_2022"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/3bDjNKHN"]
+[WhiteElo "2598"]
+[BlackElo "2558"]
+[ECO "E49"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Botvinnik System"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:29:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+8"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. a3 Bxc3+ 7. bxc3 dxc4 8.
+Bxc4 c5 9. Bd3 Qc7 10. Bb2 Nc6 11. Nf3 Rd8 12. Qe2 e5 13. Nxe5 Nxe5 14. dxe5
+Qxe5 15. Rd1 Bf5 16. c4 Qe6 17. O-O b6 18. Bxf5 Qxf5 19. f3 h6 20. e4 Qe6 21.
+Rd3 Ne8 22. Rd5 Nc7 23. Rdd1 Qc6 24. Qc2 Ne6 25. Rd5 Nc7 26. Qc3 Qg6 27. Rd3
+Rxd3 28. Qxd3 Ne6 29. Rd1 Rd8 30. Qf1 Rxd1 31. Qxd1 Qg5 32. Bc1 Qe5 33. Be3 Qc3
+34. Qc1 Qd3 35. h3 Qe2 36. f4 Nd4 37. f5 Qd3 38. Bxd4 Qxd4+ 39. Kh1 Qxe4 40. f6
+g5 41. Qc3 Qd4 42. Qf3 Qxc4 43. Qa8+ Kh7 44. Qxa7 Qc1+ 45. Kh2 Qf4+ 46. Kg1
+Qxf6 47. a4 Kg7 48. a5 Qa1+ 49. Kh2 Qxa5 50. Qc7 Qb4 51. Qe5+ Kg6 52. Qd6+ Kh7
+53. Qf8 Qf4+ 54. Kg1 Qf6 55. Qc8 Qe6 56. Qb8 Kg7 57. Kh2 c4 58. g4 c3 59. Qc7
+Qe2+ 60. Kg3 Qe3+ 61. Kg2 Qd2+ 62. Kg1 c2 63. Qe5+ Kf8 64. Qb8+ Ke7 65. Qe5+
+Kd7 66. Qb5+ Kc7 67. Qc4+ Kd6 0-1
+

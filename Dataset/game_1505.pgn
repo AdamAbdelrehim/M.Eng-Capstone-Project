@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Cor64"]
+[Black "monty82"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/zdEQsWwe"]
+[WhiteElo "2503"]
+[BlackElo "2398"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, English Attack, Anti-English"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:00:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 Ng4 7. Bg5 h6 8. Bh4
+g5 9. Bg3 Bg7 10. h3 Ne5 11. Nf5 Bxf5 12. exf5 Qa5 13. Qd5 Qb4 14. O-O-O Nbc6
+15. a3 Qb6 16. f4 gxf4 17. Bxf4 Rc8 18. Qd2 Na5 19. Nd5 Nb3+ 20. Kb1 Nxd2+ 21.
+Rxd2 Qc5 22. Be2 Nc4 23. Bxc4 Qxc4 24. Re1 Kf8 25. Nxe7 Qxf4 0-1
+

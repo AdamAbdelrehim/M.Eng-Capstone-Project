@@ -1,0 +1,48 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.07.05"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Borris123zm"]
+[Result "0-1"]
+[CurrentPosition "2b2k2/5p2/p7/3p2Np/1n2p2P/1Bq5/4KP2/3R2R1 b - -"]
+[Timezone "UTC"]
+[ECO "B13"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Exchange-Variation-3...cxd5-4.Nf3-Nc6"]
+[UTCDate "2021.07.05"]
+[UTCTime "02:41:41"]
+[WhiteElo "1483"]
+[BlackElo "1417"]
+[TimeControl "600"]
+[Termination "Borris123zm won by resignation"]
+[StartTime "02:41:41"]
+[EndDate "2021.07.05"]
+[EndTime "02:52:01"]
+[Link "https://www.chess.com/game/live/19191948013"]
+
+1. e4 { [%clk 0:10:00] } 1... c6 { [%clk 0:09:58.3] } 2. d4
+{ [%clk 0:09:58.1] } 2... d5 { [%clk 0:09:56.5] } 3. exd5 { [%clk 0:09:58] }
+3... cxd5 { [%clk 0:09:55.2] } 4. Nf3 { [%clk 0:09:55.1] } 4... Nc6
+{ [%clk 0:09:53.6] } 5. Bb5 { [%clk 0:09:52.9] } 5... Bd7 { [%clk 0:09:47.3] }
+6. Nc3 { [%clk 0:09:46.3] } 6... Nf6 { [%clk 0:09:45.5] } 7. Bg5
+{ [%clk 0:09:35.9] } 7... e6 { [%clk 0:09:42.6] } 8. Qd2 { [%clk 0:09:18.8] }
+8... Bb4 { [%clk 0:09:34.4] } 9. a3 { [%clk 0:09:15.4] } 9... Be7
+{ [%clk 0:09:14.1] } 10. O-O-O { [%clk 0:09:11] } 10... a6 { [%clk 0:09:11.9] }
+11. Ba4 { [%clk 0:08:58] } 11... b5 { [%clk 0:09:10.4] } 12. Bb3
+{ [%clk 0:08:55.9] } 12... Rc8 { [%clk 0:08:58.3] } 13. Rhe1
+{ [%clk 0:08:45.5] } 13... O-O { [%clk 0:08:55.3] } 14. h4 { [%clk 0:08:41] }
+14... b4 { [%clk 0:08:24.7] } 15. axb4 { [%clk 0:08:36.6] } 15... Nxb4
+{ [%clk 0:08:15] } 16. g4 { [%clk 0:08:21.9] } 16... Qa5 { [%clk 0:07:57.9] }
+17. Bxf6 { [%clk 0:07:53.5] } 17... Rxc3 { [%clk 0:07:52.2] } 18. Qxc3
+{ [%clk 0:07:48] } 18... Bxf6 { [%clk 0:07:21.7] } 19. g5 { [%clk 0:07:30.6] }
+19... Rc8 { [%clk 0:07:16.6] } 20. Qxc8+ { [%clk 0:07:04.6] } 20... Bxc8
+{ [%clk 0:07:13.1] } 21. gxf6 { [%clk 0:07:03.6] } 21... gxf6
+{ [%clk 0:07:07.2] } 22. Rg1+ { [%clk 0:06:57.8] } 22... Kf8
+{ [%clk 0:07:04.1] } 23. Nh2 { [%clk 0:06:41.4] } 23... e5 { [%clk 0:06:36.8] }
+24. dxe5 { [%clk 0:06:27.3] } 24... fxe5 { [%clk 0:06:31.1] } 25. Nf3
+{ [%clk 0:06:13.1] } 25... e4 { [%clk 0:06:18.2] } 26. Ng5 { [%clk 0:05:39.6] }
+26... h5 { [%clk 0:05:58] } 27. c3 { [%clk 0:05:19] } 27... Qa1+
+{ [%clk 0:05:28.2] } 28. Kd2 { [%clk 0:05:05.4] } 28... Qxb2+
+{ [%clk 0:05:26.2] } 29. Ke1 { [%clk 0:04:57.6] } 29... Qxc3+
+{ [%clk 0:05:13.4] } 30. Ke2 { [%clk 0:04:44.8] } 0-1
+

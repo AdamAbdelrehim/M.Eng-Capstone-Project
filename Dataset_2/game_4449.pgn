@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.30"]
+[Round "-"]
+[White "SiburissakDeHauma"]
+[Black "AdamAbdelrehim"]
+[Result "1/2-1/2"]
+[CurrentPosition "rnbqkbnr/ppp2ppp/4p3/3p4/2PP4/8/PP2PPPP/RNBQKBNR w KQkq -"]
+[Timezone "UTC"]
+[ECO "D30"]
+[ECOUrl "https://www.chess.com/openings/Queens-Gambit-Declined"]
+[UTCDate "2022.03.30"]
+[UTCTime "21:29:16"]
+[WhiteElo "1798"]
+[BlackElo "1796"]
+[TimeControl "600"]
+[Termination "Game drawn by agreement"]
+[StartTime "21:29:16"]
+[EndDate "2022.03.30"]
+[EndTime "21:29:39"]
+[Link "https://www.chess.com/game/live/42414626863"]
+
+1. d4 { [%clk 0:10:00] } 1... d5 { [%clk 0:09:55.9] } 2. c4
+{ [%clk 0:09:58.3] } 2... e6 { [%clk 0:09:54.5] } 1/2-1/2
+

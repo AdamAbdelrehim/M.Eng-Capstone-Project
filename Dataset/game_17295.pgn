@@ -1,0 +1,30 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Hoon_Bot"]
+[Black "ELO_1500"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/TBoR9Sit"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2885"]
+[BlackElo "2964"]
+[ECO "A00"]
+[Opening "Ware Opening"]
+[TimeControl "300+20"]
+[UTCDate "2024.06.03"]
+[UTCTime "06:05:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. a4 d5 2. b4 e5 3. b5 Nf6 4. Bb2 Bd6 5. e3 Nbd7 6. d4 exd4 7. Bxd4 Bb4+ 8.
+Bc3 Qe7 9. Nf3 Ne4 10. Bxb4 Qxb4+ 11. Nbd2 Ndc5 12. Qb1 Qc3 13. Qc1 O-O 14. Ra3
+Qa5 15. Bd3 a6 16. bxa6 Nxa6 17. O-O Nac5 18. Nb3 Qb4 19. a5 Nxb3 20. Rxb3 Qxa5
+21. Rb5 Qc3 22. Rxd5 Nc5 23. Ng5 g6 24. Rd4 Ra5 25. h4 b6 26. Rd1 Ne6 27. Ne4
+Qa3 28. Qxa3 Rxa3 29. Rb4 Bb7 30. Ng5 Nc5 31. h5 Ra5 32. Be2 Kg7 33. hxg6 hxg6
+34. Rh4 Na4 35. Bf3 Bc8 36. Ra1 Rxg5 37. Rhxa4 Rc5 38. Be4 Bf5 39. Bd3 Rd8 40.
+R1a3 Kf6 41. g4 Be6 42. f3 g5 43. Kf2 Rh8 44. Ra8 Rh2+ 45. Kg3 Rd2 46. Rh8 Bc4
+47. Bf5 Be6 48. Bd3 Bc4 49. Bf5 Be6 50. Bd3 1/2-1/2
+

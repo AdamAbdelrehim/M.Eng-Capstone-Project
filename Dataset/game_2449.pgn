@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "manneredmonkey"]
+[Black "dani29"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/NJg4Zrxu"]
+[WhiteTitle "NM"]
+[BlackTitle "GM"]
+[WhiteElo "2555"]
+[BlackElo "2580"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense, Semi-Slav Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:27:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. c4 c6 2. g3 d5 3. Nf3 Nf6 4. Bg2 e6 5. b3 Bd6 6. Bb2 Nbd7 7. d4 Qe7 8. O-O
+b6 9. Nc3 Bb7 10. Nd2 c5 11. cxd5 exd5 12. e3 O-O 13. Rc1 Rfe8 14. Nb5 Bb8 15.
+dxc5 bxc5 16. Ba3 a6 17. Nd4 g6 18. N2f3 Bd6 19. Ne2 d4 20. Rc2 dxe3 21. Bc1
+Ng4 0-1
+

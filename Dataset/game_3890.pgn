@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ELO_1500"]
+[Black "AKS-Mantissa"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/1wJfxh8g"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2889"]
+[BlackElo "2707"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Three Knights, Vienna Variation"]
+[TimeControl "60+3"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:49:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 h6 7. Bxf6 Qxf6 8.
+Bxc4 c5 9. O-O cxd4 10. e5 Qd8 11. Nxd4 O-O 12. Qd3 Bc5 13. Rfd1 Bxd4 14. Qxd4
+Qxd4 15. Rxd4 Nc6 16. Re4 Rd8 17. f4 a6 18. Bf1 Bd7 19. Rd1 Be8 20. Ree1 Kf8
+21. g3 Nb4 22. Kf2 Bc6 23. a3 Nd5 24. Ne4 Ne7 25. Nd6 Nc8 26. Nc4 Ne7 27. h4 g6
+28. Be2 Ba4 29. Rc1 Bb5 30. Nd6 Nf5 31. Nxb5 axb5 32. Bxb5 Rd2+ 33. Re2 Rdd8
+34. Bc4 g5 35. fxg5 hxg5 36. hxg5 b5 37. Ba2 b4 38. g6 fxg6 39. g4 Nd4 40. Re3
+bxa3 41. Rxa3 Rab8 42. b3 Rb5 43. Ra7 Rxe5 44. Bb1 Rg5 45. Rh1 Kg8 46. Rhh7
+Rxg4 47. Rag7+ Kf8 48. Ra7 Kg8 49. Rhg7+ Kh8 50. Rgf7 Nf5 51. Kf3 Rg1 52. Bxf5
+gxf5 53. b4 Rf1+ 54. Ke3 Rb1 55. Rh7+ Kg8 56. Rag7+ Kf8 57. Rb7 Kg8 58. Rhg7+
+Kf8 59. Rbf7+ Ke8 60. Ra7 Kf8 61. b5 Rxb5 62. Rh7 Kg8 63. Rag7+ Kf8 64. Rf7+
+Kg8 65. Rhg7+ Kh8 66. Rh7+ Kg8 67. Rfg7+ Kf8 68. Ra7 Kg8 69. Rhg7+ Kh8 70. Rh7+
+Kg8 1/2-1/2
+

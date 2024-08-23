@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Pastukhov_Nicolay"]
+[Black "flo50"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/8cFV0bmv"]
+[WhiteElo "2561"]
+[BlackElo "2516"]
+[ECO "D93"]
+[Opening "Grünfeld Defense: Three Knights Variation, Hungarian Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:55:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bf4 O-O 6. e3 c5 7. Be2 cxd4 8. Nxd4
+Re8 9. Bg3 e5 10. Nb3 d4 11. Nb5 Nc6 12. exd4 exd4 13. O-O Ne4 14. Bf3 Nxg3 15.
+hxg3 d3 16. Qd2 Be6 17. Rac1 a6 18. Na3 Nd4 19. Nxd4 Qxd4 20. Rc3 Rad8 21. Rd1
+Bf5 22. Bxb7 Qd7 23. Rb3 Re2 24. Qa5 Bd4 25. Bf3 Rxf2 26. Kh2 Re8 27. c5 Rxf3
+28. gxf3 Re2+ 29. Kh1 Qd5 30. Rf1 Be4 31. Rxd3 Bxd3 32. Qd8+ Qxd8 0-1
+

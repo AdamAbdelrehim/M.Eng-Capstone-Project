@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Ersahin"]
+[Black "Karpazov"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/VMF7KVWk"]
+[WhiteTitle "CM"]
+[WhiteElo "2512"]
+[BlackElo "2422"]
+[ECO "C78"]
+[Opening "Ruy Lopez: Morphy Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:06:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bc5 7. c3 d6 8. d4
+Bb6 9. a4 Rb8 10. axb5 axb5 11. Na3 O-O 12. Nxb5 Bg4 13. Be3 exd4 14. cxd4 Re8
+15. Nc3 Bxf3 16. gxf3 Bxd4 17. Bxd4 Nxd4 18. Bxf7+ Kxf7 19. Qxd4 Rxb2 20. Ra7
+Qb8 21. Qc4+ Kg6 22. Rxc7 Rb4 23. Qf7+ 1-0
+

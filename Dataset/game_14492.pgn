@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "AlInGaN"]
+[Black "TTTGMTTT"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/5DaMd4XD"]
+[WhiteElo "2519"]
+[BlackElo "2334"]
+[ECO "A44"]
+[Opening "Benoni Defense: Semi-Benoni"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:30:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-11"]
+
+1. d4 c5 2. d5 e5 3. e4 d6 4. c4 g6 5. Nc3 Bg7 6. Nge2 Ne7 7. g3 O-O 8. Bg2 f5
+9. O-O f4 10. gxf4 exf4 11. Nxf4 Be5 12. Nd3 Bd4 13. Kh1 Nd7 14. f4 Nf6 15. Ne2
+Bg4 16. Qc2 Bxe2 17. Qxe2 Nh5 18. Bd2 Kg7 19. Rae1 Ng8 20. Bf3 Ngf6 21. e5 dxe5
+22. fxe5 Nd7 23. Bxh5 Rxf1+ 24. Rxf1 gxh5 25. Qxh5 Kh8 26. Bg5 1-0
+

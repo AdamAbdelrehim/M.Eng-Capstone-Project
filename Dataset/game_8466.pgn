@@ -1,0 +1,47 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "bot_adario"]
+[Black "PurpleHunter"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/Sul8D2NQ"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2625"]
+[BlackElo "2622"]
+[ECO "E11"]
+[Opening "Bogo-Indian Defense: Nimzowitsch Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "03:01:34"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 Qe7 5. g3 Nc6 6. e3 Bxd2+ 7. Nfxd2 e5 8.
+d5 Nb8 9. Nc3 d6 10. Bg2 a5 11. O-O O-O 12. a3 h5 13. h3 Na6 14. Qe2 Bf5 15. e4
+Bd7 16. Qe3 h4 17. g4 Nh7 18. Kh2 a4 19. Rfe1 Nc5 20. Kg1 Qg5 21. Qxg5 Nxg5 22.
+Re3 Ra6 23. Rb1 Rb6 24. Ne2 f6 25. f3 Re8 26. Bf1 g6 27. Nc3 Rf8 28. Nb5 c6 29.
+Nc3 Kf7 30. Kh2 f5 31. Bg2 f4 32. Ree1 Ra8 33. Kg1 Nb3 34. Red1 Nxd2 35. Rxd2
+cxd5 36. cxd5 Rc8 37. Rc1 Rb3 38. Kf2 Rc4 39. Bf1 Rc5 40. Kg2 b5 41. Be2 Kf6
+42. Na2 Re3 43. Rcc2 Be8 44. Nb4 Rxc2 45. Rxc2 Nf7 46. Na2 Rb3 47. Nc1 Re3 48.
+Rc7 Ng5 49. Rc8 Ke7 50. Rc3 Rxc3 51. bxc3 Kd8 52. Na2 Kc7 53. Nb4 Kb6 54. Bd3
+Nf7 55. Kf2 Kb7 56. Na2 Bd7 57. Kg2 Kb6 58. Nb4 Nd8 59. Kf2 Bc8 60. Bb1 Kc7 61.
+Kf1 Bd7 62. Ke2 Nf7 63. Kf2 Kb6 64. Bd3 Ng5 65. Bf1 Kb7 66. Kg2 Be8 67. Nd3 Kc7
+68. Kf2 Nh7 69. Ke1 Kb6 70. Nb4 Kb7 71. Ke2 Bd7 72. Kf2 Kc7 73. Ke1 Ng5 74. Ke2
+Be8 75. Nd3 Nf7 76. Ne1 Kb6 77. Kd1 Ng5 78. Kd2 Bd7 79. Kc2 Bc8 80. Bg2 Ka7 81.
+Kb1 Kb8 82. Nc2 Bd7 83. Ne1 Ka8 84. Nd3 Kb7 85. Kb2 Ka7 86. Kc1 Bc8 87. Kd2 Kb6
+88. Nb4 Bb7 89. Kd3 Nf7 90. Bf1 Kc5 91. Kd2 Bc8 92. Ke1 Ng5 93. Kf2 Bb7 94. Kg2
+Nh7 95. Kg1 g5 96. Kf2 Kb6 97. Bd3 Nf8 98. Ke2 Nd7 99. Bb1 Nc5 100. Ba2 Bc8
+101. Nc6 Kc7 102. Bb1 Bd7 103. Nb4 Be8 104. Bd3 Kb6 105. Bc2 Kb7 106. Ke1 Bd7
+107. Bb1 Ka7 108. Kd1 Nb7 109. Bd3 Na5 110. Kc1 Kb7 111. Kb2 Kc7 112. Bf1 Kb8
+113. Kb1 Kb7 114. Kb2 Kc7 115. Be2 Kb6 116. Kc2 Kb7 117. Kb2 Be8 118. Kb1 Kc7
+119. Kc2 Nb7 120. Bd3 Nc5 121. Na2 Bd7 122. Nc1 Kb6 123. Be2 Be8 124. Bf1 Kb7
+125. Kd2 Kc7 126. Ke2 Kb6 127. Kd1 Bf7 128. Nd3 Nxd3 129. Bxd3 Ka5 130. Bf1 Kb6
+131. Kc2 Kc5 132. Kb1 Bg6 133. Kb2 Bf7 134. Kb1 Kb6 135. Kb2 Bg6 136. Bd3 Kc5
+137. Bf1 Be8 138. Bd3 Bf7 139. Bf1 Kb6 140. Be2 Kc5 141. Kb1 Be8 142. Ka2 Bd7
+143. Bf1 Bc8 144. Be2 Kb6 145. Ka1 Ba6 146. Bf1 Ka7 147. Be2 Kb8 148. Kb2 Kc7
+149. c4 bxc4 150. Kc3 Kb6 151. Bxc4 Bxc4 152. Kxc4 Ka5 153. Kc3 Kb5 154. Kd3
+Ka6 155. Kc4 Ka5 156. Kc3 Kb5 157. Kd3 Ka6 158. Kc4 Ka5 1/2-1/2
+

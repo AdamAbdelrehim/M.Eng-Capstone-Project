@@ -1,0 +1,40 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.02.26"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "srinath-shenoy"]
+[Result "1-0"]
+[CurrentPosition "r3kb1r/pp3p1p/4p3/qBp5/4Q3/P1N5/1P3PPP/3RK2R b - -"]
+[Timezone "UTC"]
+[ECO "B12"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-2.d4-d5-3.Nf3"]
+[UTCDate "2023.02.26"]
+[UTCTime "06:18:19"]
+[WhiteElo "1691"]
+[BlackElo "1729"]
+[TimeControl "180"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "06:18:19"]
+[EndDate "2023.02.26"]
+[EndTime "06:21:24"]
+[Link "https://www.chess.com/game/live/71131413419"]
+
+1. e4 { [%clk 0:03:00] } 1... c6 { [%clk 0:02:59.9] } 2. Nf3
+{ [%clk 0:02:59.9] } 2... d5 { [%clk 0:02:59.8] } 3. d4 { [%clk 0:02:57.4] }
+3... dxe4 { [%clk 0:02:59.1] } 4. Ng5 { [%clk 0:02:56.6] } 4... Nf6
+{ [%clk 0:02:59] } 5. Qe2 { [%clk 0:02:54] } 5... Bf5 { [%clk 0:02:58.4] } 6.
+Nc3 { [%clk 0:02:53.2] } 6... Qxd4 { [%clk 0:02:56.2] } 7. Be3
+{ [%clk 0:02:51.1] } 7... Qd8 { [%clk 0:02:47.7] } 8. Rd1 { [%clk 0:02:49] }
+8... Qa5 { [%clk 0:02:45.7] } 9. Bd4 { [%clk 0:02:38] } 9... e6
+{ [%clk 0:02:37.3] } 10. a3 { [%clk 0:02:30.8] } 10... c5 { [%clk 0:02:32.5] }
+11. Bxf6 { [%clk 0:02:29.6] } 11... gxf6 { [%clk 0:02:31.6] } 12. Nxe4
+{ [%clk 0:02:29] } 12... Nc6 { [%clk 0:02:22.2] } 13. Nxf6+
+{ [%clk 0:02:27.2] } 13... Ke7 { [%clk 0:02:21.8] } 14. Ne4 { [%clk 0:02:19] }
+14... Nd4 { [%clk 0:02:20.8] } 15. Qh5 { [%clk 0:02:06.1] } 15... Nxc2+
+{ [%clk 0:02:19.3] } 16. Ke2 { [%clk 0:01:55.6] } 16... Nd4+
+{ [%clk 0:02:16.9] } 17. Ke1 { [%clk 0:01:51.2] } 17... Bxe4
+{ [%clk 0:02:05.6] } 18. Qh4+ { [%clk 0:01:42.9] } 18... Ke8
+{ [%clk 0:01:56.1] } 19. Qxe4 { [%clk 0:01:41.5] } 19... Nb5 { [%clk 0:01:55] }
+20. Bxb5+ { [%clk 0:01:33.9] } 1-0
+

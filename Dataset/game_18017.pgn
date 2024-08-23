@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Voinov"]
+[Black "NewTwist"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Hr6aBAzb"]
+[WhiteElo "2499"]
+[BlackElo "2685"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:42:18"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. Be3 Bd6 7. Qd2 O-O
+8. O-O-O a5 9. Nf3 a4 10. d5 c5 11. a3 Nd7 12. h4 Ne5 13. Nxe5 fxe5 14. h5 f5
+15. f4 e4 16. h6 g6 17. Qc3 Qe7 18. Bb5 Bd7 19. Qg7+ Qxg7 20. hxg7 Rf7 21. Bc4
+Kxg7 22. Rh3 b5 23. Be2 h5 24. Rg3 Rh8 25. Rh1 Kf6 26. Rg5 Rg7 27. Kb1 Kf7 28.
+c4 Rb8 29. cxb5 Bxb5 30. Bxb5 Rxb5 31. Rc1 Rg8 32. Rc4 Rgb8 33. Bc1 Bxf4 34.
+Bxf4 Rxb2+ 35. Kc1 Rb1+ 36. Kd2 R8b2+ 37. Rc2 Rxc2+ 38. Kxc2 Rb3 39. Bd6 Rd3
+40. Bxc5 Kf6 41. Be7+ Kxe7 42. Rxg6 Rxa3 43. d6+ Kd7 44. Rg5 Ra2+ 45. Kc3 Rf2
+46. Rxh5 a3 0-1
+

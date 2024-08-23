@@ -1,0 +1,39 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.04.21"]
+[Round "-"]
+[White "YTSirRobertPlayz"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rnbq1b2/ppp1n3/5r2/4NpkR/6P1/1PP1P3/PBKP1PP1/R2Q4 b - -"]
+[Timezone "UTC"]
+[ECO "A01"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Larsen-Attack"]
+[UTCDate "2024.04.21"]
+[UTCTime "21:05:31"]
+[WhiteElo "1978"]
+[BlackElo "1900"]
+[TimeControl "600"]
+[Termination "YTSirRobertPlayz won by checkmate"]
+[StartTime "21:05:31"]
+[EndDate "2024.04.21"]
+[EndTime "21:07:07"]
+[Link "https://www.chess.com/game/live/107472715297"]
+
+1. b3 { [%clk 0:10:00] } 1... g5 { [%clk 0:10:00] } 2. Na3 { [%clk 0:09:59.9] }
+2... h5 { [%clk 0:09:55.9] } 3. Nc4 { [%clk 0:09:59.5] } 3... f6
+{ [%clk 0:09:53.4] } 4. Nb2 { [%clk 0:09:58.9] } 4... Kf7 { [%clk 0:09:52.9] }
+5. c3 { [%clk 0:09:57.1] } 5... Kg6 { [%clk 0:09:47.8] } 6. e3
+{ [%clk 0:09:57] } 6... f5 { [%clk 0:09:47] } 7. Ke2 { [%clk 0:09:55.8] } 7...
+Rh7 { [%clk 0:09:45.7] } 8. Kd3 { [%clk 0:09:55.7] } 8... Rf7
+{ [%clk 0:09:45.2] } 9. Kc2 { [%clk 0:09:54.5] } 9... Rf6 { [%clk 0:09:44.6] }
+10. Nc4 { [%clk 0:09:52.8] } 10... e6 { [%clk 0:09:41.5] } 11. Bb2
+{ [%clk 0:09:50.3] } 11... d6 { [%clk 0:09:35.7] } 12. Nf3 { [%clk 0:09:49.1] }
+12... e5 { [%clk 0:09:34] } 13. Be2 { [%clk 0:09:44.7] } 13... Ne7
+{ [%clk 0:09:30.7] } 14. Nfxe5+ { [%clk 0:09:44.1] } 14... dxe5
+{ [%clk 0:09:29.5] } 15. Nxe5+ { [%clk 0:09:44] } 15... Kh6
+{ [%clk 0:09:26.7] } 16. Bxh5 { [%clk 0:09:39] } 16... g4 { [%clk 0:09:23.9] }
+17. h3 { [%clk 0:09:16.2] } 17... Kxh5 { [%clk 0:09:20.7] } 18. hxg4+
+{ [%clk 0:09:16.1] } 18... Kg5 { [%clk 0:09:17.5] } 19. Rh5# { [%clk 0:09:16] }
+1-0
+

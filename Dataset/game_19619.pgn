@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "BorisPlotnikov"]
+[Black "sadzin"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/D6M0UtDf"]
+[WhiteElo "2591"]
+[BlackElo "2497"]
+[ECO "E62"]
+[Opening "King's Indian Defense: Fianchetto Variation, Larsen Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:49:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 g6 3. g3 Bg7 4. Bg2 O-O 5. Nc3 d6 6. Nf3 c6 7. O-O Bf5 8. Ne1
+Be6 9. b3 d5 10. c5 b6 11. Nd3 Nfd7 12. cxb6 axb6 13. e3 Nf6 14. a4 Nbd7 15.
+Ba3 Bf5 16. Rc1 Re8 17. Nb4 Rc8 18. Qe2 e5 19. dxe5 Nxe5 20. Qd2 Ne4 21. Nxe4
+Bxe4 22. Bb2 Nf3+ 23. Bxf3 Bxf3 24. Bxg7 Kxg7 25. Nxc6 Qd7 26. Nd4 Be4 27. f3
+Bf5 28. Kf2 h5 29. h4 Be6 30. Rxc8 Rxc8 31. Rc1 Qd6 32. Rxc8 Bxc8 33. Qc3 Qc5
+34. Ne6+ 1-0
+

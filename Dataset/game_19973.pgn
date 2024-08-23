@@ -1,0 +1,37 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "BitByByte"]
+[Black "YoBot_v2"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/5EieITka"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2896"]
+[BlackElo "3058"]
+[ECO "D38"]
+[Opening "Queen's Gambit Declined: Ragozin Defense"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:39:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. Qb3 c5 8.
+cxd5 exd5 9. dxc5 Bxc3+ 10. Qxc3 Qxc3+ 11. bxc3 Na6 12. c6 bxc6 13. Ne5 Bb7 14.
+Rb1 Nc5 15. Nd3 Nxd3+ 16. exd3 Bc8 17. Kd2 Bd7 18. Rb7 Ke7 19. Be2 Rhb8 20.
+Rhb1 Rxb7 21. Rxb7 Kd8 22. d4 a5 23. Ke3 Kc8 24. Rb6 Kc7 25. Ra6 Rxa6 26. Bxa6
+Kb6 27. Bd3 f6 28. Kf4 Be6 29. Kg3 g5 30. Kf3 Bd7 31. Ke2 Bg4+ 32. Kd2 Bh5 33.
+Bf5 Kb5 34. g3 Ka4 35. Bd7 Kb5 36. Bf5 Bf3 37. Bc2 Bg4 38. Bb3 Bf3 39. Ke3 Be4
+40. a3 Bg6 41. h4 Be4 42. hxg5 hxg5 43. f4 Bg6 44. Kf3 Bh5+ 45. Ke3 Bg4 46. Kd2
+gxf4 47. gxf4 Bf3 48. Ke3 Be4 49. Kd2 Bf5 50. Ke3 Bg4 51. Kd3 Bf5+ 52. Ke3 Be6
+53. Kd2 Bg4 54. a4+ Ka6 55. Bd1 Bc8 56. Be2+ Kb7 57. Ke3 Kc7 58. Bd3 Be6 59.
+Kf3 Bc8 60. Bb1 Bd7 61. Bc2 c5 62. Kg3 cxd4 63. cxd4 Kd6 64. Kf3 Ke6 65. Bd1
+Be8 66. Bc2 Bc6 67. Kg3 Kf7 68. Bb3 Ke6 69. Bc2 Bd7 70. Kf2 Kd6 71. Ke3 Be8 72.
+Kd2 Ke6 73. Ke3 Bh5 74. Kd2 Ke7 75. Ke3 Ke6 76. Kd2 Kd6 77. Ke1 Bg4 78. Kd2 Bh5
+79. Ke1 Be8 80. Kd2 Bf7 81. Ke1 Bh5 82. Kd2 Ke7 83. Ke3 Bg4 84. Kd2 Kd6 85. Ke3
+Ke6 86. Kf2 Bh5 87. Ke3 Ke7 88. Kd2 Ke6 89. Ke3 Kd7 90. Kd2 Ke8 91. Bb3 Bf7 92.
+Kc3 Kd7 93. Bc2 Bh5 94. Kd2 Ke7 1/2-1/2
+

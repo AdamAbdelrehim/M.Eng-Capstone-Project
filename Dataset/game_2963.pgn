@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "TechnicalTrader"]
+[Black "NothingSpecialBTW"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/9CrgqxtM"]
+[WhiteElo "2456"]
+[BlackElo "2506"]
+[ECO "C16"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:41:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. a3 Bf8 6. Qg4 h5 7. Qd1 c5 8. f4 Nh6
+9. Qxh5 cxd4 10. Nb5 Nc6 11. Nf3 g6 12. Qh3 Ba6 13. Nbxd4 Nxd4 14. Nxd4 Bxf1
+15. Rxf1 Qc7 16. Qb3 O-O-O 17. h3 Nf5 18. Nxf5 gxf5 19. Be3 Rg8 20. Rf2 d4 21.
+Bd2 d3 22. O-O-O Bc5 23. Rf3 dxc2 24. Qxc2 Rxg2 25. Kb1 Qb7 26. b4 Qxf3 27.
+bxc5 Qe4 28. cxb6+ Qxc2+ 29. Kxc2 axb6 30. h4 Rh2 31. h5 Rxh5 32. Rc1 Rh2 33.
+Kb3+ Kb7 34. Bb4 Rd3+ 35. Ka4 Ka6 36. Rc6 Rf2 37. Be7 Rxf4+ 38. Bb4 Rc4 39.
+Rxb6+ Ka7 40. Kb5 Rd5+ 41. Kxc4 Kxb6 42. Bd6 f4 43. Bb4 f3 44. Be1 Rxe5 45. Bg3
+Rd5 46. a4 Ka5 47. Be1+ Kxa4 48. Bg3 Rf5 49. Bf2 Rd5 50. Kc3 f5 51. Bg3 e5 52.
+Kc4 f4 53. Bf2 Rd2 54. Be1 f2 55. Bxd2 f1=Q+ 56. Kc3 Qe2 57. Kc2 f3 58. Kc3 f2
+59. Bc1 f1=Q 60. Bd2 Qd3+ 61. Kb2 Qfb1# 0-1
+

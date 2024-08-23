@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "lew_777"]
+[Black "Predator_Shark"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/bc0rr30e"]
+[WhiteElo "2504"]
+[BlackElo "2504"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:29:25"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 e5 5. Nb3 Nc6 6. Nc3 Be6 7. f3 Nf6 8. Be3
+Be7 9. Qd2 O-O 10. Bd3 a5 11. a4 Nb4 12. O-O d5 13. exd5 Nfxd5 14. Nxd5 Qxd5
+15. Nc1 Rfd8 16. Qe2 Nxd3 17. Nxd3 Rac8 18. Rac1 f6 19. Rfd1 Qc6 20. h3 Qxa4
+21. b3 Qb5 22. Qf2 a4 23. bxa4 Qxa4 24. c3 Bf5 25. Nb2 Qa2 26. c4 Ba3 27. Nd3
+Qxf2+ 28. Nxf2 Bxc1 29. Rxc1 Be6 30. c5 f5 31. f4 e4 32. Kh2 Kf7 33. Rb1 Rd7
+34. g4 g6 35. gxf5 gxf5 36. Rg1 Rg8 37. Rc1 Ra8 38. c6 bxc6 39. Rxc6 Ra3 40.
+Bc1 Ra2 41. Kg3 Kf6 42. Rb6 Rg7+ 43. Kh4 Rxf2 44. Bb2+ Rxb2 45. Rxb2 Rd7 46.
+Kg3 Rd3+ 47. Kg2 Ke7 48. Rb7+ Rd7 49. Rb2 Kd6 50. Kf2 Kc5 51. Rc2+ Bc4 52. h4
+Rd3 53. Rc1 Kd4 54. Ra1 e3+ 55. Kf3 e2+ 56. Kf2 Rd1 57. Rxd1+ exd1=N+ 58. Kg3
+Ke3 59. Kh3 Kxf4 60. h5 Ne3 61. Kh2 Kg4 62. Kg1 Kxh5 63. Kf2 Kg4 64. Kxe3 f4+
+65. Kf2 f3 66. Ke1 Kg3 67. Kd2 f2 68. Ke3 Bd3 69. Kd4 f1=Q 70. Ke3 Bb1 71. Kd4
+Qf3 72. Ke5 Qe4+ 73. Kd6 h5 74. Kc5 h4 75. Kd6 h3 76. Kc5 Qd3 77. Kc6 h2 78.
+Kc5 h1=Q 79. Kb6 Qhd5 80. Kc7 Q3c4+ 81. Kb6 Qdb5+ 82. Ka7 Qca4# 0-1
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Chessibague"]
+[Black "Felix_Kuznetsov"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/FeOhcyzy"]
+[WhiteTitle "IM"]
+[BlackTitle "FM"]
+[WhiteElo "2568"]
+[BlackElo "2687"]
+[ECO "A45"]
+[Opening "Trompowsky Attack: Classical Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:58:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. Bg5 e6 3. Nd2 h6 4. Bh4 d5 5. e3 Be7 6. Bd3 O-O 7. c3 c5 8. f4
+Nbd7 9. Nh3 b6 10. O-O Bb7 11. g4 Ne4 12. Be1 f5 0-1
+

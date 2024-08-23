@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "cibona"]
+[Black "MarkusMaischberger"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/XIDZKTQp"]
+[WhiteElo "2537"]
+[BlackElo "2508"]
+[ECO "C41"]
+[Opening "Philidor Defense: Lion Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:53:35"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. O-O O-O 7. Re1 c6 8. a4
+a5 9. h3 h6 10. Be3 Nh7 11. Qd3 Ng5 12. Nh2 exd4 13. Bxd4 Ne5 14. Qe2 Nxc4 15.
+Qxc4 Be6 16. Qe2 Bf6 17. Rad1 Bxd4 18. Rxd4 Qb6 19. Qd2 Rfd8 20. f4 Nh7 21. f5
+Bc8 22. Kh1 Qxb2 23. Ng4 d5 24. Rd3 Qb4 25. Rg3 d4 26. Nxh6+ Kf8 27. f6 Nxf6
+28. Qg5 gxh6 29. Qxf6 Qd6 30. Qg7+ Ke7 31. Rf1 Be6 32. e5 Qb4 33. Ne4 Qc4 34.
+Qf6+ Kd7 35. Nd6 Qd5 36. Rg7 Kc7 37. Nxf7 Rd7 38. Nd6 Rxg7 39. Qxg7+ Bd7 40.
+Rf7 Qe6 41. Re7 Rg8 42. Rxd7+ Kb6 43. Rxb7+ Kc5 44. Ne4+ Kc4 45. Qf6 Qxf6 46.
+Nxf6 Rxg2 47. Kxg2 d3 48. e6 Kd4 49. e7 Kc3 50. e8=Q Kd2 0-1
+

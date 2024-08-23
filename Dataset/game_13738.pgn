@@ -1,0 +1,32 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "jpg-bot"]
+[Black "Lynx_BOT"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Bo3CPghc"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2336"]
+[BlackElo "2561"]
+[ECO "C10"]
+[Opening "French Defense: Paulsen Variation"]
+[TimeControl "600+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:19:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+
+1. e4 e6 2. d4 d5 3. Nc3 a6 4. Nf3 Bb4 5. e5 h6 6. Bd3 c5 7. O-O c4 8. Be2 Nc6
+9. Qd2 Nge7 10. b3 Nf5 11. Bb2 O-O 12. bxc4 dxc4 13. Rad1 b5 14. a3 Ba5 15. h3
+Bb7 16. Qf4 Nce7 17. g4 Ng6 18. Qc1 Bxf3 19. Bxf3 Nxd4 20. Bxa8 Qxa8 21. Rxd4
+Nh4 22. f3 Nxf3+ 23. Rxf3 Qxf3 24. Qf4 Qxh3 25. Qh2 Qe3+ 26. Qf2 Qxf2+ 27. Kxf2
+Bb6 28. Ne4 Rd8 29. Nd6 Kh7 30. Ke3 Kg6 31. Bc3 Bxd4+ 32. Kxd4 Kg5 33. Ba5 Rf8
+34. Bb4 Rb8 35. Nxf7+ Kxg4 36. Bd6 Ra8 37. Ke3 h5 38. Kf2 Rc8 39. c3 h4 40. Kg2
+a5 41. Kh2 Kh5 42. Kg2 g5 43. Nxg5 Kxg5 44. Kh3 Kf4 45. Be7 Rg8 46. Bc5 Rg3+
+47. Kxh4 Rxc3 48. Bd4 Rxa3 49. Bb2 Ra2 50. Bc1+ Kxe5 51. Kg4 c3 52. Bh6 b4 53.
+Kg5 Kd5 54. Kf6 b3 55. Ke7 b2 56. Kd8 b1=Q 57. Kc8 Rg2 58. Bf8 Rg8 59. Kd7 Qb7+
+60. Ke8 Qh7 61. Kd8 Rxf8# 0-1
+

@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Fierece_Knight"]
+[Black "shooshoo"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ik0o5HKD"]
+[WhiteElo "2479"]
+[BlackElo "2551"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:36:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+8"]
+
+1. b3 d5 2. Bb2 Bg4 3. h3 Bh5 4. g4 Bg6 5. Bg2 Nc6 6. h4 h5 7. g5 e5 8. e3 Nge7
+9. Nf3 f6 10. gxf6 gxf6 11. d3 Qd7 12. Nbd2 O-O-O 13. Qe2 Bf5 14. O-O-O Bg4 15.
+Qf1 Bh6 16. Re1 Rhg8 17. Kb1 Nb4 18. Rg1 Qc6 19. Rc1 Qa6 20. Ba3 Qxa3 0-1
+

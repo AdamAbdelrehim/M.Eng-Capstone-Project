@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "PurpleHunter"]
+[Black "fornax-engine"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/9VASxpjC"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2595"]
+[BlackElo "2360"]
+[ECO "E10"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:42:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Nc6 4. Nc3 d5 5. e3 g6 6. b3 Bb4 7. Bd2 O-O 8. a3
+Bxc3 9. Bxc3 a5 10. Be2 b6 11. O-O Ba6 12. Qc2 Ne4 13. Bb2 Qd6 14. Rac1 f5 15.
+Rfe1 Nd8 16. cxd5 Qxd5 17. Bxa6 Rxa6 18. Ne5 Ra7 19. f3 Nf6 20. e4 Qd6 21. Qd2
+fxe4 22. fxe4 Nd7 23. Nxd7 Qxd7 24. d5 Re8 25. Qc3 e5 26. Qg3 Qe7 27. Rf1 Nf7
+28. Rf5 Kh8 29. Rf2 Nd6 30. Qg4 a4 31. b4 Raa8 32. Rfc2 Rac8 33. Rc6 b5 34. h3
+Kg8 35. R1c5 Red8 36. Bc3 Kf7 37. h4 Kg8 38. h5 Re8 39. Bd2 Qf6 40. Bh6 Rb8 41.
+Rc3 Rf8 42. Bxf8 Rxf8 43. Rf3 Qe7 44. Qe6+ Qxe6 45. Rxf8+ Kxf8 46. dxe6 gxh5
+47. Rxc7 Nc4 48. Kh2 Nxa3 49. Kh3 Nc4 50. Kh4 Nd6 51. Rxh7 Nxe4 52. Ra7 Nc3 53.
+Kg5 e4 54. Kf4 h4 55. Ke3 Nd5+ 56. Kxe4 Nxb4 57. Ra5 Nc6 58. Rxb5 a3 59. Rb6 a2
+60. Ra6 Ke7 61. Ra3 Kxe6 62. Rxa2 Ne7 63. Kf4 Nd5+ 64. Kg4 Ke5 65. Kxh4 Nc3 66.
+Ra5+ Kf6 67. g4 Kg6 68. g5 Ne4 69. Ra6+ Kg7 70. Kh5 Ng3+ 71. Kg4 Ne4 72. Rc6
+Nxg5 73. Kxg5 Kf7 74. Rf6+ Ke7 75. Kg6 Kd7 76. Kf7 Kc7 77. Ke7 Kc8 78. Kd6 Kb7
+79. Kd7 Kb8 80. Kc6 Kc8 81. Rf8# 1-0
+

@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "The_Vengeful_One"]
+[Black "ChesterF"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/BPcQEEMI"]
+[BlackTitle "IM"]
+[WhiteElo "2535"]
+[BlackElo "2540"]
+[ECO "E10"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:30:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Qd2 Bxd2+ 0-1
+

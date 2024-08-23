@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "bancsoo"]
+[Black "Aggressive-Python"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/dqZm0MAF"]
+[WhiteTitle "GM"]
+[WhiteElo "2808"]
+[BlackElo "2771"]
+[ECO "D03"]
+[Opening "Queen's Pawn Game: Torre Attack, Gossip Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:37:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+8"]
+
+1. Nf3 Nf6 2. d4 d5 3. Bg5 Ne4 4. Bh4 Bf5 5. e3 c6 6. c4 Qa5+ 7. Nbd2 e6 8. a3
+Nxd2 9. Qxd2 Qxd2+ 10. Kxd2 Nd7 11. Bd3 Bxd3 12. Kxd3 Be7 13. Bg3 Nf6 14. Nd2
+Kd7 15. Rhc1 Bd6 16. Bh4 h6 17. Bxf6 gxf6 18. e4 dxe4+ 19. Nxe4 f5 20. Nc3 Rag8
+21. g3 h5 22. Rd1 h4 23. Ke2 hxg3 24. hxg3 Rh2 25. Kf3 f4 26. Ne4 Rg6 27. gxf4
+Rh3+ 28. Ng3 Rh4 29. Ne2 Bxf4 30. Rh1 Rxh1 31. Rxh1 Bd6 32. Rh7 Ke7 33. Nc3
+Rf6+ 34. Ke3 Bf4+ 35. Ke2 Rg6 36. Ne4 Bc1 37. Rh3 f5 38. Nc5 b6 39. Nd3 Rg1 40.
+Rh7+ Kf6 41. Ne5 Rg7 42. Rh6+ Ke7 43. Nxc6+ Kd6 44. d5 Bxh6 0-1
+

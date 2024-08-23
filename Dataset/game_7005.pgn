@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Amarilogy"]
+[Black "Samweiss99"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/CpcRNZsq"]
+[WhiteElo "2333"]
+[BlackElo "2502"]
+[ECO "A48"]
+[Opening "East Indian Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:01:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. Nf3 g6 2. d4 Nf6 3. Nc3 d5 4. Bg5 Bg7 5. Bxf6 Bxf6 6. e4 dxe4 7. Nxe4 Bg7 8.
+Bc4 O-O 9. c3 Nc6 10. h4 e5 11. d5 Na5 12. Be2 c6 13. d6 Be6 14. Nfg5 Bd5 15.
+Nd2 b5 0-1
+

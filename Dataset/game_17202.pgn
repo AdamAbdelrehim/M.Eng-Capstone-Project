@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Train_account"]
+[Black "Egor_Vladimirovich"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/mLp0rNnG"]
+[WhiteElo "2598"]
+[BlackElo "2502"]
+[ECO "E61"]
+[Opening "King's Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:40:55"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e3 O-O 5. Bd3 d5 6. cxd5 Nxd5 7. Nf3 c5 8. O-O
+cxd4 9. exd4 Nc6 10. Be4 Nf6 11. Bc2 Bg4 12. Be3 Nb4 13. Bb3 Nbd5 14. h3 Nxe3
+15. fxe3 Bf5 16. g4 Be4 17. Ne5 Bd5 18. Nxd5 Nxd5 19. Nxf7 Rxf7 20. Rxf7 Kxf7
+21. Qf3+ Kg8 22. Qxd5+ Qxd5 23. Bxd5+ Kh8 24. Bxb7 Rb8 25. Rc1 Bh6 26. Rc7
+Bxe3+ 27. Kg2 Bxd4 28. b3 Bf6 29. Ba6 Bd4 30. Rxe7 Bb6 31. Bc4 Rf8 32. a4 Bc5
+33. Rc7 Bb6 34. Rb7 Bc5 35. b4 Be3 36. a5 Bd4 37. b5 Be3 38. b6 axb6 39. a6 b5
+40. Bxb5 Rf2+ 41. Kg3 Ra2 42. Kf3 1-0
+

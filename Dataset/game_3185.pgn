@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "mick_chess"]
+[Black "bancsoo"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/lXVBZOVL"]
+[BlackTitle "GM"]
+[WhiteElo "2737"]
+[BlackElo "2795"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:13:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 e5 2. Nf3 d6 3. Be2 Nf6 4. Nc3 Be7 5. O-O O-O 6. d4 exd4 7. Qxd4 Nc6 8.
+Qd1 Re8 9. Re1 Bf8 10. Bf1 a6 11. h3 g6 12. Bf4 Bg7 13. Bh2 Nd7 14. Qd2 Nde5
+15. Nxe5 Nxe5 16. Rad1 Be6 17. a3 Nc4 18. Bxc4 Bxc4 19. Bf4 Qd7 20. e5 Rad8 21.
+exd6 Rxe1+ 22. Qxe1 cxd6 23. Rxd6 Qc8 24. Rxd8+ Qxd8 25. Qe4 Qc8 26. Be5 Bf8
+27. Qf4 f5 28. Bd4 Qe6 29. Qc7 Bd6 30. Qg7# 1-0
+

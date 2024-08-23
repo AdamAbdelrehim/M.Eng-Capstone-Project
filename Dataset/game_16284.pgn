@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "vogelj"]
+[Black "BulletCoach"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ldBu0iGS"]
+[WhiteElo "2465"]
+[BlackElo "2532"]
+[ECO "B74"]
+[Opening "Sicilian Defense: Dragon Variation, Classical Variation, Tartakower Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:48:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be2 Bg7 7. O-O O-O 8.
+Be3 Nc6 9. Nb3 Be6 10. f4 Qc8 11. Kh1 Rb8 12. a4 Bg4 13. a5 Rd8 14. Bf3 Bxf3
+15. Qxf3 Qg4 16. Qf2 Qh5 17. Qg3 Rbc8 18. Bg1 Nb4 19. Rac1 a6 20. Bb6 Re8 21.
+h3 Rc4 22. Qe1 Rec8 23. Nd2 R4c6 24. Nb3 Rxc3 25. bxc3 Na2 26. Ra1 Nxc3 27. Bd4
+Nfxe4 28. Bxg7 Kxg7 29. Nd4 e5 30. fxe5 dxe5 31. Nf3 f6 32. Ra3 Ne2 33. Nd2
+N4g3+ 34. Rxg3 Nxg3+ 35. Qxg3 Rxc2 36. Ne4 Rc6 37. Qb3 b5 38. axb6 Qe2 39. Rb1
+Rc2 40. Rg1 Rb2 41. Qd5 Rxb6 42. Qd7+ Kh6 43. Nd6 Rb2 44. Nf7+ Kh5 45. Nd6 h6
+46. Qe6 f5 47. Nxf5 gxf5 48. Qxf5+ Kh4 49. g3# 1-0
+

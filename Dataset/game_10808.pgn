@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "veselchak-u"]
+[Black "Caminero85"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/8NZDKDq7"]
+[WhiteElo "2543"]
+[BlackElo "2732"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:34:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Qf6 5. h3 Bf5 6. Nf3 Nc6 7. O-O h6 8.
+Re1+ Be7 9. Bxf5 Qxf5 10. Ne5 Nxe5 11. Rxe5 Qd7 12. Nc3 c6 13. Qe2 O-O-O 14.
+Qd3 Bd6 15. Re1 Ne7 16. Bd2 Rhe8 17. a3 Ng6 18. b4 Rxe1+ 19. Rxe1 Re8 20. b5
+Rxe1+ 21. Bxe1 Nf4 22. Qh7 Qe6 23. Bd2 Qg6 24. Qxg6 Nxg6 25. a4 Ne7 26. g4 Kd7
+27. Kg2 Nc8 28. bxc6+ bxc6 29. Ne2 Nb6 30. a5 Nc4 31. Bc3 a6 32. Nc1 g6 33. Nb3
+Ke6 34. Kf3 h5 35. Ke2 Kf6 36. f4 Bxf4 37. Nc5 Bc7 38. Nxa6 Bxa5 39. Bxa5 Nxa5
+40. gxh5 gxh5 41. Nb8 Ke6 42. Kf3 Kd6 43. Kf4 Nc4 44. Na6 f6 45. Nc5 Na3 46. c3
+Nb1 47. Na4 Ke6 48. Nc5+ Kf7 49. Kf5 Nxc3 50. Ne6 Nb5 51. Nd8+ Ke7 52. Nxc6+
+Kd6 53. Nb4 Nxd4+ 54. Kxf6 Nc6 55. Nd3 d4 56. Kg5 Ne5 57. Ne1 Kd5 58. Kxh5 Ke4
+59. Kg5 Nf3+ 60. Nxf3 Kxf3 61. h4 d3 62. h5 d2 63. Kg6 d1=Q 64. h6 Qa1 65. Kh7
+Qf6 66. Kg8 Qxh6 67. Kf7 Ke4 68. Ke7 Ke5 69. Kd7 Qg7+ 70. Kc8 Qe7 71. Kb8 Kd6
+72. Ka8 Kc6 73. Kb8 Qb7# 0-1
+

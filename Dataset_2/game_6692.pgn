@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.16"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "wonkawonka"]
+[Result "0-1"]
+[CurrentPosition "rnb1kb1r/1p2pppp/p2p4/8/4P1n1/1NN5/PPPB1qPP/R2QKB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "B90"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Open-Najdorf-Anti-English-Variation"]
+[UTCDate "2022.11.16"]
+[UTCTime "16:10:19"]
+[WhiteElo "1847"]
+[BlackElo "1882"]
+[TimeControl "600"]
+[Termination "wonkawonka won by checkmate"]
+[StartTime "16:10:19"]
+[EndDate "2022.11.16"]
+[EndTime "16:10:58"]
+[Link "https://www.chess.com/game/live/62353870961"]
+
+1. e4 { [%clk 0:09:57.3] } 1... c5 { [%clk 0:09:59.2] } 2. Nf3
+{ [%clk 0:09:54.7] } 2... d6 { [%clk 0:09:58] } 3. d4 { [%clk 0:09:49.3] } 3...
+cxd4 { [%clk 0:09:57.9] } 4. Nxd4 { [%clk 0:09:47.8] } 4... Nf6
+{ [%clk 0:09:56.4] } 5. Nc3 { [%clk 0:09:46.9] } 5... a6 { [%clk 0:09:55] } 6.
+Be3 { [%clk 0:09:46] } 6... Ng4 { [%clk 0:09:53] } 7. Bd2 { [%clk 0:09:40.2] }
+7... Qb6 { [%clk 0:09:51.1] } 8. Nb3 { [%clk 0:09:37.1] } 8... Qxf2#
+{ [%clk 0:09:48] } 0-1
+

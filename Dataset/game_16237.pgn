@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "fsalguero"]
+[Black "ItwasBarzini"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/17vcRfAq"]
+[WhiteTitle "FM"]
+[WhiteElo "2527"]
+[BlackElo "2583"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:32:51"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. d4 e6 2. Nf3 b6 3. e4 Bb7 4. Bd3 h6 5. O-O g6 6. c4 Bg7 7. Re1 d6 8. d5 e5
+9. Nc3 a5 10. a3 Nd7 11. Rb1 Ngf6 12. b4 Nh5 13. g3 O-O 14. Nh4 Nf4 15. Bf1 Kh7
+16. Nf3 Nh5 17. Nd2 Bc8 18. Nb3 axb4 19. axb4 Ndf6 20. Be2 Bh3 21. c5 bxc5 22.
+bxc5 Qd7 23. c6 Qc8 24. f3 Ng8 25. Be3 f5 26. Bf2 Ngf6 27. Nd2 Ra3 28. Qc1 Rxc3
+29. Qxc3 f4 30. Rb7 fxg3 31. hxg3 Nxg3 32. Bxg3 Nh5 33. Bh2 Qd8 34. Bf1 Qg5+
+35. Kh1 Qh4 36. Qe3 Bxf1 37. Nxf1 Rf7 38. Re2 Bf6 39. Qf2 Qg5 40. Qe3 Qh4 41.
+Qf2 Qh3 42. Qg2 Qc8 43. Qg4 Qa8 44. Qe6 Rg7 45. Rg2 Qa1 46. Rg1 Qd1 47. Qg4 Qe2
+48. Rxc7 Bg5 49. Rxg7+ Kxg7 50. c7 Nf6 51. c8=Q Nxg4 52. Qxg4 Kf7 53. Qe6+ Kg7
+54. Qd7+ Kg8 55. Qg4 Kh8 56. Ng3 Qf2 57. Rb1 Be3 58. Rb8+ Kg7 59. Qd7+ Kf6 60.
+Qe6+ Kg5 61. Qg4+ Kf6 62. Rb1 h5 63. Qe6+ Kg7 64. Nf5+ gxf5 65. Rb7+ Kf8 66.
+Qxd6+ Kg8 67. Qe6+ Kh8 68. Qxe5+ Kg8 69. Qe6+ Kh8 70. Be5# 1-0
+

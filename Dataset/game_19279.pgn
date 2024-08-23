@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "nubbelonair"]
+[Black "Lintchevski_Daniil"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/7d29w6RF"]
+[BlackTitle "GM"]
+[WhiteElo "2549"]
+[BlackElo "2949"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:54:21"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+2"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. e5 d4 5. Bd3 Bd7 6. Be4 Bc6 7. d3 Bxe4 8. dxe4
+Nc6 9. O-O Nge7 10. Bf4 Ng6 11. Bg3 h5 12. h3 h4 13. Bh2 Be7 14. Qb3 Qb6 15.
+Na3 Qxb3 16. axb3 dxc3 17. bxc3 O-O-O 18. Nc4 b6 19. b4 cxb4 20. cxb4 Bxb4 21.
+Ng5 Rhf8 22. f4 Be7 23. Nd6+ Bxd6 24. exd6 Kd7 25. f5 exf5 26. exf5 Nge5 27.
+Bxe5 Nxe5 28. Rxa7+ Kxd6 29. Rd1+ Kc6 30. Rc1+ Kb5 31. Rb1+ Kc6 32. Rc1+ Kb5
+33. Rb1+ Kc5 0-1
+

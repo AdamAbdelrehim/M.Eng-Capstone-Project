@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "alfredogto"]
+[Black "cedchass25"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/bgUeUHhi"]
+[BlackTitle "FM"]
+[WhiteElo "2648"]
+[BlackElo "2611"]
+[ECO "A07"]
+[Opening "King's Indian Attack: Keres Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:03:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+7"]
+
+1. Nf3 d5 2. g3 Bg4 3. Bg2 Nd7 4. d4 Ngf6 5. h3 Bh5 6. O-O e6 7. b3 Bd6 8. Bb2
+Kf8 9. c4 c6 10. g4 Bg6 11. Ne5 Qc7 12. f4 Be4 13. Nc3 Bxg2 14. Kxg2 Ke7 15. c5
+Bxe5 16. fxe5 Ne4 17. Nxe4 dxe4 18. Qc2 Raf8 19. Qxe4 f6 20. Rf3 fxe5 21. dxe5
+Kd8 22. Rd1 Kc8 23. Qa4 Rxf3 24. exf3 Kb8 25. Qd4 Kc8 26. Qc4 Re8 27. Rd6 Nf8
+28. Qa4 Kb8 29. Qd4 Qe7 30. Bc1 Kc8 31. Bf4 Nd7 32. b4 a6 33. Qd2 Rf8 34. Bg5
+Qf7 35. Qd3 Kc7 36. a4 Nxe5 37. Qe4 Qxf3+ 38. Qxf3 Nxf3 39. Be3 Ne1+ 40. Kg1
+Re8 41. Bf4 e5 42. Bg3 Nc2 43. b5 axb5 44. axb5 cxb5 45. Rd2 Nb4 46. Re2 Nc6
+47. Bh4 h6 48. Rb2 b4 49. Bg3 Re6 50. Kg2 Kd7 51. Kf3 Nd4+ 52. Ke4 Kc6 53. Bf2
+Nb5 54. Rxb4 Nc3+ 55. Kd3 Nd5 56. Rb2 Re8 57. Ke4 Nc3+ 58. Kd3 Nd5 59. Kc4 Ra8
+60. Be3 Ra4+ 61. Kd3 Ra1 62. Ke4 Ra4+ 63. Kf5 Nxe3+ 64. Kxe5 Nc4+ 65. Ke6 Nxb2
+66. Kf7 Kxc5 67. g5 Ra3 68. g6 Rxh3 69. Kxg7 Rg3 70. Kh7 h5 71. Kh8 Rxg6 72.
+Kh7 Rg1 73. Kh8 h4 74. Kh7 h3 75. Kh6 h2 76. Kh5 h1=Q# 0-1
+

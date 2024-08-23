@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Weiawaga"]
+[Black "PurpleHunter"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/43CvQneB"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2657"]
+[BlackElo "2644"]
+[ECO "E19"]
+[Opening "Queen's Indian Defense: Classical Variation, Traditional Variation, Main Line"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:11:35"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. g3 Bb7 5. Bg2 Be7 6. O-O O-O 7. Nc3 Ne4 8. Qc2
+Nxc3 9. Qxc3 c5 10. Bf4 d6 11. Qd3 Nc6 12. Rad1 Qc8 13. d5 Nb4 14. Qb1 e5 15.
+Bc1 Qg4 16. a3 Na6 17. e4 Bc8 18. Nd2 Qh5 19. Qd3 f5 20. exf5 Bxf5 21. Ne4 Nc7
+22. Rde1 Ne8 23. f3 Qg6 24. g4 Bxe4 25. Qxe4 Bh4 26. Qxg6 hxg6 27. Re2 g5 28.
+Bd2 a5 29. a4 Nc7 30. Rc1 Na6 31. Rc3 Kf7 32. Bf1 Ke7 33. Re4 Rf7 34. Kg2 Raf8
+35. Rce3 Nb4 36. Bd3 Nxd3 37. Rxd3 Kd8 38. b3 Kc7 39. Re2 Rf6 40. h3 R6f7 41.
+Ree3 Rf4 42. Bc3 Kd8 43. Rd2 Kd7 44. Ra2 Ke8 45. Ra1 Kf7 46. Re4 Kg8 47. Rf1
+Rxe4 48. fxe4 Rf4 49. Rxf4 gxf4 50. Kf3 g5 51. Kg2 Kf8 52. Bd2 Ke8 53. Kh1 Kd7
+54. Kg1 Ke8 55. Kf1 Kd7 56. Bc1 Bg3 57. Bd2 Bh4 58. Bc1 Bg3 59. Ke2 Ke8 60. Kd1
+Kf8 61. Ke2 Bh4 62. Kf3 Be1 63. Ke2 Bc3 64. Kf2 Kg8 65. Ke2 Kh8 66. Kd3 Bb4 67.
+Ke2 Kg8 68. Kf3 Kf8 69. Ke2 Ke7 70. Kf3 Kf6 71. Ke2 Kg6 72. Kf3 Kh7 73. Bb2 Kg6
+74. h4 gxh4 75. Bxe5 Bd2 76. Bxf4 Bxf4 77. Kxf4 Kh6 78. Kf3 Kg7 79. e5 dxe5 80.
+d6 Kf6 81. g5+ Ke6 82. g6 Kxd6 83. g7 h3 84. g8=Q h2 85. Qd5+ 1-0
+

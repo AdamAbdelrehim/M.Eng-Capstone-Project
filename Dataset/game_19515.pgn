@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "AlexD64"]
+[Black "Godfroi"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/8WwG5zFj"]
+[WhiteElo "2550"]
+[BlackElo "2621"]
+[ECO "B17"]
+[Opening "Caro-Kann Defense: Karpov Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:31:30"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nd7 5. Bd3 Ngf6 6. Nxf6+ Nxf6 7. Nf3 Bg4
+8. c3 e6 9. h3 Bh5 10. Bf4 Bd6 11. Bxd6 Qxd6 12. g4 Bg6 13. Ne5 Nd7 14. Nxg6
+hxg6 15. Qf3 Nf6 16. O-O O-O-O 17. Rad1 Nd5 18. Rfe1 Nf4 19. Bf1 g5 20. b4 f5
+21. Re5 Rh4 22. gxf5 exf5 23. Rde1 Qg6 24. b5 g4 25. Qg3 Nxh3+ 26. Bxh3 Rxh3
+27. Qg2 Rdh8 28. bxc6 Rh1+ 29. Qxh1 Rxh1+ 30. Kxh1 Qxc6+ 31. Kg1 Kd8 32. Rxf5
+Qxc3 33. Ree5 g3 34. d5 g6 35. Rg5 gxf2+ 36. Kxf2 Qc2+ 37. Kf3 Qxa2 38. Rxg6
+Qb3+ 39. Kf4 Qc4+ 40. Kf5 Qd3+ 41. Kf6 a5 42. Rg7 a4 43. Rh5 Qd4+ 44. Kg6 Qe4+
+0-1
+

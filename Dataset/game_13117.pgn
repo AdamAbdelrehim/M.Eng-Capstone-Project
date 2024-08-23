@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Blitz_Nik"]
+[Black "yoruv"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/GLc8DH3l"]
+[WhiteElo "2389"]
+[BlackElo "2529"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:58:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. f4 Nc6 2. Nf3 Nf6 3. g3 d6 4. d3 e5 5. e4 Bg4 6. Bg2 Be7 7. O-O Qd7 8. Nc3
+h5 9. Be3 h4 10. Qd2 hxg3 11. hxg3 Nh5 12. Qf2 a6 13. Nh2 Bh3 14. f5 Bxg2 15.
+Kxg2 Nf6 16. g4 Rxh2+ 0-1
+

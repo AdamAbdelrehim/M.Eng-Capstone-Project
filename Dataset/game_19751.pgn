@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Mikkel_Vinh"]
+[Black "hajeko"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Th8bteHT"]
+[WhiteTitle "CM"]
+[BlackTitle "CM"]
+[WhiteElo "2535"]
+[BlackElo "2517"]
+[ECO "C45"]
+[Opening "Scotch Game: Schmidt Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:06:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 dxc6 6. Nc3 Qxd1+ 7. Kxd1
+Ng4 8. Ke1 Bc5 9. Nd1 Be6 10. f3 Ne5 11. Be3 Be7 12. Nf2 O-O-O 13. a3 Nc4 14.
+Bxc4 Bxc4 15. Rd1 Bf6 16. Rxd8+ Rxd8 17. Nd1 a5 18. Bd2 a4 19. Bc3 Bg5 20. Kf2
+Bh6 21. Ne3 Be6 22. Re1 g6 23. g3 f5 24. exf5 gxf5 25. f4 Bf8 26. Rd1 Re8 27.
+Bd4 b6 28. Re1 b5 29. Nxf5 c5 30. Ng7 Bxg7 31. Bxg7 Bf7 32. Be5 Bg6 33. Re2 Rd8
+34. g4 Rd5 35. f5 Bf7 36. h4 b4 37. Kf3 Rd1 38. Kf4 h6 39. Bg7 Rf1+ 40. Ke5 Rg1
+41. Re4 h5 42. g5 bxa3 43. bxa3 Kd7 44. Kf6 Bd5 45. Rxa4 Rg4 46. Rxg4 hxg4 47.
+Bh6 g3 48. g6 g2 49. Be3 Ke8 50. h5 Kf8 51. h6 Kg8 52. Bxc5 Kh8 53. Kg5 Bg8 54.
+Bd4# 1-0
+

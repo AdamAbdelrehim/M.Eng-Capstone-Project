@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "GuilleRosario"]
+[Black "theberzerking"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/nuJI1Foe"]
+[WhiteElo "2541"]
+[BlackElo "2554"]
+[ECO "A69"]
+[Opening "Benoni Defense: Four Pawns Attack, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:35:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f4 d6 6. Nf3 c5 7. d5 e6 8. Be2 exd5
+9. cxd5 Re8 10. e5 dxe5 11. fxe5 Ng4 12. e6 fxe6 13. d6 Nc6 14. O-O Nd4 15. Ne4
+b6 16. Bg5 Qd7 17. Nxd4 Bxd4+ 18. Qxd4 cxd4 19. Bxg4 Kg7 20. Bf6+ Kh6 21. Rf3
+g5 22. Rh3+ Kg6 23. Rf1 h6 24. Bh5+ Kh7 25. Bxg5 Qc6 26. Bf3 Qb5 27. Rxh6+ Kg7
+28. Rh5 e5 29. Bf6+ Kg8 30. Ng5 1-0
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "okriak"]
+[Black "rdm89"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/VMMnILff"]
+[BlackTitle "FM"]
+[WhiteElo "2750"]
+[BlackElo "2650"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:32:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. Bg5 Ne4 3. Bf4 d5 4. Nd2 Nf6 5. e3 Bf5 6. Ngf3 e6 7. h3 h6 8. c4
+c6 9. Qb3 Qb6 10. c5 Qxb3 11. axb3 Nbd7 12. b4 a6 13. b5 cxb5 14. Bxb5 Rc8 15.
+Be2 g5 16. Bh2 Ne4 17. Nxe4 dxe4 18. Ne5 f6 19. Nc4 Nb8 20. Nb6 Rd8 21. Bc7 Rh7
+22. Bxd8 Kxd8 23. b4 Nd7 24. Nxd7 Rxd7 25. b5 axb5 26. Ra8+ 1-0
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "cocheverde"]
+[Black "DaanBrandenburg"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/TWju2t14"]
+[WhiteElo "2691"]
+[BlackElo "2590"]
+[ECO "D01"]
+[Opening "Rapport-Jobava System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:59:57"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bf4 e6 4. e3 Bd6 5. Qf3 O-O 6. g4 Bxf4 7. Qxf4 c5 8. g5
+Ne8 9. h4 Nc6 10. Nf3 Qd6 11. Qxd6 Nxd6 12. dxc5 Nf5 13. O-O-O a5 14. a4 Nfe7
+15. Nb5 Rd8 16. c3 Rb8 17. Bh3 e5 18. Bxc8 Rbxc8 19. Nd2 d4 20. exd4 exd4 21.
+Nf3 dxc3 22. Rxd8+ Nxd8 23. Nxc3 Rxc5 24. Rd1 Ndc6 25. Rd7 g6 26. Rxb7 Rc4 27.
+Kd2 Nf5 28. Rc7 Rf4 29. Rxc6 Rxf3 30. Ne4 Rb3 31. Rc8+ Kg7 32. Kc2 Nd4+ 33. Kb1
+Rf3 34. Nf6 Rxf6 35. gxf6+ Kxf6 36. Rc5 h5 37. Rxa5 Nf3 38. Rd5 Nxh4 39. a5 Nf5
+40. a6 Ne7 41. Rxh5 gxh5 42. a7 1-0
+

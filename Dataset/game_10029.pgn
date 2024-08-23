@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ReyGor"]
+[Black "unknownm8"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/GcCJgiTF"]
+[WhiteElo "2436"]
+[BlackElo "2538"]
+[ECO "C41"]
+[Opening "Philidor Defense: Lion Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:37:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. a4 O-O 7. h3 c6 8. Be3
+Nxe4 9. Nxe4 d5 10. Ba2 dxe4 11. Nxe5 Nxe5 12. dxe5 Qa5+ 13. Qd2 Qxe5 14. O-O-O
+Bf5 15. Bd4 Qc7 16. g4 Bg6 17. h4 h6 18. g5 h5 19. Qc3 Rfd8 20. Bxg7 Qf4+ 21.
+Kb1 Qxh4 22. Rxd8+ Rxd8 23. Bxf7+ Bxf7 24. Re1 Qxg5 25. Bd4 Qd5 26. Rg1+ Kf8
+27. Bxa7 Qa2+ 0-1
+

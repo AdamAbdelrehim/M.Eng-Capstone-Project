@@ -1,0 +1,32 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "yobot_v2"]
+[Black "Hoon_Bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/6FbfeZkk"]
+[BlackTitle "BOT"]
+[WhiteElo "3025"]
+[BlackElo "2907"]
+[ECO "D08"]
+[Opening "Queen's Gambit Declined: Albin Countergambit, Normal Line"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:45:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. Nf3 Nc6 5. a3 g6 6. Bg5 Qd7 7. Bf4 Bg7 8. g3 f6
+9. e6 Qd8 10. h4 Bxe6 11. Nbd2 Bh6 12. Qb3 Bxf4 13. gxf4 Qd7 14. Ne4 b6 15. Bg2
+O-O-O 16. Rc1 Qf7 17. Qa4 Nge7 18. O-O Kb8 19. c5 Bd5 20. cxb6 axb6 21. Nxd4
+Nxd4 22. Qxd4 Nf5 23. Qxf6 Qxf6 24. Nxf6 Bxg2 25. Kxg2 Rd2 26. Rfd1 Rxe2 27.
+Rd7 Rf8 28. Nd5 Rd2 29. Nxb6 Nd6 30. Rcxc7 Rxf4 31. Rb7+ Nxb7 32. Rxd2 Rxh4 33.
+b4 Kc7 34. Kg3 g5 35. Nd5+ Kc6 36. Ne3 Re4 37. Rc2+ Kb6 38. Nd5+ Ka7 39. Rc6 h5
+40. Kf3 Re5 41. Nc3 Nd8 42. Rh6 h4 43. a4 Nf7 44. Rh7 Re7 45. Kg2 Rb7 46. Rg7
+Ne5 47. Rxg5 Nd3 48. b5 Kb6 49. Rg6+ Ka7 50. Ra6+ Kb8 51. Rf6 Rg7+ 52. Kh2 Rc7
+53. Rf8+ Kb7 54. Ne4 Re7 55. f3 Ne5 56. Nc5+ Kb6 57. Nb3 Nf7 58. Kh3 Rd7 59.
+Kxh4 Re7 60. f4 Kc7 61. Kg4 Nd6 62. Rf6 Rg7+ 63. Kf3 Rh7 64. Nc5 Rh3+ 65. Kg4
+Rh8 66. b6+ Kc6 67. Ne4 Kxb6 68. Rxd6+ Ka5 69. f5 1-0
+

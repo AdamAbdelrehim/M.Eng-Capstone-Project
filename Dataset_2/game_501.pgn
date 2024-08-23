@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.26"]
+[Round "-"]
+[White "Jackga217"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r1bq3r/pppp1kpp/2n5/2b1n3/4P3/3P4/PPP2P1P/RNBQK2R w KQ -"]
+[Timezone "UTC"]
+[ECO "C42"]
+[ECOUrl "https://www.chess.com/openings/Petrovs-Defense-Urusov-Gambit"]
+[UTCDate "2021.02.26"]
+[UTCTime "04:48:06"]
+[WhiteElo "1130"]
+[BlackElo "1292"]
+[TimeControl "1800"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "04:48:06"]
+[EndDate "2021.02.26"]
+[EndTime "04:49:13"]
+[Link "https://www.chess.com/game/live/8053999235"]
+
+1. e4 { [%clk 0:30:00] } 1... e5 { [%clk 0:30:00] } 2. Bc4 { [%clk 0:29:43.4] }
+2... Nf6 { [%clk 0:29:56.6] } 3. Nf3 { [%clk 0:29:42] } 3... Bc5
+{ [%clk 0:29:55] } 4. d3 { [%clk 0:29:27.1] } 4... Nc6 { [%clk 0:29:52.5] } 5.
+g4 { [%clk 0:29:25.1] } 5... Nxg4 { [%clk 0:29:49.2] } 6. Bxf7+
+{ [%clk 0:29:21.1] } 6... Kxf7 { [%clk 0:29:44.5] } 7. Nxe5+
+{ [%clk 0:29:19.5] } 7... Ngxe5 { [%clk 0:29:40.8] } 0-1
+

@@ -1,0 +1,35 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ELO_1500"]
+[Black "Weiawaga"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/K0ODqLVg"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2970"]
+[BlackElo "2700"]
+[ECO "D43"]
+[Opening "Semi-Slav Defense"]
+[TimeControl "300+10"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:10:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 c6 5. Bg5 Be7 6. e3 h6 7. Bh4 O-O 8. Bd3 c5
+9. cxd5 cxd4 10. Nxd4 Nxd5 11. Bxe7 Nxe7 12. O-O Nbc6 13. Nxc6 Nxc6 14. Rc1 Bd7
+15. Bb1 Qe7 16. Qc2 g6 17. f4 Rfd8 18. Qf2 b6 19. h4 Rac8 20. Qg3 Kh8 21. Rce1
+f5 22. a3 Be8 23. Qf2 Qc5 24. Rc1 Kg7 25. Ba2 Bf7 26. b4 Qe7 27. e4 a5 28. Nb5
+axb4 29. e5 bxa3 30. Nd6 Rc7 31. Qxb6 Rb8 32. Qc5 Bg8 33. h5 Kh7 34. hxg6+ Kxg6
+35. Rf3 Kh7 36. Rxa3 Qh4 37. Bc4 Rb2 38. Bf1 Qxf4 39. Qe3 Qg5 40. Ne8 Rc8 41.
+Nd6 Rc7 42. Rac3 Qxe3+ 43. Rxe3 Rb6 44. Bb5 Bf7 45. Rxc6 Rcxc6 46. Bxc6 Rxc6
+47. Nxf7 Rc1+ 48. Kh2 Rd1 49. Nd6 Rd5 50. Ne8 Rc5 51. Rg3 h5 52. Nf6+ Kh6 53.
+Nd7 Rc8 54. Rb3 Kg6 55. Rb6 Kf7 56. Nb8 Rc4 57. Rd6 Re4 58. Nc6 Re3 59. Rd7+
+Kf8 60. Rh7 Re4 61. Rh6 Ke8 62. Rxe6+ Kd7 63. Rd6+ Kc7 64. Kg3 Kb7 65. Kf3 Kc7
+66. Rd4 Kxc6 67. Rxe4 fxe4+ 68. Kxe4 Kd7 69. Kf5 Ke7 70. g3 Kf7 71. Kg5 Ke6 72.
+Kxh5 Kxe5 73. Kg6 Ke4 74. g4 Ke5 75. Kh6 Kf4 76. g5 Kg3 77. g6 Kf2 78. g7 Kf1
+79. Kh7 Ke1 80. Kh8 Kd1 81. Kh7 Ke1 82. Kh8 Kd1 83. Kh7 Ke1 1/2-1/2
+

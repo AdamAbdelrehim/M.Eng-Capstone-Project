@@ -1,0 +1,35 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "PetersBot"]
+[Black "CruelKen"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/Hwg3gL2p"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2978"]
+[BlackElo "3006"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, Rio Gambit Accepted"]
+[TimeControl "360+3"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:31:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Nxe5 7. Rxe5+ Be7
+8. Bf1 O-O 9. d4 Bf6 10. Re2 b6 11. Re1 Bb7 12. Bf4 Nf5 13. c3 Re8 14. Nd2 Rxe1
+15. Qxe1 g5 16. Bg3 Nxg3 17. hxg3 c5 18. dxc5 bxc5 19. Rd1 Rb8 20. Qe2 Bd5 21.
+Nb3 Bxb3 22. axb3 Rxb3 23. Rd2 Rb6 24. Qd1 d6 25. Bc4 Kg7 26. g4 a5 27. g3 Qd7
+28. Qf3 a4 29. Kh2 Qb7 30. Qe2 Qe7 31. Qf3 Qd7 32. Qe4 Rb8 33. Bd5 Rc8 34. Kg2
+h6 35. Rd1 Rb8 36. Rd2 Rc8 37. Bc4 Rb8 38. Re2 Rc8 39. Kg1 Rb8 40. Bd5 Rc8 41.
+Kg2 Rc7 42. Qf3 c4 43. Re3 Qc8 44. Re1 Qb8 45. Qf5 Qc8 46. Qf3 Qb8 47. Qf5 Rc5
+48. Re3 Qc8 49. Qe4 Rc7 50. Re2 Re7 51. Qf3 Ra7 52. Re3 Qc5 53. Kh2 Be5 54. Kg2
+Qb5 55. Re2 Bf6 56. Qf5 Ra5 57. Rd2 Qb6 58. Qe4 a3 59. bxa3 Rxa3 60. Qxc4 Rxc3
+61. Qe4 Qc5 62. Re2 Be5 63. Rd2 Bf6 64. Re2 Qc7 65. Re1 Qd7 66. Rb1 Qe7 67. Qf5
+Rc5 68. Qd3 Qe5 69. Bxf7 Kxf7 70. Qh7+ Ke6 71. Rb8 Kd5 72. Qb7+ Kd4 73. Qb2+
+Kd3 74. Rb3+ Rc3 75. Qb1+ Kd4 76. Rb4+ Rc4 77. Qa1+ Kc5 78. Qa5+ Kd4 79. Qa1+
+Kc5 80. Qa5+ Kd4 81. Qa1+ 1/2-1/2
+

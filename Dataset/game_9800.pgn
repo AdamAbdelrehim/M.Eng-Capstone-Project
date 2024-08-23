@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "evilhamburger"]
+[Black "Cann_Karo"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Bq2EYnAz"]
+[WhiteElo "2640"]
+[BlackElo "2594"]
+[ECO "B14"]
+[Opening "Caro-Kann Defense: Panov Attack, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:02:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e6 6. Nf3 Bb4 7. Bg5 h6 8. Bh4
+g5 9. Bg3 Ne4 10. Qc2 Nc6 11. a3 Bxc3+ 12. bxc3 h5 13. cxd5 exd5 14. Bb5 h4 15.
+Be5 f6 16. O-O fxe5 17. Nxe5 Bd7 18. Bxc6 bxc6 19. f3 Bf5 20. fxe4 Bxe4 1-0
+

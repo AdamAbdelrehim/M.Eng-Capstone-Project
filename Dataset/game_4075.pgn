@@ -1,0 +1,23 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "xxxmax"]
+[Black "Cleverme5q"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/qXN8yVLl"]
+[WhiteElo "2502"]
+[BlackElo "2378"]
+[ECO "C78"]
+[Opening "Ruy Lopez: Morphy Defense, Neo-Arkhangelsk Variation"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:16:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-88"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. d3 b5 7. Bb3 d6 8. h3
+Nd4 9. Nxd4 Bxd4 10. c3 Bb6 11. d4 Nxe4 12. Bd5 Rb8 13. Bxe4 exd4 14. Bc6+ Kf8
+15. cxd4 Qf6 16. Qe2 Bf5 17. Re1 g6 18. Bh6+ Kg8 19. Qe8+ Rxe8 20. Rxe8# 1-0
+

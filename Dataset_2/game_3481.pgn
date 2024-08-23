@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.01.23"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Idris_K"]
+[Result "0-1"]
+[CurrentPosition "r3kbnr/pp2pppp/2n5/1q1pP3/3P4/5N2/PP1B1PPP/1R1QK2R w Kkq -"]
+[Timezone "UTC"]
+[ECO "B12"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Advance-Botvinnik-Carls-Defense-4.c3-Nc6-5.Nf3"]
+[UTCDate "2022.01.23"]
+[UTCTime "02:06:19"]
+[WhiteElo "1580"]
+[BlackElo "1615"]
+[TimeControl "600"]
+[Termination "Idris_K won by resignation"]
+[StartTime "02:06:19"]
+[EndDate "2022.01.23"]
+[EndTime "02:07:13"]
+[Link "https://www.chess.com/game/live/36642597357"]
+
+1. e4 { [%clk 0:10:00] } 1... c6 { [%clk 0:09:59.1] } 2. d4
+{ [%clk 0:09:57.5] } 2... d5 { [%clk 0:09:55.6] } 3. e5 { [%clk 0:09:55.9] }
+3... c5 { [%clk 0:09:54.1] } 4. c3 { [%clk 0:09:55.4] } 4... Nc6
+{ [%clk 0:09:51.9] } 5. Nf3 { [%clk 0:09:53.5] } 5... Bf5 { [%clk 0:09:48.3] }
+6. Bb5 { [%clk 0:09:51.2] } 6... cxd4 { [%clk 0:09:47.1] } 7. cxd4
+{ [%clk 0:09:44.5] } 7... Bxb1 { [%clk 0:09:45.5] } 8. Rxb1
+{ [%clk 0:09:42.2] } 8... Qa5+ { [%clk 0:09:44.4] } 9. Bd2 { [%clk 0:09:32] }
+9... Qxb5 { [%clk 0:09:43.4] } 0-1
+

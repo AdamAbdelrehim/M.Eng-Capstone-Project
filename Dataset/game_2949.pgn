@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Sergejs_Klimakovs"]
+[Black "LokyTheGreat"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/VAC9LxT2"]
+[WhiteTitle "FM"]
+[WhiteElo "2510"]
+[BlackElo "2378"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:39:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. Bf4 c5 3. d5 Qb6 4. Nc3 a6 5. e4 Qxb2 6. Bd2 Qb6 7. e5 Ng8 8. f4
+d6 9. Nf3 Bg4 10. h3 Bxf3 11. Qxf3 Nd7 12. e6 fxe6 13. dxe6 Ndf6 14. Rb1 Qc6
+15. Rxb7 Qxf3 16. gxf3 Nh6 17. Bc4 Nf5 18. Kf2 d5 19. Nxd5 Nxd5 20. Bxd5 O-O-O
+21. Ba5 1-0
+

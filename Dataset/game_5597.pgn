@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "The_Vengeful_One"]
+[Black "Pogiloi"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/IX8RtC1O"]
+[WhiteElo "2532"]
+[BlackElo "2386"]
+[ECO "B00"]
+[Opening "Pirc Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:27:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. d4 d6 2. e4 c6 3. Nc3 h6 4. g3 g5 5. Bg2 Bg7 6. Nge2 Nd7 7. h3 Nf8 8. Be3
+Ng6 9. Qd2 Nf6 10. O-O Qa5 11. f4 gxf4 12. Nxf4 Nxf4 13. gxf4 Rg8 14. Kh2 Qh5
+15. e5 Ng4+ 16. Kh1 Nxe5 17. dxe5 Bxh3 18. Rf3 Bg4+ 19. Kg1 0-1
+

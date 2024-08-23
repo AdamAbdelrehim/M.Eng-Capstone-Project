@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "EdgarRodrigues"]
+[Black "MorozevichECU99"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/mGfY1VEC"]
+[WhiteTitle "FM"]
+[WhiteElo "2522"]
+[BlackElo "2392"]
+[ECO "C45"]
+[Opening "Scotch Game"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "03:35:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+
+1. e4 Nc6 2. d4 e5 3. Nf3 exd4 4. Nxd4 Qf6 5. Nb5 Bc5 6. Qe2 Nd4 7. Nxd4 Bxd4
+8. c3 Bb6 9. Be3 Ne7 10. Nd2 O-O 11. O-O-O d5 12. f4 dxe4 13. Nxe4 Qe6 14. Bxb6
+axb6 15. a3 Qg6 16. Ng5 Nc6 17. Qc2 Bf5 18. Bd3 Bxd3 19. Rxd3 Qf5 20. g3 Na5
+21. Rd7 Nb3+ 22. Kb1 Qxc2+ 23. Kxc2 Nc5 24. Rxc7 Rae8 25. Rd1 Re2+ 26. Rd2
+Rxd2+ 27. Kxd2 Rd8+ 28. Kc2 f6 29. Nf3 Rd3 30. Rxc5 Rxf3 31. Rd5 Kf7 32. Rd2
+Ke6 33. Kb3 h5 34. Kb4 h4 35. Re2+ Kf5 36. Rg2 hxg3 37. hxg3 Kg4 38. Kb5 Rxg3
+39. Rd2 Kxf4 40. Kxb6 g5 41. a4 g4 42. a5 Ke3 43. Rc2 Kd3 44. Rh2 Rf3 45. Kxb7
+g3 46. Rg2 f5 47. a6 f4 48. a7 1-0
+

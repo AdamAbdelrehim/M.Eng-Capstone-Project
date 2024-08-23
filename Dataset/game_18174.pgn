@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Mischuk_D"]
+[Black "tom230"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/GbtZ9ZbN"]
+[WhiteTitle "IM"]
+[WhiteElo "2683"]
+[BlackElo "2655"]
+[ECO "B14"]
+[Opening "Caro-Kann Defense: Panov Attack, Fianchetto Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:10:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 g6 6. c5 Bg7 7. Nf3 O-O 8. Be2
+Nc6 9. O-O Bg4 10. Be3 Ne4 11. h3 Bxf3 12. Bxf3 Nxc3 13. bxc3 e5 14. Rb1 e4 15.
+Be2 Qd7 16. Qb3 Nd8 17. Bf4 a6 18. Bd6 Re8 19. Qxd5 Nc6 20. Bg4 1-0
+

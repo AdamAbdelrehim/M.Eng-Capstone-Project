@@ -1,0 +1,37 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.07.07"]
+[Round "-"]
+[White "laidyourdaughter"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r3kb1r/p5p1/5pn1/1Qp1p2p/3pP2P/6B1/PPP2PP1/2KR3R b kq -"]
+[Timezone "UTC"]
+[ECO "D00"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-Steinitz-Countergambit"]
+[UTCDate "2022.07.07"]
+[UTCTime "01:35:50"]
+[WhiteElo "1657"]
+[BlackElo "1545"]
+[TimeControl "180"]
+[Termination "laidyourdaughter won by resignation"]
+[StartTime "01:35:50"]
+[EndDate "2022.07.07"]
+[EndTime "01:37:15"]
+[Link "https://www.chess.com/game/live/50896756087"]
+
+1. d4 { [%clk 0:02:57.2] } 1... d5 { [%clk 0:02:58.6] } 2. Bf4
+{ [%clk 0:02:56.8] } 2... c5 { [%clk 0:02:56.9] } 3. Nc3 { [%clk 0:02:56.3] }
+3... Nc6 { [%clk 0:02:55.7] } 4. Nf3 { [%clk 0:02:55.4] } 4... cxd4
+{ [%clk 0:02:53.1] } 5. Nxd4 { [%clk 0:02:52.9] } 5... e5 { [%clk 0:02:46.3] }
+6. Nxc6 { [%clk 0:02:51] } 6... bxc6 { [%clk 0:02:45.7] } 7. Bg3
+{ [%clk 0:02:49.7] } 7... f6 { [%clk 0:02:40.3] } 8. Qd3 { [%clk 0:02:48.4] }
+8... Ne7 { [%clk 0:02:37.2] } 9. O-O-O { [%clk 0:02:47.2] } 9... Ng6
+{ [%clk 0:02:35.4] } 10. h4 { [%clk 0:02:44.7] } 10... h5 { [%clk 0:02:33.6] }
+11. e4 { [%clk 0:02:42.8] } 11... d4 { [%clk 0:02:31.7] } 12. Na4
+{ [%clk 0:02:41.1] } 12... c5 { [%clk 0:02:29.5] } 13. Qb5+ { [%clk 0:02:38] }
+13... Bd7 { [%clk 0:02:27.7] } 14. Qb3 { [%clk 0:02:35] } 14... Bxa4
+{ [%clk 0:02:25.3] } 15. Qxa4+ { [%clk 0:02:34] } 15... Qd7
+{ [%clk 0:02:23.3] } 16. Bb5 { [%clk 0:02:29.1] } 16... Qxb5
+{ [%clk 0:02:18.6] } 17. Qxb5+ { [%clk 0:02:28] } 1-0
+

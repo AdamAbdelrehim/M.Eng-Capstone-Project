@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "LayMac0acH"]
+[Black "SacrificialMaster"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/trJka0dp"]
+[WhiteElo "2444"]
+[BlackElo "2551"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Declined, Push Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:13:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+
+1. e4 c5 2. d4 cxd4 3. c3 d3 4. Bxd3 Nc6 5. Nf3 d6 6. O-O Nf6 7. h3 g6 8. Bf4
+Bg7 9. Qd2 O-O 10. Bh6 Bxh6 11. Qxh6 d5 12. Ng5 dxe4 13. Bxe4 Re8 14. Na3 e6
+15. Rfd1 Qe7 16. Nc4 Qf8 17. Qh4 Qg7 18. Bf3 h6 19. Ne4 g5 20. Nxf6+ Qxf6 21.
+Qe4 Ne7 22. Nd6 Rf8 23. Nxc8 Raxc8 24. Rd7 Nf5 25. Rad1 Rcd8 26. Qa4 Rxd7 27.
+Rxd7 Qe5 28. Qd1 Qa5 29. Rxb7 Qxa2 30. Be4 Qa6 31. Rd7 Ng7 32. b4 Qc4 33. Qd3
+Qa2 34. c4 Qa1+ 35. Kh2 Qe5+ 36. g3 h5 37. c5 h4 38. c6 hxg3+ 39. fxg3 f5 40.
+Bg2 f4 41. c7 f3 42. Bxf3 Nf5 43. Bg2 Ne3 44. Qg6+ Kh8 45. Qh7# 1-0
+

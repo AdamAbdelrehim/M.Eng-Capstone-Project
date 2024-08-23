@@ -1,0 +1,39 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.04.06"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "dondollare"]
+[Result "0-1"]
+[CurrentPosition "2r1k2r/1p3pp1/p3pnp1/3p4/q5P1/P6P/2P1BPK1/3RR3 w k -"]
+[Timezone "UTC"]
+[ECO "B13"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Exchange-Variation-3...cxd5-4.Nf3-Nc6"]
+[UTCDate "2022.04.06"]
+[UTCTime "20:03:55"]
+[WhiteElo "1524"]
+[BlackElo "1525"]
+[TimeControl "180"]
+[Termination "dondollare won by resignation"]
+[StartTime "20:03:55"]
+[EndDate "2022.04.06"]
+[EndTime "20:06:27"]
+[Link "https://www.chess.com/game/live/43014552197"]
+
+1. e4 { [%clk 0:03:00] } 1... c6 { [%clk 0:02:59.9] } 2. d4
+{ [%clk 0:02:58.3] } 2... d5 { [%clk 0:02:59.8] } 3. exd5 { [%clk 0:02:56.2] }
+3... cxd5 { [%clk 0:02:59.7] } 4. Nf3 { [%clk 0:02:55] } 4... Nc6
+{ [%clk 0:02:59.6] } 5. Nc3 { [%clk 0:02:50.6] } 5... Bg4 { [%clk 0:02:59.2] }
+6. Be2 { [%clk 0:02:48.6] } 6... a6 { [%clk 0:02:58.9] } 7. h3
+{ [%clk 0:02:47.1] } 7... Bh5 { [%clk 0:02:58] } 8. g4 { [%clk 0:02:45.8] }
+8... Bg6 { [%clk 0:02:57.3] } 9. O-O { [%clk 0:02:45.7] } 9... e6
+{ [%clk 0:02:57] } 10. Bf4 { [%clk 0:02:43.2] } 10... Bd6 { [%clk 0:02:53.8] }
+11. Bxd6 { [%clk 0:02:41.8] } 11... Qxd6 { [%clk 0:02:53.7] } 12. Re1
+{ [%clk 0:02:39] } 12... Nf6 { [%clk 0:02:48.5] } 13. Ne5 { [%clk 0:02:37.1] }
+13... Qb4 { [%clk 0:02:24.2] } 14. Nxg6 { [%clk 0:02:30.6] } 14... hxg6
+{ [%clk 0:02:22.5] } 15. Kg2 { [%clk 0:02:29.8] } 15... Nxd4
+{ [%clk 0:02:13.6] } 16. a3 { [%clk 0:02:16.3] } 16... Qxb2
+{ [%clk 0:02:06.8] } 17. Qxd4 { [%clk 0:02:11.7] } 17... Rc8
+{ [%clk 0:02:01.6] } 18. Na4 { [%clk 0:01:55] } 18... Qxd4 { [%clk 0:01:59.3] }
+19. Rad1 { [%clk 0:01:45.1] } 19... Qxa4 { [%clk 0:01:57.4] } 0-1
+

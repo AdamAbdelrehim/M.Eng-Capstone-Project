@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Arthas_tsalb"]
+[Black "ExplosiveBombBlind"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/nxwmCefU"]
+[WhiteElo "2609"]
+[BlackElo "2668"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:26:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. b3 e5 2. Bb2 Nc6 3. e3 Nf6 4. Bb5 e4 5. d3 exd3 6. cxd3 Bb4+ 7. Nd2 a6 8.
+Bxc6 dxc6 9. Qe2 O-O 10. Nf3 Bf5 11. e4 Bg4 12. Rd1 Nh5 13. Qe3 f5 14. O-O f4
+15. Qe2 Qe7 16. h3 Be6 17. Nd4 f3 18. N2xf3 Nf4 19. Qe3 Rad8 20. Nxe6 Qxe6 21.
+Nd4 Qg6 22. g3 Bc5 23. Kh2 Ne6 24. Nxe6 Bxe3 25. Nxf8 Bxf2 26. Nxg6 Bc5 27. Ne5
+Bd6 28. Rf3 Re8 29. Rdf1 h6 30. Nf7 Bf8 31. h4 Re6 32. h5 c5 33. g4 b5 34.
+Nxh6+ Rxh6 35. Rxf8+ Kh7 36. R1f7 Rd6 37. Rxg7+ Kh6 38. Rh8# 1-0
+

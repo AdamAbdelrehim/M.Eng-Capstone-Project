@@ -1,0 +1,23 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/h08mQKsO"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "kirill_kopyonkin"]
+[Black "rojitto"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/XXdhGO2S"]
+[WhiteTitle "FM"]
+[WhiteElo "2528"]
+[BlackElo "2480"]
+[ECO "B17"]
+[Opening "Caro-Kann Defense: Karpov Variation"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:02:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. c3 Ngf6 6. Nxf6+ Nxf6 7. Bc4 Bf5
+8. Qb3 e6 9. Qxb7 Rc8 10. Bf4 Be7 11. Ba6 1-0
+

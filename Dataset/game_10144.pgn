@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "gerrygm"]
+[Black "Ajedrez_Premium"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/hiHw3q3U"]
+[WhiteTitle "GM"]
+[WhiteElo "2600"]
+[BlackElo "2644"]
+[ECO "A45"]
+[Opening "Trompowsky Attack: Classical Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:53:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-15"]
+
+1. d4 Nf6 2. Bg5 e6 3. Nd2 h6 4. Bh4 d5 5. e3 Be7 6. Bd3 b6 7. Qe2 Nbd7 8. Ngf3
+Bb7 9. O-O O-O 10. a4 a5 11. e4 dxe4 12. Nxe4 Nxe4 13. Bxe4 Bxe4 14. Qxe4 Bxh4
+15. Nxh4 Nf6 16. Qd3 Qd5 17. Nf3 Rfd8 18. Rfe1 c5 19. c3 cxd4 20. Re5 Qd6 21.
+Qxd4 Qc7 22. Qe3 Rd5 23. Rxd5 Nxd5 24. Qd4 Rc8 25. g3 Qc4 26. Qxc4 Rxc4 27. Nd4
+Kf8 28. Kf1 Ke7 29. Ke2 Rc8 30. Kd3 g6 31. h4 h5 32. Nc2 Rd8 33. Ke2 e5 34. c4
+Nf6 35. b4 Ne4 36. Ke3 f5 37. bxa5 bxa5 38. Rb1 Nxf2 39. Rb7+ Ke6 40. Rb6+ Kf7
+41. Rb5 Ng4+ 42. Ke2 Rc8 43. Na3 e4 44. Rxa5 Rd8 45. Rd5 Rb8 46. Nb5 Ra8 47. a5
+Ke6 48. Nc7+ 1-0
+

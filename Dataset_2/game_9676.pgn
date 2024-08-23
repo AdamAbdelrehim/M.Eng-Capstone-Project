@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.07.07"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Dn110"]
+[Result "0-1"]
+[CurrentPosition "rnbq1rk1/ppppbppp/4p3/8/3PPn2/2NB1N2/PPP2PPP/R2QK2R w KQ -"]
+[Timezone "UTC"]
+[ECO "C00"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Normal-Variation"]
+[UTCDate "2023.07.07"]
+[UTCTime "07:30:12"]
+[WhiteElo "1698"]
+[BlackElo "1700"]
+[TimeControl "180"]
+[Termination "Dn110 won by resignation"]
+[StartTime "07:30:12"]
+[EndDate "2023.07.07"]
+[EndTime "07:30:35"]
+[Link "https://www.chess.com/game/live/82453890549"]
+
+1. e4 { [%clk 0:03:00] } 1... e6 { [%clk 0:03:00] } 2. d4 { [%clk 0:02:56.2] }
+2... Ne7 { [%clk 0:02:59.9] } 3. Nc3 { [%clk 0:02:53.3] } 3... Ng6
+{ [%clk 0:02:59.2] } 4. Nf3 { [%clk 0:02:53] } 4... Be7 { [%clk 0:02:59.1] } 5.
+Bf4 { [%clk 0:02:49.7] } 5... O-O { [%clk 0:02:59] } 6. Bd3
+{ [%clk 0:02:46.3] } 6... Nxf4 { [%clk 0:02:57.6] } 0-1
+

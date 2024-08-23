@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "GelioChess"]
+[Black "valerii1122334455"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/CezdF1AA"]
+[WhiteTitle "FM"]
+[WhiteElo "2745"]
+[BlackElo "2692"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:30:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Nxc6 bxc6 7. e5 Nd5 8.
+Ne4 Qc7 9. f4 Qb6 10. c4 Ne3 11. Qd3 Bb4+ 12. Bd2 a5 13. a3 Bxd2+ 14. Qxd2 O-O
+15. Rc1 Ba6 16. c5 Nxf1 17. Rxf1 Qb5 18. Rf3 Rab8 19. Rc2 Qa4 20. Nd6 f6 21.
+Rcc3 fxe5 22. fxe5 Qh4+ 23. Qf2 Qxh2 24. Rxf8+ Rxf8 25. Rf3 Qxe5+ 26. Kd2 Qxb2+
+27. Ke1 Qc1# 0-1
+

@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Rekcirts"]
+[Black "suddenly_sad"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/6PblMDYU"]
+[BlackTitle "FM"]
+[WhiteElo "2547"]
+[BlackElo "2554"]
+[ECO "C25"]
+[Opening "Vienna Game: Paulsen Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:43:42"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 Nf6 4. Bg2 Bc5 5. Nge2 O-O 6. O-O a6 7. d3 h6 8. h3
+d6 9. Kh2 Nd4 10. f4 c6 11. fxe5 dxe5 12. Be3 Qd6 13. Qd2 Nxe2 14. Bxc5 Qxc5
+15. Nxe2 Nh7 16. Ng1 Be6 17. Nf3 f6 18. a4 a5 19. b3 b6 20. Rf2 Rad8 21. Raf1
+Ng5 22. Nxg5 hxg5 23. h4 gxh4 24. gxh4 Kf7 25. Qg5 Qe7 26. Qxe5 Rh8 27. Qf4 Rh6
+28. e5 Rdh8 29. Kg1 f5 30. Qg5 Qxg5 31. hxg5 Rh5 32. Bxc6 Rxg5+ 33. Rg2 Rxg2+
+34. Kxg2 Rc8 35. Be4 Rxc2+ 36. Kg3 g6 37. d4 Rc3+ 38. Kg2 Bxb3 39. d5 Ke7 40.
+Bf3 Rxf3 41. Kxf3 Bxd5+ 42. Kf4 Bc6 43. Rd1 Bxa4 44. Rd6 b5 45. Rxg6 Bb3 46.
+Rb6 Bc4 47. Kxf5 a4 48. Rb7+ Kd8 49. Kf6 Kc8 50. Rh7 a3 51. e6 a2 52. e7 a1=Q+
+53. Kf5 Qb1+ 0-1
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "vvrtixsen"]
+[Black "thurstoncat"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/4EbdTVCA"]
+[WhiteElo "2514"]
+[BlackElo "2430"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:39:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 c5 2. Nf3 e6 3. g3 Qc7 4. d4 cxd4 5. Nxd4 a6 6. Bg2 Nc6 7. O-O Nf6 8. Nc3
+Bb4 9. a3 Bxc3 10. bxc3 O-O 11. Bg5 Ne8 12. Qd2 f6 13. Be3 e5 14. Nb3 d6 15. f4
+Be6 16. Rfd1 Rd8 17. Kh1 b5 18. a4 Bc4 19. axb5 axb5 20. Bf1 Ne7 21. Ra7 Qc6
+22. Rxe7 Bxf1 23. Rxf1 Qxe4+ 24. Kg1 d5 25. Qd3 1-0
+

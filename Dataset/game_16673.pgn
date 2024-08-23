@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "segisvona"]
+[Black "manneredmonkey"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/sMDwdfyb"]
+[BlackTitle "NM"]
+[WhiteElo "2611"]
+[BlackElo "2573"]
+[ECO "B07"]
+[Opening "Pirc Defense: Chinese Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "03:08:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "+17"]
+[BlackRatingDiff "-5"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Be2 Bg7 5. g4 d5 6. e5 Ne4 7. f3 Nxc3 8. bxc3
+c5 9. h4 Nc6 10. h5 Qa5 11. h6 Bf8 12. Bd2 c4 13. Nh3 f6 14. exf6 exf6 15. Nf4
+Bd6 16. Ng2 O-O 17. O-O Re8 18. Re1 Bd7 19. Bf1 Rxe1 20. Qxe1 Re8 21. Qf2 Nd8
+22. Ne3 Nf7 23. Re1 Bf8 24. f4 Bxg4 25. Nxg4 1-0
+

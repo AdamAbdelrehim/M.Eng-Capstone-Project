@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.02.22"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "erfanreza1370"]
+[Result "1-0"]
+[CurrentPosition "rnbqkb1r/ppp1pppp/5n2/3P4/8/2N5/PPPP1PPP/R1BQKBNR b KQkq -"]
+[Timezone "UTC"]
+[ECO "B02"]
+[ECOUrl "https://www.chess.com/openings/Alekhines-Defense-Scandinavian-Variation-3.exd5"]
+[UTCDate "2023.02.22"]
+[UTCTime "05:15:07"]
+[WhiteElo "1995"]
+[BlackElo "2042"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won - game abandoned"]
+[StartTime "05:15:07"]
+[EndDate "2023.02.22"]
+[EndTime "05:16:37"]
+[Link "https://www.chess.com/game/live/70782063599"]
+
+1. e4 { [%clk 0:09:54] } 1... Nf6 { [%clk 0:09:59.9] } 2. Nc3
+{ [%clk 0:09:47.9] } 2... d5 { [%clk 0:09:55.4] } 3. exd5 { [%clk 0:09:37.9] }
+1-0
+

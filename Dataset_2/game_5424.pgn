@@ -1,0 +1,49 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.06.12"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Raja-gandrung"]
+[Result "1/2-1/2"]
+[CurrentPosition "R2k1r2/4b1p1/1p1pB2p/2p5/8/2P5/2P2PPP/6K1 b - -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Rousseau-Gambit"]
+[UTCDate "2022.06.12"]
+[UTCTime "02:37:29"]
+[WhiteElo "1791"]
+[BlackElo "1877"]
+[TimeControl "600"]
+[Termination "Game drawn by repetition"]
+[StartTime "02:37:29"]
+[EndDate "2022.06.12"]
+[EndTime "02:53:04"]
+[Link "https://www.chess.com/game/live/48740364215"]
+
+1. e4 { [%clk 0:09:56.8] } 1... e5 { [%clk 0:09:58.7] } 2. Nf3
+{ [%clk 0:09:54] } 2... Nc6 { [%clk 0:09:52.2] } 3. Bc4 { [%clk 0:09:52.2] }
+3... f5 { [%clk 0:09:47] } 4. exf5 { [%clk 0:09:42.8] } 4... Nf6
+{ [%clk 0:09:34.4] } 5. Qe2 { [%clk 0:09:32.3] } 5... d6 { [%clk 0:09:15] } 6.
+d4 { [%clk 0:09:23.8] } 6... e4 { [%clk 0:08:57.8] } 7. Nc3
+{ [%clk 0:09:07.5] } 7... Qe7 { [%clk 0:08:51.9] } 8. Ng5 { [%clk 0:08:53.1] }
+8... Nxd4 { [%clk 0:08:33.5] } 9. Qd2 { [%clk 0:07:33.6] } 9... Nxf5
+{ [%clk 0:08:06.5] } 10. O-O { [%clk 0:07:20.1] } 10... h6 { [%clk 0:07:51.3] }
+11. Ngxe4 { [%clk 0:07:17.4] } 11... Nxe4 { [%clk 0:07:20.8] } 12. Nxe4
+{ [%clk 0:07:12.9] } 12... Be6 { [%clk 0:06:29.8] } 13. Nc5 { [%clk 0:06:11] }
+13... dxc5 { [%clk 0:06:07.8] } 14. Bxe6 { [%clk 0:04:20.3] } 14... Rd8
+{ [%clk 0:05:30.4] } 15. Qc3 { [%clk 0:03:37.5] } 15... Qf6
+{ [%clk 0:05:19.1] } 16. Re1 { [%clk 0:03:07.9] } 16... Qxc3
+{ [%clk 0:05:07.6] } 17. bxc3 { [%clk 0:03:00.4] } 17... Nd6
+{ [%clk 0:04:57.6] } 18. Bf4 { [%clk 0:02:35.2] } 18... Be7
+{ [%clk 0:04:50.1] } 19. Bxd6 { [%clk 0:01:57.7] } 19... cxd6
+{ [%clk 0:04:47.2] } 20. Rab1 { [%clk 0:01:52.6] } 20... b6
+{ [%clk 0:04:43.9] } 21. a4 { [%clk 0:01:49.2] } 21... Rb8 { [%clk 0:04:37.9] }
+22. a5 { [%clk 0:01:36.2] } 22... Kd8 { [%clk 0:04:24] } 23. axb6
+{ [%clk 0:01:34.6] } 23... Rxb6 { [%clk 0:04:04.1] } 24. Rxb6
+{ [%clk 0:01:31.5] } 24... axb6 { [%clk 0:04:02.4] } 25. Ra1
+{ [%clk 0:01:30.8] } 25... Rf8 { [%clk 0:03:48.7] } 26. Ra8+
+{ [%clk 0:01:23.7] } 26... Kc7 { [%clk 0:03:42.8] } 27. Ra7+ { [%clk 0:01:22] }
+27... Kd8 { [%clk 0:03:40.5] } 28. Ra8+ { [%clk 0:01:12.6] } 28... Kc7
+{ [%clk 0:03:35.8] } 29. Ra7+ { [%clk 0:01:10.7] } 29... Kd8
+{ [%clk 0:03:30.9] } 30. Ra8+ { [%clk 0:01:09.5] } 1/2-1/2
+

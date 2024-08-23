@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "mateusviageiro"]
+[Black "BenduEducation"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/hn1hi1lR"]
+[WhiteTitle "FM"]
+[WhiteElo "2401"]
+[BlackElo "2526"]
+[ECO "B31"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:11:34"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. O-O Bg7 5. c3 e5 6. d3 Nge7 7. Be3 b6 8. d4
+exd4 9. cxd4 cxd4 10. Nxd4 Bb7 11. Nc3 O-O 12. Rc1 a6 13. Be2 d5 14. Nxc6 Bxc6
+15. Nxd5 Nxd5 16. exd5 Bxd5 17. b3 b5 18. Rc5 Be4 19. Qc1 Qa5 20. a3 Bf5 21. b4
+Qd8 22. Rd1 Qh4 23. Bf3 Rad8 24. Re1 Rc8 25. Bg5 Qd4 26. Bb7 Rxc5 27. bxc5 a5
+28. c6 Qb6 29. Be7 Re8 30. Bd6 Be6 31. Qc5 Bd4 32. Qxb6 Bxb6 33. c7 Bxc7 34.
+Bxc7 Re7 35. Rc1 Bc4 36. Bxa5 Rxb7 37. Re1 Be6 38. Rd1 Rd7 39. Rc1 Rd3 40. Bb4
+Rb3 41. h4 h5 42. Rc5 Bc4 43. Rc8+ Kg7 44. Be7 f6 45. Rc7 Kf7 46. Bb4+ Ke6 47.
+Rc6+ Kf5 48. Kh2 Rb1 49. f3 g5 50. hxg5 fxg5 51. Bc3 g4 52. Rf6+ Kg5 53. f4+
+Kh4 54. g3# 1-0
+

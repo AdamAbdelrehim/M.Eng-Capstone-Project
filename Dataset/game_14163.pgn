@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "spago"]
+[Black "F2-freestyle"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/YHBjB572"]
+[WhiteElo "2520"]
+[BlackElo "2495"]
+[ECO "E32"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:01:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 b6 5. Bg5 Bb7 6. Nf3 h6 7. Bh4 g5 8. Bg3
+Ne4 9. e3 Bxc3+ 10. bxc3 d6 11. Bd3 f5 12. O-O Nd7 13. d5 Ndc5 14. Nd4 Qf6 15.
+f3 Nxg3 16. hxg3 O-O-O 17. Nxe6 Nxe6 18. Bxf5 Kb8 19. Bxe6 Ba6 20. Qa4 Kb7 21.
+Qc6+ Kb8 22. a4 Bb7 23. Qb5 Qxc3 24. e4 h5 25. a5 h4 26. axb6 Qd4+ 27. Kh2
+hxg3+ 28. Kxg3 Qe5+ 29. Kf2 Qd4+ 30. Ke2 cxb6 31. Rfd1 Qe5 32. Qa4 Rh2 33.
+Qxa7+ Kc7 34. Rab1 Rxg2+ 35. Kf1 Rg1+ 36. Ke2 Qh2+ 37. Kd3 Rxd1+ 38. Rxd1 Qf2
+39. Qa1 Qxf3+ 40. Kd4 Ra8 41. Qc1 Qf6+ 42. Kd3 Qf3+ 43. Kd4 Ra3 44. Qd2 Qf6+
+45. e5 Qxe5# 0-1
+

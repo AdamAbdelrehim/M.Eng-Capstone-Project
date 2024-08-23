@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "firegus16"]
+[Black "Incognizance"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/wVoyeiT8"]
+[BlackTitle "CM"]
+[WhiteElo "2561"]
+[BlackElo "2361"]
+[ECO "D87"]
+[Opening "Grünfeld Defense: Exchange Variation, Spassky Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:16:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 O-O 8.
+Ne2 c5 9. O-O Nc6 10. Be3 Bg4 11. f3 Bd7 12. Rc1 Rc8 13. Qd2 Qa5 14. Qb2 Rfd8
+15. Rfd1 Be8 16. Qxb7 Rb8 17. Qa6 Qc7 18. Qa3 Na5 19. Bd3 c4 20. Bc2 e5 21. Rb1
+Bf8 22. Qc1 Rb6 23. d5 Bc5 24. Kh1 Rxb1 25. Bxb1 Ba4 26. Rf1 Bf8 27. f4 Rb8 28.
+fxe5 Bd7 29. Bd4 Bg4 30. Ng3 h5 31. e6 fxe6 32. dxe6 h4 33. Qg5 hxg3 34. Qxg6+
+Bg7 35. Qf7+ Qxf7 36. exf7+ Kh8 37. f8=Q+ Rxf8 38. Rxf8+ Kh7 39. Rf7 1-0
+

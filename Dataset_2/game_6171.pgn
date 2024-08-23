@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.09.06"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "knlkanjani"]
+[Result "0-1"]
+[CurrentPosition "rnb1k2r/1p1pqppp/p7/8/1b2n3/2N2N2/PPP2PPP/R1BQKB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "B28"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-OKelly-Normal-System...5.Nc3-e5-6.Nf3-Bb4"]
+[UTCDate "2022.09.06"]
+[UTCTime "21:53:46"]
+[WhiteElo "1743"]
+[BlackElo "1835"]
+[TimeControl "600"]
+[Termination "knlkanjani won by resignation"]
+[StartTime "21:53:46"]
+[EndDate "2022.09.06"]
+[EndTime "21:55:11"]
+[Link "https://www.chess.com/game/live/56240098319"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:09:59.9] } 2. Nf3
+{ [%clk 0:09:59.1] } 2... a6 { [%clk 0:09:59] } 3. d4 { [%clk 0:09:58.4] } 3...
+cxd4 { [%clk 0:09:58.9] } 4. Nxd4 { [%clk 0:09:57.6] } 4... Nf6
+{ [%clk 0:09:58.8] } 5. Nc3 { [%clk 0:09:56.9] } 5... e5 { [%clk 0:09:58.5] }
+6. Nf3 { [%clk 0:09:49.4] } 6... Bb4 { [%clk 0:09:55.6] } 7. Nxe5
+{ [%clk 0:09:29] } 7... Qe7 { [%clk 0:09:54.2] } 8. Nf3 { [%clk 0:09:25.8] }
+8... Nxe4 { [%clk 0:09:50.8] } 0-1
+

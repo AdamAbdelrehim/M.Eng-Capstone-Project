@@ -1,0 +1,42 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.09.10"]
+[Round "-"]
+[White "jaspalkaler"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "2krr3/pp4p1/4bp2/4p2P/q2p2nN/3P1N2/PP1bPP2/R4K1R w - -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Grob-Opening-Grob-Gambit-with-2-Bg2"]
+[UTCDate "2021.09.10"]
+[UTCTime "02:35:15"]
+[WhiteElo "1501"]
+[BlackElo "1500"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "02:35:15"]
+[EndDate "2021.09.10"]
+[EndTime "02:40:43"]
+[Link "https://www.chess.com/game/live/24980436831"]
+
+1. g4 { [%clk 0:09:56.8] } 1... e5 { [%clk 0:09:57.6] } 2. Bg2
+{ [%clk 0:09:56.1] } 2... Nf6 { [%clk 0:09:55] } 3. g5 { [%clk 0:09:54.3] }
+3... Ng8 { [%clk 0:09:51.2] } 4. h4 { [%clk 0:09:52.1] } 4... h6
+{ [%clk 0:09:48.4] } 5. gxh6 { [%clk 0:09:50.4] } 5... Nxh6
+{ [%clk 0:09:43.2] } 6. c4 { [%clk 0:09:35.6] } 6... c6 { [%clk 0:09:36.7] } 7.
+Nc3 { [%clk 0:09:33.7] } 7... Bb4 { [%clk 0:09:33.5] } 8. Ne4
+{ [%clk 0:09:30.3] } 8... d5 { [%clk 0:09:30.9] } 9. cxd5 { [%clk 0:09:28.5] }
+9... cxd5 { [%clk 0:09:30.2] } 10. Ng5 { [%clk 0:09:23.2] } 10... f6
+{ [%clk 0:09:27.8] } 11. N5f3 { [%clk 0:09:19.6] } 11... Qb6
+{ [%clk 0:09:15.8] } 12. Kf1 { [%clk 0:09:04.2] } 12... Bf5
+{ [%clk 0:09:03.9] } 13. d3 { [%clk 0:09:00.3] } 13... Nc6 { [%clk 0:08:52.4] }
+14. Be3 { [%clk 0:08:48] } 14... d4 { [%clk 0:08:47.1] } 15. Bd2
+{ [%clk 0:08:42] } 15... O-O-O { [%clk 0:08:44.4] } 16. Qb3
+{ [%clk 0:08:30.1] } 16... Ng4 { [%clk 0:08:02.4] } 17. h5 { [%clk 0:07:48.8] }
+17... Rhe8 { [%clk 0:07:57.1] } 18. Nh4 { [%clk 0:07:38.4] } 18... Be6
+{ [%clk 0:07:54.4] } 19. Qa4 { [%clk 0:07:33.3] } 19... Bxd2
+{ [%clk 0:07:43.3] } 20. Bxc6 { [%clk 0:07:26.1] } 20... Qxc6
+{ [%clk 0:07:38.1] } 21. Ngf3 { [%clk 0:07:22.1] } 21... Qxa4
+{ [%clk 0:07:28.4] } 0-1
+

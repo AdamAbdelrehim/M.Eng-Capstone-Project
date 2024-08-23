@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "firegus16"]
+[Black "matamancos2"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ML3J7xvP"]
+[WhiteElo "2568"]
+[BlackElo "2565"]
+[ECO "D86"]
+[Opening "Grünfeld Defense: Exchange Variation, Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:44:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Bc4 c5 8.
+Ne2 Nc6 9. Be3 O-O 10. O-O b6 11. Rc1 Bb7 12. Qd2 Rc8 13. Rfd1 cxd4 14. cxd4
+Na5 15. Bd3 e6 16. Qb4 Nc6 17. Qa3 Qe7 18. Qxe7 Nxe7 19. f3 h6 20. Kf2 Rfd8 21.
+Bc4 Nc6 22. Ke1 Na5 23. Bd3 Kf8 24. Kd2 Rxc1 25. Kxc1 Nc6 26. Bc2 Ba6 27. Bd3
+Bxd3 28. Rxd3 Ke8 29. Kb2 Nxd4 30. Rxd4 Bxd4+ 31. Bxd4 Kd7 32. Be3 h5 33. Nc3
+Kc6 34. Kc2 a6 35. h3 b5 36. e5 b4 37. Ne4 Rd5 38. f4 a5 39. Ng5 Rd7 40. Bd2
+Kb5 41. g4 hxg4 42. hxg4 Rc7+ 43. Kb2 a4 44. Ne4 Rd7 45. Nd6+ Kc5 46. Be3+ Kd5
+47. Kc2 Rc7+ 48. Kd3 f5 49. gxf5 gxf5 50. Kd2 b3 51. axb3 axb3 52. Bd4 Rc2+ 53.
+Kd3 Rc1 54. Bc3 Rf1 55. Ke3 Rh1 56. Kd3 Rh3+ 57. Kd2 Rf3 58. Nb5 Rxf4 59. Nc7+
+Kc4 60. Na6 Rf2+ 61. Ke3 Kxc3 62. Kxf2 b2 63. Nc5 b1=Q 64. Na4+ Kd4 65. Nc5
+Kxc5 66. Kf3 Qe4+ 67. Kg3 Qxe5+ 68. Kh4 Qd5 69. Kg5 Qd4 70. Kg6 Kd5 71. Kg5 f4
+72. Kg6 f3 73. Kg5 f2 74. Kg6 f1=Q 75. Kg5 Qdg1+ 76. Kh4 Qf4+ 77. Kh5 Qfh2# 0-1
+

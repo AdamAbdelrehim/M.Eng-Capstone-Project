@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.02.13"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "vanchessa4"]
+[Result "1/2-1/2"]
+[CurrentPosition "rnbqkbnr/pp1p1ppp/4p3/8/3NP3/8/PPP2PPP/RNBQKB1R b KQkq -"]
+[Timezone "UTC"]
+[ECO "B40"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-French-Variation-3.d4-cxd4-4.Nxd4"]
+[UTCDate "2023.02.13"]
+[UTCTime "21:12:08"]
+[WhiteElo "2002"]
+[BlackElo "2053"]
+[TimeControl "600"]
+[Termination "Game drawn by agreement"]
+[StartTime "21:12:08"]
+[EndDate "2023.02.13"]
+[EndTime "21:12:31"]
+[Link "https://www.chess.com/game/live/70061762417"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:09:54.4] } 2. Nf3 { [%clk 0:09:58] }
+2... e6 { [%clk 0:09:51.6] } 3. d4 { [%clk 0:09:56.2] } 3... cxd4
+{ [%clk 0:09:50.5] } 4. Nxd4 { [%clk 0:09:56.1] } 1/2-1/2
+

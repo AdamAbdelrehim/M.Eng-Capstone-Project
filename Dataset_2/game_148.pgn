@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.18"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Jackga217"]
+[Result "1-0"]
+[SetUp "1"]
+[FEN "rnbqkbnr/pppppppp/8/8/8/8/1PPPPPPP/R1BQKBNR w KQkq - 0 1"]
+[CurrentPosition "rn1qk2r/pbpp1ppp/1p6/b3p3/1P2P1n1/2PP2PN/5PBP/R1BQK2R w KQkq -"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Owens-Defense"]
+[UTCDate "2021.01.18"]
+[UTCTime "00:30:38"]
+[WhiteElo "1061"]
+[BlackElo "668"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "00:30:38"]
+[EndDate "2021.01.18"]
+[EndTime "00:31:52"]
+[Link "https://www.chess.com/game/live/6267406375"]
+
+1. e4 { [%clk 0:10:00] } 1... b6 { [%clk 0:10:00] } 2. g3 { [%clk 0:09:57.6] }
+2... Bb7 { [%clk 0:09:58.6] } 3. Bg2 { [%clk 0:09:55.8] } 3... e5
+{ [%clk 0:09:57.3] } 4. d3 { [%clk 0:09:52.2] } 4... Nf6 { [%clk 0:09:53.8] }
+5. Nh3 { [%clk 0:09:47.6] } 5... Bb4+ { [%clk 0:09:50.9] } 6. c3
+{ [%clk 0:09:45.2] } 6... Ba5 { [%clk 0:09:41.3] } 7. b4 { [%clk 0:09:41.4] }
+7... Ng4 { [%clk 0:09:28.2] } 1-0
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "JamesBondAgent007"]
+[Black "therealhamdanyelpi"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/NyYaLSAR"]
+[WhiteElo "2827"]
+[BlackElo "2619"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense, Semi-Slav Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:55:44"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-2"]
+
+1. c4 Nf6 2. Nf3 e6 3. g3 d5 4. Bg2 c6 5. O-O Bd6 6. d4 Ne4 7. Nfd2 f5 8. Nc3
+O-O 9. Ndxe4 fxe4 10. f3 exf3 11. exf3 dxc4 12. f4 a6 13. b3 cxb3 14. Qxb3 Kh8
+15. Bb2 c5 16. Ne4 cxd4 17. Bxd4 Nc6 18. Bb2 Be7 19. Rad1 Qe8 20. Qc3 Qf7 21.
+Ng5 Qf6 22. Qc2 Qf5 23. Be4 Qc5+ 24. Qxc5 Bxc5+ 25. Kg2 h6 26. Nf3 Rb8 27. Nh4
+Kg8 28. Ng6 Re8 29. h4 Ne7 30. Be5 Ra8 31. h5 Nxg6 32. hxg6 Ra7 33. Bb8 Ra8 34.
+Be5 Ra7 35. g4 b6 36. g5 Bb7 37. Kf3 Bxe4+ 38. Kxe4 Rae7 39. gxh6 gxh6 40. Rh1
+Rg7 41. Rxh6 Kf8 42. Rdh1 Rg8 43. Bf6 Be7 44. Be5 Bc5 45. R1h5 Re7 46. g7+ Kf7
+47. Rh8 Ree8 48. R5h6 Be7 49. f5 exf5+ 50. Kxf5 b5 51. Rxa6 b4 52. Ra7 Rxg7 53.
+Bxg7 1-0
+

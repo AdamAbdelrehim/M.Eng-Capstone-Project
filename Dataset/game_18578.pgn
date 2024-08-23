@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "cn_ua"]
+[Black "loasis"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/wr6i7WZB"]
+[WhiteTitle "IM"]
+[WhiteElo "2625"]
+[BlackElo "2416"]
+[ECO "E91"]
+[Opening "King's Indian Defense: Kazakh Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:12:27"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+24"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 Bg7 4. d4 O-O 5. e4 d6 6. Be2 Na6 7. Bg5 e5 8. dxe5
+dxe5 9. Qxd8 Rxd8 10. Nd5 Nxd5 11. Bxd8 Ndb4 12. O-O Bg4 13. Bg5 Bxf3 14. Bxf3
+Nc2 15. Rad1 Nd4 16. Be3 Nb4 17. Bxd4 exd4 18. a3 Nc6 19. b4 a5 20. b5 Ne5 21.
+Be2 Rd8 22. Bd3 Nd7 23. f4 Bf8 24. a4 Nb6 25. Ra1 Bb4 26. Kf2 Bc3 27. Ra2 Nd7
+28. Ke2 Nc5 29. e5 f6 30. Bb1 Re8 31. Kf3 fxe5 32. Re2 d3 33. Re3 e4+ 34. Kg4
+Bd4 35. Ree1 e3 36. Bxd3 Nxd3 37. Re2 Nb2 38. c5 Bxc5 39. Rxb2 Bb4 40. Re2 Bc5
+41. Rd1 Re4 42. Rd8+ Kf7 43. Rd7+ Kf6 44. Rxc7 b6 45. Kf3 Rxa4 46. g4 h6 47. h4
+Rb4 48. g5+ hxg5 49. hxg5+ Ke6 50. Rc6+ Kd5 51. Rxg6 Rxb5 52. Rf6 Rb1 53. g6
+Rf1+ 54. Kg2 Rd1 55. g7 Bd4 56. g8=Q+ Kc5 57. Rf5+ Kb4 58. Qf8+ Bc5 59. Rxc5
+bxc5 60. Rxe3 Rd4 61. Kf3 Rc4 62. Re5 a4 63. f5 Rc3+ 64. Re3 Rc4 65. Re4 Rxe4
+66. Kxe4 a3 67. Qb8+ Kc3 68. Qb5 c4 69. Qa4 Kb2 0-1
+

@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Alfilparanoico"]
+[Black "Aesio2005"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/PEV2H6z3"]
+[WhiteElo "2547"]
+[BlackElo "2489"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:43:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. d4 d5 2. Bf4 Bf5 3. e3 e6 4. Nf3 Nf6 5. Ne5 Be7 6. g4 Be4 7. f3 Bg6 8. h4 h6
+9. Nxg6 fxg6 10. Bd3 Kf7 11. h5 g5 12. Bg6+ Kf8 13. Be5 Nbd7 14. f4 1-0
+

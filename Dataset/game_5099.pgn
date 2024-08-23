@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "cn_ua"]
+[Black "mdynl123"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/b1KvmGQd"]
+[WhiteTitle "IM"]
+[BlackTitle "FM"]
+[WhiteElo "2591"]
+[BlackElo "2489"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Queenside Fianchetto Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:29:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. Nf3 b6 2. c4 Bb7 3. g3 e6 4. Bg2 f5 5. O-O Nf6 6. d3 d6 7. Nc3 Nbd7 8. Nd4
+Bxg2 9. Nxe6 Qe7 10. Nxc7+ Kd8 11. Kxg2 Kxc7 12. Bg5 Qe6 13. e3 h6 14. Qf3 Be7
+15. Nb5+ Kb8 16. Qxa8+ Kxa8 17. Nc7+ Kb7 18. Nxe6 hxg5 19. Nxg7 f4 20. Nf5 Bf8
+21. exf4 gxf4 22. d4 f3+ 23. Kxf3 Rxh2 24. Rh1 Rxh1 25. Rxh1 d5 26. cxd5 Nxd5
+27. Rh7 Kc6 28. Ne3 Nb4 29. a3 Nc2 30. Nxc2 1-0
+

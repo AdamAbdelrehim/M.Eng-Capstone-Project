@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "G_M_Belal"]
+[Black "Arthas_tsalb"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/37DwHniw"]
+[WhiteElo "2454"]
+[BlackElo "2612"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Accelerated Panov Attack, Modern Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:16:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+3"]
+
+1. e4 c6 2. c4 d5 3. cxd5 cxd5 4. exd5 Nf6 5. Nc3 Nxd5 6. Bc4 e6 7. Nf3 Nc6 8.
+O-O Nb6 9. Bb3 Be7 10. d4 O-O 11. Be3 Nb4 12. a3 N4d5 13. Qd2 Nxe3 14. fxe3 Bd7
+15. e4 Rc8 16. Ne5 Bg5 17. Qf2 Qf6 18. Qg3 Qh6 19. Kh1 Bc6 20. d5 exd5 21. exd5
+Bd7 22. a4 Bf6 23. Ng4 Bxg4 24. Qxg4 Be5 25. h3 Bxc3 26. bxc3 Rxc3 27. Rab1 Qg6
+28. Qe2 Nd7 29. Qe7 Nc5 30. Bd1 Qxb1 31. Be2 Rc1 32. Rxc1 Qxc1+ 33. Kh2 Qf4+
+34. g3 Qf2+ 35. Kh1 Qxg3 36. Qxc5 Qxh3+ 37. Kg1 Qg3+ 38. Kf1 Qf4+ 39. Kg2 Rd8
+40. Bf3 g6 41. Qxa7 Qd2+ 42. Kg3 Rxd5 43. Qb8+ Kg7 44. Qxb7 Rg5+ 45. Kh4 Qf4+
+46. Kh3 Qg3# 0-1
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Kassimov_Arnur"]
+[Black "rrs03"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/PnFP6ZX9"]
+[WhiteElo "2552"]
+[BlackElo "2588"]
+[ECO "B24"]
+[Opening "Sicilian Defense: Closed"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "06:24:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-6"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. d3 e5 6. Nge2 Nge7 7. Bg5 d6 8. Nd5
+O-O 9. Nf6+ Kh8 10. Qd2 Be6 11. h4 h5 12. g4 Bxg4 13. Nxg4 hxg4 14. h5 gxh5 15.
+Rxh5+ Kg8 16. O-O-O f6 17. Bh6 Qa5 18. Nc3 Ng6 19. Bxg7 Kxg7 20. Qh6+ Kf7 21.
+Qh7+ Ke6 22. Qxg6 Ne7 23. Qxg4+ Kf7 24. Rh7+ 1-0
+

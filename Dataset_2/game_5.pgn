@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.02.24"]
+[Round "-"]
+[White "DBARRIER"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "rnb1kb1r/pp1p1ppp/4p3/2p5/3P2nN/2P1P3/PP3qPP/RNBQKB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Mieses-Opening"]
+[UTCDate "2014.02.24"]
+[UTCTime "00:18:34"]
+[WhiteElo "942"]
+[BlackElo "908"]
+[TimeControl "60"]
+[Termination "AdamAbdelrehim won by checkmate"]
+[StartTime "00:18:34"]
+[EndDate "2014.02.24"]
+[EndTime "00:18:59"]
+[Link "https://www.chess.com/game/live/735203441"]
+
+1. d3 { [%clk 0:01:00] } 1... e6 { [%clk 0:01:00] } 2. c3 { [%clk 0:00:58.8] }
+2... Qf6 { [%clk 0:00:58.8] } 3. d4 { [%clk 0:00:57.4] } 3... c5
+{ [%clk 0:00:57.5] } 4. e3 { [%clk 0:00:53.2] } 4... Nh6 { [%clk 0:00:55.9] }
+5. Nf3 { [%clk 0:00:48.9] } 5... Ng4 { [%clk 0:00:54.3] } 6. Nh4
+{ [%clk 0:00:46.6] } 6... Qxf2# { [%clk 0:00:51.8] } 0-1
+

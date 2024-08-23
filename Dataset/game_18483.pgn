@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Blauregen"]
+[Black "Zari_Huella"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/vdesVdOA"]
+[WhiteElo "2435"]
+[BlackElo "2571"]
+[ECO "D59"]
+[Opening "Queen's Gambit Declined: Tartakower Defense, Makogonov Exchange Variation"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:59:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 h6 6. Bh4 O-O 7. Nf3 b6 8. cxd5
+Nxd5 9. Bg3 Nxc3 10. bxc3 c5 11. Bd3 Bb7 12. O-O Nc6 13. Qe2 Rc8 14. Rac1 cxd4
+15. exd4 Bf6 16. Qe4 g6 17. h4 Ba8 18. Qg4 h5 19. Qf4 Bg7 20. Rfe1 Ne7 21. Ne5
+Nf5 22. Bh2 Bh6 0-1
+

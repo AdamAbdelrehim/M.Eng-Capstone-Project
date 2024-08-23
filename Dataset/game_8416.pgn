@@ -1,0 +1,31 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "bot_adario"]
+[Black "caissa-x"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/kFb6vI4X"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2710"]
+[BlackElo "3033"]
+[ECO "D38"]
+[Opening "Queen's Gambit Declined: Ragozin Defense, Alekhine Variation"]
+[TimeControl "600+3"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:40:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Bb4 5. Qa4+ Nc6 6. Qc2 dxc4 7. e3 b5 8. a4
+Na5 9. axb5 a6 10. Bd2 O-O 11. Ra4 Qe7 12. bxa6 Bxa6 13. Be2 Bb7 14. O-O Rfb8
+15. Rd1 c5 16. dxc5 Qxc5 17. Nd4 h6 18. h3 Nc6 19. Nf3 Na5 20. Ra2 Nb3 21. Rxa8
+Rxa8 22. Na4 Rxa4 23. Bxb4 Qb6 24. Be1 Be4 25. Qc3 Nd5 26. Qe5 Nc5 27. Bc3 f6
+28. Qh5 Nxc3 29. bxc3 Kh7 30. Nd4 Bg6 31. Qg4 Qa6 32. Nf3 Bd3 33. Nh4 Qb5 34.
+Bf3 Ra7 35. Be2 Ra8 36. Qh5 Qb2 37. Bf3 Rc8 38. Qf7 Qxc3 39. Bh5 Qb3 40. Rc1 c3
+41. Bg6+ Kh8 42. Bxd3 Nxd3 43. Nf5 exf5 44. Qxb3 Nxc1 45. Qb7 Rc5 46. Qa7 Nd3
+47. Qb8+ Kh7 48. Kh2 Nxf2 49. Qb6 Nd3 50. g4 c2 51. Qd8 Ne5 52. Kg2 c1=Q 53.
+Qd3 Nxd3 54. gxf5 Qxe3 55. Kh2 Rc2+ 56. Kh1 Qc1# 0-1
+

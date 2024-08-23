@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "viennadragon"]
+[Black "Incognizance"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/xfDjFm2O"]
+[BlackTitle "CM"]
+[WhiteElo "2512"]
+[BlackElo "2364"]
+[ECO "D85"]
+[Opening "Grünfeld Defense: Exchange Variation, Modern Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:30:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 Bg7 7. Nf3 O-O 8.
+Be3 c5 9. Qd2 Qa5 10. Rc1 cxd4 11. cxd4 Qxd2+ 12. Nxd2 Nc6 13. Nb3 Bd7 14. d5
+Nb4 15. a3 Na2 16. Rc7 Ba4 17. Nd4 Rac8 18. Rxb7 Bxd4 19. Bxd4 Rc1+ 20. Kd2
+Rfc8 21. Rb2 Rd1+ 22. Ke3 Nc1 23. Ba6 Rxh1 24. Bxc8 Re1+ 25. Kf3 Bd1+ 26. Kg3
+Ne2+ 27. Rxe2 Rxe2 28. f3 Ra2 29. Bxa7 Rxa3 30. Bb6 Ra2 31. Bh3 Kg7 32. Bd4+ f6
+33. Be6 Be2 34. d6 exd6 35. Bxa2 1-0
+

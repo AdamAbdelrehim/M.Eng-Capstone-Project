@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "DailyTornado"]
+[Black "Belost"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/KInXyGKl"]
+[WhiteElo "2551"]
+[BlackElo "2405"]
+[ECO "B00"]
+[Opening "Pirc Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:47:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 exd4 5. Nxd4 Be7 6. Bf4 O-O 7. Qd2 d5 8. e5
+Nh5 9. Be2 Nxf4 10. Qxf4 c5 11. Nf5 Bg5 12. Qf3 Nc6 13. Nxd5 Nxe5 14. Qe4 Bxf5
+15. Qxe5 Be6 16. Ne3 Bf6 17. Qxc5 Bxb2 18. Rd1 Qc8 19. Qxc8 Raxc8 20. a4 Bc3+
+21. Kf1 Rfd8 22. Rxd8+ Rxd8 23. Bd3 Rd4 24. Nd1 Rxa4 25. Ke2 Ra1 26. Rf1 Be5
+27. f4 Bd4 28. h3 Bd5 0-1
+

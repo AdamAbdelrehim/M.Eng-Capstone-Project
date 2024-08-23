@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "PurpleHunter"]
+[Black "InanisBot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/njjpHniz"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2598"]
+[BlackElo "2416"]
+[ECO "A30"]
+[Opening "English Opening: Symmetrical Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:30:25"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. c4 c5 2. Nf3 Nc6 3. g3 e6 4. Bg2 Nf6 5. O-O d5 6. cxd5 exd5 7. d4 h6 8. b3
+Bd6 9. Nc3 O-O 10. Bb2 a6 11. Na4 cxd4 12. Nxd4 Ne5 13. Nc3 Neg4 14. h3 Ne5 15.
+Nc2 Bc7 16. Nb4 d4 17. Ncd5 Nxd5 18. Nxd5 Bxh3 19. Bxh3 Qxd5 20. Qxd4 Rad8 21.
+Qxd5 Rxd5 22. Bc3 Nc6 23. Rac1 Rfd8 24. Bg2 Rc5 25. b4 Rc4 26. a3 Bb6 27. e3
+Rd6 28. Rfe1 h5 29. Bf1 Re4 30. Rcd1 Rd8 31. Bd3 Re6 32. Be2 g6 33. a4 Re4 34.
+b5 Rxd1 35. Rxd1 axb5 36. axb5 Nd8 37. Rd6 Bc7 38. Rd7 Ne6 39. Bf6 Rb4 40. Kg2
+b6 41. f4 Re4 42. Kf3 Ra4 43. Bf1 Kf8 44. Bh3 Rc4 45. e4 Rc1 46. Bxe6 fxe6 47.
+e5 Rc3+ 48. Kg2 Rc1 49. Rh7 Rc2+ 50. Kh3 Kg8 51. Rg7+ Kf8 52. Kh4 Bd8 53. Rxg6
+Be7 54. Bxe7+ Kxe7 55. Rg7+ Kf8 56. Rb7 Rc3 57. Rxb6 Ke7 58. Ra6 Rb3 59. Ra7+
+Ke8 60. Rb7 Kd8 61. Rg7 Rxb5 62. Kxh5 Rb3 63. g4 Re3 64. Kg6 Re4 65. Rf7 Ke8
+66. Rf6 Rc4 67. Rxe6+ Kd8 68. Kg5 Rc7 69. f5 Rf7 70. Kg6 Rb7 71. Kf6 Rh7 72. g5
+Rh8 73. Re7 Rf8+ 74. Rf7 Kc8 75. Rxf8+ Kb7 76. Re8 Kc6 77. g6 Kc7 78. Re6 Kd7
+79. g7 Kc7 80. g8=Q Kd7 1/2-1/2
+

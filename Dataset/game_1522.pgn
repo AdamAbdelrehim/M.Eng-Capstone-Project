@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Dmitry_Alekseevic"]
+[Black "cn_ua"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/C9p1ktQf"]
+[BlackTitle "IM"]
+[WhiteElo "2593"]
+[BlackElo "2612"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Kingside Fianchetto"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:03:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. Nf3 g6 2. d4 Bg7 3. c3 b6 4. Qc2 Bb7 5. e4 c5 6. d5 d6 7. a4 Nf6 8. h3 O-O
+9. Be3 e6 10. dxe6 fxe6 11. Nbd2 d5 12. exd5 exd5 13. Be2 Nc6 14. O-O Qc7 15.
+Rfe1 Rae8 16. Bf1 Kh8 17. Rad1 Qb8 18. Qc1 Nh5 19. Qb1 Nf4 20. Bxf4 Qxf4 21. g3
+Qf6 22. Bg2 Ne5 23. Re2 Nxf3+ 0-1
+

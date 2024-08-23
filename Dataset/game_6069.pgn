@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Spago"]
+[Black "valemava"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/eFrq4lNy"]
+[WhiteElo "2507"]
+[BlackElo "2344"]
+[ECO "D21"]
+[Opening "Queen's Gambit Accepted: Rosenthal Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:29:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+
+1. d4 e6 2. c4 d5 3. Nf3 dxc4 4. e3 a6 5. Bxc4 b5 6. Be2 Bb7 7. O-O Nf6 8. b3
+c5 9. Bb2 cxd4 10. Nxd4 Be7 11. a4 b4 12. Bf3 Qb6 13. Nd2 O-O 14. Nc4 Qa7 15.
+Rc1 Nbd7 16. Na5 Bxf3 17. Qxf3 Ne5 18. Qg3 Ng6 19. Rc7 Qb6 20. Nc4 Qb8 21. Nc6
+Qe8 22. Nxe7+ Nxe7 23. Bxf6 Nf5 24. Qg4 h5 25. Qg5 Kh7 26. Qxh5+ Nh6 27. Ba1
+Qd8 28. Be5 f6 29. Rd1 Qe8 30. Qxe8 Raxe8 31. Bb2 Kg6 32. h3 Nf5 33. Rdd7 Rg8
+34. e4 Nh4 35. f4 e5 36. f5+ Kh6 37. Kf2 Rd8 38. g3 Rxd7 39. Rxd7 Kh5 40. gxh4
+Kxh4 41. Ne3 Kxh3 42. Nd5 Kg4 43. Bc1 Kh5 44. Bd2 Rc8 45. Ke2 Rg8 46. Bxb4 Rb8
+47. Rxg7 a5 48. Bxa5 Rxb3 49. Bd2 Rb2 50. Nxf6+ Kh4 51. a5 Ra2 52. Ra7 Kg3 53.
+a6 Ra4 54. Ra8 Kg2 55. a7 Ra6 56. Rg8+ Kh3 57. a8=Q Rxa8 58. Rxa8 Kh2 59. Rg8
+Kh1 60. Kf2 Kh2 61. Rh8# 1-0
+

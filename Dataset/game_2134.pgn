@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "eliteMATI"]
+[Black "mick_chess"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/QBXsnQtj"]
+[WhiteElo "2764"]
+[BlackElo "2730"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:45:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Nc6 6. Na3 cxd4 7. cxd4 Bb4+ 8. Bd2
+Bd7 9. Nc2 Bxd2+ 10. Qxd2 Nge7 11. Bd3 Nf5 12. Bxf5 exf5 13. O-O O-O 14. h4 h6
+15. Rab1 Rfc8 16. Qf4 Be6 17. Ne3 Ne7 18. h5 Qd8 19. Rbc1 Qd7 20. g3 Rxc1 21.
+Rxc1 Rc8 22. Ng2 Rxc1+ 23. Qxc1 Qb5 24. Nf4 Nc6 25. Qc3 Qa4 26. a3 Qb5 27. Kg2
+a5 28. Nd3 b6 29. Nf4 a4 30. Nd3 Na5 31. Nd2 Bd7 32. Nb4 f4 33. gxf4 Qe2 34.
+Nf1 Qxh5 35. Ng3 Qd1 36. e6 fxe6 37. Qc7 Be8 38. Qxb6 Nc4 39. Qxe6+ Bf7 40.
+Qc8+ Kh7 41. Qd7 Kg8 42. Nc6 Nd2 43. Ne5 Bh5 44. Qxd5+ Kh7 45. Nxh5 Qxh5 46.
+Qf7 Qd1 47. Qf5+ Kg8 48. Qd3 Qc1 49. d5 Qxb2 50. d6 Qb7+ 51. f3 Qc8 52. d7 Qd8
+53. Qxd2 1-0
+

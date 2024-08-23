@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "bancsoo"]
+[Black "vistagusta"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/idobCCKl"]
+[WhiteTitle "GM"]
+[WhiteElo "2797"]
+[BlackElo "2782"]
+[ECO "A48"]
+[Opening "London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:38:11"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+
+1. Nf3 Nf6 2. d4 g6 3. Bf4 Bg7 4. c3 d6 5. e3 O-O 6. h3 Nbd7 7. Bh2 b6 8. Nbd2
+Bb7 9. a4 a5 10. Be2 Re8 11. O-O e5 12. Qb3 Qe7 13. dxe5 dxe5 14. Qa3 Qxa3 15.
+Rxa3 Rad8 16. Nc4 Ba6 17. Re1 Ne4 18. b4 Bf8 19. Rb1 f6 20. Rab3 axb4 21. cxb4
+Kg7 22. Bf1 Bb7 23. a5 bxa5 24. Nxa5 Bd5 25. Bc4 Nb6 26. Bxd5 Nxd5 27. Nc6 Ra8
+28. Rc1 Ra2 29. Bg3 Rea8 30. Kh2 Nxf2 31. Bxf2 Rxf2 32. Ne1 Raa2 33. b5 e4 34.
+Rc4 Bd6+ 35. Kg1 f5 36. Rd4 Nb6 37. Nb4 Bxb4 38. Rbxb4 Rfe2 39. Kf1 Rf2+ 40.
+Kg1 Rfe2 41. Kf1 Kh6 42. Rb1 Rf2+ 43. Kg1 Rfe2 44. Rc1 Rad2 45. Rxd2 Rxd2 46.
+Rxc7 Re2 47. Kf1 Rxe3 48. Rc6 Nd5 49. Kf2 Rb3 50. Rc5 Nf4 51. Nc2 Nd3+ 52. Ke3
+Rb2 53. Kd4 Nb4 54. Ne3 Nd3 55. Rc4 Rb1 56. Nd5 f4 57. Nxf4 Nxf4 58. Kxe4 Ne2
+59. Kd5 Ng3 60. Kc6 Nf5 61. Rc5 Rc1 62. b6 Rxc5+ 63. Kxc5 Ne7 64. Kd6 Nf5+ 65.
+Kc7 Kg5 66. Kc6 h5 67. Kb7 Kh6 68. Kb8 Ng7 69. b7 Kh7 70. Kc8 Nf5 71. b8=Q Ng7
+72. Qc7 h4 73. Qd7 g5 74. Qe7 Kg6 75. Qxg5+ 1-0
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "ilprofessore87"]
+[Black "JelenaZ"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Am1TkydI"]
+[WhiteElo "2592"]
+[BlackElo "2596"]
+[ECO "B50"]
+[Opening "Sicilian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:21:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 e6 5. Nc3 a6 6. g4 Be7 7. Be3 b5 8. a3
+Bb7 9. Qd2 Nf6 10. f3 Nfd7 11. O-O-O Nb6 12. g5 N8d7 13. h4 Ne5 14. Qe1 Nbc4
+15. Bf2 Qa5 16. f4 Ng4 17. Bxc4 bxc4 18. Bg3 h5 19. Rf1 Rb8 20. f5 e5 21. f6
+exd4 22. fxe7 dxc3 23. Bxd6 cxb2+ 24. Kb1 Qxe1 25. Rfxe1 Rc8 0-1
+

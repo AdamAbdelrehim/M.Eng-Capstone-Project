@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Kyoka_Izumi"]
+[Black "Prul1979"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/GGMQCYFG"]
+[WhiteElo "2645"]
+[BlackElo "2649"]
+[ECO "A10"]
+[Opening "English Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:18:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. c4 d6 2. g3 e5 3. Bg2 g6 4. Nc3 Bg7 5. e3 Ne7 6. Nge2 Nbc6 7. O-O O-O 8. Rb1
+Be6 9. Nd5 Qd7 10. b4 Nd8 11. Nxe7+ Qxe7 12. Bxb7 Nxb7 0-1
+

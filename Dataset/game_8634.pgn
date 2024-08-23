@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "HomeAp"]
+[Black "kredit-macet"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/9cF3Loet"]
+[WhiteElo "2578"]
+[BlackElo "2558"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Levitsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "04:12:50"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+14"]
+
+1. d4 d5 2. Bg5 h6 3. Bh4 g5 4. Bg3 Bg7 5. Nc3 c5 6. e3 a6 7. h4 Nf6 8. hxg5
+hxg5 9. Rxh8+ Bxh8 10. Nf3 Bg4 11. Be2 Bxf3 12. Bxf3 cxd4 13. Qxd4 Nc6 14. Qa4
+b5 15. Qb3 e6 16. a4 b4 17. Ne2 Ne4 18. O-O-O Qf6 19. Bxe4 dxe4 20. Nd4 Rc8 21.
+a5 Bg7 22. Qa4 Kf8 23. Nxc6 Qxb2+ 24. Kd2 Qc3+ 25. Kc1 Rxc6 26. Bd6+ Kg8 27.
+Bxb4 Qc4 28. g4 Kh7 29. Rd8 Bf6 30. Rb8 Qf1+ 31. Kd2 Qxf2+ 32. Kd1 Qf1+ 33. Be1
+Rd6+ 34. Qd4 Bxd4 35. c4 Be5+ 36. Kc2 Qd3+ 37. Kc1 Qd1# 0-1
+

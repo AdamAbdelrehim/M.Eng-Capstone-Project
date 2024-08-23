@@ -1,0 +1,36 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.03"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Mike889137"]
+[Result "1-0"]
+[CurrentPosition "k2r1b1r/2p2pp1/P2pq1np/3Np3/3nP3/1P1Q3P/1BPP1PP1/R3K2R w KQ -"]
+[Timezone "UTC"]
+[ECO "C41"]
+[ECOUrl "https://www.chess.com/openings/Philidor-Defense-3.Bc4"]
+[UTCDate "2021.08.03"]
+[UTCTime "05:24:34"]
+[WhiteElo "1602"]
+[BlackElo "1587"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "05:24:34"]
+[EndDate "2021.08.03"]
+[EndTime "05:28:17"]
+[Link "https://www.chess.com/game/live/21707373593"]
+
+1. e4 { [%clk 0:09:51.2] } 1... e5 { [%clk 0:09:57.3] } 2. Nf3
+{ [%clk 0:09:38.4] } 2... d6 { [%clk 0:09:54.7] } 3. Bc4 { [%clk 0:09:34.3] }
+3... h6 { [%clk 0:09:48.6] } 4. Nc3 { [%clk 0:09:31.9] } 4... Bg4
+{ [%clk 0:09:46.7] } 5. h3 { [%clk 0:09:26.9] } 5... Bxf3 { [%clk 0:09:44] } 6.
+Qxf3 { [%clk 0:09:24.8] } 6... Qf6 { [%clk 0:09:43.5] } 7. Qd3
+{ [%clk 0:09:01.5] } 7... Nc6 { [%clk 0:09:35.8] } 8. b3 { [%clk 0:08:52.6] }
+8... Nge7 { [%clk 0:09:33.3] } 9. Bb2 { [%clk 0:08:50.5] } 9... O-O-O
+{ [%clk 0:09:30.9] } 10. a4 { [%clk 0:08:31.8] } 10... Ng6 { [%clk 0:09:26.2] }
+11. a5 { [%clk 0:08:29.8] } 11... a6 { [%clk 0:09:21.4] } 12. Bxa6
+{ [%clk 0:08:27.1] } 12... Nd4 { [%clk 0:09:04] } 13. Nd5 { [%clk 0:08:09.4] }
+13... Qe6 { [%clk 0:08:36.4] } 14. Bxb7+ { [%clk 0:08:05.8] } 14... Kxb7
+{ [%clk 0:08:34.6] } 15. a6+ { [%clk 0:08:04.1] } 15... Ka8
+{ [%clk 0:08:23.8] } 1-0
+

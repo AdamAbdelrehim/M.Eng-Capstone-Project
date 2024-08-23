@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "DR_speedrun_2700"]
+[Black "zcx001"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/RS76Jlp1"]
+[WhiteElo "2582"]
+[BlackElo "2781"]
+[ECO "B00"]
+[Opening "Van Geet Opening: Berlin Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "02:08:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+7"]
+
+1. e4 Nc6 2. d4 d5 3. Nc3 dxe4 4. d5 Nb8 5. Nxe4 c6 6. Bc4 cxd5 7. Qxd5 Qxd5 8.
+Bxd5 e6 9. Bb3 b6 10. Bf4 Bb7 11. Ba4+ Bc6 12. Bxc6+ Nxc6 13. O-O-O Nf6 14.
+Nd6+ Bxd6 15. Bxd6 O-O-O 16. f3 Nd5 17. Bg3 Ncb4 18. Ne2 Nxa2+ 19. Kb1 Nab4 20.
+Rd4 Nc6 21. Rd3 Ndb4 22. Rc3 Kb7 23. Nf4 Nd5 24. Ra3 Nxf4 25. Bxf4 Rd5 26. Re1
+Rhd8 27. Kc1 a5 28. c3 h6 29. Ra4 g5 30. Be3 Ne5 31. Kc2 R8d7 32. h4 Ng6 33.
+hxg5 hxg5 34. Re4 Nh4 35. Re2 Ng6 36. c4 Rf5 37. Rd2 Rxd2+ 38. Bxd2 Kc6 39. b3
+Nf4 40. g4 Rf6 41. Re5 Ng6 42. Re3 Nh4 43. Kd3 Rxf3 44. Ke4 Rxe3+ 45. Bxe3 f6
+46. Bd4 e5 47. Bf2 b5 48. cxb5+ Kxb5 49. Be1 a4 50. bxa4+ Kxa4 51. Kd5 Kb3 52.
+Ke6 Nf3 53. Ba5 e4 54. Bb6 Kc4 55. Kxf6 Kd3 56. Kf5 e3 57. Ba5 e2 58. Bb4 Ke3
+59. Bc5+ Kd3 60. Bb4 Nd2 61. Kxg5 e1=Q 0-1
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "colnago_master"]
+[Black "shreckm8"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/DinwfVq6"]
+[WhiteElo "2385"]
+[BlackElo "2505"]
+[ECO "D19"]
+[Opening "Slav Defense: Czech Variation, Classical System, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:23:22"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 dxc4 5. a4 Bf5 6. e3 e6 7. Bxc4 Bb4 8. O-O
+O-O 9. Qe2 Bg6 10. Ne5 Nbd7 11. Nxg6 hxg6 12. Rd1 Qe7 13. e4 e5 14. d5 Nb6 15.
+Bb3 Bxc3 16. bxc3 cxd5 17. exd5 Rfd8 18. c4 Nbd7 19. Ba3 Nc5 20. Bxc5 Qxc5 21.
+Qxe5 Qxf2+ 22. Kxf2 Ng4+ 23. Kf3 Nxe5+ 24. Ke4 Re8 25. Kd4 Rad8 26. Re1 Nc6+
+27. Kc3 Ne5 28. Re4 b6 29. Rae1 f6 30. a5 Kf8 31. axb6 axb6 32. g4 Nxg4 33. Ba4
+Rxe4 34. Rxe4 Ne5 35. Kb4 Ra8 36. Bb3 g5 37. c5 Nd3+ 38. Kb5 Nxc5 39. Re3 Nxb3
+40. Rxb3 Ra5+ 41. Kc6 Rc5+ 42. Kd6 Rc2 43. Rxb6 Rxh2 44. Rb8+ Kf7 45. Rb7+ Kg6
+46. Ke7 Re2+ 47. Kd8 Rd2 48. Rb5 g4 49. Ke7 f5 50. d6 f4 51. d7 g3 52. Rb6+ Kf5
+53. Rd6 Rxd6 54. Kxd6 g2 55. d8=Q g1=Q 56. Qf8+ Ke4 0-1
+

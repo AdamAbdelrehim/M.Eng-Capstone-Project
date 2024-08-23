@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.08.28"]
+[Round "-"]
+[White "221znx"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r4knr/1bp3pp/2p2q2/1p2p2Q/8/1P2P1P1/P2PN2P/RN2KR2 b Q -"]
+[Timezone "UTC"]
+[ECO "A01"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Larsen-Attack-Classical-Variation-2.e3"]
+[UTCDate "2023.08.28"]
+[UTCTime "19:31:15"]
+[WhiteElo "1876"]
+[BlackElo "1868"]
+[TimeControl "600"]
+[Termination "221znx won by resignation"]
+[StartTime "19:31:15"]
+[EndDate "2023.08.28"]
+[EndTime "19:34:45"]
+[Link "https://www.chess.com/game/live/86989896315"]
+
+1. b3 { [%clk 0:10:00] } 1... d5 { [%clk 0:09:56.4] } 2. e3
+{ [%clk 0:09:58.5] } 2... Nc6 { [%clk 0:09:56.3] } 3. Bb2 { [%clk 0:09:56.2] }
+3... e5 { [%clk 0:09:55.9] } 4. Bb5 { [%clk 0:09:54.7] } 4... Bd6
+{ [%clk 0:09:52.7] } 5. f4 { [%clk 0:09:53.1] } 5... f6 { [%clk 0:09:50.4] } 6.
+c4 { [%clk 0:09:30.8] } 6... a6 { [%clk 0:09:44.3] } 7. cxd5
+{ [%clk 0:09:08.2] } 7... axb5 { [%clk 0:09:30] } 8. dxc6 { [%clk 0:09:07] }
+8... bxc6 { [%clk 0:09:27.2] } 9. g3 { [%clk 0:08:34.8] } 9... Bb7
+{ [%clk 0:09:21.6] } 10. fxe5 { [%clk 0:08:20.5] } 10... Bxe5
+{ [%clk 0:09:07.1] } 11. Bxe5 { [%clk 0:08:14.5] } 11... fxe5
+{ [%clk 0:09:07] } 12. Qh5+ { [%clk 0:08:10.6] } 12... Kf8 { [%clk 0:08:58.8] }
+13. Ne2 { [%clk 0:08:02.9] } 13... Qf6 { [%clk 0:08:44.7] } 14. Rf1
+{ [%clk 0:07:55] } 1-0
+

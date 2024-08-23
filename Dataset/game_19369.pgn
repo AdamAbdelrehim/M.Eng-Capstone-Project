@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "habitualthinker"]
+[Black "Mikkel_Vinh"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/EudwS3mg"]
+[BlackTitle "CM"]
+[WhiteElo "2522"]
+[BlackElo "2513"]
+[ECO "E70"]
+[Opening "King's Indian Defense: Kramer Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:09:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. c4 Nf6 2. Nc3 g6 3. d4 Bg7 4. e4 d6 5. Nge2 O-O 6. Ng3 a5 7. Be2 e5 8. d5
+Nbd7 9. h4 h5 10. Bg5 b6 11. Qd2 Kh7 12. O-O-O a4 13. f4 exf4 14. Qxf4 Qe8 15.
+Rdf1 Qe5 16. Qf2 a3 17. Bf4 axb2+ 18. Kxb2 Rxa2+ 19. Kxa2 Qxc3 20. Qe3 Qc2+ 21.
+Ka3 Bb7 22. Qb3 Ra8+ 23. Kb4 Qxb3+ 24. Kxb3 Nc5+ 25. Kc2 Nfxe4 26. Nxe4 Ra2+
+27. Kd1 Nxe4 28. Rh3 Ba6 29. Re3 Nc3+ 30. Ke1 Nxe2 31. Rxe2 Rxe2+ 32. Kxe2
+Bxc4+ 33. Kf2 Bxf1 34. Kxf1 0-1
+

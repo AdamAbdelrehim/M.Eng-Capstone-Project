@@ -1,0 +1,39 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "BitByByte"]
+[Black "Hoon_Bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/BeurcL22"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2900"]
+[BlackElo "2882"]
+[ECO "D06"]
+[Opening "Queen's Gambit Declined: Marshall Defense"]
+[TimeControl "600+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:40:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+1"]
+
+1. d4 Nf6 2. c4 d5 3. cxd5 Nxd5 4. Nf3 Bf5 5. Nbd2 Nb6 6. e4 Bg6 7. h4 h6 8. d5
+e6 9. dxe6 Qf6 10. Bb5+ c6 11. exf7+ Bxf7 12. Be2 N8d7 13. O-O O-O-O 14. Qc2 g5
+15. b3 Bg7 16. Rb1 Qe7 17. Bb2 Bxb2 18. Qxb2 Kb8 19. a4 a6 20. Nd4 gxh4 21. a5
+Nc8 22. Nf5 Qb4 23. Nc4 Rhe8 24. f3 Nc5 25. Qg7 Bxc4 26. Bxc4 Nd6 27. Nxd6 Rxd6
+28. Qf7 Red8 29. Qf4 Ka8 30. Qxh4 Rd2 31. e5 Qxa5 32. e6 Qc3 33. Rbe1 Rg8 34.
+g4 Nd3 35. Bxd3 Qxd3 36. e7 Re8 37. Qh5 Qd4+ 38. Kh1 Qd7 39. Qxh6 Qd3 40. Kg1
+Qc2 41. Re5 Rg2+ 42. Kh1 Ka7 43. Qh4 Qb2 44. Rfe1 c5 45. Rxc5 Rf2 46. Rce5 Rxf3
+47. g5 Qd2 48. R1e2 Qc1+ 49. Re1 Qd2 50. Kg1 Ka8 51. R1e2 Qd1+ 52. Kh2 Rf1 53.
+Qe4 Rg1 54. Re6 Rh8+ 55. Rh6 Rxh6+ 56. gxh6 Rh1+ 57. Qxh1 Qxe2+ 58. Qg2 Qxe7
+59. Qg6 Qe5+ 60. Kh3 Qe3+ 61. Kh4 Qf4+ 62. Kh5 Qh2+ 63. Kg4 Qg2+ 64. Kf5 Qc2+
+65. Kf6 Qc6+ 66. Kg7 Qc7+ 67. Kg8 Qd8+ 68. Kg7 Qc7+ 69. Kg8 Qd8+ 70. Kh7 Qd7+
+71. Kh8 Qd4+ 72. Qg7 Qe3 73. Qg6 Ka7 74. Kg7 Qd4+ 75. Qf6 Qd7+ 76. Kg6 Qg4+ 77.
+Qg5 Qe6+ 78. Qf6 Qg4+ 79. Qg5 Qe6+ 80. Kh7 Qf7+ 81. Qg7 Qf5+ 82. Kg8 Qe6+ 83.
+Kh7 Qf5+ 84. Kg8 Qd5+ 85. Kf8 Qf3+ 86. Qf7 Qe3 87. h7 Qc5+ 88. Kg7 Qg5+ 89. Qg6
+Qe7+ 90. Kg8 Qd8+ 91. Kf7 Qd7+ 92. Kg8 Qd8+ 93. Kf7 Qd7+ 94. Kf6 Qd6+ 95. Kg7
+Qe7+ 96. Qf7 Qg5+ 97. Kf8 Qd8+ 98. Qe8 Qf6+ 99. Kg8 Qg5+ 100. Kh8 Qf6+ 101. Kg8
+Qg5+ 102. Kh8 Qf6+ 103. Kg8 1/2-1/2
+

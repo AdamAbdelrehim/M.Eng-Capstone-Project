@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "shooshoo"]
+[Black "downward"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/pL6az6MQ"]
+[WhiteElo "2509"]
+[BlackElo "2360"]
+[ECO "A05"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:14:45"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-23"]
+[BlackRatingDiff "+7"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 b6 5. Bg2 Bb7 6. c4 O-O 7. d4 d5 8. cxd5
+Nxd5 9. Nbd2 c5 10. O-O Nc6 11. Nc4 b5 12. Nce5 Nxe5 13. Nxe5 Bxe5 14. dxe5 c4
+15. bxc4 bxc4 16. Rc1 Rc8 17. Qd4 c3 18. Ba1 Qb6 19. Qxb6 axb6 20. Rfd1 e6 21.
+a3 c2 22. Rd2 Rfd8 23. Bb2 b5 24. Rdxc2 Rxc2 25. Rxc2 Rc8 26. Rxc8+ Bxc8 27.
+Kf1 Bb7 28. Ke1 Kf8 29. e4 Nb6 30. Bc3 Nc4 31. Bb4+ Ke8 32. f4 h5 33. Bf3 Kd7
+34. Ke2 Nb6 35. Kd3 Nc4 36. Kd4 Kc6 37. f5 Nb6 38. f6 Nc4 39. h4 Nb6 40. g4
+hxg4 41. Bxg4 Kd7 42. h5 gxh5 43. Bxh5 Ke8 44. Bf3 Na4 45. Bd1 Bc6 46. Bxa4
+bxa4 47. Kc5 Bxe4 48. Kd6 Bc2 0-1
+

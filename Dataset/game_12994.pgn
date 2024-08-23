@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Mettigel"]
+[Black "superRandom_123456"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/oxfuAz1A"]
+[WhiteElo "2476"]
+[BlackElo "2558"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:43:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 d6 5. c3 Be6 6. Bb5 Bg4 7. h3 Bh5 8. Nbd2
+Ne7 9. Nf1 O-O 10. g4 Bg6 11. Ng3 d5 12. Qe2 f6 13. Nh4 Bf7 14. Nhf5 Nxf5 15.
+gxf5 a6 16. Ba4 b5 17. Bc2 b4 18. Rg1 Kh8 19. h4 bxc3 20. bxc3 Bb6 21. Bd2 Ba5
+22. h5 Rb8 23. h6 gxh6 24. Kf1 Rb2 25. Bxh6 Rg8 26. Rh1 Bxc3 27. Rd1 Nd4 0-1
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "themadsponge"]
+[Black "PavelKN"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/y5ccP6vT"]
+[WhiteElo "2532"]
+[BlackElo "2353"]
+[ECO "B52"]
+[Opening "Sicilian Defense: Moscow Variation, Sokolsky Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:37:50"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. c4 e5 6. Nc3 Nc6 7. a3 Be7 8.
+Rb1 Nf6 9. b4 b6 10. d3 O-O 11. Bg5 Ng4 12. h3 Bxg5 13. Nxg5 Nf6 14. O-O Nd4
+15. f4 h6 16. fxe5 dxe5 17. Rxf6 hxg5 18. Nd5 Rae8 19. Qh5 Qa4 20. Rbf1 Qc2 21.
+Rh6 gxh6 22. Nf6+ Kh8 23. Qxh6# 1-0
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "DmitryAkimov"]
+[Black "bata_njaa"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ZhrdN7IX"]
+[WhiteElo "2604"]
+[BlackElo "2644"]
+[ECO "C50"]
+[Opening "Italian Game: Rousseau Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:00:50"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+7"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 f5 4. d3 fxe4 5. dxe4 Nf6 6. Nc3 Bb4 7. O-O d6 8. h3
+Bxc3 9. bxc3 Na5 10. Bd3 Bd7 11. Be3 O-O 12. Nd2 Qe8 13. f4 exf4 14. Bxf4 b5
+15. Qe2 Qh5 16. Qe3 a6 17. Rae1 Nc6 18. a3 Rae8 19. c4 Ne5 20. cxb5 axb5 21.
+Nf3 Nc4 22. Bxc4+ bxc4 23. Qd4 Qc5 24. Qxc5 dxc5 25. e5 Nd5 26. Be3 Nxe3 27.
+Rxe3 Bc6 28. Nd2 Rxf1+ 29. Kxf1 Kf7 30. g3 Ke6 31. Kf2 Kd5 32. c3 Bb5 33. e6
+Rxe6 34. Rxe6 Kxe6 35. Ke3 Kf5 36. Kf3 g6 37. g4+ Kg5 38. Ne4+ Kh6 39. Kf4 Bc6
+40. Nxc5 g5+ 41. Kg3 Kg6 42. a4 h5 43. a5 h4+ 44. Kh2 Kf6 45. a6 Ke5 46. Nb7
+Kf4 47. Nd8 Ba8 48. Ne6+ Ke3 49. Nxc7 Bc6 50. a7 Kd3 51. a8=Q Bxa8 52. Nxa8
+Kxc3 53. Nb6 Kd3 54. Nxc4 Kxc4 55. Kg2 Kd4 56. Kf3 Kd3 0-1
+

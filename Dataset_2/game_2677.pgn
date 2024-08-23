@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.11.03"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Harpo-TBX"]
+[Result "0-1"]
+[CurrentPosition "rn2kbnr/ppp1pppp/8/3q2N1/4p1b1/8/PPPP1PPP/RNB1KB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "A06"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-Tennison-Gambit"]
+[UTCDate "2021.11.03"]
+[UTCTime "06:32:08"]
+[WhiteElo "1274"]
+[BlackElo "1269"]
+[TimeControl "60"]
+[Termination "Harpo-TBX won by resignation"]
+[StartTime "06:32:08"]
+[EndDate "2021.11.03"]
+[EndTime "06:32:21"]
+[Link "https://www.chess.com/game/live/29659821691"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.7] }
+2... dxe4 { [%clk 0:00:59.4] } 3. Ng5 { [%clk 0:00:58.4] } 3... Qd5
+{ [%clk 0:00:59] } 4. Qg4 { [%clk 0:00:54.2] } 4... Bxg4 { [%clk 0:00:57.9] }
+0-1
+

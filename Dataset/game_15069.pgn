@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "MarioVillanueva"]
+[Black "vistagausta"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/IaCL1514"]
+[WhiteTitle "IM"]
+[WhiteElo "2676"]
+[BlackElo "2872"]
+[ECO "B51"]
+[Opening "Sicilian Defense: Moscow Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:43:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. d4 cxd4 5. Qxd4 a6 6. Bxd7+ Qxd7 7. Bg5 e5 8.
+Qd3 h6 9. Bh4 g5 10. Bg3 Nf6 11. Nc3 b5 12. O-O-O b4 13. Nd5 Nxd5 14. Qxd5 Qb7
+15. Qd3 Be6 16. h4 g4 17. Nd2 Qb5 18. Kb1 Qxd3 19. cxd3 Kd7 20. Nc4 Rb8 21. b3
+Bg7 22. Rd2 h5 23. Rc2 Rhc8 24. Rd1 Rc5 25. f4 gxf3 26. gxf3 Ke7 27. f4 exf4
+28. Bxf4 Bxc4 29. Rxc4 Rxc4 30. dxc4 Be5 31. Bxe5 dxe5 32. Rf1 f6 33. Rf5 Rh8
+34. Kc2 a5 35. Kd3 Ke6 36. c5 Rd8+ 37. Kc4 Rd4+ 38. Kb5 Rxe4 39. Rxh5 Re2 40.
+Rh8 Rc2 41. h5 f5 42. h6 Kf7 43. h7 Kg7 44. Rf8 Kxh7 45. Rxf5 e4 46. Re5 Rxa2
+47. c6 a4 48. Rxe4 axb3 49. Rxb4 b2 50. c7 1-0
+

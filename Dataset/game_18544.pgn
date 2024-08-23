@@ -1,0 +1,31 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "odonata-bot"]
+[Black "Hoon_Bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/u1B0L1Lj"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2738"]
+[BlackElo "2883"]
+[ECO "C78"]
+[Opening "Ruy Lopez: Morphy Defense, Neo-Arkhangelsk Variation"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:07:34"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Bc5 6. c3 O-O 7. d4 exd4 8.
+cxd4 Be7 9. d5 Na5 10. e5 Ne4 11. Qe1 Ng5 12. Bxg5 f6 13. d6 cxd6 14. exf6 Bxf6
+15. Bxf6 Rxf6 16. Qe4 Re6 17. Qd5 Rb8 18. Bc2 b5 19. Ng5 g6 20. Nc3 Qe7 21.
+Nxe6 dxe6 22. Rae1 Nc4 23. Bb3 Na5 24. Bd1 Bd7 25. f4 Rf8 26. Rf2 Bc8 27. b3
+Nb7 28. h3 a5 29. Qd2 b4 30. Nb5 Qd7 31. Be2 d5 32. Qe3 Nd8 33. Rc1 Nf7 34. Nd4
+Qa7 35. Bf1 Bd7 36. Rfc2 Rd8 37. Be2 Qb6 38. Rc7 Qd6 39. Bb5 e5 40. fxe5 Qxe5
+41. Qf2 Bf5 42. Bd3 a4 43. Bxf5 gxf5 44. Rc8 axb3 45. axb3 f4 46. Rxd8+ Nxd8
+47. Nf3 Qc3 48. Rxc3 bxc3 49. b4 Nc6 50. Qc5 Na7 51. Qxa7 c2 52. Kh2 c1=Q 53.
+Ng5 Qh1+ 54. Kxh1 f3 55. Qxh7+ Kf8 56. Qf7# 1-0
+

@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "DarsLock"]
+[Black "viennadragon"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/6yEUxgXS"]
+[WhiteElo "2552"]
+[BlackElo "2511"]
+[ECO "B52"]
+[Opening "Sicilian Defense: Moscow Variation, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:38:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Bd7 4. Bxd7+ Qxd7 5. O-O Nc6 6. c3 d5 7. e5 e6 8. d4
+Nge7 9. dxc5 Nf5 10. b4 Be7 11. g4 Nh4 12. Nxh4 Bxh4 13. Bf4 h5 14. Na3 hxg4
+15. Nb5 O-O 16. Nd6 f6 17. Qxg4 fxe5 18. Bg3 Be7 19. Nb5 a6 20. Na3 Rf5 21.
+Rad1 Raf8 22. Nc2 Bg5 23. Ne3 Bxe3 24. fxe3 Rxf1+ 25. Rxf1 Rxf1+ 26. Kxf1 Qf7+
+27. Ke2 Qf5 28. Qxf5 exf5 29. a4 e4 30. h4 Kf7 31. Kd2 Ke6 32. Kc2 g6 33. Kb3
+Ne5 34. b5 axb5 35. axb5 Nc4 36. Bf4 Kd7 37. Kb4 Nb2 38. Ka5 Kc8 39. c6 Nc4+
+40. Kb4 bxc6 41. bxc6 Nb2 42. Kc5 Nd3+ 43. Kd4 Nxf4 44. exf4 Kc7 45. Ke5 e3 46.
+h5 gxh5 47. Kxf5 e2 48. Kg6 e1=Q 49. f5 0-1
+

@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Gicko"]
+[Black "TheRealHamdanYelpi"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/L3kI5NGP"]
+[WhiteElo "2557"]
+[BlackElo "2586"]
+[ECO "A13"]
+[Opening "English Opening: Neo-Catalan"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:11:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. d4 c6 5. Bg2 Ne4 6. Nbd2 f5 7. Qc2 Bd6 8. b3
+O-O 9. Bb2 Qe7 10. Ne5 Nd7 11. Ndf3 Bb4+ 12. Kf1 Nxe5 13. Nxe5 Bd7 14. a3 Bd6
+15. f3 Nf6 16. Kf2 Rac8 17. c5 Bc7 18. e3 Be8 19. Bf1 Bh5 20. Bd3 Bxe5 21. dxe5
+Ne4+ 22. Bxe4 fxe4 23. f4 Bf3 24. Rhf1 g5 25. Bd4 Qg7 26. b4 Qh6 27. Ke1 g4 28.
+Rf2 Rf5 29. a4 a6 30. Kd2 Rh5 31. Kc3 Rh3 32. Ra2 Qf8 33. Qb2 Qd8 34. Rc2 Qc7
+35. Qa3 Ra8 36. Qb3 Bd1 37. a5 Bxc2 38. Qxc2 Qg7 39. Kb2 h5 40. Bc3 h4 41. Be1
+Qh6 42. Kc3 Kf7 43. Kd4 Kg6 44. gxh4 Kf5 45. Bg3 Rxh4 46. Bxh4 Qxh4 47. Qe2 Rh8
+48. Rd2 Qh3 49. Rc2 Qf3 50. Rd2 Rh3 51. Rc2 Qh1 52. Qg2 Qa1+ 53. Rb2 Rf3 54. h3
+Rxh3 55. Qf2 Qh1 56. Rd2 g3 57. Qe2 Qf3 58. Qe1 Rh1 59. Qe2 Qxe2 60. Rxe2 Kg4
+61. b5 Kf3 62. Ra2 Rc1 63. Ra4 g2 64. b6 g1=Q 65. Ra2 Rc4# 0-1
+

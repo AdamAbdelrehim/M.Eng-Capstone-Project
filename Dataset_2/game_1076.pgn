@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.05.07"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "BintangTimur1"]
+[Result "0-1"]
+[CurrentPosition "r3k1nr/pb1n1pbp/1pppp1p1/8/3PPP1q/2NBB3/PPP3PP/R2QK2R w KQkq -"]
+[Timezone "UTC"]
+[ECO "C00"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Knight-Variation"]
+[UTCDate "2021.05.07"]
+[UTCTime "22:37:13"]
+[WhiteElo "1339"]
+[BlackElo "1360"]
+[TimeControl "600"]
+[Termination "BintangTimur1 won by resignation"]
+[StartTime "22:37:13"]
+[EndDate "2021.05.07"]
+[EndTime "22:38:37"]
+[Link "https://www.chess.com/game/live/14166097173"]
+
+1. e4 { [%clk 0:10:00] } 1... e6 { [%clk 0:09:59.9] } 2. Nf3 { [%clk 0:09:59] }
+2... d6 { [%clk 0:09:58.7] } 3. d4 { [%clk 0:09:57.5] } 3... b6
+{ [%clk 0:09:57.2] } 4. Nc3 { [%clk 0:09:55.5] } 4... Bb7 { [%clk 0:09:56.1] }
+5. Bb5+ { [%clk 0:09:52.1] } 5... c6 { [%clk 0:09:52.7] } 6. Bd3
+{ [%clk 0:09:47.5] } 6... Nd7 { [%clk 0:09:50.8] } 7. Be3 { [%clk 0:09:29.7] }
+7... g6 { [%clk 0:09:48.3] } 8. Nh4 { [%clk 0:09:15.2] } 8... Bg7
+{ [%clk 0:09:44.7] } 9. f4 { [%clk 0:09:12.9] } 9... Qxh4+ { [%clk 0:09:42.5] }
+0-1
+

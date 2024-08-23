@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "SevanB"]
+[Black "KirillDranishnikov08"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ktFZkW72"]
+[WhiteTitle "IM"]
+[WhiteElo "2558"]
+[BlackElo "2694"]
+[ECO "C41"]
+[Opening "Philidor Defense: Hanham Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:24:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-66"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Nc3 c6 5. a4 Be7 6. a5 Ngf6 7. Be2 O-O 8. O-O
+h6 9. Re1 Qc7 10. Bf1 Re8 11. Nh4 Bf8 12. Be3 b6 13. axb6 Nxb6 14. h3 a5 15.
+Qf3 c5 16. dxc5 dxc5 17. Bxh6 gxh6 18. Qxf6 Bg7 19. Qf3 Qe7 20. Nf5 Bxf5 21.
+exf5 Qf6 22. Ne4 Qc6 23. f6 Bf8 24. c4 Nd7 25. Bd3 Ra6 26. Rad1 Nxf6 27. Qg3+
+Bg7 28. Nd6 Qxd6 29. Bh7+ Kxh7 30. Rxd6 Rxd6 31. Qa3 e4 32. Qxc5 Red8 33. Qxa5
+Rd1 34. Rxd1 Rxd1+ 35. Kh2 Kg6 36. b4 Nh5 37. g4 Nf4 38. Qf5# 1-0
+

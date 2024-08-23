@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "TolTolEm"]
+[Black "ShramovIgor"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/zjLD1hRC"]
+[WhiteElo "2344"]
+[BlackElo "2512"]
+[ECO "A41"]
+[Opening "Rat Defense: English Rat"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:24:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 d6 2. c4 e5 3. Nf3 e4 4. Ng5 f5 5. g3 h6 6. Nh3 g5 7. Bg2 Nf6 8. O-O c6
+9. Nc3 d5 10. cxd5 cxd5 11. f3 Nc6 12. fxe4 dxe4 13. Qb3 Nxd4 14. Qa4+ Qd7 15.
+Qc4 b5 16. Nxb5 Nxb5 17. Nxg5 Qd4+ 18. Qxd4 Nxd4 19. Nh3 Bc5 20. e3 Nc2 21. Rb1
+Ng4 22. b4 Bxe3+ 23. Kh1 O-O 24. Nf4 Bxc1 25. Rbxc1 Nce3 26. Rfe1 Nxg2 27. Kxg2
+Ba6 28. Rc6 Bd3 29. Rg6+ Kh7 30. h3 Ne5 31. Re6 Rae8 32. Rb1 Rxe6 0-1
+

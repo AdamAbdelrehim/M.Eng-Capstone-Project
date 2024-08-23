@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "anhao"]
+[Black "Murakami"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/jRUUam86"]
+[WhiteTitle "NM"]
+[BlackTitle "IM"]
+[WhiteElo "2607"]
+[BlackElo "2557"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "01:39:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-7"]
+
+1. Nf3 d5 2. g3 Nc6 3. d4 Bg4 4. Bg2 e6 5. O-O Bd6 6. c4 dxc4 7. Nbd2 Bxf3 8.
+Bxf3 Nxd4 9. Bxb7 Rb8 10. Bg2 Nf6 11. Nxc4 c5 12. e3 1-0
+

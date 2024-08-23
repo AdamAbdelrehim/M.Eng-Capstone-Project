@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "RRS03"]
+[Black "rojitto"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/z4GfClN2"]
+[WhiteTitle "FM"]
+[WhiteElo "2544"]
+[BlackElo "2467"]
+[ECO "B06"]
+[Opening "Modern Defense: Two Knights Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "23:26:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 g6 2. Nf3 Bg7 3. Nc3 d6 4. e4 Nd7 5. Be3 Ngf6 6. h3 e5 7. Qd2 c6 8. O-O-O
+Qc7 9. Bh6 O-O 10. Bxg7 Kxg7 11. h4 h5 12. dxe5 dxe5 13. Bc4 Nc5 14. Ng5 Bg4
+15. f3 Rad8 16. Qe3 Qb6 17. Kb1 Rxd1+ 18. Rxd1 Bc8 19. Rd6 Ncxe4 20. Qxb6 Nxc3+
+21. bxc3 axb6 22. a4 Nh7 23. Kc1 Nxg5 24. hxg5 Re8 25. Kd2 e4 26. f4 e3+ 27.
+Ke1 Bf5 28. Bd3 Be4 29. g3 Bd5 30. Rd7 Ra8 31. Rxb7 Rxa4 32. Ke2 h4 33. gxh4
+Rxf4 34. Kxe3 Rxh4 35. Rxb6 Rg4 36. c4 Bxc4 37. Rxc6 Bxd3 38. Kxd3 Rxg5 39. c4
+f5 40. Rd6 Rg1 41. Ke3 Re1+ 42. Kf3 Re4 43. c5 Rc4 44. c6 g5 45. Kf2 Rc3 46.
+Rd7+ Kf6 47. c7 g4 48. Rh7 f4 49. Rh4 Kg5 50. Rh7 Rc2+ 51. Kg1 g3 52. Rd7 Kg4
+53. Kf1 Rc1+ 54. Kg2 f3# 0-1
+

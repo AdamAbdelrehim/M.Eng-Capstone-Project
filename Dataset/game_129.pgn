@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "LakebottomWom"]
+[Black "anhao"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/fjiSn4Hy"]
+[BlackTitle "NM"]
+[WhiteElo "2570"]
+[BlackElo "2630"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "00:50:51"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 a6 4. a4 Nc6 5. e3 e5 6. Nf3 exd4 7. exd4 Na5 8. Bg5
+Be7 9. Be3 Nf6 10. Be2 O-O 11. O-O c6 12. Ne5 Be6 13. Qc2 Nd5 14. Rad1 Nb4 15.
+Qb1 g6 16. Rfe1 Bf5 17. Ne4 b5 18. g4 Be6 19. Nc5 Bd5 20. Bd2 Nd3 21. Bxd3 cxd3
+22. Qxd3 Bxc5 23. dxc5 Nb3 24. Bc3 Nxc5 25. Qe3 Ne4 26. Nxc6 Qg5 27. Rxd5 Qxg4+
+28. Qg3 Qxg3+ 29. hxg3 Nxc3 30. bxc3 bxa4 31. Ra5 Kg7 32. Nb4 Rfc8 33. Re3 Rc4
+34. Rd3 Rac8 35. Nd5 R8c6 36. Kf1 Rd6 37. Ke2 h5 38. Kd2 Kh6 39. Rd4 Rc8 40.
+Kd3 Kg7 41. Raxa4 Rdc6 42. c4 Rb8 43. Rb4 Ra8 44. Nb6 Rf8 45. Nd7 Re8 46. c5
+Rce6 47. Rb6 Re1 48. c6 Rd1+ 49. Kc4 Rh1 50. Kd5 Rc1 51. c7 Ree1 52. Kd6 Red1
+53. Rc6 Rxd4+ 54. Ke7 Rxc6 55. Ne5 Rxc7+ 56. Ke8 Rdd7 57. Nxd7 Rxd7 58. Kxd7 a5
+59. Kc6 a4 60. Kb5 a3 61. Kc4 a2 62. Kd3 a1=Q 63. Ke4 Qg1 64. Kf3 Qf1 65. Ke3
+Qh1 66. Kf4 g5+ 67. Kxg5 Qg2 68. f4 f5 69. Kxh5 Qf3+ 70. Kh4 Qg4# 0-1
+

@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "PurpleHunter"]
+[Black "BitByByte"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/G1DQBKKQ"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2645"]
+[BlackElo "2797"]
+[ECO "E15"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Check Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:15:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 c5 7. Bg2 Bb7 8. O-O
+O-O 9. Bxb4 cxb4 10. a3 bxa3 11. Nxa3 a5 12. Qd2 Na6 13. Nb5 Nb4 14. Rfc1 Rc8
+15. d5 Ne4 16. Qf4 exd5 17. Nfd4 Qf6 18. Qxf6 Nxf6 19. Nd6 Rb8 20. Nxb7 Rxb7
+21. Nf5 g6 22. Ne7+ Kg7 23. cxd5 d6 24. Nc8 Rd8 25. e4 Ng8 26. Rc3 Ne7 27. Nxe7
+Rxe7 28. h4 h6 29. f4 f5 30. exf5 gxf5 31. Kf2 Rdd7 32. Bh3 Kf6 33. Rc8 Nd3+
+34. Kf3 Nc5 35. Rd1 Rc7 36. Rh8 Kg7 37. Ra8 Rf7 38. Rc1 Ra7 39. Rxa7 Rxa7 40.
+Rc3 Kf6 41. g4 Rh7 42. g5+ hxg5 43. hxg5+ Kg6 44. Bf1 b5 45. Kg2 a4 46. bxa4
+bxa4 47. Kf3 Rh1 48. Kg2 Rh4 49. Kf3 Ne4 50. Rc2 a3 51. Ke3 Rh1 52. Bg2 Re1+
+53. Kd4 Rd1+ 54. Kc4 Ng3 55. Ra2 Nh5 56. Bf3 Rc1+ 57. Kd4 Nxf4 58. Rxa3 Kxg5
+59. Ra8 Ng6 60. Rg8 Re1 61. Kd3 Kf6 62. Kd2 Rb1 63. Re8 Nf4 64. Kc3 Rf1 65. Re3
+Kg5 66. Kb3 Rc1 67. Rc3 Rxc3+ 68. Kxc3 Nh3 69. Bg2 Nf2 70. Bf1 Kf4 71. Be2 Ke3
+72. Bd1 Nxd1+ 73. Kc2 Nf2 74. Kb1 f4 75. Ka1 Ne4 76. Kb1 f3 77. Ka1 f2 78. Kb1
+f1=Q+ 79. Ka2 Qb5 80. Ka1 Nd2 81. Ka2 Qb3+ 82. Ka1 Qb1# 0-1
+

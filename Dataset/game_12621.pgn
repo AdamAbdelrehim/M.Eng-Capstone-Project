@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ignat_final"]
+[Black "MIGV"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/PESMWeX9"]
+[WhiteElo "2524"]
+[BlackElo "2551"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:50:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 c5 5. Bb5+ Nc6 6. O-O Nf6 7. Re1+ Be7 8.
+dxc5 O-O 9. Be3 Ne4 10. Nd4 Ne5 11. Nd2 Nxc5 12. N2f3 Ng4 13. Bf4 Ne4 14. Re2
+Qb6 15. Qd3 a6 16. Ba4 Qxb2 17. Rae1 Bb4 18. h3 Ngxf2 19. Rxf2 Nxf2 20. Kxf2
+Bxe1+ 21. Kxe1 Qb4+ 22. Kf2 Qxa4 23. Ng5 g6 24. Be5 f6 25. Nde6 Bxe6 26. Nxe6
+fxe5+ 27. Nxf8 Rxf8+ 0-1
+

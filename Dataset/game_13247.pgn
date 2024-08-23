@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "takacsbl"]
+[Black "wallywally"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/VUzk5fv4"]
+[WhiteElo "2621"]
+[BlackElo "2691"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Kramnik Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:15:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nf3 e6 3. c4 Nc6 4. Be2 Nf6 5. Nc3 a6 6. d4 cxd4 7. Nxd4 Bb4 8.
+Nxc6 bxc6 9. Bd2 e5 10. Qc2 O-O 11. Rd1 Qe7 12. a3 Bc5 13. O-O a5 14. Bg5 h6
+15. Bh4 g5 16. Bg3 d6 17. Na4 Bd4 18. Kh1 Be6 19. b3 Rab8 20. h4 Ng4 21. Bxg4
+Bxg4 22. f3 gxh4 23. Be1 Be6 24. Bxa5 Kh8 25. Bc3 c5 26. Bd2 Rg8 27. Nc3 Rg3
+28. Be1 Rbg8 29. Nd5 Qg5 30. Rd2 h3 31. Bxg3 Qxg3 32. Rff2 hxg2+ 33. Rxg2 Qh3+
+34. Rh2 Qf1# 0-1
+

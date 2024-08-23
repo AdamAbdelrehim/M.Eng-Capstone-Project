@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "oyoy23"]
+[Black "Veselchak-U"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/2xZoUzSS"]
+[WhiteElo "2704"]
+[BlackElo "2555"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Three Knights Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:15:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Be7 5. Bg5 Nbd7 6. e3 h6 7. Bh4 O-O 8. Qc2
+b6 9. cxd5 exd5 10. Bd3 Bb7 11. O-O c5 12. Rad1 a6 13. Bf5 c4 14. Ne5 b5 15. h3
+Re8 16. Ne2 Nxe5 17. dxe5 Nd7 18. Bg3 Bc5 19. e4 Nxe5 20. exd5 Qf6 21. Nc3 g6
+22. Be4 Bb4 23. d6 Bxc3 24. Bxb7 Rab8 25. Qxc3 Rxb7 26. Bxe5 1-0
+

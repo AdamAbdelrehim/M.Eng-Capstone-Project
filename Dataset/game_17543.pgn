@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "xiaochess"]
+[Black "gmmoranda"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/6bc52kts"]
+[BlackTitle "GM"]
+[WhiteElo "2853"]
+[BlackElo "2812"]
+[ECO "D01"]
+[Opening "Rapport-Jobava System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:11:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+9"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 a6 4. e3 Bf5 5. Bc4 dxc4 0-1
+

@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "stefan_95"]
+[Black "firegus16"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/uymJrnHJ"]
+[WhiteTitle "FM"]
+[WhiteElo "2550"]
+[BlackElo "2593"]
+[ECO "A43"]
+[Opening "Benoni Defense: Benoni-Indian Defense, Kingside Move Order"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:48:03"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Be2 O-O 7. Nd2 a6 8. a4 e6
+9. O-O exd5 10. exd5 Nfd7 11. Nc4 Ne5 12. Ne3 Re8 13. f4 Ned7 14. Nc4 Nb6 15.
+Na3 Bf5 16. a5 N6d7 17. Nc4 Qc7 18. Bf3 Nf6 19. Nb6 Ra7 20. g4 Be4 21. Re1 Bxf3
+22. Rxe8+ Nxe8 23. Qxf3 Nd7 24. Nc4 Ra8 25. Na4 Nef6 26. Bd2 Re8 27. Re1 Rxe1+
+28. Bxe1 h6 29. Bg3 Bf8 30. f5 g5 31. h3 Qd8 32. Nc3 b5 33. axb6 Nxb6 34. Na5
+Qe8 35. Nc6 Nc4 36. b3 Qe3+ 37. Kg2 Qd2+ 38. Bf2 Ne5 39. Nxe5 dxe5 40. Ne4 Nxe4
+41. Qxe4 Bd6 42. f6 a5 43. c4 Qb2 44. Qf5 Qe2 45. Qf3 Qc2 46. h4 gxh4 47. Kh3
+e4 48. Qf5 e3 49. Qxc2 exf2 50. Qxf2 Be5 51. Qxh4 Kf8 52. Qxh6+ Ke8 53. Qh8+
+Kd7 54. Qf8 Bxf6 55. Qxf7+ Be7 56. Qf6 Kd8 57. Qa6 Bd6 58. Qxa5+ Ke7 59. Qb6
+Be5 60. Qxc5+ Kf6 61. Qc6+ Kg5 62. Qe6 Kf4 63. Qf5+ Ke3 64. Qxe5+ Kd3 65. g5
+Kd2 66. Qf4+ Kd3 67. Qf3+ Kc2 68. Qf2+ Kc3 69. Qe2 Kb4 70. Qd2+ Kc5 71. Qd3 Kb4
+72. Qd4 Ka3 73. d6 Kb4 74. Qd3 Ka3 75. Qd2 1-0
+

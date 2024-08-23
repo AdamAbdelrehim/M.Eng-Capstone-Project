@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "AlexD64"]
+[Black "hard_and_biting"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/vE7soTEN"]
+[WhiteElo "2542"]
+[BlackElo "2455"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Keres Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:58:59"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 c5 2. Ne2 a6 3. g3 b5 4. Bg2 Bb7 5. O-O h5 6. h3 h4 7. g4 e5 8. c3 d6 9.
+d4 Qc7 10. f4 Nd7 11. Be3 Ngf6 12. Nd2 Be7 13. fxe5 dxe5 14. d5 c4 15. b4 cxb3
+16. axb3 Bc5 17. Bxc5 Qxc5+ 18. Kh1 Nb6 19. Rf5 Nfd7 20. Qf1 f6 21. g5 O-O-O
+22. c4 b4 23. Nc1 Qe3 24. Qd3 Qc5 25. Qe2 Qd4 26. Rb1 Nc5 27. Nf3 Qxe4 28. Qxe4
+Nxe4 29. Kh2 g6 30. Rxf6 Nxf6 31. gxf6 Rhf8 32. Nxe5 Rxf6 33. Ncd3 a5 34. Ra1
+Nd7 35. Rxa5 Nxe5 36. Nxe5 Re8 37. Rc5+ Kd8 38. Nc6+ Bxc6 39. dxc6 Kc7 40. Rb5
+Rb8 41. Re5 Rf7 42. Bd5 Rg7 43. Kg2 g5 44. Kf3 g4+ 45. hxg4 Rf8+ 46. Kg2 Rxg4+
+47. Kh3 Rg7 48. Be4 Rh8 49. Rb5 Rg3+ 50. Kh2 Kd6 51. Rd5+ Kc7 52. Rd7+ Kb6 53.
+Rb7+ Kc5 54. c7 Rf8 55. Rb5+ Kd4 56. Bf5 Rf3 57. c8=Q Rf2+ 58. Kh3 Rxc8 59.
+Bxc8 Rf3+ 60. Kxh4 Rxb3 61. Be6 Kc3 62. c5 Rb2 63. c6 Rd2 64. c7 Rd4+ 65. Kg5
+Kc2 66. c8=Q+ Rc4 67. Qxc4+ Kb1 0-1
+

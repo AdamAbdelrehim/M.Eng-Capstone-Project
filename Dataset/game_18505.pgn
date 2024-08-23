@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "samtakoj"]
+[Black "winx_m"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/zOxLJIdc"]
+[WhiteElo "2641"]
+[BlackElo "2843"]
+[ECO "D78"]
+[Opening "Neo-Grünfeld Defense: Classical Variation, Original Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:02:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. c4 g6 3. Nf3 Bg7 4. g3 O-O 5. Bg2 c6 6. O-O d5 7. b3 a5 8. Nc3 Ne4
+9. Bb2 Nxc3 10. Bxc3 Be6 11. Nd2 c5 12. e3 cxd4 13. Bxd4 Bxd4 14. exd4 Nc6 15.
+Re1 Nxd4 16. cxd5 Bxd5 17. Bxd5 Qxd5 18. Rxe7 Rfe8 19. Qe1 Kf8 20. Re3 Nc2 0-1
+

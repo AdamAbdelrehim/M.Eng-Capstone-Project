@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "meow95"]
+[Black "imdejong"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/mqyLvMPN"]
+[BlackTitle "IM"]
+[WhiteElo "2475"]
+[BlackElo "2505"]
+[ECO "C15"]
+[Opening "French Defense: Winawer Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:51:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Bb4 4. Qg4 Nf6 5. Qxg7 Rg8 6. Qh6 c5 7. a3 Bxc3+ 8.
+bxc3 dxe4 9. Bb5+ Bd7 10. Bxd7+ Nbxd7 11. Ne2 cxd4 12. cxd4 Rc8 13. c3 Rxg2 14.
+Bg5 Ng4 15. Qh3 Qxg5 16. Qxg2 Qf5 17. Rg1 Ngf6 18. Qg5 Qh3 19. Rb1 Rxc3 20.
+Nxc3 Qxc3+ 21. Qd2 Qxa3 22. Rxb7 Nd5 23. Qb2 Qa5+ 24. Kf1 N5b6 25. Rc7 Nd5 26.
+Rc8+ Ke7 27. Rgg8 N7f6 28. Rgd8 Qa6+ 29. Kg2 Nf4+ 30. Kh1 Qf1# 0-1
+

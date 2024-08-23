@@ -1,0 +1,40 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "TheFreshman1902"]
+[Black "YoBot_v2"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/rxetn6gK"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2999"]
+[BlackElo "3006"]
+[ECO "D38"]
+[Opening "Queen's Gambit Declined: Ragozin Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "05:19:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8. Qb3
+c5 9. cxd5 exd5 10. dxc5 Bxc3+ 11. Qxc3 Qxc3+ 12. bxc3 Nd7 13. Rd1 Nf6 14. Nd4
+Bd7 15. f3 Rfc8 16. Nb3 Kf8 17. h4 Ba4 18. Rd4 Bxb3 19. axb3 Rxc5 20. Kd2 Ra5
+21. Bd3 Ra2+ 22. Bc2 b5 23. Kc1 Rc8 24. Kb1 Ra6 25. Kb2 Rac6 26. Bf5 Re8 27.
+Re1 g6 28. Bh3 Re7 29. b4 Rec7 30. Rc1 a6 31. Rd3 Kg7 32. g3 Re7 33. Re1 Rc4
+34. Ra1 Rc6 35. Re1 Rec7 36. Rc1 Kf8 37. Kb3 Kg7 38. Bg2 h5 39. Bf1 Kh6 40. Bg2
+Kh7 41. Rc2 Kg7 42. Bf1 Kh6 43. Rc1 Kh7 44. Bg2 Kh6 45. Rc2 Kh7 46. Rcd2 Kg7
+47. Rc2 Kh7 48. Rc1 Kg7 49. Bf1 Kh7 50. Bh3 Kg7 51. Bg2 Kh7 52. Bh3 Kg7 53. Rc2
+Re7 54. Re2 Rec7 55. Rc2 Re7 56. Bg2 Rec7 57. Bf1 Re6 58. Rc1 Rce7 59. Re1 Rc7
+60. Bg2 Kh7 61. Re2 Rce7 62. Re1 Rc7 63. Bh3 Rec6 64. e4 dxe4 65. fxe4 Rc4 66.
+Bg2 Ng4 67. e5 Nf2 68. Rde3 Ng4 69. Rd3 Nf2 70. Rde3 Ng4 71. Rf3 Re7 72. Ra1
+Ra7 73. Re1 Re7 74. Rf4 Rc8 75. c4 Rxc4 76. Rxc4 bxc4+ 77. Kxc4 Nxe5+ 78. Kb3
+f6 79. Bf1 Re6 80. Ra1 Nc6 81. Rxa6 Re3+ 82. Ka4 Nxb4 83. Kxb4 Rxg3 84. Rxf6
+Kg7 85. Rf2 Rg4+ 86. Kc3 Rxh4 87. Be2 g5 88. Bxh5 Rxh5 89. Rg2 g4 90. Rg1 g3
+91. Kd4 g2 92. Kd3 Rh1 93. Rxg2+ Kf6 94. Re2 Ra1 95. Rf2+ Ke5 96. Rd2 Rb1 97.
+Kc3 Ra1 98. Kc2 Re1 99. Kb3 Ra1 100. Re2+ Kd4 101. Re8 Rb1+ 102. Ka2 Rc1 103.
+Rg8 Re1 104. Rb8 Rc1 105. Rb4+ Kc3 106. Rb3+ Kc2 107. Rb2+ Kd1 108. Rb5 Rc2+
+109. Rb2 Rxb2+ 110. Kxb2 1/2-1/2
+

@@ -1,0 +1,42 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.05.05"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Cosmoair"]
+[Result "0-1"]
+[CurrentPosition "2b4k/1p1n1pbp/1qp1p3/5p2/4Q3/1P1P1B2/2P2PPP/rK5R w - -"]
+[Timezone "UTC"]
+[ECO "A06"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-Tennison-Gambit"]
+[UTCDate "2022.05.05"]
+[UTCTime "08:44:10"]
+[WhiteElo "1415"]
+[BlackElo "1412"]
+[TimeControl "60"]
+[Termination "Cosmoair won by checkmate"]
+[StartTime "08:44:10"]
+[EndDate "2022.05.05"]
+[EndTime "08:45:22"]
+[Link "https://www.chess.com/game/live/45479360449"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.8] }
+2... dxe4 { [%clk 0:00:59.2] } 3. Ng5 { [%clk 0:00:59.6] } 3... e6
+{ [%clk 0:00:58.1] } 4. Nc3 { [%clk 0:00:59.3] } 4... Qxg5 { [%clk 0:00:57.4] }
+5. Nxe4 { [%clk 0:00:57.7] } 5... Qd8 { [%clk 0:00:57.3] } 6. d3
+{ [%clk 0:00:57.5] } 6... Nf6 { [%clk 0:00:56.4] } 7. Bg5 { [%clk 0:00:56.3] }
+7... Be7 { [%clk 0:00:55.6] } 8. Qf3 { [%clk 0:00:54.6] } 8... O-O
+{ [%clk 0:00:54.7] } 9. Nxf6+ { [%clk 0:00:53.5] } 9... gxf6
+{ [%clk 0:00:54.1] } 10. Bh6 { [%clk 0:00:52.1] } 10... Kh8
+{ [%clk 0:00:50.8] } 11. Bxf8 { [%clk 0:00:47.4] } 11... Bxf8
+{ [%clk 0:00:50.7] } 12. O-O-O { [%clk 0:00:46.3] } 12... Bg7
+{ [%clk 0:00:50.3] } 13. Re1 { [%clk 0:00:45.5] } 13... a5 { [%clk 0:00:49.6] }
+14. Be2 { [%clk 0:00:44.6] } 14... Nc6 { [%clk 0:00:48.4] } 15. Qe4
+{ [%clk 0:00:43] } 15... Ne5 { [%clk 0:00:46.9] } 16. Bf3 { [%clk 0:00:42.1] }
+16... c6 { [%clk 0:00:45.4] } 17. Rd1 { [%clk 0:00:39] } 17... Qb6
+{ [%clk 0:00:44.7] } 18. b3 { [%clk 0:00:36.9] } 18... a4 { [%clk 0:00:43] }
+19. Kb2 { [%clk 0:00:35.3] } 19... axb3 { [%clk 0:00:41.7] } 20. axb3
+{ [%clk 0:00:35.2] } 20... Nd7 { [%clk 0:00:37] } 21. Ra1 { [%clk 0:00:34.4] }
+21... f5+ { [%clk 0:00:35.9] } 22. Kb1 { [%clk 0:00:24.8] } 22... Rxa1#
+{ [%clk 0:00:34.7] } 0-1
+

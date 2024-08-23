@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "David_B0wie"]
+[Black "Ersenov"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Z4DZxQVS"]
+[WhiteElo "2609"]
+[BlackElo "2506"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:34:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 g6 2. Nc3 Bg7 3. e4 d6 4. Be3 a6 5. a4 b6 6. Nf3 Bb7 7. Bc4 e6 8. Bb3 Ne7
+9. Qd2 h6 10. O-O g5 11. Ne1 Ng6 12. Nd3 Nc6 13. d5 exd5 14. Nxd5 O-O 15. f4
+Nd4 16. fxg5 Nxb3 17. cxb3 Bxd5 18. exd5 h5 19. Rac1 Re8 20. Nf4 Qxg5 21. Rxc7
+Rxe3 22. Qxe3 Be5 23. Rxf7 Nxf4 24. R7xf4 Bxf4 25. Rxf4 Qxd5 26. h3 Rc8 27. Rf3
+Qe5 28. Qxe5 dxe5 29. Rf6 Rc2 30. Rxb6 Rxb2 31. a5 Kf7 32. Rxa6 Rxb3 33. Rh6
+Ra3 34. a6 Kg7 35. Rxh5 Kf6 36. Rh6+ Kf5 37. g4+ Kf4 38. Kf2 Ra2+ 39. Ke1 e4
+40. g5 Ke3 41. Kd1 Kd3 42. Rd6+ Kc3 43. g6 e3 44. g7 Rg2 45. a7 Rxg7 46. a8=Q
+Rg1+ 47. Ke2 Rg2+ 48. Qxg2 Kc4 49. Kxe3 Kc5 50. Qc6+ Kb4 51. Rd7 Ka3 52. Ra7+
+Kb2 53. Rb7+ Ka1 54. Qa6# 1-0
+

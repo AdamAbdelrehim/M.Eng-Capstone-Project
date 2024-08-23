@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "hyperreal"]
+[Black "TheDirector"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/XyF4JZZY"]
+[WhiteTitle "IM"]
+[WhiteElo "2575"]
+[BlackElo "2776"]
+[ECO "D01"]
+[Opening "Rapport-Jobava System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:28:25"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+
+1. d4 d5 2. Nc3 Nf6 3. Bf4 e6 4. Nb5 Na6 5. e3 Be7 6. Nf3 O-O 7. h4 Bd7 8. a4
+Ne4 9. Bd3 c6 10. Nc3 f5 11. g4 Qa5 12. Ne5 Be8 13. gxf5 exf5 14. Rg1 Nxc3 15.
+bxc3 Qxc3+ 16. Kf1 Nb4 17. Rb1 Nxd3 18. cxd3 b6 19. h5 Bf6 20. Rc1 Qa3 21. h6
+g6 22. Nxc6 Kh8 23. Be5 Rc8 24. Bxf6+ Rxf6 25. Ra1 Qf8 26. Nxa7 Ra8 27. Nb5
+Qxh6 28. Nc7 Rc8 29. Nxd5 Rd6 30. Nf4 Rdc6 31. Qf3 g5 32. Nd5 Bh5 33. Qg3 Qe6
+34. Qe5+ Qxe5 35. dxe5 Bf3 36. Re1 Bxd5 37. Rxg5 Be6 38. d4 Rg8 39. Rxg8+ Kxg8
+40. Rb1 Kf7 41. Kg2 Bd5+ 42. Kg3 Rg6+ 43. Kf4 Rg4+ 44. Kxf5 Be4+ 45. Kxg4 Bxb1
+46. d5 Ba2 47. e4 Bb3 48. Kf5 Bxa4 49. e6+ Ke7 50. Ke5 Be8 51. d6+ Kd8 52. Kf6
+b5 53. d7 b4 54. dxe8=Q+ Kxe8 55. Ke5 b3 56. f4 b2 57. f5 1-0
+

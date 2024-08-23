@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Ivan_Naumov"]
+[Black "Alpha_Zero_System"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/duKU7tyI"]
+[WhiteElo "2379"]
+[BlackElo "2528"]
+[ECO "D10"]
+[Opening "Slav Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:50:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Bg5 Ne4 5. Nf3 Nxg5 6. Nxg5 dxc4 7. e3 e5 8.
+Nxf7 Kxf7 9. Qh5+ g6 10. Bxc4+ Kg7 11. Qxe5+ Qf6 12. Qc7+ Nd7 13. Ne4 Bb4+ 14.
+Ke2 Qd8 15. Qg3 Re8 16. Ng5 Nf6 17. Nf7 Qe7 18. Qf4 Ng8 19. a3 Ba5 20. h4 Bc7
+21. Qf3 Be6 22. Bxe6 Qxe6 23. Ng5 Qc4+ 24. Kd2 Rf8 25. Qe2 Qxe2+ 26. Kxe2 Rae8
+27. b4 h6 28. Nf3 Nf6 29. a4 a5 30. b5 cxb5 31. axb5 Ne4 32. Rhc1 Bd6 33. Rxa5
+Ra8 34. Rca1 Rxa5 35. Rxa5 Rc8 36. Ra7 Rc7 37. b6 Rf7 38. Ra8 Nc3+ 39. Kd3 Nd5
+40. Rd8 Nb4+ 41. Kc4 Bf8 42. Ne5 Rxf2 43. Rd7+ Kg8 44. Nxg6 Rc2+ 45. Kb5 Rb2
+46. Kc4 Nc6 47. Rc7 Rxb6 48. Rc8 Na5+ 49. Kc3 Rxg6 50. e4 Rg4 51. e5 Nc6 52. e6
+Nxd4 53. e7 Nb5+ 54. Kb2 Rxg2+ 55. Kc1 Rg1+ 56. Kd2 Rg2+ 57. Ke1 Rg6 58.
+exf8=Q+ Kh7 59. Qh8# 1-0
+

@@ -1,0 +1,35 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ChessatronBot"]
+[Black "jpg-bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/Dt79ZJcZ"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2504"]
+[BlackElo "2324"]
+[ECO "E46"]
+[Opening "Nimzo-Indian Defense: Reshevsky Variation"]
+[TimeControl "900+3"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:04:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Ne2 d5 6. cxd5 exd5 7. Nf4 Bg4 8. f3
+Bf5 9. Qb3 Nc6 10. Bd2 Bxc3 11. Qxc3 a5 12. Bd3 Bxd3 13. Nxd3 Re8 14. a4 Ne7
+15. O-O c6 16. Rfe1 Ng6 17. Rac1 Qc7 18. Qc2 h6 19. b4 axb4 20. Bxb4 Rad8 21.
+a5 Rc8 22. Qf2 b6 23. axb6 Qxb6 24. Rcd1 Rcd8 25. Qd2 Qb8 26. Nc5 Rc8 27. Rb1
+Qc7 28. Ba5 Qd6 29. Rb7 Re7 30. Rb2 Nd7 31. Nb7 Qb8 32. Qf2 Rce8 33. Bc3 Qc7
+34. Ba5 Qb8 35. Rb3 Nde5 36. Nc5 Qa8 37. Bc3 Nc4 38. e4 Nf4 39. Rbb1 Qd8 40.
+Ra1 Qd6 41. Ra6 h5 42. Kh1 Qc7 43. Qh4 dxe4 44. fxe4 Nd5 45. Qh3 Nxc3 46. Qxc3
+Nd6 47. Qf3 Nb5 48. Qe3 Rd8 49. Rd1 h4 50. Rd3 Qc8 51. Kg1 Ree8 52. Ra1 Qg4 53.
+Qf2 Nd6 54. h3 Qg6 55. e5 Ne4 56. Nxe4 Qxe4 57. Rd2 c5 58. Re1 Qd5 59. Red1 c4
+60. Qxh4 c3 61. Rc2 Rxe5 62. Rxc3 Re4 63. Qf2 Rxd4 64. Qxd4 Qxd4+ 65. Rxd4 Rxd4
+66. Kf2 Rd1 67. g4 g5 68. Rc5 f6 69. Rc7 Rh1 70. Kg3 Rd1 71. Kf3 Rd3+ 72. Ke4
+Rxh3 73. Kf5 Rh6 74. Rd7 Kf8 75. Ra7 Kg8 76. Ke6 Rg6 77. Rb7 Rh6 78. Rb8+ Kg7
+79. Rb7+ Kg8 80. Rb8+ Kg7 81. Rb7+ Kg8 1/2-1/2
+

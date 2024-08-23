@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "firegus16"]
+[Black "Jason5377"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/tvDGwHAz"]
+[WhiteElo "2591"]
+[BlackElo "2521"]
+[ECO "E11"]
+[Opening "Bogo-Indian Defense: Grünfeld Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:00:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Nbd2 O-O 5. Qc2 d5 6. e3 c5 7. dxc5 Na6 8. a3
+Bxd2+ 9. Nxd2 Nxc5 10. b4 Nce4 11. Nxe4 Nxe4 12. Bb2 Qg5 13. O-O-O Bd7 14. Kb1
+a5 15. h4 Qf5 16. f3 Ng3 17. Bd3 Qh5 18. Qc3 Qh6 19. Rhe1 axb4 20. axb4 Ba4 21.
+Rc1 Rfc8 22. Qe5 dxc4 23. Bxc4 Qxh4 24. Qxg7# 1-0
+

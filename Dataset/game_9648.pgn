@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Cann_Karo"]
+[Black "RussianBear2023"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/oni8sA1y"]
+[WhiteElo "2580"]
+[BlackElo "2535"]
+[ECO "C70"]
+[Opening "Ruy Lopez: Morphy Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:36:17"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Ke2 b5 6. Bb3 Nxe4 7. Re1 d5 8. Kf1
+Bc5 9. d4 Nxd4 10. Nxd4 Bxd4 11. f3 Qh4 0-1
+

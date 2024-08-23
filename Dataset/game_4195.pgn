@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "SevanB"]
+[Black "guandr"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/YdqWx0er"]
+[WhiteTitle "IM"]
+[WhiteElo "2568"]
+[BlackElo "2568"]
+[ECO "A53"]
+[Opening "Old Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:32:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 d6 3. Nc3 Nbd7 4. Nf3 c6 5. g3 e5 6. Bg2 Qc7 7. O-O Be7 8. b3
+O-O 9. Bb2 Re8 10. Qc2 Bf8 11. Rad1 a6 12. dxe5 dxe5 13. Ng5 a5 14. Nce4 h6 15.
+Nf3 Nxe4 16. Qxe4 Nc5 17. Qc2 f6 18. Nh4 Be6 19. f4 exf4 20. gxf4 Bg4 21. Rd2
+Rad8 22. Rxd8 Qxd8 23. e4 Qd3 24. Qxd3 Nxd3 25. Bd4 Be2 26. Rb1 Nxf4 27. Bb6
+Bd3 28. Re1 Bb4 29. Re3 Bd2 30. Rf3 Bxe4 31. Rf2 Bxg2 32. Rxd2 Be4 33. Bxa5 g5
+34. Rd6 Kf7 35. Rd7+ Re7 36. Rxe7+ Kxe7 37. Bd2 Nh3+ 38. Kf1 gxh4 39. Bxh6 Ng5
+40. Kf2 Bb1 41. a3 Ba2 42. b4 Bxc4 43. Ke3 b5 44. Kf4 Kf7 45. Kg4 h3 46. Kf4
+Kg6 47. Bf8 Ne6+ 48. Kg4 Nxf8 49. Kxh3 Ne6 50. Kh4 Nd4 51. h3 Nc2 52. Kg4 Nxa3
+53. Kh4 Nc2 54. Kg4 Nxb4 55. Kh4 Nd5 56. Kg3 b4 57. Kh4 b3 58. Kg3 b2 59. Kh4
+b1=Q 60. Kg3 Qd3+ 61. Kh4 Qe4+ 62. Kg3 Qf4+ 63. Kg2 Bf1+ 64. Kg1 Qf3 65. Kh2
+Qg2# 0-1
+

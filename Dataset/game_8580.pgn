@@ -1,0 +1,29 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "RaspFish"]
+[Black "fornax-engine"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/wOOrE9pA"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3029"]
+[BlackElo "2434"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "03:50:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "+0"]
+
+1. b3 d5 2. d4 Nf6 3. e3 g6 4. Bb2 Bg7 5. Nd2 O-O 6. Ngf3 Bf5 7. Be2 Nc6 8. Rc1
+e6 9. h3 h5 10. O-O Rc8 11. Ne5 Nxe5 12. dxe5 Ne4 13. Nxe4 Bxe4 14. f3 Bf5 15.
+g4 Bh6 16. Qd2 hxg4 17. hxg4 c5 18. Rce1 d4 19. Bd1 Bxe3+ 20. Rxe3 dxe3 21.
+Qxe3 Qh4 22. Kg2 Rfd8 23. Be2 Bxg4 24. Rh1 Qe7 25. fxg4 Qf8 26. Bc1 Qg7 27. Qg3
+Rd5 28. Bf3 Rcd8 29. Bxd5 Rxd5 30. c4 Rd4 31. Bg5 b5 32. Kf2 Rxg4 33. Qxg4 Qxe5
+34. Qf3 Qd4+ 35. Kg3 Qe5+ 36. Bf4 Qe1+ 37. Rxe1 g5 38. Be5 f5 39. Rh1 f4+ 40.
+Kg4 b4 41. Qb7 a5 42. Qg7# 1-0
+

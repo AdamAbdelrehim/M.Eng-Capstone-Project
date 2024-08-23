@@ -1,0 +1,37 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ELO_1500"]
+[Black "RaspFish"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/9qz0wXPx"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2694"]
+[BlackElo "2725"]
+[ECO "D11"]
+[Opening "Slav Defense: Quiet Variation"]
+[TimeControl "1200+10"]
+[UTCDate "2024.06.01"]
+[UTCTime "00:24:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. d4 Nf6 2. Nf3 c6 3. c4 d5 4. e3 Qb6 5. Qc2 g6 6. Bd3 Bg7 7. Nc3 O-O 8. O-O
+Na6 9. a3 c5 10. Re1 dxc4 11. Bxc4 cxd4 12. exd4 Bf5 13. Qb3 e6 14. h3 Nc7 15.
+Qxb6 axb6 16. g4 Bc2 17. Bd2 Nfd5 18. Rac1 Nxc3 19. Rxc2 N3d5 20. Bb3 h6 21.
+Rec1 Nb5 22. Bc4 Nbc7 23. Ba2 Nb5 24. Bc4 Nbc7 25. Be2 Ne8 26. Ne5 Nef6 27. Bf3
+g5 28. Kg2 Rfd8 29. Kf1 Ne8 30. Ke2 Nef6 31. Kf1 Re8 32. Kg1 Rab8 33. Nc4 Red8
+34. a4 Bf8 35. Kg2 Rbc8 36. b3 Kg7 37. Kf1 Rb8 38. Ra1 Rbc8 39. Rcc1 Ra8 40.
+Kg2 Be7 41. Rd1 Ra6 42. Kf1 Ne8 43. Be2 Nec7 44. Rac1 Bf6 45. Be1 Be7 46. Rc2
+Bf6 47. Rcc1 Kf8 48. Bd2 Kg7 49. Ne3 Ra7 50. Nxd5 Nxd5 51. Be3 Raa8 52. Kg2 Rd6
+53. Bb5 Rh8 54. Bf1 Rhd8 55. Kf3 Nb4 56. Rc7 Rb8 57. Bb5 Nd5 58. Rcc1 Rbd8 59.
+Bf1 Nb4 60. Rc7 Rb8 61. Bb5 Nd5 62. Rc4 Rh8 63. Rcc1 Rhd8 64. Rd2 Rh8 65. Rdc2
+Rdd8 66. Rh1 h5 67. Rcc1 Rd6 68. Bc4 Nb4 69. Rhd1 hxg4+ 70. hxg4 Rhd8 71. Rh1
+Nc6 72. Kg2 Na5 73. Rhd1 Nxc4 74. bxc4 Ra8 75. d5 Rxa4 76. dxe6 Rxe6 77. Rd7
+Be7 78. Rc2 Bc5 79. Bxg5 Re4 80. f3 Raxc4 81. Rxc4 Rxc4 82. Rxb7 Kg6 83. Bd8
+Rb4 84. g5 Rd4 85. Bf6 Rd2+ 86. Kh3 Bd6 87. Rxb6 Kh5 88. Rb2 Rxb2 89. Bxb2 Kxg5
+90. f4+ 1/2-1/2
+

@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "TFajedrez"]
+[Black "flo50"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/rmkGWkM0"]
+[WhiteElo "2389"]
+[BlackElo "2545"]
+[ECO "D87"]
+[Opening "Grünfeld Defense: Exchange Variation, Spassky Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:49:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. e4 Nxc3 6. bxc3 c5 7. Bc4 Bg7 8.
+Ne2 O-O 9. O-O Nc6 10. Be3 Qc7 11. Rc1 Rd8 12. Qd2 b6 13. Bf4 Qd7 14. Bb5 a6
+15. Bxc6 Qxc6 16. d5 Qa4 17. c4 b5 18. Qe3 bxc4 19. Qxc5 Qxa2 20. Nd4 Qa4 21.
+Rxc4 Qd7 22. Nc6 Re8 23. Rb1 e6 24. Nb8 Qd8 25. Nc6 Qd7 26. Nb8 Qd8 27. Nc6 Qh4
+28. Bg3 Qh5 29. Ne7+ Kh8 30. Nxc8 exd5 31. exd5 Raxc8 32. Qxc8 Rxc8 33. Rxc8+
+Bf8 34. Rxf8+ Kg7 35. Rfb8 Qxd5 36. h3 h5 37. Re1 g5 38. Be5+ Kh6 39. Bb2 Kg6
+40. Rbe8 f6 41. R8e6 g4 42. Rxf6+ Kg5 43. h4+ Kxh4 44. g3+ Kh3 45. Rfe6 Qg2#
+0-1
+

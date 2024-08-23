@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ice2breaker"]
+[Black "Rory_Sutherland"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ICROaze7"]
+[WhiteElo "2649"]
+[BlackElo "2732"]
+[ECO "E32"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:37:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d6 5. Bg5 Nbd7 6. e3 h6 7. Bh4 e5 8. Bd3
+O-O 9. Ne2 exd4 10. exd4 Re8 11. O-O Bxc3 12. Nxc3 c6 13. Rfe1 Rxe1+ 14. Rxe1
+Nf8 15. Bxf6 Qxf6 16. Re8 g6 17. d5 Kg7 18. Ne4 Qd4 19. Nxd6 1-0
+

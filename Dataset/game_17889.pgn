@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "GuilleRosario"]
+[Black "raf1310"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/YXvGYRHC"]
+[WhiteElo "2524"]
+[BlackElo "2689"]
+[ECO "E15"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:20:45"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. O-O
+d5 9. Qc2 Nbd7 10. Bf4 O-O 11. Rd1 Rc8 12. Nc3 dxc4 13. bxc4 Bxc4 14. Nd2 Bb5
+15. Qb3 Ba6 16. Qa4 Bb7 17. Qxa7 Ba8 18. e4 Bb4 19. Rac1 Nh5 20. Be3 b5 21. Nb3
+Rc7 22. Qa6 Bb7 23. Qa7 Bc8 24. Qa8 Nb6 25. Qb8 Nd7 26. Qa8 Nb6 27. Qb8 Nc4 28.
+e5 Rb7 29. Qa8 Nb6 30. Qa6 Rd7 31. Qxc8 Qxc8 32. g4 Bxc3 33. Rxc3 Nd5 34. Bxd5
+exd5 35. gxh5 Ra7 36. Rdc1 Rxa2 37. Rxc6 Qg4+ 38. Kf1 Qxh5 39. Kg1 Qg4+ 40. Kf1
+h6 41. Nc5 Qh3+ 42. Kg1 b4 43. Nd3 b3 44. Rb6 Qf5 45. Rxb3 Rfa8 46. Kf1 Ra1 47.
+Rxa1 Rxa1+ 48. Ke2 Qg4+ 49. f3 Ra2+ 50. Bd2 Qg2+ 51. Nf2 Rxd2+ 52. Kxd2 Qxf2+
+53. Kc3 Qxf3+ 54. Kb4 Qe4 55. Ka3 Qxd4 56. Rb4 Qc5 57. Kb3 d4 58. Rb8+ Kh7 59.
+Rb4 Qc3+ 60. Ka4 d3 61. Rb3 Qc2 62. Kb4 Qc3+ 63. Rxc3 d2 64. Kb3 d1=Q+ 65. Rc2
+g6 66. Kc3 g5 67. Rd2 g4 68. Rxd1 g3 69. Rf1 g2 0-1
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "wernertucrossholanda"]
+[Black "Nruter"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/6HkS4I4G"]
+[WhiteElo "2449"]
+[BlackElo "2555"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with d6"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "01:29:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. e4 c5 2. Nf3 d6 3. c3 Nf6 4. h3 Nc6 5. Bd3 g6 6. Bc2 Bg7 7. O-O O-O 8. d4
+cxd4 9. cxd4 e5 10. d5 Nb4 11. Nc3 Nxc2 12. Qxc2 Nd7 13. Qe2 Nc5 14. Be3 b6 15.
+b4 Ba6 16. b5 Bc8 17. Nd2 f5 18. f3 f4 19. Bf2 g5 20. Nc4 h5 21. a4 g4 22. Bxc5
+bxc5 23. Nd2 Qg5 24. hxg4 hxg4 25. Kf2 Qh4+ 26. Kg1 g3 0-1
+

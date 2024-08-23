@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "buildorderbot"]
+[Black "kikobedan"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/nMwio77u"]
+[WhiteElo "2609"]
+[BlackElo "2482"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "00:49:39"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Nge2 Nf6 5. d3 a6 6. Bd2 Bg4 7. h3 Bf5 8.
+Ng3 Bg6 9. Be2 Nc6 10. O-O e6 11. a4 Qc5 12. Be3 Qd6 13. Qc1 Be7 14. Re1 O-O
+15. Nce4 Nxe4 16. dxe4 e5 17. c3 Qe6 18. Bg4 Qf6 19. Qc2 Qh4 20. Qb3 Na5 21.
+Qd5 Nc6 22. a5 Rfd8 23. Qb3 Rab8 24. Qc4 h5 25. Bf5 Qf6 26. b4 Kh7 27. Nxh5 Qh4
+28. Ng3 Bf6 29. Qxf7 Ne7 30. Bxg6+ Nxg6 31. Nf5 Qxe4 32. Nxg7 Qd5 33. Ne6+ 1-0
+

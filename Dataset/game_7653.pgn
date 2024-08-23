@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sorriemerria"]
+[Black "t3p24w1"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/JACcsUSf"]
+[WhiteElo "2390"]
+[BlackElo "2545"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Sämisch Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:45:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. dxc3 Nc6 5. Nf3 d6 6. exd6 cxd6 7. Bd3 g6 8.
+Be3 Bg7 9. Qd2 O-O 10. O-O-O Be6 11. a3 a6 12. h4 h5 13. Ng5 Qd7 14. Nxe6 Qxe6
+15. Rde1 Qa2 16. Kd1 Qxb2 17. g4 Bxc3 18. Qe2 Nd4 19. Bxd4 Qb1# 0-1
+

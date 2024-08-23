@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "PurpleHunter"]
+[Black "pawn_git"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/YW62h8dB"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2641"]
+[BlackElo "2706"]
+[ECO "A29"]
+[Opening "English Opening: King's English Variation, Four Knights Variation, Fianchetto Line, with Nb6"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:09:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. g3 d5 5. cxd5 Nxd5 6. Bg2 Nb6 7. O-O Be7 8.
+a3 Be6 9. d3 O-O 10. b4 Nd4 11. Bb2 Nxf3+ 12. Bxf3 c6 13. Ne4 Nd7 14. Qc2 h6
+15. Bc3 Bd5 16. Nd2 Re8 17. Bg4 Bf8 18. e4 Be6 19. Bxe6 Rxe6 20. Nf3 Rc8 21.
+Rfd1 Qe8 22. Qb3 a6 23. a4 Nf6 24. Rac1 b5 25. axb5 cxb5 26. Bb2 Nd7 27. Rxc8
+Qxc8 28. Ra1 Qc7 29. Bc3 Rc6 30. Bd2 Be7 31. Qd5 Qc8 32. Kg2 Bf6 33. Qb3 Nb6
+34. h4 Na4 35. Ra3 Rc7 36. Nh2 Rc2 37. Ra2 Rc6 38. Nf1 Qe6 39. Qxe6 fxe6 40.
+Kf3 Bd8 41. h5 Bb6 42. Ne3 Bd4 43. Ke2 Rc3 44. Rc2 Rxc2 45. Nxc2 Bb2 46. Ke3
+Nb6 47. f3 Kf7 48. g4 Kf6 49. Be1 Kg5 50. Bg3 Bc1+ 51. Ke2 Bb2 52. d4 exd4 53.
+Kd3 Nc4 54. Nxd4 Bxd4 55. Kxd4 a5 56. bxa5 Nxa5 57. Be1 Nc6+ 58. Kc5 Ne5 59.
+Bd2+ Kh4 60. Bc3 Nxf3 61. Bxg7 Kxg4 62. Bxh6 Kxh5 63. Bc1 Kg4 64. Kxb5 Ne5 65.
+Bb2 Nd3 66. Ba1 Kf4 67. e5 Nxe5 68. Bb2 Nd3 69. Ba1 e5 70. Bxe5+ Kxe5 1/2-1/2
+

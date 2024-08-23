@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "semnik"]
+[Black "FIDE-Trainer1984"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/SnePy9KK"]
+[WhiteElo "2355"]
+[BlackElo "2503"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:29:10"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. Nf3 d5 2. g3 Nc6 3. d4 Bf5 4. Bg2 Nb4 5. Na3 h6 6. c3 Nc6 7. Nb1 e6 8. O-O
+Nf6 9. Nbd2 Bd6 10. Re1 O-O 11. Nh4 Bh7 12. e4 dxe4 13. Nxe4 Nxe4 14. Bxe4 Bxe4
+15. Rxe4 Ne7 16. Re1 c5 17. Be3 Qc7 18. Qf3 b6 19. Rad1 Rad8 20. Qg4 f5 21. Qe2
+f4 22. Bc1 Kh8 23. g4 f3 24. Nxf3 Rf7 25. Ne5 Bxe5 26. Qxe5 Qxe5 27. Rxe5 cxd4
+28. Rxd4 Rxd4 29. cxd4 Rf6 30. Re4 Nd5 31. a3 g5 32. Kg2 Kg7 33. Re2 Kg6 34.
+Be3 Rf7 35. Rc2 Rc7 36. Rxc7 Nxc7 37. f4 Nd5 38. Kf3 Kf6 39. fxg5+ hxg5 40. Bf2
+b5 41. h4 a6 42. h5 Kg7 43. Be3 Kf6 44. Ke4 a5 45. Bd2 a4 46. Kd3 Ne7 47. Ke4
+Nd5 48. Bc1 Nb6 49. Kd3 Nd5 50. Kc2 Ne7 51. b3 Nd5 52. bxa4 bxa4 53. Kd3 Nf4+
+54. Bxf4 gxf4 55. Ke4 Kg5 56. Kf3 1-0
+

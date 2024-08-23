@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Matou_33"]
+[Black "TheKnightmaresBegin"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ngGSACOv"]
+[WhiteTitle "FM"]
+[WhiteElo "2525"]
+[BlackElo "2458"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:41:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. b3 e5 2. Bb2 d5 3. Bxe5 Nc6 4. Bb2 Nf6 5. e3 Be7 6. Nf3 O-O 7. Bb5 Bg4 8. h3
+Bh5 9. Bxc6 bxc6 10. d3 Re8 11. Nbd2 Bb4 12. a3 Bxf3 13. gxf3 Bxd2+ 14. Qxd2
+Qd6 15. Rg1 Rab8 16. Qc3 Re6 17. O-O-O c5 18. e4 Qf4+ 19. Kb1 Qxf3 20. Qxc5
+dxe4 21. Qxc7 Rbe8 22. dxe4 Rxe4 23. Qxa7 Re2 24. Qd4 R2e6 25. Rg3 Qf5 26. Rdg1
+Re1+ 27. Ka2 Qxc2 28. Rxg7+ Kh8 29. Rg8+ 1-0
+

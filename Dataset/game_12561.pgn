@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "PurpleHunter"]
+[Black "RavenEngine"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/0MEzYMu5"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2603"]
+[BlackElo "2499"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, Lipnitsky Attack"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:43:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Be3 b5 8. Bb3
+Be7 9. f3 O-O 10. Qd2 b4 11. Na4 d5 12. exd5 Nxd5 13. Nf5 Nxe3 14. Nxe7+ Qxe7
+15. Qxe3 Nd7 16. O-O-O Bb7 17. Rd2 Bc6 18. Rhd1 Rac8 19. Rd6 a5 20. h4 Bxa4 21.
+Bxa4 Nf6 22. R1d2 Rc4 23. g3 Qc7 24. Qb6 Nd5 25. Qxc7 Rxc7 26. Ra6 Rc5 27. Rc6
+Rc8 28. Rxc5 Rxc5 29. Bb3 Kf8 30. Bxd5 exd5 31. Re2 a4 32. Kd2 g6 33. Re1 h5
+34. Re5 Ra5 35. g4 hxg4 36. fxg4 Rc5 37. h5 Rc4 38. hxg6 fxg6 39. Rxd5 Rxg4 40.
+Ra5 Rg2+ 41. Kd3 a3 42. bxa3 bxa3 43. Kc3 g5 44. Kb3 g4 45. c4 Rg3+ 46. Kb4 Re3
+47. c5 g3 48. c6 Ke7 49. Rg5 Kd6 50. Rg6+ Kc7 51. Kc5 Re5+ 52. Kc4 Re2 53. Rxg3
+Rxa2 54. Rg1 Kxc6 55. Rb1 Rb2 56. Ra1 a2 57. Kc3 Rb1 58. Rxa2 Rc1+ 59. Kb2 Rd1
+60. Ra1 Rxa1 61. Kxa1 1/2-1/2
+

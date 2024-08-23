@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Dr_Nezard"]
+[Black "m1234xty"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/GTDuqLXS"]
+[WhiteTitle "FM"]
+[WhiteElo "2526"]
+[BlackElo "2433"]
+[ECO "A05"]
+[Opening "King's Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:35:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. Nf3 Nf6 2. g3 d5 3. Bg2 e6 4. O-O Be7 5. b3 O-O 6. Bb2 c5 7. e3 Nc6 8. d4 b6
+9. Nbd2 Bb7 10. dxc5 bxc5 11. c4 Rc8 12. cxd5 exd5 13. Rc1 Qb6 14. Nh4 Rfd8 15.
+Nf5 d4 16. exd4 cxd4 17. Nc4 Qc7 18. Bxc6 Bxc6 19. Na5 Qxa5 20. Nxe7+ Kh8 21.
+Nxc6 1-0
+

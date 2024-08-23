@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Cann_Karo"]
+[Black "Veronica_Mars"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/1Pqj5rps"]
+[WhiteElo "2578"]
+[BlackElo "2469"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:43:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. d4 e6 2. Bf4 c5 3. e3 Nc6 4. Nf3 Nf6 5. c3 Nd5 6. Bg3 Qb6 7. Qb3 Be7 8. Na3
+O-O 9. Nc4 Qd8 10. Nd6 cxd4 11. exd4 f5 12. Bc4 f4 13. Bxd5 exd5 14. Qxd5+ Kh8
+15. Nf7+ Rxf7 16. Qxf7 fxg3 17. hxg3 Qf8 18. Qh5 Qg8 19. d5 Nd8 20. Kf1 Nf7 21.
+Re1 Bf8 22. Re8 b6 23. Rxf8 1-0
+

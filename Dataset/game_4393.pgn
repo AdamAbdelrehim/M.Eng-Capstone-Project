@@ -1,0 +1,37 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Lynx_BOT"]
+[Black "ChessNoobComp"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/sLsACtYG"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2562"]
+[BlackElo "2467"]
+[ECO "C69"]
+[Opening "Ruy Lopez: Exchange Variation, Normal Variation"]
+[TimeControl "600+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:04:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Qf6 6. d4 exd4 7. Bg5 Qd6 8.
+Nxd4 Bd7 9. Qd2 c5 10. Nf5 Qxd2 11. Nxd2 f6 12. Bf4 Bxf5 13. exf5 O-O-O 14. Ne4
+Ne7 15. Nxc5 Nxf5 16. Ne6 Rd7 17. Rad1 Bd6 18. Bxd6 Nxd6 19. Rfe1 Re7 20. Nf4
+Rhe8 21. Rxe7 Rxe7 22. g3 g5 23. Nd5 Re6 24. Kg2 f5 25. Ne3 Re4 26. Kf3 g4+ 27.
+Kg2 Nc4 28. Nxc4 Rxc4 29. Rd2 Re4 30. f3 Re3 31. fxg4 fxg4 32. h3 gxh3+ 33.
+Kxh3 Re1 34. Kg4 Rh1 35. Kg5 b5 36. b3 Kb7 37. a4 bxa4 38. bxa4 Ra1 39. Rd4 Ra3
+40. g4 Rc3 41. Rd7 Rc5+ 42. Kh6 Rxc2 43. Rxh7 Rh2+ 44. Kg7 Rxh7+ 45. Kxh7 c5
+46. g5 c4 47. g6 c3 48. g7 c2 49. g8=Q c1=Q 50. Qd5+ Qc6 51. Qb3+ Kc8 52. Kh8
+Qe4 53. Qc3+ Kd7 54. Qg7+ Kd6 55. Qf6+ Qe6 56. Qd4+ Kc6 57. Qc3+ Kd5 58. Qb3+
+Kd6 59. Qb4+ Kc7 60. Qa5+ Qb6 61. Qc3+ Qc6 62. Qg7+ Kd6 63. Qg3+ Ke7 64. Qg7+
+Kd8 65. Qg5+ Kc8 66. Qg4+ Kb7 67. Qg7+ Kb6 68. Qg6 a5 69. Qb1+ Kc7 70. Qb3 Qc5
+71. Kg8 Kd6 72. Kg7 Qg5+ 73. Kh7 Qf5+ 74. Kg7 Qe5+ 75. Kh7 Qe7+ 76. Kh8 Qe5+
+77. Kh7 Qe4+ 78. Kg7 Qd4+ 79. Kg6 Qg4+ 80. Kf6 Qh4+ 81. Kf5 Qh5+ 82. Ke4 Qg4+
+83. Kd3 Qh3+ 84. Kc2 Qxb3+ 85. Kxb3 Kd5 86. Ka3 Kc4 87. Ka2 Kb4 88. Kb2 Kxa4
+89. Ka2 Kb4 90. Kb2 a4 91. Ka2 Kc4 92. Ka3 Kb5 93. Ka2 a3 94. Kxa3 1/2-1/2
+

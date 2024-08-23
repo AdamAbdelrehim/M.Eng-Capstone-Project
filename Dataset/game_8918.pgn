@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "rsmg"]
+[Black "zadokhlik"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/zIUiHlPu"]
+[WhiteElo "2395"]
+[BlackElo "2549"]
+[ECO "A56"]
+[Opening "Benoni Defense: Czech Benoni Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "06:02:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 Be7 6. f3 O-O 7. Be3 Ne8 8. Qd2 g6
+9. g4 Ng7 10. Nge2 Bh4+ 11. Kd1 Na6 12. a3 Bd7 13. Kc2 Rb8 14. Nc1 Nc7 15. b3
+a6 16. Bd3 b5 17. N1e2 bxc4 18. bxc4 Na8 19. Rhb1 Rxb1 20. Rxb1 Nb6 21. Kc1 Kh8
+22. Qb2 Nc8 23. Bd2 f5 24. h3 fxg4 25. fxg4 Bg5 26. Bxg5 Qxg5+ 27. Qd2 Rf1+ 28.
+Kc2 Qxd2+ 29. Kxd2 Rxb1 30. Nxb1 h5 31. gxh5 Nxh5 32. Ng1 Nf4 33. Bf1 Kg7 34.
+Nc3 Nb6 35. Nd1 Kh6 36. Ne3 Na4 37. Kc2 Nb6 38. Kd2 Nc8 39. Kc2 Ne7 40. Kd2 Ng8
+41. h4 Kh5 42. Nf3 Bg4 43. Ng5 Nh6 44. Nh7 Kxh4 45. Nf6 Bf3 46. Ne8 Nf7 47. Bd3
+g5 48. Nf5+ Kh3 49. Nexd6 Nxd6 50. Nxd6 g4 51. Nf5 g3 52. Bf1+ g2 53. Bxg2+
+Bxg2 54. Ng7 Bxe4 55. d6 Bc6 56. Nf5 Kg4 57. Ne7 Bd7 58. Ng8 Kf5 59. Ke3 Ke6
+60. Ke4 Bc6+ 61. Ke3 Kxd6 0-1
+

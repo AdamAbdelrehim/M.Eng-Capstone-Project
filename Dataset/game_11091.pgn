@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "gerrygm"]
+[Black "chesschampion9999"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/EaNM7mIl"]
+[WhiteTitle "GM"]
+[WhiteElo "2624"]
+[BlackElo "2612"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:13:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+
+1. c4 e6 2. Nf3 Nf6 3. Nc3 c5 4. g3 b6 5. e4 Bb7 6. e5 Ne4 7. Bg2 d5 8. cxd5
+exd5 9. d4 Nc6 10. O-O Be7 11. dxc5 Nxc3 12. bxc3 Bxc5 13. Ng5 Be7 14. e6 Bxg5
+15. Qh5 O-O 16. exf7+ Rxf7 17. Bxg5 Qd6 18. Bf4 1-0
+

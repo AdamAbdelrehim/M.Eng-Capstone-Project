@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ExplosiveBombBlind"]
+[Black "ilprofessore87"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/OOiCsjBX"]
+[WhiteElo "2693"]
+[BlackElo "2565"]
+[ECO "B00"]
+[Opening "Pirc Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:23:51"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nge2 Be7 5. h3 O-O 6. g4 c6 7. Bg2 Nbd7 8. Be3
+d5 9. exd5 Nb6 10. dxc6 Nfd5 11. dxe5 Nxe3 12. Qxd8 Nxg2+ 13. Kf1 Rxd8 14. Kxg2
+bxc6 15. Rad1 Bb7 16. f3 Nc4 17. Kg3 Nxe5 18. b3 c5 19. Rhf1 Rxd1 20. Nxd1 Rd8
+21. f4 Nc6 22. Ne3 Rd2 23. Re1 g6 24. h4 Bf8 25. c3 Rxa2 26. h5 Rb2 27. Nc1 Rc2
+28. Nd5 Bd6 29. Nf6+ Kf8 30. Re8+ Kg7 31. g5 Rxc3+ 32. Kh4 1-0
+

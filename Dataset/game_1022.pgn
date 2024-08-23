@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Malakhov_Igor"]
+[Black "uzb_2600"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/T79pEzIj"]
+[WhiteElo "2572"]
+[BlackElo "2552"]
+[ECO "B03"]
+[Opening "Alekhine Defense: Four Pawns Attack, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "05:55:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+8"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. c4 Nb6 5. f4 dxe5 6. fxe5 Nc6 7. Be3 Bf5 8. Nc3
+e6 9. Nf3 Bb4 10. Rc1 O-O 11. Be2 Na5 12. O-O Naxc4 13. Bg5 Be7 14. Bxe7 Qxe7
+15. Nb5 Ne3 16. Qb3 Nxf1 17. Rxc7 Qd8 18. Rxb7 Nd2 19. Nxd2 Qd5 20. Qxd5 Nxd5
+21. Nd6 Bg6 22. Bf3 Rfb8 23. Rxb8+ Rxb8 24. b3 f6 25. Kf1 fxe5 26. dxe5 Kf8 27.
+Ke2 Ke7 28. N2c4 Nc3+ 29. Ke3 Nxa2 30. Nb7 Nb4 31. Ncd6 Nd5+ 32. Bxd5 exd5 33.
+Kd4 Be4 34. g3 Rf8 35. Na5 Kd7 36. b4 Rf2 37. b5 Rxh2 38. Nc6 Rd2+ 39. Kc5 Rc2+
+40. Kd4 Rxc6 41. bxc6+ Kxc6 42. Ne8 g5 43. e6 Bg6 44. Ng7 Kd6 45. e7 Kxe7 46.
+Kxd5 Kf6 0-1
+

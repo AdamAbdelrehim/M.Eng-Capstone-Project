@@ -1,0 +1,35 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "PetersBot"]
+[Black "caissa-x"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/gzWiO16M"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2975"]
+[BlackElo "3039"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+[TimeControl "900+3"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:39:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8.
+Qc2 Re8+ 9. Ne2 h5 10. O-O h4 11. h3 Nd7 12. Bd2 Nf8 13. Rae1 Be6 14. f4 c5 15.
+f5 Bd7 16. d5 b5 17. c4 bxc4 18. Bxc4 Rb8 19. a4 Bc8 20. Nc3 Rxe1 21. Bxe1 Nd7
+22. Ne4 Be5 23. Bc3 Bxc3 24. Qxc3 Ne5 25. b3 Bd7 26. Nxc5 Qb6 27. Ba6 Bxa4 28.
+bxa4 Nd7 29. Rc1 Nxc5 30. Qxc5 Qxa6 31. Qc7 Qb6+ 32. Qxb6 axb6 33. d6 Kf8 34.
+Kf2 Ke8 35. Rc4 Ra8 36. Rxh4 Ra5 37. g4 Rxa4 38. Rh8+ Kd7 39. Rf8 Ra2+ 40. Kg3
+Ra3+ 41. Kh4 g5+ 42. fxg6 fxg6 43. Rxf6 g5+ 44. Kxg5 Rxh3 45. Rf1 Kxd6 46. Ra1
+b5 47. Rb1 Kc5 48. Ra1 b4 49. Rb1 b3 50. Ra1 Kb4 51. Rb1 Rh2 52. Ra1 Kc3 53.
+Rb1 Rb2 54. Ra1 Ra2 55. Rb1 Kc2 56. Re1 b2 57. Rf1 Kb3 58. Rb1 Kc2 59. Rxb2+
+Rxb2 60. Kf5 Rb5+ 61. Kf4 Rb4+ 62. Kf5 Rb5+ 63. Kf4 Rb4+ 64. Kf5 Kd3 65. g5
+Rb5+ 66. Kf4 Rb4+ 67. Ke5 Rb5+ 68. Kf4 Kd4 69. g6 Rb7 70. Kf5 Kd5 71. Kf6 Rb6+
+72. Kf5 Rb7 73. Kf6 Rb6+ 74. Kf5 Rb8 75. g7 Kd6 76. Kf6 Ra8 77. Kf7 Ke5 78.
+g8=Q Rxg8 79. Kxg8 1/2-1/2
+

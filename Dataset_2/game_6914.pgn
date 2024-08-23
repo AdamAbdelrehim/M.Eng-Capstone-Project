@@ -1,0 +1,36 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.12.30"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "DarwinCantu"]
+[Result "0-1"]
+[CurrentPosition "r4rk1/ppp1b1pp/2n1N3/3p4/3Pp1n1/2N1B3/PPPQ1PPq/3R1RK1 w - -"]
+[Timezone "UTC"]
+[ECO "C44"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Variation-2...Nc6"]
+[UTCDate "2022.12.30"]
+[UTCTime "20:36:01"]
+[WhiteElo "1827"]
+[BlackElo "1872"]
+[TimeControl "600"]
+[Termination "DarwinCantu won by checkmate"]
+[StartTime "20:36:01"]
+[EndDate "2022.12.30"]
+[EndTime "20:38:36"]
+[Link "https://www.chess.com/game/live/66171659537"]
+
+1. e4 { [%clk 0:10:00] } 1... Nc6 { [%clk 0:09:59.2] } 2. Nf3
+{ [%clk 0:09:59.6] } 2... e5 { [%clk 0:09:57.8] } 3. Bc4 { [%clk 0:09:56.8] }
+3... Nf6 { [%clk 0:09:55.5] } 4. d3 { [%clk 0:09:48.9] } 4... d6
+{ [%clk 0:09:53.9] } 5. O-O { [%clk 0:09:47.2] } 5... Be6 { [%clk 0:09:52.3] }
+6. Bxe6 { [%clk 0:09:44.9] } 6... fxe6 { [%clk 0:09:52.2] } 7. Bg5
+{ [%clk 0:09:42.3] } 7... Be7 { [%clk 0:09:51.2] } 8. Nc3 { [%clk 0:09:39.2] }
+8... O-O { [%clk 0:09:48] } 9. Qd2 { [%clk 0:09:34.1] } 9... Qe8
+{ [%clk 0:09:43] } 10. Rad1 { [%clk 0:09:25.9] } 10... Qh5 { [%clk 0:09:26.6] }
+11. Be3 { [%clk 0:09:03.9] } 11... d5 { [%clk 0:09:13.6] } 12. exd5
+{ [%clk 0:08:57.8] } 12... exd5 { [%clk 0:09:13.5] } 13. d4
+{ [%clk 0:08:53.7] } 13... e4 { [%clk 0:09:03.9] } 14. Ng5 { [%clk 0:08:48.8] }
+14... Ng4 { [%clk 0:08:55.1] } 15. Ne6 { [%clk 0:08:40.7] } 15... Qxh2#
+{ [%clk 0:08:52.7] } 0-1
+

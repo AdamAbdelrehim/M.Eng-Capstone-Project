@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "oksamak"]
+[Black "durasno"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/pkdLdaAN"]
+[WhiteElo "2547"]
+[BlackElo "2544"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "01:22:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c6 4. e3 Bg4 5. Nbd2 Nh5 6. Bg5 h6 7. Bh4 g5 8. Bg3
+Nxg3 9. hxg3 Nd7 10. c4 e6 11. Bd3 f5 12. Qc2 Bd6 13. cxd5 cxd5 14. Rc1 Kf7 15.
+Qb3 Qb6 16. Qa4 Ke7 17. Rc2 Rac8 18. Rxc8 Rxc8 19. Rxh6 Rc1+ 20. Ke2 Qxb2 21.
+Rh7+ Kf6 22. Qxd7 1-0
+

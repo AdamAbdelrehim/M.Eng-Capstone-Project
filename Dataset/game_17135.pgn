@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "johndoe695"]
+[Black "angelito_78"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/7DptjxdX"]
+[WhiteElo "2541"]
+[BlackElo "2503"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Accelerated Move Order"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:20:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. Bf4 dxc4 5. a4 Bb4 6. e3 b5 7. axb5 cxb5 8. Qf3
+Qd5 9. Qxd5 exd5 10. Bxb8 Rxb8 11. Rxa7 Nf6 12. Kd1 Bxc3 13. bxc3 Ne4 14. Nh3
+Nxc3+ 15. Kc2 b4 0-1
+

@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.06.04"]
+[Round "-"]
+[White "Carpaticus"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r4rk1/pp1q1pbp/2n1pnp1/3pN1B1/3P4/2P5/PP1NQPPP/R4RK1 w - -"]
+[Timezone "UTC"]
+[ECO "A45"]
+[ECOUrl "https://www.chess.com/openings/Indian-Game-2.Bf4-g6-3.e3"]
+[UTCDate "2024.06.04"]
+[UTCTime "01:44:41"]
+[WhiteElo "1924"]
+[BlackElo "1887"]
+[TimeControl "600"]
+[Termination "Carpaticus won by resignation"]
+[StartTime "01:44:41"]
+[EndDate "2024.06.04"]
+[EndTime "01:45:53"]
+[Link "https://www.chess.com/game/live/111204614929"]
+
+1. d4 { [%clk 0:09:59.2] } 1... Nf6 { [%clk 0:09:55.8] } 2. Bf4
+{ [%clk 0:09:53.4] } 2... g6 { [%clk 0:09:53.7] } 3. e3 { [%clk 0:09:52] } 3...
+d5 { [%clk 0:09:53] } 4. c3 { [%clk 0:09:50.6] } 4... c5 { [%clk 0:09:52.2] }
+5. Nd2 { [%clk 0:09:48.9] } 5... Bg7 { [%clk 0:09:51.5] } 6. Ngf3
+{ [%clk 0:09:46.5] } 6... Nc6 { [%clk 0:09:49.9] } 7. Be2 { [%clk 0:09:44.8] }
+7... cxd4 { [%clk 0:09:43.9] } 8. exd4 { [%clk 0:09:41.7] } 8... Bg4
+{ [%clk 0:09:43.2] } 9. Ne5 { [%clk 0:09:37.3] } 9... Bxe2 { [%clk 0:09:40.9] }
+10. Qxe2 { [%clk 0:09:34] } 10... O-O { [%clk 0:09:38.5] } 11. O-O
+{ [%clk 0:09:27.8] } 11... e6 { [%clk 0:09:37.4] } 12. Bg5 { [%clk 0:09:23.5] }
+12... Qd7 { [%clk 0:09:34.2] } 1-0
+

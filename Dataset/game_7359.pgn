@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Honda1000"]
+[Black "FIDE-Trainer1984"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/4UZpAdto"]
+[WhiteElo "2337"]
+[BlackElo "2512"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Panov Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:55:28"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 e5 6. Nf3 e4 7. Ne5 Bb4 8. cxd5
+O-O 9. Bg5 Qa5 10. Bxf6 Bxc3+ 11. bxc3 Qxc3+ 12. Ke2 gxf6 13. Rc1 Qa3 14. Nc4
+Bg4+ 15. Ke1 Qb4+ 16. Qd2 Qxd2+ 17. Kxd2 Rd8 18. d6 Be6 19. Ke3 f5 20. g4 fxg4
+21. Kxe4 Nc6 22. Rg1 f5+ 23. Kf4 Nxd4 24. Ke5 Nf3+ 25. Kxe6 Nxg1 26. Kxf5 Nf3
+27. Kxg4 Nd4 28. Rd1 Nc6 29. Ne3 Kg7 30. Nf5+ Kf6 31. Ng3 Ne5+ 32. Kh4 Nf7 33.
+Bg2 Nxd6 34. Nh5+ Ke5 35. Re1+ Kd4 36. Nf4 Kc3 37. Ne6 Re8 38. Re3+ Kd2 39. Bf1
+Nf5+ 40. Kg5 Nxe3 0-1
+

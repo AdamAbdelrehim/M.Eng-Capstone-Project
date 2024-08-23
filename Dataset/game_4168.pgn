@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "the-chess-gambler"]
+[Black "boyblack90"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/jKW2TeYM"]
+[WhiteElo "2512"]
+[BlackElo "2490"]
+[ECO "A36"]
+[Opening "English Opening: Symmetrical Variation, Ultra-Symmetrical Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:29:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-5"]
+
+1. c4 c5 2. Nc3 Nc6 3. g3 g6 4. Bg2 Bg7 5. h4 h6 6. Nh3 d6 7. Nf4 Nf6 8. a3 O-O
+9. d3 e5 10. Nfd5 Nxd5 11. Nxd5 Be6 12. Bd2 Ne7 13. h5 g5 14. f4 f6 15. e4 Nc6
+16. Bc3 Nd4 17. Bxd4 cxd4 18. O-O Qd7 19. Kh2 b6 20. b4 Kh8 21. Ra2 Rac8 22.
+Raf2 Bxd5 23. exd5 f5 24. fxg5 hxg5 25. g4 f4 26. Be4 Bh6 27. Qf3 Qa4 28. Ra1
+Rc7 29. Bf5 Rg7 30. Qe4 Qb3 31. Kg2 Qa4 32. Kf3 Qe8 33. a4 Qd8 34. a5 Qc7 35.
+Rfa2 b5 36. cxb5 Qc3 37. Qe1 Qb3 38. Ke4 Rc7 39. Qb1 Qc3 40. b6 axb6 41. axb6
+Rb7 42. Rc2 Rxb6 43. Rxc3 dxc3 44. Be6 f3 45. Qa2 f2 46. Rf1 Rxb4+ 47. Ke3 Rb2
+48. Qa3 Rc2 49. Qxd6 Bg7 50. h6 Bxh6 51. Qxe5+ Kh7 52. Bf5+ Kg8 53. Qe6+ Kg7
+54. Qg6+ Kh8 55. Qh7# 1-0
+

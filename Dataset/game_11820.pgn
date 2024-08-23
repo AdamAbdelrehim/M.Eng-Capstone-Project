@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "dataanalystboi789"]
+[Black "joshuabautista309"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/mzZdVRBX"]
+[WhiteElo "2623"]
+[BlackElo "2626"]
+[ECO "D90"]
+[Opening "Grünfeld Defense: Three Knights Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:04:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. h4 h5 6. Bg5 dxc4 7. e4 c5 8. Bxc4
+cxd4 9. Nxd4 O-O 10. Nde2 Qc7 11. Bb3 Nc6 12. f3 Rd8 13. Qc2 Nb4 14. Bxf7+ Kf8
+15. Qb3 Nd3+ 16. Kf1 Qc5 17. Nd1 b6 18. Be3 Qa5 19. Bxg6 Qe1# 0-1
+

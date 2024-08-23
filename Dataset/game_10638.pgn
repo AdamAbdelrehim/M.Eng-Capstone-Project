@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "odonata-bot"]
+[Black "InanisBot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/tjZpqI27"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2632"]
+[BlackElo "2409"]
+[ECO "B46"]
+[Opening "Sicilian Defense: Taimanov Variation"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:10:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nc6 5. Nc3 a6 6. Nxc6 bxc6 7. Bd3 d5 8.
+O-O g6 9. Qe2 d4 10. Na4 c5 11. b3 e5 12. Bc4 Nf6 13. f4 Bd6 14. fxe5 Bxe5 15.
+Qf2 h6 16. Bf4 Ng4 17. Qg3 Bxf4 18. Bxf7+ Kxf7 19. Qxf4+ Ke7 20. Qf7+ Kd6 21.
+Qd5+ Ke7 22. Qxc5+ Ke6 23. Qc4+ Ke7 24. Qf7+ Kd6 25. e5+ Kxe5 26. Qg7+ Ke6 27.
+Rae1+ Ne3 28. Rf4 Rf8 29. Re4+ Kd6 30. Qxd4+ Nd5 31. Qc5+ Kd7 32. Qxd5+ Kc7 33.
+Rc4+ Kb8 34. Rb4+ Qb6+ 35. Rxb6+ Ka7 36. Re7+ Bd7 37. Rxd7# 1-0
+

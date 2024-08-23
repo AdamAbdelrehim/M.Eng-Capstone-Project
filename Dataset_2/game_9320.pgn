@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.03"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "paldo"]
+[Result "0-1"]
+[CurrentPosition "r1b1k2r/pp3ppp/4p3/3q4/3n4/5P2/PPPQ2PP/R3KB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "B44"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Taimanov-Variation"]
+[UTCDate "2023.06.03"]
+[UTCTime "03:18:25"]
+[WhiteElo "1951"]
+[BlackElo "1948"]
+[TimeControl "600"]
+[Termination "paldo won by resignation"]
+[StartTime "03:18:25"]
+[EndDate "2023.06.03"]
+[EndTime "03:19:20"]
+[Link "https://www.chess.com/game/live/79501234937"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:09:56.8] } 2. Nf3
+{ [%clk 0:09:58.2] } 2... Nc6 { [%clk 0:09:55.5] } 3. d4 { [%clk 0:09:57] }
+3... cxd4 { [%clk 0:09:53.9] } 4. Nxd4 { [%clk 0:09:55.6] } 4... e6
+{ [%clk 0:09:52.7] } 5. Nc3 { [%clk 0:09:54.1] } 5... Nf6 { [%clk 0:09:51.1] }
+6. Be3 { [%clk 0:09:49.8] } 6... Bb4 { [%clk 0:09:48.4] } 7. f3
+{ [%clk 0:09:47.9] } 7... d5 { [%clk 0:09:45.8] } 8. exd5 { [%clk 0:09:44.4] }
+8... Nxd5 { [%clk 0:09:43.8] } 9. Bd2 { [%clk 0:09:42.4] } 9... Nxd4
+{ [%clk 0:09:41.3] } 10. Nxd5 { [%clk 0:09:37.1] } 10... Bxd2+
+{ [%clk 0:09:39.1] } 11. Qxd2 { [%clk 0:09:36.1] } 11... Qxd5
+{ [%clk 0:09:36.7] } 0-1
+

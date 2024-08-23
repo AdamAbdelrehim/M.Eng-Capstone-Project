@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Hoon_Bot"]
+[Black "PetersBot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/hBvvfI9J"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2877"]
+[BlackElo "2970"]
+[ECO "C20"]
+[Opening "Bongcloud Attack"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:20:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e5 2. Ke2 Nf6 3. d3 Bc5 4. Nc3 O-O 5. Nf3 d5 6. h3 a5 7. Ke1 a4 8. a3
+dxe4 9. dxe4 Qxd1+ 10. Kxd1 Bxf2 11. Bd3 Nbd7 12. g4 Bc5 13. Ke2 Bd6 14. Nh4 c6
+15. Rd1 Be7 16. Nf5 Bc5 17. Bc4 Nb6 18. Ba2 Be6 19. Nd6 Bxa2 20. Rxa2 Rfb8 21.
+Nf5 Ne8 22. Be3 Bxe3 23. Nxe3 Nc7 24. h4 g6 25. b3 Ne6 26. g5 f6 27. gxf6 Nd4+
+28. Ke1 Rf8 29. Ng4 axb3 30. cxb3 Nd7 31. Ne2 c5 32. Nxd4 exd4 33. e5 Rfe8 34.
+Re2 Re6 35. Kd2 Rxa3 36. Re4 Kf7 37. b4 h5 38. Nh6+ Ke8 39. Rde1 Ra4 40. b5 Nb6
+41. Rc1 Nc4+ 42. Rxc4 Rxc4 43. Re1 Ra4 44. Kd3 b6 45. Ke4 d3+ 46. Kxd3 Rd4+ 47.
+Kc3 Rf4 48. Rg1 Rxe5 49. Rxg6 Re6 50. Rg8+ Kd7 51. Rg7+ Kd6 52. Nf7+ Kd5 53.
+Rg5+ Ke4 54. Rxh5 Rexf6 55. Re5+ Kf3 56. Ng5+ Kg4 57. Re8 Rd4 58. Re3 Ra4 59.
+Kb2 Rf2+ 60. Kb3 Rff4 61. Re1 Rab4+ 62. Kc3 Kxh4 63. Ne6 Rf3+ 64. Kc2 Rxb5 65.
+Nc7 Rbb3 66. Rg1 c4 67. Kc1 Rbc3+ 68. Kb2 Rb3+ 69. Kc1 Ra3 70. Rh1+ Kg3 71.
+Rg1+ Kh2 72. Rg8 Rf2 0-1
+

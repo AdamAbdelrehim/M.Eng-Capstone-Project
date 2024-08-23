@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "buildorderbot"]
+[Black "DmitriyD-1978"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/AazcsgYj"]
+[WhiteElo "2604"]
+[BlackElo "2457"]
+[ECO "A00"]
+[Opening "Ware Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:49:43"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+
+1. a4 Nf6 2. a5 a6 3. Ra4 e6 4. h4 d5 5. h5 h6 6. Rah4 Nbd7 7. g4 Be7 8. Nf3
+Ne4 9. R4h2 Bb4 10. c3 Bxa5 11. d3 Nd6 12. g5 e5 13. gxh6 gxh6 14. Bh3 Qe7 15.
+Kf1 c6 16. Nbd2 Nf6 17. Nb3 Bb6 18. d4 exd4 19. Nbxd4 Bxh3+ 20. Rxh3 Nfe4 21.
+Bf4 O-O-O 22. Qc1 Qf6 23. Be5 Qe7 24. Bxh8 Rxh8 25. Rg1 c5 26. Nc2 Kb8 27. Rg2
+Ka7 28. Kg1 Nf5 29. Ne3 Nxe3 30. Qxe3 d4 31. cxd4 cxd4 32. Qd3 f5 33. Nh4 Qc5
+34. Rf3 Qc1+ 35. Kh2 Bc7+ 36. Rfg3 Rd8 37. Nxf5 Nxg3 38. fxg3 Qg5 39. Kh3 Qxh5+
+40. Nh4 Rg8 41. Qf3 Qe8 42. Nf5 Qe6 43. Kh2 Bb6 44. g4 Rf8 45. Qh3 Qe5+ 46. Kh1
+h5 47. Qxh5 Rh8 48. Nh6 d3 49. exd3 Qe1+ 50. Kh2 Qe3 51. g5 Qf4+ 52. Kh3 Rd8
+53. Rg3 Bc7 54. Rf3 Qh2+ 55. Kg4 Rd4+ 56. Kf5 Qe5+ 57. Kg6 Qe6+ 58. Kh7 1-0
+

@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.04.19"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Mohamedfathisalah"]
+[Result "0-1"]
+[CurrentPosition "r1b1kbnr/pppp1ppp/8/8/2B1P3/8/PPPPKPqP/RNBQ2n1 w kq -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Blackburne-Shilling-Gambit-4.Nxe5-Qg5"]
+[UTCDate "2021.04.19"]
+[UTCTime "21:51:21"]
+[WhiteElo "1280"]
+[BlackElo "1311"]
+[TimeControl "600"]
+[Termination "Mohamedfathisalah won by resignation"]
+[StartTime "21:51:21"]
+[EndDate "2021.04.19"]
+[EndTime "21:54:27"]
+[Link "https://www.chess.com/game/live/12608181839"]
+
+1. e4 { [%clk 0:09:58.7] } 1... e5 { [%clk 0:09:59.9] } 2. Nf3
+{ [%clk 0:09:55.2] } 2... Nc6 { [%clk 0:09:59.8] } 3. Bc4 { [%clk 0:09:53.4] }
+3... Nd4 { [%clk 0:09:56.7] } 4. Nxe5 { [%clk 0:09:47.8] } 4... Qg5
+{ [%clk 0:09:56] } 5. Nf3 { [%clk 0:09:12.5] } 5... Qxg2 { [%clk 0:09:45.6] }
+6. Rg1 { [%clk 0:08:13.6] } 6... Nxf3+ { [%clk 0:09:39.7] } 7. Ke2
+{ [%clk 0:08:00.7] } 7... Nxg1+ { [%clk 0:09:11.9] } 0-1
+

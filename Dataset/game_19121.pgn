@@ -1,0 +1,34 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "ELO_1500"]
+[Black "AKS-Mantissa"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/4OSpAfyp"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2961"]
+[BlackElo "2786"]
+[ECO "D11"]
+[Opening "Slav Defense: Quiet Variation"]
+[TimeControl "1200+5"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:28:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+
+1. d4 d5 2. c4 c6 3. e3 Nf6 4. Nf3 e6 5. b3 Nbd7 6. Bd3 Bd6 7. Bb2 O-O 8. Nbd2
+b6 9. O-O Bb7 10. h3 Rc8 11. Qe2 c5 12. cxd5 Nxd5 13. Ne4 Be7 14. Rfd1 cxd4 15.
+Nxd4 Nc5 16. Qg4 g6 17. Nxc5 Rxc5 18. Bc4 Qe8 19. Qe2 Qb8 20. Rac1 Rd8 21. Rc2
+Nf6 22. b4 Rg5 23. Nf3 Rh5 24. Ne1 Rc8 25. Bb3 a5 26. a3 Ne4 27. Nd3 Bd5 28.
+Rxc8+ Qxc8 29. Rc1 Qd8 30. Bc4 axb4 31. axb4 Bxc4 32. Rxc4 Rd5 33. Qc2 Bf8 34.
+Rc8 Qg5 35. Nf4 Rd2 36. Qxe4 Rxb2 37. Nxe6 fxe6 38. Qxe6+ Kg7 39. Rc7+ Kh6 40.
+Qd7 Be7 41. Qxe7 Qxe7 42. Rxe7 Rxb4 43. f4 g5 44. fxg5+ Kxg5 45. Rxh7 Rb2 46.
+Kh2 Rb1 47. Kg3 Re1 48. Re7 Kf6 49. Re4 Kf5 50. Re8 b5 51. Kh4 b4 52. Rb8 Rb1
+53. g4+ Ke4 54. g5 b3 55. Kh5 b2 56. h4 Kxe3 57. g6 Kd3 58. g7 Rg1 59. Rxb2
+Rxg7 60. Kh6 Rg1 61. Rb5 Ke4 62. h5 Kd4 63. Kh7 Ke3 64. Rb4 Kd2 65. h6 Kc3 66.
+Rb6 Ra1 67. Kg7 Ra7+ 68. Kg6 Rc7 69. h7 Rc8 70. Rb7 Kd4 71. Kg7 Kc3 72. h8=Q
+Rxh8 73. Rc7+ Kb3 74. Rb7+ Kc3 75. Rc7+ Kb3 76. Rb7+ Kc3 1/2-1/2
+

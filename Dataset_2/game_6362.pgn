@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.05"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Syriakhaled"]
+[Result "0-1"]
+[CurrentPosition "r1bqkb1r/ppp1n1pp/8/4pp2/3PB3/5N2/PPP2PPP/R1BQK2R w KQkq f6"]
+[Timezone "UTC"]
+[ECO "C47"]
+[ECOUrl "https://www.chess.com/openings/Four-Knights-Game-Italian-Variation"]
+[UTCDate "2022.10.05"]
+[UTCTime "23:30:09"]
+[WhiteElo "1783"]
+[BlackElo "1914"]
+[TimeControl "600"]
+[Termination "Syriakhaled won by resignation"]
+[StartTime "23:30:09"]
+[EndDate "2022.10.05"]
+[EndTime "23:31:46"]
+[Link "https://www.chess.com/game/live/58751439539"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:59.1] } 2. Nf3
+{ [%clk 0:09:58.7] } 2... Nc6 { [%clk 0:09:58.5] } 3. Bc4 { [%clk 0:09:57] }
+3... Nf6 { [%clk 0:09:57.5] } 4. Nc3 { [%clk 0:09:47.1] } 4... Nxe4
+{ [%clk 0:09:54.6] } 5. Nxe4 { [%clk 0:09:44.5] } 5... d5 { [%clk 0:09:53.8] }
+6. Bd3 { [%clk 0:09:40.2] } 6... dxe4 { [%clk 0:09:51.9] } 7. Bxe4
+{ [%clk 0:09:40.1] } 7... Ne7 { [%clk 0:09:41.8] } 8. d4 { [%clk 0:09:37.2] }
+8... f5 { [%clk 0:09:36] } 0-1
+

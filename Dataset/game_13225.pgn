@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Ersenov"]
+[Black "cn_ua"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/9VMuMDzo"]
+[BlackTitle "IM"]
+[WhiteElo "2536"]
+[BlackElo "2619"]
+[ECO "C00"]
+[Opening "French Defense: Schlechter Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:11:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 Nf6 5. Bf3 c5 6. Ne2 Nc6 7. Be3 cxd4 8.
+Nxd4 Ne5 9. Nc3 a6 10. Qe2 Nxf3+ 11. Qxf3 e5 12. Nb3 Qc7 13. O-O Bd6 14. Bg5
+Bg4 15. Qe3 Be6 16. Bxf6 gxf6 17. Rad1 O-O 18. Qh6 Be7 19. Rd3 Kh8 20. Rfd1 Rg8
+21. Nd5 Bxd5 22. Rxd5 Qxc2 23. R5d2 Qe4 24. g3 Rg6 25. Qh3 f5 26. Rd7 Re8 27.
+Qf1 f4 28. Re1 Qc6 29. Qd3 fxg3 30. hxg3 Rd6 31. Rxd6 Qxd6 32. Qf5 Bf6 33. Nd4
+Bg7 34. Nf3 Qe6 35. Qe4 b5 36. Qb7 e4 37. Ng5 Qe7 38. Nxf7+ Kg8 39. Qxe7 Rxe7
+40. Nd6 Bxb2 41. Rxe4 Rxe4 42. Nxe4 Kg7 43. Nc5 a5 44. Kf1 a4 45. Na6 Bc3 46.
+Ke2 b4 47. Kd3 Be1 48. Ke2 b3 49. axb3 axb3 50. Nc5 b2 51. Nd3 b1=Q 52. Nxe1
+Qe4+ 53. Kf1 h5 54. Kg1 Qc4 55. Ng2 Qc1+ 56. Kh2 Qg5 57. Nf4 Kf7 58. Kh3 Qg4+
+59. Kg2 h4 60. Kh2 hxg3+ 61. fxg3 Qf3 62. Kh3 Kf6 63. Kh2 Kf5 64. Kh3 Qh1# 0-1
+

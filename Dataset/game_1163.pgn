@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Ruoxiax"]
+[Black "brentmeir"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/RRA1bQWs"]
+[WhiteElo "2596"]
+[BlackElo "2459"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:39:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. e5 Nc6 5. d4 Nge7 6. Bd3 cxd4 7. cxd4 Bd7 8. Nc3
+Nc8 9. O-O Be7 10. a3 a6 11. Qc2 g6 12. Bh6 Bf8 13. Qd2 b5 14. Rac1 Be7 15. Bg7
+Rg8 16. Qh6 Bf8 17. Bxf8 Rxf8 18. Ng5 N8e7 19. Nxh7 1-0
+

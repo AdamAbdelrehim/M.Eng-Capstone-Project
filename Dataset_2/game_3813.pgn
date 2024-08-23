@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.03"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "rogerabalos"]
+[Result "1/2-1/2"]
+[CurrentPosition "rnbqkbnr/pp2pppp/3p4/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "B50"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-2.Nf3-d6"]
+[UTCDate "2022.03.03"]
+[UTCTime "01:02:45"]
+[WhiteElo "1742"]
+[BlackElo "1912"]
+[TimeControl "600"]
+[Termination "Game drawn by agreement"]
+[StartTime "01:02:45"]
+[EndDate "2022.03.03"]
+[EndTime "01:02:56"]
+[Link "https://www.chess.com/game/live/40008522753"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:09:57.5] } 2. Nf3
+{ [%clk 0:09:59.2] } 2... d6 { [%clk 0:09:54.9] } 1/2-1/2
+

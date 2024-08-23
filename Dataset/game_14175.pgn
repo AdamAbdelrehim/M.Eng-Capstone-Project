@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "untilitisotherwise"]
+[Black "toomanymanoevres"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/QOOTTKbQ"]
+[WhiteElo "2708"]
+[BlackElo "2895"]
+[ECO "C15"]
+[Opening "French Defense: Winawer Variation, Alekhine-Maróczy Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:02:47"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Ne2 Nc6 5. a3 Ba5 6. b4 Bb6 7. Be3 Nf6 8. e5
+Ng4 9. Bf4 f6 10. exf6 Qxf6 11. Nb5 a6 12. Nxc7+ Bxc7 0-1
+

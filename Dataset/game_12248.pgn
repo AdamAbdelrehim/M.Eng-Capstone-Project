@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "CasanovaSalaMarc"]
+[Black "Dasecho"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/8vWhtwf7"]
+[WhiteElo "2700"]
+[BlackElo "2686"]
+[ECO "C70"]
+[Opening "Ruy Lopez: Morphy Defense, Fianchetto Defense Deferred"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:59:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+6"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 g6 5. d4 b5 6. Bb3 exd4 7. Nxd4 Na5 8. a4
+b4 9. Bd5 c6 10. Ba2 Bg7 11. c3 c5 12. cxb4 Bxd4 13. bxa5 Qxa5+ 14. Bd2 Qb6 15.
+Bc3 Ne7 16. O-O O-O 17. Nd2 Bb7 18. a5 Qf6 19. Rc1 Rfd8 20. Qf3 Qxf3 21. Nxf3
+Bxc3 22. Rxc3 Bxe4 23. Ng5 Bd5 24. Bxd5 Nxd5 25. Rxc5 Nf6 26. Rd1 Rab8 27. Rd6
+Rxb2 28. f3 Kg7 29. Rxa6 Re8 30. Rb6 Re1# 0-1
+

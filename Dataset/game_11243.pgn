@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "mick_chess"]
+[Black "bob_2004"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/0ovbNz4B"]
+[BlackTitle "FM"]
+[WhiteElo "2752"]
+[BlackElo "2702"]
+[ECO "B29"]
+[Opening "Sicilian Defense: Nimzowitsch Variation, Closed Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:38:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+
+1. e4 c5 2. Nf3 Nf6 3. Nc3 d5 4. exd5 Nxd5 5. Bb5+ Bd7 6. Bxd7+ Qxd7 7. O-O Nc6
+8. Nxd5 Qxd5 9. d3 e6 10. Re1 Be7 11. b3 Bf6 12. Rb1 O-O 13. Bd2 Rfd8 14. Re4
+Rac8 15. h3 Nd4 16. Be3 h6 17. Rg4 Nxf3+ 18. Qxf3 Qxf3 19. gxf3 Kf8 20. b4 cxb4
+21. Rbxb4 b6 22. Ra4 Rd7 23. Rgc4 Rxc4 24. Rxc4 Ke7 25. Kf1 Kd8 26. Ke2 Rc7 27.
+Rxc7 Kxc7 28. d4 b5 29. Kd3 h5 30. c4 Kc6 31. d5+ exd5 32. cxb5+ Kxb5 33. Bxa7
+g6 34. Bd4 Be7 35. Bc3 Bc5 36. Bd4 Be7 37. Be3 Bf6 38. Bd4 Be7 1/2-1/2
+

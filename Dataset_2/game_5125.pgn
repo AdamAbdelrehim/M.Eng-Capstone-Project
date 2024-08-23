@@ -1,0 +1,41 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.05.23"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "gnomeslovebroccoli"]
+[Result "0-1"]
+[CurrentPosition "1k5r/ppp4p/4Q3/3r4/1n1p4/q2P3P/P1P2PP1/1K1R1B1R w - -"]
+[Timezone "UTC"]
+[ECO "C42"]
+[ECOUrl "https://www.chess.com/openings/Petrovs-Defense-Classical-Cozio-Attack-5...Qe7-6.d3-Nf6-7.Nc3"]
+[UTCDate "2022.05.23"]
+[UTCTime "18:31:45"]
+[WhiteElo "1759"]
+[BlackElo "1865"]
+[TimeControl "600"]
+[Termination "gnomeslovebroccoli won by resignation"]
+[StartTime "18:31:45"]
+[EndDate "2022.05.23"]
+[EndTime "18:39:58"]
+[Link "https://www.chess.com/game/live/47069513221"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:54.5] } 2. Nf3
+{ [%clk 0:09:52.4] } 2... Nf6 { [%clk 0:09:49.3] } 3. Nxe5 { [%clk 0:09:46] }
+3... d6 { [%clk 0:09:42.3] } 4. Nf3 { [%clk 0:09:42.5] } 4... Nxe4
+{ [%clk 0:09:36.8] } 5. Qe2 { [%clk 0:09:41.4] } 5... Qe7 { [%clk 0:08:38.3] }
+6. d3 { [%clk 0:09:38.8] } 6... Nf6 { [%clk 0:08:33.2] } 7. Nc3
+{ [%clk 0:09:30.4] } 7... Bg4 { [%clk 0:08:22.7] } 8. Be3 { [%clk 0:09:07.1] }
+8... Nc6 { [%clk 0:08:16.9] } 9. h3 { [%clk 0:09:02.3] } 9... Bxf3
+{ [%clk 0:08:07] } 10. Qxf3 { [%clk 0:09:00.7] } 10... O-O-O
+{ [%clk 0:07:58.3] } 11. O-O-O { [%clk 0:08:55.4] } 11... d5
+{ [%clk 0:07:50.5] } 12. Nb5 { [%clk 0:08:31.1] } 12... d4 { [%clk 0:07:41] }
+13. Bg5 { [%clk 0:08:24.8] } 13... Qc5 { [%clk 0:07:23.1] } 14. Bxf6
+{ [%clk 0:08:10.5] } 14... gxf6 { [%clk 0:07:14.6] } 15. Na3
+{ [%clk 0:07:51.7] } 15... Qa5 { [%clk 0:07:03.4] } 16. Qxf6
+{ [%clk 0:06:13.9] } 16... Bxa3 { [%clk 0:06:55.4] } 17. bxa3
+{ [%clk 0:06:13.8] } 17... Qxa3+ { [%clk 0:06:50] } 18. Kb1
+{ [%clk 0:06:07.5] } 18... Nb4 { [%clk 0:06:39.5] } 19. Qxf7
+{ [%clk 0:06:05.6] } 19... Rd5 { [%clk 0:06:29.4] } 20. Qe6+
+{ [%clk 0:05:39.8] } 20... Kb8 { [%clk 0:06:21.1] } 0-1
+

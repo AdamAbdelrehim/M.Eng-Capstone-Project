@@ -1,0 +1,31 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Hoon_Bot"]
+[Black "RaspFish"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/b3ocO5Q1"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2903"]
+[BlackElo "3031"]
+[ECO "A06"]
+[Opening "Zukertort Opening: Tennison Gambit"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:30:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. Nf3 d5 2. e4 dxe4 3. Ng5 e5 4. Nxe4 Nc6 5. Nbc3 f5 6. Ng3 Bd7 7. h4 Qe7 8.
+Bb5 Nd4 9. Bxd7+ Qxd7 10. Nge2 Ne6 11. d3 O-O-O 12. Bg5 Re8 13. Be3 f4 14. Bd2
+Nf6 15. Ng1 Nd4 16. Nf3 Bc5 17. Kf1 Rhg8 18. Rb1 h6 19. b4 Bb6 20. Be1 Nxf3 21.
+gxf3 Rd8 22. Rb3 g5 23. Qe2 Rdf8 24. Ne4 g4 25. Nxf6 Rxf6 26. Ra3 h5 27. Rb3
+Bd4 28. Rb1 Qd5 29. c4 Qxf3 30. Qxf3 gxf3 31. Rb3 Ra6 32. a3 Rag6 33. Rb1 Kd7
+34. a4 Rg2 35. c5 Kc6 36. Rc1 Kd5 37. Rb1 R8g7 38. Rc1 a5 39. Rc2 c6 40. Ra2
+Be3 41. Rb2 axb4 42. Rxb4 Bxc5 43. Rb2 Bd4 44. Rc2 b6 45. Bc3 Bxc3 46. Rxc3 Ra7
+47. Rh3 Rxa4 48. Rxf3 Rh2 49. Rc2 Rh1+ 50. Ke2 Rha1 51. d4 R1a2 52. Rc3 Rxc2+
+53. Rxc2 Rxd4 54. Ra2 b5 55. Ra5 Ra4 56. Rxa4 bxa4 57. Kd3 a3 0-1
+

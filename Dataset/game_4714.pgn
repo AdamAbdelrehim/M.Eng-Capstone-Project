@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "HakobN"]
+[Black "RadosCal"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/sMy65tZh"]
+[WhiteElo "2319"]
+[BlackElo "2501"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:44:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Ng5 Bf5 6. Bc4 e6 7. N1f3 h6 8.
+Nxf7 Kxf7 9. Nh4 Bh7 10. Qe2 Nd5 11. O-O Qxh4 12. Re1 Bf5 13. Bb3 Bd6 14. g3
+Qh3 15. c4 Nf6 16. d5 exd5 17. cxd5 c5 18. Qb5 Ng4 19. Qxb7+ Nd7 0-1
+

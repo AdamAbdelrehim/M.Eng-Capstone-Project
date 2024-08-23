@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Mammuth"]
+[Black "ChizhikPizhik"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/AV2eWHyY"]
+[WhiteTitle "IM"]
+[WhiteElo "2551"]
+[BlackElo "2542"]
+[ECO "D10"]
+[Opening "Slav Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:20:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 d5 2. c4 c6 3. Nc3 dxc4 4. e3 b5 5. a4 b4 6. Ne4 e5 7. dxe5 Qxd1+ 8. Kxd1
+Be6 9. Ng5 Nd7 10. Nxe6 fxe6 11. f4 O-O-O 12. Ke1 c3 13. bxc3 bxc3 14. Bc4 Nc5
+15. Nf3 Ne7 16. Ng5 Nd5 17. Nf7 Be7 18. Nxh8 Rxh8 19. Ke2 Kc7 20. Ba3 Rb8 21.
+Rhc1 Ne4 22. Bxd5 Bxa3 23. Bxe4 Bxc1 24. Rxc1 1-0
+

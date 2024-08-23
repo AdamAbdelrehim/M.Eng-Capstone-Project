@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "itakitsu"]
+[Black "qdlatyzg"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/cro3mZr7"]
+[WhiteTitle "NM"]
+[WhiteElo "2500"]
+[BlackElo "2415"]
+[ECO "B92"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "03:19:25"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-7"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be3 e5 7. Nb3 Be6 8. Be2
+Nbd7 9. g4 h6 10. h4 b5 11. g5 hxg5 12. Bxg5 Qc7 13. Qd2 Rc8 14. O-O-O Be7 15.
+Kb1 b4 16. Nd5 Bxd5 17. exd5 Ne4 18. Qe3 Nxg5 19. hxg5 Qxc2+ 20. Ka1 Rxh1 21.
+Rxh1 Bxg5 22. Qxg5 Qxe2 23. Qxg7 Nf8 24. Qf6 Qe4 25. Rd1 Qg6 26. Qf3 Nd7 27.
+Qe2 a5 28. Nxa5 Rc2 29. Qb5 Rxf2 30. Qxb4 Qc2 31. Rh1 Rd2 32. Qg4 Kd8 33. Nc6+
+Kc7 34. Rb1 Nc5 35. Qb4 Re2 36. Qb8+ Kd7 37. Qd8# 1-0
+

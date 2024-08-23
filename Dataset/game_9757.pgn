@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Antroposen"]
+[Black "metan0ia"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/OcF1cklS"]
+[WhiteTitle "GM"]
+[WhiteElo "2873"]
+[BlackElo "2748"]
+[ECO "A60"]
+[Opening "Benoni Defense: Modern Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:55:17"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-14"]
+[BlackRatingDiff "+8"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 d6 5. e4 g6 6. Nf3 Bg7 7. Be2 O-O 8. O-O
+exd5 9. exd5 Bg4 10. h3 Bxf3 11. Bxf3 Nbd7 12. Qc2 Ne8 13. Bd2 f5 14. Rae1 Ne5
+15. Be2 f4 16. Bg4 Nxc4 17. Be6+ Kh8 18. Bc1 Qh4 19. Re4 Ne5 20. g3 Qh5 21.
+Bxf4 Nc7 22. Bxe5 Bxe5 23. f4 Nxe6 24. dxe6 Qxh3 25. Qf2 Bd4 26. Rxd4 cxd4 27.
+Qxd4+ Kg8 28. Qe3 Rae8 29. e7 Rf5 30. Qe6+ Kg7 31. Ne4 Kh6 32. Rd1 Qg4 33. Rd2
+Rxf4 34. Qxg4 Rxg4 35. Nf6 Rxe7 36. Nxg4+ Kg5 37. Nf2 Re6 38. Rd5+ Kf6 39. Kg2
+h5 40. Kf3 Ke7 41. Ne4 Kd7 42. a4 Kc6 43. Rg5 d5 44. Nc3 Rd6 45. Nb5 Rf6+ 46.
+Ke3 a6 47. Nd4+ Kc5 48. b3 Rb6 49. Kd3 Rf6 50. Kc3 Rf1 51. Nc2 Kd6 52. Ne3 Rf3
+53. Kd4 Ke6 54. Re5+ Kf7 55. Kxd5 Rf2 56. Ke4 Rd2 57. Nd5 Re2+ 58. Kf4 Rxe5 59.
+Kxe5 g5 60. Kd6 h4 61. Nc7 hxg3 62. Ne6 g2 63. Nd8+ Kf6 64. Nxb7 Kf5 65. Kc7
+Kf4 66. Nc5 Kf3 67. Nd3 g1=Q 68. Ne5+ Kf2 69. Ng6 Kf1 0-1
+

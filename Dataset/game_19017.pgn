@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "zibrak"]
+[Black "soanonymous"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ncUiFT8C"]
+[WhiteElo "2375"]
+[BlackElo "2563"]
+[ECO "C28"]
+[Opening "Bishop's Opening: Vienna Hybrid, Hromádka Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:16:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+5"]
+
+1. e4 e5 2. Nc3 Nc6 3. Bc4 Nf6 4. d3 Bb4 5. Ne2 d5 6. exd5 Nxd5 7. O-O Be6 8.
+Bxd5 Bxd5 9. f4 O-O 10. Nxd5 Qxd5 11. f5 f6 12. Ng3 Bc5+ 13. Kh1 Rad8 14. Ne4
+Bb6 15. Qg4 Kh8 16. Bd2 Nd4 17. c4 Qc6 18. c5 Bxc5 19. Rac1 b6 20. b4 Qb5 21.
+bxc5 Qxd3 22. cxb6 axb6 23. Rxc7 Qxf1# 0-1
+

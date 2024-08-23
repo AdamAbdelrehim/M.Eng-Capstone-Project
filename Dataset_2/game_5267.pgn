@@ -1,0 +1,40 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.05.31"]
+[Round "-"]
+[White "seanglez123"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "2r2rk1/2qn1ppQ/1p2p3/p2p2Np/3P2nP/4PNP1/PP3P2/R4RK1 b - -"]
+[Timezone "UTC"]
+[ECO "D00"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-1...d5-2.e3-e6"]
+[UTCDate "2022.05.31"]
+[UTCTime "04:13:53"]
+[WhiteElo "1588"]
+[BlackElo "1592"]
+[TimeControl "180"]
+[Termination "seanglez123 won by checkmate"]
+[StartTime "04:13:53"]
+[EndDate "2022.05.31"]
+[EndTime "04:15:53"]
+[Link "https://www.chess.com/game/live/47709575847"]
+
+1. d4 { [%clk 0:03:00] } 1... d5 { [%clk 0:02:49.8] } 2. e3
+{ [%clk 0:02:58.4] } 2... e6 { [%clk 0:02:49.6] } 3. Nf3 { [%clk 0:02:57.8] }
+3... Nf6 { [%clk 0:02:48.5] } 4. Bd3 { [%clk 0:02:57.1] } 4... Bd6
+{ [%clk 0:02:47] } 5. c3 { [%clk 0:02:56.8] } 5... O-O { [%clk 0:02:46] } 6.
+Nbd2 { [%clk 0:02:56.5] } 6... c6 { [%clk 0:02:45] } 7. h4 { [%clk 0:02:56] }
+7... h5 { [%clk 0:02:42.9] } 8. Nh2 { [%clk 0:02:54.2] } 8... Nbd7
+{ [%clk 0:02:39.7] } 9. g3 { [%clk 0:02:53.5] } 9... b6 { [%clk 0:02:20.5] }
+10. Nhf3 { [%clk 0:02:50.2] } 10... c5 { [%clk 0:02:19.5] } 11. Ng5
+{ [%clk 0:02:48.7] } 11... cxd4 { [%clk 0:02:10.7] } 12. cxd4
+{ [%clk 0:02:47] } 12... a5 { [%clk 0:02:07.9] } 13. Ndf3 { [%clk 0:02:45.9] }
+13... Ba6 { [%clk 0:02:06.1] } 14. Bb1 { [%clk 0:02:42.6] } 14... Bb4+
+{ [%clk 0:01:58.2] } 15. Bd2 { [%clk 0:02:40.8] } 15... Bxd2+
+{ [%clk 0:01:56.8] } 16. Qxd2 { [%clk 0:02:40.2] } 16... Qc7
+{ [%clk 0:01:53.2] } 17. Bd3 { [%clk 0:02:33.4] } 17... Bxd3
+{ [%clk 0:01:49.4] } 18. Qxd3 { [%clk 0:02:32.6] } 18... Rac8
+{ [%clk 0:01:48.9] } 19. O-O { [%clk 0:02:31.2] } 19... Ng4
+{ [%clk 0:01:41.8] } 20. Qh7# { [%clk 0:02:28] } 1-0
+

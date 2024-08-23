@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "lightningplasma"]
+[Black "ilprofessore87"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/S5pAbJ68"]
+[WhiteElo "2452"]
+[BlackElo "2504"]
+[ECO "C41"]
+[Opening "Philidor Defense: Lion Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:30:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Bc4 Be7 6. h3 O-O 7. Be3 c6 8. a4
+h6 9. Qd2 exd4 10. Nxd4 Nxe4 11. Nxe4 d5 12. Bd3 dxe4 13. Bxe4 Nf6 14. Bd3 Nd5
+15. Nf5 Bxf5 16. Bxf5 Nxe3 17. Qxe3 Qa5+ 0-1
+

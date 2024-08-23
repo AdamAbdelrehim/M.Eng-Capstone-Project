@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "xiaochess"]
+[Black "UntilItIsOtherwise"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/r8ztS0zd"]
+[BlackTitle "NM"]
+[WhiteElo "2849"]
+[BlackElo "2706"]
+[ECO "A34"]
+[Opening "English Opening: Symmetrical Variation, Normal Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:36:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+11"]
+
+1. c4 c5 2. Nc3 g6 3. Nf3 Bg7 4. d4 cxd4 5. Nxd4 Nc6 6. Nc2 Bxc3+ 7. bxc3 Nf6
+8. g3 O-O 9. Bg2 d6 10. O-O Bd7 11. Nd4 Rc8 12. Bh6 Re8 13. Bg5 b6 14. Bxf6
+exf6 15. Nb5 Bg4 16. f3 Be6 17. Nxd6 Ne5 18. Nxc8 Qxc8 19. e4 Rd8 20. Qc2 Qc5+
+21. Qf2 Qxc4 22. Rfd1 Rxd1+ 23. Rxd1 Qxc3 24. Bf1 Nxf3+ 25. Kg2 Ng5 26. Bd3
+Bh3+ 27. Kg1 Bg4 0-1
+

@@ -1,0 +1,37 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.05.21"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Gulu1923"]
+[Result "0-1"]
+[CurrentPosition "rnb2rk1/ppq3p1/2p4p/3p4/3P1b1P/1BN1Q3/PPP2P1P/2KR2R1 w - -"]
+[Timezone "UTC"]
+[ECO "C00"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Normal-Variation"]
+[UTCDate "2022.05.21"]
+[UTCTime "12:08:17"]
+[WhiteElo "1726"]
+[BlackElo "1739"]
+[TimeControl "600"]
+[Termination "Gulu1923 won by resignation"]
+[StartTime "12:08:17"]
+[EndDate "2022.05.21"]
+[EndTime "12:10:45"]
+[Link "https://www.chess.com/game/live/46873831691"]
+
+1. e4 { [%clk 0:09:58.9] } 1... e6 { [%clk 0:09:58.9] } 2. d4
+{ [%clk 0:09:54.6] } 2... Ne7 { [%clk 0:09:57.6] } 3. Nc3 { [%clk 0:09:49.9] }
+3... Ng6 { [%clk 0:09:56.2] } 4. Nf3 { [%clk 0:09:46.3] } 4... Be7
+{ [%clk 0:09:54.4] } 5. Bc4 { [%clk 0:09:45.6] } 5... c6 { [%clk 0:09:52.9] }
+6. Be3 { [%clk 0:09:37.9] } 6... d5 { [%clk 0:09:51.5] } 7. exd5
+{ [%clk 0:09:35.9] } 7... exd5 { [%clk 0:09:50.4] } 8. Bb3 { [%clk 0:09:33.5] }
+8... O-O { [%clk 0:09:47.9] } 9. Qd2 { [%clk 0:09:28.2] } 9... f5
+{ [%clk 0:09:46.3] } 10. g3 { [%clk 0:09:21.5] } 10... h6 { [%clk 0:09:42.4] }
+11. O-O-O { [%clk 0:09:19.1] } 11... Qc7 { [%clk 0:09:40.6] } 12. Rhe1
+{ [%clk 0:08:56.6] } 12... Bd6 { [%clk 0:09:39] } 13. Nh4 { [%clk 0:08:47.7] }
+13... Nxh4 { [%clk 0:09:30.6] } 14. gxh4 { [%clk 0:08:45.7] } 14... f4
+{ [%clk 0:09:29.5] } 15. Rg1 { [%clk 0:08:31.8] } 15... fxe3
+{ [%clk 0:09:27.6] } 16. Qxe3 { [%clk 0:08:19] } 16... Bf4 { [%clk 0:09:25.3] }
+0-1
+

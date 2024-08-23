@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "RRS03"]
+[Black "Neftegor"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/HS1ZlYOk"]
+[WhiteTitle "FM"]
+[WhiteElo "2537"]
+[BlackElo "2534"]
+[ECO "C94"]
+[Opening "Ruy Lopez: Closed, Breyer Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "23:32:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. c3
+d6 9. h3 Nb8 10. Bc2 Nbd7 11. d4 Bb7 12. Nbd2 Re8 13. Nf1 Bf8 14. Ng3 g6 15.
+Bg5 h6 16. Be3 c5 17. d5 c4 18. Qd2 h5 19. Bg5 Be7 20. Nh4 Nh7 21. Bxe7 Qxe7
+22. Nf3 Kg7 23. h4 Ndf6 24. Nh2 Nd7 25. Nhf1 Qxh4 26. Ne3 Qf4 27. Nef5+ gxf5
+28. Nxh5+ Kh8 29. Nxf4 exf4 30. Qxf4 Ne5 31. exf5 Rg8 32. f6 Rg4 33. Qh6 Ng6
+34. Qg7# 1-0
+

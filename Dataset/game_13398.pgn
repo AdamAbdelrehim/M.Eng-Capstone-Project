@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "viennadragon"]
+[Black "Neftegor"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/UiGr4CZp"]
+[WhiteElo "2525"]
+[BlackElo "2535"]
+[ECO "E00"]
+[Opening "Catalan Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:35:08"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. c4 e6 3. g3 Bb4+ 4. Nd2 d5 5. Bg2 O-O 6. Nf3 dxc4 7. Qc2 c5 8.
+dxc5 c3 9. bxc3 Bxc5 10. Nb3 Be7 11. O-O Nc6 12. Nfd4 Ne5 13. Rd1 Qe8 14. c4
+Bd7 15. Bxb7 Rb8 16. Bg2 Rc8 17. c5 Ba4 18. Qc3 Nd5 19. Bxd5 exd5 20. Bb2 Nc4
+21. Nf5 Bf6 22. Qxf6 gxf6 23. Bxf6 h5 24. Ne7+ Kh7 25. Rxd5 Kh6 26. Rg5 Bd7 27.
+Nd4 Rc6 28. Ndxc6 1-0
+

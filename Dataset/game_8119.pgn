@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "MarioVillanueva"]
+[Black "Chess_Ark"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/amHqHjJc"]
+[WhiteTitle "IM"]
+[WhiteElo "2684"]
+[BlackElo "2759"]
+[ECO "B07"]
+[Opening "Lion Defense: Anti-Philidor, Lion's Cave"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "00:58:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+6"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 Nbd7 4. f4 e5 5. dxe5 dxe5 6. fxe5 Nxe5 7. Qxd8+ Kxd8
+8. Nf3 Bd6 9. Bg5 Be6 10. O-O-O Ke7 11. Nd4 h6 12. Nf5+ Bxf5 13. Nd5+ Kf8 14.
+Bxf6 Bxe4 15. Bxe5 Bxe5 16. Re1 Bxd5 17. Rxe5 c6 18. Bd3 f6 19. Re2 Re8 20.
+Rhe1 Rxe2 21. Rxe2 Kf7 22. g3 Rd8 23. a3 Rd6 24. b4 Re6 25. Kd2 Rxe2+ 26. Kxe2
+Ke6 27. Ke3 Ke5 28. c4 Be6 29. Bg6 Bf5 30. Bh5 g6 31. Bf3 Be6 32. c5 Bd5 33.
+Be2 f5 34. h4 g5 35. hxg5 hxg5 36. Bf1 Be4 37. a4 f4+ 38. gxf4+ gxf4+ 39. Kd2
+Kd4 40. a5 Bd5 41. a6 bxa6 42. Bxa6 Bc4 43. Bc8 Bb5 44. Be6 f3 0-1
+

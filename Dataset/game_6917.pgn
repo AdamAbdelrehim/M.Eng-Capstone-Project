@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "HugoHabicht"]
+[Black "zblabunda"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/PUfSC39l"]
+[WhiteElo "2413"]
+[BlackElo "2526"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Richter Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:46:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. Nf3 g6 5. c4 Nb6 6. Be2 Bg7 7. h3 c5 8. dxc5
+Qxd1+ 9. Bxd1 Nxc4 10. O-O Nxb2 11. Bb3 Nd3 0-1
+

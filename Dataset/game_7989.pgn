@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "vrencianlehel"]
+[Black "Mginsburg"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/hfzuqIet"]
+[BlackTitle "IM"]
+[WhiteElo "2469"]
+[BlackElo "2511"]
+[ECO "B81"]
+[Opening "Sicilian Defense: Scheveningen Variation, Keres Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "00:20:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e6 6. g4 Nc6 7. g5 Nd7 8. Be3
+Be7 9. h4 O-O 10. Qd2 Nde5 11. Be2 Nxd4 12. Bxd4 Nc6 13. Be3 Qa5 14. O-O-O Rb8
+15. Kb1 b5 16. Bd3 b4 17. Ne2 Ne5 18. f4 Nxd3 19. cxd3 Bd7 20. h5 Rfc8 21. g6
+Bf6 22. gxf7+ Kxf7 23. Nd4 Qa4 24. Nb3 Qb5 25. d4 a5 26. e5 Be7 27. Rhg1 Bc6
+28. f5 Be4+ 29. Ka1 Bxf5 30. Qg2 Rg8 31. d5 Qc4 32. Rgf1 g6 33. Rf4 Qc2 34.
+Qxc2 1-0
+

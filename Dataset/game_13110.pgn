@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "MarkusMaischberger"]
+[Black "Reverse_Kasparov"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/QJHMiBHB"]
+[WhiteElo "2530"]
+[BlackElo "2462"]
+[ECO "C69"]
+[Opening "Ruy Lopez: Exchange Variation, King's Bishop Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:57:52"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 exd4 7. Qxd4 f6 8.
+Rd1 Qe7 9. Nbd2 Bg4 10. h3 O-O-O 11. Qe3 Be6 12. b3 Kb8 13. Bb2 Nh6 14. Nc4
+Bxc4 15. bxc4 Nf7 16. Rab1 Ne5 17. Bxe5 fxe5 18. a4 Bc5 19. Qb3 b6 20. a5 Rxd1+
+21. Rxd1 Rd8 22. Rd3 Ka7 23. axb6+ cxb6 24. Nxe5 Rxd3 25. Nxd3 Qxe4 26. Nxc5
+bxc5 27. Qg3 Qe7 28. Kh2 a5 29. Qg4 Qc7+ 30. g3 a4 31. Qf5 Kb6 32. Qxh7 Qe5 33.
+Qd3 Qd4 34. Qf1 Qb2 35. Qd1 Ka5 36. Qd8+ Kb4 37. Qb6+ Kc3 38. Qxc5 Qxc2 39. h4
+Kb3 40. Qxc6 Qxf2+ 41. Kh3 Qf5+ 42. Kh2 Qc2+ 43. Kh3 a3 44. Qb5+ Ka2 45. c5
+Qf5+ 46. g4 Qf3+ 47. Kh2 Qxg4 48. c6 Qxh4+ 0-1
+

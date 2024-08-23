@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "vrencianlehel"]
+[Black "josefghng"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/TmmBhHle"]
+[BlackTitle "FM"]
+[WhiteElo "2515"]
+[BlackElo "2473"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, Lipnitsky Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:17:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 b5 7. Bb3 Bb7 8. O-O
+e6 9. Re1 Be7 10. Bxe6 fxe6 11. Nxe6 Qc8 12. Nxg7+ Kd7 13. e5 Qc6 14. f3 Nd5
+15. Nf5 Nxc3 16. bxc3 d5 17. e6+ Kd8 18. Nxe7 Qc5+ 19. Be3 Qxe7 20. Bb6+ Kc8
+21. Qd4 Rg8 22. Bc5 Qg5 23. Qf2 Nc6 24. e7 Kd7 25. h4 Qf5 26. Rad1 Rae8 27. Bd6
+Nxe7 28. Qb6 Nc8 29. Qc7# 1-0
+

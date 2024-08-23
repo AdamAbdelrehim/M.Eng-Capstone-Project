@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sevanb"]
+[Black "Punchen"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/GPIMvvTA"]
+[WhiteElo "2567"]
+[BlackElo "2528"]
+[ECO "B29"]
+[Opening "Sicilian Defense: Nimzowitsch Variation, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:55:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nf3 Nf6 3. e5 Nd5 4. Nc3 e6 5. Nxd5 exd5 6. d4 Nc6 7. c4 cxd4 8.
+cxd5 Qa5+ 9. Bd2 Qxd5 10. Bd3 Nxe5 11. Qe2 Bd6 12. O-O O-O 13. Be4 Nxf3+ 14.
+Qxf3 Qb5 15. Rfe1 Be5 16. Bd5 d6 17. Rac1 Qxb2 18. Bf4 Be6 19. Bxe5 dxe5 20.
+Rc7 Bxd5 21. Qxd5 Rad8 22. Qxe5 Qxa2 23. h4 d3 24. h5 d2 25. Rd1 Qa4 26. h6
+Qxd1+ 27. Kh2 Qh1+ 28. Kxh1 d1=Q+ 29. Kh2 Qd6 0-1
+

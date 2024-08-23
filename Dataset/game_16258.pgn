@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Nimfish"]
+[Black "simbelmyne-bot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/zcxIsIW7"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2324"]
+[BlackElo "2567"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation"]
+[TimeControl "180+7"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:38:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. Nf3 Nf6 2. d4 d5 3. Bd2 e6 4. c4 c5 5. cxd5 exd5 6. e3 Nc6 7. Bb5 Bd6 8.
+dxc5 Bxc5 9. Qc2 Qb6 10. Nc3 O-O 11. Bxc6 Qxc6 12. Rc1 b6 13. Qd3 Qd7 14. O-O
+Re8 15. Nb5 a6 16. Nbd4 a5 17. Rfd1 Ba6 18. Qf5 Qxf5 19. Nxf5 Be2 20. Re1 Bd3
+21. Ng3 Ne4 22. Red1 Ba6 23. Nxe4 dxe4 24. Nd4 Rac8 25. Bc3 Red8 26. h3 Bc4 27.
+Nf5 Rxd1+ 28. Rxd1 g6 29. Nh6+ Kf8 30. Ng4 Bxa2 31. Nf6 h6 32. Nxe4 Be7 33. Nf6
+Bd8 34. Kh2 h5 35. Kg3 Bb3 36. Rd2 Bc7+ 37. Kf3 Rd8 38. Ke4 b5 39. Rxd8+ Bxd8
+40. Nd7+ Ke7 41. Nc5 Bc4 42. g4 h4 43. Kf4 f6 44. Kf3 Kf7 45. b3 Bd5+ 46. e4
+Bc6 47. Bb2 a4 48. b4 f5 49. gxf5 gxf5 50. Kf4 fxe4 51. Nxe4 Bd7 52. Ba3 Kg6
+53. Nc3 Bf6 54. Ne2 Bxh3 55. Ng1 Bd7 56. Nf3 Kh5 57. Bc1 Bc6 58. Ba3 Be7 59.
+Ng1 Bd6+ 60. Kf5 h3 61. Nxh3 Bd7+ 62. Ke4 Bxh3 63. Kd5 Bf8 64. f3 Bd7 65. f4
+Kg4 66. Ke5 Bf5 67. Kd5 Kxf4 68. Bc1+ Kf3 69. Ba3 Bd3 70. Kc6 Ke4 71. Bb2 Bxb4
+72. Bf6 a3 73. Bg7 Bd2 74. Bf6 b4 75. Kc7 Bf4+ 76. Kd7 b3 77. Ke8 b2 78. Kf7
+b1=Q 79. Be7 Bc4+ 80. Ke8 Qb5+ 81. Kd8 Be6 82. Bf6 Qd7# 0-1
+

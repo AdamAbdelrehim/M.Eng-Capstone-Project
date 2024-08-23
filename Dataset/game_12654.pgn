@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "vihajaisestatulesta"]
+[Black "GhostStrikes"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/8AlwrldJ"]
+[WhiteElo "2444"]
+[BlackElo "2544"]
+[ECO "C88"]
+[Opening "Ruy Lopez: Closed, Anti-Marshall"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:55:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+13"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 O-O 8. a4
+Bb7 9. d3 d6 10. c3 Nd7 11. Nbd2 Nc5 12. Bc2 Nxa4 13. Bxa4 bxa4 14. Qxa4 Kh8
+15. Nc4 f5 16. exf5 Rxf5 17. Ne3 Rf4 18. Qc2 Bf6 19. Nd5 Rxf3 20. gxf3 Nd4 21.
+cxd4 Bxd5 22. Ra5 Bxf3 23. Re3 Bb7 24. d5 c5 25. dxc6 Rc8 26. Ra3 Bxc6 27. Rc3
+Qd7 28. Rg3 e4 29. Rc4 exd3 30. Qxd3 Bb5 31. Rxc8+ Qxc8 32. Qd1 Be5 33. f4 Bf6
+34. Be3 Qc7 35. Bd4 Bxd4+ 36. Qxd4 Qc1+ 37. Kf2 Qf1+ 38. Ke3 Qe2# 0-1
+

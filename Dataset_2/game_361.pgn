@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.10"]
+[Round "-"]
+[White "Yut2"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r2qkbnr/ppp1pppp/3p4/3P4/6N1/8/PPP1PPPP/RNBQKB1R b KQkq -"]
+[Timezone "UTC"]
+[ECO "A40"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Mikenas-Defense-2.Nf3"]
+[UTCDate "2021.02.10"]
+[UTCTime "02:44:32"]
+[WhiteElo "1316"]
+[BlackElo "1282"]
+[TimeControl "600"]
+[Termination "Yut2 won by resignation"]
+[StartTime "02:44:32"]
+[EndDate "2021.02.10"]
+[EndTime "02:45:05"]
+[Link "https://www.chess.com/game/live/6507813633"]
+
+1. Nf3 { [%clk 0:09:58.4] } 1... Nc6 { [%clk 0:09:57.7] } 2. d4
+{ [%clk 0:09:57] } 2... d6 { [%clk 0:09:44.5] } 3. d5 { [%clk 0:09:54.8] } 3...
+Ne5 { [%clk 0:09:42.2] } 4. Nxe5 { [%clk 0:09:51.6] } 4... Bg4
+{ [%clk 0:09:42.1] } 5. Nxg4 { [%clk 0:09:48.5] } 1-0
+

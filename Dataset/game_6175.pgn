@@ -1,0 +1,31 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "expositor"]
+[Black "yobot_v2"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/sTFAgUvZ"]
+[WhiteTitle "BOT"]
+[WhiteElo "2578"]
+[BlackElo "2746"]
+[ECO "C67"]
+[Opening "Ruy Lopez: Berlin Defense, Rio Gambit Accepted"]
+[TimeControl "1500+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:42:16"]
+[Termination "Normal"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Be7 7. Bf1 Nxe5
+8. Rxe5 O-O 9. d4 Bf6 10. Re1 Re8 11. c3 Rxe1 12. Qxe1 Nf5 13. Bf4 d6 14. h3
+Be6 15. Nd2 Bg5 16. Bxg5 Qxg5 17. Qe2 d5 18. Nf3 Qf6 19. Re1 Nd6 20. Ne5 g6 21.
+a4 a5 22. Qe3 Re8 23. Qh6 Ne4 24. f3 Nd6 25. g4 Qd8 26. b3 f6 27. Nd3 b6 28.
+Qc1 Bf7 29. h4 Rxe1 30. Qxe1 h6 31. b4 Qe8 32. Qxe8+ Bxe8 33. bxa5 bxa5 34. Nc5
+Bc6 35. Bd3 Kf7 36. Bc2 Nc4 37. Kf2 Nb2 38. f4 g5 39. fxg5 fxg5 40. hxg5 hxg5
+41. Ke1 Nc4 42. Ke2 Ke7 43. Kf3 Nb6 44. Ke3 Nd7 45. Nd3 Kd6 46. Kf2 Bb7 47. Ne1
+Ke7 48. Nf3 Kf6 49. Nd2 Bc6 50. c4 Ke7 51. cxd5 Bxd5 52. Bb3 Kd6 53. Ke3 Nf6
+54. Kd3 Nxg4 55. Bxd5 Kxd5 56. Ne4 c6 57. Nc3+ Kd6 58. Ne4+ Kd5 59. Nxg5 Nf2+
+60. Kc3 Nd1+ 61. Kc2 Kxd4 62. Kxd1 c5 63. Nh3 Kc3 64. Ke2 c4 65. Ng1 Kb2 66.
+Ke1 c3 67. Kf2 c2 68. Ne2 c1=Q 69. Nxc1 Kxc1 70. Kg1 Kb1 71. Kf2 Ka1 72. Kg1
+Kb1 73. Kf2 Ka1 74. Kg1 Kb1 1/2-1/2
+

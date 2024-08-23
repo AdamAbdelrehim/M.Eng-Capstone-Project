@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Incognizance"]
+[Black "Bierblitz"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/9d5v9JNe"]
+[WhiteTitle "CM"]
+[WhiteElo "2367"]
+[BlackElo "2574"]
+[ECO "A84"]
+[Opening "Dutch Defense: Rubinstein Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:05:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 e6 2. c4 f5 3. Nc3 Nf6 4. g3 Be7 5. Bg2 O-O 6. e4 fxe4 7. Nxe4 Nxe4 8.
+Bxe4 Bb4+ 9. Bd2 Qf6 10. Nf3 Nc6 11. Bxb4 Nxb4 12. O-O d5 0-1
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "AlexPawnold"]
+[Black "RadosCal"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/k4ghMW8q"]
+[WhiteElo "2307"]
+[BlackElo "2502"]
+[ECO "A50"]
+[Opening "Indian Defense: Normal Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:28:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. c4 e6 3. Bf4 c5 4. e3 cxd4 5. exd4 d5 6. Nd2 Nc6 7. Ngf3 Be7 8. c5
+O-O 9. Bb5 Ne4 10. Bxc6 bxc6 11. O-O f5 12. Ne5 Bd7 13. Nxe4 fxe4 14. Bg3 Be8
+15. Qg4 Rf5 16. f3 Bh5 17. Qh3 exf3 18. gxf3 Rc8 19. Rac1 Bf6 20. Rc3 Qa5 21.
+Nd7 Bxd4+ 22. Kg2 Bxc3 23. bxc3 Qxc3 24. Bd6 Qd2+ 25. Rf2 Rg5+ 26. Kh1 Qxf2 27.
+Qxe6+ Kh8 0-1
+

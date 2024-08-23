@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "AlPacino80"]
+[Black "Gertrude_Weichsel"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/wl5IVXgL"]
+[WhiteTitle "FM"]
+[WhiteElo "2561"]
+[BlackElo "2596"]
+[ECO "C77"]
+[Opening "Ruy Lopez: Morphy Defense, Anderssen Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:54:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 b5 6. Bb3 Bc5 7. c3 d6 8. O-O h6
+9. Nbd2 O-O 10. Re1 Bb6 11. Nf1 Ne7 12. Ng3 Ng6 13. h3 Bb7 14. Bc2 Re8 15. d4
+d5 16. exd5 Qxd5 17. Bb3 Qc6 18. Qc2 e4 19. d5 exf3 20. dxc6 Rxe1+ 21. Nf1 fxg2
+22. Kxg2 Bxc6+ 23. Kh2 Rxf1 24. Be3 Rxa1 25. Qxg6 Rh1+ 0-1
+

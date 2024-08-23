@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "g6-player"]
+[Black "bkamber"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/MGRQeq8b"]
+[WhiteElo "2300"]
+[BlackElo "2511"]
+[ECO "B27"]
+[Opening "Sicilian Defense: Hyperaccelerated Dragon"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:00:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 g6 3. c3 d5 4. exd5 Qxd5 5. d4 Bg7 6. Be3 cxd4 7. cxd4 Nf6 8.
+Nc3 Qd6 9. h3 O-O 10. Bc4 Nc6 11. O-O Bf5 12. Qe2 Rad8 13. Rfd1 Ne4 14. Nb5 Qb8
+15. Nh4 a6 16. Na3 Nxd4 17. Bxd4 Bxd4 18. Nxf5 Bxf2+ 19. Kf1 gxf5 20. Rxd8 Rxd8
+21. Qh5 Ng3+ 0-1
+

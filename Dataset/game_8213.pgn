@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Mginsburg"]
+[Black "tigran_poghosyan_76"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/dVPJtxG9"]
+[WhiteTitle "IM"]
+[WhiteElo "2519"]
+[BlackElo "2524"]
+[ECO "D32"]
+[Opening "Tarrasch Defense: Symmetrical Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:28:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. Nf3 c5 2. c4 Nc6 3. Nc3 e6 4. e3 Nf6 5. d4 d5 6. a3 a6 7. cxd5 exd5 8. Be2
+cxd4 9. Nxd4 Bd6 10. O-O O-O 11. Nf3 Bc7 12. b4 Bg4 13. Bb2 Rc8 14. Nd4 Qd6 15.
+g3 Bh3 16. Re1 Ne5 17. Qb3 Bb8 18. Rad1 Rfd8 19. Na4 Ba7 20. Nc5 Bxc5 21. bxc5
+Rxc5 22. a4 h6 23. Ba3 Ne4 24. Bxc5 Qxc5 25. Qxb7 Qd6 26. f4 Ng4 27. Bxg4 Bxg4
+28. Rc1 Qa3 29. Qb3 Qf8 30. Rc7 Nf6 31. Rc6 Qe7 32. Rxa6 Qe4 33. Rb6 Rc8 34.
+Rb8 Qe8 35. Rxc8 Qxc8 36. Rb1 Kh7 37. a5 Qa6 38. Ra1 Bh3 39. Qc2+ Ne4 40. Nf3
+f6 41. Qd1 Qb5 42. Nd4 Qb2 43. Nc2 Qc3 44. Ra2 Qc4 45. Qe1 Qxa2 46. Nd4 Qg2#
+0-1
+

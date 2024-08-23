@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Hoon_Bot"]
+[Black "odonata-bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/VUR6COxm"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2889"]
+[BlackElo "2639"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "02:20:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. d4 Nf6 2. Bf4 g6 3. e3 c5 4. Nf3 Bg7 5. Be2 Qb6 6. Nc3 cxd4 7. exd4 O-O 8.
+O-O Qxb2 9. Nb5 a6 10. Rb1 Qxa2 11. Nc7 Ra7 12. Ra1 Qb2 13. Nb5 axb5 14. Rxa7
+Nc6 15. Bc1 Qb4 16. Ra3 d5 17. c3 Qd6 18. Bxb5 Bf5 19. Qb3 Rc8 20. Bxc6 bxc6
+21. Ra7 Ne4 22. Ng5 Bf6 23. Nxe4 dxe4 24. Bh6 c5 25. d5 Be5 26. Qb7 Bxh2+ 27.
+Kh1 g5 28. Bxg5 Be5 29. Rfa1 Qg6 30. Qxe7 f6 31. Bh4 Qh6 32. Qf7+ Kh8 33. g3
+Qg6 34. Qe7 Rg8 35. Ra8 Bc8 36. d6 e3 37. Rxc8 Rxc8 38. d7 Rb8 39. d8=Q+ Rxd8
+40. Qxd8+ Kg7 41. Qe7+ Kh6 42. Qf8+ Kh5 43. f3 Bxc3 44. Qxc5+ Be5 45. Re1 Kh6
+46. Qxe3+ Kg7 47. f4 Bd6 48. Rd1 Bb4 49. Rd7+ Qf7 50. Qe8 Qxd7 51. Qxd7+ Kf8
+52. Bxf6 h5 53. f5 Ba3 54. Bg5 Kg8 55. Qe6+ Kg7 56. Bh6+ Kh7 57. Qg6+ Kh8 58.
+Qg7# 1-0
+

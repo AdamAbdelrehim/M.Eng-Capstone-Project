@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "gabrielallon2019"]
+[Black "tryitgain"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/kYI85HLb"]
+[WhiteElo "2379"]
+[BlackElo "2503"]
+[ECO "B00"]
+[Opening "Pirc Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:15:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+6"]
+
+1. e4 d6 2. Nc3 g6 3. Bc4 Bg7 4. h4 Nf6 5. h5 Nxh5 6. d4 Nf6 7. Bh6 Bxh6 8.
+Rxh6 c6 9. Qf3 Qa5 10. Ne2 Qg5 11. Rh2 b5 12. Bd3 h5 13. Nd1 Bg4 14. Qg3 h4 15.
+f4 Qh6 16. Qf2 Bxe2 17. Kxe2 Ng4 18. Qg1 Nxh2 19. Qxh2 Nd7 20. Ne3 c5 21. dxc5
+Qh5+ 22. Kd2 Qxc5 23. g3 Qb4+ 24. c3 Qxb2+ 25. Nc2 Rc8 26. gxh4 Rxc3 27. Rc1
+Nc5 0-1
+

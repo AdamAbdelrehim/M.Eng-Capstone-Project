@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "prnvpp2002"]
+[Black "Ersahin"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/2khgLvPl"]
+[BlackTitle "CM"]
+[WhiteElo "2428"]
+[BlackElo "2517"]
+[ECO "B98"]
+[Opening "Sicilian Defense: Najdorf Variation, Traditional Line"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:08:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bg5 e6 7. f4 Be7 8. Qf3
+Qc7 9. O-O-O O-O 10. Bd3 Nc6 11. Nxc6 bxc6 12. Rhe1 e5 13. f5 h6 14. h4 Rb8 15.
+g4 Qa5 16. Bxf6 Bxf6 17. Rh1 Rxb2 18. Kxb2 Qb4+ 19. Kc1 Qxc3 20. Rdg1 d5 21. g5
+Be7 22. gxh6 Bb4 23. Kb1 Ba3 24. Rxg7+ Kh8 25. Rg8+ Rxg8 0-1
+

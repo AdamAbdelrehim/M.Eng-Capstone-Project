@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "hanonimoh"]
+[Black "denlogrendehund"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/wwb9eGBx"]
+[WhiteElo "2378"]
+[BlackElo "2514"]
+[ECO "B72"]
+[Opening "Sicilian Defense: Dragon Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:51:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Nc6 7. f3 Bd7 8. Qd2
+Rc8 9. g4 h5 10. g5 Nh7 11. h4 Bg7 12. O-O-O Ne5 13. Kb1 a6 14. f4 Ng4 15. Bg1
+O-O 16. f5 Be5 17. Bh3 Qa5 18. Bxg4 hxg4 19. h5 Bxd4 20. Bxd4 gxf5 21. g6 e5
+22. gxh7+ Kh8 23. Qh6 f6 24. Qg6 Be8 25. Qxf5 Qc7 26. Be3 Bd7 27. Qf2 Be6 28.
+Qd2 Qa5 29. a3 f5 30. exf5 Bxf5 31. Qxd6 Rcd8 32. Qb4 Qxb4 33. axb4 g3 34. Rxd8
+Rxd8 35. Rg1 Rg8 36. Ne2 g2 37. Kc1 Rg4 38. c3 Kxh7 39. Kd2 Be4 40. Ke1 Rh4 41.
+Ng3 Bc6 42. Kf2 Rg4 43. Bc5 Rg7 44. Be3 Rf7+ 45. Ke2 Bf3+ 46. Ke1 Bc6 47. Ke2
+Rf3 48. Bd2 Rf8 49. Ke3 Rf3+ 50. Ke2 Rxg3 51. Be1 Rh3 52. Kf2 Kh6 53. Bd2+ Kxh5
+54. Re1 Rh1 55. Rxe5+ Kh4 56. Rg5 Rd1 57. Be3 Rb1 58. b3 Rb2+ 59. Kg1 Re2 60.
+Rg7 Rxe3 61. Rh7+ Kg5 62. Rg7+ Kf6 63. Rh7 Re1+ 64. Kf2 g1=Q# 0-1
+

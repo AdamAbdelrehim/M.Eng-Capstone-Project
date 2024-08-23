@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "L2CH"]
+[Black "Plmlgs99"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/1EdTfGe7"]
+[WhiteElo "2451"]
+[BlackElo "2570"]
+[ECO "E60"]
+[Opening "Indian Defense: Anti-Grünfeld, Alekhine Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:03:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. d4 Nf6 2. c4 g6 3. f3 Bg7 4. e4 d6 5. Ne2 O-O 6. Be3 Nbd7 7. Nbc3 a6 8. g4
+b5 9. h4 b4 10. Nb1 c5 11. h5 cxd4 12. Nxd4 Ne5 13. Be2 Bd7 14. Qd2 Rc8 15. b3
+Bxg4 16. fxg4 Nxe4 17. Qc2 d5 18. Nd2 Nxd2 19. Qxd2 dxc4 20. bxc4 Nxc4 21. Bxc4
+Rxc4 22. Rd1 Qd7 23. hxg6 Qxg4 24. Qh2 Qxg6 25. Rg1 Qe4 26. Qg3 Qg6 27. Qf3 Rc3
+28. Rxg6 hxg6 29. Qe4 e5 30. Nc6 Re8 31. Rd8 Rxd8 32. Nxd8 1-0
+

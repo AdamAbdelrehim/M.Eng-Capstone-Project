@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ilprofessore87"]
+[Black "TheFrenchFighter"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/9ALLWudH"]
+[WhiteElo "2553"]
+[BlackElo "2450"]
+[ECO "B77"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:34:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+9"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. Bc4 d5 10. Nxd5 Nxd5 11. Bxd5 Nxd4 12. Bxd4 Bxd4 13. Qxd4 e6 0-1
+

@@ -1,0 +1,38 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Nikitosikbot_v2"]
+[Black "Hoon_Bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/tMXo6v2T"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3019"]
+[BlackElo "2889"]
+[ECO "A28"]
+[Opening "English Opening: Four Knights System, Nimzowitsch Variation"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:53:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e4 Bb4 5. d3 d6 6. a3 Bc5 7. b4 Bb6 8. Be3
+Bg4 9. Be2 O-O 10. O-O Bxf3 11. Bxf3 Nd4 12. Na4 Nxf3+ 13. Qxf3 Bxe3 14. Qxe3
+Nh5 15. g3 f5 16. exf5 Rxf5 17. Nc3 Nf6 18. f3 h5 19. h4 Qd7 20. Kg2 b6 21. Qe2
+a5 22. Nd1 Nh7 23. Qe4 Raf8 24. Ne3 R5f7 25. Nd5 Nf6 26. Nxf6+ Rxf6 27. bxa5
+bxa5 28. Qd5+ Qf7 29. Rab1 Qxd5 30. cxd5 Kh7 31. Rb5 a4 32. Rb4 Ra8 33. Rc1
+Raf8 34. Rf1 Ra8 35. Rb5 Raf8 36. Rb7 R6f7 37. Rb4 Ra8 38. Rb5 Raf8 39. Rb4 Ra8
+40. Rb5 Raf8 41. Rf2 Kg6 42. Rb1 Kh6 43. Rb7 Ra8 44. Rfb2 Raf8 45. Rf2 Ra8 46.
+Rc2 Raf8 47. Rcxc7 Rxf3 48. Rxg7 Rxd3 49. Kh3 Rxd5 50. Rg5 Rf6 51. Rbg7 e4 52.
+Rg8 Rxg5 53. hxg5+ Kh7 54. Re8 Rf3 55. Rxe4 Rxa3 56. Kh4 Ra1 57. Kxh5 Rh1+ 58.
+Kg4 a3 59. Ra4 Ra1 60. Kf5 Rf1+ 61. Ke4 d5+ 62. Ke5 a2 63. Rxa2 d4 64. Kxd4 Rb1
+65. g4 Rc1 66. g6+ Kxg6 67. Rf2 Ra1 68. Rb2 Rc1 69. Rh2 Ra1 70. Ke4 Rb1 71. Rh5
+Ra1 72. Rh8 Rb1 73. Kd4 Ra1 74. Rh4 Rb1 75. Rh8 Ra1 76. Ke4 Rb1 77. g5 Kxg5 78.
+Rd8 Ra1 79. Kf3 Rb1 80. Rd2 Ra1 81. Ke3 Rb1 82. Kf2 Ra1 83. Rd7 Rb1 84. Rd5+
+Kf4 85. Ke2 Ra1 86. Kd2 Rb1 87. Kd3 Ra1 88. Kd2 Rb1 89. Kc2 Ra1 90. Rd7 Re1 91.
+Rb7 Ra1 92. Kb2 Rd1 93. Rb6 Re1 94. Ra6 Rd1 95. Rg6 Re1 96. Ka2 Rc1 97. Kb2 Rd1
+98. Rg7 Re1 99. Rg6 Rd1 100. Ka2 Rc1 101. Kb2 Rd1 1/2-1/2
+

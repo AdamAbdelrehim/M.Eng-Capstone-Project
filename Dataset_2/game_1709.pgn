@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.02"]
+[Round "-"]
+[White "ctrFlame"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r1bqkbnr/3p1ppp/p1n1p3/1p6/2p1P3/1BN2N2/PPPP1PPP/R1BQ1RK1 w kq -"]
+[Timezone "UTC"]
+[ECO "B20"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Bowdler-Attack-2...e6-3.Nc3-Nc6"]
+[UTCDate "2021.08.02"]
+[UTCTime "22:03:35"]
+[WhiteElo "388"]
+[BlackElo "1602"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "22:03:35"]
+[EndDate "2021.08.02"]
+[EndTime "22:04:49"]
+[Link "https://www.chess.com/game/live/21680968301"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:09:59.4] } 2. Bc4 { [%clk 0:09:54] }
+2... e6 { [%clk 0:09:57.9] } 3. Nc3 { [%clk 0:09:49.4] } 3... Nc6
+{ [%clk 0:09:49.8] } 4. Nf3 { [%clk 0:09:31] } 4... a6 { [%clk 0:09:43] } 5.
+O-O { [%clk 0:09:28.7] } 5... b5 { [%clk 0:09:41.1] } 6. Bb3
+{ [%clk 0:09:24.5] } 6... c4 { [%clk 0:09:36.9] } 0-1
+

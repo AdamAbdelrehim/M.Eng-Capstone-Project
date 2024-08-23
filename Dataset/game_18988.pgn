@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Pencil_2"]
+[Black "notrashopenings"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/bzSduMhq"]
+[WhiteElo "2623"]
+[BlackElo "2639"]
+[ECO "A46"]
+[Opening "Queen's Pawn Game: Veresov Attack, Classical Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:12:41"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 d5 4. Nc3 Be7 5. Bxf6 Bxf6 6. e4 c5 7. e5 Be7 8. Bd3
+Nc6 9. h4 cxd4 10. Ne2 Qb6 11. h5 Bd7 12. a3 Qc7 13. Nexd4 Nxd4 14. Nxd4 Qxe5+
+15. Be2 O-O 16. Rh3 Bc5 17. c3 Qd6 18. Rg3 e5 19. Nb5 Bxb5 20. Bxb5 Bxf2+ 21.
+Kxf2 Qc5+ 22. Ke1 Qxb5 23. Qd2 f6 24. Rd1 Rad8 25. Rd3 Qc5 26. Kf1 Qc4 27. Kg1
+d4 28. cxd4 e4 29. Rc3 Qd5 30. Rc5 Qd6 31. Qe2 f5 32. Qc4+ Kh8 33. d5 Rde8 34.
+Rc7 f4 35. Rxb7 f3 36. Qd4 Rf6 37. Re1 f2+ 38. Kf1 fxe1=Q+ 39. Kxe1 Qf4 40. Kd1
+h6 41. Rb3 Rd8 42. Re3 Qd6 43. Rxe4 Qxd5 44. Qxd5 Rxd5+ 45. Kc2 Kh7 46. Kb1
+Rdf5 47. Rb4 Rf1+ 48. Ka2 R1f2 49. Rb7 Rxg2 50. Rxa7 Rg5 51. Rb7 Rxh5 52. Rb3
+Rhf5 53. a4 h5 54. Ra3 h4 55. a5 Ra6 56. Rh3 Rb5 57. Kb1 Rbxa5 58. Rxh4+ Kg8
+59. Rh3 Ra1+ 60. Kc2 R1a5 61. Rc3 Rc5 62. Rxc5 Ra4 63. Rc8+ Kh7 64. Rc4 g6 65.
+Rxa4 Kh6 66. Rc4 g5 67. Rg4 Kh5 68. Rxg5+ 1-0
+

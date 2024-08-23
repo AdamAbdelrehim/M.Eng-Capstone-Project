@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "BoringAlien"]
+[Black "Despair_Captain"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/8Nq6szHl"]
+[WhiteElo "2543"]
+[BlackElo "2530"]
+[ECO "D13"]
+[Opening "Slav Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:40:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 c6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 a6 7. Rc1 Bf5 8. e3
+e6 9. Be2 Bd6 10. Bxd6 Qxd6 11. Nd2 O-O 12. O-O b5 13. Nb3 Nd7 14. Re1 Rfc8 15.
+h3 h6 16. Bf3 Rab8 17. Qd2 Bg6 18. Qe2 Nb4 19. Red1 Rc7 20. a3 Nc6 21. g3 Rbc8
+22. Kg2 Qe7 23. h4 Bf5 24. Qe1 Bh7 25. Bh5 Bf5 26. Qd2 Bh7 27. Bg4 Nf6 28. Bf3
+Nd7 29. h5 Bf5 30. Qe2 Bh7 31. Bg4 Nf6 32. Bf3 Nd7 33. Na2 Bf5 34. Nc5 Nxc5 35.
+Rxc5 Na5 36. Rdc1 Rxc5 37. dxc5 Nc4 38. a4 Rxc5 39. Nc3 b4 40. Nb1 a5 41. b3
+Na3 42. Rxc5 Qxc5 43. Nd2 Qc2 44. e4 Bxe4 45. Nxe4 dxe4 46. Qxe4 Qxe4 47. Bxe4
+Kf8 48. f4 Ke7 49. Kf2 Kd6 50. Ke3 Kc5 51. Bd3 f6 52. Be4 Nc4+ 53. bxc4 Kxc4
+54. Kd2 Kd4 55. Bg6 e5 56. Bf7 e4 57. g4 e3+ 58. Ke2 Ke4 59. f5 Kf4 60. Bg6 b3
+61. Bf7 b2 62. Ba2 Kxg4 63. Bb1 Kf4 64. Bc2 Kg5 65. Kxe3 Kxh5 66. Kf4 Kh4 67.
+Ke3 h5 68. Kd2 Kg3 69. Kc3 h4 70. Kxb2 h3 71. Be4 Kf4 72. Bc6 Kxf5 73. Kc3 Ke5
+74. Kc4 g5 75. Kb5 Kd6 76. Bf3 f5 77. Kxa5 g4 78. Bh1 f4 79. Kb6 f3 80. a5 f2
+81. Bg2 f1=Q 82. a6 Qxg2 83. a7 Qa8 84. Ka6 Kc7 85. Kb5 Qxa7 86. Kc4 Qb6 87.
+Kd5 Qb5+ 88. Ke6 h2 89. Kf6 h1=Q 90. Kg6 Qhf1 91. Kg7 g3 92. Kh8 g2 93. Kh7
+g1=Q 94. Kh8 Qh3# 0-1
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "lunAticOnTheMoon"]
+[Black "sapphire_phoenix"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/nCYerws9"]
+[WhiteElo "2620"]
+[BlackElo "2732"]
+[ECO "B92"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:19:47"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+4"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. Qd3
+Be6 9. Be3 Nbd7 10. O-O-O O-O 11. f4 b5 12. Bf3 Rc8 13. Rhg1 b4 14. Nd5 Bxd5
+15. exd5 a5 16. Kb1 a4 17. Nd2 a3 18. b3 Rc3 19. Qe2 Qc7 20. Nc4 e4 21. Bg4
+Nxg4 22. Qxg4 Rxe3 23. Nxe3 Qc3 24. Nc4 Bf6 25. Kc1 e3 26. Nxe3 Qxe3+ 27. Rd2
+Qxg1+ 0-1
+

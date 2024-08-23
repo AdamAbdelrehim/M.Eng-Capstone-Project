@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Onderkoning"]
+[Black "xacatur"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/QedVB9sc"]
+[WhiteElo "2503"]
+[BlackElo "2350"]
+[ECO "A86"]
+[Opening "Dutch Defense: Fianchetto Variation"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:35:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. c4 f5 2. d4 Nf6 3. g3 e6 4. Nf3 d5 5. Bf4 c6 6. Nc3 Be7 7. e3 O-O 8. h4 Bd7
+9. Qb3 b6 10. Ne5 Be8 11. Rc1 Nfd7 12. Nf3 Nf6 13. cxd5 exd5 14. Bh3 g6 15. Bh6
+Ne4 16. Bxf8 Kxf8 17. O-O Nd7 18. Ne2 Ndf6 19. Ne5 Rc8 20. Nf4 Bf7 21. Nxc6 Qc7
+22. Nxe7 Qxc1 23. Rxc1 Rxc1+ 24. Kg2 Kxe7 25. Qa3+ Ke8 26. Qxa7 Rc2 27. Nd3 Rd2
+28. Qa6 Kf8 29. a4 Kg7 30. Kg1 Rd1+ 31. Kh2 Rd2 32. Kg2 Nh5 33. g4 Nhg3 34.
+gxf5 gxf5 35. Kf3 Bh5+ 36. Kf4 Ne2+ 37. Ke5 Ng1 38. Bxf5 Nf3+ 39. Kxd5 Nxf2 40.
+Nxf2 1-0
+

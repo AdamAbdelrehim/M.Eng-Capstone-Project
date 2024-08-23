@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Andep123"]
+[Black "Grandstodge"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/iSfngUOr"]
+[WhiteElo "2395"]
+[BlackElo "2514"]
+[ECO "C18"]
+[Opening "French Defense: Winawer Variation, Portisch-Hook Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:30:25"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Qa5 7. Bd2 Qa4 8. Nf3
+b6 9. h4 Ba6 10. Bxa6 Nxa6 11. h5 Rc8 12. Rc1 cxd4 13. cxd4 Nb8 14. Rh3 Qxa3
+15. Rg3 Qf8 16. c4 Nc6 17. cxd5 exd5 18. Qa4 Ne7 19. Bb4 Kd7 20. Bd6 g6 21. Ng5
+Qe8 22. Rf3 Nf5 23. Rd3 Nxd6 24. Kf1 Nc4 25. Qb5 Kc7 26. Qxd5 N6a5 27. Qd6+ Kb7
+28. Qd5+ Kb8 29. Nxf7 Rf8 30. Nd6 Qc6 31. Qe6 Ne3+ 32. Ke2 Qxc1 0-1
+

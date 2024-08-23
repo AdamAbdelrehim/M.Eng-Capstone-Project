@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "RadosCal"]
+[Black "toosz17"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/3gWB0jPx"]
+[WhiteElo "2502"]
+[BlackElo "2484"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Löwenthal Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:16:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 a6 6. Nd6+ Bxd6 7. Qxd6 Qf6 8.
+Qd1 Qg6 9. Nc3 d5 10. exd5 Nb4 11. Bd3 Nxd3+ 12. Qxd3 Qxg2 13. Rf1 Bh3 14. Be3
+Qxf1+ 15. Qxf1 Bxf1 16. Kxf1 f5 17. Re1 Kd7 18. Bc5 Re8 19. f4 e4 20. Bd4 Re7
+21. Kf2 Nh6 22. h3 Rg8 23. Rg1 g6 24. Ke3 Nf7 25. Bc5 Ree8 26. Kd4 g5 27. Rf1
+g4 28. hxg4 Rxg4 29. Nd1 Rg2 30. Ne3 Rd2+ 31. Kc3 Rh2 32. Kd4 Rh5 33. b4 Rc8
+34. a4 Rg8 35. c4 Rg3 36. a5 Rgh3 37. Rg1 Rh2 38. Rg7 Rd2+ 39. Kc3 Rd3+ 40. Kb2
+Rh2+ 41. Nc2 Rdd2 42. Rxf7+ Ke8 43. Rxf5 Rxc2+ 44. Kb3 Rce2 45. Kc3 Rh3+ 46.
+Kd4 Rd3+ 47. Ke5 Rh2 48. Kxe4 Rc3 49. Kd4 Rc1 50. Rf8+ Kd7 51. Rf7+ Kc8 52. Bd6
+Rd2+ 53. Kc5 Rdc2 54. Rc7+ Kd8 55. Kd4 Rd2+ 56. Ke5 Rdc2 57. c5 Re2+ 58. Kf5
+Rce1 59. Rxb7 Re8 60. Be5 R8xe5+ 61. fxe5 Rh1 62. d6 Rh6 63. e6 Rh5+ 64. Kf6
+Rh6+ 65. Kf7 Rxe6 66. Kxe6 Kc8 67. Rc7+ Kb8 68. Kd7 h5 69. Kc6 Ka8 70. d7 Kb8
+71. d8=Q# 1-0
+

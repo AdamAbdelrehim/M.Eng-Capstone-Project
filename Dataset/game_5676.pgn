@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "resrser"]
+[Black "DimaGrand"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ymZ2Bl4w"]
+[WhiteElo "2664"]
+[BlackElo "2842"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Closed, Anti-Sveshnikov Variation, with d6"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:37:51"]
+[Termination "Normal"]
+[WhiteRatingDiff "+32"]
+[BlackRatingDiff "-26"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 d6 4. Bc4 e5 5. d3 Be7 6. O-O Nf6 7. Bg5 a6 8. Bxf6
+Bxf6 9. a4 Be6 10. Nd5 Ne7 11. Nxf6+ gxf6 12. Nh4 Ng6 13. Qh5 Nf4 14. Qh6 Qe7
+15. g3 Ne2+ 16. Kh1 Nd4 17. c3 Nc6 18. Bd5 Kd7 19. Ng2 Rag8 20. Ne3 Rg6 21. Qh5
+Rg5 22. Qd1 h5 23. f4 exf4 24. gxf4 Rg4 25. Bxc6+ bxc6 26. f5 Rg5 27. fxe6+
+fxe6 28. Qb3 Kc7 29. Qc4 Kb6 30. b4 Ka7 31. Rab1 Rhg8 32. bxc5 Rxc5 33. Qb3 Qc7
+34. Qxe6 Rcg5 35. Rxf6 R8g7 36. Nf5 Rd7 37. Nxd6 Rgg7 38. Ne8 Qb8 39. Rxb8 Kxb8
+40. Qe5+ Rc7 41. Rxc6 a5 42. Nxg7 h4 43. Qxc7+ Ka8 44. Ra6# 1-0
+

@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ChainsOfFantasia"]
+[Black "persianking2000"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/FWv75Dko"]
+[WhiteTitle "IM"]
+[WhiteElo "2653"]
+[BlackElo "2714"]
+[ECO "D41"]
+[Opening "Queen's Gambit Declined: Semi-Tarrasch Defense, Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:27:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8.
+cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Bc4 Nd7 12. O-O b6 13. Rad1 Bb7 14.
+Rfe1 Rc8 15. Bb3 Re8 16. h4 h6 17. g4 Qc7 18. g5 h5 19. g6 fxg6 20. Ng5 Nf8 21.
+d5 Rcd8 22. d6 Qd7 23. e5 Nh7 24. Rc1 Nxg5 25. Qxg5 Qf7 26. Re3 Rf8 27. f4 Qxf4
+28. Bxe6+ Kh7 29. Qxf4 Rxf4 30. Rc7 Ba8 31. Rf7 Rxh4 32. Bh3 Bd5 33. Rxa7 g5
+34. Bf5+ Kh6 35. d7 Rf8 36. Bh3 Rd4 37. Re1 Rd3 38. Bf1 Rg3+ 39. Kh2 h4 40. Re2
+Rxf1 41. d8=Q Rh1# 0-1
+

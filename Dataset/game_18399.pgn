@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "okriak"]
+[Black "mick_chess"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/mdFFOhHG"]
+[WhiteElo "2737"]
+[BlackElo "2777"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:46:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 d5 2. c4 e6 3. cxd5 exd5 4. Nc3 Nf6 5. Bf4 c6 6. e3 Be7 7. Bd3 O-O 8. Qc2
+Nbd7 9. Nf3 Re8 10. h3 Nf8 11. O-O b5 12. a4 b4 13. Nb1 Ne6 14. Bh2 Bb7 15.
+Nbd2 c5 16. dxc5 Nxc5 17. Nd4 a6 18. N2b3 Rc8 19. Nxc5 Bxc5 20. Qb3 Bxd4 21.
+exd4 a5 22. Rac1 Qb6 23. Bb5 Red8 24. Be5 Ne4 25. Qe3 h6 26. f3 Nd6 27. Rc5
+Nxb5 28. Rxb5 Qa6 29. Rc1 Bc6 30. Rbc5 Bxa4 31. Rxc8 Rxc8 32. Rxc8+ Qxc8 33.
+Kh2 Bc2 34. Bd6 Bf5 35. Qe5 Be6 36. Bc5 Qc6 37. Qb8+ Kh7 38. Qf8 Qb5 39. Bd6
+Qd3 40. Be5 f6 41. Bxf6 gxf6 42. Qe7+ Kg6 43. Qxe6 Qxd4 44. Qg8+ Kf5 45. Qc8+
+Kf4 46. Qc7+ Qe5 47. Qxa5 Ke3+ 48. Kg1 Qxb2 49. Qc5+ Kd3 50. Qxd5+ Qd4+ 51.
+Qxd4+ Kxd4 52. Kf2 b3 53. Ke2 b2 0-1
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Dug_Polk"]
+[Black "derekdio"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/m6XrJ2Fy"]
+[WhiteElo "2501"]
+[BlackElo "2501"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Maróczy Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:13:40"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. d3 Nf6 2. e4 g6 3. b3 Bg7 4. Bb2 O-O 5. Nd2 d5 6. Ngf3 a5 7. a3 b6 8. e5
+Nfd7 9. d4 c5 10. c3 Ba6 11. Bxa6 Nxa6 12. O-O Nc7 13. c4 cxd4 14. Bxd4 Ne6 15.
+Bb2 Ndc5 16. b4 Nd3 17. Qb3 Nxb2 18. Qxb2 dxc4 19. Nxc4 axb4 20. axb4 Rxa1 21.
+Rxa1 Qc7 22. Ne3 Rc8 23. h4 f6 24. Qb3 Kf7 25. Nd4 Qd7 26. Rd1 fxe5 27. Ndf5
+Qc6 28. b5 Qc3 29. Qd5 gxf5 30. Nxf5 Bf6 31. Nh6+ Kg6 32. Ng4 Qc5 33. Qxe6 Qc4
+34. Nxe5+ Kh5 35. Nxc4 Rxc4 36. Qf5+ Kh6 37. g4 Kg7 38. g5 Rc5 39. gxf6+ exf6
+40. Qxc5 1-0
+

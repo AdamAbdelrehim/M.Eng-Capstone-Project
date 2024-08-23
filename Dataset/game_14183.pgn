@@ -1,0 +1,22 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/h08mQKsO"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ninehundredsixty"]
+[Black "EtoFiaskoBratan"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/WzQPnR5m"]
+[WhiteElo "2649"]
+[BlackElo "2422"]
+[ECO "A40"]
+[Opening "English Defense"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:04:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+
+1. d4 e6 2. c4 b6 3. Nc3 Bb4 4. f3 f5 5. Qc2 Bb7 6. e4 fxe4 7. fxe4 Qh4+ 8. g3
+Qxe4+ 0-1
+

@@ -1,0 +1,37 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "manneredmonkey"]
+[Black "cibona"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/YCf43dhV"]
+[WhiteTitle "NM"]
+[WhiteElo "2595"]
+[BlackElo "2528"]
+[ECO "A14"]
+[Opening "English Opening: Agincourt Defense, Neo-Catalan Declined"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:13:40"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. Nf3 Be7 5. O-O O-O 6. b3 b6 7. Bb2 Bb7 8. e3 c5
+9. Nc3 Nc6 10. cxd5 exd5 11. d4 Re8 12. Qd2 Ne4 13. Qe2 Bf6 14. Rfd1 Nxc3 15.
+Bxc3 a5 16. Qb2 c4 17. bxc4 dxc4 18. Ne5 Bxe5 19. dxe5 Qc7 20. Rd6 Nb4 21. Bxb7
+Qxb7 22. Bxb4 axb4 23. Qxb4 Qe4 24. Rxb6 Qxe5 25. Rc1 Rxa2 26. Qxc4 Ra1 27.
+Rxa1 Qxa1+ 28. Kg2 Qa8+ 29. Qc6 Qxc6+ 30. Rxc6 h6 31. Kf3 h5 32. h4 g6 33. Ke2
+Kg7 34. f4 Ra8 35. Kf3 Ra3 36. Rc5 Rb3 37. f5 Rb4 38. e4 gxf5 39. Rxf5 Kg6 40.
+Kf4 f6 41. Rd5 Ra4 42. Rd8 Ra1 43. Rg8+ Kf7 44. Rh8 Rf1+ 45. Ke3 Kg6 46. Rg8+
+Kf7 47. Rb8 Rg1 48. Kf2 Ra1 49. Rb5 Kg6 50. Rb6 Kg7 51. Kf3 Rf1+ 52. Kg2 Re1
+53. Kf3 Rf1+ 54. Ke2 Ra1 55. Rb5 Kg6 56. Rf5 Ra3 57. Kf2 Ra2+ 58. Kf3 Ra3+ 59.
+Kf4 Ra1 60. Rc5 Rf1+ 61. Ke3 Re1+ 62. Kf3 Rf1+ 63. Ke2 Rg1 64. Kf2 Ra1 65. Rc3
+Ra2+ 66. Kf3 Ra1 67. Re3 Ra2 68. Re2 Ra5 69. Kf4 Ra1 70. Rf2 Ra4 71. Rf3 Rb4
+72. Rc3 Ra4 73. Rc6 Ra1 74. e5 Rf1+ 75. Ke3 Re1+ 76. Kf2 Rxe5 77. Rc8 Rf5+ 78.
+Kg2 Re5 79. Rg8+ Kf5 80. Ra8 Re4 81. Kf3 Rb4 82. Ra5+ Kg6 83. Ra6 Rb2 84. Rc6
+Ra2 85. Rc5 Rb2 86. Rc8 Ra2 87. Rg8+ Kf7 88. Rb8 Kg6 89. Rb4 Rc2 90. Rf4 Ra2
+91. Re4 Rb2 92. Re3 Ra2 93. Kf4 Rb2 94. g4 Rb4+ 95. Kf3 Rxg4 96. Re8 Rxh4 97.
+Rg8+ Kf5 98. Rb8 1-0
+

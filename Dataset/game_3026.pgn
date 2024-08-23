@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "AKS-Mantissa"]
+[Black "Hoon_Bot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/xqM67GBd"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2709"]
+[BlackElo "2866"]
+[ECO "A09"]
+[Opening "Réti Opening: Advance Variation"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:51:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. Nf3 d5 2. c4 d4 3. g3 Nc6 4. Bg2 e5 5. d3 Bb4+ 6. Nbd2 a5 7. Qa4 Bd7 8. O-O
+Nf6 9. a3 Bc5 10. Nh4 Qc8 11. f4 O-O 12. Qb5 Be7 13. fxe5 Ng4 14. e6 fxe6 15.
+h3 Nf6 16. Ne4 a4 17. Bd2 Na5 18. Qe5 Nb3 19. Rad1 Nxd2 20. Rxd2 c5 21. Rf4 Bc6
+22. Ng5 Ra6 23. Bxc6 Qxc6 24. Ne4 Nxe4 25. Rxe4 Bf6 26. Qh5 g6 27. Qg4 Qe8 28.
+Rf4 e5 29. Rf1 Qe6 30. Qxe6+ Rxe6 31. Ng2 Bg5 32. Rc2 Rxf1+ 33. Kxf1 Rf6+ 34.
+Ke1 h5 35. b4 axb3 36. Rb2 Rb6 37. Kd1 Kg7 38. Ne1 Be3 39. Nf3 Kf6 40. Nd2 Bxd2
+41. Kxd2 e4 42. dxe4 Ke5 43. Kd3 g5 44. a4 Rb4 45. e3 b6 46. h4 g4 47. exd4+
+cxd4 48. Rb1 b2 49. Kc2 Rxc4+ 50. Kb3 Rc1 51. Rxb2 d3 52. Ka2 Kxe4 53. Ka3 Ke3
+54. Rb3 Ke2 55. Rxb6 d2 56. Rb2 Ke1 57. Rb5 d1=Q 58. Re5+ Kf2 59. Rf5+ Ke3 60.
+Kb4 Qd4+ 61. Ka5 Rb1 62. Re5+ Qxe5+ 63. Ka6 Qb2 64. Ka5 Qb6# 0-1
+

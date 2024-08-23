@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "RaspFish"]
+[Black "weiawaga"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Kaei4t6E"]
+[WhiteTitle "BOT"]
+[WhiteElo "2981"]
+[BlackElo "2664"]
+[ECO "D32"]
+[Opening "Tarrasch Defense: Schara Gambit"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "06:17:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-1"]
+
+1. c4 e6 2. Nc3 d5 3. d4 c5 4. cxd5 cxd4 5. Qa4+ Bd7 6. Qxd4 exd5 7. Qxd5 Nc6
+8. Nf3 Nf6 9. Qb3 Bb4 10. e3 O-O 11. Be2 Be6 12. Qc2 Qc8 13. Bd2 Bf5 14. Bd3
+Bxd3 15. Qxd3 Rd8 16. Qc4 a6 17. O-O h6 18. Rfd1 b5 19. Qb3 Qb7 20. Be1 Bf8 21.
+Rac1 Na5 22. Qc2 Rdc8 23. Qb1 b4 24. Ne2 Nc4 25. b3 Nd6 26. Rxc8 Rxc8 27. Rc1
+Nde4 28. Rxc8 Qxc8 29. Qc1 Qa8 30. Qc4 Bd6 31. Ned4 a5 32. Nc6 Bc5 33. Qb5 Qe8
+34. Nfd4 Bxd4 35. Nxd4 Qxb5 36. Nxb5 Nc5 37. f3 Nfd7 38. Kf1 Ne5 39. Ke2 f6 40.
+Bg3 Kf7 41. Nd4 Nb7 42. e4 g6 43. f4 Nd7 44. Ke3 h5 45. f5 Ne5 46. fxg6+ Kxg6
+47. Nf3 Nc6 48. Bc7 Nc5 49. Bb6 Nd7 50. Nd4 Nxd4 51. Bxd4 Kg5 52. Kf3 Kh6 53.
+h4 Kg6 54. g4 Kh6 55. Kf4 hxg4 56. Kxg4 Kg6 57. h5+ Kh6 58. Kf5 Nb8 59. Bxf6
+Nc6 60. Kg4 Kh7 61. Kg5 Nb8 62. e5 Na6 63. e6 Nc7 64. e7 Ne6+ 65. Kf5 Nc7 66.
+Be5 Ne8 67. Kg5 a4 68. h6 a3 69. Kh5 Kg8 70. Kg6 Nf6 71. Kxf6 Kh8 72. Kg6+ Kg8
+73. h7# 1-0
+

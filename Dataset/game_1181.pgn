@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ignat_final"]
+[Black "el_doubiouso"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/01V2pie9"]
+[WhiteElo "2508"]
+[BlackElo "2350"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Nyezhmetdinov-Rossolimo Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:43:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 Nf6 4. Bxc6 dxc6 5. d3 Qc7 6. O-O e5 7. b3 h6 8. Bb2
+Bd6 9. Nbd2 g5 10. Nc4 Nd7 11. Qd2 f6 12. a4 Nf8 13. Ne1 Ne6 14. g3 h5 15. Ng2
+h4 16. Nxd6+ Qxd6 17. f4 h3 18. fxe5 fxe5 19. Ne3 Bd7 20. Nf5 Qf8 21. Bxe5 Rg8
+22. Nd6+ 1-0
+

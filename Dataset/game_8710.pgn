@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "MitchyF"]
+[Black "NoahSkyler"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/PSwKnBVr"]
+[WhiteTitle "IM"]
+[WhiteElo "2524"]
+[BlackElo "2585"]
+[ECO "E73"]
+[Opening "King's Indian Defense: Semi-Averbakh System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "04:49:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 Bg7 4. d4 O-O 5. Be3 d6 6. Be2 e5 7. d5 a5 8. g4 Na6
+9. h4 h6 10. h5 g5 11. f3 Nd7 12. Bd3 Ndc5 13. Bc2 Bd7 14. a3 c6 15. Rb1 cxd5
+16. cxd5 Rc8 17. Nge2 b5 18. b4 axb4 19. axb4 Nxb4 20. Rxb4 Qa5 21. Qb1 Na6 22.
+Rb3 Nc5 23. Rxb5 Bxb5 24. Qxb5 Qa1+ 25. Qb1 Qa5 26. O-O Rb8 27. Qa1 Qc7 28. Rb1
+Ra8 29. Qb2 Rfb8 30. Qc1 Bf8 31. Nb5 Qd7 32. Nec3 Be7 33. Qf1 Bd8 34. Bxc5 dxc5
+35. Qc4 Ba5 36. Bb3 Bxc3 37. Nxc3 Rb4 38. Qxc5 Rab8 39. Qc6 Qxc6 40. dxc6 Rxb3
+41. Rxb3 Rxb3 42. Nd5 Kf8 43. c7 Rb1+ 44. Kf2 Rc1 45. Ke2 Ke8 46. Kd2 Rc5 47.
+Kd3 Kd7 48. Nf6+ Kxc7 49. Ng8 Kd7 50. Nxh6 Ke6 51. Nf5 Rc8 52. h6 Rd8+ 53. Kc4
+Kf6 54. h7 Rd1 55. Kc5 Ke6 56. h8=Q Rh1 57. Qxh1 f6 58. Qd1 Kf7 59. Qd6 Kg6 60.
+Qd8 Kf7 61. Qe7+ Kg6 62. Qg7# 1-0
+

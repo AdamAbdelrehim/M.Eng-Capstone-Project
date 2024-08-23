@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Zeetong"]
+[Black "Buhmann"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/avCleplM"]
+[BlackTitle "GM"]
+[WhiteElo "2564"]
+[BlackElo "2713"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:38:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "-25"]
+[BlackRatingDiff "+3"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. Be2 Nge7 7. Na3 Nf5 8. Nc2
+Be7 9. O-O O-O 10. Bd3 c4 11. Bxf5 exf5 12. g3 b5 13. a3 a5 14. h4 b4 15. axb4
+axb4 16. Bf4 Be6 17. Qd2 Na5 18. Qe3 Nb3 19. Rxa8 Qxa8 20. Bg5 Bxg5 21. Qxg5 h6
+22. Qf4 bxc3 23. bxc3 Qa2 24. Ne3 Qb2 25. Nxf5 Bxf5 26. Qxf5 Qxc3 27. Qf4 Qd3
+28. Kg2 c3 29. e6 fxe6 30. Qg4 Qe4 31. Re1 Qxg4 0-1
+

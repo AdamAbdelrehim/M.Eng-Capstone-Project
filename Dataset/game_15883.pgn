@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "vvchessli"]
+[Black "NameTheGame"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/24AB00kF"]
+[WhiteTitle "IM"]
+[WhiteElo "2654"]
+[BlackElo "2714"]
+[ECO "A35"]
+[Opening "English Opening: Symmetrical Variation, Four Knights Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:56:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. Nf3 Nf6 2. c4 c5 3. Nc3 Nc6 4. e3 e5 5. d4 e4 6. d5 exf3 7. dxc6 dxc6 8.
+Qxd8+ Kxd8 9. gxf3 g6 10. b3 Bg7 11. Bb2 b6 12. O-O-O+ Ke7 13. Ne4 Nh5 14. Bxg7
+Nxg7 15. Bg2 Bf5 16. f4 Rad8 17. Ng3 Rxd1+ 18. Rxd1 Bd7 19. e4 Ne6 20. Bh3 Bc8
+21. Bxe6 Bxe6 22. e5 h6 23. Ne4 g5 24. fxg5 hxg5 25. Nxg5 Rxh2 26. Rd6 Rxf2 27.
+Rxc6 Rxa2 28. Rc7+ Kd8 29. Rc6 Kd7 30. Rd6+ Ke7 31. Rc6 Re2 32. Nxe6 fxe6 33.
+Rc7+ Kd8 34. Rxa7 Rxe5 35. Rb7 Kc8 36. Rxb6 Kc7 37. Ra6 Kb7 38. Rd6 Kc7 39. Rd3
+Re2 40. Rh3 Kd6 41. Rd3+ Ke5 42. Rd7 Kf4 43. Rc7 e5 44. Rxc5 e4 45. Kd1 Rb2 46.
+Rb5 Ke3 47. c5 Kd3 48. Kc1 Rc2+ 49. Kb1 e3 50. c6 e2 51. Rd5+ Ke4 52. Kxc2 e1=Q
+53. Rd2 Ke5 54. Rd3 Qe2+ 55. Kc3 Qe1+ 56. Kb2 Qe2+ 57. Kc3 Ke4 58. Rd4+ Ke3 59.
+Rc4 Qd2# 0-1
+

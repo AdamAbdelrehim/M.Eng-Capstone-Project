@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "sushila1"]
+[Black "kasparik_garik"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/9t254Cj8"]
+[WhiteElo "2774"]
+[BlackElo "2591"]
+[ECO "D01"]
+[Opening "Rapport-Jobava System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:34:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 c5 4. e4 Nxe4 5. Nxe4 dxe4 6. dxc5 Qxd1+ 7. Rxd1 Nc6
+8. Bb5 a6 9. Ba4 f6 10. Ne2 e5 11. Be3 Bd7 12. c3 O-O-O 13. Ng3 f5 14. Rxd7
+Rxd7 15. Nxf5 Rf7 16. Ng3 Ne7 17. Bb3 Rf6 18. Nxe4 Rg6 19. Nd6+ Kb8 20. Nf7 1-0
+

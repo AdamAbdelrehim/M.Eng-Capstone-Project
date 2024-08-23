@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Midnight_Mushroom"]
+[Black "FIDE-Trainer1984"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/XfxqYf6h"]
+[WhiteElo "2494"]
+[BlackElo "2506"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:20:19"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. b3 d5 2. Bb2 Bg4 3. f3 Bh5 4. Nh3 f6 5. d4 Nc6 6. Nf4 Bf7 7. e4 dxe4 8. fxe4
+e5 9. dxe5 Qxd1+ 10. Kxd1 O-O-O+ 11. Nd2 Nxe5 12. Ke1 Bb4 13. c3 Bc5 14. Nf3
+Ng4 15. Be2 Ne7 16. Nd4 Ne3 17. Kd2 g5 18. Kxe3 gxf4+ 19. Kxf4 Ng6+ 20. Ke3
+Rhe8 21. Bg4+ Kb8 22. Bf5 Nh4 23. Bh3 f5 24. Rae1 Rxe4+ 25. Kf2 Rf4+ 26. Ke3
+Ng6 27. Rhf1 Bxd4+ 28. cxd4 Rxf1 29. Rxf1 f4+ 30. Kd3 Bd5 31. Bc1 Rf8 32. Rf2
+b6 33. Bg4 Nh4 34. g3 fxg3 35. Rxf8+ Kb7 36. hxg3 1-0
+

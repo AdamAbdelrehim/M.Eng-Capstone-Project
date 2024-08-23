@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "casuallychess"]
+[Black "JL202074"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/fpWl0KIN"]
+[WhiteElo "2580"]
+[BlackElo "2585"]
+[ECO "D91"]
+[Opening "Grünfeld Defense: Three Knights Variation, Petrosian System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:34:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+19"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Bg5 Ne4 6. Bf4 Nxc3 7. bxc3 c5 8. e3
+O-O 9. cxd5 Qxd5 10. Be2 cxd4 11. cxd4 Nc6 12. O-O Rd8 13. Rc1 Qa5 14. Qb3 e5
+15. Rc5 Qb6 16. Nxe5 Nxe5 17. Bxe5 Bxe5 18. Rxe5 Be6 19. Bc4 Bxc4 20. Qxc4 Rac8
+21. Qe2 Re8 22. Rb5 Qa6 23. Rfb1 b6 24. h4 h5 25. g4 hxg4 26. Qxg4 Qxa2 27. h5
+Qe6 28. Qg3 Kf8 29. hxg6 Qxg6 30. Rg5 Qf6 31. Rbb5 Re6 32. Rbf5 Qh8 33. Rh5 Qg7
+34. Rhg5 Qh8 35. d5 Rc1+ 36. Kg2 Qh1# 0-1
+

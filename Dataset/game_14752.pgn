@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ViennaDragon"]
+[Black "Johantex"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/GtbYqrwt"]
+[WhiteElo "2517"]
+[BlackElo "2488"]
+[ECO "E69"]
+[Opening "King's Indian Defense: Fianchetto Variation, Classical Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:02:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 d6 6. Nf3 Nbd7 7. O-O e5 8. e4
+c6 9. h3 Re8 10. d5 Nc5 11. Re1 a5 12. Rb1 cxd5 13. cxd5 b5 14. b4 axb4 15.
+Rxb4 Qa5 16. a3 Bd7 17. Nd2 Qa6 18. Nb3 Rec8 19. Bf1 Rab8 20. a4 Ne8 21. axb5
+Qb7 22. Na5 Qb6 23. Nc4 Qd8 24. Be3 Bf8 25. b6 Nb7 26. Nb5 Bxb5 27. Rxb5 Qd7
+28. Qb3 Ra8 29. Rc1 Be7 30. h4 h5 31. Kh2 Kh7 32. Bh3 f5 33. Qb1 Ra4 34. exf5
+Qd8 35. fxg6+ Kg7 36. Bxc8 Qxc8 37. Nxd6 1-0
+

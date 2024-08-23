@@ -1,0 +1,36 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.06.18"]
+[Round "-"]
+[White "TITAN_Yavuzingo"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "1rb1k2r/4bp2/p1pppp1p/8/5P1B/2N2Q2/PqPK2PP/1R3B1R b k -"]
+[Timezone "UTC"]
+[ECO "B50"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Anti-Qxd4-Move-Order-4.Nc3"]
+[UTCDate "2024.06.18"]
+[UTCTime "21:14:16"]
+[WhiteElo "2006"]
+[BlackElo "1900"]
+[TimeControl "600"]
+[Termination "TITAN_Yavuzingo won by resignation"]
+[StartTime "21:14:16"]
+[EndDate "2024.06.18"]
+[EndTime "21:15:56"]
+[Link "https://www.chess.com/game/live/112484398651"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:59.2] }
+2... d6 { [%clk 0:09:59.6] } 3. Nc3 { [%clk 0:09:58.4] } 3... Nf6
+{ [%clk 0:09:58.7] } 4. d4 { [%clk 0:09:58] } 4... cxd4 { [%clk 0:09:57] } 5.
+Nxd4 { [%clk 0:09:57.4] } 5... a6 { [%clk 0:09:56.9] } 6. Bg5
+{ [%clk 0:09:54.8] } 6... e6 { [%clk 0:09:54] } 7. f4 { [%clk 0:09:53.6] } 7...
+Be7 { [%clk 0:09:52.5] } 8. Qf3 { [%clk 0:09:51.9] } 8... h6
+{ [%clk 0:09:51.8] } 9. Bh4 { [%clk 0:09:49.8] } 9... Nc6 { [%clk 0:09:46.9] }
+10. O-O-O { [%clk 0:09:48] } 10... Qb6 { [%clk 0:09:39.8] } 11. Nxc6
+{ [%clk 0:09:40.9] } 11... bxc6 { [%clk 0:09:37.3] } 12. e5
+{ [%clk 0:09:39.7] } 12... Rb8 { [%clk 0:09:25.8] } 13. exf6
+{ [%clk 0:09:34.4] } 13... Qxb2+ { [%clk 0:09:23.1] } 14. Kd2
+{ [%clk 0:09:33.7] } 14... gxf6 { [%clk 0:09:06.4] } 15. Rb1
+{ [%clk 0:09:30.4] } 1-0
+

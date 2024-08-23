@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.05.20"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "banmai8388"]
+[Result "0-1"]
+[CurrentPosition "3r4/p1k3pp/1p1b1pn1/5B2/8/6P1/PPP4P/2KR4 b - -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game"]
+[UTCDate "2023.05.20"]
+[UTCTime "02:39:28"]
+[WhiteElo "1760"]
+[BlackElo "1756"]
+[TimeControl "180"]
+[Termination "banmai8388 won by resignation"]
+[StartTime "02:39:28"]
+[EndDate "2023.05.20"]
+[EndTime "02:43:20"]
+[Link "https://www.chess.com/game/live/78289286017"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:02:59.7] } 2. Nf3
+{ [%clk 0:02:59.6] } 2... Nc6 { [%clk 0:02:58.3] } 3. Bc4 { [%clk 0:02:59.2] }
+3... Qe7 { [%clk 0:02:55.8] } 4. d4 { [%clk 0:02:58] } 4... exd4
+{ [%clk 0:02:54.6] } 5. Nxd4 { [%clk 0:02:50.1] } 5... Qxe4+ { [%clk 0:02:53] }
+6. Qe2 { [%clk 0:02:49.8] } 6... Qxe2+ { [%clk 0:02:50.7] } 7. Nxe2
+{ [%clk 0:02:49.7] } 7... b6 { [%clk 0:02:48.9] } 8. Nbc3 { [%clk 0:02:48] }
+8... Bb7 { [%clk 0:02:45.9] } 9. Bf4 { [%clk 0:02:47.6] } 9... d6
+{ [%clk 0:02:44.1] } 10. O-O-O { [%clk 0:02:46.4] } 10... f6
+{ [%clk 0:02:42.1] } 11. Rhe1 { [%clk 0:02:43.6] } 11... O-O-O
+{ [%clk 0:02:40.6] } 12. Nb5 { [%clk 0:02:37.7] } 12... Kb8
+{ [%clk 0:02:38.7] } 13. f3 { [%clk 0:02:30.5] } 13... Nge7
+{ [%clk 0:02:33.8] } 14. Ned4 { [%clk 0:02:29.6] } 14... Ng6 { [%clk 0:02:32] }
+15. Ne6 { [%clk 0:02:14.5] } 15... Rc8 { [%clk 0:02:20.2] } 16. Nexc7
+{ [%clk 0:01:52.2] } 16... Nxf4 { [%clk 0:02:14.4] } 17. g3
+{ [%clk 0:01:42.1] } 17... Ng6 { [%clk 0:02:09.3] } 18. Re6
+{ [%clk 0:01:22.8] } 18... Nce5 { [%clk 0:02:03.4] } 19. Bb3
+{ [%clk 0:01:15.4] } 19... Rxc7 { [%clk 0:02:00.8] } 20. Nxc7
+{ [%clk 0:01:00.4] } 20... Kxc7 { [%clk 0:01:58.7] } 21. f4
+{ [%clk 0:00:59.8] } 21... Bc8 { [%clk 0:01:55] } 22. fxe5 { [%clk 0:00:50.7] }
+22... Bxe6 { [%clk 0:01:53.5] } 23. exd6+ { [%clk 0:00:48.2] } 23... Bxd6
+{ [%clk 0:01:49.9] } 24. Bxe6 { [%clk 0:00:47.8] } 24... Rd8 { [%clk 0:01:43] }
+25. Bf5 { [%clk 0:00:42.9] } 0-1
+

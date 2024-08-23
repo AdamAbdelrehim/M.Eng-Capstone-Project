@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Ultron81"]
+[Black "RaspFish"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/hpPTMhLN"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2842"]
+[BlackElo "2988"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game: Modern Defense"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:18:39"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+
+1. d4 g6 2. e4 d6 3. Be3 Bg7 4. Qd2 c5 5. Ne2 Nf6 6. f3 O-O 7. Nbc3 Qa5 8. h4
+h5 9. Bh6 Nc6 10. Bxg7 Kxg7 11. d5 Ne5 12. Ng3 c4 13. a4 Rb8 14. Nd1 Qc5 15.
+Qc3 e6 16. f4 Neg4 17. Bxc4 Bd7 18. dxe6 fxe6 19. Bb5 Qxc3+ 20. Nxc3 Ne3 21.
+Kd2 Bxb5 22. Kxe3 Bc6 23. Rhf1 Ng4+ 24. Kd2 Rbd8 25. Rae1 Nh2 26. Rh1 Ng4 27.
+f5 d5 28. fxe6 Rf2+ 29. Kc1 d4 30. Nce2 Rxg2 31. Rhg1 Rxg1 32. Rxg1 d3 33. cxd3
+Rxd3 34. a5 Kf6 35. a6 bxa6 36. Nf4 Rf3 37. Ngxh5+ gxh5 38. Nxh5+ Kg6 39. Rxg4+
+Kxh5 40. Rg5+ Kxh4 41. Ra5 Rf6 42. Rxa6 Rxe6 43. Rxa7 Bxe4 44. b3 Bh1 45. b4
+Bg2 46. b5 Bf1 47. b6 Rxb6 48. Ra1 Bg2 49. Rb1 Re6 50. Ra1 Ba8 51. Rxa8 Re5 52.
+Ra1 Re8 53. Rb1 Rg8 54. Ra1 Kg4 55. Rb1 Kh3 56. Ra1 Rg6 57. Rb1 Rg4 58. Ra1 Kh4
+59. Rb1 Rg2 60. Ra1 Kg5 61. Rb1 Rg1+ 62. Kb2 Rg4 63. Ra1 Rg2+ 64. Kb1 Re2 65.
+Ra2 Re6 66. Ra1 Kf5 67. Ra2 Rf6 68. Ra1 Rb6+ 69. Kc1 Ke4 70. Rb1 Rd6 71. Ra1
+Re6 72. Rb1 Kf5 73. Ra1 Ke5 74. Rb1 Rg6 75. Ra1 Rg8 76. Rb1 Rg2 77. Ra1 Re2 78.
+Rb1 Kf6 79. Ra1 Ke5 80. Rb1 Rf2 81. Ra1 Re2 1/2-1/2
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "hajeko"]
+[Black "AManCalledDonalP"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/qVJjnVBO"]
+[WhiteTitle "CM"]
+[WhiteElo "2522"]
+[BlackElo "2511"]
+[ECO "C47"]
+[Opening "Four Knights Game: Scotch Variation Accepted"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:11:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Bd3 O-O
+8. O-O Re8 9. Bg5 h6 10. Bh4 d5 11. exd5 g5 12. Bg3 cxd5 13. Nb5 Ba5 14. Nd4
+Bg4 15. Qc1 Bd7 16. h4 Ne4 17. Bxe4 Rxe4 18. Nb3 Bb6 19. hxg5 Qxg5 20. Qxg5+
+hxg5 21. Rfe1 Rae8 22. Rxe4 Rxe4 23. Rd1 c6 24. c3 f5 25. Bd6 Re2 26. Nc5 Bc8
+27. Nd3 Ba6 28. Bc5 Bxd3 29. Bxb6 axb6 30. Rxd3 Rxb2 31. Rg3 g4 32. f3 Rxa2 33.
+fxg4 fxg4 34. Rxg4+ Kf7 35. Rh4 Rc2 36. Rh7+ Ke6 37. Rb7 b5 0-1
+

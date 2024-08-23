@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Trullebullen"]
+[Black "ViennaDragon"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Sg2v98YB"]
+[WhiteElo "2441"]
+[BlackElo "2509"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:46:50"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. Bf4 c5 3. dxc5 Na6 4. Qd4 Qa5+ 5. Nc3 Qxc5 6. e3 Qxd4 7. exd4 Nb4
+8. O-O-O a6 9. Nf3 d6 10. a3 Nbd5 11. Nxd5 Nxd5 12. Bd2 Bg4 13. Be2 e6 14. h3
+Bh5 15. b4 Rc8 16. Kb2 b5 17. a4 bxa4 18. Ra1 Nb6 19. Bxa6 Rc7 20. Bb5+ Kd8 21.
+Rxa4 Nxa4+ 22. Bxa4 Bxf3 23. gxf3 Be7 24. Bb3 d5 25. Ra1 Bf6 26. c3 Ke7 27. Bf4
+Rb7 28. Ra6 Rd8 29. Ba4 Bxd4 30. cxd4 Rxb4+ 31. Kc3 Rc4+ 32. Kd3 Kf6 33. Be5+
+Kg6 34. Bb5 Rb4 35. Rb6 Rc8 36. Bd6 Rb3+ 37. Kd2 Kh6 38. Bc5 Rxf3 39. Ke2 Rxh3
+40. Rb7 Kg6 41. Bd7 Ra8 42. Kf1 h5 43. Kg2 Rc3 44. Bb5 h4 45. Be2 h3+ 46. Kh2
+Ra2 0-1
+

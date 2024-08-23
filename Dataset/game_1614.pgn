@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "riga1960"]
+[Black "SBHansen"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/hsdlAkNP"]
+[WhiteElo "2568"]
+[BlackElo "2499"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:22:58"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 g6 2. Nc3 Bg7 3. e4 d6 4. g3 a6 5. Bg2 Nd7 6. a4 e5 7. Nge2 h5 8. h3 Ngf6
+9. O-O c6 10. f4 exf4 11. Bxf4 Qb6 0-1
+

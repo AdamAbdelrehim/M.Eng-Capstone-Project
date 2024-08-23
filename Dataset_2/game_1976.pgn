@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.09.06"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "chidichebrys"]
+[Result "1-0"]
+[CurrentPosition "4r3/Qp1n2p1/2kN2pp/P1np4/6P1/7P/1PP2P2/2KR4 b - -"]
+[Timezone "UTC"]
+[ECO "B01"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nc3-Qd8-4.Nf3"]
+[UTCDate "2021.09.06"]
+[UTCTime "04:48:11"]
+[WhiteElo "1486"]
+[BlackElo "1467"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "04:48:11"]
+[EndDate "2021.09.06"]
+[EndTime "04:54:13"]
+[Link "https://www.chess.com/game/live/24642672715"]
+
+1. e4 { [%clk 0:10:00] } 1... d5 { [%clk 0:09:59.8] } 2. exd5
+{ [%clk 0:09:57.7] } 2... Qxd5 { [%clk 0:09:58.7] } 3. Nc3 { [%clk 0:09:57.2] }
+3... Qd8 { [%clk 0:09:57.5] } 4. Nf3 { [%clk 0:09:55.7] } 4... Bg4
+{ [%clk 0:09:55.5] } 5. d4 { [%clk 0:09:52.9] } 5... e6 { [%clk 0:09:54.3] } 6.
+Bf4 { [%clk 0:09:49.1] } 6... Bd6 { [%clk 0:09:52.8] } 7. Bxd6
+{ [%clk 0:09:44.7] } 7... Qxd6 { [%clk 0:09:51.7] } 8. h3 { [%clk 0:09:44.2] }
+8... Bh5 { [%clk 0:09:49.4] } 9. g4 { [%clk 0:09:42.5] } 9... Bg6
+{ [%clk 0:09:46.5] } 10. Bg2 { [%clk 0:09:41.1] } 10... h6 { [%clk 0:09:29.6] }
+11. Ne5 { [%clk 0:09:38.1] } 11... c6 { [%clk 0:09:22.7] } 12. Nxg6
+{ [%clk 0:09:35.8] } 12... fxg6 { [%clk 0:09:21.6] } 13. Qd2
+{ [%clk 0:09:27.9] } 13... Nd7 { [%clk 0:08:58.3] } 14. O-O-O
+{ [%clk 0:09:19.3] } 14... O-O-O { [%clk 0:08:53] } 15. Rhe1
+{ [%clk 0:09:02.6] } 15... Ngf6 { [%clk 0:08:47.1] } 16. Qe3
+{ [%clk 0:08:55.3] } 16... Rde8 { [%clk 0:08:36.5] } 17. d5
+{ [%clk 0:08:51.4] } 17... exd5 { [%clk 0:08:27] } 18. Qxa7
+{ [%clk 0:08:48.2] } 18... Kc7 { [%clk 0:08:07.7] } 19. a4 { [%clk 0:08:37.6] }
+19... Nc5 { [%clk 0:07:57.4] } 20. a5 { [%clk 0:08:17.5] } 20... Nfd7
+{ [%clk 0:07:38.5] } 21. Rxe8 { [%clk 0:08:04.2] } 21... Rxe8
+{ [%clk 0:07:36.7] } 22. Bxd5 { [%clk 0:07:05.3] } 22... cxd5
+{ [%clk 0:07:24.6] } 23. Nb5+ { [%clk 0:07:03] } 23... Kc6 { [%clk 0:07:16.4] }
+24. Nxd6 { [%clk 0:06:56.9] } 1-0
+

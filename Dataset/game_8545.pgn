@@ -1,0 +1,32 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "caissa-x"]
+[Black "expositor"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/bsGmAzBC"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3033"]
+[BlackElo "2813"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation"]
+[TimeControl "600+3"]
+[UTCDate "2024.06.02"]
+[UTCTime "03:36:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. d4 Nf6 2. Nf3 d5 3. c3 c5 4. dxc5 e6 5. Be3 Qc7 6. b4 a5 7. Qb3 Be7 8. a4
+Nc6 9. Na3 e5 10. Nb5 Qd8 11. g3 O-O 12. Bg2 Be6 13. Qb2 Ne4 14. O-O f5 15. Nd2
+f4 16. gxf4 exf4 17. Bd4 Ng5 18. Nf3 Ne4 19. Nd2 Ng5 20. Nf3 Ne4 21. c4 axb4
+22. Rad1 Rf7 23. cxd5 Bxd5 24. Qb1 Bf8 25. Be5 Nxe5 26. Nxe5 Rf5 27. Bxe4 Qg5+
+28. Kh1 Bxe4+ 29. Qxe4 Rxe5 30. Qxb7 Rd8 31. Nd6 Qh5 32. Qxb4 Bxd6 33. cxd6
+Qxe2 34. Qb3+ Kf8 35. h3 Re6 36. Rg1 Rd7 37. Qc3 Rf6 38. Rge1 Qa6 39. Kh2 Qa8
+40. a5 Rg6 41. Rg1 Rxg1 42. Kxg1 h6 43. Qc5 Kg8 44. Qd5+ Qxd5 45. Rxd5 Kf7 46.
+a6 Ke6 47. Rd1 f3 48. Kh2 g6 49. h4 h5 50. Kg3 g5 51. hxg5 h4+ 52. Kh3 Kf7 53.
+a7 Rd8 54. Re1 Kg6 55. d7 Kf7 56. Re8 Rxe8 57. g6+ Ke7 58. dxe8=Q+ Kxe8 59.
+a8=Q+ Ke7 60. g7 Kf6 61. g8=Q Ke5 62. Qad5+ Kf6 63. Qgf7# 1-0
+

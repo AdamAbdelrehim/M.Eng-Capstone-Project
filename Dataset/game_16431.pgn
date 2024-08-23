@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "johndoe695"]
+[Black "thundertwister"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/rAEW5ZDS"]
+[WhiteElo "2565"]
+[BlackElo "2671"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "01:43:50"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Qb6 7. Nc3 Nc6 8. O-O
+Qxb2 9. Qe1 cxd4 10. Nxd4 Bb4 11. Nxf5 Bxc3 12. Nd6+ Kf8 13. Rb1 Qxc2 14. Qc1
+Qxc1 15. Rfxc1 Bxe5 16. Nxb7 Nd4 17. Ba6 Ne7 18. Nc5 Ndc6 19. Bb7 Rd8 20. Nd3
+Nd4 21. Nxe5 Ne2+ 22. Kf1 Nxc1 23. Rxc1 f6 24. Nd3 d4 25. Bd2 Kf7 26. Rc7 Ke8
+0-1
+

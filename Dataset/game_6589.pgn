@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "SHEFFFF"]
+[Black "Chessmatus"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/8MXkpbis"]
+[BlackTitle "FM"]
+[WhiteElo "2547"]
+[BlackElo "2499"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:54:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. d4 cxd4 5. cxd4 d6 6. Bc4 Nb6 7. Bb3 dxe5 8.
+Qh5 e6 9. dxe5 Bb4+ 10. Nc3 Nc6 11. Nf3 Nd4 12. O-O Nxb3 13. axb3 h6 14. Rd1
+Qe7 15. Be3 Nd5 16. Nxd5 exd5 17. Rxd5 Be6 18. Rd4 Bc5 19. Rf4 Bxe3 20. fxe3
+O-O 21. Nd4 a6 22. Raf1 Rac8 23. Qf3 Rc5 24. Qg3 Rxe5 25. h4 f6 26. Rxf6 Rxf6
+27. Qxe5 Rxf1+ 28. Kxf1 Bc4+ 0-1
+

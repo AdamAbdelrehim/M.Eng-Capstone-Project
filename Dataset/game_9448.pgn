@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ron_rhyo"]
+[Black "Midnight_Mushroom"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/CII2WZcy"]
+[WhiteElo "2486"]
+[BlackElo "2503"]
+[ECO "A47"]
+[Opening "Pseudo Queen's Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:03:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. Nf3 b6 3. g3 Bb7 4. Bg2 e6 5. O-O Be7 6. b3 O-O 7. Bb2 c5 8. e3
+Qc7 9. Nbd2 d6 10. c4 Nbd7 11. Re1 Rfd8 12. Rc1 a6 13. Qc2 Nf8 14. e4 cxd4 15.
+Nxd4 Rac8 16. Ne2 b5 17. Nf4 bxc4 18. Nxc4 d5 19. exd5 Nxd5 20. Nxd5 Bxd5 21.
+Bxd5 Rxd5 22. Ne3 Qxc2 23. Rxc2 Rxc2 24. Nxc2 Rd2 25. Rc1 Bg5 26. f4 Bd8 27.
+Bc3 Bb6+ 28. Kh1 Rf2 29. a4 h5 30. Nb4 a5 31. Nc6 h4 32. Bxa5 Be3 33. Re1 h3
+34. Ne5 Bd4 35. Ng4 Rb2 36. b4 Bc3 37. Rc1 Bxb4 38. Bxb4 Rxb4 39. Ra1 Nd7 40.
+a5 Nb8 41. Nf2 Na6 42. Nxh3 f6 43. Nf2 Kf7 44. Nd3 Rb3 45. Nc1 Re3 46. Kg2 e5
+47. fxe5 fxe5 48. Kf2 Rc3 49. Ne2 Rb3 50. Ra4 Ke6 51. h4 Nc5 52. Rc4 Nd3+ 53.
+Kg2 Ra3 54. Rc6+ Kf5 55. Ra6 Ra2 56. Kf3 Ne1+ 57. Ke3 Nc2+ 58. Kd3 Nb4+ 59. Kc4
+Nxa6 60. Kb5 Nc7+ 61. Kb6 Nd5+ 62. Kc5 Rxa5+ 63. Kc4 Ne3+ 64. Kd3 Ra3+ 65. Nc3
+Rxc3+ 66. Kxc3 Kg4 0-1
+

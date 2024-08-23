@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.07.25"]
+[Round "-"]
+[White "Dasasss"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rn1q1rk1/2p2pbp/1pP1pnp1/pP1p4/P2P4/1Q2PB1P/3N1PP1/R1B1K2R b KQ a3"]
+[Timezone "UTC"]
+[ECO "D70"]
+[ECOUrl "https://www.chess.com/openings/Neo-Grunfeld-Defense"]
+[UTCDate "2024.07.25"]
+[UTCTime "04:53:16"]
+[WhiteElo "1817"]
+[BlackElo "1753"]
+[TimeControl "600"]
+[Termination "Dasasss won by resignation"]
+[StartTime "04:53:16"]
+[EndDate "2024.07.25"]
+[EndTime "04:54:55"]
+[Link "https://www.chess.com/game/live/115622285363"]
+
+1. d4 { [%clk 0:10:00] } 1... Nf6 { [%clk 0:09:58.7] } 2. c4
+{ [%clk 0:09:58.9] } 2... g6 { [%clk 0:09:58] } 3. Nf3 { [%clk 0:09:55.5] }
+3... d5 { [%clk 0:09:57.9] } 4. e3 { [%clk 0:09:54] } 4... Bg7
+{ [%clk 0:09:56.9] } 5. Nbd2 { [%clk 0:09:52.6] } 5... Bg4 { [%clk 0:09:56.1] }
+6. Be2 { [%clk 0:09:51.3] } 6... O-O { [%clk 0:09:53.7] } 7. h3
+{ [%clk 0:09:50] } 7... Bxf3 { [%clk 0:09:42.8] } 8. Bxf3 { [%clk 0:09:48.4] }
+8... e6 { [%clk 0:09:42.3] } 9. c5 { [%clk 0:09:44.4] } 9... b6
+{ [%clk 0:09:25.7] } 10. b4 { [%clk 0:09:42.2] } 10... Nbd7
+{ [%clk 0:09:16.4] } 11. c6 { [%clk 0:09:37.6] } 11... Nb8 { [%clk 0:09:14.8] }
+12. b5 { [%clk 0:09:36.2] } 12... a6 { [%clk 0:09:14.5] } 13. Qb3
+{ [%clk 0:09:26.9] } 13... a5 { [%clk 0:09:12.8] } 14. a4 { [%clk 0:09:24.8] }
+1-0
+

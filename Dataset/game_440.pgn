@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Frostwrath"]
+[Black "Jugadordebil"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ex9VDSeZ"]
+[WhiteElo "2500"]
+[BlackElo "2405"]
+[ECO "C41"]
+[Opening "Philidor Defense: Hanham Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "02:42:10"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 f6 5. dxe5 dxe5 6. Qd5 Qe7 7. Bb3 g6 8. Nc3
+c6 9. Qd1 Bh6 10. Bxh6 Nxh6 11. Qd2 Nf7 12. h4 h5 13. O-O-O Nc5 14. Bc4 Be6 15.
+Bxe6 Nxe6 16. Rdg1 Rd8 17. Qe3 Qc5 18. Qxc5 Nxc5 19. g4 hxg4 20. Rxg4 Rh6 21.
+Rhg1 Nh8 22. Nd2 Ne6 23. Nc4 b6 24. a4 Nf4 25. Rd1 Rxd1+ 26. Kxd1 Kd7 27. a5 b5
+28. Ne3 Nf7 29. Ne2 Nxe2 30. Kxe2 Nd6 31. f4 Ke6 32. fxe5 Kxe5 33. Kf3 Nf7 34.
+Rf4 Ke6 35. Ng4 Ne5+ 36. Nxe5 Kxe5 37. Rg4 c5 38. Ke3 c4 39. b3 cxb3 40. cxb3
+a6 41. b4 f5 42. Rf4 Rh8 43. exf5 gxf5 44. Rd4 Rc8 45. Rd7 Rc3+ 46. Kf2 Rc4 47.
+h5 Rxb4 48. Kg3 Rg4+ 49. Kh3 Rg1 50. Kh2 Rg4 51. Kh3 Rg1 52. Kh2 Rg4 53. h6
+Rh4+ 54. Kg3 Rxh6 55. Rb7 Rg6+ 56. Kf3 Rh6 57. Re7+ Kd5 58. Rb7 Kc5 59. Rb8 b4
+60. Kf4 Rh4+ 61. Kxf5 Rc4 62. Ke5 1-0
+

@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "zlatana75"]
+[Black "Hoon_Bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/7huInBAZ"]
+[BlackTitle "BOT"]
+[WhiteElo "3023"]
+[BlackElo "2871"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:13:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 g6 5. Ng5 d5 6. exd5 Na5 7. Qe2 Nxc4 8.
+dxc4 Qe7 9. Nc3 Bg7 10. Be3 h6 11. Nf3 Bg4 12. Qd2 Nd7 13. O-O-O Qb4 14. b3 f5
+15. h3 Bxf3 16. gxf3 Kf7 17. f4 a6 18. d6 c6 19. h4 e4 20. Nb1 Qxd2+ 21. Nxd2
+g5 22. fxg5 hxg5 23. Bxg5 Bf6 24. Bxf6 Kxf6 25. Rde1 Rae8 26. b4 b6 27. h5 Rh7
+28. a4 c5 29. a5 bxa5 30. bxc5 Nxc5 31. Nb3 Nd7 32. Nxa5 Rc8 33. Rd1 Rc5 34.
+Rd5 Rxd5 35. cxd5 Ke5 36. c4 f4 37. Kd2 Nc5 38. h6 Kxd6 39. Kc3 e3 40. f3 Ke5
+41. Rh5+ Kd6 42. Nc6 Kc7 43. Rh1 Kb6 44. Ne5 a5 45. d6 Ne6 46. Rb1+ Kc5 47. d7
+Rxh6 48. Rb5+ Kd6 49. Nf7+ Kxd7 50. Nxh6 a4 51. Nf5 Ng5 52. Nd4 Nh3 53. Ra5 Nf2
+54. Rxa4 Nd1+ 55. Kc2 e2 56. Nxe2 Ne3+ 57. Kd3 Ng2 58. Nd4 1-0
+

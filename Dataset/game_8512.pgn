@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ekfj4cxjx8vkco0acjx2"]
+[Black "littleplotkin"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ikaAFopG"]
+[BlackTitle "IM"]
+[WhiteElo "2790"]
+[BlackElo "2730"]
+[ECO "B06"]
+[Opening "Modern Defense: Pseudo-Austrian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "03:22:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Bd3 O-O 6. e5 dxe5 7. dxe5 Nd5 8.
+Nxd5 Qxd5 9. Nf3 Nc6 10. h3 f6 11. Qe2 Be6 12. O-O fxe5 13. Ng5 Nd4 14. Qe4
+Qxe4 15. Bxe4 Bc4 16. Rf2 exf4 17. c3 Ne2+ 18. Rxe2 Bxe2 19. Bxb7 Rad8 20. Ne6
+Rd1+ 21. Kf2 Bc4 22. Nxf8 Rf1# 0-1
+

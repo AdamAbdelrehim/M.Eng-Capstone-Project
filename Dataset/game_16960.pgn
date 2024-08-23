@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "zilbermanov"]
+[Black "joddle"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/j0us4rCw"]
+[WhiteElo "2506"]
+[BlackElo "2581"]
+[ECO "E60"]
+[Opening "King's Indian Defense: Normal Variation, King's Knight Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:36:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. h3 e5 7. d5 a5 8. Be3 Nh5
+9. Nd2 Na6 10. g3 Qe8 11. Be2 Nf6 12. a3 Bd7 13. b3 b6 14. Rb1 h6 15. b4 axb4
+16. axb4 Nh7 17. g4 f5 18. gxf5 gxf5 19. exf5 Bxf5 20. Nde4 Qg6 21. Bd3 Qg2 22.
+Kd2 Ng5 23. Nxg5 Bxd3 24. Kxd3 hxg5 25. Qg4 Rxf2 26. Ne4 Nxb4+ 27. Rxb4 Ra3+
+28. Nc3 e4+ 0-1
+

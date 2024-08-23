@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Premier09"]
+[Black "ApexTheBest06"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/UMyJmcD2"]
+[WhiteElo "2548"]
+[BlackElo "2505"]
+[ECO "A02"]
+[Opening "Bird Opening: From's Gambit, Lasker Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:03:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. h3 Bg3# 0-1
+

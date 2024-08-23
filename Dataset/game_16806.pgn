@@ -1,0 +1,59 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Hoon_Bot"]
+[Black "odonata-bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/PZHSlY5V"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2895"]
+[BlackElo "2639"]
+[ECO "A46"]
+[Opening "Indian Defense: London System"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "03:48:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. Nf3 Nf6 2. d4 e6 3. Bf4 c5 4. c3 d5 5. e3 Nc6 6. Nbd2 Bd6 7. Bg3 O-O 8. Bb5
+Bxg3 9. hxg3 cxd4 10. exd4 Qb6 11. a4 a6 12. Bxc6 bxc6 13. Qb3 Qxb3 14. Nxb3
+Rb8 15. Ra3 Nd7 16. Kd2 f6 17. Re1 Re8 18. Kc1 Kf7 19. Nfd2 e5 20. Nf1 h5 21.
+Ne3 exd4 22. cxd4 Nb6 23. Nc5 Nc4 24. Rb3 Rxb3 25. Nxb3 Nd6 26. Nc5 Nf5 27.
+Nxf5 Rxe1+ 28. Kd2 Rf1 29. Ke2 Rb1 30. Nd6+ Kf8 31. Nxc8 Rxb2+ 32. Kf3 Ra2 33.
+g4 hxg4+ 34. Kg3 Rd2 35. Na7 Ke7 36. a5 Kd6 37. Nc8+ Kc7 38. Nb6 Ra2 39. Nxa6+
+Kd6 40. Nc5 Kc7 41. Nba4 Kb8 42. Nd7+ Kc8 43. Nac5 Rxa5 44. Nb6+ Kc7 45. Nba4
+g6 46. Kxg4 Ra8 47. Kf3 Kd6 48. Nb2 Kc7 49. Nbd3 Kd6 50. Nb4 Ra3+ 51. Ke2 Ra1
+52. Nb7+ Kd7 53. Nc2 Ra2 54. Nc5+ Ke7 55. Kd2 Rb2 56. Na6 Rb1 57. Nc5 Kd6 58.
+Kc3 Ke7 59. Ne3 Re1 60. Kd3 Rg1 61. Kc2 Kd6 62. Nd3 Kd7 63. Nc1 Kd6 64. Nd3 Ke7
+65. Nf4 Kf7 66. Kd2 Rb1 67. Nd3 Ke7 68. Nc2 Rg1 69. Nce1 Kd6 70. Nf4 g5 71.
+Nfd3 Rf1 72. Ke2 Rh1 73. Kf3 Ke7 74. g3 Rg1 75. Ke2 Kd6 76. Kd2 Kd7 77. Nc2 Rb1
+78. Nc5+ Kd6 79. Ne3 Ke7 80. Nf5+ Kf7 81. Nd3 Rg1 82. Ne3 Ke6 83. Nc2 Kd6 84.
+Kc3 Rd1 85. Ne3 Ra1 86. Kd2 Ra2+ 87. Nc2 Kd7 88. Nc5+ Kd6 89. Nb7+ Ke7 90. Nc5
+Kd6 91. Nd3 Ra8 92. Ncb4 Ra1 93. Ke2 Ra3 94. Nc2 Ra2 95. Kd1 Kc7 96. Ncb4 Ra3
+97. Kd2 Kd7 98. Nc2 Ra2 99. Kc3 Kd6 100. Kb3 Ra8 101. Ne3 Kd7 102. Nc5+ Ke7
+103. Nf5+ Ke8 104. Kb2 Ra7 105. Ne6 Rh7 106. Nc5 Kd8 107. Kc2 Rh2 108. Nd3 Rg2
+109. Kd2 Rg1 110. Nc5 Ra1 111. Ne6+ Ke8 112. g4 Kd7 113. Nc5+ Kc7 114. Nh6 Kd6
+115. Nf5+ Kc7 116. Ng3 Ra8 117. Nd3 Ra2+ 118. Ke3 Kd7 119. Nc1 Ra3+ 120. Nd3
+Ra2 121. Nc5+ Ke7 122. Kf3 Ra3+ 123. Ke2 Ra2+ 124. Kf3 Kf7 125. Ke3 Ra3+ 126.
+Nd3 Ke7 127. Ke2 Ra2+ 128. Kf3 Ra1 129. Nc5 Ra2 130. Nf5+ Kf7 131. Nd7 Ke6 132.
+Nb8 Ra3+ 133. Ke2 Ra2+ 134. Kf3 Ra3+ 135. Kg2 Rc3 136. Na6 Kd7 137. Nc5+ Ke8
+138. f3 Kf7 139. Kf2 Ra3 140. Ke2 Ra2+ 141. Kf1 Ra3 142. Kf2 Ra2+ 143. Ke1 Ra3
+144. Kf2 Ra2+ 145. Ke1 Ra3 146. Ke2 Ra2+ 147. Ke3 Ra3+ 148. Nd3 Ke8 149. Kd2
+Ra2+ 150. Ke3 Ra3 151. Ng3 Kf7 152. Ke2 Ra2+ 153. Ke3 Ra3 154. Kd2 Ra2+ 155.
+Kd1 Ra1+ 156. Nc1 Ke7 157. Kd2 Ra3 158. Nd3 Ra2+ 159. Ke3 Ra3 160. Kd2 Ra2+
+161. Ke3 Ra3 162. Ke2 Ra2+ 163. Ke1 Ra1+ 164. Ke2 Ra2+ 165. Ke1 Ra1+ 166. Kf2
+Ra2+ 167. Ne2 Ra3 168. Nec1 Kd6 169. Nc5 Ke7 170. f4 Kd6 171. fxg5 fxg5 172.
+N1d3 Ra2+ 173. Kf3 Ra3 174. Kg3 Ke7 175. Kf2 Ra2+ 176. Kf1 Ra1+ 177. Ne1 Ra3
+178. Kf2 Ra7 179. Nf3 Ra2+ 180. Ke3 Rg2 181. Ne5 Rg3+ 182. Ke2 Rg2+ 183. Kf3
+Rd2 184. Ke3 Rc2 185. Kd3 Rc1 186. Kd2 Rg1 187. Nxc6+ Kf6 188. Ne5 Rg2+ 189.
+Ke3 Ra2 190. Ncd3 Rg2 191. Nf2 Rg3+ 192. Ke2 Rg1 193. Kf3 Ra1 194. Kg2 Ra8 195.
+Kg3 Ra7 196. Nh3 Ra8 197. Nf3 Rg8 198. Nhxg5 Rh8 199. Nh3 Ra8 200. Nf4 Ra5 201.
+Nh5+ Kg6 202. Kf4 Ra1 203. Ne5+ Kh6 204. Nf6 Ra4 205. Nf3 Ra5 206. g5+ Kg7 207.
+Kf5 Rb5 208. Ne5 Rb1 209. Nxd5 Rd1 210. Nf4 Kf8 211. g6 Rg1 212. Ne6+ Kg8 213.
+Ng4 Kh8 214. d5 Rf1+ 215. Kg5 Rg1 216. d6 Rf1 217. d7 Rd1 218. g7+ Kg8 219.
+Nh6+ Kh7 220. g8=Q# 1-0
+

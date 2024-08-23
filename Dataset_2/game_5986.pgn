@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.08.22"]
+[Round "-"]
+[White "Gius-repe"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r2qkbnr/1b1p1Qpp/p1n5/1p1pP1N1/3P4/2N5/PPP2PPP/R1B2RK1 b kq -"]
+[Timezone "UTC"]
+[ECO "B21"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Smith-Morra-Gambit"]
+[UTCDate "2022.08.22"]
+[UTCTime "16:47:16"]
+[WhiteElo "1869"]
+[BlackElo "1814"]
+[TimeControl "600"]
+[Termination "Gius-repe won by checkmate"]
+[StartTime "16:47:16"]
+[EndDate "2022.08.22"]
+[EndTime "16:48:13"]
+[Link "https://www.chess.com/game/live/54925662995"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:09:59.8] } 2. d4 { [%clk 0:09:59] }
+2... c4 { [%clk 0:09:58.1] } 3. Nf3 { [%clk 0:09:58.5] } 3... Nc6
+{ [%clk 0:09:55.7] } 4. Bxc4 { [%clk 0:09:56.6] } 4... Nf6 { [%clk 0:09:52.7] }
+5. e5 { [%clk 0:09:53.5] } 5... Ng8 { [%clk 0:09:49.2] } 6. O-O
+{ [%clk 0:09:52] } 6... a6 { [%clk 0:09:46.5] } 7. Nc3 { [%clk 0:09:50.8] }
+7... b5 { [%clk 0:09:45.9] } 8. Bd5 { [%clk 0:09:50] } 8... Bb7
+{ [%clk 0:09:45] } 9. Ng5 { [%clk 0:09:44.5] } 9... e6 { [%clk 0:09:43.6] } 10.
+Qf3 { [%clk 0:09:37.3] } 10... exd5 { [%clk 0:09:34.2] } 11. Qxf7#
+{ [%clk 0:09:34.1] } 1-0
+

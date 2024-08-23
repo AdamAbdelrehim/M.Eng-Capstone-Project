@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "zari_huella"]
+[Black "Blauregen"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/csWsu2U1"]
+[WhiteElo "2558"]
+[BlackElo "2439"]
+[ECO "D45"]
+[Opening "Semi-Slav Defense: Main Line"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:00:05"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 e6 5. e3 g6 6. Qc2 Bg7 7. b3 O-O 8. Bb2 a5
+9. a3 Nbd7 10. Bd3 b6 11. O-O Bb7 12. e4 c5 13. e5 Ne8 14. cxd5 exd5 15. Nb5
+cxd4 16. Bxd4 Rc8 17. Qe2 Nc5 18. Bc2 Ba6 19. Bb2 Nc7 20. a4 Nxb5 21. axb5 Bb7
+22. Nd4 Re8 23. f4 Ne4 24. Rac1 Qd7 25. Bd3 Nc5 26. Bb1 f6 27. Nf3 Nxb3 28.
+Rxc8 Qxc8 29. Ba2 Nc5 30. Qd2 fxe5 31. Bxd5+ Bxd5 32. Qxd5+ Qe6 33. Qxe6+ Rxe6
+34. fxe5 Nd3 35. Bc3 h6 36. Rd1 Nc5 37. Rd8+ Kh7 38. Rc8 g5 39. h3 Kg6 40. Bxa5
+Nd7 41. Rc6 Kf7 42. Bc3 Ke7 43. Rc7 Kd8 44. Rb7 Bxe5 45. Rxd7+ Kxd7 46. Nxe5+
+Kc7 47. Kf2 Kd6 48. Nf3 Kc5 49. g4 Re4 50. Bg7 Kxb5 51. Bxh6 Kc6 52. Bxg5 b5
+53. Bf6 b4 54. g5 b3 55. g6 Re8 56. g7 1-0
+

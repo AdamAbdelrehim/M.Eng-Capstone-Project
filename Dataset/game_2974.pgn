@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Mr_yellow"]
+[Black "destroylevel"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/OmY4QQhs"]
+[WhiteElo "2536"]
+[BlackElo "2488"]
+[ECO "D01"]
+[Opening "Richter-Veresov Attack: Boyce Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:43:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bg5 Ne4 4. Nxe4 dxe4 5. e3 h6 6. Bf4 g5 7. Bg3 Bg7 8. h4
+c5 9. c3 Nc6 10. hxg5 hxg5 11. Rxh8+ Bxh8 12. Bb5 cxd4 13. exd4 Qb6 14. Qb3 Bd7
+15. O-O-O O-O-O 16. Bc4 Qxb3 17. Bxb3 f5 18. f4 exf3 19. Bf4 gxf4 20. Nxf3 e5
+21. d5 Na5 22. Bc2 e4 23. Ng5 Nc4 24. Nf7 Rf8 25. Nd6+ Nxd6 0-1
+

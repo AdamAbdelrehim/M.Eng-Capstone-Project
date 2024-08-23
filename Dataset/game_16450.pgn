@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "tigra522"]
+[Black "freshview"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/aCL0z0oo"]
+[WhiteElo "2501"]
+[BlackElo "2331"]
+[ECO "E22"]
+[Opening "Nimzo-Indian Defense: Spielmann Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "01:50:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. Nf3 Nc6 6. d5 Na5 7. Qc2 Nxc4 8. e4
+exd5 9. Bxc4 dxc4 10. Bg5 d6 11. O-O-O Bxc3 12. Qxc3 O-O 13. e5 Ne4 14. Bxd8
+Nxc3 15. Rxd6 Nxa2+ 16. Kc2 Bf5+ 0-1
+

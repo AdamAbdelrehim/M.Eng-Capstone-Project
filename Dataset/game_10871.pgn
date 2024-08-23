@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "M-DeVerdier"]
+[Black "Chessibague"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/VtDxVuoK"]
+[WhiteTitle "FM"]
+[BlackTitle "IM"]
+[WhiteElo "2589"]
+[BlackElo "2557"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Modern Variations"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:43:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nf3 d6 3. Bc4 Nf6 4. d3 e6 5. O-O Be7 6. Nbd2 O-O 7. c3 e5 8. h3 a6
+9. Bb3 b5 10. Re1 Bb7 11. d4 Nbd7 12. Bc2 Rc8 13. a4 Qc7 14. Bd3 c4 15. Bf1
+Rfe8 16. axb5 axb5 17. Qc2 Bf8 18. g3 Qb6 19. Bg2 exd4 20. cxd4 b4 21. Nxc4 Qc7
+22. Nfd2 d5 0-1
+

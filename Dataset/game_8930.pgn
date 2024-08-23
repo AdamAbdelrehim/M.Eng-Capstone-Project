@@ -1,0 +1,32 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Lynx_BOT"]
+[Black "AKS-Mantissa"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/1EONzpgR"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2302"]
+[BlackElo "2548"]
+[ECO "C45"]
+[Opening "Scotch Game: Classical Variation, Intermezzo Variation"]
+[TimeControl "1200+8"]
+[UTCDate "2024.06.02"]
+[UTCTime "06:07:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Nxc6 Qf6 6. Qe2 bxc6 7. Nc3 Ne7
+8. h4 Bd4 9. Na4 h6 10. c3 Bb6 11. Qf3 Qe6 12. Bd3 d6 13. h5 Bd7 14. Nxb6 axb6
+15. O-O O-O 16. b3 c5 17. Bc4 Qg4 18. Be2 Qxf3 19. Bxf3 Nc6 20. Bf4 Ra3 21. Bc1
+Ra7 22. Rd1 Be6 23. Bf4 c4 24. b4 Ra3 25. Rdc1 Ne5 26. Bxe5 dxe5 27. Rc2 Rd8
+28. Be2 Kf8 29. g4 Ke7 30. f3 Kf6 31. Kf2 Rda8 32. Ke3 Kg5 33. Bf1 R8a7 34. Kf2
+Kf4 35. Be2 R7a6 36. Ke1 Ke3 37. Kf1 b5 38. Kg2 Rd6 39. Rb1 Rd2 40. Rbb2 Rxc2
+41. Rxc2 Rxc3 42. Rxc3+ Kxe2 43. Rc2+ Kd3 44. Rf2 c3 45. Rf1 c2 46. Kg3 Kd2 47.
+Rf2+ Kc3 48. Rf1 Kb2 49. Rg1 c1=Q 50. Rxc1 Kxc1 51. Kh4 Bxa2 52. Kg3 Kd2 53. f4
+Kc3 54. g5 Kxb4 55. Kf3 Kc3 56. fxe5 Be6 57. g6 fxg6 58. hxg6 b4 59. Kg3 b3 60.
+Kh4 Kd3 61. Kg3 b2 62. Kg2 b1=Q 63. Kh2 Qc2+ 64. Kg1 Bh3 65. e6 Qg2# 0-1
+

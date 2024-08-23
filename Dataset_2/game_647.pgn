@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.07"]
+[Round "-"]
+[White "mahdi_sh_52"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1bq1rk1/ppp2pQp/2n4B/2bpp3/2B1P3/3P4/PPP2PPP/RN2K1NR b KQ -"]
+[Timezone "UTC"]
+[ECO "C20"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Wayward-Queen-Attack-2...Nc6-3.Bc4-Nh6-4.d3"]
+[UTCDate "2021.03.07"]
+[UTCTime "06:06:24"]
+[WhiteElo "869"]
+[BlackElo "855"]
+[TimeControl "60"]
+[Termination "mahdi_sh_52 won by checkmate"]
+[StartTime "06:06:24"]
+[EndDate "2021.03.07"]
+[EndTime "06:06:49"]
+[Link "https://www.chess.com/game/live/8835978935"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:00:59.7] } 2. Qh5
+{ [%clk 0:00:59.3] } 2... Nc6 { [%clk 0:00:59.5] } 3. Bc4 { [%clk 0:00:58.4] }
+3... Nh6 { [%clk 0:00:57.3] } 4. d3 { [%clk 0:00:56.4] } 4... Bc5
+{ [%clk 0:00:55.5] } 5. Bxh6 { [%clk 0:00:54.9] } 5... O-O { [%clk 0:00:52.3] }
+6. Qg4 { [%clk 0:00:49.3] } 6... d5 { [%clk 0:00:50.6] } 7. Qxg7#
+{ [%clk 0:00:48.3] } 1-0
+

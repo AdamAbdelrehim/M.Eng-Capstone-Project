@@ -1,0 +1,27 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "RaspFish"]
+[Black "InanisBot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/SbPDC71R"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3022"]
+[BlackElo "2467"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:49:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. b3 e5 2. c4 Nf6 3. Bb2 Nc6 4. e3 Bc5 5. Qc2 O-O 6. a3 d6 7. Nc3 h6 8. Bd3
+Bb6 9. Nge2 a5 10. O-O Be6 11. f4 Rc8 12. Ng3 exf4 13. Rxf4 Ne5 14. Raf1 Nfg4
+15. h3 Nxe3 16. dxe3 Bxe3+ 17. Kh2 Bxf4 18. Rxf4 Qg5 19. Bh7+ Kh8 20. Bc1 c6
+21. Nce4 Qe7 22. Nf6 gxf6 23. Rh4 h5 24. Rxh5 Rfd8 25. Qe4 Kg7 26. Bh6+ Kh8 27.
+Qf4 Rg8 28. Bg7+ Rxg7 29. Qh6 Nf3+ 30. gxf3 Qd7 31. Bb1+ Kg8 32. Qh8# 1-0
+

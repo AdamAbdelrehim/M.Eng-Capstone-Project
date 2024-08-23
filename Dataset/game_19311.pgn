@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "vrencianLehel"]
+[Black "HelloLarisa"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/VJqpSaWQ"]
+[WhiteTitle "FM"]
+[WhiteElo "2490"]
+[BlackElo "2551"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:59:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. c4 g6 7. N1c3 a6 8. Na3
+Bg7 9. Nc2 Nf6 10. Be2 O-O 11. O-O Be6 12. b3 Rc8 13. Bb2 h5 14. Rc1 Bh6 15.
+Ra1 Qc7 16. Qd3 Rfd8 17. Rfd1 Bf8 18. h3 Nd7 19. Qg3 Bg7 20. Rac1 Nc5 21. b4
+Nd7 22. a3 Qb8 23. Bf1 Nb6 24. Ne3 Nd4 25. Ncd5 Nxd5 26. Nxd5 Bxd5 27. exd5 b5
+28. Bxd4 exd4 29. cxb5 axb5 30. Rc6 Be5 31. Qd3 Rxc6 32. dxc6 Qa8 33. Rc1 Rb8
+34. c7 Rc8 35. Qxb5 Qxa3 36. Qb7 Qxc1 37. Qxc8+ Kg7 38. Qd8 1-0
+

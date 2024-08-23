@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Weiawaga"]
+[Black "Lynx_BOT"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/PxhIUmSn"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2650"]
+[BlackElo "2512"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack"]
+[TimeControl "420+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:59:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 Be7 4. Nc3 d5 5. Bf4 c5 6. dxc5 Qa5 7. e3 Nc6 8. Bd6
+Ne4 9. Rc1 Nxc3 10. Rxc3 Bf6 11. Nd4 Nxd4 12. exd4 Qxa2 13. cxd5 Qxd5 14. Bb5+
+Bd7 15. Bxd7+ Kxd7 16. O-O Rad8 17. Qa4+ Qc6 18. Qa5 a6 19. Rd1 Qd5 20. b4 Qc6
+21. Rb3 Ra8 22. d5 exd5 23. Rbd3 d4 24. Qa2 Kc8 25. Qxf7 Re8 26. h3 Qd7 27. Qh5
+h6 28. R3d2 Qe6 29. Qf3 Qe4 30. Qb3 Qe6 31. Qa4 Qd7 32. Qa2 Qe6 33. Qa5 Qd7 34.
+b5 Qd8 35. Qa3 Re6 36. Qb3 Qe8 37. c6 b6 38. Qa3 a5 39. h4 Re4 40. Rxd4 Bxd4
+41. Rxd4 Re1+ 42. Kh2 Ra7 43. Bg3 Re6 44. Qf3 Rf7 45. Rf4 Rff6 46. Rxf6 Rxf6
+47. Qg4+ Re6 48. Qf4 Re5 49. Qd4 Qe7 50. Bxe5 a4 51. Bf4 g5 52. Qh8+ Qd8 53.
+Qh7 Qe7 54. Qg8+ Qd8 55. Qe6+ Qd7 56. Qxd7# 1-0
+

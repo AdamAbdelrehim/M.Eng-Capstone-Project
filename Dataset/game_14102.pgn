@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "alfredogto"]
+[Black "gefuehlter_FM"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/HZdo4hny"]
+[WhiteElo "2635"]
+[BlackElo "2712"]
+[ECO "A46"]
+[Opening "Indian Defense: London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:55:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 c5 4. e3 b6 5. c3 cxd4 6. exd4 Be7 7. h3 O-O 8. Nbd2
+d6 9. Bh2 Ba6 10. Bxa6 Nxa6 11. Qe2 Nc7 12. O-O b5 13. a3 a6 14. Rfe1 Ncd5 15.
+Ne4 Qd7 16. Nfd2 Qc6 17. Bg3 Rfc8 18. Nxf6+ Nxf6 19. Bh4 Rab8 20. Nf3 a5 21.
+Ng5 Qd5 22. Ne4 Qxe4 23. Qxe4 Nxe4 24. Bxe7 d5 25. f3 Nd2 26. Rad1 Nb3 27. f4
+Rb7 28. Bd6 Rc6 29. Bc5 Nxc5 30. dxc5 Rxc5 31. f5 Rb6 32. Re5 a4 33. Rde1 Rcc6
+34. R1e3 Kf8 35. Rf3 Ke7 36. fxe6 fxe6 37. h4 Rc4 38. h5 Rg4 39. Rfe3 Kf6 40.
+Re2 Rg5 41. R5e3 Rxh5 42. g4 Rg5 43. Rf3+ Kg6 44. Rg3 Rc6 45. Kf2 Kf6 46. Kf3
+Rc4 47. Rh2 h6 48. Rf2 Ke7 49. Re2 Kd6 50. Rd2 e5 51. Re2 Rf4+ 52. Ke3 Rfxg4
+53. Rf3 Rg3 54. Rd2 e4 55. Rxg3 Rxg3+ 56. Kf4 Rf3+ 57. Kg4 g6 58. Kh4 Ke5 59.
+Kg4 h5+ 60. Kh4 e3 61. Re2 Ke4 62. b4 Rf2 63. Re1 e2 64. c4 dxc4 65. Kg3 Ke3
+66. Rc1 Rf1 67. Rc3+ Kd2 0-1
+

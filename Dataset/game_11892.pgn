@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Odirovski"]
+[Black "Tingbudong"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/tlIvgp7E"]
+[WhiteTitle "IM"]
+[WhiteElo "2604"]
+[BlackElo "2401"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:12:38"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+
+1. Nf3 d5 2. d4 Nf6 3. Bf4 a6 4. e3 e6 5. a4 c5 6. c3 Bd6 7. Bg3 O-O 8. Nbd2
+Qc7 9. Ne5 c4 10. b3 cxb3 11. Qxb3 Nbd7 12. f4 b6 13. Bd3 Bb7 14. O-O Rac8 15.
+Rfc1 Ne4 16. Bxe4 dxe4 17. Nxd7 Qxd7 18. Qxb6 Bd5 19. Qxa6 Ra8 20. Qe2 Rxa4 21.
+c4 Rxa1 22. Rxa1 Bc6 23. c5 Be7 24. Nc4 Bf6 25. Nd6 Rb8 26. h3 g6 27. Qa6 Rb2
+28. Qa7 Qxa7 29. Rxa7 Bxd4 30. exd4 e3 31. Bh4 Rxg2+ 32. Kf1 h6 33. Rc7 Bd5 34.
+Bf6 g5 35. Nxf7 Rf2+ 36. Ke1 Kf8 37. Nxh6 Ke8 38. fxg5 Bc4 39. Re7+ Kf8 40.
+Rf7+ Ke8 41. Re7+ Kf8 42. Rf7+ Ke8 43. Be5 Re2+ 44. Kd1 Rd2+ 45. Kc1 Bb3 46.
+Rf1 Rd1+ 47. Rxd1 Bxd1 48. Kxd1 e2+ 49. Kxe2 Kd7 50. Ke3 Kc6 51. Kf4 Kd5 52. g6
+Kc6 53. g7 Kd7 54. g8=Q Kc6 0-1
+

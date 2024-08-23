@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "zugzwang-chess"]
+[Black "DrLaPompa"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/cVDxMkQR"]
+[WhiteElo "2619"]
+[BlackElo "2488"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:31:17"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-10"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bc4 Be7 7. O-O O-O 8.
+Nxc6 bxc6 9. Re1 Re8 10. Bf4 Ng4 11. h3 Ne5 12. Bxe5 dxe5 13. Qh5 g6 14. Qxe5
+Bd6 15. Qa5 Re5 16. Qa4 Rb8 17. Qxa7 Rxb2 18. Bb3 Be6 19. Na4 Bxb3 20. Nxb2 Be6
+21. Nd3 Rh5 22. e5 Bf8 23. Nf4 Rh4 24. Rad1 Qg5 25. Nxe6 fxe6 26. Re3 1-0
+

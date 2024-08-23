@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "very_slow"]
+[Black "BenduEducation"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/encVzrpZ"]
+[WhiteElo "2490"]
+[BlackElo "2552"]
+[ECO "A57"]
+[Opening "Benko Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:54:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. Nc3 b4 5. Nb1 g6 6. b3 Bg7 7. Bb2 O-O 8. a4 e6
+9. g3 exd5 10. cxd5 Re8 11. Bg2 Bb7 12. Nh3 Nxd5 13. Bxg7 Ne3 14. Bxb7 Nxd1 15.
+Bxa8 Kxg7 16. Kxd1 Qf6 17. Ra2 d5 18. Nf4 Qd4+ 19. Nd2 c4 20. e3 Qc5 21. Bxd5
+c3 22. Nc4 g5 23. e4 gxf4 24. gxf4 Qd4+ 25. Kc1 f5 26. Rd1 Qc5 27. f3 Nd7 28.
+Rg2+ Kh8 29. Rdg1 Nf6 30. Ne5 Qf8 31. Nf7+ 1-0
+

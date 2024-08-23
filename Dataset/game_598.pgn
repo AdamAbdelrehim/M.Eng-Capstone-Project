@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "PickledKnights"]
+[Black "shaginyan_a"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/iA4ZaTLj"]
+[WhiteElo "2392"]
+[BlackElo "2524"]
+[ECO "C48"]
+[Opening "Four Knights Game: Spanish Variation, Rubinstein Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "03:39:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Bb5 Nd4 5. Bc4 Bc5 6. d3 d6 7. h3 O-O 8. Nxd4
+Bxd4 9. Ne2 Bb6 10. O-O h6 11. Be3 d5 12. exd5 Nxd5 13. Bxb6 axb6 14. Qd2 Be6
+15. a3 Qh4 16. Rfe1 Rad8 17. Bxd5 Bxd5 18. Qe3 Rfe8 19. Ng3 g6 20. Ne4 Kg7 21.
+Qg3 Qh5 22. Nc3 Bc6 23. Qg4 Qxg4 24. hxg4 Rxd3 25. cxd3 1-0
+

@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "pepek_mu_baukk"]
+[Black "prof28"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ZV0HXE4O"]
+[WhiteElo "2454"]
+[BlackElo "2506"]
+[ECO "C78"]
+[Opening "Ruy Lopez: Morphy Defense, Arkhangelsk Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:19:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "-18"]
+[BlackRatingDiff "+5"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Bb7 7. d3 Bc5 8. Nc3
+d6 9. a4 b4 10. Nd5 Nxd5 11. Bxd5 Qd7 12. Be3 Bxe3 13. fxe3 O-O 14. a5 Nd8 15.
+Bc4 Ne6 16. h3 c5 17. c3 Rab8 18. Qe1 bxc3 19. bxc3 Kh8 20. Qh4 f6 21. Qf4 exf4
+22. Rfe1 fxe3 23. Bxe6 Qxe6 24. Rxe3 d5 25. e5 d4 26. cxd4 cxd4 27. Nxd4 Qd5
+28. Nf3 fxe5 29. Rae1 Rbe8 30. R1e2 Qxa5 31. h4 Bxf3 32. Rxf3 Rxf3 33. gxf3 Qc3
+34. Rf2 Qxd3 35. Kh2 h6 36. Kg2 Kh7 37. h5 e4 38. Rf1 e3 39. Rg1 Qe2+ 40. Kh3
+Qxf3+ 41. Rg3 Qxh5+ 42. Kg2 e2 43. Rh3 Qxh3+ 44. Kxh3 e1=Q 45. Kg2 Re3 46. Kh2
+Qg3+ 47. Kh1 Re1# 0-1
+

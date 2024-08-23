@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "MackWin"]
+[Black "Meistermacher64"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/GHEr19ux"]
+[WhiteElo "2474"]
+[BlackElo "2513"]
+[ECO "E15"]
+[Opening "Queen's Indian Defense: Fianchetto Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:49:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 a6 5. Bg2 Bb7 6. O-O Be7 7. d5 exd5 8. Nh4
+c6 9. Nf5 O-O 10. Bf4 dxc4 11. Nxe7+ Qxe7 12. Bd6 Qe6 13. Bxf8 Kxf8 14. Nc3 d5
+15. e4 dxe4 16. Qd8+ Qe8 17. Qxb6 Qc8 18. Nxe4 Nbd7 19. Qb4+ c5 20. Qxc4 Bd5
+21. Qc2 Qc6 22. Nxf6 Bxg2 23. Nxd7+ Ke7 24. Ne5 Qd5 25. Rfe1 Bh3 26. f3 Kf8 27.
+Qxh7 Qd4+ 28. Kh1 Qf2 29. Qxh3 Qxf3+ 30. Nxf3 Rd8 31. Qh8# 1-0
+

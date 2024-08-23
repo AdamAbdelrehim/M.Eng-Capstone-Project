@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "NeverEnoughPawns"]
+[Black "CoolGuy64Chess"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/c0ZAmVnV"]
+[WhiteElo "2542"]
+[BlackElo "2509"]
+[ECO "E61"]
+[Opening "King's Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:28:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. Nf3 O-O 5. Bg5 h6 6. Bh4 d6 7. e3 c5 8. d5 b5
+9. cxb5 a6 10. a4 Bb7 11. e4 Qa5 12. Nd2 Qb4 13. Qc2 e6 14. dxe6 fxe6 15. Be2
+axb5 16. Bxb5 Nc6 17. Bxc6 Bxc6 18. O-O d5 19. Bxf6 Rxf6 20. exd5 exd5 21. Rae1
+Rb8 22. Qd3 c4 23. Qg3 Kh7 24. Rb1 Rbf8 25. Nf3 Rxf3 26. gxf3 Rf5 27. Rfe1 Rg5
+28. Re6 Bd7 29. Ree1 d4 30. Ne4 Rxg3+ 31. hxg3 Bf5 32. g4 Bxe4 33. Rxe4 d3 34.
+Rd1 Qb3 35. Rd2 Bxb2 36. a5 Bc3 37. Re7+ Kg8 38. Rxd3 cxd3 39. Rd7 d2 40. a6
+d1=Q+ 41. Rxd1 Qxd1+ 42. Kg2 Qa1 43. a7 Qxa7 44. Kg3 Qb7 45. Kg2 Be5 46. g5 Bf4
+47. gxh6 Kh7 48. Kf1 Qxf3 49. Ke1 Qd3 50. f3 Qd2+ 51. Kf1 Bg3 52. Kg1 Qf2+ 53.
+Kh1 Qh2# 0-1
+

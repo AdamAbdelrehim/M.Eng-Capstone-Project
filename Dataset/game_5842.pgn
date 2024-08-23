@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Stockfish15_1567"]
+[Black "Shaginyan_A"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/aOpMfrA8"]
+[WhiteElo "2516"]
+[BlackElo "2524"]
+[ECO "A05"]
+[Opening "King's Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:58:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-6"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. O-O Be7 5. d3 O-O 6. Bf4 b6 7. e4 Bb7 8. e5
+Nfd7 9. d4 c5 10. c3 b5 11. h4 b4 12. Nbd2 bxc3 13. bxc3 Nc6 14. Re1 cxd4 15.
+cxd4 Qa5 16. Nf1 Rfc8 17. N1h2 Nb4 18. Bd2 Qa3 19. Re3 Qb2 20. Rb3 Qc2 21. Bxb4
+1-0
+

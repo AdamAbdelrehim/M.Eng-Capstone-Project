@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Grukjr"]
+[Black "Itachi_Ut"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Hr08z7pO"]
+[WhiteTitle "GM"]
+[BlackTitle "FM"]
+[WhiteElo "2658"]
+[BlackElo "2596"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:15:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. h4 e5 0-1
+

@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Rvlc"]
+[Black "Defendiendome"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/1kUIt107"]
+[WhiteElo "2419"]
+[BlackElo "2516"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:25:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. b3 d5 2. Bb2 Nc6 3. f4 Bg4 4. Nf3 Bxf3 5. exf3 a6 6. d4 e6 7. Bd3 Bb4+ 8. c3
+Bd6 9. g3 g6 10. Nd2 Nge7 11. Qe2 h5 12. O-O-O Qd7 13. Kb1 O-O-O 14. c4 dxc4
+15. Nxc4 Nd5 16. Be4 Bb4 17. Ne5 Nxe5 18. dxe5 Kb8 19. Rd3 c6 20. Rhd1 Qc7 21.
+a3 Bc5 22. Qd2 Rd7 23. h3 Rhd8 24. g4 hxg4 25. hxg4 a5 26. f5 gxf5 27. gxf5 Qb6
+28. Ka2 a4 29. b4 Bxb4 30. axb4 Nxb4+ 31. Ka1 Nxd3 32. Bxd3 Rxd3 33. Qxd3 Rxd3
+34. Rxd3 Qb5 35. Rd8+ Kc7 36. Rf8 Qf1+ 37. Ka2 Qc4+ 38. Ka1 exf5 39. f4 c5 40.
+Re8 b5 41. e6 fxe6 42. Be5+ Kc6 43. Rc8+ Kd5 44. Rd8+ Ke4 45. Rd6 b4 46. Kb2
+a3+ 47. Ka1 b3 48. Rd1 Qc2 49. Re1+ Kd3 0-1
+

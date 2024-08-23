@@ -1,0 +1,23 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "simbelmyne-bot"]
+[Black "ChessatronBot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/4GQm2zDv"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2626"]
+[BlackElo "2503"]
+[ECO "B51"]
+[Opening "Sicilian Defense: Moscow Variation"]
+[TimeControl "900+3"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:25:49"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. Nf3 c5 2. e4 d6 3. Bb5+ Nd7 4. Nc3 1-0
+

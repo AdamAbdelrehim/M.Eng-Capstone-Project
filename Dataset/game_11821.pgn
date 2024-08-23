@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "thewannabetomato"]
+[Black "zblabunda"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/qnQQ96bI"]
+[WhiteElo "2642"]
+[BlackElo "2544"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Marshall Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:04:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 d5 2. exd5 Nf6 3. d4 Nxd5 4. c4 Nb6 5. Nc3 e5 6. d5 c6 7. a3 Bc5 8. Nf3
+Bg4 9. h3 Bxf3 10. Qxf3 O-O 11. Bd3 g6 12. Bh6 Re8 13. Ne4 Be7 14. h4 f5 15. h5
+fxe4 16. Bxe4 cxd5 17. hxg6 hxg6 18. Bxg6 Rf8 19. Qg4 N8d7 20. Bh5+ 1-0
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "bob_2004"]
+[Black "toomanymanoevres"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/7DUCzLTY"]
+[WhiteTitle "FM"]
+[WhiteElo "2724"]
+[BlackElo "2922"]
+[ECO "A40"]
+[Opening "Kangaroo Defense: Keres Defense, Transpositional Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:59:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 e6 2. c4 Bb4+ 3. Nc3 c5 4. d5 d6 5. e4 Ne7 6. Bd3 Nd7 7. Ne2 Ne5 8. O-O
+O-O 9. Bg5 f6 10. Bh4 Bxc3 11. Nxc3 N7g6 12. Bg3 Nxd3 13. Qxd3 e5 14. h4 f5 15.
+h5 fxe4 16. Nxe4 Nf4 17. Bxf4 Rxf4 18. g3 Rf7 19. h6 gxh6 20. Kg2 Bf5 21. Rh1
+Qf8 22. Raf1 Bg6 23. Qe3 h5 24. Rh4 Qe7 25. Ng5 Rf6 26. Ne6 Re8 27. Rfh1 e4 28.
+Nf4 Ref8 29. b3 Qe5 30. Rf1 a6 31. Nxg6 hxg6 32. Rxe4 Qf5 33. Re7 R8f7 34. Rxf7
+Rxf7 35. Re1 Kh7 36. f4 b5 37. Re2 Kg7 38. Qe6 Qd3 39. Qe3 bxc4 40. Qxd3 cxd3
+41. Rd2 Re7 42. Kf2 Kf6 43. Rxd3 Kf5 44. Kf3 Re1 45. Rd2 Rf1+ 46. Kg2 Ra1 47.
+Kf3 a5 48. Re2 Rd1 49. Re8 Rd3+ 50. Kf2 Rxd5 51. Ra8 Rd2+ 52. Kf3 Rxa2 0-1
+

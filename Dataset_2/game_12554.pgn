@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.08.12"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "CJOEWARREN"]
+[Result "0-1"]
+[CurrentPosition "4rr2/pb1p1p1n/2p3pk/4P1Rp/7P/2N1P3/PPP1B3/2K3R1 w - -"]
+[Timezone "UTC"]
+[ECO "B32"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Open-Lowenthal-Variation-5.Nxc6-bxc6"]
+[UTCDate "2024.08.12"]
+[UTCTime "23:25:37"]
+[WhiteElo "1758"]
+[BlackElo "1775"]
+[TimeControl "600"]
+[Termination "CJOEWARREN won by resignation"]
+[StartTime "23:25:37"]
+[EndDate "2024.08.12"]
+[EndTime "23:31:17"]
+[Link "https://www.chess.com/game/live/117244192255"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:09:58.6] } 2. Nf3 { [%clk 0:09:58] }
+2... Nc6 { [%clk 0:09:56.6] } 3. d4 { [%clk 0:09:56.6] } 3... cxd4
+{ [%clk 0:09:55.1] } 4. Nxd4 { [%clk 0:09:56.5] } 4... e5 { [%clk 0:09:53.9] }
+5. Nxc6 { [%clk 0:09:54.6] } 5... bxc6 { [%clk 0:09:52.2] } 6. Nc3
+{ [%clk 0:09:54.5] } 6... Bc5 { [%clk 0:09:49.7] } 7. Be3 { [%clk 0:09:54.4] }
+7... Bxe3 { [%clk 0:09:46.4] } 8. fxe3 { [%clk 0:09:53.4] } 8... Qh4+
+{ [%clk 0:09:40.7] } 9. g3 { [%clk 0:09:49.7] } 9... Qg5 { [%clk 0:09:33.7] }
+10. Qf3 { [%clk 0:09:45.9] } 10... Nf6 { [%clk 0:09:20.5] } 11. Bc4
+{ [%clk 0:09:42.5] } 11... O-O { [%clk 0:09:17.1] } 12. O-O-O
+{ [%clk 0:09:40.1] } 12... Ng4 { [%clk 0:08:50.4] } 13. Rde1
+{ [%clk 0:09:33.1] } 13... Nf6 { [%clk 0:08:27.2] } 14. h4 { [%clk 0:09:29.3] }
+14... Qh5 { [%clk 0:08:07.3] } 15. Qg2 { [%clk 0:09:15.4] } 15... Bb7
+{ [%clk 0:07:41.8] } 16. g4 { [%clk 0:09:10.5] } 16... Qxg4
+{ [%clk 0:07:33.3] } 17. Qxg4 { [%clk 0:09:05.1] } 17... Nxg4
+{ [%clk 0:07:31.3] } 18. Rhg1 { [%clk 0:09:01.6] } 18... h5
+{ [%clk 0:07:29.2] } 19. Be2 { [%clk 0:08:56.2] } 19... Nf6
+{ [%clk 0:07:03.9] } 20. Rg5 { [%clk 0:08:52.3] } 20... g6 { [%clk 0:06:55.9] }
+21. Reg1 { [%clk 0:08:46.8] } 21... Kh7 { [%clk 0:06:53.1] } 22. Rxe5
+{ [%clk 0:08:41.4] } 22... Rae8 { [%clk 0:06:47.2] } 23. Reg5
+{ [%clk 0:08:37.9] } 23... Kh6 { [%clk 0:06:31] } 24. e5 { [%clk 0:08:18.4] }
+24... Nh7 { [%clk 0:06:21.3] } 0-1
+

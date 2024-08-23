@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "hu100"]
+[Black "zari_huella"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/LHZsfIRH"]
+[WhiteElo "2378"]
+[BlackElo "2561"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:45:45"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+3"]
+
+1. d4 d5 2. Nf3 Nf6 3. g3 Bf5 4. Bg2 e6 5. O-O Be7 6. c4 c6 7. Nc3 Nbd7 8. Qb3
+Qb6 9. c5 Qxb3 10. axb3 a6 11. b4 O-O 12. Nd2 e5 13. dxe5 Nxe5 14. Nb3 Rae8 15.
+Nd4 Bc8 16. e4 dxe4 17. Nxe4 Nxe4 18. Bxe4 Bf6 19. Nf5 Nc4 20. Bd3 Nxb2 21.
+Bxb2 Bxb2 22. Rab1 Bxf5 23. Bxf5 Bf6 24. Rfd1 g6 25. Bg4 Rd8 26. Bd7 Be5 27. f4
+Bc7 28. Kf2 Kg7 29. Kf3 f5 30. Be6 Rfe8 31. Bc4 Kf6 32. Rxd8 Rxd8 33. Re1 Rd7
+34. Re6+ Kg7 35. h3 Bd8 36. g4 fxg4+ 37. hxg4 Rd4 38. Be2 Kf7 39. Re4 Bf6 40.
+Rxd4 Bxd4 41. Bc4+ Ke7 42. g5 Bc3 43. Bg8 Bxb4 44. Ke4 Bxc5 45. Bxh7 Kf7 46. f5
+gxf5+ 47. Kxf5 Bd4 48. Bg6+ Ke7 0-1
+

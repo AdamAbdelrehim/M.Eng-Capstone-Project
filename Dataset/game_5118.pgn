@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Castrador"]
+[Black "MattLoncke"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/06hrRSoY"]
+[WhiteElo "2427"]
+[BlackElo "2528"]
+[ECO "D01"]
+[Opening "Rapport-Jobava System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:31:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 c5 4. e3 cxd4 5. exd4 a6 6. Qd2 Nc6 7. Nf3 Bf5 8.
+Bd3 Bxd3 9. Qxd3 e6 10. O-O-O Rc8 11. Ne5 Qa5 12. Kb1 Nb4 13. Qe2 Ne4 14. Bd2
+Rxc3 15. a3 Rxa3 16. bxa3 Qxa3 17. Bxb4 Qxb4+ 18. Kc1 Qa3+ 19. Kb1 Nc3# 0-1
+

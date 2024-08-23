@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.05.31"]
+[Round "-"]
+[White "Sokolovkansk1948"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "2rqr2k/pp4pp/2n2p2/2QB4/6b1/P3PN2/1B1P1PPP/RN2K2R w KQ -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Polish-Opening-Birmingham-Gambit"]
+[UTCDate "2021.05.31"]
+[UTCTime "20:22:28"]
+[WhiteElo "946"]
+[BlackElo "933"]
+[TimeControl "60"]
+[Termination "Sokolovkansk1948 won by resignation"]
+[StartTime "20:22:28"]
+[EndDate "2021.05.31"]
+[EndTime "20:23:36"]
+[Link "https://www.chess.com/game/live/16231524039"]
+
+1. b4 { [%clk 0:00:59.4] } 1... c5 { [%clk 0:00:59.9] } 2. bxc5
+{ [%clk 0:00:57.8] } 2... Nf6 { [%clk 0:00:58.3] } 3. e3 { [%clk 0:00:55.8] }
+3... e5 { [%clk 0:00:58.2] } 4. Bb2 { [%clk 0:00:54] } 4... Bxc5
+{ [%clk 0:00:57.2] } 5. Bxe5 { [%clk 0:00:52.7] } 5... Nc6 { [%clk 0:00:56.1] }
+6. Bb2 { [%clk 0:00:51.1] } 6... O-O { [%clk 0:00:54.8] } 7. a3
+{ [%clk 0:00:49.5] } 7... Re8 { [%clk 0:00:52] } 8. c4 { [%clk 0:00:47.6] }
+8... d5 { [%clk 0:00:51.9] } 9. cxd5 { [%clk 0:00:45.8] } 9... Nxd5
+{ [%clk 0:00:51.4] } 10. Qc2 { [%clk 0:00:44.6] } 10... f6 { [%clk 0:00:42.5] }
+11. Qxc5 { [%clk 0:00:42.7] } 11... Bf5 { [%clk 0:00:40.3] } 12. Nf3
+{ [%clk 0:00:39.9] } 12... Bg4 { [%clk 0:00:32.9] } 13. Bc4
+{ [%clk 0:00:38.3] } 13... Rc8 { [%clk 0:00:31.3] } 14. Bxd5+
+{ [%clk 0:00:36.7] } 14... Kh8 { [%clk 0:00:25.4] } 1-0
+

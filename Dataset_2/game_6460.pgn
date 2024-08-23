@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.20"]
+[Round "-"]
+[White "jlhooker"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r2q1b1r/ppNnkppp/3Bbn2/2p5/4p3/8/PPPQ1PPP/R3KBNR b KQ -"]
+[Timezone "UTC"]
+[ECO "D00"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Accelerated-London-Steinitz-Morris-Countergambit-3...dxe4"]
+[UTCDate "2022.10.20"]
+[UTCTime "22:05:43"]
+[WhiteElo "1915"]
+[BlackElo "1813"]
+[TimeControl "600"]
+[Termination "jlhooker won by checkmate"]
+[StartTime "22:05:43"]
+[EndDate "2022.10.20"]
+[EndTime "22:07:30"]
+[Link "https://www.chess.com/game/live/60042596613"]
+
+1. d4 { [%clk 0:09:59.3] } 1... d5 { [%clk 0:09:55.9] } 2. Bf4
+{ [%clk 0:09:58.4] } 2... c5 { [%clk 0:09:53.9] } 3. e4 { [%clk 0:09:56.9] }
+3... dxe4 { [%clk 0:09:47.3] } 4. d5 { [%clk 0:09:56.4] } 4... Nf6
+{ [%clk 0:09:45.4] } 5. Nc3 { [%clk 0:09:55.4] } 5... Bg4 { [%clk 0:09:23.8] }
+6. Qd2 { [%clk 0:09:45.1] } 6... Nbd7 { [%clk 0:09:09.1] } 7. Nb5
+{ [%clk 0:09:38.2] } 7... e5 { [%clk 0:08:58.7] } 8. dxe6 { [%clk 0:09:35.7] }
+8... Bxe6 { [%clk 0:08:48.4] } 9. Nc7+ { [%clk 0:09:33.6] } 9... Ke7
+{ [%clk 0:08:47.9] } 10. Bd6# { [%clk 0:09:30.2] } 1-0
+

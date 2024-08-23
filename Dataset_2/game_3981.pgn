@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.16"]
+[Round "-"]
+[White "sekatore"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "2kr1b1r/p1p2ppp/2pqb3/8/Q2PP3/2P3P1/P4PBP/1RB2RK1 b - d3"]
+[Timezone "UTC"]
+[ECO "A22"]
+[ECOUrl "https://www.chess.com/openings/English-Opening-Carls-Bremen-Reversed-Dragon-Variation-4.cxd5-Nxd5"]
+[UTCDate "2022.03.16"]
+[UTCTime "19:47:41"]
+[WhiteElo "2064"]
+[BlackElo "1792"]
+[TimeControl "600"]
+[Termination "sekatore won by resignation"]
+[StartTime "19:47:41"]
+[EndDate "2022.03.16"]
+[EndTime "19:52:27"]
+[Link "https://www.chess.com/game/live/41199033731"]
+
+1. c4 { [%clk 0:09:57.2] } 1... e5 { [%clk 0:09:54.1] } 2. Nc3
+{ [%clk 0:09:41.6] } 2... Nf6 { [%clk 0:09:51.6] } 3. g3 { [%clk 0:09:40] }
+3... d5 { [%clk 0:09:46.3] } 4. cxd5 { [%clk 0:09:38.7] } 4... Nxd5
+{ [%clk 0:09:44.6] } 5. Nf3 { [%clk 0:09:38.2] } 5... Nc6 { [%clk 0:09:42] } 6.
+Bg2 { [%clk 0:09:36.9] } 6... Be6 { [%clk 0:09:35.2] } 7. O-O
+{ [%clk 0:09:35.1] } 7... Nxc3 { [%clk 0:09:24.8] } 8. bxc3
+{ [%clk 0:09:33.7] } 8... Qd7 { [%clk 0:09:15.6] } 9. Rb1 { [%clk 0:09:28.2] }
+9... O-O-O { [%clk 0:09:11.6] } 10. Nxe5 { [%clk 0:09:11.1] } 10... Qd6
+{ [%clk 0:08:44.3] } 11. Nxc6 { [%clk 0:08:43.8] } 11... bxc6
+{ [%clk 0:08:42.1] } 12. Qa4 { [%clk 0:08:43.3] } 12... Bd5
+{ [%clk 0:08:33.3] } 13. e4 { [%clk 0:07:49.3] } 13... Be6 { [%clk 0:08:03.3] }
+14. d4 { [%clk 0:07:30.5] } 1-0
+

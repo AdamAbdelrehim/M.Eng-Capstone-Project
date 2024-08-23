@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "traindesix"]
+[Black "GalimovaTS"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/jd9xJ7ow"]
+[WhiteElo "2537"]
+[BlackElo "2512"]
+[ECO "D15"]
+[Opening "Slav Defense: Chebanenko Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:27:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 a6 5. g3 b5 6. c5 Bf5 7. Bg2 Nbd7 8. O-O h6
+9. Nd2 e5 10. e4 exd4 11. exf5 dxc3 12. Re1+ Be7 13. Nb3 O-O 14. bxc3 Nxc5 15.
+Nd4 Rc8 16. Ba3 Re8 17. f3 Na4 18. Bxe7 Rxe7 19. Qd3 Qe8 20. Red1 Re3 21. Qd2
+Rxc3 22. Re1 Qf8 23. g4 c5 24. Ne2 Ra3 25. h4 d4 26. Ng3 Nd5 27. Qc1 c4 28. g5
+Ne3 29. f6 Rc3 30. Qd2 Rc2 31. Qxd4 Rxg2+ 32. Kh1 Rxg3 33. Rxe3 Qc5 34. Re8+
+Kh7 35. fxg7 Rxe8 36. Qxc5 Nxc5 37. Kh2 Rxf3 38. Kg2 Rd3 39. gxh6 Kxh6 40. Kf2
+Kxg7 41. Rg1+ Kf8 42. h5 Ne4+ 43. Kf1 Nc3 44. h6 Re2 45. Rg8+ Kxg8 46. h7+ Kxh7
+47. Kg1 Rd1# 0-1
+

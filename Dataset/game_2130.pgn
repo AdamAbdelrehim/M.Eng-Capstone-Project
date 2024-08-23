@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "HellBorg"]
+[Black "Despair_Captain"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/xgnK94rH"]
+[WhiteElo "2451"]
+[BlackElo "2506"]
+[ECO "A00"]
+[Opening "Van Geet Opening: Dougherty Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:45:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. Nc3 d5 2. e4 dxe4 3. f3 Nf6 4. fxe4 e5 5. Nf3 Bc5 6. Nxe5 O-O 7. Nf3 Bg4 8.
+d3 Nc6 9. Be2 Nd7 10. Bg5 f6 11. Bf4 Nde5 12. Nxe5 fxe5 13. Bg3 Bxe2 14. Nxe2
+Qg5 15. c3 Rad8 16. Qd2 Be3 17. Qc2 h5 18. h4 Qg4 19. Qb3+ Kh8 20. Qxb7 Rxd3
+21. Qxc6 Bd2+ 22. Kd1 Bh6+ 23. Ke1 Rxg3 24. Rf1 Rxf1+ 25. Kxf1 Rxg2 26. Qc4
+Qf3+ 27. Ke1 Qe3 0-1
+

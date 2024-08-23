@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "CoolGuy64Chess"]
+[Black "shaginyan_a"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/iD0aAUrV"]
+[WhiteElo "2538"]
+[BlackElo "2542"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:37:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. e3 Bd6 5. Nbd2 b6 6. Ne5 Bb7 7. Qf3 O-O 8. Bd3
+Nbd7 9. h4 Qe7 10. h5 Ne4 11. Nxe4 dxe4 12. Bxe4 Bxe4 13. Qxe4 Bxe5 14. dxe5 h6
+15. O-O-O Nc5 16. Qc6 Rfd8 17. Rd4 a5 18. Rhd1 Rdc8 19. Bg3 Qg5 20. Qf3 a4 21.
+Rg4 Qe7 22. Bh4 Qe8 23. Bf6 g6 24. hxg6 fxg6 25. Qh3 h5 26. Qxh5 1-0
+

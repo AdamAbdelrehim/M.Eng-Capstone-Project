@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "sephan"]
+[Black "ruthless_Axael"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ueGFrRwY"]
+[WhiteElo "2550"]
+[BlackElo "2419"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation, Westerinen Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:57:49"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+8"]
+
+1. e4 c5 2. Nf3 e6 3. b3 Nc6 4. Bb2 Nf6 5. e5 Nd5 6. c4 Nde7 7. d4 cxd4 8. Nxd4
+Nxd4 9. Qxd4 Nc6 10. Qe3 Bb4+ 11. Nc3 Qa5 12. O-O-O O-O 13. Kb1 Qxe5 14. Ne4
+Qa5 15. Qg3 e5 0-1
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Toivonen_Alexander"]
+[Black "NoahSkyler"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/9QlCeBMt"]
+[WhiteElo "2455"]
+[BlackElo "2569"]
+[ECO "E76"]
+[Opening "King's Indian Defense: Four Pawns Attack, Dynamic Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "04:35:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 O-O 5. f4 c5 6. d5 d6 7. Nf3 b5 8. e5 dxe5
+9. fxe5 Ng4 10. Nxb5 Nxe5 11. Be2 Nbd7 12. O-O Nxf3+ 13. Bxf3 Ne5 14. Be2 Ba6
+15. a4 Bc8 16. Be3 Nd7 17. Qd2 a6 18. Nc3 Qb6 19. a5 Qb4 20. Ra4 Bxc3 21. Qxc3
+Qxa4 22. Bh6 f6 23. Bg4 Ne5 24. Bxf8 Bxg4 25. Bxe7 Qxc4 26. Qg3 Be2 27. Re1 Nd3
+28. d6 Qd4+ 29. Kh1 Nf2+ 0-1
+

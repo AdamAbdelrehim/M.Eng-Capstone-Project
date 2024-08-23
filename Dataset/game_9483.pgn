@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "SerHio1963"]
+[Black "thickgreenphlegm"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/kl8ME4F1"]
+[BlackTitle "FM"]
+[WhiteElo "2555"]
+[BlackElo "2518"]
+[ECO "E22"]
+[Opening "Nimzo-Indian Defense: Spielmann Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:09:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. Nf3 Nc6 6. d5 Na5 7. Qc2 Nxc4 8. e4
+Nb6 9. d6 c4 10. Bg5 h6 11. Bh4 g5 12. Bg3 Nh5 13. e5 f5 14. exf6 Qxf6 15. Be5
+Qf7 16. Bxh8 Bxd6 17. O-O-O Bf4+ 18. Kb1 d5 19. Be5 Bd7 20. Be2 O-O-O 21. g3
+Bxe5 22. Nxe5 Qe8 23. Nxd7 Rxd7 24. Bg4 Nf6 25. Qe2 Re7 26. h3 h5 27. Bf3 g4
+28. hxg4 hxg4 29. Bxg4 Qg6+ 30. Ka1 Qxg4 31. Qe5 Qg6 32. Nb5 Ne4 33. Rh8+ Re8
+34. Qc7# 1-0
+

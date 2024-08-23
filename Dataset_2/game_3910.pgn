@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.10"]
+[Round "-"]
+[White "TheSmartKnight"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r1bqkb1r/pp3ppp/2n1p3/1B1p4/4n3/5Q2/PB3PPP/RN2K1NR w KQkq -"]
+[Timezone "UTC"]
+[ECO "B21"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Smith-Morra-Gambit-Accepted"]
+[UTCDate "2022.03.10"]
+[UTCTime "06:26:08"]
+[WhiteElo "1365"]
+[BlackElo "1321"]
+[TimeControl "180"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "06:26:08"]
+[EndDate "2022.03.10"]
+[EndTime "06:27:22"]
+[Link "https://www.chess.com/game/live/40632585261"]
+
+1. e4 { [%clk 0:03:00] } 1... c5 { [%clk 0:03:00] } 2. d4 { [%clk 0:02:58.8] }
+2... cxd4 { [%clk 0:02:57.6] } 3. c3 { [%clk 0:02:58.2] } 3... dxc3
+{ [%clk 0:02:56.5] } 4. Bc4 { [%clk 0:02:56] } 4... cxb2 { [%clk 0:02:53.9] }
+5. Bxb2 { [%clk 0:02:55.9] } 5... e6 { [%clk 0:02:50.4] } 6. Qg4
+{ [%clk 0:02:49.4] } 6... Nf6 { [%clk 0:02:45.7] } 7. Qg3 { [%clk 0:02:42.2] }
+7... Nxe4 { [%clk 0:02:35.5] } 8. Qf3 { [%clk 0:02:28] } 8... d5
+{ [%clk 0:02:30.4] } 9. Bb5+ { [%clk 0:02:22.6] } 9... Nc6 { [%clk 0:02:28] }
+0-1
+

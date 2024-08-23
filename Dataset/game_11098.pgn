@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "smurf42"]
+[Black "Fred_Fertig_64"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/WkGIJfVU"]
+[WhiteTitle "NM"]
+[WhiteElo "2548"]
+[BlackElo "2457"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:13:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 Nf6 2. Nf3 d5 3. g3 c5 4. Bg2 cxd4 5. O-O h6 6. Nbd2 Nc6 7. Nb3 e5 8. e3
+dxe3 9. Bxe3 d4 10. Bd2 Be6 11. Re1 Bd6 12. c3 d3 13. Be3 e4 14. Nfd4 Bg4 15.
+Qxd3 exd3 16. Nxc6 Qd7 17. Nc5 Bxc5 18. Bxc5+ Be6 19. Ne5 Qb5 20. b4 d2 21.
+Red1 Qe2 22. Nf3 O-O-O 23. Bd4 Ne4 24. Bxa7 Nxc3 25. Nd4 Rxd4 0-1
+

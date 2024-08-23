@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "thecablebox"]
+[Black "zorilla"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/8A35ASWT"]
+[WhiteElo "2637"]
+[BlackElo "2472"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "23:32:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 c5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Nd4 5. e5 Nxb5 6. Nxb5 Nd5 7. Ng5 h6 8.
+Nxf7 Kxf7 9. Qf3+ Ke6 10. c4 Nc7 11. d4 d5 12. Nxc7+ Qxc7 13. Qxd5+ Kf5 14.
+Qf7+ Ke4 15. Qf3+ Kxd4 16. Qd5# 1-0
+

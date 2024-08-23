@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.30"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "datu279"]
+[Result "1-0"]
+[CurrentPosition "r4r1k/ppp2pp1/4q1np/b3P3/3P3R/2N1BP2/PPB2PQP/6RK b - -"]
+[Timezone "UTC"]
+[ECO "C53"]
+[ECOUrl "https://www.chess.com/openings/Giuoco-Piano-Game-Main-Line"]
+[UTCDate "2022.03.30"]
+[UTCTime "04:07:18"]
+[WhiteElo "1794"]
+[BlackElo "1837"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "04:07:18"]
+[EndDate "2022.03.30"]
+[EndTime "04:13:16"]
+[Link "https://www.chess.com/game/live/42352163481"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:59.1] } 2. Nf3
+{ [%clk 0:09:59.4] } 2... Nc6 { [%clk 0:09:57.4] } 3. Bc4 { [%clk 0:09:57.9] }
+3... Bc5 { [%clk 0:09:56] } 4. c3 { [%clk 0:09:56.3] } 4... h6
+{ [%clk 0:09:52.5] } 5. d4 { [%clk 0:09:55.2] } 5... exd4 { [%clk 0:09:51.1] }
+6. cxd4 { [%clk 0:09:55.1] } 6... Bb6 { [%clk 0:09:50] } 7. O-O
+{ [%clk 0:09:54.5] } 7... d6 { [%clk 0:09:48.2] } 8. Re1 { [%clk 0:09:52.3] }
+8... Nge7 { [%clk 0:09:44.6] } 9. e5 { [%clk 0:09:50] } 9... d5
+{ [%clk 0:09:42.5] } 10. Bb3 { [%clk 0:09:45.5] } 10... Bg4 { [%clk 0:09:40] }
+11. Be3 { [%clk 0:09:18.2] } 11... O-O { [%clk 0:09:29.2] } 12. Nc3
+{ [%clk 0:09:03.9] } 12... Bxf3 { [%clk 0:09:22.5] } 13. gxf3
+{ [%clk 0:09:02.6] } 13... Nf5 { [%clk 0:09:14.3] } 14. Nxd5
+{ [%clk 0:08:49.2] } 14... Ba5 { [%clk 0:09:07.5] } 15. Nc3
+{ [%clk 0:08:41.2] } 15... Qh4 { [%clk 0:09:00.3] } 16. Kh1
+{ [%clk 0:08:29.6] } 16... Qh3 { [%clk 0:08:44.8] } 17. Rg1
+{ [%clk 0:08:20.6] } 17... Nce7 { [%clk 0:08:30.1] } 18. Bc2
+{ [%clk 0:08:17.9] } 18... Nh4 { [%clk 0:08:27.1] } 19. Rg3
+{ [%clk 0:08:13.2] } 19... Qe6 { [%clk 0:08:16] } 20. Qg1 { [%clk 0:08:04.4] }
+20... Nhf5 { [%clk 0:08:09.8] } 21. Rg4 { [%clk 0:07:38.8] } 21... Kh8
+{ [%clk 0:07:43.6] } 22. Qg2 { [%clk 0:07:31.1] } 22... Ng6
+{ [%clk 0:07:29.3] } 23. Rg1 { [%clk 0:07:27.2] } 23... Nfh4
+{ [%clk 0:07:17.7] } 24. Rxh4 { [%clk 0:07:03.2] } 1-0
+

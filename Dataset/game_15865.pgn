@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "domore"]
+[Black "ModernDefence"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Z7upNBTK"]
+[WhiteElo "2473"]
+[BlackElo "2553"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Lasker Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:53:58"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 Nf6 5. Nf3 Bg4 6. h3 Bh5 7. g4 Bg6 8.
+Ne5 c6 9. Qf3 Nbd7 10. Nxd7 Nxd7 11. h4 h5 12. g5 O-O-O 13. Bd2 e5 14. dxe5
+Nxe5 15. Qh3+ Kb8 16. O-O-O Bd6 17. Be2 Rhe8 18. f4 Nd7 19. Bf3 Bf5 20. Qg2 g6
+21. Kb1 Qc7 22. Rhf1 Nb6 23. Be4 Bg4 24. Bf3 Bxf3 25. Qxf3 Nc4 26. Bc1 Qb6 27.
+f5 Na3+ 28. Ka1 Nxc2+ 29. Kb1 Nd4 30. Qg2 Nxf5 31. Ne4 Be5 32. Nf6 Bxf6 33.
+gxf6 a5 34. Bf4+ Ka7 35. Qf3 Ka8 36. Qc3 Qb5 37. Rde1 a4 38. Rxe8 Qxf1+ 39. Re1
+Qd3+ 40. Qxd3 Rxd3 41. Re8+ Ka7 42. Rf8 Rd7 43. Bb8+ Ka6 44. Be5 Nxh4 45. Bc3
+Nf5 46. Ra8+ Kb5 47. Rf8 Kc4 48. Kc2 b5 49. b3+ axb3+ 50. axb3+ Kc5 51. Rb8 h4
+52. Kb2 h3 53. Be1 h2 54. Bf2+ Kd5 55. Rg8 h1=Q 56. Rd8 Rxd8 0-1
+

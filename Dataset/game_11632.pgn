@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "simplesimpson03"]
+[Black "Biofeedback"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/N9x2tmlq"]
+[WhiteElo "2527"]
+[BlackElo "2389"]
+[ECO "D79"]
+[Opening "Neo-Grünfeld Defense: Ultra-Delayed Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:38:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. Nf3 c5 2. g3 g6 3. Bg2 Bg7 4. O-O Nf6 5. c3 O-O 6. d4 cxd4 7. cxd4 d5 8. Ne5
+Nc6 9. Nxc6 bxc6 10. Nc3 e6 11. Bf4 Ne8 12. Rc1 Nd6 13. Na4 Nb5 14. e3 Qd7 15.
+g4 a5 16. Nb6 1-0
+

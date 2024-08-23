@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "kzroma"]
+[Black "ChessOKRU"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Pqr4QmtJ"]
+[BlackTitle "NM"]
+[WhiteElo "2520"]
+[BlackElo "2503"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:18:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 e5 2. Nf3 d6 3. Nc3 Be7 4. Bc4 Nf6 5. O-O O-O 6. h3 Nc6 7. a4 h6 8. d3
+Nh7 9. a5 a6 10. Nd5 Be6 11. c3 Kh8 12. b4 Nb8 13. Nxe7 Qxe7 14. Bd5 c6 15.
+Bxe6 fxe6 16. Be3 Nd7 17. d4 exd4 18. cxd4 d5 19. e5 Rf7 20. Rb1 Raf8 21. Ne1
+g5 22. Qh5 Kg7 23. Nd3 Rf5 24. f3 Qf7 25. Qxf7+ R5xf7 26. Nc5 Nxc5 27. bxc5 Rd7
+28. f4 gxf4 29. Rxf4 Rxf4 30. Bxf4 Rf7 31. Be3 h5 32. Kh2 Kg6 33. Kg3 Nf8 34.
+Kh4 Kf5 35. Rf1+ Kg6 36. Rxf7 Kxf7 37. Kxh5 Ng6 38. Kg5 Ne7 39. g4 1-0
+

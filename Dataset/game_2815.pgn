@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "HelioLupossa"]
+[Black "MattLoncke"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/G8LMOCnW"]
+[WhiteElo "2368"]
+[BlackElo "2532"]
+[ECO "E90"]
+[Opening "King's Indian Defense: Larsen Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:21:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be3 Nbd7 7. Be2 e5 8. d5
+Ng4 9. Qd2 Nxe3 10. Qxe3 f5 11. exf5 gxf5 12. O-O-O a5 13. h3 Nc5 14. g4 e4 15.
+Nd4 f4 16. Qd2 Qf6 17. Nb3 Nxb3+ 18. axb3 f3 19. Nxe4 Qxb2+ 20. Qxb2 Bxb2+ 21.
+Kxb2 fxe2 22. Rd2 Bd7 23. Rxe2 Rae8 24. Rhe1 Kg7 25. Ng5 Re5 26. f4 Rxf4 27.
+Ne6+ Bxe6 28. Rxe5 dxe5 29. dxe6 e4 30. Kc3 Kf6 31. Kd4 Kxe6 32. Rxe4+ Rxe4+
+33. Kxe4 b6 34. h4 c6 35. Kd4 b5 36. Kc5 bxc4 37. Kxc4 Kd6 38. Kd4 Ke6 39. Kc5
+Ke5 40. Kxc6 Kf4 41. Kb5 Kxg4 42. Kxa5 Kxh4 43. b4 h5 44. b5 Kg3 45. b6 h4 46.
+b7 h3 47. b8=Q+ Kg2 48. Qb7+ Kg3 49. Qh1 h2 50. Kb4 1-0
+

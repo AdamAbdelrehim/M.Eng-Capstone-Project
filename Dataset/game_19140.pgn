@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "ExplosiveBombBlind"]
+[Black "ChainsOfFantasia"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/FHJGkZgh"]
+[BlackTitle "IM"]
+[WhiteElo "2673"]
+[BlackElo "2668"]
+[ECO "C11"]
+[Opening "French Defense: Burn Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:30:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 h6 5. Bxf6 Qxf6 6. a3 Qd8 7. f4 Be7 8. Nf3
+O-O 9. Bd3 c6 10. h4 Nd7 11. e5 c5 12. g4 cxd4 13. Nxd4 Bxh4+ 14. Kd2 Nxe5 15.
+fxe5 Qg5+ 16. Ke2 Qxe5+ 17. Kf1 f5 18. Nf3 fxg4 19. Rxh4 0-1
+

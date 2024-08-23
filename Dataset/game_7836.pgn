@@ -1,0 +1,30 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ChessatronBot"]
+[Black "halcyonbot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/e3JbNTns"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2529"]
+[BlackElo "2318"]
+[ECO "C10"]
+[Opening "French Defense: Paulsen Variation"]
+[TimeControl "900+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:35:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nc6 4. Nf3 Bb4 5. e5 f5 6. a3 Bxc3+ 7. bxc3 Nge7 8.
+Bd3 O-O 9. a4 b6 10. Ba3 a5 11. Rg1 Qd7 12. Qe2 Bb7 13. O-O-O Na7 14. g4 c5 15.
+dxc5 Qxa4 16. Kb2 bxc5 17. Bxc5 Rab8 18. Nd4 Ba8+ 19. Nb3 Nac6 20. gxf5 exf5
+21. c4 Nb4 22. Bxe7 Nxd3+ 23. Qxd3 Rf7 24. Bd6 dxc4 25. Qc3 Re8 26. Rd4 Ra7 27.
+e6 Qc6 28. e7 g6 29. Kc1 Qb5 30. Nc5 Be4 31. Ne6 Rb7 32. Rxe4 Qb1+ 33. Kd2 Qb2
+34. Qxc4 Qb5 35. Qxb5 Rxb5 36. Nc7 fxe4 37. Nxe8 Rb6 38. Rb1 e3+ 39. fxe3 Rc6
+40. Rb7 Kf7 41. Ng7 Rxd6+ 42. Ke2 Rd2+ 43. Kxd2 Kxg7 44. e8=Q+ Kf6 45. Qe7+ Kf5
+46. Rb5+ Kg4 47. Qg5+ Kf3 48. Qg3+ Ke4 49. Qf4# 1-0
+

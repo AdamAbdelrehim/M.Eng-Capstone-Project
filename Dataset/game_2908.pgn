@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Dmitry_Gritsenko"]
+[Black "Heisenberg3"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Do5P9wrx"]
+[WhiteElo "2519"]
+[BlackElo "2354"]
+[ECO "C45"]
+[Opening "Scotch Game: Schmidt Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:35:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 dxc6 6. Bd3 Bc5 7. e5 Nd5 8.
+O-O h6 9. Kh1 Qh4 10. f4 Bg4 11. Qe1 Qxe1 12. Rxe1 g6 0-1
+

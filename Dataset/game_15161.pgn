@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "dedyka"]
+[Black "josiur"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/zvX0EsVH"]
+[BlackTitle "FM"]
+[WhiteElo "2508"]
+[BlackElo "2492"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Janowski Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:56:13"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 d5 2. c4 e6 3. Nc3 a6 4. Nf3 dxc4 5. a4 Nc6 6. e4 Na5 7. Be3 Nf6 8. Qc2
+Bb4 9. Be2 b5 10. O-O c6 11. Rad1 O-O 12. e5 Nd5 13. Ng5 g6 14. Nce4 Be7 15. h4
+Nb3 16. Bf3 Nxe3 17. fxe3 Bb7 18. Bg4 Qb6 19. h5 c5 20. Nf6+ Bxf6 21. Rxf6 cxd4
+22. hxg6 d3 23. gxh7+ Kh8 24. Qf2 Qc6 25. Nxf7+ Rxf7 26. Rxf7 Qxg2+ 27. Qxg2
+Bxg2 28. Kxg2 Nc5 29. Kf3 b4 30. Rc7 c3 31. Rxc5 c2 32. Rxd3 b3 33. Rxb3 Kxh7
+34. Rxc2 Kg6 35. Rg2 Ra7 36. Bxe6+ Kh5 0-1
+

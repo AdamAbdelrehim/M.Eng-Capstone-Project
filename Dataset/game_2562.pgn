@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "alfanje2020"]
+[Black "Bierblitz"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/urZPSIZe"]
+[WhiteElo "2386"]
+[BlackElo "2527"]
+[ECO "A96"]
+[Opening "Dutch Defense: Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:46:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 Be7 5. Nf3 O-O 6. O-O d6 7. d5 e5 8. c5 e4
+9. cxd6 Bxd6 10. Nd4 a6 11. Nc3 Qe8 12. Bf4 Qf7 13. Bxd6 cxd6 14. Qb3 a5 15.
+Ndb5 Qe7 16. Rac1 Na6 17. Qc4 Bd7 18. Rfd1 Rfc8 19. Qd4 Nc5 20. f3 e3 21. b3
+Ra6 22. Na3 Raa8 23. Nc4 Ra7 24. Nxe3 b5 25. Nf1 b4 26. Na4 Bxa4 27. bxa4 Qxe2
+28. Rd2 Qe5 29. Qxe5 dxe5 30. d6 Kf8 31. Ne3 g6 32. Rdc2 Nfd7 33. Bf1 Rd8 34.
+Rxc5 Nxc5 35. Rxc5 Rxd6 36. Rxe5 Rd2 37. Nc4 Rxa2 38. Nxa5 Re7 39. Rxe7 Kxe7
+40. Nc6+ Kd6 41. Nxb4 Rxa4 42. Nd3 Ra2 43. Nf4 Ke5 44. Ne2 g5 45. f4+ gxf4 46.
+gxf4+ Kf6 47. Kf2 Ra3 48. Bg2 Kg6 49. Bd5 Kf6 50. Ng3 Kg6 51. Kg2 h5 52. Be6 h4
+53. Nxf5 Kh5 54. h3 Ra2+ 55. Kf3 Ra3+ 56. Kg2 Rc3 57. Bf7# 1-0
+

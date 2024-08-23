@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "chs2006"]
+[Black "rude1951"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/tt60629m"]
+[WhiteElo "2527"]
+[BlackElo "2446"]
+[ECO "E12"]
+[Opening "Queen's Indian Defense: Petrosian Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:40:39"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. a3 d5 5. Nc3 c5 6. e3 Bb7 7. cxd5 Nxd5 8. Bb5+
+Bc6 9. Qa4 Qd7 10. Nxd5 Bxb5 11. Qxb5 exd5 12. Qxd7+ Nxd7 13. dxc5 Nxc5 14. b4
+Nb3 15. Rb1 Nxc1 16. Rxc1 Bd6 17. Rd1 O-O-O 18. Ke2 Be7 19. Ne5 Rhf8 20. Nc6
+Rd7 21. Rxd5 Rxd5 22. Nxe7+ Kd7 23. Nxd5 1-0
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Graukater"]
+[Black "Mikkel_Vinh"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/UJV27G8K"]
+[BlackTitle "CM"]
+[WhiteElo "2477"]
+[BlackElo "2530"]
+[ECO "A05"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:40:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. Nf3 Nf6 2. g3 g6 3. b3 Bg7 4. Bb2 O-O 5. Bg2 d6 6. d4 a5 7. O-O a4 8. c4 c6
+9. bxa4 Nbd7 10. Nc3 Nb6 11. Nd2 Be6 12. Qb3 Nfd7 13. e3 Qc7 14. Rab1 f5 15.
+Rfc1 Bf7 16. Ba1 Ra6 17. Bf1 Rfa8 18. Qb2 R8a7 19. Nb5 cxb5 20. cxb5 Nxa4 21.
+Rxc7 Nxb2 22. bxa6 1-0
+

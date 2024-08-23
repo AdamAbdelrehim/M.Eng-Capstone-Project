@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "viti86"]
+[Black "AndreyKostin"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/eKSvgAvW"]
+[WhiteElo "2540"]
+[BlackElo "2366"]
+[ECO "A15"]
+[Opening "English Opening: Anglo-Indian Defense, King's Knight Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:13:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. c4 Nf6 2. Nf3 e6 3. b3 Be7 4. Bb2 O-O 5. g3 c5 6. Bg2 Nc6 7. O-O b6 8. d4
+cxd4 9. Nxd4 Bb7 10. Nc3 a6 11. Rc1 Qc7 12. Nd5 exd5 13. cxd5 Bc5 14. dxc6 Bxc6
+15. Nxc6 dxc6 16. b4 Bxb4 17. Rxc6 Qe7 18. Bxf6 gxf6 19. Rxb6 Rad8 20. Qa4 a5
+21. e3 Rd6 22. Rb7 Qe5 23. a3 Bc3 24. h4 Rfd8 25. Qg4+ Kf8 26. a4 h5 27. Qf3
+R6d7 28. Rb5 Qe7 29. Rxh5 Qb4 30. Qc6 Rd1 31. Rh8+ Kg7 32. Rxd8 Rxd8 33. Kh2
+Rd6 34. Qe8 Re6 35. Qd7 Rd6 36. Qb5 Rd2 37. Qf5 Qd6 38. Be4 Qe5 39. Qh7+ Kf8
+40. Kg2 Ke7 41. Rb1 Bb4 42. Rc1 Bc3 43. h5 Rb2 44. h6 Rd2 45. Qf5 Qxf5 46. Bxf5
+Kf8 47. h7 Kg7 48. Rxc3 Ra2 49. Rc8 Rxa4 50. h8=Q# 1-0
+

@@ -1,0 +1,30 @@
+[Event "Blitz swiss https://lichess.org/swiss/G6sgTtbn"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Hikaru_KBR"]
+[Black "hamidebh001"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/XXDgAxM2"]
+[BlackTitle "FM"]
+[WhiteElo "2530"]
+[BlackElo "2743"]
+[ECO "A49"]
+[Opening "Indian Defense: Przepiorka Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:36:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d5 6. c3 c5 7. Bg5 cxd4 8. cxd4
+Nc6 9. Nc3 Bf5 10. Bxf6 Bxf6 11. e3 Rc8 12. Rc1 Be6 13. Re1 Na5 14. h4 Qd6 15.
+Ng5 Bxg5 16. hxg5 Rc6 17. f4 Rfc8 18. Kf2 Qb4 19. Rb1 Nc4 20. Qb3 Qxb3 21. axb3
+Nxb2 22. Nxd5 Rc2+ 23. Kf1 Kf8 24. Nb4 Rd2 25. d5 Bg4 26. Rbc1 Rxc1 27. Rxc1 a5
+28. Na2 Nd3 29. Ra1 Nc5 30. b4 Nb3 31. Rb1 Rxa2 32. Rxb3 a4 33. Rc3 Rb2 34. Ra3
+b5 35. Be4 Rxb4 36. Bd3 Rb2 37. Ke1 Kg7 38. e4 Bd7 39. f5 b4 40. Ra1 a3 41. e5
+Bxf5 42. Bxf5 gxf5 43. d6 exd6 44. exd6 Kf8 45. Rd1 Ke8 46. Rc1 Kd7 47. Rc7+
+Kxd6 48. Rxf7 a2 49. Ra7 Rb1+ 50. Kf2 a1=Q 51. Rxa1 Rxa1 52. Kf3 b3 53. Kf4 Ke6
+54. g4 fxg4 55. Kxg4 b2 56. Kh5 b1=Q 57. Kh6 Qg6# 0-1
+

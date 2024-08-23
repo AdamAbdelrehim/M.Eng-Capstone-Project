@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "kvadrik"]
+[Black "mowilli"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/1CAjUtqL"]
+[WhiteElo "2502"]
+[BlackElo "2522"]
+[ECO "A20"]
+[Opening "English Opening: King's English Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:40:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. c4 e5 2. g3 Nc6 3. Bg2 Bc5 4. e3 a6 5. Ne2 Ba7 6. O-O d6 7. Nbc3 h5 8. d4 h4
+9. Bxc6+ bxc6 10. dxe5 hxg3 11. hxg3 Bh3 12. Re1 Bg4 13. Qd3 Bf3 14. Kf1 Qd7
+15. Ng1 Rh1 0-1
+

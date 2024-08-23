@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Sheeshi123"]
+[Black "DanielPerchman"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/qSxw322K"]
+[WhiteElo "2519"]
+[BlackElo "2518"]
+[ECO "C05"]
+[Opening "French Defense: Tarrasch Variation, Pawn Center Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:13:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 cxd4 8. cxd4
+Bb4+ 9. Kf2 f6 10. Bd3 fxe5 11. fxe5 Ba5 12. Ne2 Bb6 13. Kg3 O-O 14. Qc2 Rxf3+
+15. gxf3 Nxd4 16. Nxd4 Bxd4 17. Bxh7+ Kh8 18. f4 Nxe5 19. fxe5 Bxe5+ 20. Kg2
+Qh4 21. Be3 Qg4+ 22. Kf2 Bd7 23. Rag1 Rf8+ 24. Ke1 Qh4+ 25. Kd1 Qxh7 26. Qxh7+
+Kxh7 27. Rg4 d4 28. Bxd4 Bc6 29. Re1 Bf3+ 30. Kc1 Bxg4 31. Bxe5 Rc8+ 32. Kd2
+Bf5 33. Bc3 b5 34. a3 a5 35. Rg1 g6 36. Ke3 a4 37. Rd1 Rc4 38. Rd7+ Kh6 39. Bf6
+e5 40. Rd8 Kh5 41. Rh8+ Kg4 42. Rh4# 1-0
+

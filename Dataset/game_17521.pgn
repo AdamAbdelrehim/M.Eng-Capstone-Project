@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Sijavush"]
+[Black "Andrey-SP"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/h0WZLrDF"]
+[WhiteElo "2500"]
+[BlackElo "2347"]
+[ECO "A15"]
+[Opening "English Opening: Anglo-Indian Defense, Old Indian Formation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:03:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. Nf3 Nf6 2. c4 d6 3. g3 c6 4. Bg2 e5 5. O-O h6 6. Nc3 Be6 7. d4 Bxc4 8. dxe5
+dxe5 9. Qxd8+ Kxd8 10. Nxe5 Ke8 11. Nxc4 1-0
+

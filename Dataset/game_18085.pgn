@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "BITTER_FOX"]
+[Black "adask10"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/KNzCn1EW"]
+[WhiteElo "2389"]
+[BlackElo "2669"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Two Knights Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:54:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+2"]
+
+1. e4 c6 2. Nf3 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Qe2 Nxe4 6. Qxe4 Be6 7. Bc4 Bxc4
+8. Qxc4 Qd5 9. Qxd5 cxd5 10. d4 e6 11. Bf4 Nc6 12. c3 Be7 13. Kd2 O-O 14. Rhe1
+b5 15. a3 a5 16. Ne5 Rfc8 17. Nxc6 Rxc6 18. Rec1 g6 19. Kd3 Kg7 20. g4 h6 21.
+Be3 Rb8 22. f4 f5 23. gxf5 exf5 24. Bd2 Kf7 25. b3 a4 26. bxa4 bxa4 27. Rcb1
+Rcb6 28. Rxb6 Rxb6 29. Kc2 Rb3 30. Bc1 g5 31. fxg5 hxg5 32. Rb1 Rxb1 33. Kxb1
+Bd6 34. h3 g4 35. hxg4 fxg4 36. Kc2 Bh2 37. c4 Ke6 38. Kc3 g3 39. Be3 g2 40.
+Kb4 dxc4 41. Kxc4 Bd6 42. Kb5 Bxa3 43. Kxa4 Bd6 44. Kb3 Kd5 45. Kc2 Ke4 46. Kd2
+Bf4 47. Bxf4 g1=Q 0-1
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ChessAvengers123"]
+[Black "Ibrain23"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/82jUA7G0"]
+[WhiteElo "2484"]
+[BlackElo "2561"]
+[ECO "E48"]
+[Opening "Nimzo-Indian Defense: Normal Variation, Bishop Attack, Classical Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:01:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "-21"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 O-O 5. Bd3 d5 6. Nf3 a6 7. O-O dxc4 8. Bxc4
+b5 9. Bd3 Bb7 10. Bd2 Nbd7 11. Rc1 c5 12. a3 Ba5 13. Bb1 cxd4 14. exd4 Rc8 15.
+Bg5 b4 16. axb4 Bxb4 17. Qb3 Qa5 18. Ne5 Nxe5 19. Bxf6 Nf3+ 20. gxf3 gxf6 21.
+d5 Bxc3 22. Qxb7 Rb8 23. Qd7 Bd2 24. Rc4 Rb4 25. Rc7 Qxd5 26. Qe7 Rh4 27. Qxf6
+Bg5 0-1
+

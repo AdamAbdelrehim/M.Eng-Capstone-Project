@@ -1,0 +1,29 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "t-swifty"]
+[Black "playRapidNotBlitz"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/23VGXnm6"]
+[BlackTitle "IM"]
+[WhiteElo "2455"]
+[BlackElo "2660"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Wing Gambit"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:44:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-12"]
+
+1. e4 c5 2. b4 d6 3. bxc5 dxc5 4. Nf3 Nc6 5. Bb5 Bd7 6. O-O e6 7. Nc3 Nge7 8.
+d3 Ng6 9. Bg5 Be7 10. Bxe7 Qxe7 11. d4 cxd4 12. Nxd4 Qc5 13. Bxc6 Bxc6 14. Nde2
+Rd8 15. Qc1 O-O 16. Rd1 b5 17. Rxd8 Rxd8 18. a3 a5 19. Rb1 b4 20. axb4 axb4 21.
+Na2 Bxe4 22. Nxb4 Nh4 23. Nd3 Qc4 24. Qg5 f6 25. Qxh4 Qxc2 26. Re1 Qxd3 27. Ng3
+Bg6 28. Qa4 Qd2 29. Ra1 h5 30. Qc4 Bf7 31. Ra7 Qd6 32. Nf1 Rb8 33. Qc2 Rf8 34.
+Qb3 Qd4 35. Qb7 Qd1 36. Qc6 e5 37. Rd7 Qa1 38. Rb7 Qa8 39. Qd7 Qc8 40. Qe7 Qc4
+41. Rc7 Qe6 42. Qc5 Rd8 43. Ne3 Qa6 44. Qe7 Rf8 45. Ra7 Qb6 46. Rb7 Qd4 47. Ra7
+h4 48. Qc7 h3 49. gxh3 Qe4 50. Qd7 Qf3 51. Nf5 Qh5 52. Ra4 Bg6 53. Qxg7# 1-0
+

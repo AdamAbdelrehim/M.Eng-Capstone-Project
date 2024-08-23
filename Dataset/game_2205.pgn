@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Rory_Sutherland"]
+[Black "eliteMATI"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/2L1gORWv"]
+[WhiteElo "2741"]
+[BlackElo "2770"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Four Knights Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:53:59"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. a3 Be7 7. Nxc6 bxc6 8.
+e5 Nd5 9. Qg4 g6 10. Bd2 Rb8 11. O-O-O Bxa3 12. bxa3 Qb6 13. Bb5 Nxc3 14. Bxc3
+Qxb5 15. Qb4 c5 16. Qxb5 Rxb5 17. h4 h5 18. Rh3 Bb7 19. Rhd3 Bc6 20. f3 O-O 21.
+Bd2 c4 22. Re3 Rfb8 23. Bb4 a5 24. Bd6 Rb1+ 25. Kd2 Rxd1+ 26. Kxd1 Rb1+ 27. Ke2
+Rg1 28. Kf2 Rc1 29. Rc3 Bd5 30. Be7 a4 31. Ke3 Kg7 32. Kf4 Rg1 33. Kg3 Re1 34.
+Kf4 Re2 35. g3 Kg8 36. Kg5 Kg7 37. g4 Rg2 38. Bf6+ Kh7 39. Be7 Kg7 40. Bf6+ Kf8
+41. Bd8 Ke8 42. Bf6 d6 43. exd6 Kd7 44. Be7 e5 45. Kf6 Rf2 46. Kxe5 Bxf3 47.
+gxh5 gxh5 48. Rxc4 Bc6 49. Rb4 Re2+ 50. Kd4 Rxc2 51. Rb6 Rd2+ 52. Kc5 Rc2+ 53.
+Kd4 f5 54. Ra6 f4 55. Ra7+ Ke6 56. Bf8 f3 57. Re7+ Kf6 58. Bg7+ Kg6 59. Be5 f2
+60. Rg7+ Kh6 61. Rf7 Rd2+ 62. Ke3 Rc2 63. Rxf2 Rxf2 64. Kxf2 Kg6 65. Ke3 Kf5
+66. Kd4 Ke6 67. Bf4 Bd7 68. Be5 Be8 69. Bf4 Kf5 70. Be5 Kg4 71. Bf4 Kxf4 72.
+Kd5 Kf5 73. Kc5 Bd7 74. Kd5 Be6+ 75. Kc5 Kf6 76. Kc6 Kf7 77. Kc7 Bd7 78. Kxd7
+Kf6 0-1
+

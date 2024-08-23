@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "chessplay8"]
+[Black "trobe35"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/5eEv5onr"]
+[WhiteElo "2819"]
+[BlackElo "2748"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Queen's Knight Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:29:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. d4 d5 2. c4 e6 3. Nc3 h6 4. g3 Nf6 5. Bg2 Nc6 6. Nf3 Bd6 7. O-O O-O 8. Nb5
+dxc4 9. Nd2 a6 10. Nxd6 Qxd6 11. Nxc4 Qxd4 12. Qc2 Nd5 13. Rd1 Qc5 14. a3 b5
+15. Ne3 Qxc2 16. Nxc2 Nce7 17. e4 Nb6 18. Bf4 Bb7 19. Bxc7 Nc4 20. b3 Rac8 21.
+Rd7 Rfe8 22. bxc4 Bc6 23. Rxe7 Rxe7 24. Bd6 Rd7 25. c5 a5 26. Nd4 1-0
+

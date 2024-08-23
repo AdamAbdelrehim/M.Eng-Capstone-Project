@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "eliteMATI"]
+[Black "mick_chess"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ljHv3xbc"]
+[WhiteElo "2754"]
+[BlackElo "2778"]
+[ECO "A06"]
+[Opening "Zukertort Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:59:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. Nf3 d5 2. e3 e6 3. c4 Nf6 4. b3 Be7 5. Bb2 O-O 6. Nc3 b6 7. cxd5 exd5 8. d4
+Bb7 9. Bd3 Nbd7 10. O-O Re8 11. Rc1 c5 12. dxc5 bxc5 13. Na4 Rc8 14. Bf5 Rc7
+15. Bxd7 Nxd7 16. Ne5 Nxe5 17. Bxe5 Rc8 18. Qg4 Bf8 19. Bb2 d4 20. exd4 Re4 21.
+Qf5 g6 22. Qf3 cxd4 23. Qd3 Rxc1 24. Rxc1 Qg5 25. f3 Rf4 26. Kh1 Bd6 27. Re1
+Bc6 28. Bc1 Qh4 29. Rf1 Rxf3 0-1
+

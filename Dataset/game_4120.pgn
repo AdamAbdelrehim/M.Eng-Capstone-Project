@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "mikailidis_efkerios"]
+[Black "Lordiron"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/wQP4pVam"]
+[BlackTitle "FM"]
+[WhiteElo "2533"]
+[BlackElo "2381"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed, Traditional"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:23:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. e4 c5 2. Nc3 Nc6 3. Bb5 Qc7 4. Nf3 a6 5. Bxc6 dxc6 6. e5 Bg4 7. Qe2 e6 8. d3
+h6 9. Bf4 g5 10. Bg3 Bg7 11. O-O-O Ne7 12. Ne4 O-O-O 13. Nd6+ Kb8 14. Nxf7 1-0
+

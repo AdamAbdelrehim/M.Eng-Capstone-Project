@@ -1,0 +1,39 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.04.14"]
+[Round "-"]
+[White "dron0228"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "3r4/pb2kp2/1p2p3/1np5/4N3/2P2P2/PK4PP/3r1B1R w - -"]
+[Timezone "UTC"]
+[ECO "A43"]
+[ECOUrl "https://www.chess.com/openings/Old-Benoni-Defense-Franco-Benoni-Defense"]
+[UTCDate "2022.04.14"]
+[UTCTime "20:52:07"]
+[WhiteElo "1509"]
+[BlackElo "1544"]
+[TimeControl "180"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "20:52:07"]
+[EndDate "2022.04.14"]
+[EndTime "20:55:17"]
+[Link "https://www.chess.com/game/live/43708512305"]
+
+1. d4 { [%clk 0:03:00] } 1... c5 { [%clk 0:02:59.9] } 2. d5
+{ [%clk 0:02:57.4] } 2... e6 { [%clk 0:02:58.2] } 3. e4 { [%clk 0:02:54.5] }
+3... Nf6 { [%clk 0:02:53.4] } 4. Nc3 { [%clk 0:02:47.6] } 4... b6
+{ [%clk 0:02:49.1] } 5. Bg5 { [%clk 0:02:44.8] } 5... Bb7 { [%clk 0:02:46.7] }
+6. e5 { [%clk 0:02:40.5] } 6... h6 { [%clk 0:02:41.7] } 7. exf6
+{ [%clk 0:02:35.3] } 7... hxg5 { [%clk 0:02:40.6] } 8. fxg7
+{ [%clk 0:02:33.4] } 8... Bxg7 { [%clk 0:02:40.5] } 9. dxe6
+{ [%clk 0:02:31.1] } 9... dxe6 { [%clk 0:02:33.4] } 10. Qxd8+
+{ [%clk 0:02:25.9] } 10... Kxd8 { [%clk 0:02:33.3] } 11. O-O-O+
+{ [%clk 0:02:22.7] } 11... Ke7 { [%clk 0:02:31.3] } 12. Nb5
+{ [%clk 0:02:20.6] } 12... Nc6 { [%clk 0:02:17.3] } 13. f3 { [%clk 0:02:05.7] }
+13... Rad8 { [%clk 0:02:13.7] } 14. Nh3 { [%clk 0:01:51.5] } 14... Bxb2+
+{ [%clk 0:02:06.1] } 15. Kxb2 { [%clk 0:01:47.9] } 15... Rxd1
+{ [%clk 0:02:04.8] } 16. Nxg5 { [%clk 0:01:43.9] } 16... Rhd8
+{ [%clk 0:01:55] } 17. Ne4 { [%clk 0:01:31.8] } 17... Nd4 { [%clk 0:01:44.8] }
+18. c3 { [%clk 0:01:26.1] } 18... Nxb5 { [%clk 0:01:38.7] } 0-1
+

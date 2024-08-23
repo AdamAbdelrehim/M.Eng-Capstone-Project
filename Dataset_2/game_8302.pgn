@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.06"]
+[Round "-"]
+[White "e-dod"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r3r1k1/5pp1/p4n1p/8/6P1/1bP1KN1P/1q2QP2/1N1R3R w - -"]
+[Timezone "UTC"]
+[ECO "B20"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Bowdler-Attack-2...e6"]
+[UTCDate "2023.04.06"]
+[UTCTime "05:13:27"]
+[WhiteElo "1921"]
+[BlackElo "1944"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "05:13:27"]
+[EndDate "2023.04.06"]
+[EndTime "05:19:16"]
+[Link "https://www.chess.com/game/live/74497190309"]
+
+1. e4 { [%clk 0:09:59.9] } 1... c5 { [%clk 0:09:58.5] } 2. Bc4
+{ [%clk 0:09:58.1] } 2... e6 { [%clk 0:09:56.8] } 3. d3 { [%clk 0:09:53.9] }
+3... a6 { [%clk 0:09:43] } 4. c3 { [%clk 0:09:49.8] } 4... d5
+{ [%clk 0:09:13.4] } 5. exd5 { [%clk 0:09:38.1] } 5... exd5
+{ [%clk 0:09:13.3] } 6. Qe2+ { [%clk 0:09:36.6] } 6... Be7 { [%clk 0:09:10.7] }
+7. Bb3 { [%clk 0:09:34.8] } 7... b5 { [%clk 0:08:47] } 8. Bg5
+{ [%clk 0:09:30.3] } 8... Nc6 { [%clk 0:08:28.6] } 9. Nd2 { [%clk 0:09:21.7] }
+9... h6 { [%clk 0:08:25.1] } 10. Bh4 { [%clk 0:09:19.2] } 10... Be6
+{ [%clk 0:08:21.2] } 11. Bxe7 { [%clk 0:09:13.3] } 11... Qxe7
+{ [%clk 0:08:21.1] } 12. O-O-O { [%clk 0:09:09.2] } 12... Nf6
+{ [%clk 0:08:18.8] } 13. h3 { [%clk 0:09:04.2] } 13... O-O { [%clk 0:08:16.1] }
+14. Ngf3 { [%clk 0:09:01.2] } 14... c4 { [%clk 0:08:15.3] } 15. Bc2
+{ [%clk 0:08:52.7] } 15... b4 { [%clk 0:08:07.2] } 16. cxb4
+{ [%clk 0:08:38.3] } 16... Nxb4 { [%clk 0:08:04.9] } 17. a3
+{ [%clk 0:08:35.4] } 17... Nxc2 { [%clk 0:08:04] } 18. Kxc2
+{ [%clk 0:08:33.2] } 18... Rfc8 { [%clk 0:08:00.7] } 19. dxc4
+{ [%clk 0:08:29.3] } 19... dxc4 { [%clk 0:07:56.7] } 20. g4
+{ [%clk 0:08:15.8] } 20... c3 { [%clk 0:07:46.3] } 21. bxc3
+{ [%clk 0:07:53.8] } 21... Qxa3 { [%clk 0:07:40.3] } 22. Nb1
+{ [%clk 0:07:43.1] } 22... Bb3+ { [%clk 0:07:15.8] } 23. Kd2
+{ [%clk 0:07:39.6] } 23... Qb2+ { [%clk 0:07:05.7] } 24. Ke3 { [%clk 0:07:35] }
+24... Re8+ { [%clk 0:06:59.7] } 0-1
+

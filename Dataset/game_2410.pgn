@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "YoBot_v2"]
+[Black "caissa-x"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/uAl2eGVs"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3009"]
+[BlackElo "2994"]
+[ECO "D38"]
+[Opening "Queen's Gambit Declined: Ragozin Defense"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:20:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 Bb4 5. Bg5 h6 6. Bxf6 Qxf6 7. e3 O-O 8. Rc1
+dxc4 9. Bxc4 c5 10. Qb3 cxd4 11. Qxb4 Nc6 12. Ne4 Nxb4 13. Nxf6+ gxf6 14. Nxd4
+e5 15. Nc2 Nxc2+ 16. Rxc2 Bf5 17. Rc1 Rfc8 18. Ke2 Rc7 19. Bb3 Rac8 20. Rxc7
+Rxc7 21. Rd1 Kg7 22. Rd2 h5 23. h4 Bg4+ 24. f3 Be6 25. Rc2 Re7 26. Bc4 Bxc4+
+27. Rxc4 f5 28. Rc5 Re6 29. b3 Kf6 30. Ra5 a6 31. Rc5 Kg7 32. Kf1 b6 33. Rc8
+Rd6 34. Ke1 Rg6 35. Kf1 Rd6 36. Ke1 a5 37. Rc4 Rd3 38. Ke2 Rd6 39. Rc7 Rg6 40.
+Kf1 Rd6 41. Ke2 Re6 42. Kf1 Rd6 43. Ke1 a4 44. Rc3 axb3 45. axb3 Rd8 46. Ke2
+Ra8 47. Rc6 Ra2+ 48. Kf1 Ra1+ 49. Kf2 Ra2+ 50. Kf1 Ra5 51. Rxb6 Ra1+ 52. Ke2
+Ra2+ 53. Kf1 Ra1+ 54. Ke2 Ra2+ 55. Kf1 Ra1+ 1/2-1/2
+

@@ -1,0 +1,29 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "caissa-x"]
+[Black "Botyuliirma"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/wKkVKQEl"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3039"]
+[BlackElo "3005"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense Accepted"]
+[TimeControl "600+4"]
+[UTCDate "2024.06.01"]
+[UTCTime "03:39:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+
+1. Nf3 Nf6 2. c4 e6 3. g3 d5 4. Bg2 dxc4 5. Qa4+ Bd7 6. Qxc4 c5 7. d4 b5 8. Qc2
+Na6 9. O-O cxd4 10. Qd1 Rc8 11. Nxd4 Nc5 12. Bf4 Qb6 13. a3 Be7 14. Nc3 O-O 15.
+b4 Na4 16. Nxa4 bxa4 17. Be3 Qa6 18. Qd2 Rfd8 19. Rac1 h6 20. Bf4 Nd5 21. Be5
+Nb6 22. Rc7 Nc4 23. Qd3 Rxc7 24. Bxc7 Rc8 25. Nf5 exf5 26. Qxd7 Qe6 27. Rd1
+Nxa3 28. Bc6 Qxd7 29. Rxd7 Bd6 30. Rxd6 Rxc7 31. Rd8+ Kh7 32. Bxa4 Nc2 33. b5
+Na3 34. Rd6 g6 35. Rc6 Re7 36. Kf1 Kg7 37. Rc3 Nb1 38. Rc2 Na3 39. Rc3 Nb1 40.
+Rc2 Na3 41. Rc3 1/2-1/2
+

@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "RaspFish"]
+[Black "magnusglad_bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/611dCP9u"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2977"]
+[BlackElo "2797"]
+[ECO "A00"]
+[Opening "Saragossa Opening"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:21:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. c3 d5 2. Nf3 Nf6 3. d4 e6 4. Bf4 Bd6 5. e3 O-O 6. Ne5 c5 7. Nd2 Qc7 8. Bd3
+Nbd7 9. Ndf3 c4 10. Bc2 b5 11. h4 b4 12. cxb4 Rb8 13. a3 a5 14. O-O axb4 15.
+axb4 Rxb4 16. Qd2 Rb6 17. Rfb1 Ba6 18. Qd1 Nb8 19. b3 c3 20. Ra5 h6 21. Rba1
+Ne4 22. Ne1 Rc8 23. Qg4 Nf6 24. Qf3 Ne4 25. Qg4 Nf6 26. Qd1 Ne4 27. Qh5 Nf6 28.
+Qf3 Ne4 29. R5a4 Bb5 30. Ra7 Rb7 31. Ra8 Rb6 32. h5 Ra6 33. R1xa6 Bxa6 34. Qg4
+Nf6 35. Qh4 Ne8 36. Qg3 Qb7 37. Bxh6 f6 38. N1f3 Qxa8 39. Bxg7 Bxe5 40. dxe5
+Nxg7 41. h6 Qa7 42. exf6 Bd3 43. Bxd3 c2 44. fxg7 c1=Q+ 45. Kh2 Kf7 46. Ne5+
+Ke7 47. Ng6+ Kd7 48. Bb5+ Qc6 49. Nf8+ Rxf8 50. gxf8=Q Qc7 51. h7 Qxg3+ 52.
+fxg3 Kc7 53. h8=Q Qxb5 54. Qc8+ Kb6 55. Qd4+ Ka5 56. Qc7+ Qb6 57. Qdxb6# 1-0
+

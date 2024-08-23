@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Rookie1243"]
+[Black "wu0921"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Aq6LlGSZ"]
+[WhiteElo "2460"]
+[BlackElo "2524"]
+[ECO "B87"]
+[Opening "Sicilian Defense: Sozin Attack, Flank Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:31:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 b5 8. O-O
+Nbd7 9. Bxe6 fxe6 10. Nxe6 Qb6 11. Nd5 Qb8 12. Nec7+ Kf7 13. Nxa8 Qxa8 14. Re1
+Nxd5 15. exd5 Nf6 16. a4 b4 17. Qd4 Qxd5 18. Qxb4 Bb7 19. f3 Qc5+ 20. Qxc5 dxc5
+21. Bf4 Be7 22. Rad1 Nd5 23. Bd2 c4 24. Ba5 Rc8 25. Re5 Rc5 26. Be1 Bf6 27. Re4
+Bxb2 28. Bf2 Rc7 29. Rh4 h6 30. Bd4 Bxd4+ 31. Rhxd4 Nf6 32. Rd6 Bc6 33. a5 Rd7
+34. Rxd7+ Bxd7 35. Rd6 Bb5 36. Kf2 Ke7 37. Rb6 Nd5 38. Rb7+ Kf6 39. g4 Nb4 40.
+c3 Nd5 41. f4 Nxf4 42. Ke3 Ne6 43. h4 g5 44. h5 Nf8 45. Kd4 Ne6+ 46. Kd5 Nf4+
+47. Kd6 Ne2 48. Rxb5 axb5 49. a6 b4 50. a7 Nxc3 51. a8=Q Nb5+ 52. Kc5 Nc3 53.
+Kxb4 Ne2 54. Kxc4 Nf4 55. Qh8+ Ke6 56. Qxh6+ Ke5 57. Qxg5+ Ke4 58. Qxf4+ Kxf4
+59. h6 Kg5 60. h7 Kxg4 61. h8=Q Kf4 62. Qd8 Ke3 63. Qd5 Ke2 64. Qd4 Kf3 65. Kd3
+Kg2 66. Qe4+ Kg3 67. Qf5 Kh4 68. Qg6 Kh3 69. Ke4 Kh2 70. Kf4 Kh1 71. Kf3 Kh2
+72. Qg2# 1-0
+

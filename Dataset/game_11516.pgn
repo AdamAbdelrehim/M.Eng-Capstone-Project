@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "whiteprocess"]
+[Black "positionaloldman"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/4F2qGtZa"]
+[WhiteTitle "FM"]
+[WhiteElo "2543"]
+[BlackElo "2543"]
+[ECO "B51"]
+[Opening "Sicilian Defense: Moscow Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:21:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bd3 Ngf6 6. Re1 e6 7. c3 Qc7 8. Bc2
+b5 9. d4 Bb7 10. Nbd2 e5 11. dxe5 dxe5 12. Nf1 c4 13. Ne3 Nc5 14. Nd5 Nxd5 15.
+exd5 f6 16. Nxe5 fxe5 17. Qh5+ Qf7 18. Qxe5+ Qe7 19. Qh5+ g6 20. Bxg6+ hxg6 21.
+Rxe7+ Kxe7 1-0
+

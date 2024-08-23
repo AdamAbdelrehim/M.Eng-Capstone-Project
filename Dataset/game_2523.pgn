@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "horeeet"]
+[Black "German_1_takoi"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Kp6lhSjX"]
+[WhiteTitle "GM"]
+[WhiteElo "2538"]
+[BlackElo "2466"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:39:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-8"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 c5 4. Nc3 Nc6 5. Nb5 Qa5+ 6. c3 e5 7. dxe5 c4 8. a4
+a6 9. exf6 axb5 10. Qxd5 bxa4 11. Qe4+ Be6 12. Bxc4 1-0
+

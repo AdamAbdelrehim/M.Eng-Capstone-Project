@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Karbular"]
+[Black "thanozz"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/gPMO8IsT"]
+[WhiteElo "2726"]
+[BlackElo "2775"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:41:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "+25"]
+[BlackRatingDiff "-6"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 e6 4. e3 Bd6 5. Bg3 Ne4 6. Bd3 Nxg3 7. hxg3 c5 8. c3
+Nd7 9. Nbd2 b6 10. e4 Bb7 11. e5 Be7 12. g4 a6 13. Qe2 b5 14. Qe3 b4 15. g5 Qa5
+16. c4 cxd4 17. Nxd4 Nc5 18. N2b3 Nxb3 19. Nxb3 Qd8 20. f4 dxc4 21. Bxc4 Bxg2
+22. Rh2 Bb7 23. Rd2 Qc7 24. Rc1 Rc8 25. Bb5+ axb5 26. Rxc7 Rxc7 27. Qb6 Bd8 28.
+Qxb5+ Bc6 29. Qxb4 Rc8 30. Nd4 Be7 31. Qb6 Bd7 32. Nb5 h5 33. Nc7+ 1-0
+

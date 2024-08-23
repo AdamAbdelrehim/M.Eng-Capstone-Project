@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Stammargg"]
+[Black "BenduEducation"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/JTUscJHi"]
+[WhiteElo "2495"]
+[BlackElo "2518"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:40:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 b5 4. a4 b4 5. Bxf6 gxf6 6. e4 Bg7 7. Nd2 d6 8. Bb5+
+Kf8 9. Ne2 f5 10. Ng3 fxe4 11. Rb1 f5 12. Nh5 a6 13. Nxg7 Kxg7 14. Bc4 Nd7 15.
+f3 e3 16. Nf1 f4 17. g3 Ne5 18. Be2 Qf8 19. Rg1 Kh6 20. c3 a5 21. Qc1 Rg8 22.
+Nxe3 fxe3 23. Qxe3+ Kg7 24. f4 Ng4 25. Bxg4 Bxg4 26. Kf2 Kh8 27. Rge1 Rg7 28.
+cxb4 axb4 29. b3 Bf5 30. Rb2 Qf6 31. Rbe2 Kg8 32. Qd2 Kf8 33. Re3 Rc8 34. Qe2
+Rc7 35. a5 Ra7 36. a6 Qd4 37. Qb5 Kf7 38. Qb6 Ra8 39. Qb7 Re8 40. a7 Rgg8 41.
+Kg2 Kf6 42. a8=Q Rxa8 43. Qxe7+ Kg6 44. Re6+ Kh5 45. Qh4# 1-0
+

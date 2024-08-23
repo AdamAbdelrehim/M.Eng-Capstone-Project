@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Bierblitz"]
+[Black "LadySea"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/VLRFsSBY"]
+[WhiteElo "2585"]
+[BlackElo "2481"]
+[ECO "A03"]
+[Opening "Bird Opening: Dutch Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:36:40"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. f4 d5 2. Nf3 Nf6 3. e3 g6 4. Be2 Bg7 5. O-O O-O 6. d3 c5 7. Qe1 Nc6 8. a4 b6
+9. Na3 Bb7 10. c3 Re8 11. Qg3 Nh5 12. Qf2 Qd7 13. Ne5 Nxe5 14. fxe5 Qe6 15. d4
+c4 16. Bxh5 gxh5 17. Qh4 Qg6 18. Rf3 Qg4 19. Qf2 Rf8 20. Rg3 Qe4 21. Qf3 Qxf3
+22. gxf3 f6 23. f4 e6 24. Bd2 Kh8 25. Nb5 Rf7 26. Nd6 Rd7 27. Kf2 Bf8 28. Rag1
+Bxd6 29. exd6 Rf8 30. Rh3 Rxd6 31. Rxh5 Bc6 32. Ra1 a5 33. Rh3 Bd7 34. Rg3 e5
+35. Ke2 exf4 36. exf4 Re8+ 37. Re3 Rde6 38. Rxe6 Rxe6+ 39. Kf2 Re4 40. Kf3 Kg7
+41. Be3 Kg6 42. Rg1+ Kf7 43. Rg3 Bxa4 44. Rh3 Kg7 45. Rg3+ Kf7 46. Rh3 Kg8 47.
+Rg3+ Kh8 48. f5 Bd1+ 49. Kf2 Rg4 50. Bh6 Rxg3 51. hxg3 Kg8 52. Bf4 b5 53. Bc7
+a4 54. Bd6 Bg4 55. Ke3 Bxf5 56. Kf4 Be6 57. g4 Kf7 58. Bc5 Kg6 59. Bd6 Bd7 60.
+Bc5 Be6 61. Bd6 f5 62. g5 Bf7 63. Bf8 Kh5 64. Bd6 Kg6 65. Bf8 Bg8 66. Bd6 h6
+67. gxh6 Be6 68. Bf8 Kh7 69. Ke5 Bd7 70. Kd6 f4 71. Kxd7 f3 72. Kc6 f2 73. Kxb5
+f1=Q 74. Kc5 Qxf8+ 75. Kxd5 a3 76. Kxc4 a2 77. b4 a1=Q 78. b5 Qc8+ 0-1
+

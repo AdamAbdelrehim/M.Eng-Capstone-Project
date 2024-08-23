@@ -1,0 +1,33 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/oNUIaDtp"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Naumovich_Yaroslav"]
+[Black "IlyaKozlovsky"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Mss14lE9"]
+[WhiteElo "2500"]
+[BlackElo "2321"]
+[ECO "A56"]
+[Opening "Benoni Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:05:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. c4 c5 3. Nc3 cxd4 4. Qxd4 g6 5. Nf3 Bg7 6. g3 O-O 7. Bg2 Nc6 8.
+Qd1 d6 9. O-O Be6 10. b3 Ne4 11. Nxe4 Bxa1 12. Bh6 Bg7 13. Bxg7 Kxg7 14. Nd4
+Nxd4 15. Qxd4+ f6 16. Ng5 Bc8 17. Bxb7 e5 18. Qd2 Rb8 19. Bxc8 Qxc8 20. Ne4 Rd8
+21. Rd1 Qc7 22. Qd5 Qf7 23. Qa5 Qe7 24. Qa3 Rb6 25. Rd5 f5 26. Nc3 a6 27. Qa5
+Rc6 28. e3 Rc5 29. Qxa6 Rcc8 30. Qa3 Ra8 31. Qc1 h5 32. h4 e4 33. Qd2 Ra6 34.
+a4 Rb8 35. Nb5 Rbb6 36. Qd4+ Kf7 37. c5 dxc5 38. Rxc5 Rb7 39. Rc8 Rf6 40. Rd8
+Kg7 41. a5 Kh6 42. a6 Rxb5 43. a7 Ra5 44. a8=Q Rxa8 45. Rxa8 Kg7 46. Ra7 Kf7
+47. Rxe7+ Kxe7 48. b4 Re6 49. b5 Rd6 50. Qc5 Kd7 51. b6 Re6 52. Qc7+ Ke8 53. b7
+Re7 54. b8=Q+ Kf7 55. Qxe7+ Kxe7 56. Qe5+ Kf7 57. Qf4 Kf6 58. Qg5+ Kg7 59. Kf1
+Kf7 60. Ke2 Ke6 61. Kd2 Kf7 62. Kc3 Kg7 63. Kd4 f4 64. Ke5 fxg3 65. fxg3 Kf7
+66. Kxe4 Kg7 67. Kf4 Kf7 68. e4 Kg7 69. e5 Kf7 70. Qf6+ Ke8 71. Kg5 Kd7 72.
+Kxg6 Kc7 73. Kxh5 Kd7 74. Kg6 Kc7 75. h5 Kd7 76. h6 Kc7 77. h7 Kb7 78. h8=Q Ka7
+79. Qh7+ Ka8 80. Qfh8# 1-0
+

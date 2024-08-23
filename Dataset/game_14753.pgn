@@ -1,0 +1,23 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "plevok228"]
+[Black "oqp1993"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/5oxwpEUS"]
+[WhiteElo "2586"]
+[BlackElo "2655"]
+[ECO "C36"]
+[Opening "King's Gambit Accepted: Modern Defense"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:02:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+23"]
+
+1. e4 e5 2. f4 d5 3. exd5 exf4 4. Nf3 g5 5. Qe2+ Be7 6. Nxg5 Qxd5 7. Nf3 Bg4 8.
+Nc3 Qh5 9. d4 Nc6 10. Qb5 Bxf3 11. gxf3 Qxf3 12. d5 Bh4+ 13. Kd2 Qe3+ 14. Kd1
+Qe1# 0-1
+

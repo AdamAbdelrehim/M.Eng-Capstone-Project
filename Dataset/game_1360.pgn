@@ -1,0 +1,56 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "PurpleHunter"]
+[Black "odonata-bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/uT1Flhnh"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2644"]
+[BlackElo "2631"]
+[ECO "E12"]
+[Opening "Queen's Indian Defense: Kasparov-Petrosian Variation, Kasparov Attack"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:28:47"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+0"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 b6 4. a3 Bb7 5. Nc3 d5 6. cxd5 Nxd5 7. Qc2 Nxc3 8.
+Qxc3 Bd6 9. Bg5 Qc8 10. e3 Nd7 11. Bb5 O-O 12. O-O c6 13. Be2 c5 14. Qd3 Nf6
+15. Bxf6 gxf6 16. dxc5 Qxc5 17. Rfc1 Qd5 18. Qc3 Be5 19. Qb4 Rfd8 20. Rc2 Rac8
+21. Rd2 Qe4 22. Qxe4 Bxe4 23. Rxd8+ Rxd8 24. Nxe5 fxe5 25. Rd1 Rc8 26. f3 Bd5
+27. e4 Bb3 28. Rd7 a5 29. Bd3 Rc1+ 30. Kf2 Rd1 31. Ke2 Ra1 32. Rd8+ Kg7 33. Bb5
+Rb1 34. Rd2 a4 35. Kf2 h6 36. Kg3 Kf6 37. Kf2 Rc1 38. Be8 Ke7 39. Bb5 Kf6 40.
+Kg3 Rc5 41. Ba6 Rc1 42. Rd6 Rb1 43. Rxb6 Rxb2 44. Bc4 Ra2 45. Bxb3 Rb2 46. Rb4
+axb3 47. Rb5 Rb1 48. a4 Rb2 49. Rb6 Kg6 50. a5 Kf6 51. a6 Ra2 52. Rxb3 Rxa6 53.
+Rb8 Kg6 54. Rb5 Kf6 55. h4 h5 56. Kh3 Ra4 57. Kh2 Ra1 58. Rb3 Ra8 59. Kh3 Kg6
+60. Rb6 Ra3 61. Kh2 Kf6 62. Kg1 Ra2 63. Rb8 Kg6 64. Rg8+ Kh6 65. Rc8 Kg6 66.
+Rc5 Ra1+ 67. Kf2 f6 68. Kg3 Kf7 69. Rc7+ Kg6 70. Re7 Ra6 71. Re8 Kf7 72. Rh8
+Ra2 73. Rd8 Kg7 74. Rd7+ Kg6 75. Rd6 Kf7 76. Rc6 Ra1 77. Rc5 Ra4 78. Rc7+ Kg6
+79. Rc8 f5 80. exf5+ exf5 81. Rc6+ Kg7 82. Re6 Ra5 83. Kh2 Rb5 84. Re7+ Kf6 85.
+Re8 Kg7 86. Kh3 e4 87. fxe4 Kf7 88. Rd8 fxe4 89. Kg3 Rb3+ 90. Kf2 Rb2+ 91. Kg3
+e3 92. Rd3 e2 93. Rf3+ Kg6 94. Kf2 e1=Q+ 95. Kxe1 Rxg2 96. Rf1 Rg4 97. Rh1 Rc4
+98. Rf1 Rxh4 99. Rg1+ Kf5 100. Rf1+ Ke6 101. Rg1 Rf4 102. Rf1 Rd4 103. Rg1 Rd5
+104. Rf1 Kd7 105. Rg1 Rf5 106. Rf1 Rg5 107. Rh1 Kc8 108. Rf1 Kb7 109. Rh1 Rb5
+110. Rf1 Rb1+ 111. Ke2 Rb5 112. Ra1 Rg5 113. Rb1+ Ka6 114. Ra1+ Kb7 115. Rb1+
+Ka6 116. Ra1+ Kb6 117. Rb1+ Ka5 118. Ra1+ Kb5 119. Rb1+ Ka5 120. Ra1+ Kb4 121.
+Rb1+ Ka4 122. Ra1+ Kb4 123. Rb1+ Ka4 124. Ra1+ Kb5 125. Rb1+ Kc6 126. Ra1 Rg8
+127. Rb1 h4 128. Ra1 Kb7 129. Rb1+ Kc7 130. Ra1 Kb7 131. Rb1+ Ka6 132. Ra1+ Kb5
+133. Rb1+ Ka4 134. Ra1+ Kb5 135. Rb1+ Kc6 136. Ra1 Kd7 137. Rb1 Rg3 138. Ra1 h3
+139. Rb1 Kc8 140. Ra1 Kd7 141. Rb1 Kc8 142. Ra1 Kb7 143. Rb1+ Ka7 144. Ra1+ Kb8
+145. Rb1+ Kc7 146. Ra1 Kc6 147. Rb1 Kd7 148. Ra1 Ke7 149. Rb1 Kd6 150. Ra1 Kc6
+151. Rb1 Kd5 152. Ra1 Kc4 153. Rb1 Rg8 154. Ra1 Rh8 155. Rb1 Kd5 156. Ra1 Kc4
+157. Rb1 h2 158. Rc1+ Kd5 159. Rd1+ Kc5 160. Rc1+ Kd5 161. Rd1+ Ke5 162. Rh1
+Kd6 163. Rd1+ Kc5 164. Rc1+ Kb4 165. Rb1+ Kc4 166. Rc1+ Kd4 167. Rd1+ Ke4 168.
+Rh1 Rh6 169. Kf2 Rh8 170. Re1+ Kd3 171. Rd1+ Kc2 172. Rh1 Kb3 173. Rb1+ Ka2
+174. Rh1 Kb2 175. Ke1 Rh6 176. Kd1 Kc3 177. Ke1 Rh7 178. Kf1 Kd3 179. Kf2 Rh8
+180. Rd1+ Kc3 181. Rc1+ Kb2 182. Rh1 Ka2 183. Ke1 Kb3 184. Kd1 Kb4 185. Ke1 Kb3
+186. Kd1 Rh7 187. Ke1 Ka4 188. Kd1 Kb4 189. Ke1 Rh8 190. Kd1 Ra8 191. Kc2 Kb5
+192. Rb1+ Kc6 193. Rc1 Kd7 194. Rh1 Ra2+ 195. Kd3 Rb2 196. Ra1 Ra2 197. Rb1 Ke6
+198. Ke3 Ke5 199. Rc1 Rc2 200. Ra1 Kd5 201. Rb1 Rb2 202. Ra1 Rc2 203. Rb1 Rg2
+204. Rd1+ Ke5 205. Rh1 Ra2 206. Rb1 Rb2 207. Ra1 Kd6 1/2-1/2
+

@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.05"]
+[Round "-"]
+[White "eramsu"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "6k1/1R3pp1/p3p2p/1p6/1P5N/P3P3/5PPP/2r3K1 w - -"]
+[Timezone "UTC"]
+[ECO "A43"]
+[ECOUrl "https://www.chess.com/openings/Old-Benoni-Defense-2.c4-cxd4"]
+[UTCDate "2023.04.05"]
+[UTCTime "05:33:09"]
+[WhiteElo "1561"]
+[BlackElo "1572"]
+[TimeControl "60"]
+[Termination "AdamAbdelrehim won by checkmate"]
+[StartTime "05:33:09"]
+[EndDate "2023.04.05"]
+[EndTime "05:34:10"]
+[Link "https://www.chess.com/game/live/74411985599"]
+
+1. d4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. c4 { [%clk 0:00:59.9] }
+2... cxd4 { [%clk 0:00:59.2] } 3. Qxd4 { [%clk 0:00:59.8] } 3... Nf6
+{ [%clk 0:00:58.9] } 4. Qd1 { [%clk 0:00:59.7] } 4... Nc6 { [%clk 0:00:58] } 5.
+Nf3 { [%clk 0:00:59.6] } 5... e6 { [%clk 0:00:57.8] } 6. Nc3
+{ [%clk 0:00:59.4] } 6... d5 { [%clk 0:00:57.4] } 7. Bg5 { [%clk 0:00:59.1] }
+7... Be7 { [%clk 0:00:56.4] } 8. e3 { [%clk 0:00:58.2] } 8... dxc4
+{ [%clk 0:00:55] } 9. Qxd8+ { [%clk 0:00:56.3] } 9... Bxd8 { [%clk 0:00:54.9] }
+10. Bxc4 { [%clk 0:00:55.4] } 10... O-O { [%clk 0:00:54.6] } 11. O-O
+{ [%clk 0:00:54.7] } 11... h6 { [%clk 0:00:53.8] } 12. Bh4 { [%clk 0:00:53.8] }
+12... Be7 { [%clk 0:00:52.8] } 13. Rac1 { [%clk 0:00:51.1] } 13... Na5
+{ [%clk 0:00:52.5] } 14. Rfd1 { [%clk 0:00:50.3] } 14... a6
+{ [%clk 0:00:52.1] } 15. Bd3 { [%clk 0:00:48.4] } 15... b5 { [%clk 0:00:51] }
+16. b4 { [%clk 0:00:46.9] } 16... Nc6 { [%clk 0:00:48.3] } 17. a3
+{ [%clk 0:00:45.8] } 17... Bb7 { [%clk 0:00:47.8] } 18. Ne4
+{ [%clk 0:00:42.8] } 18... Nxe4 { [%clk 0:00:45.8] } 19. Bxe4
+{ [%clk 0:00:42.7] } 19... Bxh4 { [%clk 0:00:40.8] } 20. Nxh4
+{ [%clk 0:00:42.6] } 20... Rac8 { [%clk 0:00:39.9] } 21. Bxc6
+{ [%clk 0:00:41.2] } 21... Rxc6 { [%clk 0:00:39.6] } 22. Rxc6
+{ [%clk 0:00:40] } 22... Bxc6 { [%clk 0:00:39.5] } 23. Rd6 { [%clk 0:00:37.8] }
+23... Bb7 { [%clk 0:00:38.7] } 24. Rb6 { [%clk 0:00:36.1] } 24... Rc8
+{ [%clk 0:00:37.9] } 25. Rxb7 { [%clk 0:00:35] } 25... Rc1#
+{ [%clk 0:00:36.7] } 0-1
+

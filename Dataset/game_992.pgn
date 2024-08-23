@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Kiskar"]
+[Black "CoolGuy64Chess"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/hiS4Pidx"]
+[WhiteElo "2715"]
+[BlackElo "2523"]
+[ECO "E62"]
+[Opening "King's Indian Defense: Fianchetto Variation, Uhlmann-Szabo System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "05:47:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+3"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. c4 O-O 5. O-O d6 6. d4 Nc6 7. Nc3 e5 8. d5
+Nb8 9. c5 Na6 10. cxd6 cxd6 11. a4 Bd7 12. a5 Nc5 13. Nd2 Rc8 14. b4 Nd3 15.
+Qb3 Nxc1 16. Rfxc1 a6 17. Nc4 Qe7 18. e3 Bf5 19. Nb6 Rc7 20. b5 Bd3 21. bxa6
+Bxa6 22. Nb5 Rxc1+ 23. Rxc1 Nd7 24. Rc7 Nc5 25. Qb4 Qf6 26. Nxd6 Nd3 27. Ne4
+Nxb4 28. Nxf6+ Bxf6 29. d6 Bd8 30. h4 Bxc7 31. dxc7 f5 32. c8=Q Rxc8 33. Nxc8
+e4 34. Nb6 Nc6 35. g4 Nxa5 36. f3 exf3 37. Bxf3 fxg4 38. Bxg4 Kf7 39. Bf3 Ke6
+40. Bd1 Ke5 41. Kf2 Nc4 42. Nd7+ Ke6 43. Nf8+ Kf7 44. Nxh7 Ne5 45. Ng5+ Kf6 46.
+Bc2 Bd3 47. Bb3 b5 48. Nh7+ Ke7 49. Ng5 Bc4 50. Bc2 b4 51. Kg3 b3 52. Bb1 b2
+53. Ne4 Bd3 54. Bxd3 Nxd3 55. Nd2 Kd6 56. Kg4 Ke5 57. Kg5 Kd5 58. Kxg6 Ne5+ 59.
+Kf5 Nf3 60. Nb1 Nxh4+ 61. Kf4 Ng2+ 62. Kf3 Nxe3 63. Kxe3 Kc4 64. Kd2 Kb3 65.
+Kd1 Ka2 66. Kc2 Ka1 67. Nc3 b1=Q+ 68. Nxb1 1/2-1/2
+

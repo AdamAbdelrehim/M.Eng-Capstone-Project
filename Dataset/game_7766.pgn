@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "expositor"]
+[Black "ChessatronBot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/iovpdZ6T"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2744"]
+[BlackElo "2471"]
+[ECO "B00"]
+[Opening "Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:13:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. e4 Nc6 2. d4 e5 3. d5 Nce7 4. h4 Nf6 5. Bd3 h6 6. c4 d6 7. Ne2 c6 8. a4 Nh5
+9. Nec3 Nf4 10. Bf1 g6 11. Na3 Bg7 12. g3 Nh5 13. Be2 Nf6 14. Be3 O-O 15. g4
+Re8 16. g5 hxg5 17. hxg5 Nh7 18. Qd2 a6 19. Nab1 Rf8 20. a5 c5 21. Na4 f5 22.
+gxf6 Nxf6 23. Qd3 Nd7 24. Bd2 Rb8 25. Qg3 Nf6 26. Qg2 Nd7 27. Nbc3 Rf7 28. Qh2
+Kf8 29. Nd1 Qc7 30. Ra3 Nf6 31. Qg2 Bd7 32. Nb6 Kg8 33. Rf3 Be8 34. Rfh3 Rd8
+35. Nc3 Bd7 36. Rh4 Re8 37. Qg3 Ref8 38. Nxd7 Nxd7 39. Qh3 Rf4 40. Bxf4 exf4
+41. Bg4 Nf5 42. Bxf5 gxf5 43. Rg1 Kf7 44. Rxg7+ Ke8 45. Rhh7 Kd8 46. Qh6 Re8
+47. Rh8 Qxa5 48. Qxd6 Qa1+ 49. Nd1 Qa5+ 50. Kf1 Kc8 51. Qxd7+ Kb8 52. Qxb7# 1-0
+

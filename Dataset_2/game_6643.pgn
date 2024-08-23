@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.12"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "pzpz"]
+[Result "0-1"]
+[CurrentPosition "rnb1k1nr/pp3ppp/2p1p3/8/3Pq3/2B3P1/PPP4P/R2QKBNR w KQkq -"]
+[Timezone "UTC"]
+[ECO "B12"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-Fantasy-Variation-3...e6-4.Nc3-Bb4"]
+[UTCDate "2022.11.12"]
+[UTCTime "17:07:04"]
+[WhiteElo "1798"]
+[BlackElo "1796"]
+[TimeControl "600"]
+[Termination "pzpz won by resignation"]
+[StartTime "17:07:04"]
+[EndDate "2022.11.12"]
+[EndTime "17:08:42"]
+[Link "https://www.chess.com/game/live/62011809587"]
+
+1. e4 { [%clk 0:09:59.6] } 1... c6 { [%clk 0:09:58.6] } 2. d4
+{ [%clk 0:09:56] } 2... d5 { [%clk 0:09:56.5] } 3. f3 { [%clk 0:09:52.6] } 3...
+e6 { [%clk 0:09:38.3] } 4. Nc3 { [%clk 0:09:45.6] } 4... Bb4
+{ [%clk 0:09:35.2] } 5. Bd2 { [%clk 0:09:34.1] } 5... Bxc3 { [%clk 0:09:15] }
+6. Bxc3 { [%clk 0:09:30.8] } 6... dxe4 { [%clk 0:09:13.4] } 7. fxe4
+{ [%clk 0:09:29] } 7... Qh4+ { [%clk 0:09:11.8] } 8. g3 { [%clk 0:09:20.9] }
+8... Qxe4+ { [%clk 0:09:10] } 0-1
+

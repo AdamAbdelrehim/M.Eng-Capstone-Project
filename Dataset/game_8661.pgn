@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "domore"]
+[Black "tumaridodiegoni"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/5Iuh1gsk"]
+[WhiteElo "2454"]
+[BlackElo "2637"]
+[ECO "B67"]
+[Opening "Sicilian Defense: Richter-Rauzer Variation, Neo-Modern Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "04:26:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Bg5 e6 7. Qd2 a6 8.
+O-O-O Bd7 9. f4 b5 10. Nb3 Be7 11. Bxf6 gxf6 12. Kb1 Qb6 13. f5 b4 14. Ne2 e5
+15. Nec1 a5 16. Ne2 a4 17. Nbc1 h5 18. Ng1 Na5 19. Nf3 Nb7 20. Bc4 Rc8 21. b3
+Nc5 22. h3 Nxe4 23. Qd3 Nc3+ 24. Ka1 e4 25. Qd4 Qxd4 26. Nxd4 Nxd1 27. Rxd1 Rg8
+28. Bf1 d5 29. Nce2 Bd6 30. Kb1 axb3 31. Nxb3 Bc6 32. Ned4 Bb7 33. Bb5+ Ke7 34.
+Bf1 Be5 35. Ne2 Ra8 36. Nec1 Ra3 37. Rd2 Rga8 38. g4 Bf4 39. Rd1 Bxc1 40. Nxc1
+hxg4 41. hxg4 Kd6 42. Nb3 Rxa2 43. Bg2 Ke5 44. Rd4 R8a4 45. Bf1 R4a3 46. Rd1
+Rxb3+ 47. cxb3 Rf2 48. Bb5 d4 49. Bc4 e3 50. Bxf7 Be4+ 51. Ka1 d3 52. Bc4 d2
+53. Rb1 Bxb1 54. Be2 Rxe2 55. g5 d1=Q 56. gxf6 Bxf5# 0-1
+

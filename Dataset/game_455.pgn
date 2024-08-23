@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "fasffdx"]
+[Black "HikaruNaka12"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/i0A1MQLC"]
+[WhiteElo "2328"]
+[BlackElo "2787"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "02:47:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+17"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nf3 Bg4 4. Be2 Nf6 5. Bd3 Nc6 6. Nc3 Qh5 7. h3 O-O-O
+8. O-O Ne5 9. hxg4 Nfxg4 10. Nxe5 Qh2# 0-1
+

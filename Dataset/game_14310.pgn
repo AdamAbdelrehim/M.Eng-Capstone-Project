@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "jacf18"]
+[Black "cn_ua"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/WmxWXVyy"]
+[BlackTitle "IM"]
+[WhiteElo "2566"]
+[BlackElo "2626"]
+[ECO "C11"]
+[Opening "French Defense: Steinitz Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:15:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. f4 c5 6. Nf3 a6 7. Be3 Nc6 8. Ne2 b5
+9. c3 b4 10. Ng3 a5 11. Bd3 Ba6 12. O-O bxc3 13. bxc3 Bxd3 14. Qxd3 cxd4 15.
+Nxd4 Nxd4 16. cxd4 g6 17. f5 gxf5 18. Nxf5 exf5 19. Qxf5 Qe7 20. e6 Qxe6 21.
+Qg5 Be7 22. Qg3 Nf6 23. Bf4 Ne4 24. Qg7 Bf6 0-1
+

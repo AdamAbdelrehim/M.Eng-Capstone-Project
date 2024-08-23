@@ -1,0 +1,23 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Ate_Narda"]
+[Black "Einsteiniumoxid"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/qSwiDF8m"]
+[WhiteElo "2401"]
+[BlackElo "2515"]
+[ECO "B11"]
+[Opening "Caro-Kann Defense: Two Knights Attack, Mindeno Variation, Exchange Line"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:33:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "-40"]
+[BlackRatingDiff "+32"]
+
+1. Nc3 d5 2. e4 c6 3. Nf3 Bg4 4. h3 Bxf3 5. Qxf3 e6 6. Be2 Nf6 7. Kf1 d4 8. Nd1
+Bd6 9. Kg1 Nbd7 10. c3 Ne5 11. cxd4 Nxf3+ 12. Kf1 Nxd4 13. Bc4 Nxe4 14. Ne3 Qh4
+15. g3 Bxg3 16. fxg3 Nxg3+ 17. Ke1 Nxh1+ 18. Kf1 Qf2# 0-1
+

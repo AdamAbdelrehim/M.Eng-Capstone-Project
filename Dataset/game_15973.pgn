@@ -1,0 +1,28 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "imaxchess"]
+[Black "najdorf2010"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/OhSJFqd6"]
+[WhiteElo "2314"]
+[BlackElo "2556"]
+[ECO "B00"]
+[Opening "Pirc Defense"]
+[TimeControl "480+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "23:17:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+25"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. d5 c6 5. f3 Be7 6. Be3 O-O 7. a3 Nbd7 8. Bc4
+Qc7 9. Nge2 Nb6 10. Bb3 cxd5 11. exd5 Nc4 12. Bxc4 Qxc4 13. Qd2 b6 14. O-O-O
+Bb7 15. g4 Nxd5 16. Nxd5 Bxd5 17. Qxd5 Qxe2 18. Rhe1 Qa6 19. g5 Rac8 20. h4 Qa4
+21. Qd3 Rc7 22. Kb1 Rfc8 23. c3 Rxc3 24. bxc3 Qb3+ 25. Kc1 Rxc3+ 26. Qxc3 Qxc3+
+27. Kb1 Qb3+ 28. Kc1 Qxa3+ 29. Kd2 d5 30. Ke2 d4 31. Bd2 a5 32. Ra1 Qd6 33.
+Rec1 d3+ 34. Kf1 e4 35. fxe4 Qh2 36. Ra2 Qh1+ 37. Kf2 Qxh4+ 38. Ke3 Qg3+ 39.
+Kd4 Qd6+ 40. Kc3 Qb4+ 41. Kxd3 Qb3+ 42. Rc3 Qxa2 43. Be3 Qe6 44. Bf4 a4 45. Rc4
+a3 0-1
+

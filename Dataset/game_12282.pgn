@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "trotsky2"]
+[Black "Premier09"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/m8Nmcu5Y"]
+[WhiteElo "2522"]
+[BlackElo "2541"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:04:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. d4 e6 2. c4 d5 3. cxd5 exd5 4. Nc3 Nf6 5. Bg5 Bd6 6. e3 c6 7. Qc2 O-O 8. Bd3
+h6 9. Bh4 Na6 10. a3 Be6 11. Nge2 Nc7 12. O-O Rc8 13. h3 Qd7 14. Bg3 Rfe8 15.
+Bxd6 Qxd6 16. Rad1 b5 17. Bf5 a5 18. Bxe6 Nxe6 19. Qd3 b4 20. Na4 Ne4 21. Rc1
+f5 22. Rc2 f4 23. Rfc1 f3 24. gxf3 N6g5 25. f4 Nxh3+ 26. Kf1 Qg6 27. f3 Ng3+
+28. Nxg3 Qxd3+ 29. Kg2 Rxe3 30. Kxh3 Rxf3 31. Rg2 Rf8 32. Nc5 Qf5+ 33. Kh2 Qxf4
+34. Re1 Qh4+ 0-1
+

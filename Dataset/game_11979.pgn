@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Murakami"]
+[Black "Veselchak-U"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/yPmkOhTb"]
+[WhiteTitle "IM"]
+[WhiteElo "2553"]
+[BlackElo "2533"]
+[ECO "A33"]
+[Opening "English Opening: Symmetrical Variation, Anti-Benoni Variation, Geller Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:24:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+6"]
+
+1. Nf3 c5 2. d4 cxd4 3. Nxd4 Nc6 4. c4 e6 5. Nc3 Nf6 6. g3 Qb6 7. Nb3 Ne5 8. e4
+Bb4 9. f4 Nxe4 10. fxe5 Qf2# 0-1
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Chessblitzer27"]
+[Black "sicilian_training"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/6UNwGsaB"]
+[WhiteElo "2679"]
+[BlackElo "2736"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game: Modern Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:41:21"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 g6 2. c4 Bg7 3. Nf3 c5 4. d5 b5 5. cxb5 a6 6. bxa6 Bxa6 7. e4 Nf6 8. Nc3
+Qa5 9. Bxa6 Nxe4 10. O-O Nxc3 11. bxc3 Bxc3 12. Bb7 Bxa1 13. Bxa8 Qxa8 14. Bh6
+Bf6 15. Re1 d6 16. Qb3 Kd7 17. Rb1 Rc8 18. Nd2 Ke8 19. Nc4 Qxd5 20. Qxb8 Qc6
+21. Qb3 d5 22. Na5 Qd7 23. Bd2 c4 24. Qc2 c3 25. Be1 d4 26. Rd1 e5 27. Nb3 Qa4
+28. g3 Qc4 29. f4 Rd8 30. Qd3 Qxd3 31. Rxd3 e4 32. Rd1 d3 33. Kf2 c2 34. Rc1
+Bb2 35. Bd2 f5 36. Ke3 Ra8 37. Re1 Rxa2 38. Bc1 Bc3 39. Bd2 Bf6 40. Kf2 Be7 41.
+Re3 Bd8 42. Rxd3 Bb6+ 43. Rd4 c1=Q 44. Nxc1 Bxd4+ 0-1
+

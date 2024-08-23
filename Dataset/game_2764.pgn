@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Bobance"]
+[Black "DeCategoriaMoro"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/8QTQ9DK7"]
+[WhiteElo "2724"]
+[BlackElo "2737"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Accelerated London System, Steinitz Countergambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:14:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 d5 2. Bf4 c5 3. e3 cxd4 4. exd4 Nc6 5. c3 f6 6. Nf3 g5 7. Bg3 Bg7 8. Nbd2
+Nh6 9. Bd3 Bf5 10. Qc2 Qd7 11. O-O Bxd3 12. Qxd3 Nf5 13. Rae1 e6 14. Qxf5 1-0
+

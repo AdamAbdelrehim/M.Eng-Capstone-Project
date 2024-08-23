@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Rainbow_88"]
+[Black "MrFox1"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/sHVHvMta"]
+[WhiteElo "2502"]
+[BlackElo "2449"]
+[ECO "A45"]
+[Opening "Trompowsky Attack: Classical Defense, Big Center Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:24:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. Bg5 e6 3. e4 Be7 4. e5 Nd5 5. Bd2 c5 6. c4 Nb6 7. Qg4 g6 8. Nf3 h6
+9. Nc3 a6 10. dxc5 Bxc5 11. Ne4 Be7 12. O-O-O Nc6 13. Bc3 Na4 14. Be1 Rb8 15.
+Nd6+ Bxd6 16. exd6 O-O 17. Qf4 g5 18. Qd2 b5 19. cxb5 axb5 20. h4 f6 21. Bd3
+Nc5 22. Bb1 Qb6 23. Qc2 Rf7 24. hxg5 hxg5 25. Qg6+ Rg7 26. Qe8# 1-0
+

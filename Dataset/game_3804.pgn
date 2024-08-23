@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Masterasasin"]
+[Black "Andreikazan1"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/wGGSo8Ch"]
+[WhiteElo "2533"]
+[BlackElo "2570"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:37:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. Nf3 c5 2. g3 b5 3. c4 Bb7 4. cxb5 Qa5 5. Nc3 d5 6. d4 e6 7. Bg2 Nf6 8. O-O
+Nbd7 9. a4 a6 10. Bd2 Qd8 11. Re1 Ne4 12. Nxe4 dxe4 13. Ne5 axb5 14. axb5 Nxe5
+15. Rxa8 Qxa8 16. dxe5 e3 17. Bxb7 exf2+ 18. Kxf2 Qxb7 19. Qa4 Be7 20. b6+ Qd7
+21. Qa8+ Qd8 22. b7 O-O 23. Qxd8 Rxd8 24. Ra1 1-0
+

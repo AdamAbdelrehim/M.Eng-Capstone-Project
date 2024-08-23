@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "buildorderbot"]
+[Black "likeyacutg"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ouCVuasf"]
+[WhiteElo "2609"]
+[BlackElo "2595"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:16:28"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e3 d5 2. a4 e5 3. a5 Nf6 4. Ra4 c6 5. g4 Bd6 6. b3 Nbd7 7. Be2 Nc5 8. Ra3 e4
+9. Ra2 Qe7 10. h3 O-O 11. d4 exd3 12. cxd3 Be6 13. d4 Nce4 14. Nf3 Bb4+ 15. Kf1
+Kh8 16. a6 b6 17. Ba3 Bxa3 18. Rxa3 Nd7 19. Ra2 f5 20. Rc2 fxg4 21. hxg4 Bxg4
+22. Rxc6 Qf7 23. Kg2 Ng5 24. Nbd2 Rae8 25. Rc7 Ne4 26. Rh4 Qf5 27. Rxd7 Qxd7
+28. Nxe4 Bxf3+ 29. Bxf3 dxe4 30. Bxe4 g6 31. Qg4 Qxg4+ 32. Rxg4 Kg7 33. Bc6 Re7
+34. d5 Rf5 35. d6 Re6 36. Rd4 Rf8 37. d7 Rd8 38. Bb5 Kf6 39. f4 Ke7 40. Kf3 Rd6
+41. Re4+ Kf7 42. Re5 Kg7 43. e4 Rd1 44. Rg5 Kf6 45. e5+ Kf7 46. Rg2 Rb1 47.
+Bc4+ Ke7 48. Rh2 Rc1 49. Rxh7+ Kf8 50. Rh8+ Ke7 51. Rh7+ Kf8 52. Rf7+ Kg8 53.
+Kg4 Rxc4 54. Re7 Kf8 55. Rh7 Rd4 56. Rh8+ Ke7 57. Re8+ Rxe8 58. Kg5 Rd8 59. f5
+R8xd7 60. f6+ Kf8 61. Kxg6 Rf7 0-1
+

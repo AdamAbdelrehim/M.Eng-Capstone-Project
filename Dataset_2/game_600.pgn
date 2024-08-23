@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.05"]
+[Round "-"]
+[White "Jackga217"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rnbqkbnr/pppp2pp/5p2/4p3/3PP3/8/PPP2PPP/RNBQKBNR b KQkq -"]
+[Timezone "UTC"]
+[ECO "A40"]
+[ECOUrl "https://www.chess.com/openings/Englund-Gambit-Declined-Reversed-French-Variation"]
+[UTCDate "2021.03.05"]
+[UTCTime "02:54:35"]
+[WhiteElo "1184"]
+[BlackElo "1294"]
+[TimeControl "1800"]
+[Termination "Jackga217 won by resignation"]
+[StartTime "02:54:35"]
+[EndDate "2021.03.05"]
+[EndTime "02:54:59"]
+[Link "https://www.chess.com/game/live/8651775719"]
+
+1. d4 { [%clk 0:30:00] } 1... e5 { [%clk 0:30:00] } 2. e3 { [%clk 0:29:54] }
+2... f6 { [%clk 0:29:59.9] } 3. e4 { [%clk 0:29:48.5] } 1-0
+

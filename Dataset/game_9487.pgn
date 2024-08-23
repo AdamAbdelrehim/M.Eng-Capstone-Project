@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "InvadedDorms"]
+[Black "ignat_final"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/3Mkm5cSA"]
+[WhiteElo "2641"]
+[BlackElo "2535"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Panov Attack, Modern Defense, Mieses Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:11:00"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 Bg4 7. cxd5 Nxd5 8.
+Qb3 e6 9. Qxb7 Ndb4 10. Bb5 Bxf3 11. gxf3 Qc8 12. Bxc6+ Nxc6 13. Qxc8+ Rxc8 14.
+Be3 Bb4 15. Ke2 Ne7 16. Rhc1 Bxc3 17. bxc3 Kd7 18. c4 Rb8 19. Rab1 Kc6 20. Kd3
+Rhd8 21. Rb3 Rb7 22. Rcb1 Rdd7 23. Rxb7 Rxb7 24. Rxb7 Kxb7 25. Kc3 Nf5 26. d5
+a6 27. Kb4 Nh4 28. f4 Nf3 29. Kc5 exd5 30. cxd5 Kc7 31. f5 Nh4 32. Bf4+ Kd7 33.
+Kb6 Nxf5 34. Kxa6 Ne7 35. d6 Nd5 36. Bg3 f5 37. Be5 g5 38. a4 Nb4+ 39. Kb6 Nc6
+40. f4 Nxe5 41. fxe5 f4 42. a5 f3 43. a6 f2 44. a7 f1=Q 45. a8=Q Qf2+ 46. Kb7
+Qb2+ 47. Ka7 Qa3+ 48. Kb8 Qb4+ 49. Qb7+ Qxb7+ 50. Kxb7 g4 51. Kb6 h5 52. Kc5 h4
+53. Kd5 g3 54. e6+ Ke8 55. d7+ Ke7 56. Kc6 g2 57. Kc7 g1=Q 58. d8=Q+ Kxe6 59.
+Qxh4 Kd5 0-1
+

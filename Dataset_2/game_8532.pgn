@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.19"]
+[Round "-"]
+[White "wimer1017"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "5b1r/1p2pppp/q2p4/8/2P2P2/2N1kQ2/1P4PP/1K1R4 b - -"]
+[Timezone "UTC"]
+[ECO "A43"]
+[ECOUrl "https://www.chess.com/openings/Old-Benoni-Defense"]
+[UTCDate "2023.04.19"]
+[UTCTime "21:14:25"]
+[WhiteElo "1671"]
+[BlackElo "1666"]
+[TimeControl "60"]
+[Termination "wimer1017 won by checkmate"]
+[StartTime "21:14:25"]
+[EndDate "2023.04.19"]
+[EndTime "21:16:19"]
+[Link "https://www.chess.com/game/live/75678010609"]
+
+1. d4 { [%clk 0:01:00] } 1... c5 { [%clk 0:00:59.8] } 2. Bf4
+{ [%clk 0:00:59.3] } 2... cxd4 { [%clk 0:00:59.2] } 3. Bxb8 { [%clk 0:00:59] }
+3... Nf6 { [%clk 0:00:58.9] } 4. Qxd4 { [%clk 0:00:58.4] } 4... Rxb8
+{ [%clk 0:00:58] } 5. Qxa7 { [%clk 0:00:58.1] } 5... Qc7 { [%clk 0:00:55.8] }
+6. Nc3 { [%clk 0:00:57.6] } 6... d6 { [%clk 0:00:51.8] } 7. Nb5
+{ [%clk 0:00:55.2] } 7... Qc6 { [%clk 0:00:45.4] } 8. Qxb8 { [%clk 0:00:54.3] }
+8... Kd7 { [%clk 0:00:42.8] } 9. e3 { [%clk 0:00:52.2] } 9... Nd5
+{ [%clk 0:00:41.6] } 10. c4 { [%clk 0:00:50.6] } 10... Nb4 { [%clk 0:00:40.4] }
+11. O-O-O { [%clk 0:00:46.1] } 11... Nxa2+ { [%clk 0:00:38.5] } 12. Kb1
+{ [%clk 0:00:44.3] } 12... Nb4 { [%clk 0:00:35.1] } 13. Nf3
+{ [%clk 0:00:43.4] } 13... Qa6 { [%clk 0:00:33.2] } 14. Ne5+
+{ [%clk 0:00:42.2] } 14... Ke6 { [%clk 0:00:32.2] } 15. Qxc8+
+{ [%clk 0:00:40.4] } 15... Kxe5 { [%clk 0:00:30.8] } 16. f4+
+{ [%clk 0:00:38.7] } 16... Ke4 { [%clk 0:00:29.5] } 17. Rd4+
+{ [%clk 0:00:22.9] } 17... Kxe3 { [%clk 0:00:27.6] } 18. Rd3+
+{ [%clk 0:00:10.2] } 18... Nxd3 { [%clk 0:00:25] } 19. Bxd3
+{ [%clk 0:00:09.9] } 19... Kxd3 { [%clk 0:00:22.3] } 20. Rd1+
+{ [%clk 0:00:09.6] } 20... Ke2 { [%clk 0:00:20.9] } 21. Nc3+
+{ [%clk 0:00:09.2] } 21... Kf2 { [%clk 0:00:18.7] } 22. Qg4
+{ [%clk 0:00:08.9] } 22... Ke3 { [%clk 0:00:09.4] } 23. Qf3# { [%clk 0:00:08] }
+1-0
+

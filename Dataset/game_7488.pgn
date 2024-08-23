@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "playingsomerapid"]
+[Black "KrisDunn"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ALKZhYLQ"]
+[WhiteElo "2475"]
+[BlackElo "2630"]
+[ECO "A61"]
+[Opening "Benoni Defense: Knight's Tour Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:14:36"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 c5 4. d5 exd5 5. cxd5 d6 6. Nf3 g6 7. Nd2 Bg7 8. e4
+O-O 9. Be2 Nbd7 10. O-O a6 11. a4 Re8 12. h3 Rb8 13. Ra3 b5 14. axb5 axb5 15.
+Bxb5 Nh5 16. Bc6 Nf4 17. Nc4 Qf6 18. Qf3 g5 19. Ra7 Rd8 20. Kh2 Ne5 21. Nxe5
+Qxe5 22. g3 Ng6 23. Qxf7+ Kh8 24. Bxg5 Rf8 25. Qc7 Rxb2 26. Nd1 Re2 27. Bh6 Rg8
+28. Bxg7+ Qxg7 29. Qxg7+ Rxg7 30. Ra8 Rg8 31. Ne3 Ne5 32. Nf5 Bxf5 33. Rxg8+
+Kxg8 34. exf5 Kf7 35. Kg2 Kf6 36. g4 c4 37. Kg3 c3 38. Rc1 c2 39. Ba4 Rd2 40.
+Rxc2 Rxd5 41. f4 Rd4 42. Kh4 Rxf4 43. Kg3 Rf3+ 0-1
+

@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "gravereaper"]
+[Black "t-stevenson"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/6I6cKuLF"]
+[WhiteTitle "IM"]
+[WhiteElo "2800"]
+[BlackElo "2579"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:24:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O Nxe4 5. d4 d5 6. Bb5 exd4 7. Nxd4 Bd7 8.
+Re1 Nxd4 9. Bxd7+ Qxd7 10. Qxd4 Bc5 11. Qxc5 1-0
+

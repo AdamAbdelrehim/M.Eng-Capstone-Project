@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "MathsChessForever"]
+[Black "thewannabetomato"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Fi7lOSKO"]
+[WhiteElo "2463"]
+[BlackElo "2634"]
+[ECO "B76"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Panov Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:03:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. g4 h5 10. gxh5 Nxh5 11. O-O-O Bd7 12. Rg1 Rc8 13. f4 Nxd4 14. Bxd4 Bxd4
+15. Qxd4 Nxf4 16. e5 Qb6 17. Qxf4 Qxg1 18. exd6 e5 19. Qxe5 Qf2 20. Bd3 Rfe8
+21. Qd5 Re1 22. Qxb7 Qe3+ 23. Kb1 Rxc3 0-1
+

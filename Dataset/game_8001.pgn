@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Destiny_Of_Power"]
+[Black "BTSJ2000"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/XnaYb0uS"]
+[WhiteElo "2522"]
+[BlackElo "2541"]
+[ECO "B24"]
+[Opening "Sicilian Defense: Closed, Fianchetto Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "00:22:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 Nf6 4. Bg2 d6 5. Nge2 e5 6. O-O Be6 7. d3 Be7 8. f4
+O-O 9. f5 Bd7 10. g4 h6 11. Ng3 Nh7 12. Nd5 Bg5 13. c3 Ne7 14. Bxg5 hxg5 15. f6
+Nxd5 16. fxg7 Kxg7 17. Nh5+ Kg6 18. exd5 f5 19. gxf5+ Bxf5 20. Ng3 Bd7 21. Qh5+
+Kg7 22. Be4 Nf6 23. Qg6+ Kh8 24. Qh6+ Kg8 25. Qxg5+ Kh8 26. Qh4+ Kg7 27. Nf5+
+Bxf5 28. Qg5+ Kf7 29. Qxf5 Ke8 30. Rf3 Qe7 31. Raf1 Rg8+ 32. Kh1 Nxe4 33. Qh5+
+Kd8 34. dxe4 Qe8 35. Rf7 Kc8 36. Qf5+ Kb8 37. Rf8 Kc7 38. Rxe8 Raxe8 39. b4
+cxb4 40. cxb4 Kb6 41. Qd7 Rd8 42. Qe7 Rge8 43. Qh7 Rh8 44. Qg6 Rhg8 45. Qh5 Rh8
+46. Qe2 a6 47. Qe3+ Kc7 48. Rc1+ Kb8 49. Qb6 Rd7 50. b5 axb5 51. Qxb5 Rdh7 52.
+Rc2 Rd8 53. Qb6 Rhd7 54. a4 Ka8 55. a5 Rf8 56. a6 Rf1+ 57. Kg2 Rf8 58. axb7+
+Rxb7 59. Ra2+ Kb8 60. Qxd6+ Rc7 61. Qxf8+ Kb7 62. Qb4+ Kc8 63. Ra8+ Kd7 64.
+Qb5+ Ke7 65. Qe8+ Kf6 66. Qe6+ Kg5 67. Qf5+ Kh4 68. Rh8+ Rh7 69. Rxh7# 1-0
+

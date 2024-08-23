@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "solxe"]
+[Black "tony1294"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/gtxL3WNK"]
+[WhiteElo "2574"]
+[BlackElo "2453"]
+[ECO "E12"]
+[Opening "Nimzo-Indian Defense: Three Knights Variation, Duchamp Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:01:25"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Nf3 b6 5. Bg5 Bxc3+ 6. bxc3 Ba6 7. e4 c5 8. e5
+h6 9. Bh4 g5 10. Nxg5 hxg5 11. Bxg5 Rg8 12. Bxf6 Qc7 13. Be2 Nc6 14. O-O Ne7
+15. d5 exd5 16. cxd5 Bxe2 17. Qxe2 Nxd5 18. Qe4 Qc6 19. c4 Nf4 20. Qxc6 dxc6
+21. g3 Ne2+ 22. Kg2 Nd4 23. h4 Kd7 24. h5 Ke6 25. h6 Rg6 26. h7 Rxf6 27. exf6
+Kxf6 28. Rh1 Rh8 29. Rh4 Ne6 30. Rah1 Kg7 31. Rg4+ Kf6 32. Rg8 1-0
+

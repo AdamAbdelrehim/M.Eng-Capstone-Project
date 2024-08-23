@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Aesio2005"]
+[Black "engine_failure"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/aSZhePKk"]
+[WhiteElo "2505"]
+[BlackElo "2631"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:34:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. Bc4 a6 5. Bb3 b5 6. f4 e6 7. Nf3 Bb7 8. f5 b4
+9. fxe6 fxe6 10. Na4 Bxe4 11. O-O d5 12. Ng5 Nf6 13. Nxe6 Qe7 14. Nac5 Nbd7 15.
+Nxc7+ Kd8 16. Nxa8 Nxc5 17. dxc5 Qxc5+ 18. Kh1 1-0
+

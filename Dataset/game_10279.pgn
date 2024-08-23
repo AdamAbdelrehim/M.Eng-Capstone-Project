@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "denzzzdenzzdenz"]
+[Black "emheyturq"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/hcIAAeOU"]
+[BlackTitle "FM"]
+[WhiteElo "2467"]
+[BlackElo "2506"]
+[ECO "B43"]
+[Opening "Sicilian Defense: Kan Variation, Knight Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:15:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+10"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nf6 6. Be3 Qc7 7. Bd3 b5 8. O-O
+Bb7 9. f3 h5 10. Qe2 Bd6 11. h3 h4 12. Rfd1 Nh5 13. Bf2 Bh2+ 14. Kh1 Ng3+ 15.
+Bxg3 Bxg3 16. Qf1 Nc6 17. Nce2 Nxd4 18. Nxd4 Qc5 19. Nb3 Qg5 20. c4 Be5 21. Qf2
+bxc4 22. Bxc4 Qf4 23. Kg1 Rc8 24. Rac1 O-O 25. Na5 Ba8 26. Bxa6 Rxc1 0-1
+

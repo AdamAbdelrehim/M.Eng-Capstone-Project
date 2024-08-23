@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "anonymousblitz"]
+[Black "MarioVillanueva"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/MTEZpbqi"]
+[BlackTitle "IM"]
+[WhiteElo "2764"]
+[BlackElo "2643"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation, Open"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:44:51"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Bg5 Qb6 5. Qxd4 Bc5 6. Qxg7 Bxf2+ 7. Kd1 1-0
+

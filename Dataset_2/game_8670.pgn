@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.04.24"]
+[Round "-"]
+[White "FaithfulSoup"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "6k1/4pp1p/p1Q3p1/1p2q3/8/1P2P2P/P1R2PP1/3r2K1 w - -"]
+[Timezone "UTC"]
+[ECO "D94"]
+[ECOUrl "https://www.chess.com/openings/Grunfeld-Defense-Burille-Variation-5...O-O-6.Be2-c5"]
+[UTCDate "2023.04.24"]
+[UTCTime "21:14:53"]
+[WhiteElo "1817"]
+[BlackElo "1806"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by checkmate"]
+[StartTime "21:14:53"]
+[EndDate "2023.04.24"]
+[EndTime "21:18:17"]
+[Link "https://www.chess.com/game/live/76110027883"]
+
+1. d4 { [%clk 0:09:58.7] } 1... Nf6 { [%clk 0:09:58] } 2. c4
+{ [%clk 0:09:57.4] } 2... g6 { [%clk 0:09:57.3] } 3. Nc3 { [%clk 0:09:55.9] }
+3... d5 { [%clk 0:09:56.7] } 4. Nf3 { [%clk 0:09:52.1] } 4... Bg7
+{ [%clk 0:09:55.4] } 5. e3 { [%clk 0:09:50.5] } 5... O-O { [%clk 0:09:54] } 6.
+Be2 { [%clk 0:09:44.2] } 6... c5 { [%clk 0:09:49.3] } 7. cxd5
+{ [%clk 0:09:42.7] } 7... cxd4 { [%clk 0:09:45.9] } 8. Nxd4
+{ [%clk 0:09:40.3] } 8... Nxd5 { [%clk 0:09:43.2] } 9. Nxd5
+{ [%clk 0:09:30.9] } 9... Qxd5 { [%clk 0:09:43.1] } 10. O-O
+{ [%clk 0:09:28.2] } 10... Nc6 { [%clk 0:09:40.3] } 11. Nxc6
+{ [%clk 0:09:23.3] } 11... Qxc6 { [%clk 0:09:40.2] } 12. Rb1
+{ [%clk 0:09:07.6] } 12... a6 { [%clk 0:09:38.8] } 13. b3 { [%clk 0:09:00.8] }
+13... b5 { [%clk 0:09:22.3] } 14. Bb2 { [%clk 0:08:55.5] } 14... Bxb2
+{ [%clk 0:09:14.5] } 15. Rxb2 { [%clk 0:08:54.1] } 15... Bb7 { [%clk 0:09:13] }
+16. Bf3 { [%clk 0:08:49.4] } 16... Qc7 { [%clk 0:09:09.6] } 17. Bxb7
+{ [%clk 0:08:46.2] } 17... Qxb7 { [%clk 0:09:07.9] } 18. Rc2
+{ [%clk 0:08:39.7] } 18... Rfd8 { [%clk 0:09:06.5] } 19. Qe2
+{ [%clk 0:08:36.8] } 19... Rd7 { [%clk 0:09:04.7] } 20. h3 { [%clk 0:08:35.1] }
+20... Rad8 { [%clk 0:09:04] } 21. Rfc1 { [%clk 0:08:30.6] } 21... Qb8
+{ [%clk 0:08:51.6] } 22. Qf3 { [%clk 0:08:20.3] } 22... Qe5
+{ [%clk 0:08:43.2] } 23. Qc6 { [%clk 0:08:10] } 23... Rd1+ { [%clk 0:08:39.7] }
+24. Rxd1 { [%clk 0:08:08.6] } 24... Rxd1# { [%clk 0:08:39.6] } 0-1
+

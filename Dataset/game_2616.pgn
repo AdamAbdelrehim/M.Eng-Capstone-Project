@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Bierblitz"]
+[Black "mladjiks"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/BSX7FLgY"]
+[WhiteElo "2522"]
+[BlackElo "2344"]
+[ECO "A02"]
+[Opening "Bird Opening: From's Gambit, Lasker Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:55:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 g5 5. g3 Nc6 6. c3 Bg4 7. Bg2 h5 8. d4
+f6 9. Qb3 Qd7 10. Qxb7 Rb8 11. Qa6 h4 12. gxh4 Rb6 13. Qd3 Bxf3 14. Bxf3 Rxh4
+15. Qg6+ Kf8 16. Nd2 Nce7 17. Qd3 c5 18. Nc4 Rb8 19. dxc5 1-0
+

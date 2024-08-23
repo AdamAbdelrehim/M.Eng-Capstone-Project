@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "DeviousCat"]
+[Black "nooartur"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/cSMilbgS"]
+[BlackTitle "IM"]
+[WhiteElo "2494"]
+[BlackElo "2568"]
+[ECO "A56"]
+[Opening "Benoni Defense: King's Indian System"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:11:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e5 4. Nc3 d6 5. e4 g6 6. Be2 h5 7. Nf3 Bh6 8. Bxh6
+Rxh6 9. O-O Kf8 10. Ne1 g5 11. Nd3 Nbd7 12. Qd2 Rg6 13. a3 Kg7 14. b4 b6 15.
+Rfb1 g4 16. Rf1 Nf8 17. f4 gxf3 18. Rxf3 Bg4 19. Rf2 N8h7 20. Raf1 Ng5 21. Rxf6
+Nh3+ 22. gxh3 1-0
+

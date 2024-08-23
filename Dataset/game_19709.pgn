@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "vatani_fedai"]
+[Black "Fritzi_2003"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/5BoNdGkF"]
+[WhiteElo "2412"]
+[BlackElo "2689"]
+[ECO "A40"]
+[Opening "Borg Defense: Borg Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:00:51"]
+[Termination "Normal"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-10"]
+
+1. d4 g5 2. Bxg5 Bg7 3. e4 c5 4. c3 Qa5 5. Nf3 cxd4 6. Bd2 dxc3 7. Bxc3 Bxc3+
+8. Nxc3 Nf6 9. Bc4 Nxe4 10. Qd4 Nf6 11. O-O Nc6 12. Qh4 Rg8 13. Rfe1 Qf5 14.
+Kh1 Rg4 15. Qh3 d5 16. Bb5 d4 17. Bxc6+ bxc6 18. Re5 dxc3 19. Rxf5 cxb2 20. Rb1
+Bxf5 21. Rxb2 O-O-O 22. Nd2 Ne4 23. Qb3 Rd5 24. h3 Nxf2+ 25. Kh2 Rgd4 26. Nf3
+Re4 27. Qb7+ Kd8 28. Ng5 Rf4 29. Qb8+ Kd7 30. Rb7# 1-0
+

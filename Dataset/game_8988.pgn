@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "kvadrik"]
+[Black "Masis68_am"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/aGYMqZFV"]
+[BlackTitle "IM"]
+[WhiteElo "2483"]
+[BlackElo "2512"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "06:22:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. Nc3 Ne7 6. Nge2 dxc4 7. Ng3 Bd3 8. Bxd3
+cxd3 9. Qxd3 c5 10. Qb5+ Qd7 11. Nge4 Nec6 12. Nxc5 Nxd4 13. Nxd7 Nxb5 14. Nxf8
+Nxc3 15. Nxe6 fxe6 16. bxc3 Nd7 17. O-O Rc8 18. Be3 b6 19. Bd4 Ke7 20. a4 Nc5
+21. Rfb1 Nb7 22. f4 Rc4 23. Kf2 Rd8 24. Ke3 Rd5 25. Rb4 Rdxd4 26. Rxc4 Rxc4 27.
+Kd3 0-1
+

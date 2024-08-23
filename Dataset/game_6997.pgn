@@ -1,0 +1,23 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/CDvWSrH0"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Chess_Ark"]
+[Black "DeepMorbius"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/4cqKNqTf"]
+[WhiteElo "2785"]
+[BlackElo "2392"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:00:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-5"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 e6 7. Bg5 Be7 8. Nf3
+Nh6 9. Nc3 Nf5 10. Ne2 g6 11. Ng3 Nxg3 12. fxg3 Nd7 13. O-O O-O 14. Rf2 Bxg5
+15. Nxg5 Kg7 16. Rxf7+ Rxf7 17. Nxe6+ Kh7 18. Nxd8 Rxd8 19. e6 1-0
+

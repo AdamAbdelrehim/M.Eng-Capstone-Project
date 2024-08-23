@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "caissa-x"]
+[Black "Nikitosikbot_v2"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/TV6HzpWz"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2995"]
+[BlackElo "3027"]
+[ECO "D44"]
+[Opening "Semi-Slav Defense: Botvinnik Variation, Lilienthal Variation"]
+[TimeControl "90+4"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:54:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "-1"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 c6 5. Bg5 dxc4 6. e4 b5 7. e5 h6 8. Bh4 g5
+9. Nxg5 hxg5 10. Bxg5 Nbd7 11. g3 Qb6 12. exf6 Bb7 13. Bg2 O-O-O 14. O-O c5 15.
+d5 b4 16. Na4 Qb5 17. a3 Nb8 18. axb4 cxb4 19. Qg4 Bxd5 20. Rfc1 Nc6 21. Bxd5
+Rxd5 22. Rxc4 Rxg5 23. Qd4 Kb8 24. Rxc6 Rxg3+ 25. fxg3 Qxc6 26. Rd1 Qc7 27. b3
+Kc8 28. Qe3 Kb8 29. Qd4 Kc8 30. Qe4 Kb8 31. Qd3 Bh6 32. Kf1 Qe5 33. Kg2 Bg5 34.
+Qf3 Qxf6 35. Qe4 Qf5 36. Qxb4+ Ka8 37. Qc4 Qh3+ 38. Kf3 Qf5+ 39. Kg2 Qh3+ 40.
+Kf3 Qf5+ 41. Kg2 1/2-1/2
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "GalimovaTS"]
+[Black "DaanBrandenburg"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/35KDq5a2"]
+[WhiteElo "2496"]
+[BlackElo "2576"]
+[ECO "A28"]
+[Opening "English Opening: Four Knights System, Nimzowitsch Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:46:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. e4 Bb4 5. d3 O-O 6. Be2 Re8 7. O-O a5 8. Nd5
+h6 9. h3 Bf8 10. Be3 d6 11. Qd2 Be6 12. Rad1 b6 13. Qc2 Nb4 14. Qb1 Na6 15.
+Rfe1 Nc5 16. b3 c6 17. Nxf6+ Qxf6 18. d4 exd4 19. Bxd4 Qg6 20. Nh4 Qg5 21. Nf3
+Qf4 22. Nd2 Bxh3 23. gxh3 Nxe4 24. Nxe4 Rxe4 25. Be3 Rxe3 26. fxe3 Qg3+ 27. Kf1
+Qxh3+ 28. Kf2 Be7 29. Bf3 Qh2+ 30. Bg2 Bh4+ 31. Kf1 Re8 32. Qf5 Re6 33. Qh3
+Rf6+ 34. Ke2 Rf2+ 35. Kd3 Rxg2 36. Qxh2 Rxh2 37. Re2 Rxe2 38. Kxe2 Be7 39. e4
+g5 40. a3 f6 41. b4 axb4 42. axb4 h5 43. Ra1 d5 44. exd5 cxd5 45. c5 bxc5 46.
+b5 c4 47. b6 h4 48. b7 Bd6 49. Ra6 Be5 50. Rxf6 h3 51. Rf5 h2 52. Rxg5+ Kf7 53.
+Rh5 c3 54. Rxe5 h1=Q 55. b8=Q Qg2+ 56. Kd3 Qd2# 0-1
+

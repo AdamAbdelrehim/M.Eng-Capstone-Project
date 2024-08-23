@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "rrs03"]
+[Black "FastCavalier"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/qNY5P8Ef"]
+[WhiteElo "2523"]
+[BlackElo "2572"]
+[ECO "A46"]
+[Opening "Queen's Pawn Game: Veresov Attack, Classical Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:21:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. Nf3 e6 3. Nc3 d5 4. Bg5 h6 5. Bxf6 Qxf6 6. e4 Bb4 7. Bd3 c5 8. O-O
+Bxc3 9. bxc3 c4 10. e5 Qd8 11. Be2 O-O 12. h3 Nc6 13. Nh2 f5 14. f4 b5 15. Kh1
+Qa5 16. Rf3 b4 17. cxb4 Qxb4 18. c3 Qe7 19. Qd2 Bd7 20. Rg1 Rab8 21. g4 Qa3 22.
+gxf5 Rb2 23. Qe1 Rxf5 24. Rfg3 Rf7 25. Bh5 Re7 26. Ng4 Kh7 27. Bg6+ Kh8 28. Bb1
+Rf7 29. Nxh6 1-0
+

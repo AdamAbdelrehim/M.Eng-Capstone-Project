@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "topiatwins"]
+[Black "oyoy23"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/p93lfn9u"]
+[WhiteElo "2588"]
+[BlackElo "2694"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:54:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. Nf3 Nf6 2. c4 e6 3. Nc3 d5 4. d4 Be7 5. Bf4 O-O 6. e3 c5 7. dxc5 Bxc5 8. a3
+Nc6 9. Qc2 Qa5 10. Rd1 Be7 11. Be2 Ne4 12. cxd5 Nxc3 13. Qxc3 Qxc3+ 14. bxc3
+exd5 15. a4 Be6 16. Rb1 b6 17. Nd4 Nxd4 18. cxd4 Rfc8 19. O-O Rc2 20. Bd3 Rc3
+21. Ba6 Bc8 22. Bb5 Bf5 23. Rbc1 Rac8 24. Rxc3 Rxc3 25. Ra1 Bb4 26. Bb8 a5 27.
+Ba7 h5 28. Bxb6 Rc2 29. Kf1 Bc3 30. Rd1 Bb4 31. h3 g5 32. Bd8 g4 33. hxg4 hxg4
+34. Bh4 Ra2 35. Bc6 Be4 36. Bb5 Bc2 37. Rc1 Bxa4 38. Bxa4 Rxa4 39. Rc8+ Kg7 40.
+Ra8 Ra1+ 41. Ke2 a4 42. Bg3 Ra2+ 43. Kd3 a3 44. Ra4 Rd2# 0-1
+

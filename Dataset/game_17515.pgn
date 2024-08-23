@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "The_reverse_flash"]
+[Black "LabutinAa"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/gzhQbQ6m"]
+[WhiteElo "2519"]
+[BlackElo "2517"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:01:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 c6 2. Nf3 d5 3. e3 Bf5 4. h3 e6 5. g4 Bg6 6. Ne5 Nd7 7. h4 Nxe5 8. dxe5
+h5 9. Bd3 Bxd3 10. cxd3 hxg4 11. Qxg4 Nh6 12. Qg5 Qa5+ 13. Bd2 Qb5 14. Nc3 Qxd3
+15. O-O-O Nf5 16. e4 Nd4 0-1
+

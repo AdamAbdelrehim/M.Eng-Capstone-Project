@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "B-the-bot"]
+[Black "pawn_git"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/hSAkBOUg"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3052"]
+[BlackElo "2705"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined"]
+[TimeControl "300+3"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:40:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "+12"]
+[BlackRatingDiff "-2"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. g3 Bb4+ 5. Bd2 Be7 6. Bg2 c6 7. O-O O-O 8. Qc2
+b6 9. Nc3 dxc4 10. Ne5 Qxd4 11. Bf4 Qc5 12. Rfd1 Nd5 13. Ne4 Qb5 14. Rd4 Bb7
+15. a4 Qa6 16. Ng5 Bxg5 17. Bxg5 f5 18. Rh4 Qa5 19. Nxc4 Qc5 20. e4 Nb4 21. Qd1
+fxe4 22. Bxe4 g6 23. Be3 Qxc4 24. Rc1 Qd5 25. Bxd5 Nxd5 26. Qg4 Bc8 27. Qg5 Rf5
+28. Qd8+ Rf8 29. Qd6 Rf7 30. Bh6 Bd7 31. a5 bxa5 32. Rhc4 Na6 33. Rxc6 Nb6 34.
+R6c4 Nxc4 35. Rxc4 Nb4 36. Rf4 Bc6 37. Rxf7 Kxf7 38. Qc7+ Ke8 39. Bg5 Bd7 40.
+Qe5 Bc8 41. Qd6 Nd5 42. Qc6+ Kf7 43. Qxa8 Bd7 44. Bh6 Kf6 45. Qh8+ Kf5 46. Qd4
+e5 47. Qxd5 Be8 48. g4+ Kf6 49. Qd6+ Kf7 50. Bf8 Kg8 51. Qf6 h5 52. Qg7# 1-0
+

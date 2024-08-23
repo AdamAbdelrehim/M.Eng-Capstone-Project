@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Gertrude_Weichsel"]
+[Black "Saeidbero"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/1OE9m1co"]
+[WhiteElo "2583"]
+[BlackElo "2510"]
+[ECO "E17"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Kramnik Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:05:17"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. Nf3 e6 3. g3 b6 4. Bg2 Bb7 5. O-O Be7 6. c4 O-O 7. Re1 Ne4 8. Nfd2
+d6 9. Nxe4 1-0
+

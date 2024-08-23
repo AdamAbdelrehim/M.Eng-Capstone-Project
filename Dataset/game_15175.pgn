@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "hajeko"]
+[Black "Kornflakes1994"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/9uLA9ox3"]
+[WhiteTitle "CM"]
+[BlackTitle "CM"]
+[WhiteElo "2547"]
+[BlackElo "2574"]
+[ECO "C05"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:58:43"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 b6 6. f4 Ba6 7. Ndf3 Be7 8. Ne2
+Bxd3 9. Qxd3 c5 10. c3 Qc8 11. O-O Qa6 12. Qc2 g6 13. g4 h5 14. h3 hxg4 15.
+hxg4 Nc6 16. Be3 O-O-O 17. Kg2 Kb7 18. a4 Rc8 19. Rh1 Rxh1 20. Rxh1 cxd4 21.
+Nexd4 Bc5 22. Rh7 Bxd4 23. Nxd4 Nxd4 24. Bxd4 Rf8 25. f5 gxf5 26. gxf5 Rg8+ 27.
+Kh2 Qf1 28. Qf2 Qd3 29. Rh3 Qxf5 30. Qxf5 exf5 31. Rh7 Kc6 32. Rxf7 Re8 33.
+Rxf5 b5 34. axb5+ Kxb5 35. Kg3 Kc4 36. Kf4 Nf8 37. Bxa7 Ne6+ 38. Ke3 Rg8 39.
+Rf6 Nd8 40. Rd6 Re8 41. Kf4 Nb7 42. Rc6+ Kb5 43. Rb6+ Ka5 44. Rxb7 d4 45. Rd7
+dxc3 46. bxc3 Ka6 47. Bd4 Kb5 48. Rd6 Kc4 49. Kf5 Kd3 50. Rf6 Kc4 51. e6 Kd3
+52. Ke5 Kc4 53. Kd6 Rd8+ 54. Ke7 Rc8 55. Kf7 Rc7+ 56. e7 Rb7 57. Kf8 Rb8+ 58.
+e8=Q Rxe8+ 59. Kxe8 Kd3 60. Ke7 Kc4 61. Ke6 Kd3 62. Kd6 Kc4 63. Rf7 Kb3 64. Re7
+Kc4 65. Rd7 Kd3 66. Rc7 Ke4 67. c4 Kd3 68. c5 Ke4 69. c6 1-0
+

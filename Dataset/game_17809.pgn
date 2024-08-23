@@ -1,0 +1,44 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "weiawaga"]
+[Black "pawn_git"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/XmzYgdIe"]
+[BlackTitle "BOT"]
+[WhiteElo "2652"]
+[BlackElo "2734"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "420+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:03:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 d5 2. Nf3 e6 3. b3 c5 4. e3 Nf6 5. Bb2 cxd4 6. exd4 b6 7. Bb5+ Nbd7 8.
+Qe2 Bb7 9. O-O Be7 10. Nbd2 O-O 11. Bd3 Qc7 12. c3 a6 13. a4 Rfc8 14. Rfe1 h6
+15. Rac1 Rd8 16. Nf1 Nh5 17. g3 Nhf6 18. N1d2 Qc6 19. Kg2 Ng4 20. Rc2 Ngf6 21.
+Kf1 Rdc8 22. Kg1 Re8 23. h3 Bf8 24. Rcc1 Be7 25. Kh2 Bf8 26. Kh1 Bd6 27. Ne5
+Bxe5 28. dxe5 Ne4 29. Nf3 Ndc5 30. Bc2 d4 31. cxd4 Nd2 32. dxc5 bxc5 33. Bd1
+Nxf3 34. Qxf3 Qxf3+ 35. Bxf3 Bxf3+ 36. Kh2 Rab8 37. Rc3 Bd5 38. Ree3 Rec8 39.
+Ba3 c4 40. bxc4 Rxc4 41. Rxc4 Bxc4 42. g4 Bd5 43. Rc3 a5 44. Be7 Rb1 45. Bd8
+Rh1+ 46. Kg3 Rg1+ 47. Kh4 Rg2 48. f3 Ba8 49. f4 Ra2 50. Bxa5 Kh7 51. Rc4 Bd5
+52. Rb4 Ra3 53. Rb2 Rxa4 54. Bb4 Ra1 55. Rf2 Rc1 56. Kg3 Rg1+ 57. Kh4 Rb1 58.
+Be7 Rb3 59. Bc5 Bc6 60. Bd6 Rc3 61. Be7 Rc4 62. Kh5 Kg8 63. Kh4 Rc1 64. Bd6 Kh8
+65. f5 Kh7 66. fxe6 Rc3 67. g5 fxe6 68. gxh6 Kxh6 69. Bf8 Kh7 70. Be7 Re3 71.
+Bd6 Bd5 72. Rf1 Be4 73. Ra1 Kh6 74. Be7 Rd3 75. Ra3 Rd7 76. Bg5+ Kg6 77. Rg3
+Bf5 78. Bf4+ Kh7 79. Ra3 Rd1 80. Bg5 Re1 81. Be3 Rh1 82. Bc5 Kh6 83. Be3+ Kg6
+84. Bd4 Re1 85. Rg3+ Kh6 86. Be3+ Kh7 87. Kg5 Re2 88. h4 Rc2 89. h5 Rh2 90. Bg1
+Rh1 91. Bc5 Bc2 92. Rg1 Rh3 93. Bf8 Rh2 94. Kg4 Kg8 95. Be7 Bd3 96. Kg5 Kf7 97.
+Bd6 Be2 98. Rc1 Rxh5+ 99. Kf4 g5+ 100. Kg3 Bd3 101. Rc7+ Kg6 102. Be7 Rh1 103.
+Rc8 Be4 104. Bc5 Rc1 105. Rg8+ Kh7 106. Rc8 Bf5 107. Kf2 Rc2+ 108. Ke3 Rc3+
+109. Kd2 Rc4 110. Rc7+ Kg6 111. Bd6 Rd4+ 112. Ke2 Kh5 113. Rg7 Rd5 114. Ra7 Kg4
+115. Ra1 Kh3 116. Kf2 Rd2+ 117. Ke3 Rc2 118. Be7 g4 119. Rh1+ Kg2 120. Rh4 Rc4
+121. Kd2 Kf3 122. Kd1 Rd4+ 123. Kc1 Rd5 124. Rh8 g3 125. Rg8 g2 126. Rxg2 Kxg2
+127. Bf6 Kf3 128. Kb2 Rd3 129. Be7 Kf4 130. Ka1 Kxe5 131. Bc5 Kd5 132. Bf8 e5
+133. Bg7 e4 134. Kb2 Kc4 135. Bh6 e3 136. Kc1 e2 137. Bd2 Kb3 138. Kb1 Rxd2+
+139. Ka1 e1=Q# 0-1
+

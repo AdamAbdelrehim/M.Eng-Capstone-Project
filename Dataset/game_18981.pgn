@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Maestro_Isa"]
+[Black "Buhmann"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/9lFT6u18"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[WhiteElo "2664"]
+[BlackElo "2721"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:11:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 e6 2. g3 Nf6 3. Bg2 a5 4. Nf3 a4 5. O-O Be7 6. c4 d5 7. Qc2 Nc6 8. Nbd2
+O-O 9. Rd1 Nb4 10. Qc3 b6 11. Ne5 Bb7 12. e4 Nxe4 13. Nxe4 dxe4 14. a3 Na6 15.
+d5 Nc5 16. Be3 exd5 17. cxd5 Bf6 18. Bxc5 bxc5 19. Bxe4 Re8 20. f4 Bxe5 21.
+fxe5 Qg5 22. Qd3 Rxe5 23. Bxh7+ Kh8 24. Be4 Rae8 25. Bg2 Re2 0-1
+

@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "vitaliy_garbuz"]
+[Black "CaissaSoeze"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/GnNeMpuO"]
+[WhiteElo "2494"]
+[BlackElo "2581"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation, Smith-Morra Declined"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:58:17"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. e4 c5 2. d4 cxd4 3. c3 Nf6 4. e5 Nd5 5. Nf3 Nc6 6. Bc4 Nb6 7. Bb3 d5 8. exd6
+Qxd6 9. O-O Be6 10. Na3 a6 11. Bxe6 Qxe6 12. Nxd4 Nxd4 13. Qxd4 Rd8 14. Qb4 Qd6
+15. Qxd6 Rxd6 16. Bf4 Rd7 17. Rfe1 e6 18. Nc2 Bd6 19. Bxd6 Rxd6 20. Nd4 O-O 21.
+b3 Rc8 22. Rac1 Nd5 23. Ne2 b5 24. Red1 Nxc3 25. Nxc3 Rxc3 26. Kf1 g6 27. Rxc3
+Rxd1+ 28. Ke2 Ra1 29. Rc2 Kg7 30. g3 g5 31. Kf3 h6 32. h3 Kg6 33. g4 Kf6 34.
+Rd2 Kg6 35. Re2 h5 36. gxh5+ Kxh5 37. Kg3 Rc1 38. Rd2 Rc3+ 39. Kg2 Rc6 40. Rd8
+Rc2 41. Rh8+ Kg6 42. Rg8+ Kf6 43. a4 bxa4 44. bxa4 Ra2 45. Rb8 Rxa4 46. Rb3 Ra2
+47. Rf3+ Kg6 48. Rb3 a5 49. Rb6 a4 50. Ra6 a3 51. Kh2 Kf5 52. Kg2 f6 53. Ra5+
+e5 54. Ra4 Ra1 55. Kg3 a2 56. Kg2 Ke6 57. Ra5 Kf7 58. Ra8 f5 59. Ra7+ Ke6 60.
+Ra6+ Kd5 61. Ra7 Ke4 62. Ra4+ Kd3 63. Ra3+ Ke2 64. Ra8 e4 65. Ra3 f4 66. h4 e3
+67. fxe3 f3+ 68. Kh2 gxh4 69. Rxa2+ Rxa2 0-1
+

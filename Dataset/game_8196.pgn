@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "checkmate_tt"]
+[Black "fighter2025"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/2diKCJ2F"]
+[WhiteElo "2548"]
+[BlackElo "2367"]
+[ECO "E05"]
+[Opening "Catalan Opening: Open Defense, Classical Line"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:23:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Be7 4. g3 Nf6 5. Bg2 O-O 6. O-O dxc4 7. Qc2 b5 8. a4
+b4 9. Qxc4 Ba6 10. Qc2 Nbd7 11. Ne5 Nxe5 12. dxe5 Nd5 13. Rd1 Qc8 14. e4 Nb6
+15. b3 c5 16. a5 Nd7 17. Bb2 Nb8 18. Nd2 Nc6 19. Nc4 Rd8 20. Nd6 Bxd6 21. exd6
+Nd4 22. Bxd4 cxd4 23. Qxc8 Raxc8 24. Rxd4 e5 25. Rxb4 Rxd6 26. Bf1 g6 27. Bxa6
+Rxa6 28. Rb5 Rc3 29. b4 Rc4 30. Rxe5 Rxb4 31. Rc1 Kg7 32. Rc7 Rf6 33. Rc2 Ra4
+34. Kg2 Re6 35. Rxe6 fxe6 36. Rc7+ Kh6 37. Rxa7 Rxe4 38. h4 Ra4 39. f3 g5 40.
+hxg5+ Kxg5 41. a6 h5 42. Kh3 h4 43. f4+ Kf5 44. Kxh4 e5 45. Rf7+ Ke6 46. Rh7
+exf4 47. g4 Ke5 48. g5 Kf5 49. Rf7+ Kg6 50. Rf6+ Kg7 51. Kg4 f3+ 52. Kxf3 Kh7
+53. Rc6 Kg7 54. Ke3 Ra5 55. g6 Ra1 56. Kd3 Ra2 57. Kc4 Ra1 58. Kc5 Ra2 59. Kb6
+Rb2+ 60. Kc7 Ra2 61. Kb7 Rb2+ 62. Rb6 Ra2 63. a7 Kh6 64. Ra6 Rb2+ 65. Kc7 Rc2+
+66. Kd7 Rd2+ 67. Ke7 Re2+ 68. Kf7 Rf2+ 69. Kg8 Rf8+ 70. Kxf8 1-0
+

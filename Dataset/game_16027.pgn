@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "BigH"]
+[Black "shreckm8"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Aotq7aip"]
+[WhiteTitle "NM"]
+[WhiteElo "2396"]
+[BlackElo "2524"]
+[ECO "D14"]
+[Opening "Slav Defense: Exchange Variation, Trifunovic Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "23:30:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. Nf3 d5 2. d4 Nf6 3. c4 c6 4. cxd5 cxd5 5. Nc3 Nc6 6. Bf4 Bf5 7. e3 e6 8. Qb3
+Bb4 9. Bb5 O-O 10. Bxc6 Bxc3+ 11. Qxc3 Rc8 12. Qb4 Rxc6 13. Qxb7 Rb6 14. Qxa7
+Bd3 15. Bc7 Ra6 16. Qxa6 Bxa6 17. Bxd8 Rxd8 18. Rc1 Rb8 19. b3 Ne4 20. Nd2 Nd6
+21. a4 Bd3 22. f3 h5 23. Rc6 Nf5 24. Kf2 h4 25. Rhc1 Kh7 26. R1c3 1-0
+

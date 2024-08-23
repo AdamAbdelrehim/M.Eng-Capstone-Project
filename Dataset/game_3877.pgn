@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Katze774"]
+[Black "Paparama"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/QAQZoFmm"]
+[BlackTitle "FM"]
+[WhiteElo "2621"]
+[BlackElo "2633"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:46:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. Bg5 c5 3. d5 Ne4 4. h4 g6 5. Nd2 Nxg5 6. hxg5 Bg7 7. c3 d6 8. e4
+h5 9. f4 Qb6 10. Nc4 Qc7 11. a4 Nd7 12. Nf3 Nb6 13. Ne3 a5 14. Be2 c4 15. Qc2
+Qc5 16. Kd2 Bd7 17. Nh4 e6 18. dxe6 Bxe6 19. f5 Bd7 20. fxg6 fxg6 21. Nxg6
+O-O-O 22. Nxh8 Bxh8 23. Rxh5 d5 24. g6 Bxa4 25. Rxa4 dxe4+ 26. Ke1 Qxe3 27.
+Raxa5 Qg1+ 28. Bf1 Qe3+ 29. Be2 Qg1+ 30. Bf1 Qe3+ 31. Qe2 Qg3+ 32. Qf2 Bxc3+
+33. bxc3 Qxc3+ 34. Ke2 0-1
+

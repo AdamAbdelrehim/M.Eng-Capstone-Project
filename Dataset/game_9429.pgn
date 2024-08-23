@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "RaspFish"]
+[Black "zlatana75"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/sHMlaN6x"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2984"]
+[BlackElo "3031"]
+[ECO "A00"]
+[Opening "Saragossa Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:59:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. c3 d5 2. d4 Nf6 3. Nf3 Bf5 4. Qb3 Qc8 5. c4 dxc4 6. Qxc4 e6 7. g3 Nc6 8. a3
+Qd7 9. Nc3 Na5 10. Qa2 Ne4 11. Bg2 Nxc3 12. bxc3 Qa4 13. Ne5 Bc2 14. O-O Bd6
+15. Bf4 O-O 16. Rfc1 Bb3 17. Qb1 Rad8 18. c4 Bxe5 19. Bxe5 Nxc4 20. Bxb7 Nxe5
+21. dxe5 c5 22. Bc6 Qxc6 23. Qxb3 Qc7 24. Rab1 h5 25. Qc3 Rd5 26. Rb4 Rfd8 27.
+Rc4 Rxe5 28. Rc2 Rc8 29. h4 a6 30. Kh2 Qd6 31. e4 f5 32. Rd2 Qc7 33. Rd7 Qxd7
+34. Qxe5 fxe4 35. Rxc5 Rxc5 36. Qxc5 Qd2 37. Kg1 Qd1+ 38. Kh2 Qf3 39. Kg1 Qd1+
+40. Kh2 Qf3 1/2-1/2
+

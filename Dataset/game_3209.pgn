@@ -1,0 +1,39 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "simbelmyne-bot"]
+[Black "bot_adario"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/tZdMTTps"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2551"]
+[BlackElo "2613"]
+[ECO "C00"]
+[Opening "French Defense: Knight Variation"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:17:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. Nf3 e6 2. e4 d5 3. exd5 exd5 4. d4 Nf6 5. Bd3 Bd6 6. Qe2+ Qe7 7. Qxe7+ Kxe7
+8. O-O Re8 9. Nc3 c6 10. Re1+ Kf8 11. Rxe8+ Kxe8 12. Ne2 Bg4 13. Ne5 Bxe2 14.
+Bxe2 Nbd7 15. Nd3 a5 16. Bd2 Kf8 17. Re1 a4 18. f3 Be7 19. g3 Nb6 20. c3 Bd6
+21. Bf1 Nc4 22. Bc1 h6 23. Re2 Ne8 24. Kf2 Nc7 25. Rc2 f6 26. Re2 Kf7 27. h4
+Nb5 28. a3 h5 29. f4 g6 30. Bh3 f5 31. Bg2 Nc7 32. Kf3 Ne6 33. Re1 Rc8 34. Ne5+
+Bxe5 35. fxe5 Rg8 36. Rf1 b5 37. Kf2 Ke7 38. Bf3 Na5 39. Be2 Rg7 40. Rd1 Ke8
+41. Bf1 Rc7 42. Bg2 Rg7 43. Ke2 Rh7 44. Kd3 Rd7 45. Kc2 Kf8 46. Bh6+ Ke8 47.
+Rf1 Nc4 48. Bh1 c5 49. dxc5 Nxc5 50. Rd1 Ne4 51. e6 Rd6 52. Bf4 Rxe6 53. Rxd5
+Nf2 54. Bf3 Ne3+ 55. Bxe3 Rxe3 56. Bg2 Rxg3 57. Bf1 f4 58. Bxb5+ Ke7 59. Bxa4
+Ng4 60. Rd7+ Ke6 61. Bb5 f3 62. Rd8 g5 63. hxg5 h4 64. Rh8 h3 65. g6 Kf6 66. c4
+Kg7 67. Rh4 Ne3+ 68. Kd2 Nf5 69. Rh5 Rg2+ 70. Kd3 f2 71. Rxf5 h2 72. Rxf2 Rg3+
+73. Kd4 h1=Q 74. Rf7+ Kxg6 75. Rd7 Rg5 76. Rd6+ Kf7 77. Rd5 Qh8+ 78. Kc5 Qf8+
+79. Kd4 Qh8+ 80. Kc5 Rxd5+ 81. Kxd5 Ke7 82. c5 Qxb2 83. a4 Qg2+ 84. Ke5 Qd2 85.
+Ke4 Kf6 86. c6 Ke6 87. Bc4+ Kd6 88. Bb5 Qc1 89. Kf5 Kd5 90. Kg4 Kd4 91. Kh5 Qg1
+92. Kh4 Qg6 93. Kh3 Ke3 94. Ba6 Qxc6 95. Bd3 Kf3 96. Be2+ Kxe2 97. Kg4 Qxa4+
+98. Kf5 Qe8 99. Kf6 Qd7 100. Kg6 Kf3 101. Kf6 Ke3 102. Ke5 Kf3 103. Kf6 Kg4
+104. Ke5 Kf3 105. Kf6 1/2-1/2
+

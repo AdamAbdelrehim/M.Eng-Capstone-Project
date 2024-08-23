@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "FastCavalier"]
+[Black "Stammargg"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/UbFXkqHY"]
+[WhiteElo "2552"]
+[BlackElo "2532"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:19:51"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 exd5 5. d4 a6 6. Bd3 c4 7. Bc2 Bd6 8. O-O
+Ne7 9. Re1 O-O 10. Nbd2 Nbc6 11. Nf1 Bf5 12. Ng3 Bxc2 13. Qxc2 Qd7 14. Ng5 Ng6
+15. h4 Bxg3 16. fxg3 h5 17. Bd2 Qg4 18. Re3 Rae8 19. Rae1 Rxe3 20. Rxe3 Nce7
+21. Rxe7 Qxg3 22. Be1 Qd6 23. Rxb7 Re8 24. Bf2 Re7 25. Rxe7 Qxe7 26. Qf5 Nf8
+27. Qxd5 g6 28. Qxc4 Ne6 29. Nxe6 fxe6 30. Qd3 Kf7 31. Qf3+ Kg7 32. Bg3 Kh7 33.
+Be5 Qxh4 34. Qf7+ Kh6 35. Bg7+ 1-0
+

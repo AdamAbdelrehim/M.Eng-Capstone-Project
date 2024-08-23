@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "thurstoncat"]
+[Black "manuchess96"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/wB85m8mx"]
+[WhiteElo "2440"]
+[BlackElo "2518"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:33:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Ng3 h5 6. h4 c5 7. N1e2 Nc6 8. Be3
+Ng4 9. Qd2 Nxe3 10. fxe3 g6 11. O-O-O Bg7 12. d5 Ne5 13. e4 Nc4 14. Qd3 Nxb2
+15. Qb5+ Bd7 16. Qxb2 Bxb2+ 17. Kxb2 0-1
+

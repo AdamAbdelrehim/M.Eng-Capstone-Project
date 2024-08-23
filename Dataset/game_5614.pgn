@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "letsplayludo"]
+[Black "Micheliavelli"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/jsC4Z58O"]
+[WhiteElo "2422"]
+[BlackElo "2611"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:29:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+
+1. e4 c5 2. Ne2 Nc6 3. Nbc3 Nf6 4. d4 cxd4 5. Nxd4 e5 6. Ndb5 d6 7. Bg5 a6 8.
+Na3 b5 9. Nd5 Be7 10. Bxf6 Bxf6 11. c3 Ne7 12. Nxf6+ gxf6 13. Nc2 Bb7 14. Bd3
+d5 15. exd5 Qxd5 16. f3 Rd8 17. Be4 Qxd1+ 18. Rxd1 Rxd1+ 19. Kxd1 Bxe4 20. fxe4
+f5 21. exf5 Nxf5 22. Re1 f6 23. g4 Nh4 24. Re4 Kf7 25. g5 fxg5 26. Rxe5 Kf6 27.
+Rc5 Rd8+ 28. Ke2 Rd6 29. Ne3 h5 30. Nd5+ Kf7 31. Nc7 Kg6 32. Nd5 Ng2 33. Kf2
+Nf4 34. Nxf4+ gxf4 35. h4 Rd2+ 36. Kf3 Rxb2 37. Rc6+ Kf5 38. Rc5+ Ke6 39. a4
+bxa4 40. Kxf4 a3 41. Ra5 a2 42. Rxa6+ Kd5 43. Kg5 Kc4 44. Kxh5 Rg2 45. Kh6 Kxc3
+46. h5 Kb2 47. Kh7 Rg3 48. Rxa2+ Kxa2 49. h6 Kb3 50. Kh8 Kc4 51. h7 Rh3 52. Kg8
+Rg3+ 53. Kf7 Rh3 54. Kg8 Kd5 55. h8=Q Rxh8+ 56. Kxh8 1/2-1/2
+

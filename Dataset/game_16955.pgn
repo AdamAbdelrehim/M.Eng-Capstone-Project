@@ -1,0 +1,28 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "BitByByte"]
+[Black "YoBot_v2"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/Z8fC4NI5"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2907"]
+[BlackElo "3048"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:35:05"]
+[Termination "Normal"]
+
+1. e3 Nf6 2. d4 d5 3. c4 e6 4. Nf3 b6 5. b3 Bb7 6. Bb2 Bd6 7. Bd3 O-O 8. Nc3
+Nbd7 9. O-O a6 10. Re1 Ne4 11. Ne2 Qe7 12. Nf4 dxc4 13. bxc4 f5 14. c5 bxc5 15.
+Bc4 Bxf4 16. exf4 Nb6 17. Bf1 c4 18. a4 Rfe8 19. Qc2 Nd6 20. Ne5 a5 21. Ba3 Qd8
+22. Bxd6 cxd6 23. Nxc4 Rc8 24. Qb3 Bd5 25. Qxb6 Bxc4 26. Rab1 Qxb6 27. Rxb6 d5
+28. Rbxe6 Rxe6 29. Rxe6 Rb8 30. Bxc4 dxc4 31. Kf1 Rc8 32. d5 c3 33. Re1 Kf7 34.
+Ke2 Re8+ 35. Kf1 Rxe1+ 36. Kxe1 Ke7 37. Ke2 Kd6 38. Kd3 Kxd5 39. Kxc3 Kc5 40.
+f3 g6 41. g4 h6 42. h4 h5 43. g5 Kd5 44. Kd3 Kc5 45. Kc3 Kd5 46. Kd3 Kc5 47.
+Kc3 1/2-1/2
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Amroeljawich"]
+[Black "DaliMask1"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/An7wd82I"]
+[WhiteTitle "FM"]
+[WhiteElo "2522"]
+[BlackElo "2355"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Breyer Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:45:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-4"]
+
+1. e4 c6 2. d3 d5 3. Nd2 e5 4. Ngf3 Qc7 5. g3 g6 6. Bg2 Bg7 7. O-O Ne7 8. Re1
+O-O 9. c3 f5 10. exd5 cxd5 11. Nb3 e4 12. Bf4 Qb6 13. Ne5 Nbc6 14. Nxc6 bxc6
+15. c4 Be6 16. c5 Qa6 17. d4 h6 18. h4 Kh7 19. Bf1 Qb7 20. Na5 Qd7 21. b4 Rg8
+22. Rb1 a6 23. a4 Bf6 24. Bd2 g5 25. h5 f4 26. b5 axb5 27. axb5 fxg3 28. bxc6
+gxf2+ 29. Kxf2 Bxd4+ 30. Be3 Bxe3+ 31. Rxe3 Qc7 32. Kg1 Qxa5 33. Qd4 Nxc6 34.
+Rb7+ 1-0
+

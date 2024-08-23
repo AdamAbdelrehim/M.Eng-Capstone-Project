@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "bob_2004"]
+[Black "DonkinDonat"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/uTN9WDI6"]
+[WhiteTitle "FM"]
+[WhiteElo "2737"]
+[BlackElo "2673"]
+[ECO "A57"]
+[Opening "Benko Gambit: Zaitsev Variation, Nescafe Frappe Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:49:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. d4 c5 2. d5 Nf6 3. c4 b5 4. cxb5 a6 5. Nc3 axb5 6. e4 b4 7. Nb5 d6 8. Bf4 g5
+9. Bxg5 Nxe4 10. Bf4 Bg7 11. Qe2 f5 12. f3 Nf6 13. Nxd6+ Kf8 14. Nxc8 Qxc8 15.
+Rd1 Nbd7 16. Qb5 Rxa2 17. Bc4 Rxb2 18. Nh3 h6 19. O-O Ne8 20. Qc6 Qxc6 21. dxc6
+Nb6 22. Be6 Bd4+ 23. Rxd4 cxd4 24. Be5 Ng7 25. Bxd4 Nxe6 26. Bxb2 Rg8 27. Ra1
+Kf7 28. Ra7 Rc8 29. Nf2 Rxc6 30. Nd3 Rc2 31. Ne5+ Kf6 32. Nc4+ Kg5 33. Nxb6
+Rxb2 34. Rxe7 Nf4 35. g3 Nh3+ 36. Kf1 Rxh2 37. Nd5 Rf2+ 38. Ke1 Rxf3 39. Rg7+
+Kh5 40. Nf6# 1-0
+

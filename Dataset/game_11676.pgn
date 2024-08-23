@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Puli_ot_Babuli"]
+[Black "gogotaniye"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/8JUMMyaX"]
+[BlackTitle "FM"]
+[WhiteElo "2572"]
+[BlackElo "2770"]
+[ECO "A62"]
+[Opening "Benoni Defense: Fianchetto Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:45:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8. Nf3
+O-O 9. O-O Re8 10. Bf4 Ne4 11. Nxe4 Rxe4 12. Nd2 Rxf4 13. gxf4 Bxb2 14. Rb1 Bg7
+15. e4 Na6 16. Re1 Qh4 17. Qf3 Nb4 18. e5 Bf5 19. Rb3 Nc2 20. Rc1 Nd4 21. Qg3
+Ne2+ 0-1
+

@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "pbkttc"]
+[Black "IamALLblindness"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/RXIUZWas"]
+[WhiteElo "2538"]
+[BlackElo "2419"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Vienna Variation, Quiet Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "03:24:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. d4 d5 2. Nf3 e6 3. c4 Nf6 4. Nc3 dxc4 5. e3 a6 6. Bxc4 b5 7. Bb3 Bb7 8. O-O
+c5 9. Re1 cxd4 10. exd4 Be7 11. Bg5 O-O 12. d5 Nxd5 13. Bxd5 Bxd5 14. Bxe7 Bxf3
+15. Qxf3 Qxe7 16. Qxa8 1-0
+

@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Tactic_Trainer2023"]
+[Black "Gaius_Baltar"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/RzdeTQlK"]
+[WhiteElo "2821"]
+[BlackElo "2812"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Central Variation, Greco Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:31:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 d5 2. c4 dxc4 3. e4 b5 4. a4 c6 5. axb5 cxb5 6. Nc3 Qb6 7. Qh5 Nc6 8.
+Qxb5 Rb8 9. Bxc4 Bd7 10. Qxb6 axb6 11. Nf3 1-0
+

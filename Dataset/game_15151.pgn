@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Otsz"]
+[Black "Mischuk_D"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/6h10reNc"]
+[WhiteTitle "FM"]
+[BlackTitle "IM"]
+[WhiteElo "2647"]
+[BlackElo "2693"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:54:52"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nf6 5. Nf3 c5 6. c3 Nc6 7. O-O Bg4 8. Bf4
+cxd4 9. cxd4 Be7 10. Nbd2 O-O 11. Qb3 Na5 12. Qa4 a6 13. Rac1 b5 14. Qc2 Nc4
+15. b3 Nxd2 16. Nxd2 Rc8 17. Qb1 h6 18. h3 Be6 19. Rxc8 Qxc8 20. Rc1 Qd8 21.
+Rc6 Qa5 22. Qc2 Qb4 23. Nf3 a5 24. Bd2 Qa3 25. Bc1 Qb4 26. a3 Qd6 27. Rxd6 Bxd6
+28. Qc6 Rd8 29. Qxb5 Rc8 30. Be3 Bxa3 31. Qxa5 Bf8 32. Ne5 Ne4 33. Bxe4 dxe4
+34. d5 Bf5 35. g4 Bh7 36. Qa7 f6 37. Qf7+ Kh8 38. Nc6 Bg8 39. Qb7 Re8 40. Qd7
+Ra8 41. Ne7 Bh7 42. b4 h5 43. b5 hxg4 44. hxg4 Ra1+ 45. Kg2 Rb1 46. b6 Bg8 47.
+Nxg8 1-0
+

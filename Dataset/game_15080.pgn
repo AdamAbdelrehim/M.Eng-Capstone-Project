@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "michalkrycki2010"]
+[Black "MiguelKni"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ttlDffWu"]
+[WhiteElo "2465"]
+[BlackElo "2512"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game: Modern Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:44:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 g6 2. e3 Bg7 3. Nf3 c5 4. Bd3 d5 5. O-O Nf6 6. Ne5 Kf8 7. f4 cxd4 8. exd4
+Bf5 9. Bxf5 gxf5 10. Qd3 e6 11. Be3 Nc6 12. Nd2 Rc8 13. c3 h5 14. Rf3 Ng4 15.
+h3 Nxe3 16. Qxe3 Bh6 17. Re1 Qh4 18. Nxf7 Kxf7 19. Qxe6+ Kf8 20. Qxc8+ Kg7 21.
+Qd7+ Kg6 22. Re6+ 1-0
+

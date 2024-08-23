@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "FIDE-Trainer1984"]
+[Black "cant_handle_h5"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/SKXu08Fe"]
+[BlackTitle "IM"]
+[WhiteElo "2495"]
+[BlackElo "2552"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Lputian Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:38:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. e5 Nc6 5. Nf3 Qb6 6. a3 Nh6 7. b4 cxd4 8. Bxh6
+gxh6 9. cxd4 Bd7 10. Nbd2 a5 11. b5 Ne7 12. Bd3 Ng6 13. g3 a4 14. O-O Qa5 15.
+Qb1 h5 16. h4 Bh6 17. Ra2 O-O 18. Rc1 f6 19. Bxg6 hxg6 20. Qxg6+ Bg7 21. Rac2
+Be8 22. Qd3 Bxb5 23. Qe3 Bc6 24. exf6 Rxf6 25. Ne5 Bh6 26. f4 Bb5 27. Ndf3 Qd8
+28. Ng5 Qd6 29. Rc7 Raf8 30. Rxb7 Bc4 31. Nxc4 dxc4 32. Rxc4 Bxg5 33. hxg5 R6f7
+34. Rxf7 Rxf7 35. Rc8+ Kh7 36. Qe5 Qxe5 37. dxe5 Kg6 38. Kf2 Kf5 39. Kf3 Rb7
+40. Rf8+ Kg6 41. Rf6+ Kg7 42. Rxe6 Rb3+ 43. Ke4 Rxa3 44. Kf5 Ra1 45. Re7+ Kf8
+46. Kf6 a3 47. g6 a2 48. g7+ Kg8 49. Re8+ Kh7 50. Rh8# 1-0
+

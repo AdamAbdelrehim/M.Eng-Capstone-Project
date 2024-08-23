@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ChessatronBot"]
+[Black "AKS-Mantissa"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/RVJXKNiX"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2443"]
+[BlackElo "2730"]
+[ECO "A06"]
+[Opening "Zukertort Opening"]
+[TimeControl "180+3"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:33:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. Nf3 d5 2. e3 Nf6 3. b3 e6 4. Bb2 Be7 5. c4 O-O 6. Be2 dxc4 7. bxc4 b6 8. O-O
+c5 9. d3 Bb7 10. Nc3 Nc6 11. Qb3 Rb8 12. Rad1 Qc7 13. Nb5 Qc8 14. Nc3 Rd8 15.
+h3 Ba8 16. Ne4 Nxe4 17. dxe4 Rb7 18. a3 Rbd7 19. Bd3 Qc7 20. e5 Bb7 21. Qc2 g6
+22. Be2 Rxd1 23. Rxd1 Rxd1+ 24. Qxd1 h6 25. Bd3 Bf8 26. Be4 Bg7 27. Bc3 Kh7 28.
+h4 Qe7 29. Qd3 Kg8 30. g3 Qc7 31. Qd1 Ne7 32. Qd6 Qxd6 33. exd6 Bxe4 34. dxe7
+Bc6 35. Ne5 Be8 36. e4 h5 37. Kg2 Bf6 38. Kf3 Bxe7 39. Ke3 f6 40. Nd3 e5 41. f4
+exf4+ 42. Nxf4 Kf7 43. e5 Bd8 44. exf6 Bxf6 45. Nd5 Bd8 46. Be5 Bc6 47. Nc7 Ke7
+48. Kf4 Kd7 49. Nb5 a6 50. Nc3 Ke6 51. Ne2 Bg2 52. Bc3 Bf1 53. Ke3 Kf5 54. Kf2
+Bxe2 55. Kxe2 Ke4 56. Kd2 Bc7 57. Bf6 Bxg3 58. Ke2 Be5 59. Bd8 Kd4 60. Bxb6 Bf6
+61. Kf3 Bxh4 62. Kf4 Kxc4 63. Ke5 Kb5 64. Ba7 Bg3+ 65. Ke4 c4 66. Be3 Ka4 67.
+Kd4 Kb3 68. Bc1 c3 69. Ke3 Kc2 70. Kd4 h4 71. Be3 h3 72. Bg1 Kb3 73. Kd5 c2 74.
+Bf2 Bxf2 75. a4 h2 76. a5 h1=Q+ 77. Ke5 Qc6 78. Kf4 c1=Q+ 79. Kg4 Qg2# 0-1
+

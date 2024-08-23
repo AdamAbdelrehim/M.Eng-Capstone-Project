@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.22"]
+[Round "-"]
+[White "lordshuu"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "rnbqkbnr/pppp1ppp/8/8/8/2p1P3/PPP2PPP/R1BQKBNR w KQkq -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Van-Geet-Opening-Reversed-Nimzowitsch-Variation-2.d4-exd4"]
+[UTCDate "2021.02.22"]
+[UTCTime "21:40:43"]
+[WhiteElo "966"]
+[BlackElo "965"]
+[TimeControl "300"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "21:40:43"]
+[EndDate "2021.02.22"]
+[EndTime "21:40:51"]
+[Link "https://www.chess.com/game/live/7768986683"]
+
+1. Nc3 { [%clk 0:05:00] } 1... e5 { [%clk 0:04:59.9] } 2. d4
+{ [%clk 0:04:59.9] } 2... exd4 { [%clk 0:04:57.3] } 3. e3 { [%clk 0:04:59.8] }
+3... dxc3 { [%clk 0:04:55.5] } 0-1
+

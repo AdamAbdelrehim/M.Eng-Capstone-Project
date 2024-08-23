@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "kasparik_garik"]
+[Black "sushila1"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/rf4HRRKF"]
+[WhiteElo "2594"]
+[BlackElo "2770"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Keres Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:29:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. e4 c5 2. Ne2 e6 3. Nbc3 d5 4. exd5 exd5 5. d3 Nc6 6. g3 h6 7. Bg2 Nf6 8. O-O
+Be7 9. Nf4 d4 10. Ncd5 Nxd5 11. Nxd5 O-O 12. Nxe7+ Qxe7 13. Re1 Be6 14. Qh5
+Rfe8 15. Bd2 Rac8 16. a3 a6 17. Bh3 Qf8 18. Bxe6 Rxe6 19. Rxe6 fxe6 20. Re1 Qf5
+21. Qxf5 exf5 22. h4 Kf7 23. h5 Re8 24. Rxe8 Kxe8 25. Kg2 Kf7 26. f3 Ke6 27. g4
+Ne7 28. Kg3 Nd5 29. c4 dxc3 30. bxc3 b5 31. c4 Nf6 32. Kf4 fxg4 33. fxg4 Ne8
+34. Bc3 Nf6 35. Bb2 b4 36. axb4 cxb4 37. d4 a5 38. d5+ Kf7 39. Ke5 a4 40. c5 a3
+41. Bc1 Nxg4+ 42. Kd6 a2 43. Bb2 Ne3 44. Ba1 b3 45. c6 b2 46. c7 Nc4+ 47. Kc5
+bxa1=Q 48. c8=Q Qg1+ 49. Kb4 Qb1+ 50. Kc5 Qg1+ 51. Kb4 a1=Q 52. Qe6+ Kf8 53.
+Qc8+ Ke7 54. Qe6+ Kd8 55. Qg8+ Kc7 56. Qf7+ Kb6 57. Qe6+ Kb7 58. Qd7+ Ka6 59.
+Qc6+ Qb6+ 60. Qxb6+ Kxb6 0-1
+

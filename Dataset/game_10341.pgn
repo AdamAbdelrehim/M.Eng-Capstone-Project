@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "iakov98"]
+[Black "DTimofey"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/CsgmKh4z"]
+[WhiteTitle "IM"]
+[WhiteElo "2672"]
+[BlackElo "2515"]
+[ECO "D27"]
+[Opening "Queen's Gambit Accepted: Classical Defense, Main Line"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:25:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 d5 2. c4 dxc4 3. e3 e6 4. Bxc4 Nf6 5. Nf3 c5 6. O-O a6 7. Re1 b5 8. Bf1
+Bb7 9. a4 b4 10. Nbd2 cxd4 11. e4 Nc6 12. e5 Nd5 13. Nc4 Bc5 14. a5 O-O 15. Bd3
+h6 16. Qe2 Re8 17. Qe4 f5 18. exf6 Nxf6 19. Qg6 Ne7 20. Qg3 Nf5 21. Bxf5 exf5
+22. Bxh6 Nh5 23. Qg6 Bxf3 24. gxf3 Rxe1+ 25. Rxe1 Qf6 26. Qxh5 Qxh6 27. Qxf5
+Bf8 28. Qd5+ 1-0
+

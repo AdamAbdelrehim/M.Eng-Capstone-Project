@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "DR_speedrun_2700"]
+[Black "Ivn_2001"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/u94ys2rl"]
+[BlackTitle "CM"]
+[WhiteElo "2580"]
+[BlackElo "2396"]
+[ECO "C58"]
+[Opening "Italian Game: Two Knights Defense, Polerio Defense, Bishop Check Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "02:30:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Bd3 Ng4 9. Ne4 f5 10. Be2 h5 11. h3 fxe4 12. hxg4 Bc5 13. Nc3 Qd4 14. O-O O-O
+15. Qe1 hxg4 16. d3 Rxf2 17. Rxf2 exd3 18. Bxd3 g3 19. Ne4 gxf2+ 20. Qxf2 Qxf2+
+21. Nxf2 Be6 22. Bd2 Nb7 23. Re1 Rf8 24. Be3 Bd6 25. Ne4 Bb8 26. a3 Bf5 27. Rf1
+Bxe4 28. Bxe4 Rxf1+ 29. Kxf1 Nd8 30. Bg5 Bc7 31. Ke2 Kf7 32. Kd3 Ne6 33. Be3
+Nf4+ 34. Kc4 Nd5 35. Bxd5+ cxd5+ 36. Kxd5 Kf6 37. Bxa7 1-0
+

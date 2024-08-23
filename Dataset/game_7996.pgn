@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "MarioVillanueva"]
+[Black "Partake"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/26CF2rY1"]
+[WhiteTitle "IM"]
+[WhiteElo "2653"]
+[BlackElo "2615"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "00:21:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Nf3 Nf6 5. g3 e5 6. d3 Nc6 7. Bg2 Bd6 8.
+O-O O-O 9. Nd2 Bg4 10. f3 Bh5 11. Nc4 Qa6 12. Kh1 Rad8 13. Bg5 Be7 14. g4 Bg6
+15. h4 h6 16. Be3 Rfe8 17. h5 Bh7 18. a4 Nd5 19. Nxd5 Rxd5 20. f4 e4 21. f5 Bf6
+22. Qe2 Nd4 23. Bxd4 Rxd4 24. Nd2 e3 25. Nb3 Rb4 26. Nc5 Qd6 27. Ne4 Rbxe4 28.
+Bxe4 Bxb2 29. Rab1 Bd4 30. Rxb7 Qa6 31. Rb4 c5 32. Rb5 Qxa4 33. Rfb1 Be5 34.
+Kg2 Qd4 35. R5b3 Bd6 36. Kh1 f6 37. c3 Qe5 38. R3b2 Qg3 39. Bg2 Qh4+ 40. Kg1
+Bh2+ 41. Kf1 Bg3 42. Qf3 Bf2 43. Re2 Qh2 44. Rxf2 exf2 45. Qxf2 Qe5 46. Re1 Qb8
+47. Bd5+ Kh8 48. Rxe8+ Qxe8 49. Qxc5 Qf8 50. Qxf8+ Bg8 51. Qxg8# 1-0
+

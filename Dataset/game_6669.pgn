@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ErnstBayer"]
+[Black "ChessValkyrie"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/TpWi4RoQ"]
+[WhiteElo "2340"]
+[BlackElo "2500"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:04:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. Nf3 d5 2. g3 e6 3. Bg2 Nf6 4. O-O Be7 5. b3 O-O 6. Bb2 b5 7. d4 a5 8. a4 b4
+9. Ne5 Nfd7 10. Nd3 Bb7 11. c3 c5 12. dxc5 Nxc5 13. Nxc5 Bxc5 14. cxb4 Bxb4 15.
+Nd2 Nc6 16. e4 Ba6 17. Re1 dxe4 18. Qg4 Nd4 19. Rxe4 f5 20. Rxd4 fxg4 21. Rxd8
+Raxd8 22. Nc4 Bxc4 23. bxc4 Rd2 24. Be5 Rfxf2 0-1
+

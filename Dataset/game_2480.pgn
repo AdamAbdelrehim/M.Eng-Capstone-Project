@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Arthas_tsalb"]
+[Black "Konnov_Oleg"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/hdSnksLS"]
+[WhiteElo "2615"]
+[BlackElo "2595"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:32:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. b3 d5 2. Bb2 c5 3. e3 a6 4. f4 Nc6 5. Nf3 Nf6 6. g3 g6 7. Bg2 Bg7 8. O-O O-O
+9. Qe2 b5 10. d3 Bb7 11. e4 dxe4 12. dxe4 Qb6 13. e5 Nd5 14. c4 bxc4 15. bxc4
+Nc7 16. Nc3 Nd4 17. Nxd4 cxd4 18. Nd5 Nxd5 19. cxd5 Rad8 20. Ba3 Rfe8 21. Rfb1
+Qa7 22. Rxb7 Qxb7 23. d6 Qa7 24. dxe7 Rxe7 25. Bxe7 Qxe7 26. Qxa6 d3 27. Qa5
+Qd7 28. Rd1 Qd4+ 29. Kh1 d2 30. a4 Bf8 31. Qc7 Bc5 32. a5 h5 33. a6 h4 34. e6
+fxe6 35. Bh3 Qd5+ 36. Bg2 Qd3 37. Qe5 Rd6 38. Qxc5 h3 39. a7 hxg2+ 40. Kxg2
+Qe2+ 41. Kh3 Qh5+ 42. Qxh5 gxh5 43. a8=Q+ Kg7 44. Qg2 Rd5 45. Rxd2 Rd3 46. Rxd3
+Kf6 47. Qc6 Ke7 48. Rd6 Kf6 49. Rxe6+ Kf7 50. Qd7+ 1-0
+

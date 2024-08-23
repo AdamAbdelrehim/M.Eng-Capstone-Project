@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "fischerz"]
+[Black "dedyka"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ZNVPy4yz"]
+[WhiteElo "2510"]
+[BlackElo "2527"]
+[ECO "A43"]
+[Opening "Benoni Defense: Old Benoni"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:22:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 c5 2. e3 d5 3. Nf3 Nc6 4. c3 Nf6 5. Bd3 Bg4 6. h3 Bxf3 7. Qxf3 e6 8. Nd2
+Be7 9. dxc5 Bxc5 10. e4 Ne5 11. Bb5+ Kf8 12. Qe2 d4 13. Nf3 d3 14. Qd1 Bxf2+
+15. Kxf2 Qb6+ 16. Nd4 Nxe4+ 17. Kg1 Rd8 18. Be3 Rxd4 19. cxd4 Qxb5 20. dxe5 d2
+21. Qb3 Qxe5 22. Qb4+ Kg8 23. Bxd2 a5 24. Qxa5 Qd4+ 25. Kh2 Nxd2 26. Qa8+ 1-0
+

@@ -1,0 +1,21 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "loasis"]
+[Black "SacrificialMaster"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/NMFlPiZK"]
+[WhiteElo "2470"]
+[BlackElo "2542"]
+[ECO "B50"]
+[Opening "Sicilian Defense: Modern Variations"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:06:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "-15"]
+[BlackRatingDiff "+4"]
+
+1. e4 c5 2. Nf3 d6 3. Nd4 cxd4 0-1
+

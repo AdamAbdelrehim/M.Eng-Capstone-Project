@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "brentmeir"]
+[Black "firegus16"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/5dq8hBEx"]
+[WhiteElo "2446"]
+[BlackElo "2605"]
+[ECO "A64"]
+[Opening "Benoni Defense: Fianchetto Variation, Hastings Defense, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:11:37"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. d4 Nf6 2. c4 c5 3. d5 e6 4. Nc3 exd5 5. cxd5 d6 6. Nf3 g6 7. g3 Bg7 8. Bg2
+O-O 9. O-O a6 10. a4 Re8 11. Nd2 Nbd7 12. h3 Rb8 13. Nc4 Ne5 14. Na3 Qc7 15. e4
+Ned7 16. Re1 b6 17. f4 c4 18. Qd4 Nh5 19. Qxc4 Qd8 20. Kh2 Bb7 21. Qe2 Nc5 22.
+Nc4 Nb3 23. Ra3 Nd4 24. Qd1 b5 25. axb5 axb5 26. Be3 b4 27. Ra4 bxc3 28. Bxd4
+cxb2 29. Bxg7 Nxg7 30. Nxb2 Nh5 31. Nc4 Qd7 32. Ra7 Ra8 33. Nb6 Qc7 34. Nxa8
+Rxa8 35. Rxa8+ Bxa8 36. Qa4 Bb7 37. Rb1 Bc8 38. Qe8+ Kg7 39. e5 Qc3 40. exd6
+Qxg3+ 41. Kh1 Nxf4 42. Qe5+ Kh6 43. Rg1 Bxh3 44. Be4 Qh4 45. Qg5+ Qxg5 46. Rxg5
+Kxg5 47. Kh2 1-0
+

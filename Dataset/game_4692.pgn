@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "MYFIRSTBOT"]
+[Black "RaspFish"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/FzObKDzL"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2780"]
+[BlackElo "2980"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Defense"]
+[TimeControl "420+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:41:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "+11"]
+[BlackRatingDiff "-3"]
+
+1. d4 g6 2. e4 d6 3. Nc3 Bg7 4. Be3 Nf6 5. Qd2 c6 6. Bh6 Bxh6 7. Qxh6 e5 8.
+O-O-O Qe7 9. d5 cxd5 10. Nxd5 Nxd5 11. Bb5+ Nd7 12. Rxd5 a6 13. Bxd7+ Bxd7 14.
+Ne2 Bc6 15. Nc3 f5 16. Rhd1 O-O-O 17. exf5 Kb8 18. R5d3 Bxg2 19. fxg6 Qf6 20.
+Qd2 hxg6 21. Rxd6 Qxd6 22. Qxd6+ Rxd6 23. Rxd6 Rxh2 24. Rxg6 Bf3 25. Re6 e4 26.
+Nxe4 Bxe4 27. Rxe4 Rxf2 28. b4 Rf5 29. a4 b5 30. a5 Rd5 31. Re6 Kb7 32. c3 Ka7
+33. Re3 Rd6 34. Re7+ Ka8 35. Rh7 Rc6 36. Kb2 Rc8 37. Kb3 Rc6 38. Kc2 Rc8 39.
+Kb3 Rc6 40. Re7 Rc8 41. Re6 Kb7 42. Rh6 Rc6 43. Rh3 Kb8 44. Kb2 Rg6 45. Ka2 Kb7
+46. Rh7+ Ka8 47. Kb2 Rc6 48. Rg7 Kb8 49. Rg8+ Rc8 50. Rg6 Ka7 51. Rg7+ Ka8 52.
+Rh7 Rc6 53. Rf7 Rg6 54. Rf4 Rc6 55. Rf5 Kb8 56. Rf7 Kc8 57. Rh7 Rd6 58. Rh4 Rc6
+59. Rf4 Kc7 60. Rh4 Kb8 61. Kc2 Kb7 62. Rg4 Kc8 63. Kb2 1/2-1/2
+

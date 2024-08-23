@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "mick_chess"]
+[Black "xiaochess"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/PDyRJivy"]
+[WhiteElo "2754"]
+[BlackElo "2840"]
+[ECO "C70"]
+[Opening "Ruy Lopez: Morphy Defense, Classical Defense Deferred"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:33:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Bc5 5. O-O Nge7 6. Re1 O-O 7. c3 Ba7 8. d4
+Ng6 9. h3 d6 10. Be3 Re8 11. Nbd2 b5 12. Bb3 Na5 13. Bc2 h6 14. Qe2 c5 15. dxc5
+dxc5 16. Rad1 Qc7 17. Nf1 Be6 18. b3 c4 19. b4 Nc6 20. Bxa7 Nf4 21. Qe3 Rxa7
+22. Rd2 a5 23. a4 Qb8 24. axb5 Qxb5 25. bxa5 Rxa5 26. Rb1 Qc5 27. Qxc5 Rxc5 28.
+Ba4 Nd3 29. Ne1 Rd8 30. Rbd1 Na5 31. Nxd3 cxd3 32. Rxd3 Rxd3 33. Rxd3 Rc4 34.
+Bc2 Nb7 35. Nd2 Rc7 36. Bb3 Nc5 37. Rd8+ Kh7 38. Bxe6 Nxe6 39. Rd5 Rxc3 40.
+Rxe5 Rc1+ 41. Kh2 Rc2 42. Rd5 Nf4 43. Rd7 f6 44. g3 Ne6 45. Kg2 Nc5 46. Rd4 Ne6
+47. Rd5 Nc7 48. Rd7 Nb5 49. Nf3 Rc7 50. Rxc7 Nxc7 51. Kg1 Kg6 52. Kf1 Ne6 53.
+Ke2 Kf7 54. Ke3 Nc5 55. Nd4 Nd7 56. f4 Nb6 57. Kd3 Nd7 58. Nb3 g6 59. Kd4 Ke7
+60. Nc5 Nb8 61. Kd5 h5 62. h4 Ke8 63. Kd6 Kd8 64. Ke6 1-0
+

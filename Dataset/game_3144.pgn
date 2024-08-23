@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "caissa-x"]
+[Black "AKS-Mantissa"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/0Guekp81"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2994"]
+[BlackElo "2706"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+[TimeControl "180+3"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:08:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 g6 4. Nd2 Bg7 5. c3 O-O 6. Be2 c5 7. Ngf3 b6 8. O-O
+e6 9. b4 c4 10. a4 Bb7 11. Qe1 Nbd7 12. a5 b5 13. Ne5 Nxe5 14. Bxe5 Ne8 15.
+Bxg7 Kxg7 16. Bd1 a6 17. e4 dxe4 18. Nxe4 Bxe4 19. Qxe4 Nf6 20. Qe5 Ra7 21. f4
+Rd7 22. Bf3 h5 23. g3 Rd6 24. Ra2 Re8 25. h3 Rd5 26. Qe1 Rf5 27. Re2 Re7 28.
+Qd2 Qd6 29. Re5 Nd7 30. Qe3 Nxe5 31. fxe5 Qd8 32. g4 hxg4 33. hxg4 Rxf3 34.
+Rxf3 Re8 35. Qf4 Rf8 36. Rh3 g5 37. Qf3 Rh8 38. Rxh8 Qxh8 39. Qf6+ Kg8 40.
+Qxg5+ Qg7 41. Qxg7+ Kxg7 42. Kf2 Kh6 43. Ke3 Kg5 44. Kf3 Kg6 45. Ke4 Kg5 46. d5
+exd5+ 47. Kxd5 Kxg4 48. Kc5 Kf4 49. Kb6 Kxe5 50. Kxa6 f5 51. Kxb5 Kd6 52. Kxc4
+Kc7 53. Kd5 f4 54. Ke4 f3 55. Kxf3 Kd6 56. b5 Kc7 57. Ke4 Kd6 58. b6 Kc6 59.
+Ke5 Kb7 60. Kd6 Kc8 61. a6 Kd8 62. c4 Ke8 63. Ke6 Kf8 64. Kf6 Ke8 65. a7 Kd7
+66. a8=Q Kd6 67. Qd5# 1-0
+

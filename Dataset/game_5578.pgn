@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "FRA_DAVOUST_Nicolas"]
+[Black "MiniSip"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/eivv8ukk"]
+[WhiteElo "2425"]
+[BlackElo "2686"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:26:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "+14"]
+[BlackRatingDiff "-9"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 Qxd5 5. d4 cxd4 6. cxd4 Nf6 7. Nc3 Bb4 8.
+Bd2 Bxc3 9. bxc3 O-O 10. Qb3 b6 11. Bd3 Bb7 12. O-O Qh5 13. Ne5 Nc6 14. Rae1
+Nxe5 15. Rxe5 Qh4 16. Bg5 Qg4 17. f3 Bxf3 18. Rxf3 Nd5 19. h3 Qh5 20. g4 1-0
+

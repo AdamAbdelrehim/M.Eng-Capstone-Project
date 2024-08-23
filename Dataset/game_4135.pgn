@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Lucon2000"]
+[Black "Deathgun9"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/jeI18GqU"]
+[WhiteElo "2454"]
+[BlackElo "2520"]
+[ECO "B41"]
+[Opening "Sicilian Defense: Kan Variation, Maróczy Bind, Réti Variation"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:25:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. c4 Nf6 6. Nc3 Bb4 7. Qd3 d5 8. exd5
+exd5 9. Be2 O-O 10. O-O dxc4 11. Qxc4 Bxc3 12. Qxc3 Nd5 13. Qg3 Nc6 14. Nxc6
+bxc6 15. Bd2 Be6 16. Rac1 Qd7 17. Rfd1 Rfe8 18. Bf3 Bf5 19. Bh6 Bg6 20. Bg5
+Rac8 21. h4 h5 22. Rc5 Qb7 23. b3 Nb4 24. Qd6 Re6 25. Qd7 Qxd7 26. Rxd7 Nxa2
+27. Rb7 a5 28. Rxa5 Nc3 29. Rc5 Ne4 30. Bxe4 Bxe4 31. b4 Rce8 32. Be3 Re5 33.
+Rxe5 Rxe5 34. g3 Rd5 35. Kh2 Bf3 36. Rb8+ Kh7 37. g4 Bxg4 38. Kg3 Be6 39. Rb6
+Rb5 40. Rxb5 cxb5 41. Kf4 f6 42. Bc5 Kg6 43. Bf8 Kf7 44. Bc5 g6 45. Ke4 g5 46.
+hxg5 fxg5 47. Be3 Kf6 48. Bd4+ Kg6 49. Ke5 Bc4 50. f3 h4 51. Bf2 Be2 52. Ke4
+Kf6 53. f4 h3 54. Bg3 g4 55. Bh2 Bf3+ 56. Ke3 Kf5 57. Bg3 Bd1 58. Bh2 Bf3 59.
+Bg3 Bd1 60. Bf2 Bf3 61. Be1 h2 62. Bg3 h1=Q 63. Kd4 Qf1 64. Kc5 Qc4+ 65. Kb6
+Qxb4 66. Kc7 Qxf4+ 67. Bxf4 Kxf4 68. Kb6 g3 69. Kc5 g2 70. Kb4 g1=Q 71. Ka5 Qb1
+72. Kb6 b4 73. Kc7 b3 74. Kd6 b2 75. Ke7 Qc2 76. Ke6 b1=Q 77. Kf6 Qc4 78. Ke7
+Qbb5 79. Kf6 Qcc6+ 80. Kf7 Qbb7+ 81. Kg8 Qcc8# 0-1
+

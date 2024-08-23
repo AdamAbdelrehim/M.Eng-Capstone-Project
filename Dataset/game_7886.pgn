@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "caissa-x"]
+[Black "RaspFish"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/isbc6fK9"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2993"]
+[BlackElo "2980"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:49:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. b3 d5 2. Bb2 Bf5 3. d3 c5 4. Nd2 Nf6 5. e4 dxe4 6. dxe4 Nxe4 7. Bd3 Nd6 8.
+Bxf5 Nxf5 9. Qf3 Qc8 10. O-O-O Nc6 11. Ne2 e6 12. Ne4 Qc7 13. g4 Nfd4 14. Nxd4
+Nxd4 15. Bxd4 cxd4 16. Rxd4 Ba3+ 17. Kb1 O-O 18. g5 Rac8 19. c3 Rfd8 20. Ra4
+Bf8 21. Rxa7 Rd5 22. Qg3 Qc6 23. Rc1 Rcd8 24. Kb2 Rf5 25. f3 g6 26. Ra4 h6 27.
+h4 h5 28. Rc4 Qa6 29. Ra4 Qc6 30. Rc4 Qa6 31. Ra4 Qe2+ 32. Rc2 Qd1 33. Rc1 Qe2+
+34. Rc2 Qd1 35. Rc1 Qd3 1/2-1/2
+

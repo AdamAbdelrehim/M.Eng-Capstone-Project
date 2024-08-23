@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "jgeg"]
+[Black "RRS03"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/NeEMU3u0"]
+[WhiteTitle "FM"]
+[BlackTitle "FM"]
+[WhiteElo "2626"]
+[BlackElo "2561"]
+[ECO "E28"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:02:15"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 O-O 6. e3 b6 7. Bd3 Bb7 8.
+Nf3 d5 9. O-O Nbd7 10. cxd5 exd5 11. Bb2 c5 12. c4 cxd4 13. Nxd4 Ne5 14. Nf5
+Nxc4 15. Bd4 Bc8 16. Ra2 Bxf5 17. Bxf5 Qd6 18. Qf3 Rad8 19. Qh3 h6 20. Rd1 Rfe8
+21. Bd3 Ne5 22. Bb1 Nc6 23. Ba1 d4 24. Qf5 Qe6 25. Qxe6 Rxe6 26. Rad2 Ne4 27.
+Rd3 Nc5 28. R3d2 d3 29. Bxd3 Nxd3 30. Rxd3 Rxd3 31. Rxd3 Na5 32. Kf1 Rc6 33.
+Bc3 Nc4 34. Be1 Rc7 35. Ke2 b5 36. Rc3 Rd7 37. a4 a6 38. axb5 axb5 39. Rb3 Rb7
+40. Kd3 Kf8 41. Kd4 Ke7 42. Kc5 Ne5 43. Bc3 Nd7+ 44. Kc6 Rb6+ 45. Kc7 g5 46.
+Bd4 Rb8 47. Kc6 b4 48. Bc5+ Ke6 49. Rxb4 Rc8+ 50. Kb7 Rxc5 51. Re4+ Re5 52. Rd4
+Rd5 53. Kc6 Rxd4 54. exd4 Nf6 55. f3 Nd5 56. Kc5 f5 57. Kc6 f4 58. Kc5 h5 59.
+Kc6 h4 60. Kc5 Ne3 61. Kc6 Nd5 62. Kc5 Nf6 63. h3 Nd5 64. Kc6 Ne7+ 65. Kc5 Nf5
+66. Kc6 Nxd4+ 67. Kc5 Ne2 68. Kc4 Ng3 69. Kd3 Ke5 70. Kd2 Kd5 71. Ke1 Kd4 72.
+Kf2 Kd3 73. Kg1 Ke2 74. Kh2 Nf1+ 75. Kg1 Ne3 76. Kh2 Nxg2 77. Kg1 Kxf3 78. Kh2
+Kf2 0-1
+

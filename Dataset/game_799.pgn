@@ -1,0 +1,25 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Nikitosikbot_v2"]
+[Black "caissa-x"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/aa5vztKw"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3021"]
+[BlackElo "3037"]
+[ECO "D05"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[TimeControl "600+3"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:44:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. d4 d5 2. Nf3 Nf6 3. e3 e6 4. Nbd2 c5 5. b3 cxd4 6. exd4 Bd6 7. Bd3 O-O 8.
+Bb2 b6 9. Qe2 a5 10. a4 Qc7 11. Rc1 Nc6 12. Bb5 Na7 13. Bd3 Nc6 14. Bb5 Na7 15.
+Bd3 Nc6 1/2-1/2
+

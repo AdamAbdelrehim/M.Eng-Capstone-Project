@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "parciful"]
+[Black "flo50"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/8jkuEwdx"]
+[WhiteElo "2527"]
+[BlackElo "2541"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:47:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 c5 2. Nc3 a6 3. g3 b5 4. Bg2 Bb7 5. d3 e6 6. f4 b4 7. Na4 d5 8. f5 dxe4
+9. fxe6 fxe6 10. Nxc5 Bxc5 11. Qh5+ g6 12. Qxc5 Qe7 13. Qxe7+ Kxe7 14. Bxe4
+Bxe4 15. dxe4 Nf6 16. Bg5 h6 17. Bxf6+ Kxf6 18. O-O-O Ke5 19. Nf3+ Kxe4 20. Nh4
+Ke5 21. Nxg6+ 1-0
+

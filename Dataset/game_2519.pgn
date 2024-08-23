@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ChessValkyrie"]
+[Black "mcbest18"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Gy3uMT71"]
+[WhiteElo "2543"]
+[BlackElo "2487"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Maróczy Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:39:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. e4 c6 2. d4 d5 3. f3 dxe4 4. fxe4 e5 5. Nf3 Nd7 6. c3 Ngf6 7. Bd3 Bd6 8. O-O
+O-O 9. Kh1 h6 10. Be3 Qc7 11. Nbd2 Ng4 12. Bg1 b6 13. Nh4 Ngf6 14. Nf5 Kh7 15.
+Nc4 Ne8 16. Qf3 b5 17. Ncxd6 Nxd6 18. Nxd6 Qxd6 19. Rad1 Qe7 20. d5 Bb7 21.
+dxc6 Bxc6 22. Qf5+ g6 23. Qg4 Rad8 24. Be3 Nf6 25. Qh4 Ng8 26. Qg3 Rd7 27. Bc2
+f6 28. Qf2 Rfd8 29. Rxd7 Qxd7 30. Bxa7 Ra8 31. Bc5 Rxa2 32. Ba3 Qe6 33. Qc5 Qc4
+34. Qf8 Qxf1# 0-1
+

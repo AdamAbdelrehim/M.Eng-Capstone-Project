@@ -1,0 +1,25 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "ELO_1500"]
+[Black "expositor"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/ovg58U5s"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2962"]
+[BlackElo "2814"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Three Knights, Vienna Variation"]
+[TimeControl "180+10"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:21:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 dxc4 5. e4 Bb4 6. Bg5 c5 7. Bxc4 h6 8. Bxf6
+Qxf6 9. O-O cxd4 10. e5 Qd8 11. Nxd4 O-O 12. Rc1 Bc5 13. Nf3 Bd7 14. Ne4 Bb6
+15. b4 Bc6 16. Qe2 Nd7 17. Bb5 Bd5 18. Bc4 Bc6 19. Bb5 Bd5 20. Bc4 Bc6 1/2-1/2
+

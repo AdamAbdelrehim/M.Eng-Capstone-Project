@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "GGem"]
+[Black "santyaga2020"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/vnD3Q9PY"]
+[WhiteElo "2468"]
+[BlackElo "2502"]
+[ECO "D01"]
+[Opening "Rapport-Jobava System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:52:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. Nc3 g6 3. Bf4 d5 4. Nb5 Na6 5. e3 Bg7 6. h4 h5 7. Nf3 O-O 8. Ne5
+c6 9. Nc3 Nc7 10. Be2 Ne6 11. g4 Nxf4 12. exf4 hxg4 13. Nxg4 Bxg4 14. Bxg4 c5
+15. Bf3 Qd6 16. dxc5 Qxf4 17. Nxd5 Nxd5 18. Qxd5 Bxb2 19. Rb1 Bc3+ 20. Kf1 Rad8
+21. Qe4 Qxe4 22. Bxe4 Rc8 23. Rxb7 Bf6 24. c6 Rfd8 25. Kg2 a5 26. h5 g5 27. h6
+Rd4 28. h7+ Kg7 29. f3 g4 30. h8=Q+ Rxh8 31. Rxh8 Kxh8 32. c7 gxf3+ 33. Kxf3
+Rc4 34. Rb8+ Kg7 35. c8=Q 1-0
+

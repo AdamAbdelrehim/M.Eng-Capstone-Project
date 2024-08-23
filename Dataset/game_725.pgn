@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "MassterofMayhem"]
+[Black "www68"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ShRqcn3X"]
+[WhiteTitle "IM"]
+[WhiteElo "2627"]
+[BlackElo "2586"]
+[ECO "C06"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:19:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 cxd4 8. cxd4
+f6 9. exf6 Qxf6 10. O-O h6 11. Nf3 Bd6 12. Ng3 O-O 13. Re1 e5 14. dxe5 Ndxe5
+15. Be2 Be6 16. Bd2 Nxf3+ 17. Bxf3 Nd4 18. Bc3 Nxf3+ 19. Qxf3 Qxf3 20. gxf3 Bh3
+21. Rad1 Rxf3 22. Rxd5 Bc7 23. Re7 Bb6 24. Rxg7+ Kf8 25. Ne4 Rxc3 0-1
+

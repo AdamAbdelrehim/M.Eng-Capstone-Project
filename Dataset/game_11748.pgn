@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "CoolGuy64Chess"]
+[Black "Micheliavelli"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/USOWytQV"]
+[WhiteElo "2524"]
+[BlackElo "2601"]
+[ECO "A45"]
+[Opening "Trompowsky Attack: Classical Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:54:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. Bg5 e6 3. Nd2 h6 4. Bh4 d5 5. e3 c5 6. c3 Nbd7 7. Bd3 Bd6 8. f4
+cxd4 9. cxd4 O-O 10. Ngf3 Be7 11. O-O b6 12. Ne5 Bb7 13. Bxf6 Nxf6 14. Qf3 Rc8
+15. Rf2 Rc7 16. f5 Qd6 17. a3 Rfc8 18. Raf1 Rc1 19. fxe6 fxe6 20. Qg3 Rxf1+ 21.
+Rxf1 Ne4 22. Bxe4 dxe4 23. Rf7 Rc1+ 24. Nf1 g5 25. Qf2 Ba6 26. Rf8+ 1-0
+

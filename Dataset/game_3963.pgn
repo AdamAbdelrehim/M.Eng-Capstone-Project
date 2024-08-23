@@ -1,0 +1,32 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "B-the-bot"]
+[Black "expositor"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ESDNi9si"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2783"]
+[BlackElo "2819"]
+[ECO "E01"]
+[Opening "Catalan Opening: Closed"]
+[TimeControl "1200+5"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:00:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+160"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 4. Bg2 Bb4+ 5. Nd2 O-O 6. Nf3 dxc4 7. Qc2 a5 8. a3
+Bxd2+ 9. Bxd2 b5 10. a4 c6 11. h4 Nbd7 12. h5 h6 13. g4 Nxg4 14. axb5 Ndf6 15.
+bxc6 Qb6 16. Qxc4 Ba6 17. Qc5 Qb3 18. Qc1 Ne4 19. Ne5 Nxe5 20. dxe5 Qb5 21. Bf3
+Qxe5 22. Rh4 Nxd2 23. Qxd2 Bb5 24. Qd4 Qb8 25. Rg4 e5 26. Qc5 Rc8 27. Rd1 Bxc6
+28. Bxc6 Qxb2 29. Rc4 a4 30. Qd5 Qb3 31. Bxa8 Qxc4 32. Qxc4 Rxc4 33. Rd7 Kf8
+34. Bd5 Rf4 35. Ra7 Ke8 36. Bc6+ Kf8 37. Bxa4 Rb4 38. Bc6 Rb1+ 39. Kd2 Rb2+ 40.
+Ke3 Rb3+ 41. Ke4 Rb2 42. e3 Rc2 43. Bd5 Rxf2 44. Kxe5 g6 45. hxg6 fxg6 46. Kd6
+Rf6+ 47. Kc5 Rf1 48. e4 h5 49. e5 Rc1+ 50. Kd6 Rf1 51. e6 Rf6 52. Kd7 Kg7 53.
+e7 Kh6 54. e8=Q Kg5 55. Qe3+ Rf4 56. Ra4 Kh6 57. Qxf4+ Kg7 58. Qf7+ Kh6 59. Rh4
+g5 60. Rxh5# 1-0
+

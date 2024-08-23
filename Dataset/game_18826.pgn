@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Chess-Network"]
+[Black "bancsoo"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/0xgTUCmP"]
+[WhiteTitle "NM"]
+[BlackTitle "GM"]
+[WhiteElo "2667"]
+[BlackElo "2787"]
+[ECO "C42"]
+[Opening "Russian Game: Three Knights Game"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:48:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 d6 4. d4 exd4 5. Nxd4 Be7 6. Bc4 O-O 7. O-O c6 8.
+Bb3 b5 9. Re1 b4 10. Nb1 c5 11. Nf3 Nc6 12. a3 Bb7 13. axb4 Nxb4 14. Nc3 a6 15.
+Bg5 h6 16. Bf4 Rc8 17. Bc4 Qb6 18. Qe2 Rfe8 19. e5 Bf8 20. Qd2 d5 21. exf6 dxc4
+22. fxg7 Bxg7 23. Rxe8+ Rxe8 24. Re1 Rxe1+ 25. Qxe1 Bxf3 26. gxf3 Qg6+ 27. Bg3
+Nxc2 28. Qe8+ Kh7 29. Ne4 Nd4 30. Nxc5 Qf5 31. Nd7 Qxf3 32. Nf8+ Bxf8 33. Qxf8
+Ne2+ 34. Kf1 Nxg3+ 35. hxg3 Qd5 36. Qb8 a5 37. Kg1 a4 38. Qb4 Qd1+ 39. Kg2 Qd5+
+40. Kg1 Qc6 41. Qe7 Qe6 42. Qb4 Qc6 43. Qe7 Kg6 44. Qf8 Qe6 45. Qg8+ Kf5 46.
+Qb8 Qe1+ 47. Kg2 Qe4+ 48. Kg1 Qd5 49. Qf4+ Ke6 50. Qxh6+ f6 51. Qe3+ Kd7 52.
+Qb6 Qc6 53. Qb4 Ke6 54. g4 Kf7 55. Qd2 Kg6 56. Qf4 Qd5 57. f3 Qd3 58. Kg2 Qc2+
+59. Kg3 Qxb2 60. Qf5+ Kf7 61. Qd7+ Kg6 62. Qd8 Qe5+ 63. Kg2 Qe2+ 64. Kg3 Qe5+
+65. Kh3 Qe2 66. Qg8+ Kh6 67. Qh8+ Kg6 68. Qg8+ Kh6 69. Kg3 Qe5+ 70. f4 Qe1+ 71.
+Kf3 Qf1+ 72. Ke4 Qe1+ 73. Kf5 Qd2 74. Qg6# 1-0
+

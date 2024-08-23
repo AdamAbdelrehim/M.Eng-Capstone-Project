@@ -1,0 +1,31 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/oNUIaDtp"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "SavvaVetokhin2009"]
+[Black "Kramich_Aliaksei"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/51ssehIS"]
+[WhiteTitle "IM"]
+[WhiteElo "2528"]
+[BlackElo "2524"]
+[ECO "A49"]
+[Opening "Indian Defense: Przepiorka Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:08:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. b3 Nc6 7. Bb2 e5 8. Nbd2
+e4 9. Ne1 e3 10. fxe3 Ng4 11. Nc4 d5 12. h3 dxc4 13. hxg4 cxb3 14. axb3 Bxg4
+15. Nd3 Re8 16. Nf2 Qd7 17. Nxg4 Qxg4 18. Rf3 Ne7 19. Qd3 Nf5 20. Kf2 Bh6 21.
+Bc1 Rad8 22. Bd2 Nxd4 23. exd4 Rxd4 24. Bxh6 Rxd3 25. cxd3 Qd4+ 26. Re3 Rxe3
+27. Ra4 Qf6+ 28. Kxe3 g5 29. Bxg5 Qxg5+ 30. Kf2 Qc5+ 31. Kf3 h5 32. Re4 Kg7 33.
+Bh3 a5 34. Rf4 b5 35. Rf5 Qc6+ 36. Kf2 Kg6 37. Rf4 a4 38. bxa4 bxa4 39. Bf5+
+Kg7 40. Be4 Qc5+ 41. Kg2 a3 42. Rf1 Qd4 43. Rf5 a2 44. Rg5+ Kf8 45. Rf5 a1=Q
+46. Rxh5 Qag1+ 47. Kh3 Qh1+ 48. Kg4 Qd7+ 49. Bf5 Qxh5+ 50. Kxh5 Qxf5+ 51. Kh4
+Qf2 52. Kh3 f5 53. e4 fxe4 54. dxe4 c5 55. e5 c4 56. e6 c3 57. e7+ Kxe7 58. Kg4
+c2 59. Kh5 c1=Q 60. g4 Qf7+ 61. Kh4 Qh1+ 62. Kg3 Qff3# 0-1
+

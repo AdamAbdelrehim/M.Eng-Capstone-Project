@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "fornax-engine"]
+[Black "AKS-Mantissa"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/8gXMI3OH"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2348"]
+[BlackElo "2734"]
+[ECO "E92"]
+[Opening "King's Indian Defense: Exchange Variation"]
+[TimeControl "300+3"]
+[UTCDate "2024.06.03"]
+[UTCTime "03:48:39"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+
+1. Nf3 Nf6 2. d4 g6 3. c4 Bg7 4. Nc3 d6 5. e4 O-O 6. Be2 e5 7. dxe5 dxe5 8.
+Qxd8 Rxd8 9. Bg5 Re8 10. O-O Na6 11. Rad1 Nc5 12. Bxf6 Bxf6 13. Nd5 Bd8 14. Nc3
+c6 15. b4 Ne6 16. c5 a5 17. a3 axb4 18. axb4 Ra3 19. Rc1 Nd4 20. Bc4 Nxf3+ 21.
+gxf3 Bh3 22. Rfd1 Bg5 23. Rc2 Rd8 24. Be2 Rxd1+ 25. Nxd1 Ra1 26. Rb2 Bc1 27.
+Rb3 Be6 28. Rd3 Kg7 29. Rd8 Bg5 30. Rd6 Rb1 31. b5 Be7 32. Rd2 cxb5 33. Rb2
+Rxb2 34. Nxb2 b4 35. Na4 b3 36. Bb5 Kf6 37. Kh1 Bd8 38. Kg2 Ba5 39. h4 Ke7 40.
+c6 bxc6 41. Bxc6 Bb6 42. Nc3 Kd6 43. Bb5 Kc5 44. Be2 Kb4 45. Nb1 h5 46. Bd3 Bc4
+47. Bxc4 Kxc4 48. Nd2+ Kc3 49. Nxb3 Kxb3 50. Kg3 Bc7 51. f4 exf4+ 52. Kf3 Be5
+53. Ke2 Kc2 54. f3 Bc3 55. Kf1 Kd2 56. Kg1 Ke2 57. Kg2 Bd4 58. Kh3 Kxf3 59. Kh2
+Ke2 60. Kg2 f3+ 61. Kh3 f2 62. Kh2 Be5+ 63. Kh3 f1=Q# 0-1
+

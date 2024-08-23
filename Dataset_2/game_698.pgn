@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.08"]
+[Round "-"]
+[White "Jackga217"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r3kb1r/ppp2ppp/2n2qb1/1B1p4/3PnKP1/1P2P2P/PBP2P2/RN1Q3R w kq -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Van-t-Kruijs-Opening-1...e5"]
+[UTCDate "2021.03.08"]
+[UTCTime "19:55:09"]
+[WhiteElo "1180"]
+[BlackElo "1335"]
+[TimeControl "1800"]
+[Termination "AdamAbdelrehim won by checkmate"]
+[StartTime "19:55:09"]
+[EndDate "2021.03.08"]
+[EndTime "19:56:43"]
+[Link "https://www.chess.com/game/live/8972266999"]
+
+1. e3 { [%clk 0:30:00] } 1... e5 { [%clk 0:30:00] } 2. Ke2 { [%clk 0:29:59.9] }
+2... Nc6 { [%clk 0:29:51.4] } 3. Nf3 { [%clk 0:29:57.9] } 3... d5
+{ [%clk 0:29:48.3] } 4. b3 { [%clk 0:29:56.5] } 4... Bg4 { [%clk 0:29:46.7] }
+5. Bb2 { [%clk 0:29:50.8] } 5... Nf6 { [%clk 0:29:43.2] } 6. h3
+{ [%clk 0:29:49.2] } 6... Bh5 { [%clk 0:29:41.4] } 7. d4 { [%clk 0:29:40.8] }
+7... e4 { [%clk 0:29:40.5] } 8. g4 { [%clk 0:29:34.9] } 8... exf3+
+{ [%clk 0:29:38.6] } 9. Kxf3 { [%clk 0:29:30.4] } 9... Bg6 { [%clk 0:29:36.4] }
+10. Kf4 { [%clk 0:29:29.1] } 10... Ne4 { [%clk 0:29:32] } 11. Bb5
+{ [%clk 0:29:24.2] } 11... Qf6# { [%clk 0:29:07.3] } 0-1
+

@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "FIDE-Trainer1984"]
+[Black "t-stevenson"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/t7Ai3n6b"]
+[WhiteElo "2481"]
+[BlackElo "2576"]
+[ECO "D31"]
+[Opening "Queen's Gambit Declined: Janowski Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:26:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. d4 d5 2. c4 e6 3. Nc3 a6 4. cxd5 exd5 5. Qb3 c6 6. e4 dxe4 7. Bc4 Qc7 8. a4
+Bf5 9. Nge2 Bg6 10. Bf4 Qd7 11. O-O Nf6 12. Rad1 b5 13. axb5 axb5 14. Nxb5 Nd5
+15. Bxd5 1-0
+

@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "spectraline"]
+[Black "vvrtixsen"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/vHHctKjw"]
+[WhiteElo "2517"]
+[BlackElo "2530"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Mengarini Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:44:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. a3 d5 3. exd5 Qxd5 4. Nf3 Nc6 5. Nc3 Qd8 6. Bc4 Nf6 7. O-O e6 8. d3
+Be7 9. h3 O-O 10. Be3 b6 11. d4 cxd4 12. Nxd4 Bb7 13. Bb5 Qc8 14. Qe2 a6 15.
+Nxc6 Bxc6 16. Bd3 b5 17. Rad1 Qb7 18. f3 Rfd8 19. Bf2 Nd5 20. Nxd5 Bxd5 21.
+Rfe1 Rac8 22. c3 Bf6 23. Be4 Bxe4 24. fxe4 Be5 25. Bd4 Bxd4+ 26. cxd4 Qb6 27.
+Qf2 Rc4 28. d5 Qxf2+ 29. Kxf2 exd5 30. exd5 Rc2+ 31. Re2 Rxe2+ 32. Kxe2 Kf8 33.
+Ke3 Ke7 34. Kd4 Kd7 35. Kc5 Rc8+ 36. Kb6 Rc2 37. Kxa6 Rxb2 38. g4 Rb3 39. Kb6
+Rxa3 40. Kxb5 Rxh3 41. Kc5 Rg3 42. Rd4 Rc3+ 43. Kb5 h6 44. Rf4 f6 45. Rf5 Kd6
+46. Kb4 Rc5 47. g5 Rxd5 48. gxh6 Rxf5 0-1
+

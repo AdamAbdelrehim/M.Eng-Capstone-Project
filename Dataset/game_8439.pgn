@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "CRBorn"]
+[Black "domore"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/l3k1Y2hX"]
+[WhiteElo "2580"]
+[BlackElo "2458"]
+[ECO "B93"]
+[Opening "Sicilian Defense: Najdorf Variation, Amsterdam Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:51:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. f4 e5 7. Nf3 Qc7 8. Be3
+Nbd7 9. Qd2 exf4 10. Bxf4 Ne5 11. O-O-O Be6 12. Kb1 O-O-O 13. Nd5 Nxe4 14. Qe1
+Bxd5 15. Rxd5 Nf6 16. Rd4 Nxf3 17. gxf3 Kb8 18. Qd2 Be7 19. Bc4 Nh5 20. Be3 Bf6
+21. Rd5 Qxc4 22. Rxh5 d5 23. b3 Qc3 24. Qxc3 Bxc3 25. Rf5 f6 26. Rd1 Rhe8 27.
+Bd4 Bxd4 28. Rxd4 Re5 29. Rff4 Rde8 30. Kb2 Kc7 31. h4 h5 32. Rd2 Kc6 33. Rg2
+R8e7 34. Rg6 Re2 35. Rf5 Rf2 36. Rxh5 Ree2 37. Kc3 Rxc2+ 38. Kd3 Rfd2+ 39. Ke3
+Re2+ 40. Kf4 Rxa2 41. Rxg7 Reb2 42. Rhh7 Rxb3 43. Rc7+ Kb5 44. Rxb7+ Ka4 45.
+Ra7 Rb6 46. h5 Rh2 47. h6 f5 48. Rhd7 Rhxh6 49. Rxd5 Rb4+ 50. Kg5 Rh3 51. Rxf5
+Rb6 52. f4 Rg3+ 53. Kh4 Rg1 54. Rg5 Rh6+ 55. Rh5 Rh1+ 56. Kg4 R1xh5 57. f5 Kb5
+58. Rb7+ Kc6 59. Ra7 Kd5 60. Rd7+ Ke5 61. Re7+ Kf6 62. Re6+ Kf7 63. Re1 Rh4+
+64. Kg5 R6h5# 0-1
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "good_morningg"]
+[Black "runner24"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/wMRPO53X"]
+[BlackTitle "FM"]
+[WhiteElo "2514"]
+[BlackElo "2436"]
+[ECO "C42"]
+[Opening "Russian Game: Damiano Variation, Kholmov Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:43:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "-42"]
+[BlackRatingDiff "+6"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nxe4 4. Qe2 Qe7 5. Qxe4 d6 6. d4 dxe5 7. dxe5 Nc6
+8. Bf4 g5 9. Bg3 f5 10. Qa4 f4 11. Bb5 Bd7 12. O-O fxg3 13. e6 gxh2+ 14. Kh1
+Qxe6 15. Nc3 O-O-O 16. Rae1 Qd6 17. Ne4 Qb4 18. Bxc6 Qxa4 19. Bxa4 Bxa4 20.
+Nxg5 Bb5 21. Nf7 Bxf1 22. Nxh8 Bc4 23. b3 Bg8 24. Kxh2 Bg7 0-1
+

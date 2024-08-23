@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Chess-Network"]
+[Black "bancsoo"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/WIJa6CVT"]
+[WhiteTitle "NM"]
+[BlackTitle "GM"]
+[WhiteElo "2669"]
+[BlackElo "2786"]
+[ECO "A22"]
+[Opening "English Opening: Carls-Bremen System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:05:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. c4 e5 2. Nc3 Nf6 3. g3 Nc6 4. Bg2 Bc5 5. e3 a6 6. Nge2 Ba7 7. d4 exd4 8.
+exd4 d6 9. h3 O-O 10. O-O h6 11. Qd3 Ne7 12. g4 Re8 13. f4 Ng6 14. Qg3 Rb8 15.
+f5 Nf8 16. a4 N6h7 17. Bf4 Bd7 18. Rf2 Bc6 19. a5 Bxg2 20. Kxg2 Qd7 21. h4 Nf6
+22. Qf3 h5 23. gxh5 Qxf5 24. Bg5 Qxf3+ 25. Kxf3 Nxh5 26. Rg2 f6 27. Be3 Kh7 28.
+Nd5 c6 29. Nb6 Bxb6 30. axb6 Nd7 31. Ra5 g6 32. b3 Nxb6 33. Nf4 Nxf4 34. Bxf4
+Rbd8 35. Ra1 d5 36. Bc7 Nc8 37. Bxd8 Rxd8 38. Rag1 Ne7 39. c5 Nf5 40. Rg4 Re8
+41. Rf4 Re3+ 42. Kf2 Rh3 43. Rgg4 Kh6 44. b4 Rb3 45. Rg1 Kh5 46. Rfg4 Nxh4 47.
+Rf4 f5 48. Ke2 g5 49. Rf2 f4 50. Rh1 Rxb4 51. Kd3 Rb3+ 52. Kc2 Rg3 53. Re2 Kg4
+54. Re7 Nf5 55. Rxb7 f3 56. Rc7 f2 57. Kd2 Rg1 58. Rhh7 f1=Q 0-1
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sfesds"]
+[Black "templario77"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/iN803ND2"]
+[WhiteElo "2443"]
+[BlackElo "2554"]
+[ECO "A57"]
+[Opening "Benko Gambit Accepted: Modern Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:56:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. e3 g6 6. Nc3 Bg7 7. e4 O-O 8. a4 e6
+9. dxe6 fxe6 10. Bc4 Bb7 11. Nge2 axb5 12. Bxb5 Nxe4 13. O-O Nxc3 14. Nxc3 d5
+15. Qg4 Qf6 16. Bg5 Qf5 17. Qh4 Nc6 18. Bxc6 Bxc6 19. Be7 Rfb8 20. Nb5 Bxb2 21.
+Rab1 Bxb5 22. axb5 Rxb5 23. Bxc5 Bf6 24. Qh3 Qxh3 25. gxh3 Rxc5 0-1
+

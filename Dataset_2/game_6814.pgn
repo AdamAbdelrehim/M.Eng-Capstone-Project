@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.12.13"]
+[Round "-"]
+[White "brandonpeate"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "rn2kbnr/ppp2ppp/3p4/7q/4PP2/5K2/PPPP3P/RNBQ1B1R w kq -"]
+[Timezone "UTC"]
+[ECO "C30"]
+[ECOUrl "https://www.chess.com/openings/Kings-Gambit-2...d6"]
+[UTCDate "2022.12.13"]
+[UTCTime "18:21:10"]
+[WhiteElo "594"]
+[BlackElo "1770"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "18:21:10"]
+[EndDate "2022.12.13"]
+[EndTime "18:22:36"]
+[Link "https://www.chess.com/game/live/64694668020"]
+
+1. e4 { [%clk 0:09:57.3] } 1... e5 { [%clk 0:09:59.2] } 2. f4
+{ [%clk 0:09:53.5] } 2... d6 { [%clk 0:09:53.5] } 3. g3 { [%clk 0:09:39.4] }
+3... exf4 { [%clk 0:09:49.9] } 4. gxf4 { [%clk 0:09:37.5] } 4... Qh4+
+{ [%clk 0:09:48.5] } 5. Ke2 { [%clk 0:09:27.5] } 5... Bg4+ { [%clk 0:09:34.8] }
+6. Nf3 { [%clk 0:09:12.7] } 6... Bxf3+ { [%clk 0:09:29.6] } 7. Kxf3
+{ [%clk 0:09:08.7] } 7... Qh5+ { [%clk 0:09:29.5] } 0-1
+

@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "riga1960"]
+[Black "gefuehlter_FM"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/cMAqsePd"]
+[WhiteElo "2583"]
+[BlackElo "2717"]
+[ECO "D01"]
+[Opening "Rapport-Jobava System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:01:38"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. Nc3 d5 3. Bf4 a6 4. e3 b5 5. Nf3 e6 6. Ne5 c5 7. g4 Bb7 8. g5 Nfd7
+9. h4 Nxe5 10. Bxe5 Nc6 11. Bg3 Qb6 12. Ne2 b4 13. Bh3 a5 14. c3 a4 15. a3 bxc3
+16. bxc3 Qa5 17. O-O Be7 0-1
+

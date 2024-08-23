@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "slp04"]
+[Black "Ersenov"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/lgiMv6Ms"]
+[WhiteElo "2582"]
+[BlackElo "2511"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Kronberger Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:21:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. e4 c5 2. Na3 g6 3. Nf3 Bg7 4. c3 d5 5. exd5 Qxd5 6. Nb5 Na6 7. d4 cxd4 8.
+Be3 Nf6 9. Qxd4 O-O 10. Bc4 Qxd4 11. Bxd4 b6 12. O-O Bb7 13. Rfe1 e6 14. Ne5
+Bd5 15. Bf1 Rfd8 16. a4 Nc5 17. Bxc5 bxc5 18. Nc7 Rac8 19. Nxd5 Nxd5 20. Ba6
+Rc7 21. Nc4 Rb8 22. Re2 Nb6 23. Nxb6 Rxb6 24. Bc4 Rcb7 25. b3 Bxc3 26. Rd1 Bf6
+27. a5 Rc6 28. a6 Rbc7 29. Red2 Bd4 30. g3 Kg7 31. Kg2 e5 32. g4 f5 33. h3 Kf6
+34. f3 Rb6 35. Re2 Rcc6 36. Rh1 Kg5 37. h4+ Kf4 38. Rhe1 Rxa6 39. Re4+ fxe4 40.
+Rxe4# 1-0
+

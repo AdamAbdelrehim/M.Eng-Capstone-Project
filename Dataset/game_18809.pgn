@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "bancsoo"]
+[Black "Chess-Network"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/XdIEpTQT"]
+[WhiteTitle "GM"]
+[BlackTitle "NM"]
+[WhiteElo "2783"]
+[BlackElo "2671"]
+[ECO "A05"]
+[Opening "King's Indian Attack: Spassky Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:46:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. Nf3 Nf6 2. g3 b5 3. Bg2 Bb7 4. O-O e6 5. d3 d5 6. e4 dxe4 7. Nfd2 c5 8. Nc3
+a6 9. a4 b4 10. Ncxe4 Nxe4 11. Nxe4 Nc6 12. Be3 Nd4 13. c3 Nf5 14. Bxc5 Bxc5
+15. Nxc5 Bxg2 16. Kxg2 bxc3 17. bxc3 Rc8 18. d4 O-O 19. Qf3 Qg5 20. Kg1 e5 21.
+Nd7 exd4 22. Nxf8 Kxf8 23. Rac1 1-0
+

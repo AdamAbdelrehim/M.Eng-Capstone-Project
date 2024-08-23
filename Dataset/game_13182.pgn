@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "isaacthenoob"]
+[Black "Lesoeru"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/6s3silXC"]
+[WhiteElo "2476"]
+[BlackElo "2592"]
+[ECO "D10"]
+[Opening "Slav Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:07:02"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. c4 c6 2. Nc3 d5 3. d4 Nf6 4. cxd5 cxd5 5. Bf4 Nc6 6. e3 Bf5 7. Rc1 e6 8. Qb3
+Qb6 9. Qxb6 axb6 10. Bb5 Nd7 11. Nf3 f6 12. O-O g5 13. Bg3 h5 14. h4 g4 15. Nd2
+Be7 16. Na4 Kf7 17. Bc7 Rhc8 18. Bxc6 bxc6 19. Nxb6 Nxb6 20. Bxb6 Rxa2 21. Bc5
+Rxb2 22. Bxe7 Kxe7 23. Nb1 Bxb1 24. Rxb1 Rcb8 25. Rxb2 Rxb2 26. Ra1 e5 0-1
+

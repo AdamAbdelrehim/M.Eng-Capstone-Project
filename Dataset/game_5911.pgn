@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Black_Lizardfish"]
+[Black "trainedgrinder"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/FAMMBmNW"]
+[WhiteElo "2531"]
+[BlackElo "2440"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:07:24"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. cxd5 exd5 5. Bg5 c6 6. e3 h6 7. Bh4 Be7 8. Bd3
+O-O 9. Nf3 Re8 10. Qc2 Ne4 11. Bxe4 Bxh4 12. Bh7+ Kh8 13. g3 Bf6 14. Bf5 Bxf5
+15. Qxf5 Nd7 16. O-O g6 17. Qc2 Kg7 18. Na4 h5 19. h4 Be7 20. Kg2 Bd6 21. Nc5
+Bxc5 22. dxc5 Qf6 23. Nd4 Re4 24. b4 a6 25. Rab1 Rae8 26. a4 g5 27. hxg5 Qxg5
+28. Rh1 Ne5 29. f4 Qg4 30. fxe5 R8xe5 31. Rh4 Qg5 32. Nf3 Qxe3 33. Nxe5 Rxe5
+34. Rf1 d4 35. Qf2 Re7 36. Rxd4 Qe5 37. Rf4 1-0
+

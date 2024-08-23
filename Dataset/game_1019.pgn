@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "midday_shadow"]
+[Black "thundertwister"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/OJtMggxV"]
+[WhiteElo "2497"]
+[BlackElo "2666"]
+[ECO "A56"]
+[Opening "Benoni Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "05:54:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-9"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. Nf3 O-O 6. e4 d6 7. h3 e6 8. Bd3 exd5
+9. exd5 Re8+ 10. Be3 Rxe3+ 11. fxe3 Nfd7 12. O-O Ne5 13. Nxe5 Bxe5 14. Qd2 Nd7
+15. Ne4 f5 16. Nc3 Qh4 17. Rf3 Nf6 18. Raf1 Bd7 19. Ne2 Ne4 20. Bxe4 Qxe4 21.
+b3 Re8 22. a4 a6 23. a5 Bg7 24. Nf4 Re7 25. Kh1 Qe5 26. b4 Qc3 27. Qxc3 Bxc3
+28. bxc5 dxc5 29. Rb1 Bc8 30. d6 Re6 31. Nxe6 Bxe6 32. e4 Bxa5 33. exf5 Bxf5
+34. Rxb7 h5 35. Ra3 Bb4 36. Rxa6 Be4 37. Ra8# 1-0
+

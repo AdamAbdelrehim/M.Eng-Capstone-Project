@@ -1,0 +1,20 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "bluechess2011"]
+[Black "expositor"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/xbFxxfUh"]
+[BlackTitle "BOT"]
+[WhiteElo "2376"]
+[BlackElo "2746"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:02:45"]
+[Termination "Normal"]
+
+1. e4 c5 0-1
+

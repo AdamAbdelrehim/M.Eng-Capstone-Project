@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Chessibague"]
+[Black "manneredmonkey"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/1cZf9d1s"]
+[WhiteTitle "IM"]
+[BlackTitle "NM"]
+[WhiteElo "2567"]
+[BlackElo "2586"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:39:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. Bg5 d5 3. Nd2 c5 4. e3 Nc6 5. c3 Ne4 6. Nxe4 dxe4 7. Bc4 h5 8. Ne2
+Bg4 9. h3 Bf5 10. Qb3 Na5 11. Bxf7+ Kd7 12. Qd5+ 1-0
+

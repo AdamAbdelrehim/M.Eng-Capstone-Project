@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "bestpetrol326"]
+[Black "fighter2025"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/7iK4YCQb"]
+[WhiteElo "2503"]
+[BlackElo "2387"]
+[ECO "D56"]
+[Opening "Queen's Gambit Declined: Lasker Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:39:51"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Be7 4. Nf3 Nf6 5. Bg5 O-O 6. e3 h6 7. Bh4 Ne4 8. Bxe7
+Qxe7 9. Rc1 Nxc3 10. bxc3 b6 11. cxd5 exd5 12. Bd3 Nd7 13. O-O Bb7 14. c4 dxc4
+15. Bxc4 c5 16. a4 cxd4 17. Nxd4 Nc5 18. a5 Rfd8 19. Qg4 Ne4 20. a6 Bc8 21. Qf3
+Rb8 22. Nc6 Qh4 23. Qxf7+ Kh8 24. Nxb8 Ng5 25. Qf4 Qh5 26. h4 Nh7 27. Nc6 Rf8
+28. Qg3 Nf6 29. Nd4 Ne4 30. Qc7 Bh3 31. Be2 Qxh4 32. gxh3 Qxh3 33. Qh2 Qd7 34.
+Bd3 Ng5 35. Qg3 Nh3+ 36. Kh2 Ng5 37. Rc7 Qe8 38. Nf5 Qh5+ 39. Kg2 Ne6 40. Re7
+Rxf5 41. Bxf5 Qxf5 42. Rxe6 Qxe6 43. Rd1 Qe4+ 44. Qf3 Qg6+ 45. Kf1 Kh7 46. Qf4
+Qc2 47. Re1 Qd3+ 48. Kg2 Qg6+ 49. Qg3 Qc6+ 50. e4 b5 51. Qf4 Qg6+ 52. Qg3 Qc6
+53. Qf3 Qg6+ 54. Kf1 Qxa6 55. e5 b4+ 56. Kg2 Qg6+ 57. Qg3 Qc6+ 58. f3 b3 59. e6
+b2 60. e7 Qc2+ 61. Qf2 Qg6+ 62. Kh2 Qh5+ 63. Kg2 Qg6+ 64. Qg3 Qc2+ 65. Kh3 Qf5+
+66. Qg4 b1=Q 67. Rxb1 Qxb1 68. e8=Q Qh1+ 69. Kg3 Qe1+ 70. Qxe1 1-0
+

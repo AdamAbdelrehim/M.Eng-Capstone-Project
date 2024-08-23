@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "schaakam"]
+[Black "zasphalt"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/seN6THNz"]
+[WhiteElo "2776"]
+[BlackElo "2692"]
+[ECO "A07"]
+[Opening "King's Indian Attack: Double Fianchetto"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:28:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 Nh6 5. O-O Nf5 6. c3 Nd6 7. a4 a5 8. Bf4
+Nd7 9. Nbd2 O-O 10. Re1 Nf6 11. Ne5 c6 12. c4 Be6 13. c5 Nde4 14. f3 Nxd2 15.
+Qxd2 Nd7 16. g4 Nxe5 17. Bxe5 Bxe5 18. dxe5 f5 19. h3 f4 20. e3 g5 21. Rab1
+fxe3 22. Rxe3 Rf4 23. b4 axb4 24. Rxb4 Qa5 25. Reb3 Qxc5+ 26. Kh2 d4 27. Rb2
+Qxe5 28. Kh1 Bd5 29. Rxb7 Rxa4 30. Rb8+ Kg7 31. Rb1 Rxf3 32. R8b7 Rxh3+ 33. Kg1
+Qh2+ 34. Kf1 Rf3+ 35. Bxf3 Qxd2 36. Rxe7+ Kf6 37. Re2 Qd3 0-1
+

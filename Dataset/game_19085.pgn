@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "heydis"]
+[Black "Gvierous-Lady"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/WMS9KkLF"]
+[WhiteElo "2372"]
+[BlackElo "2521"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:23:57"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. e4 c6 2. Nf3 d5 3. d3 Bg4 4. exd5 cxd5 5. Be2 Nc6 6. b3 e5 7. Bb2 Bd6 8. O-O
+Nge7 9. Nbd2 O-O 10. c4 d4 11. a3 Be6 12. Ne4 f6 13. Nfd2 a5 14. Nxd6 Qxd6 15.
+Ne4 Qc7 16. a4 Ng6 17. g3 Bf5 18. Bf3 Rfe8 19. Ba3 Rad8 20. Rc1 Nf8 21. c5 Bxe4
+22. Bxe4 Ne6 23. Qd2 Ng5 24. Bg2 e4 25. dxe4 Nxe4 26. Qc2 Nc3 27. Bf3 Ne5 28.
+Bg2 Nd7 29. Rfe1 Nxc5 30. Rxe8+ Rxe8 31. b4 N5xa4 32. Bf3 axb4 33. Bxb4 Qb6 34.
+Qb3+ Kh8 35. Qf7 Rg8 36. Bf8 Qd8 37. Bb4 Qe8 38. Qxb7 Ne2+ 39. Bxe2 Qxe2 40.
+Re1 Qb2 41. Qe7 d3 42. Rd1 Nc3 43. Bxc3 Qxc3 44. Qe1 Qd4 45. Qd2 Rd8 46. Kg2
+Kg8 47. f3 Kf7 48. Qf2 Qd5 49. Qe3 Rd7 50. Rd2 Qe5 51. Qxe5 fxe5 52. Kf2 Ke6
+53. Ke3 Rb7 54. Rxd3 Rb1 55. Rb3 Rxb3+ 0-1
+

@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.09"]
+[Round "-"]
+[White "noahmay"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1b1k1nr/p1p2Npp/2p5/7Q/N2pP3/8/PPPP1KPR/R1B5 b kq -"]
+[Timezone "UTC"]
+[ECO "C62"]
+[ECOUrl "https://www.chess.com/openings/Ruy-Lopez-Opening-Old-Steinitz-Defense-4.Bxc6"]
+[UTCDate "2021.01.09"]
+[UTCTime "02:37:26"]
+[WhiteElo "997"]
+[BlackElo "1015"]
+[TimeControl "600"]
+[Termination "noahmay won by resignation"]
+[StartTime "02:37:26"]
+[EndDate "2021.01.09"]
+[EndTime "02:40:14"]
+[Link "https://www.chess.com/game/live/6182958457"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:58.6] }
+2... Nc6 { [%clk 0:09:58] } 3. Bb5 { [%clk 0:09:58.3] } 3... d6
+{ [%clk 0:09:52.6] } 4. Bxc6+ { [%clk 0:09:57.8] } 4... bxc6 { [%clk 0:09:50] }
+5. Nc3 { [%clk 0:09:50.7] } 5... d5 { [%clk 0:09:37.5] } 6. Nxe5
+{ [%clk 0:09:47.6] } 6... d4 { [%clk 0:09:29.7] } 7. Na4 { [%clk 0:09:11] }
+7... Bd6 { [%clk 0:09:16.9] } 8. Qh5 { [%clk 0:09:03] } 8... Qf6
+{ [%clk 0:08:52] } 9. Nxf7 { [%clk 0:08:49.4] } 9... Qxf2+ { [%clk 0:08:38.3] }
+10. Kxf2 { [%clk 0:08:46.5] } 10... Bxh2 { [%clk 0:08:38.2] } 11. Rxh2
+{ [%clk 0:08:41.6] } 1-0
+

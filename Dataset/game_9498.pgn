@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "QuCaNi"]
+[Black "Rookz77"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/LN9PxPrh"]
+[WhiteElo "2439"]
+[BlackElo "2554"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:12:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. Bg5 c5 3. Bxf6 gxf6 4. d5 f5 5. c3 d6 6. Nd2 Nd7 7. e4 Nf6 8. Bd3
+a6 9. Qe2 Bh6 0-1
+

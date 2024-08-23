@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "NocteSidus"]
+[Black "chesssnotasport"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/4ohnSQVZ"]
+[WhiteTitle "FM"]
+[WhiteElo "2549"]
+[BlackElo "2490"]
+[ECO "C40"]
+[Opening "Elephant Gambit: Paulsen Countergambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:32:00"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Nf6 5. d3 Qxd5 6. Nc3 Bb4 7. Bd2 Bxc3 8.
+Bxc3 O-O 9. dxe4 Nxe4 10. Rd1 Nxc3 11. Rxd5 Nxe2 12. Bxe2 Be6 13. Rc5 c6 14.
+Nd4 Bxa2 15. b3 Rd8 16. Rc4 b5 17. Nxc6 bxc4 18. Nxd8 cxb3 19. cxb3 Nd7 20. Nc6
+Bxb3 21. O-O a5 22. Bf3 Ra6 23. Re1 g6 24. Re7 Nf6 25. g4 Bd5 26. Nb8 Re6 27.
+Rxe6 fxe6 28. Bd1 Bb7 29. g5 Ne4 30. h4 Nc5 31. Kf1 a4 32. Nd7 Nxd7 33. Bxa4
+Ne5 34. Bb3 Kf7 35. f4 Nf3 36. Kf2 Nxh4 37. Ke3 Nf5+ 38. Kf2 Ke7 39. Bc2 Kd6
+40. Bxf5 exf5 41. Kg3 Kd5 42. Kf2 Ke4 43. Kg3 Ke3 44. Kh3 Kxf4 45. Kh4 Bf3 46.
+Kh3 Kxg5 47. Kg3 Bg4 48. Kf2 f4 49. Kg2 h5 50. Kf2 h4 51. Ke1 h3 52. Kf2 Kh4
+53. Kg1 Kg3 54. Kf1 f3 55. Ke1 h2 56. Kd2 h1=Q 57. Kc3 Qg2 58. Kd4 Qd2+ 59. Kc5
+Qc3+ 60. Kd6 Qd4+ 61. Ke7 Qe5+ 62. Kf7 Qf6+ 63. Kxf6 f2 64. Kg7 f1=Q 0-1
+

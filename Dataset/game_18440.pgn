@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "licg"]
+[Black "SkyWalker1302"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/0bMEBXWM"]
+[WhiteTitle "IM"]
+[WhiteElo "2630"]
+[BlackElo "2407"]
+[ECO "E83"]
+[Opening "King's Indian Defense: Sämisch Variation, Panno Formation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:52:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. f3 O-O 6. Nge2 Nc6 7. Be3 a6 8. Qd2
+Re8 9. g3 Rb8 10. Rc1 Bd7 11. Nd1 b5 12. c5 dxc5 13. Rxc5 e5 14. d5 Nd4 15.
+Nxd4 exd4 16. Bxd4 Nxe4 17. fxe4 Rxe4+ 18. Be3 Bd4 19. Rc3 Qe7 20. Bg2 Bxc3 21.
+bxc3 Re5 22. O-O Bg4 23. Bd4 Re2 24. Qh6 f5 25. Nf2 Rxa2 26. d6 1-0
+

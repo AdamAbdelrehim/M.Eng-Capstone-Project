@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.06"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "notmolan"]
+[Result "1-0"]
+[CurrentPosition "r1bqk2r/ppp2Np1/2np1n2/2b1p3/2B1P3/2NP4/PPP2PPP/R2QK2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Giuoco-Piano-Game-Giuoco-Pianissimo-Italian-Four-Knights-Variation"]
+[UTCDate "2021.10.06"]
+[UTCTime "05:40:21"]
+[WhiteElo "1098"]
+[BlackElo "1196"]
+[TimeControl "60"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "05:40:21"]
+[EndDate "2021.10.06"]
+[EndTime "05:40:41"]
+[Link "https://www.chess.com/game/live/27237660781"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.7] }
+2... Nc6 { [%clk 0:00:59.5] } 3. Bc4 { [%clk 0:00:59.2] } 3... Bc5
+{ [%clk 0:00:58.5] } 4. Nc3 { [%clk 0:00:58] } 4... Nf6 { [%clk 0:00:57.4] } 5.
+d3 { [%clk 0:00:57.9] } 5... h6 { [%clk 0:00:56.2] } 6. Bg5
+{ [%clk 0:00:57.8] } 6... hxg5 { [%clk 0:00:54.5] } 7. Nxg5
+{ [%clk 0:00:56.9] } 7... d6 { [%clk 0:00:52.6] } 8. Nxf7 { [%clk 0:00:55.8] }
+1-0
+

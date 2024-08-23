@@ -1,0 +1,36 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "bot_adario"]
+[Black "caissa-x"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/MCEkLC4c"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2712"]
+[BlackElo "3029"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Open"]
+[TimeControl "600+3"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:42:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+1"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. exd5 cxd5
+8. O-O e6 9. c4 dxc4 10. Bxc4 Bd6 11. Bb5+ Bd7 12. Qxd6 Bxb5 13. Qxd8+ Rxd8 14.
+Re1 Nd5 15. Bd2 O-O 16. Nc3 Nxc3 17. Bxc3 Rd5 18. Re3 Bd7 19. h3 f6 20. Rc1 Rc8
+21. Ree1 e5 22. Red1 Rxd1+ 23. Rxd1 Bb5 24. Rd5 a6 25. a3 Kf7 26. Rd6 Rc6 27.
+Rd8 h5 28. Ra8 Rd6 29. f3 Rd1+ 30. Kh2 Kg6 31. Ra7 Bf1 32. Bb4 Bb5 33. Bf8 Rd7
+34. Rxd7 Bxd7 35. h4 Kf7 36. Bb4 Ke6 37. Kg3 Bc6 38. Kh2 g6 39. Ba5 Bb5 40. Bd8
+Bc6 41. Kh3 f5 42. Kg3 f4+ 43. Kf2 e4 44. Bg5 e3+ 45. Kg1 Ke5 46. Bd8 Bb5 47.
+Bc7+ Kd4 48. Bxf4 Kd3 49. Bc7 Bc6 50. Be5 Kc2 51. Bd4 Kd2 52. Bc5 Ke2 53. Bb6
+Bb5 54. Kh2 Kf2 55. Bc5 Bc6 56. Bb6 Bd7 57. Bd4 Bb5 58. Bb6 Bd7 59. Bc5 Bc6 60.
+Bb6 Bb5 61. Bc5 Ba4 62. Bb4 e2 63. g4 e1=Q 64. Bxe1+ Kxe1 65. Kg3 Ke2 66. Kf4
+Bc6 67. b4 Kf2 68. gxh5 gxh5 69. Kg5 Bxf3 70. a4 Bc6 71. Kxh5 Bxa4 72. Kg5 Ke3
+73. h5 Bc2 74. Kg4 Kd4 75. Kf4 Kd3 76. h6 Kd4 77. Kf3 Kc3 78. Kf4 Kd4 79. Kf3
+Kc4 80. b5 axb5 81. Kf4 b4 82. Ke5 b3 83. Kd6 b2 84. Kd7 Bh7 85. Kc8 Kd5 86.
+Kd7 b1=Q 87. Ke7 Qf5 88. Kd8 Kd6 89. Ke8 Bg6+ 90. Kd8 Qf8# 0-1
+

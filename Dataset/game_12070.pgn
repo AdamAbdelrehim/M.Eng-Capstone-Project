@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Chess-maestro1982"]
+[Black "jieltmcommeta"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/mR1B7qFF"]
+[WhiteElo "2573"]
+[BlackElo "2587"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:36:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Nh6 6. Bd3 cxd4 7. cxd4 Nf5 8. Bxf5
+exf5 9. O-O Be7 10. Nc3 Be6 11. Ne2 g5 12. Ne1 f4 13. f3 Qd7 14. a3 a5 15. b3
+h6 16. Bb2 Kf8 17. Nd3 b6 18. Rc1 Rc8 19. g3 Bh3 20. Rf2 Rg8 21. Kh1 h5 22.
+gxf4 g4 23. Ng3 h4 24. Nh5 Qf5 25. Nf6 Bxf6 26. exf6 g3 27. Rfc2 Re8 28. Ne5
+Nxe5 29. dxe5 Qxf4 30. Qxd5 Rg5 31. Rc7 g2+ 32. Kg1 Qe3# 0-1
+

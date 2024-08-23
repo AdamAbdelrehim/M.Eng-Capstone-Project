@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.07"]
+[Round "-"]
+[White "MARCIANOHC"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rnbqkbnr/p3pppp/8/1p6/2pP4/4PQ2/1P3PPP/RNB1KBNR b KQkq -"]
+[Timezone "UTC"]
+[ECO "D20"]
+[ECOUrl "https://www.chess.com/openings/Queens-Gambit-Accepted-Old-Variation"]
+[UTCDate "2022.03.07"]
+[UTCTime "17:47:15"]
+[WhiteElo "1716"]
+[BlackElo "1722"]
+[TimeControl "600"]
+[Termination "MARCIANOHC won by resignation"]
+[StartTime "17:47:15"]
+[EndDate "2022.03.07"]
+[EndTime "17:48:55"]
+[Link "https://www.chess.com/game/live/40414235979"]
+
+1. d4 { [%clk 0:10:00] } 1... d5 { [%clk 0:09:57.1] } 2. c4
+{ [%clk 0:09:55.9] } 2... dxc4 { [%clk 0:09:50.2] } 3. e3 { [%clk 0:09:54] }
+3... b5 { [%clk 0:09:45.4] } 4. a4 { [%clk 0:09:52.5] } 4... c6
+{ [%clk 0:09:42.1] } 5. axb5 { [%clk 0:09:50.9] } 5... cxb5
+{ [%clk 0:09:39.7] } 6. Qf3 { [%clk 0:09:48] } 1-0
+

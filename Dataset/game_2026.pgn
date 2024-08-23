@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sett5"]
+[Black "Despair_Captain"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ipUFax67"]
+[WhiteElo "2565"]
+[BlackElo "2505"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:31:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. c3 g6 3. d4 cxd4 4. cxd4 d5 5. e5 Bg7 6. Nc3 Nh6 7. Nf3 O-O 8. Be2
+Nc6 9. O-O Bg4 10. Be3 Nf5 11. Qb3 Bxf3 12. gxf3 Nfxd4 13. Bxd4 Nxd4 14. Qd1
+Bxe5 15. f4 Bg7 16. Bf3 e6 17. Bg2 Qh4 18. Qd2 Rac8 19. Rac1 Qg4 20. Kh1 Nf5
+21. Rg1 Bh6 22. Ne2 Qh4 23. f3 d4 24. Bf1 Qf2 25. Rg2 Qxf3 0-1
+

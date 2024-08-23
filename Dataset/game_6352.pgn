@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "CaptainBucko"]
+[Black "Luatatroll"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/BHwlkobm"]
+[WhiteElo "2530"]
+[BlackElo "2364"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:09:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 exd5 6. cxd5 d6 7. e4 Nxe4 8. fxe4
+Qh4+ 9. Kd2 Qxe4 10. Qe2 Qxe2+ 11. Bxe2 O-O 12. Nf3 Bf5 13. Bd3 Bxd3 14. Kxd3
+Nd7 15. Bf4 1-0
+

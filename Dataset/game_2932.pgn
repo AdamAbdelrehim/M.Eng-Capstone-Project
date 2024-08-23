@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "QuarterPawn"]
+[Black "gmmitkov"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/qHHIMl3X"]
+[WhiteElo "2685"]
+[BlackElo "2608"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:38:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. a4 d5 7. exd5 Nxd5 8.
+Re1 Bg4 9. h3 Bh5 10. Nbd2 Nb6 11. Ba2 Bd6 12. c3 Kh8 13. Ne4 f6 14. b4 a5 15.
+b5 Ne7 16. Ng3 Bf7 17. Bxf7 Rxf7 18. Qb3 Rf8 19. Bd2 Nd7 20. d4 exd4 21. cxd4
+Bxg3 22. fxg3 Nb6 23. Rac1 Ned5 24. g4 Qd7 25. Nh4 Ne7 26. Re4 Nbd5 27. Rce1 b6
+28. Qc4 Rac8 29. Re6 c5 30. bxc6 Rxc6 31. Rxc6 Qxc6 32. Qxc6 Nxc6 33. Nf5 g6
+34. Bh6 Rd8 35. Nd6 Kg8 36. Nb5 Kf7 37. Rc1 Nde7 38. Bf4 Nxd4 39. Bc7 Ne2+ 40.
+Kf2 Nxc1 41. Bxd8 Nd3+ 42. Ke3 Nb2 43. Nc3 Ke6 44. Ke4 Nc4 45. Kd4 Nc6+ 46.
+Kxc4 Nxd8 47. Kb5 Ke5 48. Kxb6 Kd4 49. Nb5+ Ke3 50. Kxa5 Kf2 51. Kb6 Ne6 52. a5
+Nf4 53. a6 Nd5+ 54. Kb7 Nf4 55. a7 Kxg2 56. a8=Q Kxh3 57. Nd6 Kxg4 58. Qa3 h5
+59. Qe3 g5 60. Qe4 h4 61. Nf5 h3 62. Ne3+ Kg3 63. Nf5+ Kg4 64. Nd4 Kg3 65. Qf3+
+Kh4 66. Nf5# 1-0
+

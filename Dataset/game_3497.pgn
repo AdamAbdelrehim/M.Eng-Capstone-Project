@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "edwardz10"]
+[Black "sleepheaddefence"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/KwLC24Hn"]
+[WhiteElo "2358"]
+[BlackElo "2521"]
+[ECO "D41"]
+[Opening "Queen's Gambit Declined: Semi-Tarrasch Defense, Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:57:25"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c5 5. cxd5 Nxd5 6. e4 Nxc3 7. bxc3 cxd4 8.
+cxd4 Bb4+ 9. Bd2 Bxd2+ 10. Qxd2 O-O 11. Be2 Nd7 12. O-O b6 13. Rfc1 Bb7 14. Qe3
+h6 15. a4 Rc8 16. a5 Rxc1+ 17. Rxc1 bxa5 18. Rb1 Qa8 19. Bd3 Rb8 20. Ra1 Nf6
+21. Nd2 Rc8 22. f3 Rc3 23. Rxa5 Qd8 24. Ra4 Qb6 25. Rc4 Ra3 26. Qe2 Ba6 27. Rc5
+Bxd3 0-1
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "training_kos"]
+[Black "Robmclean12"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/UIdVmEEV"]
+[WhiteElo "2544"]
+[BlackElo "2483"]
+[ECO "E26"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation, O'Kelly Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:43:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 c5 5. a3 Bxc3+ 6. bxc3 b6 7. Ne2 Bb7 8. Ng3
+d6 9. Ra2 O-O 10. Bd3 Nbd7 11. O-O Re8 12. f4 e5 13. fxe5 dxe5 14. Nf5 Nf8 15.
+Raf2 Ng6 16. Nh6+ Kf8 17. Ng4 Re6 18. d5 Rd6 19. Bxg6 hxg6 20. Nxe5 Ba6 21. e4
+Qe7 22. Bf4 Nh5 23. Nxf7 Rf6 24. Bg5 Qxf7 25. e5 Rf5 26. g4 1-0
+

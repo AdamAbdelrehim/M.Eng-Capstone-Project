@@ -1,0 +1,24 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/h08mQKsO"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ninehundredsixty"]
+[Black "kingrunner32"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/BFCAaa1K"]
+[BlackTitle "IM"]
+[WhiteElo "2648"]
+[BlackElo "2720"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:17:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 d6 6. e4 O-O 7. Bd3 b5 8. cxb5
+exd5 9. exd5 Re8+ 10. Ne2 Nbd7 11. O-O Ne5 12. a4 a6 13. Bg5 h6 14. Bh4 axb5
+15. axb5 Rxa1 16. Qxa1 Nxd3 0-1
+

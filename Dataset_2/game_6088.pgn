@@ -1,0 +1,29 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.09.01"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "solehwied"]
+[Result "0-1"]
+[CurrentPosition "r1b1kb1r/ppppn1pp/2n5/5P2/2B5/2N2p2/PPPP1PPP/R1B2RK1 b kq -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Rousseau-Gambit"]
+[UTCDate "2022.09.01"]
+[UTCTime "01:22:27"]
+[WhiteElo "1784"]
+[BlackElo "1811"]
+[TimeControl "600"]
+[Termination "solehwied won by resignation"]
+[StartTime "01:22:27"]
+[EndDate "2022.09.01"]
+[EndTime "01:23:27"]
+[Link "https://www.chess.com/game/live/55734257101"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:59.9] } 2. Nf3 { [%clk 0:09:58] }
+2... Nc6 { [%clk 0:09:58.4] } 3. Bc4 { [%clk 0:09:57.3] } 3... f5
+{ [%clk 0:09:55.5] } 4. exf5 { [%clk 0:09:54] } 4... e4 { [%clk 0:09:53] } 5.
+Qe2 { [%clk 0:09:51.8] } 5... Qe7 { [%clk 0:09:48.7] } 6. Nc3
+{ [%clk 0:09:48.8] } 6... exf3 { [%clk 0:09:44] } 7. Qxe7+ { [%clk 0:09:41.7] }
+7... Ngxe7 { [%clk 0:09:38.2] } 8. O-O { [%clk 0:09:40.8] } 0-1
+

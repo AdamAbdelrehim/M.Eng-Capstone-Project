@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Jossbros"]
+[Black "Rabara"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/6kA0gQmq"]
+[WhiteTitle "FM"]
+[WhiteElo "2512"]
+[BlackElo "2418"]
+[ECO "A45"]
+[Opening "Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:19:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c3 g6 3. Nd2 d5 4. e4 dxe4 5. f3 exf3 6. Ngxf3 Bg7 7. Bc4 O-O 8.
+O-O Bf5 9. Ne5 Nbd7 10. Ndf3 Nxe5 11. Nxe5 Nd7 12. Nxf7 Rxf7 13. g4 Ne5 14.
+Bxf7+ Nxf7 15. gxf5 c5 16. fxg6 hxg6 17. Qf3 Nd6 18. dxc5 Nf5 19. Qxb7 Rb8 20.
+Qg2 Kf7 21. Bf4 e5 22. Rad1 Qc7 23. Qd5+ Kf8 24. Bg5 Rxb2 25. Qd8+ Qxd8 26.
+Rxd8+ Kf7 27. c6 Rc2 28. c7 Rxc3 29. c8=Q Rxc8 30. Rxc8 Ke6 31. Rc7 Bf8 32. Rd1
+e4 33. Kf2 Bd6 34. Rc4 Ke5 35. Re1 e3+ 36. Bxe3 Nxe3 37. Rxe3+ Kd5 38. Ra4 Bc5
+39. Ra5 Kc6 40. Rxc5+ Kxc5 41. Re6 Kb4 42. Rxg6 a5 43. Ra6 a4 44. Rxa4+ Kxa4
+45. h4 Ka3 46. h5 Kb2 47. h6 Ka1 48. h7 Kb2 49. h8=Q+ Kxa2 50. Qb8 Ka3 51. Ke3
+Ka4 52. Kd4 Ka5 53. Kc5 Ka4 54. Qb4# 1-0
+

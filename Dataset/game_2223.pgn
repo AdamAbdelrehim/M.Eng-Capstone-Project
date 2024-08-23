@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "matrix12345"]
+[Black "cosinus90"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/rjeApmdA"]
+[WhiteTitle "FM"]
+[WhiteElo "2612"]
+[BlackElo "2639"]
+[ECO "E10"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:57:01"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Bb4+ 5. Nbd2 dxc4 6. Bg2 b5 7. a4 c6 8. Ne5
+Nd5 9. O-O O-O 10. Ne4 Bb7 11. Qc2 Be7 12. h4 h6 13. Nc3 a6 14. Rd1 Nd7 15. Ng4
+f5 16. Nh2 Qb6 17. e4 Nb4 18. Qe2 Bf6 19. Be3 Qc7 20. Qh5 Rae8 21. exf5 exf5
+22. Qxf5 Bxd4 23. Qg4 Bxc3 24. Rxd7 Bc8 25. Rxc7 Bxg4 26. bxc3 Nc2 27. Bd4 Rf7
+28. Rxf7 Kxf7 29. Rc1 Nxd4 30. cxd4 Bd7 31. Nf3 Re2 32. Ne5+ Ke7 33. Nxc6+ Kd6
+34. axb5 axb5 35. Ne5 Be6 36. Rb1 c3 37. Bf1 Rb2 38. Rc1 b4 39. Nc4+ Bxc4 40.
+Bxc4 Rd2 41. d5 Kc5 42. Bb3 Rb2 43. Bd1 Kxd5 44. Kf1 Kd4 45. Ke1 b3 46. Bh5 Rd2
+47. Bg6 Kc4 48. Rb1 b2 0-1
+

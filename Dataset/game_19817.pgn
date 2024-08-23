@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "vladimir_bychkov"]
+[Black "Ilikeknightmost"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/B8UCgAM9"]
+[WhiteElo "2517"]
+[BlackElo "2722"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Normal"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:17:02"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O O-O 6. Nc3 a6 7. a4 d6 8. Bg5
+h6 9. Bh4 Bg4 10. Nd5 g5 11. Bg3 Nd4 12. c3 Nxf3+ 13. gxf3 Bh3 14. d4 Bxf1 15.
+Qxf1 exd4 16. b4 Ba7 17. Qh3 Kg7 18. cxd4 Bxd4 19. Rd1 Be5 20. Bxe5 dxe5 21.
+Ne3 Qc8 22. Nf5+ Qxf5 23. Qxf5 Rae8 24. a5 Re7 25. Kf1 Rb8 26. h4 gxh4 27. Ke2
+Nh7 28. Rg1+ Ng5 29. Rxg5+ hxg5 30. Qxg5+ Kf8 31. Qh6+ Kg8 32. Qxh4 Rbe8 33.
+Qg5+ Kf8 34. Ke3 Rd7 35. Qh6+ Ke7 36. Qh4+ f6 37. f4 exf4+ 38. Kxf4 Rf8 39. Bd5
+c6 40. Bc4 Kd8 41. Qh6 Ke8 42. Be6 Re7 43. Kf5 Rc7 44. Qh2 Rff7 45. Bxf7+ Rxf7
+46. Qb8+ Ke7 47. Qc7+ Kf8 48. Qd8+ Kg7 49. Qe8 Rf8 50. Qg6+ Kh8 51. Qh6+ Kg8
+52. Kg6 Rf7 53. f4 f5 54. e5 c5 55. bxc5 b6 56. c6 bxa5 57. e6 Re7 58. Kf6 Rc7
+59. Qg6+ 1-0
+

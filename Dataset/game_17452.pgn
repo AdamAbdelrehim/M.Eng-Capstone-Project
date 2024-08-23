@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "hetmirakel"]
+[Black "Nat74"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/OVGbOmi6"]
+[WhiteElo "2356"]
+[BlackElo "2524"]
+[ECO "A43"]
+[Opening "Benoni Defense: Old Benoni, Mujannah Formation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "06:43:47"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. d4 c5 2. d5 f5 3. c4 Nf6 4. Nc3 g6 5. g3 Bg7 6. Bg2 O-O 7. Nh3 Na6 8. O-O d6
+9. Nf4 Nc7 10. Re1 Rb8 11. e4 fxe4 12. Nxe4 Nxe4 13. Bxe4 b5 14. h4 Bf5 15. h5
+g5 16. Bxf5 Rxf5 17. Ne6 Nxe6 18. Rxe6 bxc4 19. Qg4 Qf8 20. h6 Rxf2 21. Bxg5
+Rbxb2 22. Bf4 Rg2+ 23. Kf1 Rh2 24. Kg1 Rbg2+ 25. Kf1 Rf2+ 26. Ke1 Rc2 27. Kd1
+Rcg2 28. hxg7 Rg1+ 29. Re1 Rxe1+ 30. Kxe1 Qf6 31. Rc1 Rh1+ 32. Kf2 Rxc1 0-1
+

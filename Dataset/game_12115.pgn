@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Skin_Ticket"]
+[Black "Sasha_Trusova"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/rJqFbqjr"]
+[WhiteElo "2639"]
+[BlackElo "2645"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:42:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-13"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Nd7 6. O-O a5 7. c3 a4 8. Ne1 Ne7
+9. Bd3 Qc7 10. Bg5 Bg6 11. Nd2 Nf5 12. g4 Ne7 13. f4 Bxd3 14. Nxd3 h6 15. Bh4
+g6 16. Bxe7 Bxe7 17. f5 gxf5 18. gxf5 O-O-O 19. Kh1 Bg5 20. Nf3 Rdg8 21. Qxa4
+Kb8 22. b4 exf5 23. Nc5 Nb6 24. Qc2 Nc4 25. Rg1 Ne3 26. Qd3 f4 27. a4 Be7 28.
+a5 Qc8 29. e6 Bxc5 30. bxc5 Qxe6 31. a6 Qh3 32. Qe2 Rg3 33. axb7 Rxg1+ 34. Nxg1
+Qf5 35. Ra8+ Kxb7 36. Rxh8 Qe4+ 37. Qf3 Kc7 38. Rxh6 Kd7 39. Rf6 Ke7 40. Rxf4
+Qxf3+ 41. Nxf3 Nc4 42. Ne5 Ke6 43. Nxc4 f6 44. Ne3 Ke7 45. Rf5 Ke6 46. Kg2 Ke7
+47. Kg3 Ke6 48. Kf4 Ke7 49. h4 Ke6 50. h5 Ke7 51. h6 Ke6 52. h7 Ke7 53. h8=Q
+Ke6 54. Qxf6+ Kd7 55. Qe5 Kc8 56. Rf7 Kd8 57. Qe7+ Kc8 58. Qe8# 1-0
+

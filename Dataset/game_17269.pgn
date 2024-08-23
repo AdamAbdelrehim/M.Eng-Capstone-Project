@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "CRBorn"]
+[Black "rigondo"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ROSOoZI8"]
+[WhiteElo "2571"]
+[BlackElo "2486"]
+[ECO "A09"]
+[Opening "Réti Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "06:00:29"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. Nf3 d5 2. c4 c6 3. cxd5 cxd5 4. b3 Nf6 5. Bb2 Nc6 6. g3 Bf5 7. Bg2 e6 8. O-O
+h6 9. Nc3 Be7 10. d3 O-O 11. Rc1 Bh7 12. Nb5 a6 13. Nbd4 Nxd4 14. Bxd4 Qa5 15.
+Qc2 Bd6 16. Qb2 Ba3 17. Qc3 Qxc3 18. Rxc3 Rac8 19. Rd1 Rxc3 20. Bxc3 Rc8 21.
+Bd4 Rc2 22. Rd2 Rc1+ 23. Bf1 Bf5 24. Kg2 Kf8 25. Bb2 Bxb2 26. Rxb2 Ke7 27. Nd4
+Bh7 28. Rc2 Rxc2 29. Nxc2 e5 30. Kg1 d4 31. Bg2 b6 32. Bb7 a5 33. Na3 Nd7 34.
+Nc4 f6 35. Bc6 Bg8 36. Nb2 Nb8 37. Bb5 Kd6 38. Na4 Kc7 39. Kf1 Nc6 40. Bxc6
+Kxc6 41. Ke1 b5 42. Nb2 Kc5 43. Kd2 Kb4 44. Kc2 Ka3 45. Kb1 a4 46. bxa4 bxa4
+47. Ka1 f5 48. e3 dxe3 49. fxe3 g5 50. Nd1 Bxa2 51. Nf2 Be6 52. h4 Kb3 53. hxg5
+hxg5 54. d4 exd4 55. exd4 Kc3 56. g4 Kxd4 57. gxf5 Bxf5 58. Kb2 Bd7 59. Kc2 Ke3
+60. Nd1+ Kf3 61. Nc3 g4 62. Kd2 g3 0-1
+

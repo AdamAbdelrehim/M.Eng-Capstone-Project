@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "matrix12345"]
+[Black "Lesoeru"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/UqLdzoLI"]
+[WhiteTitle "FM"]
+[WhiteElo "2604"]
+[BlackElo "2591"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:17:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 c6 2. Nf3 d5 3. d3 Bg4 4. h3 dxe4 5. hxg4 exf3 6. Qxf3 g6 7. Nc3 Bg7 8.
+Bd2 Nf6 9. O-O-O Nd5 10. Ne4 Qb6 11. c3 Nd7 12. d4 e5 13. Nd6+ Ke7 14. Nc4 Qc7
+15. dxe5 Nxe5 16. Nxe5 Bxe5 17. Re1 f6 18. g5 Kf7 19. gxf6 Bxf6 20. Bc4 Rad8
+21. g4 1-0
+

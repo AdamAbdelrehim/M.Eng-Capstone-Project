@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Labourdonais"]
+[Black "Chessmotion"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/XTMME9np"]
+[BlackTitle "FM"]
+[WhiteElo "2571"]
+[BlackElo "2447"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Accelerated Move Order"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:00:01"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Bd6 5. Nf3 f5 6. b3 Nf6 7. Bd3 O-O 8. O-O Ne4
+9. Bb2 Nd7 10. Qc2 b6 11. a3 Bb7 12. b4 Rc8 13. c5 bxc5 14. bxc5 Bc7 15. Ne2
+Qe7 16. Rab1 Rb8 17. Bc3 e5 18. Bxe4 fxe4 19. Nxe5 Nxe5 20. dxe5 Ba6 21. Rxb8
+Bxb8 22. Re1 Bxe2 23. Qxe2 Bxe5 24. Bxe5 Qxe5 25. Rb1 h6 26. Qb2 Qf5 27. h3 Rf6
+28. a4 Kh7 29. a5 Rg6 30. Kh2 Qg5 31. g3 Rf6 32. Rc1 h5 33. Rc2 h4 34. g4 Rf3
+35. a6 Qe7 36. Kg2 Qf7 37. Qb7 Rg3+ 38. Kh2 Qf3 39. fxg3 hxg3+ 0-1
+

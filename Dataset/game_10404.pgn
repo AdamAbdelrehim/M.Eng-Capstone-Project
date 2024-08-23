@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "OliverT96"]
+[Black "AlPacino80"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/hRD44vo1"]
+[BlackTitle "FM"]
+[WhiteElo "2506"]
+[BlackElo "2556"]
+[ECO "A28"]
+[Opening "English Opening: King's English Variation, Four Knights Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:36:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. c4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. d4 exd4 5. Nxd4 g6 6. Nxc6 bxc6 7. g3 Bg7 8.
+Bg2 O-O 9. O-O Re8 10. Bf4 Rb8 11. Qc2 Bb7 12. Rad1 Qc8 13. Qa4 c5 14. Qxa7
+Bxg2 15. Kxg2 d6 16. Qa3 Qb7+ 17. Kg1 Qxb2 18. Qxb2 Rxb2 19. Rb1 Rc2 20. Rb3
+Nh5 21. Nd5 Rxa2 22. e3 Nxf4 23. gxf4 c6 24. Nb6 Rb8 25. Rfb1 Ra1 26. Kg2 Rxb1
+27. Rxb1 f5 28. Kf3 Kf7 29. Ke2 Ke6 30. Kd3 Bf6 31. Kc2 Bd8 32. Na4 Rxb1 33.
+Kxb1 Ba5 34. Kc2 Be1 35. f3 Bb4 36. Kd3 h6 37. Nb2 d5 38. Nd1 g5 39. fxg5 hxg5
+40. h3 Ba5 41. Nf2 Be1 42. Nd1 Ba5 43. Nf2 Bd8 44. Ke2 Bf6 45. Kd3 Kd6 46. Nd1
+Kc7 47. e4 fxe4+ 48. fxe4 Kd6 49. exd5 cxd5 50. cxd5 Kxd5 51. Ne3+ Ke5 52. Nc4+
+Kf4 53. Nd6 Be7 54. Nc8 Bf8 55. Nb6 Kg3 56. Nd5 Kxh3 57. Nf6 g4 58. Ne4 g3 59.
+Nf2+ gxf2 60. Ke2 Kg2 61. Kd3 f1=Q+ 62. Ke4 c4 63. Kd5 c3 64. Kc6 c2 65. Kb7
+c1=Q 66. Ka8 Qb5 67. Ka7 Qa1# 0-1
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Openingsonly"]
+[Black "Llamahealthy"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/lHsKbDPZ"]
+[WhiteElo "2648"]
+[BlackElo "2613"]
+[ECO "E40"]
+[Opening "Nimzo-Indian Defense: Normal Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "02:37:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. e3 d5 5. a3 Be7 6. cxd5 exd5 7. Bd3 O-O 8.
+Nge2 c5 9. dxc5 Bxc5 10. b4 Be7 11. Bb2 a5 12. b5 Nbd7 13. O-O Ne5 14. Nd4 Bg4
+15. Be2 Bxe2 16. Qxe2 Qd7 17. Rfd1 Rac8 18. Rac1 Nc4 19. a4 Rc7 20. Ba1 Rfc8
+21. Qf3 Ne5 22. Qf5 Qxf5 23. Nxf5 Ba3 24. Rc2 Bb4 25. b6 Rc4 26. f3 g6 27. Nxd5
+Nxd5 28. Rxc4 Nxc4 29. Nh6+ Kf8 30. Rxd5 Nxe3 31. Re5 Rc1+ 32. Kf2 Rxa1 33. Kg3
+0-1
+

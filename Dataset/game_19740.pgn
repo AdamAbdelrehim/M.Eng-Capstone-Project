@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "LagraveSamuell"]
+[Black "maunok"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/hBK2nMR4"]
+[WhiteTitle "FM"]
+[WhiteElo "2630"]
+[BlackElo "2641"]
+[ECO "B00"]
+[Opening "Carr Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:05:45"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+5"]
+
+1. e4 h6 2. d4 a6 3. c4 e6 4. Nc3 d6 5. Nf3 b6 6. Bd3 Bb7 7. O-O Nd7 8. d5 e5
+9. Ne1 Be7 10. Bc2 Ngf6 11. Be3 O-O 12. b4 b5 13. cxb5 axb5 14. f3 c6 15. dxc6
+Bxc6 16. Bb3 Nb6 17. Nc2 d5 18. exd5 Nbxd5 19. Nxd5 Bxd5 20. Qd3 Bxb3 21. Qxb3
+Qd5 22. Rfd1 Qxb3 23. axb3 Rxa1 24. Rxa1 Rc8 25. Ra7 Nd5 26. Rd7 Nxe3 27. Nxe3
+Bxb4 28. Nd5 Rc1+ 29. Kf2 Bc5+ 30. Ke2 Rc2+ 31. Kd3 Rxg2 32. Rc7 Bf8 33. Rc8 f6
+34. Nc7 Kf7 35. Nxb5 Rxh2 36. Nc7 Rf2 37. Ke3 Rc2 38. Kd3 Rc1 39. Kd2 Rc6 40.
+Rb8 Rxc7 41. b4 h5 42. b5 Bc5 43. b6 Rd7+ 44. Kc3 h4 45. Kc4 Bxb6 46. Rxb6 g5
+47. Rb2 Rd4+ 48. Kc5 Rf4 49. Rb3 Kg6 50. Rb2 Kf5 51. Rh2 Rxf3 52. Rh3 Rf4 53.
+Re3 g4 54. Re2 h3 55. Rh2 Rf3 56. Rxh3 Kf4 57. Rh5 f5 58. Rh4 e4 59. Rh6 e3 60.
+Re6 g3 61. Rxe3 Kxe3 62. Kd5 Rf4 0-1
+

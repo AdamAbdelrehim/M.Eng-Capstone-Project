@@ -1,0 +1,29 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "InanisBot"]
+[Black "odonata-bot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Jd0gPZ1i"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2495"]
+[BlackElo "2736"]
+[ECO "E25"]
+[Opening "Nimzo-Indian Defense: Sämisch Variation, Keres Variation"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:02:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 d5 5. a3 Bxc3+ 6. bxc3 c5 7. cxd5 Nxd5 8.
+dxc5 Qa5 9. e4 Nf6 10. Bf4 O-O 11. Bd6 Rd8 12. Qb3 Nc6 13. Rd1 Ne8 14. f4 b6
+15. Bb5 Bb7 16. Ne2 bxc5 17. Bxc5 Rxd1+ 18. Kxd1 Nf6 19. e5 Ne4 20. Be3 Ne7 21.
+Ke1 Nf5 22. Bd3 Bd5 23. Qb1 Nxe3 24. Bxe4 Rd8 25. Kf2 Bxe4 26. Qxe4 Nd1+ 27.
+Kg3 Nxc3 28. Nxc3 Qxc3+ 29. Kg4 g6 30. Rb1 Kg7 31. Rb4 h5+ 32. Kh4 Qd2 33. h3
+Qf2+ 34. g3 Kh6 35. Rb2 Qxb2 36. Qe3 Qd2 37. Qxd2 Rxd2 38. g4 Rg2 39. g5+ Kg7
+40. a4 a5 41. f5 exf5 42. e6 f6 43. gxf6+ Kh6 44. e7 g5# 0-1
+

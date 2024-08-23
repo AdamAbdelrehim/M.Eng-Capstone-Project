@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ice2breaker"]
+[Black "bob_2004"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Cr9jp5kB"]
+[BlackTitle "FM"]
+[WhiteElo "2656"]
+[BlackElo "2730"]
+[ECO "D45"]
+[Opening "Semi-Slav Defense: Stoltz Variation, Shabalov Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:12:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. g4 Nxg4 8. Rg1
+Nxh2 9. Nxh2 Bxh2 10. Rxg7 Bd6 11. Bd2 h5 12. O-O-O Nf6 13. e4 Nxe4 14. Nxe4
+dxe4 15. d5 Qf6 16. Bc3 Be5 17. Rg3 Bxc3 18. Rxc3 c5 19. Qxe4 e5 20. d6 Qf4+
+21. Qxf4 exf4 22. Bg2 Rb8 23. Ra3 a6 24. Rd5 b6 25. Re5+ Be6 26. b4 cxb4 27.
+Rxa6 Kd7 0-1
+

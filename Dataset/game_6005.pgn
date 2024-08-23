@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "StochasticVolatility"]
+[Black "mmsanchezchess"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/EKoiVDVE"]
+[BlackTitle "IM"]
+[WhiteElo "2567"]
+[BlackElo "2677"]
+[ECO "E10"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:21:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. g3 Bb4+ 5. Bd2 a5 6. Qc2 O-O 7. Bg2 c5 8. dxc5
+d4 9. Bxb4 axb4 10. Nbd2 Nc6 11. O-O e5 12. Nb3 Qe7 13. Nfd2 Nd7 14. Ne4 f5 15.
+Nd6 e4 16. Rfd1 Nxc5 17. Nxc8 Rfxc8 18. Nxd4 Nxd4 19. Rxd4 b3 20. Qb1 Qf6 21.
+e3 Qa6 22. a3 Nd3 23. Bf1 Ne5 24. Be2 b5 25. cxb5 Qf6 26. Qd1 Rc2 27. Rd6 Qf7
+28. Rd8+ Rxd8 29. Qxd8+ Qf8 30. Qd5+ Nf7 31. Bc4 g6 32. Bxb3 Rxb2 33. Rc1 Kg7
+34. Rc7 Kh6 35. Qxf7 Qh8 36. h4 Kh5 37. Qxh7+ Qxh7 38. Rxh7+ 1-0
+

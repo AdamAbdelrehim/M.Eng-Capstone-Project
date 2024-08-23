@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Llamahealthy"]
+[Black "Sigma_Tauri"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/R9TdEzy2"]
+[BlackTitle "GM"]
+[WhiteElo "2620"]
+[BlackElo "2855"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Sicilian Invitation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:13:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+6"]
+
+1. Nf3 c5 2. g3 b6 3. Bg2 Bb7 4. O-O Nf6 5. c4 g6 6. Nc3 Bg7 7. Re1 Ne4 8. Nxe4
+Bxe4 9. d3 Bb7 10. e4 Nc6 11. Rb1 O-O 12. a3 a5 13. Be3 e5 14. Qd2 d6 15. Bh6
+Bc8 16. Bxg7 Kxg7 17. h3 a4 18. b4 axb3 19. Rxb3 Ra6 20. Reb1 f6 21. Qb2 Rf7
+22. Rxb6 Rxb6 23. Qxb6 Rb7 24. Qxd8 Rxb1+ 0-1
+

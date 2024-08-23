@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Jora_Barygin"]
+[Black "johndoe695"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/RrXOzh3B"]
+[WhiteElo "2601"]
+[BlackElo "2568"]
+[ECO "E05"]
+[Opening "Catalan Opening: Open Defense, Classical Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "02:30:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. g3 Be7 5. Bg2 O-O 6. O-O dxc4 7. Ne5 c5 8. Bc6
+0-1
+

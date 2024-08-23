@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Iwantogotoswizerland"]
+[Black "caveman12345"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/SCwSEm0s"]
+[WhiteElo "2503"]
+[BlackElo "2473"]
+[ECO "A15"]
+[Opening "English Opening: Anglo-Indian Defense, King's Indian Formation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:18:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. c4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. Nc3 Nbd7 7. Rb1 e5 8. d3
+a5 9. a3 h6 10. b4 axb4 11. axb4 g5 12. Ne1 g4 13. Nc2 Nh7 14. e4 Ng5 15. d4
+Nh3+ 16. Bxh3 gxh3 17. d5 f5 18. exf5 Rxf5 19. Ne3 Rf8 20. Ne4 Nf6 21. Qc2 Ng4
+22. f3 Nxe3 23. Bxe3 Bf5 24. Ra1 Rxa1 25. Rxa1 Bg6 26. Qe2 Bh5 27. g4 Bf7 28.
+Ra7 b5 29. Ng3 Bg6 30. cxb5 Qh4 31. b6 cxb6 32. Bxb6 Rc8 33. Rc7 Rxc7 34. Bxc7
+Qg5 35. Bxd6 e4 36. f4 Bd4+ 37. Kf1 Qxd5 38. Bc5 Bxc5 39. bxc5 e3 40. f5 Bf7
+41. Qxe3 Qg2+ 42. Ke1 Qxh2 43. c6 Qc2 44. Nf1 Qxc6 45. Qxh3 Qe4+ 46. Qe3 Qb1+
+47. Kf2 Qb2+ 48. Nd2 Qf6 49. Kg3 Qd6+ 50. Qf4 Qd3+ 51. Nf3 Bd5 52. Kf2 Qc2+ 53.
+Nd2 Qc5+ 54. Kg3 Qg1+ 55. Kh4 Qh1+ 56. Kg3 Qg2+ 57. Kh4 Qe2 58. Kg3 Qe7 59.
+Qb8+ Kh7 60. Qf4 Qe1+ 61. Kh3 Qe2 62. Kg3 Bg2 63. Kh4 Qe1+ 64. Qg3 Qe7+ 65. Kh5
+Qg5# 0-1
+

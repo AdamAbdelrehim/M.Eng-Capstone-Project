@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Midnight_Mushroom"]
+[Black "domore"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/OJz5qUiW"]
+[WhiteElo "2504"]
+[BlackElo "2467"]
+[ECO "A18"]
+[Opening "English Opening: Mikenas-Carls Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:22:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. c4 Nf6 2. Nc3 e6 3. e4 d5 4. e5 d4 5. exf6 dxc3 6. bxc3 Qxf6 7. Bd3 b6 8.
+Be4 c6 9. Nf3 Bb7 10. O-O Bd6 11. d4 O-O 12. Bg5 1-0
+

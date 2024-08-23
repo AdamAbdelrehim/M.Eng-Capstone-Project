@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "DaniloBesedes"]
+[Black "domore"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/f5wmadDN"]
+[WhiteTitle "FM"]
+[WhiteElo "2535"]
+[BlackElo "2480"]
+[ECO "A15"]
+[Opening "English Opening: Anglo-Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:39:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. cxd5 exd5 5. d4 Bd6 6. Nc3 c6 7. Nf3 O-O 8. Ne5
+Nbd7 9. f4 Re8 10. O-O Bb4 11. e3 Bxc3 12. bxc3 Ne4 13. Qb3 Nxe5 14. fxe5 Be6
+15. Qxb7 Qa5 16. Qb4 Qc7 17. c4 c5 18. dxc5 Rab8 19. Qa3 Qxe5 20. cxd5 Bxd5 21.
+Qxa7 Qxa1 22. Bxe4 Bxe4 23. Qxf7+ Kh8 0-1
+

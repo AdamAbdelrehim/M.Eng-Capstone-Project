@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "alfredogto"]
+[Black "tumaridodiegoni"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/eW5yLvve"]
+[WhiteElo "2661"]
+[BlackElo "2618"]
+[ECO "A48"]
+[Opening "London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:19:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "-28"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bf4 Bg7 4. Nbd2 O-O 5. c3 d6 6. e4 Nfd7 7. Be2 e5 8.
+dxe5 dxe5 9. Be3 Qe7 10. O-O Nc5 11. Qc2 b6 12. a4 a5 13. Rfb1 Bb7 14. Bc4 Nbd7
+15. b4 Ne6 16. Bxe6 Qxe6 17. Ng5 Qe7 18. Ngf3 h6 19. bxa5 Rxa5 20. Rb5 Rfa8 21.
+Rxa5 Rxa5 22. Nc4 Ra8 23. a5 bxa5 24. Rxa5 Rxa5 25. Nxa5 Ba8 26. Qa4 Kh7 27.
+Nc6 Qd6 28. Nb4 Bxe4 29. h3 Bxf3 30. gxf3 Qe6 31. Kg2 Nf6 32. Qa7 e4 33. f4 Qd7
+34. Qc5 Nh5 35. Qc4 Kg8 36. Qxe4 Bxc3 37. Nd5 Bg7 38. Ne7+ Kh7 39. Nc6 Nf6 40.
+Qf3 Nd5 41. Ne5 Qe6 42. Nd3 c6 43. Nc5 Qe7 44. Nd3 h5 45. Kh2 Qe6 46. Nc5 Qf5
+47. Ne4 Kg8 48. Ng3 Qe6 49. Bc5 Qf6 50. Ne4 Qf5 51. Nd6 Qxf4+ 52. Qxf4 Nxf4 53.
+f3 Ne6 54. Be3 Bd4 55. Bd2 Be5+ 56. f4 Bxd6 57. Kg2 Bxf4 58. Be1 Bd6 59. Kf3
+Be7 60. Ke4 Kg7 61. Ke5 f6+ 62. Ke4 Kf7 63. Kf3 Ng5+ 64. Ke3 Nxh3 65. Ke4 Ng5+
+66. Kf4 Ne6+ 67. Ke4 Bb4 68. Kd3 Bxe1 69. Kc4 Bg3 70. Kd3 Be5 71. Ke3 h4 72.
+Ke2 h3 73. Kf2 c5 74. Kf3 c4 75. Ke3 c3 76. Kd3 c2 77. Kxc2 h2 78. Kb3 h1=Q 79.
+Kc4 Qg2 80. Kb5 Qf2 81. Ka6 g5 82. Kb7 g4 83. Kc8 g3 84. Kd7 g2 85. Kc8 g1=Q
+86. Kd7 Qge1 87. Kc8 Qfd2 88. Kb7 Qec1 89. Ka8 Qdb2 90. Ka7 Qca1# 0-1
+

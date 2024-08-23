@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "zhohoff"]
+[Black "Maestro_Isa"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/WYLToEBp"]
+[BlackTitle "FM"]
+[WhiteElo "2637"]
+[BlackElo "2642"]
+[ECO "C00"]
+[Opening "French Defense: Queen's Knight"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:59:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 e6 2. Nc3 d5 3. exd5 exd5 4. d4 Bb4 5. Bd3 Ne7 6. Ne2 Bf5 7. O-O Nbc6 8.
+Ng3 Bg6 9. Be3 Qd7 10. a3 Bxc3 11. bxc3 O-O 12. Re1 Rfe8 13. h4 Bxd3 14. cxd3
+Rad8 15. Qf3 b6 16. Re2 Nc8 17. Rae1 Re6 18. Bg5 Rde8 19. Bf4 Rxe2 20. Rxe2
+Rxe2 21. Qxe2 N8e7 22. Qf3 Nd8 23. Be5 f6 24. Bf4 c6 25. h5 Kf7 26. Bb8 a5 27.
+Qf4 a4 28. h6 Ne6 29. Qg4 g6 30. Qf3 b5 31. Be5 Ng8 32. Bf4 Qe7 33. Nf1 Qxa3
+34. Ne3 Qe7 35. Be5 Ke8 36. Bg3 Kd7 37. Nc2 Kc8 38. Nb4 Kb7 39. Bh2 f5 40. Qg3
+f4 41. Qg4 Nf6 42. Qf3 g5 43. Qe2 Qd6 44. g3 Nd7 45. gxf4 gxf4 46. Qg4 a3 47.
+Qe2 Nxd4 48. cxd4 Qxb4 49. Qe8 Qd6 50. Bxf4 Qxf4 51. Qxd7+ Qc7 52. Qg4 a2 53.
+Qd1 Qa5 54. Qa1 Qa3 55. Qe1 a1=Q 56. Qxa1 Qxa1+ 57. Kg2 Qxd4 58. Kg3 Qxd3+ 59.
+f3 Qg6+ 60. Kf4 Qxh6+ 61. Ke5 Qf8 62. f4 Qxf4+ 63. Kxf4 b4 64. Ke3 b3 65. Kd2
+c5 66. Kc1 c4 67. Kb2 Kc6 68. Kc1 Kc5 69. Kb1 Kb4 70. Kc1 c3 71. Kb1 d4 72. Kc1
+d3 73. Kd1 d2 74. Ke2 b2 75. Kd1 b1=Q+ 76. Ke2 Qe4+ 77. Kf2 Qe1+ 78. Kf3 d1=Q+
+79. Kf4 Qde2 80. Kg5 Q1f1 81. Kh6 Qeg2 82. Kxh7 Qfh1# 0-1
+

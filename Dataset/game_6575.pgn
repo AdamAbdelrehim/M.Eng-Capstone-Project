@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "AmpleSquareControl"]
+[Black "eugmind"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/swsEbuG7"]
+[WhiteElo "2449"]
+[BlackElo "2517"]
+[ECO "C00"]
+[Opening "French Defense: Steiner Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:52:25"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. c4 e6 2. e4 c5 3. Nc3 Nc6 4. g3 g6 5. Bg2 Bg7 6. d3 Nge7 7. Nge2 O-O 8. O-O
+b6 9. a3 Bb7 10. Rb1 Nd4 11. b4 Nxe2+ 12. Nxe2 cxb4 13. axb4 d5 14. exd5 exd5
+15. Bf4 Qd7 16. c5 d4 17. Bxb7 Qxb7 18. Bd6 Rfe8 19. Nf4 Nf5 20. Qg4 Nxd6 21.
+cxd6 Red8 22. Rfe1 Rxd6 23. b5 Qd7 24. Qf3 Rc8 25. Re2 h5 26. h4 Rc5 27. Rbe1
+Rc8 28. Re7 Qxb5 29. Ne6 Qf5 30. Qxf5 gxf5 31. Nxg7 Kxg7 32. Rxa7 Rc3 33. Ree7
+Rf6 34. Red7 Rxd3 35. Rab7 f4 36. Kg2 fxg3 37. fxg3 Rd2+ 38. Kh3 Rff2 39. g4
+Rf3# 0-1
+

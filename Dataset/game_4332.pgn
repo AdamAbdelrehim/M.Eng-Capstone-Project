@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "elsas"]
+[Black "cn_ua"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/hmnBEdoD"]
+[WhiteTitle "FM"]
+[BlackTitle "IM"]
+[WhiteElo "2482"]
+[BlackElo "2581"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation, Monte Carlo Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:54:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Nc3 Be7 6. Nf3 O-O 7. h3 Re8 8. Be2
+dxc4 9. O-O Be6 10. Ng5 Bd5 11. Nxd5 Nxd5 12. Ne4 b5 13. a4 c6 14. Bf3 Nd7 15.
+b3 cxb3 16. axb5 b2 17. Bxb2 cxb5 18. Qb3 N7b6 19. Qxb5 Rb8 20. Ba3 Bxa3 21.
+Rxa3 Nc8 1-0
+

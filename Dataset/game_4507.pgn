@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "KeyzerSoze"]
+[Black "Skin_Ticket"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/2vCfrHTS"]
+[WhiteTitle "IM"]
+[WhiteElo "2510"]
+[BlackElo "2621"]
+[ECO "D43"]
+[Opening "Semi-Slav Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:18:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. Nf3 d5 3. c4 e6 4. Nc3 c6 5. Bg5 h6 6. Bxf6 Qxf6 7. e4 dxe4 8.
+Nxe4 Bb4+ 9. Nc3 O-O 10. Bd3 c5 11. O-O cxd4 12. Ne4 Qf4 13. Nxd4 Rd8 14. Ne2
+Qc7 15. Qc2 Nc6 16. Rad1 Ne5 17. N2g3 Nxd3 18. Rxd3 Rxd3 19. Qxd3 f5 20. Nc3
+Bd7 21. Nxf5 Bxc3 22. Ne7+ Kf7 23. Qxc3 Re8 0-1
+

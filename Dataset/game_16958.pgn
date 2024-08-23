@@ -1,0 +1,36 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "expositor"]
+[Black "RaspFish"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/cpqTIVcA"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2817"]
+[BlackElo "3031"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Euwe Variation"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:36:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Bd7 6. a3 c4 7. g3 Na5 8. Nbd2 Ne7
+9. Be2 Bc6 10. h4 Qd7 11. a4 Nc8 12. Qc2 Nb6 13. Bd1 h6 14. O-O O-O-O 15. Qb1
+Nxa4 16. Qc2 b5 17. Ne1 Kb8 18. b4 cxb3 19. Nxb3 Nc4 20. Nd3 Rc8 21. h5 Bb7 22.
+Kh2 Be7 23. Bg4 a6 24. Bh3 Rhg8 25. Nf4 Qc6 26. Bg2 Qc7 27. Ne2 g5 28. f4 Rcf8
+29. Qh7 Rh8 30. Qg7 Bd8 31. fxg5 hxg5 32. Kg1 Rhg8 33. Qh7 f5 34. Qxc7+ Kxc7
+35. Bf3 Be7 36. g4 Rh8 37. Rf2 a5 38. Ra2 Kb6 39. Rg2 f4 40. Rh2 Rc8 41. Kf2
+Bc6 42. Rh1 b4 43. cxb4 axb4 44. Bd2 Bb5 45. Rb1 Na3 46. Rba1 Rc2 47. Rxc2 Nxc2
+48. Ra2 Bc4 49. Nec1 Na3 50. Be2 Kb5 51. Bf1 Rc8 52. Be1 Nc3 53. Bxc3 bxc3 54.
+Kg2 Bxf1+ 55. Kxf1 Kc4 56. Rh2 Nb1 57. h6 Ba3 58. Na5+ Kxd4 59. Nab3+ Kc4 60.
+Na5+ Kb4 61. Ncb3 Nd2+ 62. Nxd2 cxd2 63. Nc6+ Rxc6 64. Rxd2 Rc8 65. Rd4+ Kb5
+66. h7 Rh8 67. Rd3 Bb4 68. Rh3 d4 69. Kf2 Kc4 70. Ke2 Bc3 71. Kf3 d3 72. Kf2 d2
+73. Ke2 Kb3 74. Kd1 Ra8 75. Ke2 Kc2 76. Rd3 Rh8 77. Rd7 Rxh7 78. Rd6 Rh3 79.
+Rd7 Re3+ 80. Kf2 Rd3 81. Rxd3 Kxd3 82. Kg2 d1=Q 83. Kh2 Qd2+ 84. Kh3 f3 85. Kg3
+Qg2# 0-1
+

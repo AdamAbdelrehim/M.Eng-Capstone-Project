@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "amourmonstre"]
+[Black "Mischuk_D"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/CVfC08Lj"]
+[BlackTitle "IM"]
+[WhiteElo "2652"]
+[BlackElo "2660"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:52:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. c4 e6 2. g3 d5 3. Bg2 Nf6 4. Nf3 c5 5. cxd5 exd5 6. d4 Nc6 7. a3 Ne4 8. O-O
+Be7 9. dxc5 Bxc5 10. Qc2 Bb6 11. Nc3 Bf5 12. Nh4 Nxc3 13. Nxf5 Ne4 14. Nxg7+
+Kf8 15. Nf5 Qf6 16. Bxe4 dxe4 17. Qxe4 Re8 18. Bh6+ Qxh6 19. Qxe8+ Kxe8 20.
+Nxh6 Ke7 21. e3 Ke6 22. Rad1 f5 23. g4 fxg4 24. Kg2 Bc7 25. Nxg4 Rg8 26. Kh3 h5
+27. Nh6 Rg6 28. f4 Rxh6 29. Kh4 Bd8+ 30. Kg3 Bf6 31. Rf2 Rh8 32. Kf3 Rg8 33.
+Rdd2 h4 34. Rg2 Rxg2 35. Rxg2 Na5 36. e4 Nc4 37. e5 Be7 38. Ke4 Kf7 39. f5 b5
+40. Rc2 a5 41. a4 Nxb2 42. axb5 Na4 43. Kd5 Bd8 44. Kd6 Nb6 45. e6+ Kf6 46. Rc6
+a4 47. Rxb6 Bxb6 48. e7 Bc5+ 49. Kxc5 Kxe7 50. Kb4 Kf6 51. b6 Kxf5 52. b7 Kg4
+53. b8=Q Kh3 54. Kxa4 Kg2 55. Qf4 Kh3 56. Qh6 Kg4 57. Kb3 Kh3 58. Kc2 Kxh2 59.
+Qxh4+ Kg2 60. Qf4 1-0
+

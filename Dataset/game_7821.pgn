@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "domore"]
+[Black "fast-tsunami"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/C6joNGBM"]
+[BlackTitle "LM"]
+[WhiteElo "2456"]
+[BlackElo "2506"]
+[ECO "C64"]
+[Opening "Ruy Lopez: Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:29:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Qf6 5. Nc3 Nge7 6. Nd5 Nxd5 7. exd5 Nd4
+8. Nxd4 Bxd4 9. c3 Bb6 10. d3 O-O 11. Be3 d6 12. Bc4 Qg6 13. Qe2 f5 14. Bxb6
+axb6 15. d4 e4 16. f3 Bd7 17. fxe4 fxe4 18. Rxf8+ Rxf8 19. Re1 Bf5 20. Rf1 Bg4
+21. Rxf8+ Kxf8 22. Qf2+ Qf5 23. Be2 Qxf2+ 24. Kxf2 Bf5 25. Ke3 Ke7 26. Bd1 Kf6
+27. Bc2 Kg5 28. Bxe4 Bxe4 29. Kxe4 Kg4 30. c4 h5 31. b4 h4 32. a4 g5 33. a5 h3
+34. g3 bxa5 35. bxa5 Kh5 36. c5 dxc5 37. dxc5 Kg6 38. c6 bxc6 39. a6 cxd5+ 40.
+Kxd5 c5 41. a7 1-0
+

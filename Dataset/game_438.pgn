@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "topiatwins"]
+[Black "Veselchak-U"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/GXzZw02h"]
+[WhiteTitle "NM"]
+[WhiteElo "2592"]
+[BlackElo "2536"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack, Fianchetto Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "02:41:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. c4 e6 2. Nc3 d5 3. d4 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. e3 b6 7. Bd3 Bb7 8. O-O
+Nbd7 9. Rc1 c5 10. cxd5 exd5 11. Ne5 Ne4 12. dxc5 Nxc3 13. Rxc3 bxc5 14. Qg4
+Nf6 15. Qd1 d4 16. exd4 Nd5 17. Bxh7+ Kxh7 18. Qh5+ Kg8 19. Rh3 1-0
+

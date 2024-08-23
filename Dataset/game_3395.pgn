@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "simplesimpson03"]
+[Black "DealingWithKID"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/N16KjZTP"]
+[WhiteElo "2518"]
+[BlackElo "2510"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:44:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. Nf3 d5 2. g3 Nc6 3. Bg2 e5 4. O-O Be6 5. d3 Be7 6. a3 Qd7 7. b4 f6 8. Bb2
+Bh3 9. c4 Bxg2 10. Kxg2 O-O-O 11. cxd5 Qxd5 12. Nc3 Qd7 13. Rc1 h5 14. Ne4 h4
+15. Qa4 hxg3 16. fxg3 Kb8 17. b5 Nd4 18. Bxd4 exd4 19. Rc4 f5 20. Rxd4 fxe4 21.
+Rxd7 exf3+ 22. Rxf3 Rxd7 23. b6 1-0
+

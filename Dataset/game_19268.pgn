@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Defendiendome"]
+[Black "Ersenov"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/C6J633h4"]
+[WhiteElo "2535"]
+[BlackElo "2532"]
+[ECO "D06"]
+[Opening "Queen's Gambit Declined: Austrian Defense, Gusev Countergambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:51:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+
+1. d4 d5 2. c4 c5 3. cxd5 Nf6 4. dxc5 Qxd5 5. Qxd5 Nxd5 6. a3 e5 7. e4 Nf4 8.
+b4 a6 9. Bb2 Nc6 10. Nf3 f6 11. g3 Ne6 12. Bc4 Bd7 13. Nbd2 O-O-O 14. O-O-O a5
+15. Bc3 Ned4 16. h3 g6 17. Kb2 Bh6 18. b5 Na7 19. a4 Be6 20. Nxd4 Bxc4 21. Nxc4
+exd4 22. Rxd4 Rxd4 23. Bxd4 Re8 24. Nd6+ Kd7 25. Nxe8 Kxe8 26. Bxf6 Nc8 27. f4
+Kf7 28. e5 Bf8 29. Rc1 Ke6 30. c6 b6 31. g4 Bc5 32. Rf1 Kd5 33. f5 Kc4 34. e6
+gxf5 35. gxf5 Kb4 36. Rf4+ Bd4+ 37. Rxd4+ Kc5 38. Rd8 h6 39. Rxc8 h5 40. Rh8 h4
+41. Rxh4 Kd5 42. Rg4 Kc5 43. e7 Kd5 44. e8=Q Kc5 45. Qe5# 1-0
+

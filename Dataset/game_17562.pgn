@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Gannibal84"]
+[Black "gmcyborek"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/gIoWzEHV"]
+[WhiteTitle "IM"]
+[WhiteElo "2586"]
+[BlackElo "2667"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:16:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. Nf3 Nf6 5. Bc4 Nc6 6. O-O Bg4 7. h3 Bh5 8.
+g4 Nxg4 9. hxg4 Bxg4 10. Be2 O-O-O 11. Nh2 Bxe2 12. Qxe2 Nd4 13. Qd1 Rd6 14.
+Ne2 Rg6+ 15. Kh1 Qg5 16. Ng3 Qd5+ 17. Kg1 h5 18. c3 h4 19. cxd4 hxg3 20. Nf3 g2
+21. Re1 Rh1# 0-1
+

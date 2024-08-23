@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "DmitriyD-1978"]
+[Black "Overrated-Arbuckle"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/jk7OQyTb"]
+[WhiteElo "2453"]
+[BlackElo "2507"]
+[ECO "B51"]
+[Opening "Sicilian Defense: Moscow Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "04:01:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O Nf6 5. Re1 e6 6. c3 a6 7. Bxd7+ Nxd7 8.
+d4 Be7 9. Bf4 cxd4 10. cxd4 Nf6 11. Nc3 O-O 12. e5 dxe5 13. dxe5 Nd5 14. Ne4
+Nxf4 0-1
+

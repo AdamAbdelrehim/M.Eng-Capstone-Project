@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "MarioVillanueva"]
+[Black "EmperatorTrajano"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/qQ31I74p"]
+[WhiteTitle "IM"]
+[WhiteElo "2643"]
+[BlackElo "2695"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:04:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 c6 2. Nf3 d5 3. e5 Bf5 4. d4 e6 5. c4 dxc4 6. Bxc4 Ne7 7. Nc3 Nd7 8. Be3
+Nb6 9. Bd3 Bxd3 10. Qxd3 Nf5 11. O-O Be7 12. Rad1 O-O 13. g4 Nxe3 14. fxe3 c5
+15. Qe4 cxd4 16. exd4 Rc8 17. d5 Nxd5 18. Nxd5 exd5 19. Rxd5 Qb6+ 20. Rf2 Bc5
+21. Nd4 Rfd8 22. Rf4 Bxd4+ 23. Rxd4 Rc4 24. Qxb7 Qxd4+ 25. Rxd4 Rcxd4 26. Kf2
+Rxg4 27. Qxa7 h6 28. Qb6 Rd2+ 29. Ke3 Rxh2 30. e6 Rh3+ 31. Kf2 Re4 32. e7 Rh2+
+33. Kf3 Rhe2 34. Qd8+ Kh7 35. Qd3 f5 36. Qxe2 1-0
+

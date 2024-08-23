@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "pepek_mu_baukk"]
+[Black "Chessploutos"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/38wUakgo"]
+[WhiteElo "2626"]
+[BlackElo "2596"]
+[ECO "C84"]
+[Opening "Ruy Lopez: Closed, Center Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:16:31"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+6"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 b5 7. Bb3 d6 8. dxe5
+Nxe5 9. Nxe5 dxe5 10. Qxd8+ Bxd8 11. a4 Bb7 12. f3 c5 13. axb5 axb5 14. Rxa8
+Bxa8 15. Be3 c4 16. Ba2 O-O 17. b3 cxb3 18. Bxb3 Be7 19. Nd2 Nd7 20. Ra1 Nc5
+21. Ra7 Nxb3 22. Rxe7 Nxd2 23. Bxd2 f6 24. Rc7 h5 25. Kf2 Rd8 26. Bb4 Kh7 27.
+Be7 Rd2+ 28. Ke3 Rxg2 29. Bxf6 Kh6 30. Bxe5 g5 31. Rc8 Bb7 32. Rb8 Bc6 33. c3
+Kh7 0-1
+

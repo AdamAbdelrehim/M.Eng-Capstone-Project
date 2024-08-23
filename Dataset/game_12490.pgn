@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "vvrtixsen"]
+[Black "FourierTransformatie"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ipGQnt8D"]
+[WhiteElo "2505"]
+[BlackElo "2406"]
+[ECO "C97"]
+[Opening "Ruy Lopez: Closed, Chigorin Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:32:50"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Be7 7. Re1 O-O 8. h3
+d6 9. c3 Na5 10. Bc2 c5 11. d4 Qc7 12. d5 Nc4 13. b3 Nb6 14. Be3 Nfd7 15. Nbd2
+Bb7 16. Nf1 f5 17. exf5 Nxd5 18. Qd2 N7b6 19. Ng3 Nf6 20. Ng5 Bc8 21. N3e4 d5
+22. Nxf6+ Bxf6 23. Ne6 Bxe6 24. fxe6 Rad8 25. Qe2 Rfe8 26. Qh5 g6 27. Qg4 d4
+28. Bd2 d3 29. Bd1 Qd6 30. h4 Qxe6 31. Qg3 e4 32. h5 Qf7 33. hxg6 hxg6 34. a4
+c4 35. axb5 axb5 36. Ra6 Nd5 37. bxc4 bxc4 38. Ba4 Re7 39. Qg4 Nxc3 40. Bxc3
+Bxc3 41. Rxg6+ Bg7 42. Rxe4 Rxe4 43. Qxe4 d2 44. Bd1 Re8 45. Qg4 Re1+ 46. Kh2
+Rxd1 47. Qc8+ Kh7 48. Rg3 Be5 49. Qh3+ Qh5 50. Qxh5# 1-0
+

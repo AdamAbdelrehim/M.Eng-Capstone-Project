@@ -1,0 +1,22 @@
+[Event "Blitz swiss https://lichess.org/swiss/G6sgTtbn"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "emirislamking"]
+[Black "Mirhaev"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/RFgu6wrV"]
+[WhiteElo "2523"]
+[BlackElo "2393"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:14:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. Nf3 d5 2. g3 Nc6 3. d4 Bg4 4. Bg2 Qd7 5. h3 Bh5 6. c4 e6 7. cxd5 exd5 8. Nc3
+Nf6 9. Ne5 Qe6 10. Qa4 a6 11. Nb5 O-O-O 12. Nxc6 Qxe2# 0-1
+

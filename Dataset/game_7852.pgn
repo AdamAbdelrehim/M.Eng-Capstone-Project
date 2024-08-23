@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Inci2019"]
+[Black "KyrgyzGM"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/pBbWbdwo"]
+[WhiteTitle "IM"]
+[WhiteElo "2507"]
+[BlackElo "2513"]
+[ECO "B00"]
+[Opening "St. George Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:39:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-48"]
+
+1. e4 a6 2. d4 b6 3. Bd3 c6 4. c3 d6 5. f4 Qc7 6. Nf3 g6 7. O-O Bg7 8. e5 Nh6
+9. Nbd2 O-O 10. Ne4 c5 11. Ng3 b5 12. f5 Nc6 13. f6 exf6 14. exf6 Bxf6 15. Bxh6
+Re8 16. Ne4 Bh8 17. Nfg5 f5 18. Ng3 Bf6 19. Qf3 cxd4 20. Qd5+ Kh8 21. Nf7+ Kg8
+22. Rae1 Ne7 23. Nxd6+ Kh8 24. Bg7+ Kxg7 25. Qf7+ Kh6 26. Nxe8 Qb6 27. Qf8+ Kg5
+28. h4+ Kxh4 29. Qh6+ Kg4 30. Qf4# 1-0
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ViennaDragon"]
+[Black "V_vs"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/iGQIfXQf"]
+[WhiteElo "2535"]
+[BlackElo "2468"]
+[ECO "A62"]
+[Opening "Benoni Defense: Fianchetto Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:25:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8. Nf3
+O-O 9. O-O a6 10. a4 Nbd7 11. Nd2 Nh5 12. Nc4 Ne5 13. Nxe5 Bxe5 14. e4 f5 15.
+f4 Bd4+ 16. Kh1 Nf6 17. exf5 Bxf5 18. Ne2 Bg4 19. Bf3 Bxf3+ 20. Rxf3 Re8 21.
+Nxd4 cxd4 22. Qxd4 Re1+ 23. Kg2 Rc8 24. Rf1 Rc2+ 25. Kg1 Rxf1+ 26. Kxf1 Qc8 27.
+Bd2 Qh3+ 28. Kg1 Ng4 0-1
+

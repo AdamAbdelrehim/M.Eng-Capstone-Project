@@ -1,0 +1,32 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "caissa-x"]
+[Black "Botyuliirma"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/EgYlTDUh"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3040"]
+[BlackElo "3007"]
+[ECO "D39"]
+[Opening "Queen's Gambit Declined: Ragozin Defense, Vienna Variation"]
+[TimeControl "600+4"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:42:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+1"]
+
+1. Nf3 Nf6 2. d4 d5 3. c4 e6 4. Nc3 Bb4 5. Bg5 dxc4 6. e4 c5 7. Bxc4 cxd4 8.
+Nxd4 Bxc3+ 9. bxc3 Qa5 10. Bb5+ Bd7 11. Bxf6 gxf6 12. Bxd7+ Nxd7 13. O-O a6 14.
+Rb1 Qc7 15. Qh5 Nc5 16. Qh6 Qe5 17. Rb4 Qg5 18. Qh3 Rg8 19. g3 h5 20. Rc4 b6
+21. Qg2 Rd8 22. f4 Qg6 23. Nf3 Kf8 24. Qe2 Qg4 25. Rd4 Ke7 26. e5 f5 27. Qb2
+Rb8 28. Ng5 h4 29. Kg2 Rh8 30. Qd2 h3+ 31. Kf2 Kf8 32. c4 Kg7 33. Ke3 b5 34.
+Rd7 Rhf8 35. Rxf7+ Rxf7 36. Qd6 bxc4 37. Qxc5 Rb2 38. Rf3 Rxh2 39. Nxe6+ Kg6
+40. Ng5 Rh1 41. Qxc4 Rg7 42. Qe6+ Kh5 43. Qe8+ Rg6 44. Qh8+ Rh6 45. Qe8+ Rg6
+46. Qh8+ Rh6 47. Qf8 h2 48. Qe8+ Rg6 49. Qh8+ Rh6 50. Qe8+ Rg6 51. Qh8+ Rh6 52.
+Qf8 Re1+ 53. Kd2 Rxe5 54. Qf7+ Rg6 55. Qh7+ Rh6 56. Qf7+ Rg6 57. Qh7+ Rh6 58.
+Qf7+ 1/2-1/2
+

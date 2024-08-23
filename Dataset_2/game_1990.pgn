@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.09.08"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Bishop2350"]
+[Result "0-1"]
+[CurrentPosition "rn1qk2r/p1pp1ppp/1p2p3/6N1/3PbP2/2P1B1P1/P1P4P/R2QK2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Owens-Defense-2.d4-Bb7-3.Nc3-e6"]
+[UTCDate "2021.09.08"]
+[UTCTime "04:58:12"]
+[WhiteElo "1495"]
+[BlackElo "1496"]
+[TimeControl "600"]
+[Termination "Bishop2350 won by resignation"]
+[StartTime "04:58:12"]
+[EndDate "2021.09.08"]
+[EndTime "04:59:45"]
+[Link "https://www.chess.com/game/live/24816061817"]
+
+1. e4 { [%clk 0:10:00] } 1... e6 { [%clk 0:09:59.6] } 2. d4
+{ [%clk 0:09:57.7] } 2... b6 { [%clk 0:09:58.3] } 3. Nc3 { [%clk 0:09:54.9] }
+3... Bb7 { [%clk 0:09:56.9] } 4. f4 { [%clk 0:09:51.9] } 4... Bb4
+{ [%clk 0:09:49.7] } 5. Bd3 { [%clk 0:09:41.5] } 5... Bxc3+
+{ [%clk 0:09:45.8] } 6. bxc3 { [%clk 0:09:41.2] } 6... Qh4+
+{ [%clk 0:09:42.8] } 7. g3 { [%clk 0:09:34.7] } 7... Qd8 { [%clk 0:09:39.9] }
+8. Be3 { [%clk 0:09:27.9] } 8... Nf6 { [%clk 0:09:37.2] } 9. Nf3
+{ [%clk 0:09:26.4] } 9... Nxe4 { [%clk 0:09:29.5] } 10. Bxe4
+{ [%clk 0:09:13.9] } 10... Bxe4 { [%clk 0:09:26.7] } 11. Ng5
+{ [%clk 0:09:10.4] } 0-1
+

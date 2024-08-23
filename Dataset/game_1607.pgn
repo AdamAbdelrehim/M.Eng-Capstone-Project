@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "MassterofMayhem"]
+[Black "stormeman100100"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/9exy9Pd5"]
+[WhiteTitle "IM"]
+[WhiteElo "2640"]
+[BlackElo "2593"]
+[ECO "C05"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:22:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 c5 6. c3 Nc6 7. Ne2 f6 8. Nf4
+cxd4 9. Nxe6 Qe7 10. Nc7+ Kd8 11. Nxa8 Ndxe5 12. O-O Nxd3 13. Nf3 Nxc1 14. Rxc1
+b6 15. cxd4 Bb7 16. Qa4 Qd7 17. Nxb6 axb6 18. Qb3 Bd6 19. Qxb6+ Qc7 20. Qb3 Re8
+21. Qxd5 Kc8 22. Qb3 Kb8 23. d5 Na5 24. Rxc7 Nxb3 25. Rxb7+ Kxb7 26. axb3 Re2
+27. g3 Rxb2 28. Rd1 Rxb3 29. Kg2 Rb2 30. Rd2 Rxd2 31. Nxd2 Kb6 32. Kf3 Kc5 33.
+Ke4 Be7 34. g4 g6 35. f4 Bd8 36. f5 g5 37. h3 Be7 38. Nb3+ Kd6 39. Nd4 Bd8 40.
+Ne6 Be7 41. Nd4 Bd8 42. Nb3 Bb6 43. Nd2 Ba7 44. Nc4+ Kd7 45. d6 Kc6 46. d7 Kxd7
+47. Kd5 Ke7 48. Nd6 Bf2 49. Ne4 Kf7 50. Kc6 Be3 51. Kd7 Bd4 52. Nd6+ Kg7 53.
+Ke6 Be5 54. Ne8+ Kh6 55. Nxf6 Bf4 56. Ne4 Kg7 57. f6+ Kf8 58. f7 Be3 59. Nf6
+Bd4 60. Nxh7+ Kg7 61. f8=Q+ Kg6 62. Qf7+ Kh6 63. Qh5+ Kg7 64. Qf7+ Kh8 65. Nxg5
+Bg7 66. Qf5 Bh6 67. Qh7# 1-0
+

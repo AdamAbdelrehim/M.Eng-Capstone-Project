@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.19"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "asolanoa8"]
+[Result "1/2-1/2"]
+[CurrentPosition "rnbqkbnr/ppp2ppp/3p4/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "C41"]
+[ECOUrl "https://www.chess.com/openings/Philidor-Defense"]
+[UTCDate "2021.01.19"]
+[UTCTime "03:09:59"]
+[WhiteElo "1063"]
+[BlackElo "1078"]
+[TimeControl "600"]
+[Termination "Game drawn by agreement"]
+[StartTime "03:09:59"]
+[EndDate "2021.01.19"]
+[EndTime "03:11:34"]
+[Link "https://www.chess.com/game/live/6278213342"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:57] } 2. Nf3 { [%clk 0:09:59.3] }
+2... d6 { [%clk 0:09:54.7] } 1/2-1/2
+

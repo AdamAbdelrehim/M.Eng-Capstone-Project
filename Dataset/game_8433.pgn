@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "odonata-bot"]
+[Black "Hoon_Bot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/J9NFnpeM"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2621"]
+[BlackElo "2874"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Main Line"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:46:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 c5 5. dxc5 Nf6 6. Nf3 Qxc5 7. Be3 Qd6 8.
+Nb5 Qxd1+ 9. Rxd1 Na6 10. Nxa7 e6 11. Nxc8 Rxc8 12. Bb5+ Ke7 13. O-O Nb4 14. c3
+Nbd5 15. Ba7 g5 16. Nxg5 h5 17. Nf3 h4 18. Bd4 Rh5 19. a4 Nc7 20. Be2 Nd7 21.
+Be3 Ra5 22. Nxh4 Bg7 23. g3 Bf6 24. Ng2 Rxa4 25. Nf4 b6 26. h4 Nc5 27. Bf3 Ra2
+28. Rd2 Kf8 29. Kg2 Ne8 30. Rfd1 Be7 31. Nh5 b5 32. Bf4 Ra7 33. Be2 Nc7 34. Bf3
+Ne8 35. Be2 Nc7 36. Bf3 Ne8 1/2-1/2
+

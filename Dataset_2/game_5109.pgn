@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.05.22"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Roms46"]
+[Result "0-1"]
+[CurrentPosition "3r1r2/1pp4k/p6p/3Pp3/2K1Nq2/8/PP2B1P1/3R3R b - -"]
+[Timezone "UTC"]
+[ECO "C53"]
+[ECOUrl "https://www.chess.com/openings/Giuoco-Piano-Game-Main-Line"]
+[UTCDate "2022.05.22"]
+[UTCTime "04:42:07"]
+[WhiteElo "1745"]
+[BlackElo "1741"]
+[TimeControl "600"]
+[Termination "Roms46 won by resignation"]
+[StartTime "04:42:07"]
+[EndDate "2022.05.22"]
+[EndTime "04:49:18"]
+[Link "https://www.chess.com/game/live/46933236421"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:59.4] } 2. Nf3
+{ [%clk 0:09:57.1] } 2... Nc6 { [%clk 0:09:57.6] } 3. Bc4 { [%clk 0:09:54.7] }
+3... Bc5 { [%clk 0:09:53.1] } 4. c3 { [%clk 0:09:52.5] } 4... a6
+{ [%clk 0:09:51.3] } 5. d4 { [%clk 0:09:51.3] } 5... exd4 { [%clk 0:09:49.7] }
+6. cxd4 { [%clk 0:09:51.2] } 6... Ba7 { [%clk 0:09:37.4] } 7. Nc3
+{ [%clk 0:09:49.3] } 7... d6 { [%clk 0:09:32.8] } 8. Be3 { [%clk 0:09:38.1] }
+8... h6 { [%clk 0:09:29.7] } 9. O-O { [%clk 0:09:35.9] } 9... Nf6
+{ [%clk 0:09:17.7] } 10. Re1 { [%clk 0:09:32.5] } 10... O-O { [%clk 0:09:16] }
+11. d5 { [%clk 0:09:30.4] } 11... Ne5 { [%clk 0:08:54.9] } 12. Nxe5
+{ [%clk 0:09:27.1] } 12... dxe5 { [%clk 0:08:49.4] } 13. Qf3
+{ [%clk 0:09:18.3] } 13... Bd7 { [%clk 0:08:15.9] } 14. Rad1 { [%clk 0:09:14] }
+14... Qc8 { [%clk 0:08:08.8] } 15. Bxh6 { [%clk 0:08:56.7] } 15... Bg4
+{ [%clk 0:07:52.7] } 16. Qg3 { [%clk 0:08:46.8] } 16... gxh6
+{ [%clk 0:07:35.2] } 17. h3 { [%clk 0:08:44.3] } 17... Kh7 { [%clk 0:07:20.4] }
+18. hxg4 { [%clk 0:08:41.8] } 18... Nxg4 { [%clk 0:06:59.5] } 19. Be2
+{ [%clk 0:08:27.8] } 19... Bxf2+ { [%clk 0:06:55] } 20. Qxf2
+{ [%clk 0:08:15.5] } 20... Nxf2 { [%clk 0:06:53.5] } 21. Kxf2
+{ [%clk 0:08:15.4] } 21... f5 { [%clk 0:06:46.4] } 22. Rh1 { [%clk 0:07:57] }
+22... fxe4+ { [%clk 0:06:43.2] } 23. Ke3 { [%clk 0:07:56.5] } 23... Qf5
+{ [%clk 0:06:20.3] } 24. Nxe4 { [%clk 0:07:41.3] } 24... Qf4+
+{ [%clk 0:06:07.2] } 25. Kd3 { [%clk 0:07:39.1] } 25... Rad8
+{ [%clk 0:05:51.5] } 26. Kc4 { [%clk 0:07:15.9] } 0-1
+

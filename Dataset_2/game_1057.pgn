@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.05.06"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Vicky1999S"]
+[Result "0-1"]
+[CurrentPosition "2kr1bnr/pbppq1pp/1pN2p2/1N6/2B1P3/8/PPP2PPP/R1BQ1RK1 b - -"]
+[Timezone "UTC"]
+[ECO "C40"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Kings-Knight-Gunderam-Defense-3.Bc4"]
+[UTCDate "2021.05.06"]
+[UTCTime "04:49:49"]
+[WhiteElo "1344"]
+[BlackElo "1307"]
+[TimeControl "600"]
+[Termination "Vicky1999S won - game abandoned"]
+[StartTime "04:49:49"]
+[EndDate "2021.05.06"]
+[EndTime "04:55:05"]
+[Link "https://www.chess.com/game/live/14015511413"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:59.9] } 2. Nf3
+{ [%clk 0:09:58.4] } 2... Qe7 { [%clk 0:09:58.3] } 3. Bc4 { [%clk 0:09:56.3] }
+3... f6 { [%clk 0:09:52] } 4. O-O { [%clk 0:09:34.4] } 4... b6
+{ [%clk 0:09:45.9] } 5. d4 { [%clk 0:09:31] } 5... exd4 { [%clk 0:09:37.7] } 6.
+Nxd4 { [%clk 0:09:30.9] } 6... Bb7 { [%clk 0:09:35.6] } 7. Nc3
+{ [%clk 0:09:27.8] } 7... Nc6 { [%clk 0:09:26.9] } 8. Ncb5 { [%clk 0:09:09.7] }
+8... O-O-O { [%clk 0:09:16.6] } 9. Nxc6 { [%clk 0:09:04.2] } 0-1
+

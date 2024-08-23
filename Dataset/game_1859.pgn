@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "yoruv"]
+[Black "C2H5OH3"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/KZDAVSQv"]
+[WhiteElo "2560"]
+[BlackElo "2437"]
+[ECO "B06"]
+[Opening "Modern Defense: Two Knights Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:08:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+
+1. Nf3 d6 2. Nc3 g6 3. e4 Bg7 4. d4 f6 5. Be3 Nh6 6. h3 Nf7 7. Qd2 e5 8. Bc4
+Nc6 9. O-O-O O-O 10. Kb1 Kh8 11. h4 Bg4 12. h5 g5 13. Bxf7 Rxf7 14. h6 Bf8 15.
+Nd5 exd4 16. Nxd4 Ne5 17. f3 Bd7 18. Qc3 c6 19. Nb4 c5 20. Nd5 cxd4 21. Bxd4
+Rc8 22. Qb3 b6 23. g3 Nxf3 24. Qxf3 Be7 25. Rdf1 Be6 26. Nxe7 Qxe7 27. Bxf6+
+Rxf6 28. Qxf6+ Qxf6 29. Rxf6 Re8 30. Rd1 Kg8 31. Rxd6 Bf7 32. b3 Bg6 33. Rde6
+Rxe6 34. Rxe6 Kf7 35. Re5 Kf6 36. Rd5 Bxe4 37. Rd7 a5 38. Rd6+ Kf5 39. Rxb6 Kg4
+40. Rb5 Kh5 41. Rxa5 Kxh6 42. Re5 Bf3 43. a4 Kg6 44. a5 h5 45. a6 h4 46. gxh4
+gxh4 47. Re3 Bg2 48. a7 Kf7 49. Re2 h3 50. Rxg2 hxg2 51. a8=Q g1=Q+ 52. Ka2 Qc1
+53. Qd5+ Ke7 54. Qd3 Ke6 55. b4 Ke7 56. b5 Ke6 57. b6 Qg1 58. Qb3+ Kd6 59. b7
+Qa7+ 60. Kb2 Qd4+ 61. Ka2 Qa7+ 62. Qa3+ Qxa3+ 63. Kxa3 Kc7 64. Kb4 Kxb7 65. Kb5
+Kc7 66. Kc5 Kb7 67. Kd6 Kc8 68. Kc6 Kd8 69. c4 Kc8 70. c5 1-0
+

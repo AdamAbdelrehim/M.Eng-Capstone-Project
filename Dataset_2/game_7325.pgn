@@ -1,0 +1,38 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.01.31"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "uelleubalmmlab"]
+[Result "0-1"]
+[CurrentPosition "2rqkb1r/1b3pp1/p2p3p/1pnPpN2/1Q2n3/P1R1B3/1PP1NPPP/2K1R3 w k -"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-St-George-Defense-2.d4-b5"]
+[UTCDate "2023.01.31"]
+[UTCTime "17:08:04"]
+[WhiteElo "1942"]
+[BlackElo "1953"]
+[TimeControl "600"]
+[Termination "uelleubalmmlab won by resignation"]
+[StartTime "17:08:04"]
+[EndDate "2023.01.31"]
+[EndTime "17:14:20"]
+[Link "https://www.chess.com/game/live/68923854467"]
+
+1. e4 { [%clk 0:10:00] } 1... a6 { [%clk 0:10:00] } 2. d4 { [%clk 0:09:58.3] }
+2... b5 { [%clk 0:09:58.8] } 3. a3 { [%clk 0:09:47.2] } 3... Bb7
+{ [%clk 0:09:56.8] } 4. Nc3 { [%clk 0:09:44.8] } 4... h6 { [%clk 0:09:55.8] }
+5. Nf3 { [%clk 0:09:41.9] } 5... Nf6 { [%clk 0:09:55] } 6. Bd3
+{ [%clk 0:09:39.6] } 6... e6 { [%clk 0:09:52.7] } 7. Be3 { [%clk 0:09:30.3] }
+7... Be7 { [%clk 0:09:50.6] } 8. Qd2 { [%clk 0:09:28.2] } 8... d6
+{ [%clk 0:09:41.1] } 9. O-O-O { [%clk 0:09:22.5] } 9... Nbd7
+{ [%clk 0:09:29.3] } 10. Rhe1 { [%clk 0:09:06.6] } 10... Rc8
+{ [%clk 0:08:44.1] } 11. d5 { [%clk 0:08:50.7] } 11... e5 { [%clk 0:08:24.4] }
+12. Nh4 { [%clk 0:08:25.2] } 12... c5 { [%clk 0:08:16.9] } 13. Nf5
+{ [%clk 0:08:16.2] } 13... Bf8 { [%clk 0:07:57.5] } 14. Ne2
+{ [%clk 0:07:49.5] } 14... c4 { [%clk 0:07:47.5] } 15. Qb4 { [%clk 0:07:09.5] }
+15... cxd3 { [%clk 0:07:41.7] } 16. Rxd3 { [%clk 0:07:09.4] } 16... Nc5
+{ [%clk 0:07:28.3] } 17. Rc3 { [%clk 0:06:40.9] } 17... Nfxe4
+{ [%clk 0:07:24.9] } 0-1
+

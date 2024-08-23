@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "vogelj"]
+[Black "Chess_Antistress"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/5j1KigLj"]
+[WhiteElo "2475"]
+[BlackElo "2515"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "03:50:39"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8.
+Qc2 c5 9. Ne2 cxd4 10. Nxd4 Nc6 11. Nxc6 bxc6 12. O-O g6 13. Bh6 Re8 14. Rfe1
+Be6 15. g3 f5 16. c4 f4 17. Qc3 f6 18. Rad1 Be5 19. Qc2 fxg3 20. hxg3 Qc7 21.
+Bxg6 hxg6 22. Qxg6+ Kh8 23. Re4 Qh7 24. Qh5 Bf7 25. Qf3 Qxh6 26. Rh4 Qxh4 27.
+gxh4 Rg8+ 28. Kf1 Bxc4+ 29. Ke1 Rg1+ 30. Kd2 Rd8+ 31. Kc2 Rgxd1 32. Qh5+ Kg8
+33. Qg6+ Kf8 34. Qh6+ Ke7 35. Qg7+ Ke6 36. Qg4+ f5 37. Qg6+ Bf6 38. b3 R8d3 39.
+bxc4 R3d2+ 40. Kb3 Rb1+ 41. Ka3 Rd3+ 42. Ka4 Rd2 43. Qe8+ Be7 44. Qg8+ Kd7 45.
+c5 Rd4+ 46. Ka5 Rb5+ 47. Ka6 Ra4# 0-1
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "NoahSkyler"]
+[Black "manneredmonkey"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/r7JACq6O"]
+[BlackTitle "NM"]
+[WhiteElo "2572"]
+[BlackElo "2577"]
+[ECO "B00"]
+[Opening "Pirc Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:15:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 d6 2. d4 Kd7 3. Nc3 Qe8 4. f4 Kd8 5. Nf3 e6 6. e5 Ne7 7. Be3 d5 8. Bd3 h5
+9. Ne2 g6 10. c4 dxc4 11. Bxc4 b6 12. Nc3 Bb7 13. d5 exd5 14. Nxd5 Kc8 15. Nf6
+Qd8 16. Bxf7 Nbc6 17. Be6+ 1-0
+

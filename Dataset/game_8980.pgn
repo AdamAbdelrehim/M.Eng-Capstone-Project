@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "RRS03"]
+[Black "wunderwaffles"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/35tI9hme"]
+[WhiteTitle "FM"]
+[WhiteElo "2585"]
+[BlackElo "2399"]
+[ECO "B48"]
+[Opening "Sicilian Defense: Taimanov Variation, Bastrikov Variation, English Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "06:20:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 Nc6 4. d4 cxd4 5. Nxd4 Qc7 6. Be3 a6 7. Qf3 Ne5 8.
+Qg3 Nf6 9. Bf4 d6 10. Bg5 Be7 11. f4 Nc4 12. Bxc4 Qxc4 13. O-O-O b5 14. e5 b4
+15. exf6 gxf6 16. Bxf6 Bxf6 17. Ne4 Be7 18. f5 Qxa2 19. Nb3 d5 20. f6 dxe4 21.
+fxe7 Bd7 22. Qg7 Kxe7 23. Rxd7+ Kxd7 24. Qxf7+ Kc8 25. Qxe6+ Kb8 26. Qe5+ Ka7
+27. Qc7# 1-0
+

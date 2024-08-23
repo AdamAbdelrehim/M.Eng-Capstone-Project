@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "the_reverse_flash"]
+[Black "NkNiner"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Jfs3HpLL"]
+[WhiteElo "2496"]
+[BlackElo "2530"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Chigorin Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "02:57:28"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 d5 2. Nf3 Nc6 3. e3 Bg4 4. Nbd2 e5 5. dxe5 Nxe5 6. Be2 Bxf3 7. Nxf3 Nxf3+
+8. Bxf3 c6 9. O-O Nf6 10. c4 dxc4 11. Qc2 Bd6 12. Qxc4 Qe7 13. g3 O-O 14. e4
+Be5 15. Re1 Rfd8 16. Bg2 Rd4 17. Qc2 Rad8 18. f4 Bc7 19. e5 Bb6 20. Kh1 Ng4 21.
+h3 Nh6 22. Be3 R4d7 23. Bxb6 axb6 24. Rad1 Qe6 25. Rxd7 Rxd7 26. Rd1 Nf5 27.
+Rxd7 Qxd7 28. Qb3 g6 29. Kh2 b5 30. g4 Nh4 31. Qg3 Nxg2 32. Qxg2 Qd4 33. Kg3 h6
+34. h4 Qe3+ 35. Qf3 Qg1+ 36. Qg2 Qe1+ 37. Qf2 Qe4 38. b3 b4 39. Qd2 c5 40. h5
+gxh5 41. gxh5 Kg7 42. Qg2 Qf5 43. Kf3+ Kf8 44. Qg4 Qd3+ 45. Kf2 Qd4+ 46. Kg3 b5
+47. Qf3 c4 48. Qa8+ Kg7 49. Qf3 c3 50. Qg4+ Kf8 51. Qc8+ Kg7 52. Qg4+ Kh8 53.
+Qc8+ Kh7 54. Qf5+ Kg7 55. Qf6+ Kf8 56. Qxh6+ Ke8 57. Qh8+ Ke7 58. Qf6+ Ke8 59.
+Qc6+ Kf8 60. Qc8+ Ke7 61. Qc7+ Ke6 62. Qc8+ Kd5 63. Qd7+ Ke4 64. Qc6+ Ke3 65.
+Qf3+ Kd2 66. Qg2+ Kc1 67. Qf1+ Kb2 68. Qe2+ c2 69. Kg4 Qc3 70. Qxb5 Kb1 71. Qe8
+c1=Q 72. Qxf7 Qg1+ 73. Kf5 Qd3+ 74. Kf6 Qg4 75. Qg6 1-0
+

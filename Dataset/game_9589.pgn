@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "vovasev"]
+[Black "SaintPancake78"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/z6Ex2t5a"]
+[WhiteTitle "FM"]
+[WhiteElo "2557"]
+[BlackElo "2426"]
+[ECO "B34"]
+[Opening "Sicilian Defense: Accelerated Dragon, Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:26:16"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 g6 5. Nxc6 bxc6 6. Bd3 Ba6 7. O-O Bxd3
+8. Qxd3 Bg7 9. c4 c5 10. Nc3 d6 11. Be3 Nh6 12. f3 Rb8 13. b3 Ng8 14. Rad1 Qc8
+15. f4 Nf6 16. f5 O-O 17. Kh1 Ng4 18. Bg1 Ne5 19. Qh3 Rb7 20. Nd5 a5 21. Qh4
+Qd8 22. Be3 a4 23. f6 exf6 24. Nxf6+ Bxf6 25. Rxf6 axb3 26. Bg5 bxa2 27. Rxg6+
+Nxg6 0-1
+

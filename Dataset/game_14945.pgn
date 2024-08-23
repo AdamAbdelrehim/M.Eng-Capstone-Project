@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "energeiakoss"]
+[Black "GuilleRosario"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/5cNPFchv"]
+[WhiteElo "2505"]
+[BlackElo "2524"]
+[ECO "B33"]
+[Opening "Sicilian Defense: Lasker-Pelikan Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:26:25"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Ndb5 d6 7. Nd5 Nxd5 8.
+exd5 Ne7 9. c4 Nf5 10. Qa4 Bd7 11. Qb4 a6 12. Nc3 Be7 13. Bd3 O-O 14. O-O Nh4
+15. f4 a5 16. Qb3 exf4 17. Bxf4 Ng6 18. Bg3 f5 19. Bf2 Ne5 20. Be2 f4 21. Bb6
+Qe8 22. Rae1 Qg6 23. Kh1 Bh4 24. Bf2 Bg3 25. hxg3 fxg3 26. Be3 Bg4 27. Bxg4
+Nxg4 28. Rf3 Qh5+ 29. Kg1 Qh2+ 30. Kf1 Qh1+ 31. Ke2 Qxg2+ 32. Kd3 Rxf3 33. Qxb7
+Re8 34. Nd1 Nf2+ 35. Kd4 Nxd1 36. Qd7 Rfxe3 37. Rxe3 Rxe3 38. Qc8+ Kf7 39. Qd7+
+Kg6 40. Qg4+ Kf6 41. Qf4+ Ke7 42. Qxe3+ Nxe3 43. Kxe3 Qf2+ 44. Kd3 g2 45. c5
+g1=Q 46. cxd6+ Kxd6 47. Kc4 Qe3 48. Kb5 Qd4 49. a3 Qb6+ 50. Ka4 Qgd4+ 51. b4
+axb4 52. Kb3 bxa3+ 53. Kc2 Qdb2+ 54. Kd1 a2 55. Ke1 a1=Q# 0-1
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "wr_7"]
+[Black "MorrisonMotzi"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/btMPLTd6"]
+[WhiteElo "2496"]
+[BlackElo "2501"]
+[ECO "E10"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:56:50"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. Nf3 e6 3. c4 d5 4. e3 b6 5. cxd5 exd5 6. Be2 Bd6 7. b3 O-O 8. Ba3
+Bf5 9. O-O Re8 10. Bxd6 Qxd6 11. Nbd2 a5 12. Ne5 c5 13. Bb5 Re7 14. Ndf3 Ne4
+15. Rc1 f6 16. Nd3 Nd7 17. Nf4 g5 18. Nxd5 Rg7 19. Bxd7 Rxd7 20. Nc3 Nxc3 21.
+Rxc3 Bg4 22. h3 Bh5 23. Qe2 cxd4 24. Qc4+ Bf7 25. Qxd4 Qe6 26. Qa4 Rad8 27.
+Rfc1 Kg7 28. Qg4 Qe7 29. Kh2 Be6 30. Qg3 h5 31. Rc7 h4 32. Nxh4 Kf7 33. Nf3 Rh8
+34. Rxd7 Bxd7 35. Rc7 g4 36. Nd4 gxh3 37. gxh3 Kf8 38. Qf3 Qd8 39. Qb7 Rxh3+
+40. Kg2 Be8 41. Ne6+ Kg8 42. Rg7+ Kh8 43. Nxd8 Bh5 44. Rh7+ Kg8 45. Qg7# 1-0
+

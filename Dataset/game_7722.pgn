@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "DaniloBesedes"]
+[Black "DanielPerchman"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/fHSsF9iR"]
+[WhiteTitle "FM"]
+[WhiteElo "2539"]
+[BlackElo "2473"]
+[ECO "A06"]
+[Opening "Zukertort Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:02:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. Nf3 d5 2. e3 c6 3. c4 e6 4. b3 f5 5. Bb2 Nf6 6. Nc3 Bd6 7. d4 O-O 8. Bd3 Ne4
+9. Ne5 Nd7 10. Nxe4 fxe4 11. Be2 Nxe5 12. dxe5 Bb4+ 13. Kf1 Qh4 14. g3 Qh3+ 15.
+Kg1 Bd7 16. Bf1 Qf5 17. Qc2 Be8 18. h4 Bh5 19. Bh3 Bg4 20. Bxg4 Qxg4 21. Rh2
+Rf3 22. Rg2 Raf8 23. cxd5 cxd5 24. Rf1 Ba5 25. Bd4 Bb6 26. Bxb6 axb6 27. Qc7
+R3f7 28. Qxb6 h5 29. a4 g5 30. hxg5 Rg7 31. b4 Rff7 32. a5 Rxg5 33. b5 h4 34.
+Qd8+ Kg7 35. Qxg5+ Qxg5 36. gxh4 Qxg2+ 37. Kxg2 Rc7 38. a6 bxa6 39. bxa6 Ra7
+40. Ra1 Kg6 41. Kg3 Kf5 42. f4 exf3 43. Kxf3 Kxe5 44. Ra5 Kf5 45. h5 Kg5 46. e4
+Kxh5 47. exd5 exd5 48. Kf4 Kg6 49. Ke5 Kf7 50. Kxd5 Ke7 51. Kc6 Kd8 52. Kb6 Ra8
+53. Kb7 Rxa6 54. Rxa6 Kd7 55. Rc6 Ke7 56. Kc7 Kf7 57. Rd6 Ke7 58. Rc6 Kf7 59.
+Kd7 Kf8 60. Rf6+ Kg7 61. Ke7 Kg8 62. Rg6+ Kh7 63. Kf7 Kh8 64. Rh6# 1-0
+

@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "CJ58"]
+[Black "FIDE-Trainer1984"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/uVZ4fzlQ"]
+[WhiteElo "2441"]
+[BlackElo "2520"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Apocalypse Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:41:07"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. e4 c6 2. Nf3 d5 3. exd5 cxd5 4. Ne5 Nc6 5. d4 Nxe5 6. dxe5 a6 7. Bd3 Qc7 8.
+f4 g6 9. O-O Bf5 10. Bxf5 gxf5 11. Qxd5 e6 12. Qb3 Bc5+ 13. Be3 Ne7 14. Bxc5
+Qxc5+ 15. Kh1 O-O-O 16. Qc3 Qxc3 17. Nxc3 Rd2 18. Rac1 Rg8 19. g3 Nd5 20. Rfd1
+Rxd1+ 21. Nxd1 Rd8 22. a3 h5 23. c4 Ne7 24. Nc3 Rd2 25. b4 Nc6 26. Rd1 Rc2 27.
+Na4 Kc7 28. c5 Rc4 29. Nb6 Rd4 30. Rxd4 Nxd4 31. Nc4 Kc6 32. Nd6 Nc2 33. Nxf7
+Nxa3 34. Nd8+ Kd7 35. Nxb7 Nc2 36. Kg2 Nxb4 37. Kf3 Kc6 38. Nd8+ Kd5 39. Ke3 a5
+40. Kd2 Nc6 41. Nb7 Ke4 42. Ke2 a4 43. Nd6+ Kd5 44. Kd3 Kxc5 45. Kc3 Nd4 46.
+Nb7+ Kb6 47. Kxd4 Kxb7 48. Kc4 Kc6 49. Kb4 Kd5 50. Kxa4 Ke4 51. Kb5 h4 52. Kc6
+hxg3 53. hxg3 Kf3 54. Kd6 Kxg3 55. Kxe6 Kxf4 56. Kd5 Kg4 57. e6 f4 58. e7 f3
+59. e8=Q f2 60. Qg8+ Kf3 61. Qf7+ Ke2 62. Qe6+ Kd2 63. Qf5 Ke2 64. Qe4+ Kd2 65.
+Qf3 Ke1 66. Qe3+ Kf1 67. Ke4 Kg2 68. Qg5+ Kh2 69. Qf4+ Kg2 0-1
+

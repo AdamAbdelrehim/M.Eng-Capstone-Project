@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "toosz17"]
+[Black "BTSJ2000"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/MrJwWMns"]
+[WhiteElo "2491"]
+[BlackElo "2506"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Krause Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:43:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 c5 2. Nf3 d5 3. c4 Nf6 4. e3 Bg4 5. cxd5 Nxd5 6. Be2 e6 7. h3 Bh5 8. Nc3
+Nxc3 9. bxc3 Nc6 10. Bd2 Be7 11. Qb3 Qb6 12. Rb1 Qxb3 13. Rxb3 O-O-O 14. O-O
+Na5 15. Rb5 b6 16. Rc1 cxd4 17. cxd4+ Kb8 18. Bxa5 Bxf3 19. Bxf3 Rc8 20. Rcb1
+Rc3 21. Bxc3 1-0
+

@@ -1,0 +1,36 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.10.08"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Steeve222"]
+[Result "0-1"]
+[CurrentPosition "r1b2rk1/ppp2ppp/2p2n2/8/4P3/3P2qP/P1P3P1/RQ3BKR w - -"]
+[Timezone "UTC"]
+[ECO "C42"]
+[ECOUrl "https://www.chess.com/openings/Petrovs-Defense-Classical-Stafford-Gambit-4.Nxc6-dxc6"]
+[UTCDate "2022.10.08"]
+[UTCTime "00:37:16"]
+[WhiteElo "1809"]
+[BlackElo "1833"]
+[TimeControl "600"]
+[Termination "Steeve222 won by resignation"]
+[StartTime "00:37:16"]
+[EndDate "2022.10.08"]
+[EndTime "00:40:44"]
+[Link "https://www.chess.com/game/live/58928387665"]
+
+1. e4 { [%clk 0:09:59.8] } 1... e5 { [%clk 0:09:59.9] } 2. Nf3
+{ [%clk 0:09:58.4] } 2... Nf6 { [%clk 0:09:59.8] } 3. Nxe5 { [%clk 0:09:54.6] }
+3... Nc6 { [%clk 0:09:57.1] } 4. Nxc6 { [%clk 0:09:52.8] } 4... dxc6
+{ [%clk 0:09:57] } 5. d3 { [%clk 0:09:50.3] } 5... Bc5 { [%clk 0:09:54.4] } 6.
+Be3 { [%clk 0:09:45.3] } 6... Qd6 { [%clk 0:09:17.8] } 7. Bxc5
+{ [%clk 0:09:35.5] } 7... Qxc5 { [%clk 0:09:15.2] } 8. h3 { [%clk 0:09:25.6] }
+8... Qb4+ { [%clk 0:09:11.3] } 9. Nc3 { [%clk 0:09:21] } 9... Qxb2
+{ [%clk 0:09:09.4] } 10. Ne2 { [%clk 0:09:09.7] } 10... O-O
+{ [%clk 0:08:39.6] } 11. Qb1 { [%clk 0:09:02.1] } 11... Qe5
+{ [%clk 0:08:29.1] } 12. f4 { [%clk 0:08:49] } 12... Qh5 { [%clk 0:08:12.2] }
+13. Ng3 { [%clk 0:08:46.8] } 13... Qh4 { [%clk 0:08:07.6] } 14. Kf2
+{ [%clk 0:08:41.7] } 14... Qxf4+ { [%clk 0:08:05.2] } 15. Kg1
+{ [%clk 0:08:39.6] } 15... Qxg3 { [%clk 0:08:03.2] } 0-1
+

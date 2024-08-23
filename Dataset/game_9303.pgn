@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "veselchak-u"]
+[Black "firegus16"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/xKyFR6VS"]
+[WhiteElo "2576"]
+[BlackElo "2588"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, Lipnitsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:30:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Be7 8. f4
+Qc7 9. f5 e5 10. Nde2 Nbd7 11. Bg5 b5 12. O-O Bb7 13. Bxf6 Nxf6 14. Bd5 b4 15.
+Bxb7 Qxb7 16. Nd5 Nxd5 17. exd5 Bg5 18. Ng3 O-O 19. Ne4 f6 20. Kh1 Qb6 21. Qg4
+Bh6 22. c4 bxc3 23. bxc3 Kh8 24. Rab1 Qc7 25. Rb3 Rfb8 26. Rfb1 Rxb3 27. axb3
+a5 28. h3 Rb8 29. Qh4 Be3 30. Qe1 Bh6 31. c4 Ra8 32. Qc3 Qd7 33. Qf3 Bf4 34. g3
+Bh6 35. h4 Qc7 36. Kg2 a4 37. bxa4 Qxc4 38. Rd1 Qc2+ 39. Kh3 Qxa4 40. Nxd6 Qd7
+41. Ne4 Kg8 42. d6 Kh8 43. Nxf6 Qd8 44. Ne4 Rb8 45. f6 gxf6 46. Qxf6+ Bg7 47.
+Qxd8+ Rxd8 48. Kg4 Bf8 49. Kf5 Bg7 50. Ke6 Re8+ 51. Kf7 Rf8+ 52. Ke7 Rg8 53. d7
+Bf8+ 54. Kf7 Rg7+ 55. Kxf8 Rg8+ 56. Ke7 Rg7+ 57. Ke6 Rg6+ 58. Kxe5 Kg7 59. d8=Q
+Kh6 60. Qf8+ Kh5 61. Nf6+ Rxf6 62. Qxf6 h6 63. Qf5# 1-0
+

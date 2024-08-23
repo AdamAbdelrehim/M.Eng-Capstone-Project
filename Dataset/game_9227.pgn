@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "abedinov"]
+[Black "Chess_Antistress"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/eK4A4Nqe"]
+[WhiteElo "2429"]
+[BlackElo "2546"]
+[ECO "D10"]
+[Opening "Slav Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:13:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. c4 c6 2. Nc3 d5 3. d4 Nf6 4. Bf4 dxc4 5. e4 b5 6. e5 Nd5 7. Bd2 e6 8. g3 Bb7
+9. Bg2 Be7 10. Nge2 O-O 11. O-O Nd7 12. f4 a6 13. h3 c5 14. Kh2 cxd4 15. Nxd4
+Nc5 16. f5 Nxc3 17. bxc3 Bxg2 18. Kxg2 Nd3 19. Qg4 Qd5+ 20. Kh2 Nxe5 0-1
+

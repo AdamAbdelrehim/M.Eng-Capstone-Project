@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "SevanB"]
+[Black "KOTbKA"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/B6g1RalD"]
+[WhiteTitle "IM"]
+[WhiteElo "2583"]
+[BlackElo "2605"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:57:31"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+7"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 Nc6 5. a3 Qc7 6. Nf3 Bg4 7. Bb5 e6 8. Be3
+Ne7 9. Nc3 Nf5 10. O-O Be7 11. h3 Bxf3 12. Qxf3 Qxe5 13. Bf4 Qf6 14. Rfe1 O-O
+15. Bxc6 bxc6 16. Be5 Qg6 17. b4 Bf6 18. Qf4 Bg5 19. Qg4 h5 20. Qe2 Nh4 21. Qd3
+Nf5 22. Ne2 Bf6 23. Nf4 Qh6 24. Qf3 Nh4 25. Qxh5 Qxh5 26. Nxh5 Bxe5 27. Rxe5
+Nf5 28. c3 Rfe8 29. Rae1 Kf8 30. Nf4 Re7 31. Nd3 Rae8 32. g4 Nh4 33. R1e3 f6
+34. Rh5 Ng6 35. f4 e5 36. fxe5 fxe5 37. Rf5+ Kg8 38. h4 e4 39. Nf2 Nxh4 40. Rh5
+Nf3+ 41. Kg2 Ne5 42. Kg3 Ng6 43. Rf5 Ne5 44. Nh3 Nf7 45. Nf4 Nh6 46. Rh5 Rf7
+47. Nxd5 cxd5 48. Rxd5 Kh7 49. Rd4 Rfe7 50. c6 Nf7 51. b5 Ng5 52. Kf4 Kg6 53.
+Rd5 Rf8+ 54. Kg3 Rc8 55. Rxg5+ Kxg5 56. Rxe4 Kg6 57. Kf4 Kf6 58. Re5 Kf7 59. g5
+Ke8 60. g6 Rxe5 61. Kxe5 Ke7 62. Kd5 Rd8+ 63. Kc5 Rc8 64. c7 Ke6 65. Kc6 Re8
+66. Kb7 Re7 67. Kc8 Kf6 68. Kb8 Re6 0-1
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "JamesBondAgent007"]
+[Black "Tigran-Harutyunyan"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/dluAbWpX"]
+[BlackTitle "GM"]
+[WhiteElo "2831"]
+[BlackElo "2721"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense, Catalan Defense Accepted"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "06:05:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-11"]
+[BlackRatingDiff "+7"]
+
+1. c4 e6 2. Nf3 d5 3. g3 Nf6 4. Bg2 dxc4 5. Qa4+ Nbd7 6. Qxc4 a6 7. Qc2 c5 8.
+Nc3 Ra7 9. O-O b5 10. a4 b4 11. Nd1 Rc7 12. d3 Bb7 13. Ne3 Be7 14. b3 O-O 15.
+Nc4 Nd5 16. e4 Nc3 17. Bb2 Bf6 18. Rfe1 Bd4 19. Nxd4 cxd4 20. f4 Nc5 21. Rf1 f5
+22. exf5 Bxg2 23. Kxg2 exf5 24. Rae1 Qd5+ 25. Kg1 h6 26. Re5 Qc6 27. Bxc3 dxc3
+28. d4 Ne4 29. Ne3 Nd2 30. d5 Qc5 31. Rf2 Ne4 32. Re2 Rd7 33. Kg2 g6 34. Rxe4
+fxe4 35. Qxe4 Qd6 36. Kh3 Re7 37. Qd3 Qd7+ 38. Kg2 Qd6 39. Nc4 Rxe2+ 0-1
+

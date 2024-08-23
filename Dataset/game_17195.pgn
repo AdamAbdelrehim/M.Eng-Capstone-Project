@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "RaspFish"]
+[Black "karpen-b"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/G3ty9GVF"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2988"]
+[BlackElo "2952"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Accelerated London System, Steinitz Countergambit"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:39:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+1"]
+
+1. d4 d5 2. Bf4 c5 3. e3 cxd4 4. exd4 Nc6 5. Nf3 Bg4 6. c3 e6 7. h3 Bf5 8. Nbd2
+a6 9. Be2 Bd6 10. Bxd6 Qxd6 11. a4 a5 12. Nb1 Nf6 13. O-O h6 14. Na3 Qf4 15.
+Re1 O-O 16. Nb5 Rad8 17. Bf1 Ne4 18. Re3 Ng3 19. Ne5 Nxf1 20. Qxf1 Be4 21. Qe2
+Qg5 22. Qg4 Qe7 23. h4 f6 24. Ng6 Bxg6 25. Qxg6 e5 26. Qf5 Qf7 27. f3 h5 28.
+Rae1 Rfe8 29. Kf2 Re7 30. Qd3 g6 31. Na3 Rdd7 32. Nc2 Kg7 33. Qb5 Qe8 34. g3
+Qc8 35. R1e2 Qc7 36. Re1 Na7 37. Qd3 Nc6 38. Qb5 Qc8 39. R3e2 Qd8 40. Qc5 Qc7
+41. Qb5 Qd8 42. Rd1 Na7 43. Qd3 Nc6 44. Qb5 Na7 45. Qc5 Nc6 46. Rde1 Qc7 47.
+Rd1 b6 48. Qb5 exd4 49. Nxd4 Nxd4 50. Rxd4 Rxe2+ 51. Qxe2 Re7 52. Qd1 Qe5 53.
+Rd2 Qe3+ 54. Kg2 Kf7 55. Rc2 Qc5 56. Rd2 Qe3 57. Rf2 Qc5 58. Qd2 Kg7 59. Re2
+Rxe2+ 60. Qxe2 d4 61. cxd4 Qxd4 62. Qe7+ Kg8 63. Qe8+ Kg7 64. Qe7+ Kg8 65. Qe8+
+Kg7 66. Qe7+ 1/2-1/2
+

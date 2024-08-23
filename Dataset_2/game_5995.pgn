@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.08.22"]
+[Round "-"]
+[White "kharanshusoni"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "rnbq1rk1/5pp1/p2pp2p/1pp5/2P1PP2/2PP2N1/P3Q1PP/R3KB1R w KQ b6"]
+[Timezone "UTC"]
+[ECO "A34"]
+[ECOUrl "https://www.chess.com/openings/English-Opening-Symmetrical-Variation-2.Nc3"]
+[UTCDate "2022.08.22"]
+[UTCTime "22:02:13"]
+[WhiteElo "1417"]
+[BlackElo "1443"]
+[TimeControl "60"]
+[Termination "AdamAbdelrehim won on time"]
+[StartTime "22:02:13"]
+[EndDate "2022.08.22"]
+[EndTime "22:03:30"]
+[Link "https://www.chess.com/game/live/54944760243"]
+
+1. c4 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. Nc3 { [%clk 0:00:59.9] }
+2... d6 { [%clk 0:00:59.6] } 3. e4 { [%clk 0:00:59.8] } 3... Nf6
+{ [%clk 0:00:59.5] } 4. d3 { [%clk 0:00:59.2] } 4... e6 { [%clk 0:00:58.8] } 5.
+Bg5 { [%clk 0:00:58.5] } 5... Be7 { [%clk 0:00:58.3] } 6. Nge2
+{ [%clk 0:00:57.5] } 6... O-O { [%clk 0:00:57.5] } 7. Ng3 { [%clk 0:00:57.1] }
+7... h6 { [%clk 0:00:56.5] } 8. Bxf6 { [%clk 0:00:56.4] } 8... Bxf6
+{ [%clk 0:00:55.8] } 9. f4 { [%clk 0:00:56.3] } 9... Bxc3+ { [%clk 0:00:53.3] }
+10. bxc3 { [%clk 0:00:55.2] } 10... a6 { [%clk 0:00:51.1] } 11. Qe2
+{ [%clk 0:00:55.1] } 11... b5 { [%clk 0:00:49.4] } 0-1
+

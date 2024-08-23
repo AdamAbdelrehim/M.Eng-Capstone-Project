@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "lanieta"]
+[Black "matrix12345"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/w6fiHqME"]
+[WhiteTitle "FM"]
+[BlackTitle "FM"]
+[WhiteElo "2489"]
+[BlackElo "2606"]
+[ECO "B51"]
+[Opening "Sicilian Defense: Moscow Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:20:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. O-O a6 5. Bd3 Ngf6 6. c3 b5 7. Bc2 Bb7 8. Re1
+e6 9. d4 Be7 10. Nbd2 cxd4 11. cxd4 O-O 12. Nf1 Rc8 13. Ng3 Nb6 14. b3 Re8 15.
+Bb2 Bf8 16. Qe2 Rc7 17. Rad1 Qa8 18. Bb1 b4 19. Ng5 h6 20. Nh3 e5 21. dxe5 dxe5
+22. Nf5 g6 23. Nd6 Bxd6 24. Rxd6 Rc6 25. Rxc6 Bxc6 26. f4 Nbd7 27. fxe5 Nxe5
+28. Qd2 Kh7 29. Qf4 Nfd7 30. Bc1 g5 31. Nxg5+ hxg5 32. Qxg5 Re6 33. Rf1 Rg6 34.
+Qh4+ Kg8 35. Bb2 Qe8 36. Rf5 Qe6 37. Rh5 Kg7 38. Qd8 Rh6 39. Qg5+ Qg6 40. Bxe5+
+Nxe5 41. Qxe5+ Kh7 42. Rxh6+ Kxh6 43. Qf4+ Kg7 44. Qe5+ Kh7 45. Qf5 Qxf5 46.
+exf5 Kg7 47. Kf2 Kf6 48. g4 Kg5 49. Kg3 Kf6 50. Kf4 Kg7 51. Be4 Bb5 52. g5 f6
+53. gxf6+ Kxf6 54. h4 Be8 55. Bf3 Bd7 56. Bg4 a5 57. h5 a4 58. h6 axb3 59. axb3
+Be8 60. Bd1 Bd7 61. Bc2 Be8 62. Ke4 Bf7 63. Kd4 Bg8 64. Kc5 Kg5 65. Kxb4 Kxh6
+66. Kc5 Kg5 67. b4 Kf6 68. Kd6 Bc4 69. Kc5 Ba6 70. b5 Bc8 71. Kd6 Bb7 72. Kc7
+Be4 73. Bxe4 1-0
+

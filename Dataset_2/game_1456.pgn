@@ -1,0 +1,34 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.07.01"]
+[Round "-"]
+[White "gogoo1983"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "1k1rqb1r/1pp1nppp/p4n2/1P1pN3/Q7/2PP2PB/P2NPP1P/1RB2RK1 b - -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Saragossa-Opening-1...e5"]
+[UTCDate "2021.07.01"]
+[UTCTime "16:44:01"]
+[WhiteElo "1579"]
+[BlackElo "1522"]
+[TimeControl "600"]
+[Termination "gogoo1983 won by resignation"]
+[StartTime "16:44:01"]
+[EndDate "2021.07.01"]
+[EndTime "16:46:26"]
+[Link "https://www.chess.com/game/live/18896808429"]
+
+1. c3 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:53.1] } 2. d3
+{ [%clk 0:09:58.4] } 2... d5 { [%clk 0:09:52] } 3. Nf3 { [%clk 0:09:57] } 3...
+Nc6 { [%clk 0:09:50.3] } 4. g3 { [%clk 0:09:55.2] } 4... Nf6
+{ [%clk 0:09:43.6] } 5. Bg2 { [%clk 0:09:53.9] } 5... Be6 { [%clk 0:09:38.5] }
+6. O-O { [%clk 0:09:51.9] } 6... Qd7 { [%clk 0:09:29.8] } 7. Nbd2
+{ [%clk 0:09:50.6] } 7... O-O-O { [%clk 0:09:25.3] } 8. Qa4
+{ [%clk 0:09:46.7] } 8... Kb8 { [%clk 0:09:15.1] } 9. b4 { [%clk 0:09:34] }
+9... Bh3 { [%clk 0:09:12.9] } 10. b5 { [%clk 0:09:32.4] } 10... Ne7
+{ [%clk 0:09:05.3] } 11. Nxe5 { [%clk 0:09:30.1] } 11... Qe8
+{ [%clk 0:08:54.4] } 12. Bxh3 { [%clk 0:09:28.2] } 12... a6
+{ [%clk 0:08:46.2] } 13. Rb1 { [%clk 0:09:04.7] } 1-0
+

@@ -1,0 +1,41 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.24"]
+[Round "-"]
+[White "3rik04"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r3rbk1/pp1q1p1p/2n2N1R/8/3P4/6P1/PP2NPK1/R2Q4 b - -"]
+[Timezone "UTC"]
+[ECO "A23"]
+[ECOUrl "https://www.chess.com/openings/English-Opening-Carls-Bremen-Keres-Variation-4.Bg2-d5"]
+[UTCDate "2021.08.24"]
+[UTCTime "18:33:32"]
+[WhiteElo "1537"]
+[BlackElo "1506"]
+[TimeControl "600"]
+[Termination "3rik04 won by resignation"]
+[StartTime "18:33:32"]
+[EndDate "2021.08.24"]
+[EndTime "18:40:33"]
+[Link "https://www.chess.com/game/live/23569185727"]
+
+1. c4 { [%clk 0:09:58.5] } 1... e5 { [%clk 0:09:57.6] } 2. Nc3
+{ [%clk 0:09:56.5] } 2... Nf6 { [%clk 0:09:55.9] } 3. g3 { [%clk 0:09:49.3] }
+3... c6 { [%clk 0:09:53] } 4. Bg2 { [%clk 0:09:45.4] } 4... d5
+{ [%clk 0:09:46.9] } 5. e3 { [%clk 0:09:29.7] } 5... Be6 { [%clk 0:09:35.7] }
+6. Nge2 { [%clk 0:09:07.9] } 6... Be7 { [%clk 0:09:15.7] } 7. O-O
+{ [%clk 0:09:06] } 7... Qd7 { [%clk 0:09:13] } 8. h4 { [%clk 0:09:02.4] } 8...
+Bh3 { [%clk 0:09:10.4] } 9. cxd5 { [%clk 0:08:56] } 9... cxd5
+{ [%clk 0:08:34.9] } 10. d4 { [%clk 0:08:39.2] } 10... Bxg2
+{ [%clk 0:08:30.3] } 11. Kxg2 { [%clk 0:08:31.7] } 11... exd4
+{ [%clk 0:08:24.3] } 12. exd4 { [%clk 0:08:27.9] } 12... O-O
+{ [%clk 0:08:21.9] } 13. Bf4 { [%clk 0:08:19.8] } 13... Nc6
+{ [%clk 0:08:17.8] } 14. Rh1 { [%clk 0:07:29.7] } 14... Rfe8
+{ [%clk 0:08:04.5] } 15. h5 { [%clk 0:07:22.4] } 15... Ng4 { [%clk 0:07:27.6] }
+16. h6 { [%clk 0:07:02.9] } 16... Nxh6 { [%clk 0:07:19.5] } 17. Bxh6
+{ [%clk 0:06:58.7] } 17... gxh6 { [%clk 0:07:17.1] } 18. Rxh6
+{ [%clk 0:06:55.8] } 18... Bd6 { [%clk 0:06:58.1] } 19. Nxd5
+{ [%clk 0:06:37.1] } 19... Bf8 { [%clk 0:06:41.9] } 20. Nf6+
+{ [%clk 0:06:32.1] } 1-0
+

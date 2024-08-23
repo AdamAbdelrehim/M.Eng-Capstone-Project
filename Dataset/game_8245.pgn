@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Partake"]
+[Black "FIDE-Trainer1984"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/r8lME7u8"]
+[WhiteElo "2586"]
+[BlackElo "2555"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Tal Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:39:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. h4 h5 5. Bd3 Bxd3 6. Qxd3 Qa5+ 7. b4 Qa6 8. e6
+Qxd3 9. cxd3 fxe6 10. Nd2 e5 11. dxe5 e6 12. Rb1 Nd7 13. Ndf3 b5 14. Ne2 a5 15.
+bxa5 Rxa5 16. Nf4 Kf7 17. Ng5+ Ke7 18. Ng6+ 1-0
+

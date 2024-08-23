@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "ChessBoy_96"]
+[Black "Rimac_C2"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/LywtDxkn"]
+[WhiteElo "2433"]
+[BlackElo "2537"]
+[ECO "D96"]
+[Opening "Grünfeld Defense: Russian Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:33:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. Nf3 Bg7 5. Qb3 O-O 6. cxd5 c6 7. dxc6 Nxc6 8.
+e3 Be6 9. Qd1 Nd5 10. Nxd5 Bxd5 11. Be2 e5 12. dxe5 Nxe5 13. Nxe5 Bxe5 14. O-O
+Rc8 15. Bf3 Bxf3 16. Qxf3 Rc2 17. Qxb7 Qd3 18. e4 Bxh2+ 19. Kxh2 Qxf1 20. Bh6
+Qxf2 0-1
+

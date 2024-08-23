@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "AA2017"]
+[Black "d-pawn"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/w2UDU7NW"]
+[BlackTitle "CM"]
+[WhiteElo "2468"]
+[BlackElo "2589"]
+[ECO "D10"]
+[Opening "Slav Defense"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "02:03:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. cxd5 cxd5 5. h3 Nc6 6. Nf3 Bf5 7. e3 h6 8. Bb5
+Rc8 9. Qa4 Qb6 10. Ne5 e6 11. O-O Bd6 12. f4 O-O 13. Bd2 a6 14. Bxc6 bxc6 15.
+Bc1 Rc7 16. Qd1 Ne4 17. Nxe4 Bxe4 18. b3 f6 19. Nf3 c5 20. Bb2 c4 21. Rc1 Rfc8
+22. Ba1 Ba3 23. Rc3 Bb4 24. Rc1 c3 25. Ne1 c2 26. Qe2 Ba3 27. Nd3 Qb5 0-1
+

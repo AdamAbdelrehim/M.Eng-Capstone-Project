@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.08.29"]
+[Round "-"]
+[White "brandonpeate"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r1bqkbnr/pp1ppppp/2n5/2p5/4P3/2NP4/PPP2PPP/R1BQKBNR b KQkq -"]
+[Timezone "UTC"]
+[ECO "B23"]
+[ECOUrl "https://www.chess.com/openings/Closed-Sicilian-Defense-Portland-Attack"]
+[UTCDate "2022.08.29"]
+[UTCTime "23:30:11"]
+[WhiteElo "650"]
+[BlackElo "1858"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "23:30:11"]
+[EndDate "2022.08.29"]
+[EndTime "23:31:44"]
+[Link "https://www.chess.com/game/live/55554633279"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:10:00] } 2. Nc3 { [%clk 0:09:58.4] }
+2... Nc6 { [%clk 0:09:53.8] } 3. d3 { [%clk 0:09:35.9] } 0-1
+

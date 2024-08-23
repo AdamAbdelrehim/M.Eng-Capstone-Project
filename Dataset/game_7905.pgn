@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "vvchessli"]
+[Black "FIDE-Trainer1984"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/xHWiiFog"]
+[WhiteElo "2649"]
+[BlackElo "2531"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:55:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Nf3 Nc6 5. c4 Nf6 6. Nc3 e6 7. c5 a6 8. Bd3
+g6 9. O-O Bg7 10. a3 Ne4 11. Bxe4 dxe4 12. Nxe4 O-O 13. Be3 f5 14. Nd6 f4 15.
+Bc1 g5 16. d5 Ne5 17. Re1 Nxf3+ 18. Qxf3 e5 19. Nc4 g4 20. Qd1 Re8 21. b4 Qh4
+22. Bb2 f3 23. Bxe5 Rxe5 24. Nxe5 Bf5 25. Qd4 fxg2 26. Qf4 Rf8 27. Qg3 Qg5 28.
+d6 h5 29. d7 h4 30. Qb3+ Kh7 31. Rad1 Qf4 32. d8=Q Rxd8 33. Rxd8 Bxe5 34. Qf7+
+Kh6 35. Rxe5 Qxe5 36. Rd6+ Kg5 37. Qg8+ Kf4 38. Qc4+ Be4 39. Qc1+ Kf5 40. Rg6
+Kxg6 41. Qe1 Kf5 42. h3 gxh3 43. f4 Qxf4 44. Qf2 h2# 0-1
+

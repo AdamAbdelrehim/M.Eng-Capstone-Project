@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "tumaridodiegoni"]
+[Black "Ropatsch"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/XuqQrKqV"]
+[WhiteElo "2634"]
+[BlackElo "2455"]
+[ECO "E73"]
+[Opening "King's Indian Defense: Semi-Averbakh System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "04:21:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. c4 Nf6 2. Nc3 g6 3. e4 Bg7 4. d4 O-O 5. Be2 d6 6. Be3 Nc6 7. d5 Ne5 8. f4
+Neg4 9. Bd2 Nh6 10. Nf3 e6 11. O-O c6 12. e5 dxe5 13. fxe5 Nfg4 14. h3 Qb6+ 15.
+Kh1 Nf2+ 16. Rxf2 Qxf2 17. Ne4 Qb6 18. d6 Qxb2 19. Rb1 Qxa2 20. Qc1 Nf5 21. g4
+c5 22. Ra1 Qb3 23. gxf5 exf5 24. Ra3 Qb6 25. Ba5 Qc6 26. Nf6+ Bxf6 27. exf6 b6
+28. Qh6 1-0
+

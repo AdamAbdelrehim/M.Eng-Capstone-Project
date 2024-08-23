@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "nemam_blage_veze"]
+[Black "johndoe695"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/hYC8pYmn"]
+[WhiteTitle "FM"]
+[WhiteElo "2440"]
+[BlackElo "2592"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:29:28"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. Nf3 d5 3. g3 e6 4. Bg2 Be7 5. O-O O-O 6. Nc3 b6 7. Ne5 Bb7 8. f4
+c5 9. e3 Nc6 10. Kh1 cxd4 11. exd4 Rc8 12. f5 exf5 13. Rxf5 Nxe5 14. dxe5 Ne4
+15. Bxe4 dxe4 16. Be3 Qxd1+ 17. Rxd1 Bb4 18. Rd7 Bc6 19. Rxa7 Bxc3 20. bxc3 Bd5
+21. Bd4 e3+ 22. Kg1 Be4 23. Rf4 Bxc2 24. Bxe3 Rxc3 25. Bxb6 Bg6 26. e6 fxe6 27.
+Rxf8+ Kxf8 28. Bd4 Rc1+ 29. Kf2 Rc2+ 30. Ke3 Rxh2 31. Bxg7+ Ke8 32. Be5 Bf5 33.
+Kf4 Re2 34. Bd6 Re4+ 35. Kg5 Rg4+ 36. Kf6 Rg6+ 37. Ke5 Rxg3 38. a4 h5 39. a5 h4
+40. a6 h3 41. Re7+ Kd8 42. a7 Re3+ 43. Kf6 Be4 44. Kxe6 Ba8+ 45. Kf6 h2 46.
+Rxe3 h1=Q 47. Be7+ Kc8 48. Rc3+ Kb7 49. Rb3+ Kxa7 50. Bc5+ Ka6 51. Rb6+ Ka5 52.
+Rb8 Qf3+ 53. Ke5 Qc6 54. Kd4 Qd5+ 0-1
+

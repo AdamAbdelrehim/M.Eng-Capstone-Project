@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "DimaGrand"]
+[Black "huangjiafangdan"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/uQbPURAu"]
+[WhiteElo "2850"]
+[BlackElo "2618"]
+[ECO "D90"]
+[Opening "Grünfeld Defense: Three Knights Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:57:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-2"]
+
+1. Nf3 g6 2. d4 Nf6 3. c4 Bg7 4. Nc3 d5 5. h4 c6 6. cxd5 cxd5 7. Bf4 Nc6 8. e3
+Bg4 9. Qb3 O-O 10. Qxb7 Na5 11. Qc7 Qxc7 12. Bxc7 Nc4 13. Ne5 Nxe5 14. Bxe5
+Rfc8 15. Ba6 Re8 16. f3 Be6 17. g4 Nd7 18. Bxg7 Kxg7 19. h5 Nb6 20. hxg6 hxg6
+21. Kd2 Rab8 22. b3 Bc8 23. Bd3 e5 24. dxe5 Rxe5 25. f4 Re8 26. g5 Bg4 27. Rh4
+Bh5 28. Rah1 Rbd8 29. f5 Re5 30. f6+ Kg8 31. Rg1 Rde8 32. e4 Rd8 33. exd5 Nxd5
+34. Rd4 Rd7 35. Nxd5 Rexd5 36. Rxd5 Rxd5 37. b4 Bg4 38. Rxg4 1-0
+

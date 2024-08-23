@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Mrios"]
+[Black "vrencianLehel"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/fSt0Lt3T"]
+[WhiteTitle "FM"]
+[BlackTitle "FM"]
+[WhiteElo "2546"]
+[BlackElo "2478"]
+[ECO "B80"]
+[Opening "Sicilian Defense: Scheveningen Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:05:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 d6 4. d4 cxd4 5. Nxd4 Nf6 6. Be3 Nc6 7. f3 Be7 8. Qd2
+O-O 9. O-O-O d5 10. Kb1 Bb4 11. a3 Bxc3 12. Qxc3 dxe4 13. Bb5 Nd5 14. Qb3 Na5
+15. Qa4 Nxe3 16. Nxe6 Qb6 17. Nxf8 Nxd1 18. Rxd1 Kxf8 19. Qxe4 Be6 20. Qxh7 Rd8
+21. Bd3 Nc4 22. Qh8+ Ke7 23. Qxg7 Nxa3+ 24. Kc1 Qe3+ 25. Rd2 Nc4 0-1
+

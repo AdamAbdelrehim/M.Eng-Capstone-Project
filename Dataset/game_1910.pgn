@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Heiko_Briesen"]
+[Black "pbkttc"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/3K7takQo"]
+[WhiteElo "2456"]
+[BlackElo "2543"]
+[ECO "E00"]
+[Opening "Catalan Opening"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:14:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 d6 5. Nc3 g6 6. Nf3 Bg7 7. Bg2 O-O 8. O-O Re8
+9. Bf4 e5 10. Bd2 Na6 11. e4 Rf8 12. Ne1 Bg4 13. f3 Bd7 14. a3 Nh5 15. Nd3 f5
+16. b4 b6 17. Rb1 f4 18. Qe1 g5 19. Kh1 Rf6 20. Rg1 Nxg3+ 21. hxg3 Rh6+ 0-1
+

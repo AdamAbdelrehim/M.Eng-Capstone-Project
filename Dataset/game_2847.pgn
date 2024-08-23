@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Sambaw"]
+[Black "Trullebullen"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/iPjRrHlt"]
+[WhiteElo "2500"]
+[BlackElo "2435"]
+[ECO "C41"]
+[Opening "Philidor Defense: Lion Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:26:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 e5 4. Nf3 Nbd7 5. Be2 Be7 6. g4 Nxg4 7. Rg1 Nb6 8. h3
+exd4 9. Nxd4 Ne5 10. Rxg7 Ng6 11. Nf5 Bf6 12. Nd5 Bxf5 13. exf5 Bxg7 14. fxg6
+hxg6 15. c3 c6 16. Nxb6 axb6 17. Bf4 d5 18. Bg4 f5 19. Bf3 Qe7+ 20. Kd2 Kf7 21.
+Qg1 Rae8 22. Be3 Bh6 23. Re1 Bxe3+ 24. Rxe3 Qf6 25. Qg2 Rxe3 26. fxe3 Qe5 0-1
+

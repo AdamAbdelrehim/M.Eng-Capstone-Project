@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Romsta"]
+[Black "BigOleDoinks"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/mkOlCr0j"]
+[WhiteTitle "IM"]
+[WhiteElo "2543"]
+[BlackElo "2666"]
+[ECO "A07"]
+[Opening "King's Indian Attack: Pachman System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "06:19:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. Nf3 g6 2. g3 Bg7 3. Bg2 e5 4. O-O d5 5. d3 Ne7 6. c4 c6 7. Nbd2 O-O 8. Qc2
+h6 9. Rb1 a5 10. a3 f5 11. e3 Nd7 12. b4 axb4 13. axb4 e4 14. Nd4 Ne5 15. dxe4
+fxe4 16. cxd5 cxd5 17. N2b3 Bg4 18. h3 Nf3+ 19. Nxf3 Bxf3 20. Bxf3 exf3 21. Bb2
+Qd7 22. Kh2 Rf5 23. Nc5 Qc8 24. Bxg7 Rh5 25. h4 Rxh4+ 26. gxh4 Qg4 0-1
+

@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Blauregen"]
+[Black "Knights4base"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/yd0Ca1G2"]
+[BlackTitle "IM"]
+[WhiteElo "2435"]
+[BlackElo "2553"]
+[ECO "A42"]
+[Opening "Modern Defense: Kotov Variation"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:33:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 g6 2. c4 Bg7 3. Nc3 d6 4. e4 Nc6 5. Be3 e5 6. d5 Nce7 7. Bd3 f5 8. f3 Nf6
+9. exf5 Nxf5 10. Bg5 O-O 11. Nge2 h6 12. Bxf6 Qxf6 13. Ne4 Qh4+ 14. g3 Qh3 15.
+Qd2 Qg2 16. Rf1 Qxh2 17. O-O-O Nd4 18. Nxd4 Qxd2+ 19. Kxd2 exd4 20. g4 Be5 21.
+Ke2 Kg7 22. c5 dxc5 23. Nxc5 Re8 24. Be4 Bd6 25. Nd3 Bxg4 26. Kd2 Bd7 27. Rc1
+Rf8 28. Nc5 Bf5 29. Ne6+ Bxe6 30. dxe6 c6 31. Kd3 Be5 32. Rc5 Bf6 33. f4 Be7
+34. Rc4 Rf6 35. f5 gxf5 36. Bxf5 Raf8 37. Ke4 c5 38. Rc2 Rxe6+ 39. Bxe6 Rxf1
+40. Rg2+ Kf6 41. Kd5 d3 42. Bg4 Rf4 43. Bd1 Rd4# 0-1
+

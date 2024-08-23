@@ -1,0 +1,23 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "elsas"]
+[Black "AndreyGnidenko"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/3KZnf8yD"]
+[WhiteTitle "FM"]
+[WhiteElo "2456"]
+[BlackElo "2549"]
+[ECO "D85"]
+[Opening "Grünfeld Defense: Exchange Variation"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:05:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-8"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. Bd2 Bg7 6. e4 Nb6 7. Be3 O-O 8.
+Qd2 Nc6 9. O-O-O f5 10. e5 Be6 11. d5 1-0
+

@@ -1,0 +1,43 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Nikitosikbot_v2"]
+[Black "caissa-x"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/jWOBTX2J"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3019"]
+[BlackElo "3029"]
+[ECO "D46"]
+[Opening "Semi-Slav Defense: Chigorin Defense"]
+[TimeControl "900+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:30:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. c4 Nf6 2. d4 e6 3. Nf3 d5 4. Nc3 c6 5. e3 Nbd7 6. Qc2 Bd6 7. Bd3 dxc4 8.
+Bxc4 O-O 9. O-O b5 10. Bd3 Bb7 11. a3 Re8 12. h3 a6 13. b4 a5 14. bxa5 Qxa5 15.
+Bb2 h6 16. Rfc1 Bf8 17. Nd2 Rec8 18. Nb3 Qa7 19. Qd1 Qb8 20. Qe2 Rc7 21. Qd1
+Rc8 22. Qe2 Rc7 23. a4 bxa4 24. Nxa4 Ba6 25. Bxa6 Qxb3 26. Bc4 Qb4 27. Bc3 Qd6
+28. Qd1 c5 29. dxc5 Qxd1+ 30. Rxd1 Nxc5 31. Be5 Rcc8 32. Nxc5 Rxa1 33. Bxa1
+Rxc5 34. Be2 Be7 35. Bd4 Rc2 36. Bf3 Nh7 37. Be4 Rc4 38. Bd3 Rc8 39. Be4 Bf6
+40. Bxh7+ Kxh7 41. Bxf6 gxf6 42. Kh2 h5 43. Rb1 Rc4 44. g3 Rc2 45. Kg2 Ra2 46.
+Kf3 Ra5 47. Ke2 Kg7 48. Rd1 Kh7 49. Rd7 Kg7 50. Rd2 Kh6 51. Rd4 f5 52. Rf4 Ra2+
+53. Kf1 Kg6 54. Rb4 e5 55. Rc4 f6 56. Kg2 Ra8 57. Rb4 Rc8 58. Kf3 Rc2 59. Rb8
+h4 60. g4 fxg4+ 61. hxg4 Kg7 62. Rb7+ Kg6 63. Rb8 Kg7 64. Rb7+ Kh6 65. Kg2 Ra2
+66. Rf7 Kg6 67. Rf8 Kg7 68. Rc8 Ra1 69. Rb8 Rc1 70. Rb7+ Kg6 71. Rb8 Kg7 72.
+Rb7+ Kg6 73. f4 exf4 74. exf4 Rc3 75. g5 h3+ 76. Kh2 Rc2+ 77. Kxh3 fxg5 78.
+fxg5 Kxg5 79. Rh7 Kf4 80. Rg7 Ke4 81. Ra7 Kd5 82. Rb7 Rc1 83. Rb8 Kd6 84. Rb4
+Kc7 85. Rf4 Rg1 86. Rb4 Rh1+ 87. Kg2 Ra1 88. Rb3 Kc6 89. Kf2 Rh1 90. Rf3 Rh8
+91. Kg1 Ra8 92. Rf6+ Kc5 93. Re6 Ra2 94. Re3 Kb5 95. Rf3 Kb4 96. Kh1 Rd2 97.
+Rg3 Kc5 98. Rb3 Kc4 99. Rb8 Ra2 100. Rf8 Ra1+ 101. Kh2 Kb4 102. Kh3 Rh1+ 103.
+Kg3 Rg1+ 104. Kh3 Ra1 105. Rg8 Rh1+ 106. Kg2 Ra1 107. Rg3 Ra8 108. Re3 Rg8+
+109. Kf1 Ra8 110. Re5 Rf8+ 111. Ke2 Ra8 112. Re4+ Kc5 113. Rh4 Ra1 114. Kf3 Re1
+115. Ra4 Rh1 116. Ra6 Kb5 117. Rg6 Rh8 118. Ke3 Re8+ 119. Kd2 Rd8+ 120. Kc2 Rh8
+121. Rg7 Rh1 122. Rg3 Kc4 123. Rd3 Rh2+ 124. Rd2 Rh3 125. Re2 Rc3+ 126. Kd2
+Rd3+ 127. Kc1 Kd4 128. Re7 Rd1+ 1/2-1/2
+

@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "cibona"]
+[Black "nohaxjustlgbtq"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/qC4VV1h4"]
+[WhiteElo "2532"]
+[BlackElo "2467"]
+[ECO "A48"]
+[Opening "Queen's Pawn Game: Torre Attack, Grünfeld Variation, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:45:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. c3 e6 7. Ne5 c5 8. f4
+Nc6 9. Bd3 h6 10. Bh4 Qe8 11. Qf3 Nd7 12. O-O Ndxe5 13. fxe5 Ne7 14. Bf6 Nf5
+15. g4 Bxf6 16. exf6 Nd6 17. Qf4 1-0
+

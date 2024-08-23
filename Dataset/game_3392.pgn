@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "zaplya"]
+[Black "manneredmonkey"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/v4hHki8S"]
+[BlackTitle "NM"]
+[WhiteElo "2526"]
+[BlackElo "2567"]
+[ECO "A49"]
+[Opening "Indian Defense: Przepiorka Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:43:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. O-O d6 6. b3 Nbd7 7. Bb2 a5 8. c4
+a4 9. Nc3 a3 10. Bc1 Re8 11. Na4 e5 12. dxe5 Ng4 13. Bxa3 Ndxe5 14. Nxe5 Nxe5
+15. Bb2 Bd7 16. Nc3 Qc8 17. a4 Bh3 18. Rb1 Bxg2 19. Kxg2 c6 20. e3 Rd8 21. Ne4
+Qc7 22. Qe2 Re8 23. Ng5 h6 24. Nf3 Nxf3 25. Qxf3 Bxb2 26. Rxb2 Re5 27. Rd1 Rae8
+28. Rbd2 R8e6 29. Qf4 Rf5 30. Qxh6 Ref6 31. f4 g5 32. Qh3 Qe7 33. Rxd6 Qe4+ 34.
+Kf2 Rxd6 35. Rxd6 Qc2+ 36. Kf3 Qd1+ 37. Rxd1 1-0
+

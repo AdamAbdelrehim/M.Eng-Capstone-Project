@@ -1,0 +1,39 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.06"]
+[Round "-"]
+[White "anton2020M"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "3r2k1/p1p2ppp/b1p5/8/4N3/4P2P/PPP3PN/3RQ1K1 b - -"]
+[Timezone "UTC"]
+[ECO "C60"]
+[ECOUrl "https://www.chess.com/openings/Ruy-Lopez-Opening-Spanish-Countergambit"]
+[UTCDate "2021.02.06"]
+[UTCTime "18:29:33"]
+[WhiteElo "1282"]
+[BlackElo "1294"]
+[TimeControl "600"]
+[Termination "anton2020M won by resignation"]
+[StartTime "18:29:33"]
+[EndDate "2021.02.06"]
+[EndTime "18:32:37"]
+[Link "https://www.chess.com/game/live/6471826254"]
+
+1. e4 { [%clk 0:09:58.6] } 1... e5 { [%clk 0:09:58.5] } 2. Nf3
+{ [%clk 0:09:57.1] } 2... Nc6 { [%clk 0:09:56.3] } 3. Bb5 { [%clk 0:09:55.1] }
+3... d5 { [%clk 0:09:47.7] } 4. Bxc6+ { [%clk 0:09:51.2] } 4... bxc6
+{ [%clk 0:09:44.6] } 5. exd5 { [%clk 0:09:49.3] } 5... Qxd5 { [%clk 0:09:41] }
+6. h3 { [%clk 0:09:45.6] } 6... Nf6 { [%clk 0:09:36.6] } 7. O-O
+{ [%clk 0:09:43.3] } 7... Ba6 { [%clk 0:09:34.3] } 8. d3 { [%clk 0:09:40.3] }
+8... e4 { [%clk 0:09:31] } 9. Re1 { [%clk 0:09:37.9] } 9... Bc5
+{ [%clk 0:09:24.2] } 10. Nh2 { [%clk 0:09:12.4] } 10... O-O
+{ [%clk 0:09:18.1] } 11. dxe4 { [%clk 0:09:08.2] } 11... Qxe4
+{ [%clk 0:09:14.7] } 12. Rxe4 { [%clk 0:09:06] } 12... Nxe4
+{ [%clk 0:09:14.1] } 13. Be3 { [%clk 0:08:42.5] } 13... Bxe3
+{ [%clk 0:09:05.6] } 14. fxe3 { [%clk 0:08:40.9] } 14... Rad8
+{ [%clk 0:09:03.9] } 15. Qe1 { [%clk 0:08:19.2] } 15... Rd6
+{ [%clk 0:08:57.6] } 16. Nc3 { [%clk 0:08:16.9] } 16... Rfd8
+{ [%clk 0:08:55.5] } 17. Nxe4 { [%clk 0:08:13.8] } 17... Rd1
+{ [%clk 0:08:55.1] } 18. Rxd1 { [%clk 0:08:11.9] } 1-0
+

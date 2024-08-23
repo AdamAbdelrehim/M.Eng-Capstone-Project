@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Lynx_BOT"]
+[Black "fastRLchess"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/YQPpzZUN"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2505"]
+[BlackElo "2772"]
+[ECO "C69"]
+[Opening "Ruy Lopez: Exchange Variation, King's Bishop Variation"]
+[TimeControl "60+5"]
+[UTCDate "2024.06.01"]
+[UTCTime "00:11:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+5"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bd6 6. d4 exd4 7. Qxd4 f6 8.
+Re1 Ne7 9. e5 fxe5 10. Nxe5 O-O 11. Nc3 Qe8 12. Qc4+ Kh8 13. Bf4 b5 14. Qd4 c5
+15. Qe3 Bb7 16. Bg3 Nf5 17. Qg5 b4 18. Nd1 Rf6 19. Nd3 Qc6 20. f3 Nd4 21. Ne3
+Nxf3+ 22. gxf3 Qxf3 23. Nf2 Rg6 24. Qf5 Rxg3+ 25. hxg3 Qxg3+ 26. Kf1 Rf8 27.
+Qxf8+ Bxf8 28. a3 h6 29. c4 bxc3 30. bxc3 Be7 31. Rab1 Bf3 32. Rb8+ Kh7 33. Re2
+c4 34. a4 Qh2 35. Ke1 Qh5 36. Rbb2 Bf6 37. Nfd1 Qh1+ 38. Kd2 Bg5 39. Re1 Qh4
+40. Rc2 Qg3 41. a5 Bxd1 42. Kxd1 Bxe3 43. Rxe3 Qxe3 44. Rc1 Qd3+ 45. Ke1 Qg3+
+46. Kd2 Qd3+ 47. Ke1 Kg8 48. Rd1 Qe3+ 49. Kf1 Qf3+ 50. Ke1 Qxc3+ 51. Ke2 Kh8
+52. Rd2 Kg8 53. Rd1 Qb3 54. Re1 Kh7 55. Kf2 Qb2+ 56. Kf3 Qc3+ 57. Kf2 Qd2+ 58.
+Re2 Qd1 59. Kf3 c3 60. Ke3 c6 61. Kf2 c5 62. Ke3 Qd4+ 63. Kf3 Qd5+ 64. Kf2 c2
+65. Rxc2 Qf5+ 66. Ke2 Qxc2+ 67. Ke3 Qd1 68. Ke4 Kg8 69. Ke5 Kf7 70. Kf4 Qb3 71.
+Ke4 Ke7 72. Kf5 Kf7 73. Ke4 g5 74. Kf5 Qe6# 0-1
+

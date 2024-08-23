@@ -1,0 +1,30 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "PetersBot"]
+[Black "caissa-x"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/W9o9pIhu"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2978"]
+[BlackElo "3034"]
+[ECO "C80"]
+[Opening "Ruy Lopez: Open, Main Line"]
+[TimeControl "900+4"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:06:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Be3 Be7 10. c3 O-O 11. Nbd2 Nxd2 12. Qxd2 Na5 13. Nd4 Nc4 14. Nxe6 fxe6
+15. Qe2 Nxe3 16. Qxe3 c5 17. Bc2 g6 18. h4 Bxh4 19. Qh3 Qg5 20. Qxe6+ Kg7 21.
+Qh3 Rae8 22. g3 Qd2 23. Rac1 Rxf2 24. Rxf2 Qxc1+ 25. Kg2 Bg5 26. Qd7+ Re7 27.
+Qxd5 Qe3 28. Be4 Kh6 29. Qa8 c4 30. e6 Rg7 31. Qd5 Re7 32. Qe5 Re8 33. Rf1 Qe2+
+34. Rf2 Qe3 35. Rf3 Qe1 36. a4 Rd8 37. Rf7 Qe2+ 38. Rf2 Qe3 39. axb5 axb5 40.
+Rf7 Qe2+ 41. Rf2 Qe3 42. e7 Rd2 43. Rxd2 Qxd2+ 44. Kf1 Qc1+ 45. Kf2 Qe3+ 46.
+Kf1 Qc1+ 47. Kg2 Qd2+ 48. Kf1 Qc1+ 1/2-1/2
+

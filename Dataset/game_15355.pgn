@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "gefuehlter_FM"]
+[Black "Masterasasin"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/2aQHFj2l"]
+[WhiteElo "2735"]
+[BlackElo "2537"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Goldman Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:23:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+
+1. e4 c6 2. Nc3 d5 3. Qf3 d4 4. Bc4 Nf6 5. e5 dxc3 6. exf6 exf6 7. dxc3 Bd6 8.
+Bf4 Bxf4 9. Qxf4 O-O 10. Ne2 Nd7 11. O-O Ne5 12. Bb3 Re8 13. Ng3 Be6 14. Rfe1
+Qb6 15. Re3 Bxb3 16. axb3 Ng6 17. Qd4 Rxe3 18. Qxb6 Re1+ 19. Rxe1 axb6 20. Rb1
+Kf8 21. Kf1 Nf4 22. Nf5 g6 23. Nd6 Rd8 24. Ne4 f5 25. Ng5 Rd2 26. Rc1 f6 27.
+Nf3 Rd8 28. g3 Nd5 29. Ra1 Rb8 30. Nd4 Ke7 31. Ra7 Kd6 32. Ra1 Kc7 33. Re1 Kd7
+34. c4 Nc7 35. Rd1 Ke7 36. Ra1 Kd7 37. Rd1 Ke7 38. h4 Rd8 39. Re1+ Kf7 40. c3
+Ra8 41. Rd1 Ra2 42. Rd2 Ne6 43. Ne2 Nc5 44. b4 Ne4 45. Rd7+ Ke8 46. Rxb7 Rxb2
+47. Rxb6 c5 48. bxc5 Rc2 49. c6 Nxc3 50. Rb8+ Ke7 51. Nxc3 Rxc3 52. c7 Rxc4 53.
+c8=Q Rxc8 54. Rxc8 1-0
+

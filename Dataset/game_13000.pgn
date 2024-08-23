@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "QuantGuy"]
+[Black "FIDE-Trainer1984"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/d7a7LqrP"]
+[WhiteElo "2507"]
+[BlackElo "2557"]
+[ECO "B13"]
+[Opening "Caro-Kann Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:45:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "+26"]
+[BlackRatingDiff "-6"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nc6 5. c3 Qc7 6. h3 e6 7. Nf3 Bd6 8. O-O
+Nge7 9. b3 O-O 10. Bb2 Bd7 11. Re1 a6 12. Nbd2 Rfd8 13. Rc1 h6 14. Nf1 Rac8 15.
+Bb1 Ng6 16. Ne3 Nf4 17. Qc2 g6 18. Qd2 Bf8 19. Ng4 Bg7 20. Nfe5 g5 21. Qc2 f5
+22. Nxc6 Bxc6 23. Ne5 Be8 24. Qd2 Ng6 25. Nd3 Bf7 26. Nc5 Re8 27. c4 dxc4 28.
+bxc4 Rcd8 29. Nb3 Nf4 30. Bd3 Qd7 31. Bf1 Qa4 32. Bc3 Qxc4 33. Bxc4 1-0
+

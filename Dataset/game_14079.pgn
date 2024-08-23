@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "HL7"]
+[Black "spago"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/pOaEUDVF"]
+[WhiteElo "2482"]
+[BlackElo "2522"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:54:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Nc6 5. c3 Bd6 6. Nf3 Bg4 7. h3 Bh5 8. Be3
+Nge7 9. Nbd2 Qd7 10. O-O Bg6 11. Bxg6 hxg6 12. b4 O-O 13. a4 Nf5 14. Qc2 Rfe8
+15. Rae1 Nxe3 16. fxe3 Bg3 17. Re2 Ne7 18. e4 dxe4 19. Nxe4 Nf5 20. Nxg3 Nxg3
+21. Rxe8+ Rxe8 22. Rd1 Re2 23. Rd2 Rxd2 24. Qxd2 Qxa4 25. Qe1 Nf5 26. g4 Nd6
+27. Qe7 Qa1+ 28. Kg2 Qxc3 29. Qd8+ Kh7 30. Ng5+ Kh6 31. Nxf7+ Nxf7 32. Qh4# 1-0
+

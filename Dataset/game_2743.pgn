@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "train_account"]
+[Black "vitaliysnatenkov"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/rofzycEC"]
+[WhiteElo "2583"]
+[BlackElo "2484"]
+[ECO "D21"]
+[Opening "Queen's Gambit Accepted: Gunsberg Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:11:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. d4 d5 2. Nf3 c5 3. c4 dxc4 4. d5 e6 5. Nc3 a6 6. a4 Nf6 7. e4 exd5 8. e5
+Nbd7 9. Bg5 Nxe5 10. Nxe5 Be7 11. Be2 O-O 12. O-O Be6 13. f4 h6 14. Bxf6 Bxf6
+15. Bf3 d4 16. Ne4 Rb8 17. a5 Bxe5 18. fxe5 Qc7 19. Nd6 f6 20. Qe2 Rfd8 21. Bg4
+Bxg4 22. Qxg4 Rxd6 23. exd6 Qxd6 24. Rae1 b6 25. axb6 Qxb6 26. Re6 Qc7 27.
+Rexf6 c3 28. Qe6+ Kh8 29. Rf8+ Rxf8 30. Rxf8+ Kh7 31. Qf5+ g6 32. Rf7+ Qxf7 33.
+Qxf7+ Kh8 34. Qxg6 cxb2 35. Qc2 c4 36. Qxb2 c3 37. Qb4 c2 38. Qxd4+ Kg8 39. Qc3
+Kf7 40. Qxc2 Ke6 41. Qa4 Kd5 42. Qxa6 Kd4 43. Qxh6 Ke4 44. Qg6+ Kd5 45. Qf7+
+Ke5 46. g4 Kd6 47. g5 Ke5 48. g6 Kd6 49. g7 Ke5 50. g8=Q Ke4 51. Qge8+ Kd4 52.
+Qfd7+ Kc5 53. Qec8+ Kb6 54. Qdb7+ Ka5 55. Qca8# 1-0
+

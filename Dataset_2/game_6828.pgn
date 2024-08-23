@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.12.14"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Marquitos101"]
+[Result "0-1"]
+[CurrentPosition "r2qkbnr/1p2pppp/2n5/1pppPb2/5P2/5N2/PPPP2PP/RNBQ1RK1 w kq -"]
+[Timezone "UTC"]
+[ECO "B01"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-2.e5-c5"]
+[UTCDate "2022.12.14"]
+[UTCTime "05:18:11"]
+[WhiteElo "1768"]
+[BlackElo "1803"]
+[TimeControl "600"]
+[Termination "Marquitos101 won by resignation"]
+[StartTime "05:18:11"]
+[EndDate "2022.12.14"]
+[EndTime "05:18:44"]
+[Link "https://www.chess.com/game/live/64734126995"]
+
+1. e4 { [%clk 0:10:00] } 1... d5 { [%clk 0:09:59.7] } 2. e5
+{ [%clk 0:09:54.7] } 2... c5 { [%clk 0:09:57.7] } 3. f4 { [%clk 0:09:52.5] }
+3... Bf5 { [%clk 0:09:56.6] } 4. Bb5+ { [%clk 0:09:46] } 4... Nc6
+{ [%clk 0:09:55.7] } 5. Nf3 { [%clk 0:09:41.9] } 5... a6 { [%clk 0:09:54.6] }
+6. O-O { [%clk 0:09:40.1] } 6... axb5 { [%clk 0:09:53.1] } 0-1
+

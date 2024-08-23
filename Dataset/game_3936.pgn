@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "MeurendeBende"]
+[Black "Taya_BKD"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/6nWbbk9s"]
+[WhiteElo "2613"]
+[BlackElo "2447"]
+[ECO "A00"]
+[Opening "Ware Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:56:24"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. a4 c5 2. a5 Nc6 3. a6 b6 4. g3 e5 5. Bg2 Nge7 6. d3 g6 7. c4 Bg7 8. Nc3 Rb8
+9. Nf3 h6 10. Nd2 O-O 11. Nf1 d6 12. Ne3 f5 13. Ned5 Be6 14. O-O Rc8 15. Nb5
+Kh7 16. Bd2 Qd7 17. Qa4 Ng8 18. b4 Rf7 19. bxc5 dxc5 20. Rad1 Nd4 21. Ndc3 Ne7
+22. Nxd4 cxd4 23. Qxd7 Bxd7 24. Nb5 Bxb5 25. cxb5 Ng8 26. Bb4 Rc2 27. Rfe1 Bf8
+28. Bxf8 Rxf8 29. Rc1 Rfc8 30. Bc6 Rxc1 31. Rxc1 Ne7 32. e3 Kg7 33. exd4 exd4
+34. Rc4 Kf7 35. Rxd4 Nxc6 36. bxc6 Rxc6 37. Rd7+ Ke6 38. Rxa7 Rc3 39. Rb7 Rxd3
+40. Rxb6+ Kf7 41. h4 h5 42. Kf1 Ra3 43. Ke2 Kg7 44. Kd2 Kh7 45. Kc2 Kg7 46. Kb2
+Ra5 47. Kb3 Kh6 48. Kb4 Ra1 49. Kb5 Ra2 50. Rb8 Rb2+ 51. Kc6 Rxb8 52. a7 Ra8
+53. Kb7 Rxa7+ 54. Kxa7 g5 55. f4 gxh4 56. gxh4 1-0
+

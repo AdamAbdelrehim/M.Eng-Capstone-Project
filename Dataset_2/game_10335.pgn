@@ -1,0 +1,49 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.04"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "azkaisme"]
+[Result "1-0"]
+[CurrentPosition "7R/4kp2/4b2p/6p1/8/2B2P1P/rP4P1/6K1 b - -"]
+[Timezone "UTC"]
+[ECO "B32"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Open-Lowenthal-Variation-5.Nf3-Nf6"]
+[UTCDate "2023.10.04"]
+[UTCTime "02:59:31"]
+[WhiteElo "1881"]
+[BlackElo "1983"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "02:59:31"]
+[EndDate "2023.10.04"]
+[EndTime "03:06:05"]
+[Link "https://www.chess.com/game/live/90127191207"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:09:59.1] } 2. Nf3 { [%clk 0:09:59] }
+2... Nc6 { [%clk 0:09:57.6] } 3. d4 { [%clk 0:09:58.6] } 3... cxd4
+{ [%clk 0:09:56.4] } 4. Nxd4 { [%clk 0:09:56.3] } 4... e5 { [%clk 0:09:55.2] }
+5. Nf3 { [%clk 0:09:54] } 5... Nf6 { [%clk 0:09:53.2] } 6. Nc3
+{ [%clk 0:09:53.3] } 6... Be7 { [%clk 0:09:50.7] } 7. Bc4 { [%clk 0:09:52.9] }
+7... d6 { [%clk 0:09:49.3] } 8. O-O { [%clk 0:09:52.4] } 8... Bg4
+{ [%clk 0:09:45.5] } 9. h3 { [%clk 0:09:50.9] } 9... Bh5 { [%clk 0:09:44.1] }
+10. Be2 { [%clk 0:09:50.3] } 10... O-O { [%clk 0:09:38.6] } 11. Nxe5
+{ [%clk 0:09:16.2] } 11... Bxe2 { [%clk 0:09:34.5] } 12. Nxc6
+{ [%clk 0:09:05.9] } 12... Bxd1 { [%clk 0:09:31.1] } 13. Nxd8
+{ [%clk 0:09:04.8] } 13... Bxc2 { [%clk 0:09:22.1] } 14. Nxb7
+{ [%clk 0:09:03.2] } 14... Rab8 { [%clk 0:09:08.2] } 15. Na5
+{ [%clk 0:08:55.1] } 15... Bd8 { [%clk 0:08:53.6] } 16. Nc6
+{ [%clk 0:08:44.4] } 16... Rc8 { [%clk 0:08:52.3] } 17. Nxd8
+{ [%clk 0:08:42.9] } 17... Rfxd8 { [%clk 0:08:50.1] } 18. f3
+{ [%clk 0:08:32.3] } 18... h6 { [%clk 0:08:41] } 19. Be3 { [%clk 0:08:28] }
+19... d5 { [%clk 0:08:26.8] } 20. Nxd5 { [%clk 0:08:19.9] } 20... Nxd5
+{ [%clk 0:08:25.1] } 21. exd5 { [%clk 0:08:18.4] } 21... Rxd5
+{ [%clk 0:08:23.6] } 22. Rac1 { [%clk 0:08:01.1] } 22... Bf5
+{ [%clk 0:08:14.5] } 23. Rxc8+ { [%clk 0:07:57.7] } 23... Bxc8
+{ [%clk 0:08:13.1] } 24. Bxa7 { [%clk 0:07:51.1] } 24... Ra5
+{ [%clk 0:08:05.1] } 25. Re1 { [%clk 0:07:06] } 25... Be6 { [%clk 0:08:01.1] }
+26. Bd4 { [%clk 0:06:50.4] } 26... Rxa2 { [%clk 0:07:59] } 27. Bc3
+{ [%clk 0:06:36.9] } 27... g5 { [%clk 0:07:53.4] } 28. Rd1 { [%clk 0:06:34.7] }
+28... Kf8 { [%clk 0:07:45] } 29. Rd8+ { [%clk 0:06:20.4] } 29... Ke7
+{ [%clk 0:07:43.5] } 30. Rh8 { [%clk 0:06:10.2] } 1-0
+

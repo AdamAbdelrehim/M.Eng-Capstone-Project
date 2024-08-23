@@ -1,0 +1,39 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.07"]
+[Round "-"]
+[White "Ziqubu117"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1bnR1k1/ppp2ppp/3p1q2/1P6/3Q4/P1B4P/2P2PP1/6K1 b - -"]
+[Timezone "UTC"]
+[ECO "C22"]
+[ECOUrl "https://www.chess.com/openings/Center-Game-Accepted-Normal-Variation"]
+[UTCDate "2021.10.07"]
+[UTCTime "22:48:36"]
+[WhiteElo "1251"]
+[BlackElo "1248"]
+[TimeControl "300"]
+[Termination "Ziqubu117 won by checkmate"]
+[StartTime "22:48:36"]
+[EndDate "2021.10.07"]
+[EndTime "22:51:17"]
+[Link "https://www.chess.com/game/live/27385809159"]
+
+1. e4 { [%clk 0:04:58.7] } 1... e5 { [%clk 0:04:58.5] } 2. d4
+{ [%clk 0:04:57.7] } 2... exd4 { [%clk 0:04:56.5] } 3. Qxd4
+{ [%clk 0:04:56.4] } 3... Nc6 { [%clk 0:04:55.7] } 4. Qd1 { [%clk 0:04:54.5] }
+4... Nf6 { [%clk 0:04:55.1] } 5. Bd3 { [%clk 0:04:51.8] } 5... Bd6
+{ [%clk 0:04:54.5] } 6. a3 { [%clk 0:04:50] } 6... O-O { [%clk 0:04:52.9] } 7.
+h3 { [%clk 0:04:48.8] } 7... Re8 { [%clk 0:04:51.8] } 8. Nc3 { [%clk 0:04:45] }
+8... Be5 { [%clk 0:04:47.1] } 9. Bd2 { [%clk 0:04:41.6] } 9... Bxc3
+{ [%clk 0:04:43.2] } 10. Bxc3 { [%clk 0:04:38.8] } 10... Nxe4
+{ [%clk 0:04:42.6] } 11. Bxe4 { [%clk 0:04:31.7] } 11... Rxe4+
+{ [%clk 0:04:42.5] } 12. Ne2 { [%clk 0:04:30.3] } 12... Qe7 { [%clk 0:04:36] }
+13. O-O { [%clk 0:04:28.3] } 13... Rxe2 { [%clk 0:04:31.6] } 14. b4
+{ [%clk 0:04:14.6] } 14... d6 { [%clk 0:04:22.7] } 15. b5 { [%clk 0:04:12.8] }
+15... Nd8 { [%clk 0:04:02.3] } 16. Qd4 { [%clk 0:04:10.1] } 16... Re5
+{ [%clk 0:03:56.3] } 17. Rfe1 { [%clk 0:03:59.6] } 17... Rxe1+
+{ [%clk 0:03:48.6] } 18. Rxe1 { [%clk 0:03:55.3] } 18... Qf6
+{ [%clk 0:03:39.1] } 19. Re8# { [%clk 0:03:49.8] } 1-0
+

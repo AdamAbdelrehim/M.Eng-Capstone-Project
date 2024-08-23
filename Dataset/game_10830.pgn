@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Nadtkins"]
+[Black "Lastpartisan"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/OMAlPxPT"]
+[WhiteTitle "IM"]
+[BlackTitle "GM"]
+[WhiteElo "2565"]
+[BlackElo "2514"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:38:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. Nf3 d5 2. g3 c6 3. Bg2 Bf5 4. c4 e6 5. Qb3 Qb6 6. d3 Nf6 7. Be3 Qa6 8. O-O
+Nbd7 9. cxd5 exd5 10. Nc3 Be7 11. Qc2 O-O 12. a3 Rfe8 13. Rfe1 c5 14. d4 Bxc2
+0-1
+

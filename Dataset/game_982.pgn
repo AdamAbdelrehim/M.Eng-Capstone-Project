@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Lynx_BOT"]
+[Black "expositor"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/F7TykOak"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2512"]
+[BlackElo "2744"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Four Knights Variation, Exchange Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "05:45:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. e4 c5 2. Nc3 e6 3. Nf3 Nc6 4. d4 cxd4 5. Nxd4 Nf6 6. Nxc6 bxc6 7. e5 Nd5 8.
+Nxd5 cxd5 9. Be3 Rb8 10. Bd4 Qc7 11. Qd2 Bc5 12. O-O-O Bxd4 13. Qxd4 Qa5 14. a3
+O-O 15. h4 Ba6 16. Qxa7 Ra8 17. Qe3 Bxf1 18. Rhxf1 Qb5 19. Qd3 Qb7 20. Rfe1
+Rfc8 21. h5 Rab8 22. b4 Rc4 23. h6 Rbc8 24. Re3 Qa7 25. hxg7 h5 26. Rh1 Rxc2+
+27. Qxc2 Rxc2+ 28. Kxc2 Kxg7 29. Rh4 Qa6 30. Kd2 Qf1 31. Rf4 Kf8 32. Ref3 f5
+33. exf6 e5 34. Rf5 e4 35. Re3 Qb1 36. f3 Qb2+ 37. Ke1 Qxg2 38. Rxd5 exf3 39.
+Rf5 Qg1+ 40. Kd2 f2 41. Ref3 h4 42. Rxf2 h3 43. Rf1 h2 44. a4 h1=Q 45. Rxg1
+Qxg1 46. Rf4 Qg2+ 47. Kd3 Qg3+ 48. Ke4 Kf7 49. Kf5 d6 50. Re4 Qd3 51. Kf4 d5
+52. Re3 Qd4+ 53. Kf3 Qxb4 54. Ke2 Kxf6 55. a5 Qxa5 56. Rf3+ Ke5 57. Re3+ Kd6
+58. Rf3 d4 59. Rd3 Kc5 60. Rd2 d3+ 61. Rxd3 Kc4 62. Rf3 Qg5 63. Kf2 Kd4 64. Kf1
+Ke4 65. Kf2 Qh4+ 66. Kg2 Qg4+ 67. Rg3 Qe2+ 68. Kg1 Kf4 69. Rh3 Qd2 70. Rh6 Kg3
+71. Rg6+ Kh3 72. Kf1 Qd3+ 73. Kf2 Qxg6 74. Kf3 Qe6 75. Kf4 Kg2 76. Kg5 Kf3 77.
+Kh5 Kf4 78. Kh4 Qg4# 0-1
+

@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Weiawaga"]
+[Black "fornax-engine"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/vzNVcd7w"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2655"]
+[BlackElo "2362"]
+[ECO "D91"]
+[Opening "Grünfeld Defense: Three Knights Variation, Petrosian System"]
+[TimeControl "300+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:08:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 d5 5. Bg5 Ne4 6. Bh4 Nxc3 7. bxc3 dxc4 8.
+e3 b5 9. a4 c6 10. Be2 Bf5 11. O-O a5 12. Nd2 O-O 13. Qc1 Ra7 14. e4 Bd7 15. f4
+Bc8 16. e5 Bf5 17. g4 Bd3 18. Bxd3 cxd3 19. Ne4 f6 20. Qe3 Qd7 21. f5 fxe5 22.
+dxe5 Ra8 23. f6 Qxg4+ 24. Bg3 exf6 25. exf6 Nd7 26. fxg7 Kxg7 27. axb5 cxb5 28.
+Qxd3 Rxf1+ 29. Rxf1 Rf8 30. Qd4+ Kh6 31. Re1 Re8 32. h3 Qf5 33. Qe3+ Kg7 34.
+Nd6 Rxe3 35. Nxf5+ gxf5 36. Rxe3 Kf7 37. Bh4 Nf8 38. Re7+ Kg6 39. Re5 b4 40.
+cxb4 axb4 41. Be7 Nd7 42. Rd5 Nb6 43. Rd6+ Kf7 44. Rxb6 Kxe7 45. Kg2 Kd7 46.
+Kf3 b3 47. Kf4 b2 48. Rxb2 Kc6 49. h4 h5 50. Rg2 Kd5 51. Rg5 Kd4 52. Rxh5 Kd5
+53. Rxf5+ Kd4 54. h5 Kd3 55. h6 Kc4 56. h7 Kd4 57. h8=Q+ Kd3 58. Rc5 Ke2 59.
+Qa1 Kd2 60. Kf3 Kd3 61. Qc3# 1-0
+

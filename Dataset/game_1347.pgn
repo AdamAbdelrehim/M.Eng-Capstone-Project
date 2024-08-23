@@ -1,0 +1,48 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "PetersBot"]
+[Black "caissa-x"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/lF5vwlVj"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2966"]
+[BlackElo "2994"]
+[ECO "B15"]
+[Opening "Caro-Kann Defense: Tartakower Variation"]
+[TimeControl "90+4"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:25:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. e4 c6 2. Nc3 d5 3. d4 dxe4 4. Nxe4 Nf6 5. Nxf6+ exf6 6. c3 Bd6 7. Bd3 O-O 8.
+Qc2 Re8+ 9. Ne2 h5 10. O-O h4 11. h3 Nd7 12. Bd2 Nf8 13. Rae1 Be6 14. f4 c5 15.
+f5 Bd7 16. d5 b5 17. c4 bxc4 18. Bxc4 Rb8 19. b3 Bb5 20. Bxb5 Rxb5 21. Kh1 Rb7
+22. Nc3 Be5 23. Qd3 Rbe7 24. Re4 Nh7 25. Rxh4 Ng5 26. Rg4 Bxc3 27. Qxc3 Rd7 28.
+Bxg5 fxg5 29. Qg3 Rxd5 30. Rxg5 Qf6 31. Kh2 Ree5 32. Rh5 Re2 33. a4 Rdd2 34.
+Qb8+ Rd8 35. Qg3 Rdd2 36. Rg1 Qe5 37. Rg5 Qxg3+ 38. Rxg3 Rf2 39. Re1 Rxf5 40.
+Re8+ Kh7 41. Re7 c4 42. bxc4 Rc2 43. Rxa7 Rxc4 44. Rg4 Rxg4 45. hxg4 Rf1 46.
+Ra5 Ra1 47. Rh5+ Kg6 48. a5 f6 49. Rb5 Ra3 50. Rf5 Ra1 51. Rb5 Ra3 52. Rc5 Ra2
+53. Kg3 Ra3+ 54. Kf4 Ra2 55. Kg3 Kf7 56. g5 Kg6 57. Kh3 fxg5 58. g4 Ra4 59. Kg3
+Ra3+ 60. Kf2 Ra1 61. Ke3 Ra4 62. Kf3 Rf4+ 63. Kg3 Ra4 64. Rc6+ Kf7 65. Ra6 Ra3+
+66. Kg2 Ra2+ 67. Kf3 Ra4 68. Ra8 Ke6 69. a6 Kd5 70. a7 Ra3+ 71. Kf2 Kc6 72.
+Rc8+ Kb7 73. Rb8+ Kxa7 74. Rb1 g6 75. Rc1 Kb7 76. Rb1+ Kc6 77. Rc1+ Kd5 78. Rb1
+Ra2+ 79. Ke1 Ke4 80. Rc1 Kf3 81. Rb1 Kg2 82. Rb5 Ra1+ 83. Kd2 Ra2+ 84. Ke1 Ra6
+85. Rb2+ Kf3 86. Rb1 Kg2 87. Rb2+ Kg3 88. Rb3+ Kh2 89. Rb2+ Kg3 90. Rb3+ Kh2
+91. Rb2+ Kh3 92. Rb3+ Kxg4 93. Kf1 Ra2 94. Rc3 Kh4 95. Rb3 Ra1+ 96. Kf2 g4 97.
+Kg2 Ra2+ 98. Kf1 g3 99. Rb7 g2+ 100. Kg1 g5 101. Rb1 g4 102. Rc1 Rb2 103. Ra1
+Kh3 104. Ra3+ Kh4 105. Ra1 Rb3 106. Kxg2 Rg3+ 107. Kh1 Rh3+ 108. Kg1 Rd3 109.
+Rb1 g3 110. Ra1 Rd2 111. Rb1 Kg4 112. Ra1 Kh3 113. Rb1 Rg2+ 114. Kh1 Rh2+ 115.
+Kg1 Rg2+ 116. Kh1 Rh2+ 117. Kg1 Ra2 118. Rc1 Rg2+ 119. Kh1 Rh2+ 120. Kg1 Rf2
+121. Ra1 Rg2+ 122. Kh1 Rh2+ 123. Kg1 Rg2+ 124. Kh1 Rh2+ 125. Kg1 Re2 126. Rb1
+Re8 127. Ra1 Re2 128. Rb1 Rd2 129. Ra1 Rd6 130. Rb1 Rd2 131. Ra1 Rc2 132. Rb1
+Ra2 133. Rc1 Rg2+ 134. Kh1 Rh2+ 135. Kg1 Ra2 136. Rb1 Rc2 137. Ra1 Rd2 138. Rb1
+Rc2 139. Ra1 Rb2 140. Rc1 Ra2 141. Rb1 Ra3 142. Rc1 Rb3 143. Ra1 Rb2 144. Rc1
+Rf2 145. Ra1 Rc2 146. Rb1 Re2 147. Ra1 Rf2 148. Rb1 Kg4 149. Ra1 Kh3 150. Rb1
+Re2 151. Ra1 Kg4 152. Rb1 Kf3 153. Ra1 Rg2+ 154. Kf1 Rf2+ 155. Kg1 Rg2+ 156.
+Kf1 Rf2+ 157. Kg1 Rh2 158. Rb1 Rg2+ 159. Kf1 Rg1+ 1/2-1/2
+

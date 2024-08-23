@@ -1,0 +1,34 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "eltactico62"]
+[Black "butilikefur"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ua41DCut"]
+[WhiteElo "2505"]
+[BlackElo "2407"]
+[ECO "A48"]
+[Opening "Torre Attack: Fianchetto Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:04:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 O-O 5. c3 b6 6. e4 Bb7 7. Bd3 d6 8. Qe2
+Nbd7 9. O-O h6 10. Bxf6 exf6 11. Ba6 Bxa6 12. Qxa6 c5 13. Rad1 cxd4 14. Nxd4
+Nc5 15. Qc4 Rc8 16. Qd5 Re8 17. f4 Nd3 18. Nc6 Qc7 19. Qxd3 Qxc6 20. Rfe1 b5
+21. Nf3 Bf8 22. Qd5 Qb6+ 23. Kh1 b4 24. cxb4 Qxb4 25. Rd2 Rc5 26. Qd3 Rc4 27.
+Rde2 Qc5 28. h4 h5 29. a3 f5 30. exf5 Rxe2 31. Rxe2 Rxf4 32. fxg6 Qf5 33. gxf7+
+Qxf7 34. Re4 Bh6 35. Rd4 Rxd4 36. Qxd4 Bf4 37. Qe4 d5 38. Qd4 Bc7 39. b4 Qf5
+40. Qd2 Bf4 41. Qe1 Qe4 42. Qxe4 dxe4 43. Nd4 Bg3 44. Nf5 Bf4 45. g3 e3 46. Kg2
+e2 47. Kf2 Bc1 48. a4 Ba3 49. b5 Bb4 50. Kxe2 Bc5 51. Kf3 Kf7 52. g4 hxg4+ 53.
+Kxg4 Kg6 54. h5+ Kf6 55. Ng3 Bb4 56. Ne4+ Ke5 57. Kf3 Kf5 58. h6 Kg6 59. Kf4
+Kxh6 60. Ke5 Kg7 61. Kd5 Kf7 62. Kc6 Ke6 63. Kb7 Kd5 64. Kxa7 Kxe4 65. b6 Bc5
+66. a5 Kd5 67. Kb7 Kc4 68. a6 Kb5 69. a7 Bxb6 70. a8=Q Bc5 71. Qa6+ Kb4 72. Kc6
+Bg1 73. Qb5+ Kc3 74. Qa5+ Kd3 75. Qa3+ Ke4 76. Qa4+ Bd4 77. Kd6 Kd3 78. Kd5 Bc3
+79. Qc4+ Kd2 80. Ke4 Kc2 81. Ke3 Kb2 82. Kd3 Bg7 83. Qb5+ Kc1 84. Qb3 Bf6 85.
+Qc2# 1-0
+

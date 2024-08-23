@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "always63"]
+[Black "Chillimag"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/PXsTSqtZ"]
+[WhiteElo "2475"]
+[BlackElo "2653"]
+[ECO "E11"]
+[Opening "Bogo-Indian Defense: Wade-Smyslov Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:19:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 Bb4+ 4. Bd2 a5 5. g3 d6 6. Bg2 Nbd7 7. O-O e5 8. e3
+c6 9. Bc1 e4 10. Ng5 d5 11. c5 a4 12. a3 Ba5 13. Qxa4 h6 14. Nh3 Nf8 15. b4
+Bxh3 16. Bxh3 Bc7 17. Qd1 h5 18. Bg2 h4 19. Nc3 Ne6 20. b5 Ng5 21. b6 Bb8 22.
+Bd2 Qd7 23. Re1 hxg3 24. hxg3 Nh3+ 25. Kf1 Ng4 26. Re2 Qf5 27. Ke1 Nhxf2 0-1
+

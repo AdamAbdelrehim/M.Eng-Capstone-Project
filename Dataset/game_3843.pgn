@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Encantus"]
+[Black "Grandstodge"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/JFIXxV7e"]
+[WhiteElo "2417"]
+[BlackElo "2503"]
+[ECO "E15"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation, Quiet Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:42:47"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 e6 2. Nf3 Nf6 3. c4 b6 4. g3 Ba6 5. b3 Bb7 6. Bg2 Bb4+ 7. Bd2 a5 8. O-O
+O-O 9. a3 Be7 10. Bc3 d5 11. Nbd2 Nbd7 12. Qc2 c5 13. Qb2 cxd4 14. Nxd4 Rc8 15.
+Rfd1 Qc7 16. Nb5 Qb8 17. Rac1 Rfd8 18. cxd5 Bxd5 19. Bxd5 exd5 20. Nf3 Nc5 21.
+Nfd4 Qb7 22. Nf5 Nce4 23. Bd4 Bc5 24. Bxc5 bxc5 25. a4 Qd7 26. Ne3 Qh3 27. Qe5
+Ng4 28. Nxg4 Qxg4 29. f3 Qg5 30. Qxg5 Nxg5 31. Kf2 Ne6 32. Nc3 d4 33. Ne4 Rd5
+34. Rc2 Rb8 35. Rd3 f5 36. Nd2 g5 37. Nc4 Ra8 38. e3 Kf7 39. Rcd2 Rad8 40. Nxa5
+h5 41. Nc4 Kf6 42. f4 g4 43. Ne5 dxe3+ 44. Kxe3 Nd4 0-1
+

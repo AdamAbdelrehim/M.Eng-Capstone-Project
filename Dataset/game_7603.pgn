@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Centerenigma"]
+[Black "FIDE-Trainer1984"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/DvN9IySo"]
+[WhiteElo "2340"]
+[BlackElo "2501"]
+[ECO "D31"]
+[Opening "Semi-Slav Defense: Noteboom Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:32:41"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-19"]
+[BlackRatingDiff "+3"]
+
+1. d4 d5 2. Nf3 c6 3. c4 e6 4. Nc3 dxc4 5. e4 b5 6. a4 Bb4 7. Bd2 Bxc3 8. Bxc3
+Nf6 9. axb5 cxb5 10. Ne5 Bb7 11. f3 a5 12. b3 b4 13. Bb2 c3 14. Bb5+ Nbd7 15.
+Bc1 O-O 16. Nc6 Qb6 17. Ne7+ Kh8 18. Bc4 Qd8 19. e5 Qxe7 20. exf6 Nxf6 21. O-O
+Rfd8 22. Be3 Nd5 23. Bf2 Nb6 24. Bd3 Qc7 25. Qc2 h6 26. Rfe1 Bc6 27. Bh4 Rd5
+28. Bg3 Qb7 29. Be4 a4 30. Be5 Rda5 31. Qc1 Kg8 32. Qxh6 gxh6 0-1
+

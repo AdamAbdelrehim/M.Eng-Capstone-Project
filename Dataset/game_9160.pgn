@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "VonSinnen"]
+[Black "Ersenov"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/LejandkM"]
+[WhiteElo "2548"]
+[BlackElo "2493"]
+[ECO "D06"]
+[Opening "Queen's Gambit Declined: Austrian Defense, Gusev Countergambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "06:59:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. d4 d5 2. c4 c5 3. cxd5 Nf6 4. Nc3 Nxd5 5. e4 Nxc3 6. bxc3 cxd4 7. cxd4 e6 8.
+Nf3 Be7 9. h4 O-O 10. h5 h6 11. g4 b6 12. Rg1 Bb7 13. g5 hxg5 14. Nxg5 Nc6 15.
+Be3 Bxg5 16. Rxg5 Qe7 17. Qg4 f5 18. Qh4 f4 19. h6 Rf7 20. hxg7 Rxg7 21. Bxf4
+Nxd4 22. Be2 Nxe2 23. Kxe2 Ba6+ 24. Kf3 Rxg5 25. Bxg5 Rf8+ 26. Kg3 Qf7 27. f4
+Rc8 28. Rh1 Rc3+ 29. Kf2 Rc2+ 30. Ke3 Qg7 31. e5 Re2+ 32. Kf3 Qb7+ 33. Kg4 Rg2+
+34. Kh3 Qf3+ 0-1
+

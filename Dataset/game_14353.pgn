@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Pukitis"]
+[Black "Fairacle"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/7LEiFQsK"]
+[WhiteElo "2547"]
+[BlackElo "2494"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:19:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+
+1. d4 e6 2. c4 Ke7 3. Nc3 f6 4. Nf3 Kf7 5. g3 Ne7 6. Bg2 d5 7. O-O c6 8. b3 a5
+9. Bb2 Na6 10. e4 Nc7 11. Qe2 b6 12. Rad1 Ba6 13. Rfe1 Qd7 14. Bh3 a4 15. exd5
+cxd5 16. Nb5 Bxb5 17. cxb5 axb3 18. axb3 Ng6 19. Rc1 1-0
+

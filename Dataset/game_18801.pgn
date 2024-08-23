@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Likoss2020"]
+[Black "SacrificialMaster"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/96zI5qqb"]
+[WhiteElo "2529"]
+[BlackElo "2537"]
+[ECO "A58"]
+[Opening "Benko Gambit Accepted: Fianchetto Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:45:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bxa6 7. Nf3 d6 8. g3
+Bg7 9. Bg2 Nbd7 10. O-O O-O 11. Qc2 Qb6 12. Rb1 Rfb8 13. b3 Qa5 14. Bd2 Rc8 15.
+a4 Rab8 16. Rfd1 Bb7 17. h3 Qa8 18. e4 Ba6 19. Bf1 Bxf1 20. Kxf1 Ne8 21. Kg2
+Ne5 22. Nxe5 Bxe5 23. Bg5 Bf6 24. Bxf6 Nxf6 25. f4 Rb4 26. Re1 c4 27. bxc4
+Rbxc4 28. Rb3 Qa5 29. Re3 Nd7 30. Kf3 Nc5 31. Rb5 Qa8 32. Qa2 Nxa4 33. Nxa4
+Rxa4 34. Qb3 Ra1 35. h4 Rf1+ 36. Kg4 h5+ 37. Kg5 Kg7 38. e5 f6+ 39. exf6+ exf6#
+0-1
+

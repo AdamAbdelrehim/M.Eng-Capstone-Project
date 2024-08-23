@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "thepatrick27"]
+[Black "Podrebo"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/iaNg8bD8"]
+[BlackTitle "FM"]
+[WhiteElo "2564"]
+[BlackElo "2693"]
+[ECO "A08"]
+[Opening "King's Indian Attack: Sicilian Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:57:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d3 e6 2. Nf3 d5 3. g3 Nf6 4. Bg2 c5 5. O-O Nc6 6. Nbd2 Be7 7. e4 O-O 8. Re1
+b5 9. c3 b4 10. Qc2 a5 11. e5 Nd7 12. h4 Qc7 13. d4 h6 14. Nf1 Ba6 15. N1h2
+Rfc8 16. Qd1 a4 17. a3 bxa3 18. bxa3 cxd4 19. cxd4 Nb6 20. h5 Na5 21. Ng4 Nb3
+22. Bxh6 Nxa1 23. Qxa1 gxh6 24. Nxh6+ Kf8 25. Qb1 Qc2 26. Qxb6 Rcb8 27. Qa5 Bf1
+28. Qd2 Qxd2 29. Nxd2 Bxg2 30. Kxg2 Bg5 31. Nf3 Bxh6 32. g4 Ke7 0-1
+

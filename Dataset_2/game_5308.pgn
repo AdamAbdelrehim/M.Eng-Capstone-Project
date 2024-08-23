@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.06.01"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "perdigao2"]
+[Result "0-1"]
+[CurrentPosition "rn3rk1/ppp3pp/3N1n2/3P4/3N4/1B3pPq/PPPP1Pb1/R1BQR1K1 w - -"]
+[Timezone "UTC"]
+[ECO "B01"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-2.exd5-e5"]
+[UTCDate "2022.06.01"]
+[UTCTime "23:45:05"]
+[WhiteElo "1452"]
+[BlackElo "1489"]
+[TimeControl "60"]
+[Termination "perdigao2 won by resignation"]
+[StartTime "23:45:05"]
+[EndDate "2022.06.01"]
+[EndTime "23:46:11"]
+[Link "https://www.chess.com/game/live/47866188483"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. exd5
+{ [%clk 0:00:58.5] } 2... e5 { [%clk 0:00:59.2] } 3. Nc3 { [%clk 0:00:58.4] }
+3... f5 { [%clk 0:00:58.1] } 4. Nf3 { [%clk 0:00:56.6] } 4... e4
+{ [%clk 0:00:57.2] } 5. Nd4 { [%clk 0:00:55.1] } 5... Nf6 { [%clk 0:00:56.4] }
+6. h3 { [%clk 0:00:49.1] } 6... Bd6 { [%clk 0:00:55.4] } 7. Bc4
+{ [%clk 0:00:46.1] } 7... O-O { [%clk 0:00:54.3] } 8. Bb3 { [%clk 0:00:44.6] }
+8... f4 { [%clk 0:00:53.2] } 9. O-O { [%clk 0:00:43] } 9... f3
+{ [%clk 0:00:49.3] } 10. g3 { [%clk 0:00:40.4] } 10... Bxh3
+{ [%clk 0:00:47.6] } 11. Re1 { [%clk 0:00:39.3] } 11... Bg2
+{ [%clk 0:00:46.3] } 12. Nxe4 { [%clk 0:00:37.3] } 12... Qd7
+{ [%clk 0:00:40.1] } 13. Nxd6 { [%clk 0:00:35.1] } 13... Qh3
+{ [%clk 0:00:38.9] } 0-1
+

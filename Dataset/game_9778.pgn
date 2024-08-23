@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "PurpleHunter"]
+[Black "pawn_git"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/YD9WWqKF"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2618"]
+[BlackElo "2704"]
+[ECO "C19"]
+[Opening "French Defense: Winawer Variation, Poisoned Pawn Variation, Main Line"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:58:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Bxc3+ 6. bxc3 Ne7 7. Qg4 Qc7 8.
+Qxg7 Rg8 9. Qxh7 cxd4 10. Ne2 dxc3 11. f4 Bd7 12. Qd3 Nbc6 13. Qxc3 O-O-O 14.
+Rb1 d4 15. Qd3 Kb8 16. g3 Nf5 17. Bg2 Na5 18. O-O Bc6 19. Bxc6 Qxc6 20. Rb4 Qc5
+21. Rd1 a6 22. Bd2 Ka8 23. Ra4 Qc6 24. Rxd4 Nxd4 25. Nxd4 Qa4 26. Bb4 Rd5 27.
+c3 Rc8 28. h4 Nc6 29. Bd6 Nxd4 30. cxd4 Rb5 31. Kh2 Rb2+ 32. Kh3 Rb3 33. Qd2
+Rf3 34. h5 Qb3 35. Rg1 Rg8 36. Qe1 Re3 37. Qf2 Qd3 38. Bc5 Re2 39. Qf1 Qf5+ 40.
+g4 Qd3+ 41. Rg3 Rh2+ 42. Kxh2 Qxf1 43. a4 Qxf4 44. Kh3 Qf1+ 45. Kh2 Qe1 46. Be7
+Qd2+ 47. Kh3 Qd1 48. Kh4 Qh1+ 49. Rh3 Qe4 50. Rg3 Qxd4 51. Bg5 Qxa4 52. Bf6 Qf4
+53. Kh3 Rc8 54. Bg7 Rc1 55. Kh4 Rh1+ 56. Rh3 Rg1 57. Rg3 Rxg3 58. Bf6 Qxg4# 0-1
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "whiteboader"]
+[Black "Neftegor"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/YPCp0Ars"]
+[WhiteElo "2617"]
+[BlackElo "2538"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:57:23"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 f6 7. Bd3 c4 8. Bc2 fxe5
+9. Nxe5 Nf6 10. O-O Bd6 11. f4 Nxe5 12. fxe5 Bxe5 13. a4 Bd6 14. a5 Qc7 15. h3
+Bd7 16. Nd2 O-O-O 17. a6 b5 18. Nf3 Qb6 19. b4 cxb3 20. Bxb3 Ne4 21. Qc2 Qc7
+22. Bb2 Rdf8 23. Ne5 Bxe5 24. dxe5 Qc5+ 25. Kh2 Qe3 26. Rae1 Qg3+ 27. Kg1 Ng5
+28. Kh1 Bc6 29. Qe2 d4 30. cxd4 Qxh3+ 31. Kg1 Qg3 32. d5 Nh3+ 33. Kh1 Nf2+ 34.
+Rxf2 Rxf2 35. Qe3 Qxg2# 0-1
+

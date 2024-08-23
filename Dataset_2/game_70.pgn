@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.04"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "12124sunil"]
+[Result "0-1"]
+[CurrentPosition "3rr1k1/2p2pp1/p2b3p/1p1Rp3/4R1P1/1Q3P2/PPP3KP/2q5 w - -"]
+[Timezone "UTC"]
+[ECO "C45"]
+[ECOUrl "https://www.chess.com/openings/Scotch-Game...4.Nxd4-Nxd4-5.Qxd4-d6"]
+[UTCDate "2021.01.04"]
+[UTCTime "09:17:57"]
+[WhiteElo "909"]
+[BlackElo "903"]
+[TimeControl "300"]
+[Termination "12124sunil won by resignation"]
+[StartTime "09:17:57"]
+[EndDate "2021.01.04"]
+[EndTime "09:26:01"]
+[Link "https://www.chess.com/game/live/6139049667"]
+
+1. e4 { [%clk 0:05:00] } 1... e5 { [%clk 0:04:59.6] } 2. Nf3
+{ [%clk 0:04:59.4] } 2... Nc6 { [%clk 0:04:57.7] } 3. d4 { [%clk 0:04:56.5] }
+3... exd4 { [%clk 0:04:51.3] } 4. Nxd4 { [%clk 0:04:54.8] } 4... Nxd4
+{ [%clk 0:04:48.4] } 5. Qxd4 { [%clk 0:04:52.9] } 5... d6 { [%clk 0:04:36.5] }
+6. Nc3 { [%clk 0:04:45.8] } 6... Be6 { [%clk 0:04:25] } 7. Bc4
+{ [%clk 0:04:17.6] } 7... Bxc4 { [%clk 0:04:14.5] } 8. Qxc4
+{ [%clk 0:04:15.9] } 8... Nf6 { [%clk 0:04:11.9] } 9. Bg5 { [%clk 0:04:07.4] }
+9... Be7 { [%clk 0:04:08.8] } 10. e5 { [%clk 0:03:50.2] } 10... dxe5
+{ [%clk 0:03:59.8] } 11. Rd1 { [%clk 0:03:38.8] } 11... Qc8
+{ [%clk 0:03:48.2] } 12. Bxf6 { [%clk 0:03:22.8] } 12... Bxf6
+{ [%clk 0:03:46.7] } 13. O-O { [%clk 0:03:20.9] } 13... O-O
+{ [%clk 0:03:45.2] } 14. Ne4 { [%clk 0:03:11.4] } 14... Be7
+{ [%clk 0:03:19.3] } 15. Rfe1 { [%clk 0:02:49.2] } 15... a6
+{ [%clk 0:03:10.9] } 16. Ng3 { [%clk 0:02:38.8] } 16... b5 { [%clk 0:03:02.6] }
+17. Qd5 { [%clk 0:02:32.9] } 17... Bd6 { [%clk 0:02:59.8] } 18. Nf5
+{ [%clk 0:02:29] } 18... Qxf5 { [%clk 0:02:57.6] } 19. Qb3 { [%clk 0:01:45.2] }
+19... h6 { [%clk 0:02:49.4] } 20. f3 { [%clk 0:01:40.8] } 20... Bc5+
+{ [%clk 0:02:39.1] } 21. Kh1 { [%clk 0:01:38.9] } 21... Rfe8 { [%clk 0:02:21] }
+22. Rd5 { [%clk 0:01:20] } 22... Bd6 { [%clk 0:02:17.6] } 23. g4
+{ [%clk 0:01:03.6] } 23... Qf4 { [%clk 0:02:10.6] } 24. Re4
+{ [%clk 0:00:53.4] } 24... Qc1+ { [%clk 0:02:02.4] } 25. Kg2
+{ [%clk 0:00:48.8] } 25... Rad8 { [%clk 0:01:48.7] } 0-1
+

@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Yerlan-Ra"]
+[Black "SerHio1963"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/xaZo7fZd"]
+[WhiteTitle "FM"]
+[WhiteElo "2521"]
+[BlackElo "2556"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Bronstein Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:25:11"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+5"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qd6 4. d4 Nf6 5. Nf3 a6 6. Bc4 b5 7. Bb3 Bb7 8.
+O-O e6 9. Ne5 c5 10. Bf4 c4 0-1
+

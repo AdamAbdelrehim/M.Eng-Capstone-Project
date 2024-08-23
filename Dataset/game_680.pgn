@@ -1,0 +1,37 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Hoon_Bot"]
+[Black "odonata-bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/enFRMbiq"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2875"]
+[BlackElo "2633"]
+[ECO "B20"]
+[Opening "Sicilian Defense: King David's Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:07:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+
+1. e4 c5 2. Ke2 d5 3. d3 Nf6 4. e5 Ng4 5. f4 Nc6 6. h3 Nh6 7. Kf2 f6 8. exf6
+exf6 9. g4 f5 10. g5 Nf7 11. Qe2+ Be7 12. Bg2 O-O 13. Nc3 d4 14. Nd5 Re8 15.
+Nxe7+ Rxe7 16. Qd1 Qd6 17. Nf3 Bd7 18. Bd2 Rae8 19. Re1 Rxe1 20. Nxe1 Ne7 21.
+Bxb7 Rb8 22. Bf3 Rxb2 23. Qc1 Rb6 24. h4 h6 25. a4 Nd5 26. a5 Rb8 27. Ng2 Bc6
+28. Rb1 Re8 29. Qb2 Kh8 30. Qb3 Kh7 31. Rg1 Re6 32. Rb1 Re8 33. Bh5 g6 34. Bf3
+Kg7 35. c4 Ne7 36. Ne1 Kh7 37. Bg2 Bxg2 38. Kxg2 Nc6 39. Nf3 hxg5 40. hxg5 Nfd8
+41. Kg3 Kg8 42. Qb5 Nf7 43. Qa4 Nfd8 44. Rh1 Nf7 45. a6 Rb8 46. Re1 Rb6 47. Qa2
+Kg7 48. Rb1 Nb8 49. Ba5 Rxa6 50. Rb7 Nc6 51. Bc7 Qxf4+ 52. Bxf4 Rxa2 53. Rc7
+Nd8 54. Be5+ Kf8 55. Bf6 f4+ 56. Kh3 Re2 57. Rxc5 Ke8 58. Rc7 Re3 59. Kg4 Ne6
+60. Re7+ Kf8 61. Rxa7 Ke8 62. Re7+ Kf8 63. Ra7 Ke8 64. c5 Nxc5 65. Bxd4 Nxd3
+66. Bxe3 fxe3 67. Ra4 Nd6 68. Ra3 Nf2+ 69. Kf4 Nf5 70. Ke5 e2 71. Ne1 Kf7 72.
+Ra2 Ng3 73. Ra7+ Ke8 74. Ra6 Nh5 75. Rxg6 Nh3 76. Re6+ Kf7 77. Rh6 N5f4 78.
+Rf6+ Ke7 79. g6 Nxg6+ 80. Rxg6 Nf2 81. Rg2 Nd1 82. Rxe2 Nc3 83. Rb2 Nd1 84.
+Rb7+ Kd8 85. Kd6 Kc8 86. Re7 Kb8 87. Nf3 Nc3 88. Nd4 Ka8 89. Kc6 Kb8 90. Re8+
+Ka7 91. Rg8 Nb1 92. Nb5+ Ka6 93. Ra8# 1-0
+

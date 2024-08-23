@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "tidjane"]
+[Black "Ahad2000"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/lX9pzXPF"]
+[WhiteElo "2537"]
+[BlackElo "2384"]
+[ECO "C69"]
+[Opening "Ruy Lopez: Exchange Variation, Alapin Gambit"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:59:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. O-O Bg4 6. h3 h5 7. d3 Qf6 8. Be3
+Bxf3 9. Qxf3 Qxf3 10. gxf3 Bd6 11. Nd2 Ne7 12. Nc4 Ng6 13. a4 f6 14. c3 c5 15.
+a5 Kf7 16. Rab1 Nh4 17. Nxd6+ cxd6 18. f4 b5 19. axb6 Rab8 20. f3 exf4 21. Bxf4
+Ke6 22. Bg3 Ng6 23. b4 h4 24. Bh2 c4 25. d4 Rxb6 26. Ra1 d5 27. Ra5 Ne7 28.
+exd5+ Kd7 29. Re1 Ra8 30. Rc5 Rb7 31. d6 Nf5 32. Rxf5 1-0
+

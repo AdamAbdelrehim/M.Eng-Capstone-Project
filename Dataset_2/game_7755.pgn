@@ -1,0 +1,36 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.02.25"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "WiltonMachado"]
+[Result "1-0"]
+[CurrentPosition "r1b2Q1k/ppp3pp/2np4/8/2B4q/1P4N1/P1P2KPP/R1B4R b - -"]
+[Timezone "UTC"]
+[ECO "C40"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-Latvian-Gambit-Accepted"]
+[UTCDate "2023.02.25"]
+[UTCTime "21:14:58"]
+[WhiteElo "1628"]
+[BlackElo "1600"]
+[TimeControl "180"]
+[Termination "AdamAbdelrehim won by checkmate"]
+[StartTime "21:14:58"]
+[EndDate "2023.02.25"]
+[EndTime "21:16:35"]
+[Link "https://www.chess.com/game/live/71098655513"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:03:00] } 2. Nf3 { [%clk 0:02:59.9] }
+2... f5 { [%clk 0:02:59.6] } 3. exf5 { [%clk 0:02:58.1] } 3... e4
+{ [%clk 0:02:59.5] } 4. Ng1 { [%clk 0:02:54.5] } 4... Nf6 { [%clk 0:02:59.4] }
+5. d3 { [%clk 0:02:50.7] } 5... Bc5 { [%clk 0:02:59.3] } 6. dxe4
+{ [%clk 0:02:49.1] } 6... O-O { [%clk 0:02:50.5] } 7. Nc3 { [%clk 0:02:46.2] }
+7... Bxf2+ { [%clk 0:02:48.9] } 8. Kxf2 { [%clk 0:02:42.8] } 8... Nxe4+
+{ [%clk 0:02:48.3] } 9. Nxe4 { [%clk 0:02:41.2] } 9... Qh4+
+{ [%clk 0:02:47.3] } 10. Ng3 { [%clk 0:02:38.4] } 10... Rxf5+
+{ [%clk 0:02:45.8] } 11. Nf3 { [%clk 0:02:34.8] } 11... Rxf3+
+{ [%clk 0:02:38.1] } 12. Qxf3 { [%clk 0:02:32.6] } 12... Nc6
+{ [%clk 0:02:37.1] } 13. b3 { [%clk 0:02:11.4] } 13... d6 { [%clk 0:02:35] }
+14. Bc4+ { [%clk 0:02:09.6] } 14... Kh8 { [%clk 0:02:24.9] } 15. Qf8#
+{ [%clk 0:02:06] } 1-0
+

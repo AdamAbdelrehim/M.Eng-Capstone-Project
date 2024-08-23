@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Jjdu56"]
+[Black "sajithchathuranga"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/RE4nwGYL"]
+[WhiteElo "2501"]
+[BlackElo "2304"]
+[ECO "A10"]
+[Opening "English Opening: Great Snake Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "06:40:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-3"]
+
+1. c4 g6 2. h4 Bg7 3. h5 Nf6 4. h6 Bf8 5. Nc3 e6 6. e4 d6 7. d4 Be7 8. g4 O-O
+9. f4 e5 10. dxe5 Nxg4 11. exd6 Bh4+ 12. Ke2 Nf2 13. Qd4 1-0
+

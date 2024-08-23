@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "RodriguezGonza1987"]
+[Black "oyoy23"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/g6I6F4u5"]
+[WhiteElo "2585"]
+[BlackElo "2705"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:43:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Bd2 O-O 5. e3 b6 6. Nf3 Bb7 7. Bd3 d5 8. cxd5
+exd5 9. Qc2 a6 10. g4 Re8 11. O-O-O Nbd7 12. h3 Ne4 13. Nxe4 dxe4 14. Bxb4 exd3
+0-1
+

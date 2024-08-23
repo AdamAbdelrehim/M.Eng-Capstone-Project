@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "train_account"]
+[Black "DealingWithKID"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/T8I8TmVO"]
+[WhiteElo "2589"]
+[BlackElo "2528"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:23:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bf4 c5 4. e3 Nc6 5. Nbd2 cxd4 6. exd4 a6 7. c3 Bf5 8.
+Nh4 Be4 9. f3 Bg6 10. g4 e6 11. Nxg6 hxg6 12. Bd3 Bd6 13. Bxd6 Qxd6 14. Qe2
+O-O-O 15. O-O-O Rh3 16. Rdf1 Rdh8 17. f4 Nxg4 18. Bxg6 Nxh2 19. Bxf7 Nxf1 20.
+Rxh3 Rxh3 21. Bxe6+ Kd8 22. Bxh3 Nxd2 23. Qxd2 Ne7 24. Qe3 g6 25. Qe5 Qxe5 26.
+fxe5 g5 27. Kd2 Ng6 28. Ke3 Nf4 29. Bf5 Ke7 30. Kf3 b5 31. b4 1-0
+

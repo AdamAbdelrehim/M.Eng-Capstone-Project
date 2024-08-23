@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "nooartur"]
+[Black "vointeka"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/PyTEtg9p"]
+[WhiteTitle "IM"]
+[WhiteElo "2566"]
+[BlackElo "2579"]
+[ECO "C05"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:34:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Bd3 b6 6. Ngf3 Ba6 7. Bxa6 Nxa6 8.
+O-O Be7 9. c4 dxc4 10. Nxc4 Nb4 11. Ne3 c6 12. Bd2 Nd5 13. Rc1 Rc8 14. Qa4 Nxe3
+15. fxe3 Qc7 16. Bb4 Nb8 17. Bxe7 Qxe7 18. Nd2 O-O 19. Ne4 Rc7 20. Qd1 c5 21.
+Nf6+ Kh8 22. Qh5 gxf6 23. exf6 Qd8 24. Rf4 Nd7 25. Rcf1 Rg8 26. Rh4 Nf8 27. Rf3
+Rg6 28. Rfh3 Kg8 0-1
+

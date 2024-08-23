@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Nenidon_Andriy"]
+[Black "thurstoncat"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/UMbjkkBW"]
+[WhiteElo "2542"]
+[BlackElo "2422"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:15:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. c4 e6 5. a3 Bg6 6. Nc3 a5 7. c5 Ne7 8. Be3 Nd7
+9. b4 b6 10. f4 f6 11. Nf3 fxe5 12. fxe5 bxc5 13. bxc5 Nf5 14. Bf2 Be7 15. Bd3
+O-O 16. O-O Rb8 17. Qc2 Rf7 18. Rab1 Qc7 19. Rxb8+ Qxb8 20. Rb1 Qc7 21. g4 Nh4
+22. Nxh4 Bxd3 23. Qxd3 Rxf2 24. Kxf2 Bxh4+ 25. Kg2 Qd8 26. Qe3 Nf8 27. Ne2 Bg5
+28. Qf3 Ng6 29. Kh1 Nh4 30. Qf2 h6 31. Rb6 Qd7 32. Ng3 Ng6 33. Nh5 Kh7 34. Rb1
+Qa7 35. Rf1 Qa6 36. Qf7 Qd3 37. Qxg7# 1-0
+

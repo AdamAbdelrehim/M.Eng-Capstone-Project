@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Frostwrath"]
+[Black "tiki-taka-tiky"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/pUlNZZzJ"]
+[WhiteElo "2515"]
+[BlackElo "2355"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:08:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+23"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. Nf3 Ne7 5. Qe2 c5 6. c3 cxd4 7. cxd4 d5 8. exd5
+Nxd5 9. O-O Be7 10. Nc3 O-O 11. Qe4 g6 12. Qe2 Nd7 13. Bh6 Re8 14. Ne4 N7f6 15.
+Neg5 Nf4 16. Qd2 Nxd3 17. Qxd3 Qd5 18. Rad1 a5 19. Rfe1 Ba6 20. Qd2 Nd7 21. Qf4
+Bf6 22. Ne5 Re7 23. Ng4 Bh8 24. Re3 Bb7 25. Rf3 f6 26. Ne4 Qxe4 27. Qxe4 Bxe4
+28. Re3 f5 29. f3 fxg4 30. fxe4 Bg7 31. Bg5 Rf7 32. e5 Rf5 33. Bh4 Bh6 34. Re2
+Raf8 35. d5 Rxe5 36. Rxe5 Nxe5 37. dxe6 Be3+ 38. Kh1 Re8 39. e7 g5 40. Bg3 Nc4
+41. Rd7 Bc5 42. b3 Ne3 43. Bf2 Nf5 44. Bxc5 bxc5 45. Rd5 Rxe7 46. h3 Re1+ 47.
+Kh2 g3# 0-1
+

@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "vamos19"]
+[Black "master_endgame"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/EKles4Eq"]
+[WhiteElo "2336"]
+[BlackElo "2506"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:53:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. a4 e6 7. g3 b6 8. Bg2
+Bb7 9. O-O Qc7 10. Be3 Nbd7 11. Qd2 Be7 12. Rac1 O-O 13. Nde2 Nc5 14. f3 d5 15.
+exd5 Nxd5 16. Nxd5 Bxd5 17. Rfd1 Nxa4 18. b3 Nc5 19. Rb1 Rfd8 20. Qe1 b5 21.
+Qf2 Rac8 22. Rdc1 b4 23. c4 Bb7 24. Rc2 Rd7 25. Nf4 a5 26. Bf1 Rcd8 27. h4 Rd1
+28. Rcc1 Rxc1 29. Bxc1 Rd1 30. Qe2 Rxc1 31. Rxc1 Nxb3 32. Rd1 Bc5+ 33. Kh2 Nd4
+34. Qd3 Nxf3+ 35. Kh3 Nd4 36. Ne2 e5 37. Nxd4 Bxd4 38. Qf5 Bc8 39. Bd3 g6 40.
+Qxc8+ Qxc8+ 41. Kg2 a4 42. Be4 b3 43. Bd5 a3 44. Rf1 Qc7 45. Rxf7 Qxf7 46. Be6
+a2 0-1
+

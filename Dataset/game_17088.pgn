@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "AbcD7-34-6"]
+[Black "Greifax"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/N5dPkYCn"]
+[WhiteElo "2511"]
+[BlackElo "2599"]
+[ECO "A56"]
+[Opening "Benoni Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:06:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. e4 d6 6. Bd3 O-O 7. h3 e5 8. g4 a6 9.
+Nge2 b5 10. cxb5 axb5 11. Bxb5 Ba6 12. Ng3 Bxb5 13. Nxb5 Qa5+ 14. Nc3 Nfd7 15.
+Bd2 c4 16. O-O Nc5 17. Kg2 Nbd7 18. a4 Nb3 19. Ra3 Nxd2 20. Qxd2 Nc5 21. Rd1
+Rfb8 22. Nb5 Qxd2 23. Rxd2 Bf8 24. Rc2 Rxa4 25. Rxa4 Nxa4 26. Rxc4 Nxb2 27. Rb4
+Nd3 28. Rb1 Bh6 29. Na3 Rxb1 30. Nxb1 Bf4 31. Ne2 Kg7 32. Nbc3 Kf6 33. Nb5 Ke7
+34. Nbc3 Bd2 35. Nb5 Bb4 36. Na7 Bc5 37. Nc6+ Kf6 38. Na5 Bxf2 39. Nc4 Bc5 40.
+Kf3 Kg5 41. Kg3 h5 42. h4+ Kf6 43. g5+ Ke7 44. Kf3 Bf2 45. Ng3 Bxg3 46. Kxg3
+Kd7 47. Kf3 Kc7 48. Ke3 Nc5 49. Kf3 Na4 50. Ke3 Nb6 51. Na5 Kd7 52. Kf3 Ke7 53.
+Nc6+ Kf8 54. Nb4 Kg7 55. Nc6 f6 56. gxf6+ Kxf6 57. Nd8 Nc4 58. Ne6 Nd2+ 59. Ke3
+Nb3 60. Kf3 Nc5 61. Nxc5 dxc5 62. Ke3 g5 63. hxg5+ Kxg5 64. Kd3 h4 65. Kc4 h3
+66. d6 Kf6 67. Kxc5 h2 68. Kc6 h1=Q 69. d7 Qc1+ 70. Kd6 Qd2+ 71. Kc7 Qc3+ 72.
+Kb8 Qd4 0-1
+

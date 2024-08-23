@@ -1,0 +1,36 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.02.02"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Manucalle"]
+[Result "1-0"]
+[CurrentPosition "2kr4/pp3pp1/2np1np1/1B1p4/3P4/8/PPPQ1PP1/2K4R b - -"]
+[Timezone "UTC"]
+[ECO "C01"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Exchange-Variation-3...exd5-4.Nc3-Nf6-5.Nf3"]
+[UTCDate "2022.02.02"]
+[UTCTime "16:49:15"]
+[WhiteElo "1622"]
+[BlackElo "1639"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "16:49:15"]
+[EndDate "2022.02.02"]
+[EndTime "16:51:46"]
+[Link "https://www.chess.com/game/live/37559462961"]
+
+1. e4 { [%clk 0:10:00] } 1... e6 { [%clk 0:09:59.9] } 2. Nf3
+{ [%clk 0:09:59.5] } 2... d5 { [%clk 0:09:59] } 3. Nc3 { [%clk 0:09:57.8] }
+3... Nf6 { [%clk 0:09:56.1] } 4. exd5 { [%clk 0:09:54.6] } 4... exd5
+{ [%clk 0:09:54.9] } 5. d4 { [%clk 0:09:52.9] } 5... Bf5 { [%clk 0:09:53.1] }
+6. Bg5 { [%clk 0:09:49.4] } 6... Be7 { [%clk 0:09:51.9] } 7. Nh4
+{ [%clk 0:09:45] } 7... Bg6 { [%clk 0:09:47.9] } 8. Nxg6 { [%clk 0:09:43.4] }
+8... hxg6 { [%clk 0:09:47] } 9. Qd2 { [%clk 0:09:39.2] } 9... Qd6
+{ [%clk 0:09:41.5] } 10. O-O-O { [%clk 0:09:34.3] } 10... Rxh2
+{ [%clk 0:09:33.4] } 11. Bf4 { [%clk 0:09:28.4] } 11... Rxh1 { [%clk 0:09:18] }
+12. Bxd6 { [%clk 0:09:13.5] } 12... Bxd6 { [%clk 0:09:17] } 13. Nb5
+{ [%clk 0:09:09.1] } 13... Nc6 { [%clk 0:09:04.4] } 14. Nxd6+
+{ [%clk 0:09:06.6] } 14... cxd6 { [%clk 0:09:03.7] } 15. Bb5 { [%clk 0:08:46] }
+15... O-O-O { [%clk 0:09:00.7] } 16. Rxh1 { [%clk 0:08:38.1] } 1-0
+

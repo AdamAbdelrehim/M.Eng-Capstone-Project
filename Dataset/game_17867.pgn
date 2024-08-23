@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "tidjane"]
+[Black "Shcherbashin_Victor"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/jrFIrgB2"]
+[WhiteElo "2546"]
+[BlackElo "2503"]
+[ECO "D15"]
+[Opening "Slav Defense: Chebanenko Variation, Advance System"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:16:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 a6 5. c5 Nbd7 6. Bf4 Nh5 7. Bg5 h6 8. Bd2
+g5 9. h3 Bg7 10. e4 dxe4 11. Nxe4 Ndf6 12. Bd3 Nd5 13. g3 Nhf6 14. Qe2 Be6 15.
+Ne5 Nxe4 16. Bxe4 Qc7 17. O-O-O Bxe5 18. dxe5 Qxe5 19. f4 gxf4 20. gxf4 Nxf4
+21. Bxc6+ bxc6 22. Qxe5 Nd3+ 23. Kb1 Nxe5 0-1
+

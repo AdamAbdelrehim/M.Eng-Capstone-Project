@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "PurpleHunter"]
+[Black "Weiawaga"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/o0z4CFBs"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2584"]
+[BlackElo "2661"]
+[ECO "A45"]
+[Opening "Trompowsky Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "03:30:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-1"]
+
+1. d4 Nf6 2. Bg5 d5 3. e3 c5 4. Bxf6 exf6 5. Nc3 Nc6 6. Nge2 Be6 7. a3 cxd4 8.
+Nxd4 Bd6 9. g3 Nxd4 10. Qxd4 O-O 11. Qd3 Be5 12. O-O-O Qb6 13. f4 Bxc3 14. Qxc3
+Bg4 15. Rd4 Bf3 16. Rg1 Rac8 17. Qd2 Rfe8 18. Bd3 h5 19. Rf1 Bg4 20. Re1 Red8
+21. Kb1 g6 22. f5 Kg7 23. Qg2 Re8 24. Rb4 Rxe3 25. Rxe3 Qxe3 26. fxg6 fxg6 27.
+Rxb7+ Kh6 28. Qf1 f5 29. b4 h4 30. Qc1 Qxc1+ 31. Kxc1 hxg3 32. hxg3 Ra8 33. Kd2
+Bf3 34. a4 Kg5 35. Ke3 Be4 36. Rd7 Kg4 37. Rg7 Kg5 38. Kd4 a6 39. Kc5 Kh5 40.
+Be2+ Kh6 41. Rd7 a5 42. bxa5 Rxa5+ 43. Kb4 Ra8 44. a5 g5 45. a6 g4 46. Rc7 f4
+47. gxf4 g3 48. Rc3 g2 49. Rg3 Ra7 50. Kb5 Rc7 51. Bd3 Rg7 52. Rxg7 Kxg7 53. a7
+g1=Q 54. a8=Q Qb1+ 55. Kc5 Qg1+ 56. Kc6 Qg6+ 57. Kc5 Qg1+ 58. Kc6 Qg6+ 59. Kc5
+Qg1+ 1/2-1/2
+

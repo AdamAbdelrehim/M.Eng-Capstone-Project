@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.03.23"]
+[Round "-"]
+[White "Martin12345612"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r1bqkbnr/1ppp1ppp/2n5/1p2p3/8/1P2P3/PBPP1PPP/RN1QK1NR w KQkq -"]
+[Timezone "UTC"]
+[ECO "A01"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Larsen-Attack-Modern-Variation-2.Bb2-Nc6-3.e3-a6"]
+[UTCDate "2023.03.23"]
+[UTCTime "22:18:20"]
+[WhiteElo "1544"]
+[BlackElo "1578"]
+[TimeControl "180"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "22:18:20"]
+[EndDate "2023.03.23"]
+[EndTime "22:18:34"]
+[Link "https://www.chess.com/game/live/73349054503"]
+
+1. b3 { [%clk 0:02:59.9] } 1... e5 { [%clk 0:02:58.6] } 2. Bb2
+{ [%clk 0:02:59.8] } 2... Nc6 { [%clk 0:02:58] } 3. e3 { [%clk 0:02:58.9] }
+3... a6 { [%clk 0:02:56.7] } 4. Bb5 { [%clk 0:02:58.8] } 4... axb5
+{ [%clk 0:02:54.9] } 0-1
+

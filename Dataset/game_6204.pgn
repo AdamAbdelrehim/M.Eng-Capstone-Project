@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Dmitry_Gritsenko"]
+[Black "Phillipe1995"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/1PjHHogz"]
+[BlackTitle "CM"]
+[WhiteElo "2510"]
+[BlackElo "2441"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:46:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 c5 2. Be2 d6 3. f4 Nc6 4. Nf3 g6 5. O-O Bg7 6. c3 d5 7. d3 dxe4 8. dxe4
+Qxd1 9. Rxd1 Nf6 10. e5 Nd7 11. Nbd2 O-O 12. Ne4 a6 13. Be3 b6 14. Rd2 Ndb8 15.
+Rad1 Bf5 16. Ng3 Be6 17. b3 a5 18. a3 Bxb3 19. Rb1 a4 20. Ne4 Na5 21. Bb5 Rc8
+22. h4 h6 23. h5 gxh5 24. Kf2 Na6 25. Rh1 Nc7 26. Be2 Nd5 27. Rxh5 Nxe3 28.
+Kxe3 Bc4 29. Rd7 Bxe2 30. Kxe2 Nc4 31. Rxe7 Nxa3 32. Nh4 Nb5 33. Nf5 a3 34. e6
+a2 35. Rxf7 Rc7 36. Nf6+ Bxf6 37. Nxh6+ Kh8 38. Ng4+ Kg8 39. Nxf6# 1-0
+

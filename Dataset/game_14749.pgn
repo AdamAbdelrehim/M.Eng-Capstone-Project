@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Luntikiegodruzja"]
+[Black "smurf42"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/hZGpt77g"]
+[BlackTitle "NM"]
+[WhiteElo "2503"]
+[BlackElo "2532"]
+[ECO "C00"]
+[Opening "French Defense: King's Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:01:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 e6 2. d3 d5 3. exd5 exd5 4. Nf3 Bd6 5. d4 Ne7 6. h3 Bf5 7. Bd3 O-O 8. O-O
+Nbc6 9. c3 Qd7 10. Bxf5 Qxf5 11. Nbd2 Rfe8 12. Re1 Ng6 13. Nf1 Re4 14. Ne3 Qh5
+15. Nd2 Rxe3 16. fxe3 Qh4 17. Nf1 Re8 18. Re2 Nd8 19. Bd2 Ne6 20. Be1 Qh6 21.
+Bg3 Ng5 22. Bxd6 cxd6 23. Ng3 Nh4 24. Qf1 Qg6 25. Qf4 Ne4 26. Nxe4 Rxe4 27. Qf2
+f5 28. Kh2 Qh5 29. Rf1 g5 30. g3 Ng6 31. Ree1 Ne7 32. Qg2 Qg6 33. b3 Qe6 34.
+Qf3 Kg7 35. g4 f4 36. c4 dxc4 37. bxc4 Ng6 38. Qf2 Nh4 39. exf4 Rxe1 40. fxg5
+Qe2 41. Qxe2 Rxe2+ 42. Kg3 Ng2 43. Rg1 Ne3 44. Kf3 Rxa2 45. Kxe3 Ra3+ 46. Ke4
+Rxh3 47. Kd5 Rd3 48. c5 dxc5 49. Kxc5 Kg6 50. d5 Kxg5 51. Kd6 a5 52. Ke6 a4 53.
+d6 a3 54. d7 b5 55. Ke7 b4 56. d8=Q Rxd8 57. Kxd8 b3 58. Rg3 a2 0-1
+

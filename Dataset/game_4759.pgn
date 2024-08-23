@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Al_Nouria"]
+[Black "Beluna"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ovh7iyC9"]
+[WhiteElo "2655"]
+[BlackElo "2365"]
+[ECO "D21"]
+[Opening "Queen's Gambit Accepted: Rosenthal Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "15:51:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-1"]
+
+1. d4 d5 2. Nf3 e6 3. c4 dxc4 4. e4 Nf6 5. e5 Nd5 6. Bxc4 Bb4+ 7. Bd2 Bxd2+ 8.
+Qxd2 O-O 9. Nc3 Nxc3 10. bxc3 b6 11. h4 Bb7 12. Ng5 h6 13. Qd3 hxg5 14. hxg5 g6
+15. Qh3 1-0
+

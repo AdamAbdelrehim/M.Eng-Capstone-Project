@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "hajeko"]
+[Black "tedtevoseru"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/5iyWmEld"]
+[WhiteTitle "CM"]
+[WhiteElo "2535"]
+[BlackElo "2430"]
+[ECO "C46"]
+[Opening "Three Knights Opening: Schlechter Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "12:53:02"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bb4 4. Nd5 Nf6 5. Nxb4 Nxb4 6. d4 d5 7. Nxe5 Nxe4 8.
+c3 Nc6 9. Bb5 Bd7 10. Bxc6 Bxc6 11. Nxc6 bxc6 12. f3 Nd6 13. Qe2+ Qe7 14. Qxe7+
+Kxe7 15. Bf4 Kd7 16. O-O-O Rhe8 17. Rhe1 f6 18. b3 a6 19. Kd2 Rxe1 20. Rxe1 Re8
+21. Rxe8 Nxe8 22. c4 g6 23. Kc3 Ng7 24. Kb4 Ne6 25. Be3 Kc8 26. g4 Kb7 27. h4
+Kb6 28. h5 f5 29. a4 fxg4 30. fxg4 gxh5 31. gxh5 Ng7 32. a5+ Kb7 33. cxd5 cxd5
+34. Kc5 c6 35. h6 Nf5 36. Bf4 Nh4 37. Kd6 Nf3 38. Be3 Ne1 39. Ke6 Nc2 40. Bf2
+Na1 41. Kf7 Nxb3 42. Kg7 Nxa5 43. Kxh7 Nc4 44. Kg6 Nd6 45. h7 a5 46. h8=Q a4
+47. Qh1 Nb5 48. Qb1 a3 49. Be1 Ka6 0-1
+

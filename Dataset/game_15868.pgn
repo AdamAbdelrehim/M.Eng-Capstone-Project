@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ItwasBarzini"]
+[Black "JFDRR"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/csdokTpq"]
+[WhiteElo "2584"]
+[BlackElo "2687"]
+[ECO "B92"]
+[Opening "Sicilian Defense: Najdorf Variation, Opocensky Variation, Traditional Line"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:54:17"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Be2 e5 7. Nb3 Be7 8. O-O
+O-O 9. Re1 Be6 10. Bf3 Nbd7 11. a4 Rc8 12. Nd2 h6 0-1
+

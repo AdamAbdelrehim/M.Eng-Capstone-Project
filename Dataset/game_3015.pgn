@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "bob_2004"]
+[Black "bancsoo"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/38ROZjDj"]
+[WhiteTitle "FM"]
+[BlackTitle "GM"]
+[WhiteElo "2754"]
+[BlackElo "2798"]
+[ECO "D45"]
+[Opening "Semi-Slav Defense: Accelerated Meran Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:49:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 c6 3. Nc3 d5 4. e3 e6 5. Nf3 a6 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+c5 9. e4 cxd4 10. Nxd4 Nbd7 11. O-O Bb7 12. Qe2 Qb8 13. Bg5 Bd6 14. Kh1 O-O 15.
+f4 Bc5 16. Nb3 Ba7 17. e5 Nd5 18. Ne4 Ne3 19. Rf3 Nf5 20. Rh3 h6 21. Ng3 Ne3
+22. Rg1 Nxg2 23. Rxg2 Bxg2+ 24. Kxg2 Qb6 25. Qe4 Qf2+ 0-1
+

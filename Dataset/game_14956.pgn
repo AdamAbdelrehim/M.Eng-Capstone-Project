@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "KingChessT007"]
+[Black "tumaridodiegoni"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ILLs1riM"]
+[WhiteElo "2566"]
+[BlackElo "2613"]
+[ECO "D35"]
+[Opening "Queen's Gambit Declined: Exchange Variation, Positional Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:27:51"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. cxd5 exd5 5. Bg5 c6 6. e3 h6 7. Bf4 Bd6 8. Bg3
+O-O 9. Bd3 Re8 10. Qc2 a5 11. Nf3 Na6 12. a3 b5 13. O-O Bxg3 14. hxg3 Bd7 15.
+Ne5 Ng4 16. Nxg4 Bxg4 17. Rae1 Qd6 18. f3 Bd7 19. Kf2 Reb8 20. Ne2 c5 21. dxc5
+Nxc5 22. Rc1 Rc8 23. Qd1 Qf6 24. Nd4 b4 25. Qe2 Rab8 26. Bb5 Bxb5 27. Nxb5 Ne4+
+28. Kg1 Nxg3 0-1
+

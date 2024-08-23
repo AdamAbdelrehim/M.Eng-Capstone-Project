@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Tiger012010"]
+[Black "hjahonhon"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/63eBAmbl"]
+[WhiteElo "2473"]
+[BlackElo "2667"]
+[ECO "C51"]
+[Opening "Italian Game: Evans Gambit, Anderssen Variation"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:48:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+6"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Be7 6. d4 exd4 7. O-O Nf6 8. e5
+Ne4 9. cxd4 d5 10. Bd3 Nb4 11. Be2 c5 12. dxc5 Bxc5 13. Nbd2 Nc3 0-1
+

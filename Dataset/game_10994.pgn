@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "www68"]
+[Black "AnnaSchach"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Ub97Znb3"]
+[WhiteTitle "IM"]
+[BlackTitle "WIM"]
+[WhiteElo "2574"]
+[BlackElo "2326"]
+[ECO "B03"]
+[Opening "Alekhine Defense: Balogh Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:59:39"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+9"]
+
+1. e4 Nf6 2. e5 Nd5 3. d4 d6 4. Bc4 Nb6 5. Bb3 dxe5 6. Qh5 e6 7. dxe5 a5 8. a4
+Na6 9. Nc3 Nc5 10. Bg5 Be7 11. Rd1 Bd7 12. Nf3 Nxb3 13. cxb3 Bxg5 14. Nxg5 Qe7
+15. O-O O-O-O 16. f4 f6 17. Nf7 g6 18. exf6 Qxf7 19. Qxa5 Bc6 20. Qa7 Rxd1 21.
+Rxd1 Rd8 22. Re1 Qxf6 23. a5 Qd4+ 24. Kh1 Qd2 25. Rg1 Nd5 26. Ne4 Kd7 27. Qc5
+Qxb2 28. a6 bxa6 29. Rc1 Ba8 30. h3 Ke8 31. Re1 Nxf4 32. Qg5 Qxg2+ 33. Qxg2
+Nxg2 34. Kxg2 Rd4 35. Kf3 Ke7 36. Kf4 Rxe4+ 37. Rxe4 Bxe4 38. Kxe4 Kf6 39. Kd4
+Kg5 40. Kc5 Kh4 41. Kc6 Kxh3 42. Kxc7 e5 43. Kb6 e4 44. Kxa6 e3 45. b4 e2 46.
+b5 e1=Q 47. b6 Qa1+ 0-1
+

@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "ich2"]
+[Black "infection"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/01tf74pd"]
+[WhiteTitle "IM"]
+[WhiteElo "2505"]
+[BlackElo "2399"]
+[ECO "E00"]
+[Opening "Catalan Opening"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:42:34"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. Nf3 cxd4 5. Nxd4 a6 6. Bg2 Qc7 7. b3 Bb4+ 8. Bd2
+Be7 9. O-O O-O 10. Nc3 d6 11. Rc1 Nbd7 12. Rc2 Ne5 13. Bc1 Bd7 14. Bb2 Ng6 15.
+h3 Rac8 16. e3 Qb8 17. Qe2 Rfd8 18. Rfc1 e5 19. Nf3 Bc6 20. Ng5 h6 21. Nge4
+Nxe4 22. Bxe4 Rf8 23. Nd5 Bd8 24. Ba3 f5 25. Bg2 e4 26. Rd1 Ne5 27. Nf4 Be7 28.
+Rcd2 Rf6 29. Nd5 Bxd5 30. Rxd5 Qc7 31. f3 exf3 32. Bxf3 Kh8 33. Bg2 Re8 34. Qd2
+Nf7 35. Qc2 Qc8 36. Rf1 g6 37. Bb2 Ne5 38. e4 fxe4 39. Bxe5 dxe5 40. Rxf6 Bxf6
+41. Qxe4 Kg7 42. h4 h5 43. Kh2 Re7 44. Bh3 Qf8 45. Bf1 Kh6 46. Bd3 Qf7 47. Rd6
+Kg7 48. c5 Rc7 49. Bc4 Qe8 50. b4 Rc6 51. Qd5 e4 52. Rd7+ Kh6 53. Rxb7 e3 54.
+Be2 Re6 55. Qd7 Re7 56. Qxe8 Rxe8 57. Rb6 Bc3 58. c6 Rc8 59. a3 Bd4 60. Rxa6
+Rc7 61. b5 g5 62. Ra4 Be5 63. Re4 Re7 64. Kg2 gxh4 65. c7 Rxc7 66. Rxe5 hxg3
+67. Kxg3 1-0
+

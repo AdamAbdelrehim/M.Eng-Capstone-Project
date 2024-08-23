@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "eyyjgg"]
+[Black "Hemoglobinski"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/j7gTPBAx"]
+[WhiteElo "2597"]
+[BlackElo "2592"]
+[ECO "A40"]
+[Opening "Queen's Pawn Game: Modern Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:01:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. d4 g6 2. h4 Bg7 3. h5 d5 4. Nf3 c5 5. h6 Bf6 6. c3 Bg4 7. dxc5 e5 8. Qa4+
+Bd7 9. Qb3 Bc6 10. Qd1 a5 11. a4 Nd7 12. b4 axb4 13. cxb4 d4 14. e3 d3 15. e4
+Bxe4 16. Bxd3 Bc6 17. Ra2 e4 18. Bxe4 Bxe4 19. Re2 Ne7 20. Rxe4 O-O 21. O-O Nf5
+22. Rfe1 Qc7 23. Bf4 Qc6 24. b5 Qc8 25. Rc4 Nxc5 26. Nc3 Rd8 27. Nd5 Bh8 28.
+Be5 b6 29. Bxh8 Kxh8 30. Qa1+ Kg8 31. Ne7+ Kf8 32. Qh8# 1-0
+

@@ -1,0 +1,38 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2014.02.25"]
+[Round "-"]
+[White "natxo1967"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1b1k2r/p3bpq1/8/4p1p1/3P3p/2N1P1P1/PPn2P1P/1RB2RK1 b kq -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Kings-Fianchetto-Opening-Reversed-Alekhine-Variation"]
+[UTCDate "2014.02.25"]
+[UTCTime "23:52:26"]
+[WhiteElo "894"]
+[BlackElo "853"]
+[TimeControl "60"]
+[Termination "natxo1967 won on time"]
+[StartTime "23:52:26"]
+[EndDate "2014.02.25"]
+[EndTime "23:54:01"]
+[Link "https://www.chess.com/game/live/736993213"]
+
+1. g3 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.7] }
+2... Qf6 { [%clk 0:00:58.8] } 3. Bg2 { [%clk 0:00:59.3] } 3... Bc5
+{ [%clk 0:00:57.1] } 4. O-O { [%clk 0:00:56.8] } 4... Nh6 { [%clk 0:00:54.3] }
+5. e3 { [%clk 0:00:56.1] } 5... Ng4 { [%clk 0:00:51] } 6. Nh4
+{ [%clk 0:00:54.1] } 6... Be7 { [%clk 0:00:44.6] } 7. Qxg4 { [%clk 0:00:52.4] }
+7... h5 { [%clk 0:00:34] } 8. Qe4 { [%clk 0:00:50.5] } 8... g5
+{ [%clk 0:00:29] } 9. Nf5 { [%clk 0:00:47.6] } 9... d5 { [%clk 0:00:22.6] } 10.
+Ng7+ { [%clk 0:00:43.9] } 10... Qxg7 { [%clk 0:00:16] } 11. Qxd5
+{ [%clk 0:00:43.5] } 11... h4 { [%clk 0:00:10.6] } 12. Qb5+
+{ [%clk 0:00:42.4] } 12... c6 { [%clk 0:00:08.5] } 13. Bxc6+
+{ [%clk 0:00:41.6] } 13... bxc6 { [%clk 0:00:06.1] } 14. Qxc6+
+{ [%clk 0:00:41.3] } 14... Nxc6 { [%clk 0:00:03.2] } 15. d4
+{ [%clk 0:00:36.8] } 15... Nb4 { [%clk 0:00:02.1] } 16. Nc3
+{ [%clk 0:00:35.7] } 16... Nxc2 { [%clk 0:00:01.3] } 17. Rb1 { [%clk 0:00:34] }
+1-0
+

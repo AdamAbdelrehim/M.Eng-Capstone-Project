@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "siyay_25"]
+[Black "Lexus_Rx_300T"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/DBxnPIj4"]
+[WhiteElo "2697"]
+[BlackElo "2696"]
+[ECO "B76"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "17:42:39"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. exd5 Nxd5 11. Nxc6 bxc6 12. Bd4 Bxd4 13. Qxd4 Qc7 14. Bc4
+e5 15. Qd2 Rd8 16. Bxd5 Be6 17. h4 cxd5 18. h5 d4 19. Ne4 Qe7 20. Qh6 Bf5 21.
+hxg6 Bxg6 22. Rh5 Rac8 23. Rdh1 Rc6 24. Rg5 f5 25. Rxf5 Rdc8 26. Qg5 Rxc2+ 27.
+Kb1 Qxg5 28. Rxg5 Re2 29. Rc1 Rxc1+ 30. Kxc1 d3 31. Rxe5 Rc2+ 32. Kb1 Rxg2 33.
+b4 Kf7 34. Rd5 h5 35. Rxd3 h4 36. Rd5 h3 37. Rd7+ Ke6 38. Rd6+ Kf7 39. Rd7+ Ke8
+40. Rxa7 h2 41. Ra8+ Ke7 42. Rh8 Rg1+ 43. Kc2 h1=Q 44. Rxh1 Rxh1 45. Kd3 Bxe4+
+46. Kd4 Ra1 47. Kc5 Rxa2 48. fxe4 Re2 49. b5 Rxe4 50. Kc6 Rc4+ 51. Kb7 Kd7 52.
+b6 Rb4 53. Ka7 Kc6 54. b7 Rxb7+ 55. Ka6 Rb5 56. Ka7 Kc7 57. Ka6 Rc5 58. Ka7
+Ra5# 0-1
+

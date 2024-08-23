@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "DR_speedrun_2700"]
+[Black "nastroyani"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ef3Mvft7"]
+[BlackTitle "GM"]
+[WhiteElo "2575"]
+[BlackElo "2630"]
+[ECO "C58"]
+[Opening "Italian Game: Two Knights Defense, Polerio Defense, Bishop Check Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "02:10:12"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-7"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ Bd7 7. Qe2 Be7 8.
+Bxd7+ Qxd7 9. Nc3 O-O 10. O-O Nxd5 11. Qxe5 Nxc3 12. dxc3 Nc6 13. Qf4 Bd6 14.
+Qh4 h6 15. Nf3 Qf5 16. Qa4 Rae8 17. Be3 a6 18. Rfe1 Re4 19. Nd4 Qh5 20. h3 Qe5
+21. g3 Nxd4 22. cxd4 Qe6 23. Kg2 Re8 24. Qb3 Qg6 25. Bd2 Re2 26. Qd3 Qxd3 27.
+cxd3 Kf8 28. Bc3 c6 29. Kf3 Rxe1 30. Rxe1 Rxe1 31. Bxe1 Ke7 32. g4 Ke6 33. Ke4
+g6 34. Bd2 f5+ 35. Kf3 h5 36. Bf4 Be7 37. gxh5 gxh5 38. Be5 Bg5 39. b3 Kd5 40.
+Bf4 Be7 41. Be3 Bd6 42. Ke2 f4 43. Bd2 Kxd4 44. Kf3 Kxd3 45. Bxf4 Bc5 46. Be3
+Bf8 47. Bb6 c5 48. Kf4 c4 49. bxc4 Kxc4 50. Ke5 Kb5 51. Bd4 Ka4 52. f4 b5 53.
+Bb2 b4 54. f5 b3 55. axb3+ Kxb3 56. Bd4 a5 57. Ke6 a4 58. Kf7 Bb4 59. f6 a3 60.
+Ke8 a2 61. f7 Kc2 62. f8=Q Bxf8 63. Kxf8 1-0
+

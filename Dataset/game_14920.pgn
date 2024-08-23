@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "DeviousCat"]
+[Black "Pjotr2402"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/TkaLTlts"]
+[WhiteElo "2640"]
+[BlackElo "2673"]
+[ECO "B76"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Panov Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:23:51"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-8"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. g4
+Nc6 9. Qd2 Bxg4 10. fxg4 Nxg4 11. Nb3 d5 12. exd5 Nxe3 13. Qxe3 Bxc3+ 14. bxc3
+Qxd5 15. Rg1 Rfd8 16. Bg2 Qh5 17. Bxc6 bxc6 18. Qe2 Qh4+ 19. Qf2 Qc4 20. Rg3
+Rd5 21. Qe2 Qf4 22. Rf3 Qh4+ 23. Qf2 Qc4 24. Qe2 Qh4+ 25. Qf2 Qa4 26. Kf1 Rad8
+27. Kg2 Rg5+ 28. Rg3 Qe4+ 29. Kg1 Rf5 30. Qg2 Qc4 31. Re1 e5 32. h3 h5 33. Rf3
+Rxf3 34. Qxf3 Rd5 35. Re4 Qa6 36. c4 Rd7 37. Nc5 Qb6 38. Rxe5 Re7 39. Rxe7
+Qxc5+ 40. Qe3 Qxc4 41. Re8+ Kh7 42. Qe5 1-0
+

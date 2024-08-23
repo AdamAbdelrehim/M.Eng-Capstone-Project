@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Maldito_Duende"]
+[Black "chesstutgood"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/fQmba2jO"]
+[BlackTitle "FM"]
+[WhiteElo "2417"]
+[BlackElo "2583"]
+[ECO "C11"]
+[Opening "French Defense: Burn Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:41:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 h6 5. Bxf6 Qxf6 6. a3 Qd8 7. Nf3 c6 8. Bd3
+g6 9. h4 Bg7 10. e5 c5 11. Nb5 O-O 12. dxc5 Nc6 13. Qe2 b6 14. cxb6 Qxb6 15. h5
+a6 16. Nd6 Qxb2 17. O-O Nxe5 18. hxg6 Nxf3+ 19. Qxf3 fxg6 20. Qg4 g5 21. Rab1
+Qe5 22. Nxc8 Raxc8 23. Rb7 Rf4 24. Qh5 Qf6 25. Bxa6 Rxc2 26. Qe8+ Bf8 27. Bd3
+Rcxf2 28. Rxf2 Rxf2 29. Bh7+ Kh8 30. Bd3 Rf4 31. a4 Qd4+ 0-1
+

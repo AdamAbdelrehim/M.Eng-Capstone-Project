@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "GuilleRosario"]
+[Black "raf1310"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/cRtO7jSa"]
+[WhiteElo "2518"]
+[BlackElo "2696"]
+[ECO "E15"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Check Variation, Intermezzo Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:32:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. b3 Bb4+ 6. Bd2 Be7 7. Bg2 c6 8. O-O
+d5 9. Qc2 Nbd7 10. Bf4 O-O 11. Rd1 Rc8 12. Nc3 h6 13. e4 dxc4 14. Nd2 b5 15.
+bxc4 bxc4 16. Na4 g5 17. Be3 Ng4 18. Nxc4 c5 19. d5 Bxc4 20. Qxc4 Nxe3 21. fxe3
+Ne5 22. Qc2 Qa5 23. Nb2 c4 24. d6 Bf6 25. Rd4 Qa3 26. Qe2 c3 27. Nd3 c2 28. Nc1
+Qb2 0-1
+

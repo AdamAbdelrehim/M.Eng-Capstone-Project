@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Sicilian_training"]
+[Black "Airpan"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/OeuW9Ewo"]
+[WhiteElo "2752"]
+[BlackElo "2731"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense: Romanishin Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:29:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. g3 d5 5. Bg2 O-O 6. Nf3 Nc6 7. O-O dxc4 8. Qa4
+Be7 9. Qxc4 Nd5 10. Rd1 a5 11. e4 Nb6 12. Qe2 a4 13. Bf4 Bd6 14. Bg5 Be7 15. h4
+h6 16. Be3 Bd7 17. Ne5 Nxe5 18. dxe5 Qe8 19. Qg4 Kh8 20. f4 Nc4 21. Bf2 Nxb2
+22. Rd4 Bc5 23. f5 exf5 24. exf5 Qxe5 25. Rxd7 Bxf2+ 26. Kxf2 Qxc3 27. Re1 Nd3+
+28. Rxd3 Qxd3 29. f6 gxf6 30. Qf4 Rae8 31. Be4 Rxe4 32. Rxe4 Kg7 33. Qg4+ Kh8
+34. Qf4 Qc2+ 35. Ke1 Qb1+ 36. Kf2 Qc2+ 37. Ke1 Qc3+ 38. Kf2 Rd8 39. Qxh6+ 1-0
+

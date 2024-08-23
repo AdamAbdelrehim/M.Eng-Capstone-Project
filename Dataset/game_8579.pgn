@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "durasno"]
+[Black "AaronGT24"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/2oWObBFq"]
+[WhiteElo "2576"]
+[BlackElo "2421"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "03:49:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. b3 g6 2. Bb2 Nf6 3. Bxf6 exf6 4. d4 d5 5. e3 c5 6. c3 Nc6 7. g3 f5 8. Bg2
+Be6 9. Ne2 Rc8 10. O-O Qa5 11. Nf4 cxd4 12. cxd4 Bb4 13. a3 O-O 14. Nd3 Rc7 15.
+Ra2 Rfc8 16. Rc2 Be7 17. Qe1 Qb6 18. Nd2 Bxa3 19. Nf4 Bb4 20. Nxd5 Bxd5 21.
+Bxd5 Qa5 22. Bxc6 Rxc6 23. Rxc6 Rxc6 0-1
+

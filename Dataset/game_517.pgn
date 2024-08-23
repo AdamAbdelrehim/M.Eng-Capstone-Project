@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "manneredmonkey"]
+[Black "NoahSkyler"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/VRg6IlY1"]
+[WhiteTitle "NM"]
+[WhiteElo "2596"]
+[BlackElo "2564"]
+[ECO "A15"]
+[Opening "English Opening: Anglo-Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "03:11:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. c4 Nf6 2. g3 h5 3. Bg2 h4 4. Nc3 e5 5. d3 Bc5 6. e3 d6 7. a3 a5 8. Rb1 Nc6
+9. Nd5 h3 10. Bf3 Nxd5 11. cxd5 Ne7 12. Ne2 g5 13. Nc3 f5 14. O-O Bd7 15. d4
+Bb6 16. dxe5 dxe5 17. d6 Nc6 18. Nd5 e4 19. Be2 Be6 20. Nxb6 cxb6 21. b3 Qd7
+22. Bb2 Rh6 23. Qd2 O-O-O 24. Rfd1 Bxb3 25. Rdc1 Rxd6 26. Qc3 a4 27. Qe1 Kb8
+28. Bb5 Rd1 29. Rxd1 Qxd1 30. Rxd1 Rxd1 31. Qxd1 Bxd1 32. Kf1 Kc7 33. Bf6 g4
+34. Ke1 Bb3 35. Ke2 Kd6 36. Kd2 Kc5 37. Be2 b5 38. Kc3 Bc4 39. Bd1 Na5 40. Be7+
+Kc6 41. Bb4 b6 42. Bf8 Be6 43. Be2 Nb3 44. Kb4 Bc4 45. Bd1 Nd2 46. Kc3 Nf1 47.
+Kd4 Nxh2 48. Ke5 Nf3+ 49. Kxf5 h2 50. Kxg4 h1=Q 51. Kf4 Qh3 52. Bc2 Bd5 53. Bg7
+Qe6 54. Bc3 Qf7+ 55. Kg4 Qg6+ 56. Kf4 Qg5# 0-1
+

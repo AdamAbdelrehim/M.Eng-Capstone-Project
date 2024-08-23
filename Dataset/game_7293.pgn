@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Barbashinigor"]
+[Black "yegoryoch"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/7rsXMhEU"]
+[WhiteTitle "FM"]
+[WhiteElo "2393"]
+[BlackElo "2539"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:46:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-10"]
+
+1. d4 d5 2. c4 dxc4 3. Nc3 a6 4. e3 b5 5. a4 b4 6. Qf3 Ra7 7. Bxc4 e6 8. Nce2
+Bb7 9. e4 Nf6 10. d5 exd5 11. exd5 Bxd5 12. Qe3+ Be7 13. Bxd5 Qxd5 14. Qxa7 O-O
+15. Nf4 Qf5 16. Nge2 Bc5 17. Qxc7 Rc8 18. Qb7 g5 19. Nh3 g4 20. Nhf4 Ne4 21.
+O-O 1-0
+

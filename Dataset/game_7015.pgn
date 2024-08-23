@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "FIDE-Trainer1984"]
+[Black "DaniloBesedes"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/RDrbILb7"]
+[BlackTitle "FM"]
+[WhiteElo "2477"]
+[BlackElo "2542"]
+[ECO "B00"]
+[Opening "Rat Defense: Antal Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:02:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. d4 d6 2. e4 Nd7 3. g4 e5 4. Ne2 exd4 5. Nxd4 Ne7 6. Bg2 Ng6 7. Nc3 Nh4 8.
+O-O h5 9. g5 Be7 10. f4 Nxg2 11. Kxg2 c6 12. Nf5 Nc5 13. Nxg7+ Kf8 14. Nxh5 b5
+15. a3 a5 16. h4 Be6 17. f5 Bc4 18. Re1 b4 19. axb4 axb4 20. Rxa8 Qxa8 21. Qd4
+Rxh5 22. Qxc4 bxc3 23. f6 Bd8 24. Bf4 Ne6 25. Bxd6+ Kg8 26. Kg3 cxb2 27. Kg4
+Rh8 28. Be5 Qc8 29. Kg3 Bc7 30. Qc3 Bxe5+ 31. Qxe5 Qb7 32. Rb1 c5 33. Rxb2 Qc6
+34. Rb8+ Nf8 35. Qe7 Kh7 36. Qxf7# 1-0
+

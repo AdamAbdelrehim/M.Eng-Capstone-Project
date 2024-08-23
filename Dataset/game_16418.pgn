@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "durasno"]
+[Black "Ivn_2001"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/NC64A7mM"]
+[BlackTitle "CM"]
+[WhiteElo "2538"]
+[BlackElo "2374"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "01:38:16"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-4"]
+
+1. b3 d5 2. Bb2 c5 3. Nf3 Nc6 4. e3 a6 5. d4 Nf6 6. Nbd2 Bg4 7. Be2 e6 8. O-O
+Rc8 9. c4 cxd4 10. Nxd4 Bxe2 11. Qxe2 Bd6 12. cxd5 Nxd5 13. Rac1 Nxd4 14. Bxd4
+Rxc1 15. Rxc1 O-O 16. Ne4 Bxh2+ 17. Kxh2 Qh4+ 18. Kg1 Qxe4 19. Qc2 Qxc2 20.
+Rxc2 f6 21. e4 Nf4 22. g3 e5 23. Bc5 Rc8 24. gxf4 b6 25. fxe5 Rxc5 26. Rxc5
+bxc5 27. exf6 gxf6 28. f4 Kf7 29. Kg2 Ke6 30. Kg3 Kd6 31. Kg4 c4 32. bxc4 Kc5
+33. e5 1-0
+

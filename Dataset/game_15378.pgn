@@ -1,0 +1,41 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Nikitosikbot_v2"]
+[Black "SolistaBot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/yUwVLruv"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3031"]
+[BlackElo "3031"]
+[ECO "A92"]
+[Opening "Dutch Defense: Stonewall Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:26:25"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. d4 f5 2. g3 e6 3. c4 Nf6 4. Nf3 Be7 5. Bg2 d5 6. O-O O-O 7. Qc2 Ne4 8. Nc3
+c6 9. Bf4 Nd7 10. Rad1 a5 11. h4 h6 12. Nxe4 fxe4 13. Ne5 Nxe5 14. Bxe5 Bf6 15.
+Bxf6 Rxf6 16. f3 Rg6 17. Kh2 Qd6 18. f4 b6 19. e3 Bd7 20. h5 Rf6 21. Rd2 Be8
+22. g4 g5 23. hxg6 Rxg6 24. Bh3 Rc8 25. Rg1 c5 26. Qc3 Rc7 27. Bf1 Kh7 28. Be2
+Rcg7 29. Kg2 Qe7 30. Kh3 Qd6 31. dxc5 bxc5 32. Qc2 d4 33. Qxe4 Bc6 34. Qe5 Qxe5
+35. fxe5 dxe3 36. Rd3 h5 37. Rxe3 Kh6 38. Rgg3 Be8 39. gxh5 Rxg3+ 40. Rxg3 Rb7
+41. Rg8 Bf7 42. Rh8+ Kg7 43. Ra8 Rxb2 44. Bg4 Kh6 45. Kh4 Rh2+ 46. Bh3 Re2 47.
+a3 Re4+ 48. Bg4 Rxc4 49. Rh8+ Kg7 50. Rc8 Kh6 51. Rh8+ Kg7 52. Rc8 Kh6 53. Rf8
+Kg7 54. Ra8 Kh6 55. Rf8 Kg7 56. Rb8 Kh6 57. Rc8 Re4 58. Rh8+ Kg7 59. Rc8 Rxe5
+60. Rc7 Kf6 61. h6 Rd5 62. h7 Rd8 63. Bh5 Bg6 64. Bxg6 Kxg6 65. Rxc5 Kxh7 66.
+Rxa5 e5 67. Rxe5 Rd3 68. Kg5 Rxa3 69. Rc5 Kh8 70. Kf5 Kg7 71. Rd5 Kf7 72. Rc5
+Ra7 73. Kf4 Re7 74. Rd5 Ke6 75. Rd3 Ra7 76. Rb3 Ra5 77. Ke3 Kd7 78. Rb8 Ra1 79.
+Kf3 Ra6 80. Rb5 Ra1 81. Re5 Rg1 82. Re4 Rg8 83. Kf2 Ra8 84. Ke1 Rd8 85. Rf4 Kc8
+86. Kf2 Rd1 87. Rg4 Rd2+ 88. Ke1 Rd6 89. Ra4 Rh6 90. Ra8+ Kd7 91. Ke2 Kc7 92.
+Ke1 Kb6 93. Kf1 Rg6 94. Ra2 Kc7 95. Ra8 Rg3 96. Ra5 Re3 97. Rf5 Kd8 98. Kg1 Ke7
+99. Kh1 Re1+ 100. Kh2 Rc1 101. Ra5 Kf6 102. Ra2 Kf7 103. Ra4 Kg6 104. Ra7 Rc5
+105. Ra6+ Kg7 106. Kh1 Kg8 107. Rf6 Rc3 108. Rg6+ Kh7 109. Rg5 Kh6 110. Rb5 Rc4
+111. Rb2 Kh7 112. Re2 Rb4 113. Rd2 Rb1+ 114. Kh2 Rf1 115. Rb2 Rf7 116. Rg2 Rf8
+117. Rc2 Kg8 118. Kh1 Kh8 1/2-1/2
+

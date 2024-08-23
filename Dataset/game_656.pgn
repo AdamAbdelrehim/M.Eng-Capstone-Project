@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Mormonenrique"]
+[Black "MIBenjaminmela"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/K1dDf2ZY"]
+[BlackTitle "IM"]
+[WhiteElo "2411"]
+[BlackElo "2508"]
+[ECO "A56"]
+[Opening "Benoni Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "03:58:04"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 c5 3. d5 g6 4. Nc3 Bg7 5. e4 d6 6. h3 O-O 7. Nf3 e6 8. Bd3 exd5
+9. cxd5 b5 10. Nxb5 Nxe4 11. Bxe4 Re8 12. Ng5 h6 13. Ne6 Bxe6 14. dxe6 Rxe6 15.
+O-O Rxe4 16. Qd5 Rb4 17. Qxa8 Rxb5 18. Qxa7 Nc6 19. Qa4 Nd4 20. Rb1 Ra5 21. Qc4
+d5 22. Qd3 Rxa2 23. Be3 Ne6 24. Rfd1 d4 25. Bd2 Qd5 26. Rdc1 Ra4 27. b4 cxb4
+28. Rxb4 Rxb4 29. Bxb4 Nf4 30. Rc8+ Kh7 31. Qf3 Qf5 32. Rc1 d3 33. Rd1 Bd4 34.
+Bd6 Ne2+ 35. Kf1 Qxf3 36. gxf3 Bf6 37. Rxd3 Nd4 38. Ra3 Nf5 39. Bf4 Kg7 40. Ra6
+g5 41. Bd2 Nh4 42. Ke2 Ng6 43. Rc6 Be5 44. Bc3 Bxc3 45. Rxc3 Nf4+ 46. Kf1 Nxh3
+47. Rc6 Nf4 48. Ra6 Ne6 49. Kg2 Kg6 50. Kg3 h5 51. f4 g4 52. Kh4 Kf5 53. Kxh5
+Kxf4 54. Kh4 f5 55. Ra3 Ke5 56. Re3+ Kf6 57. Rd3 Nf4 58. Ra3 Ne6 59. Ra6 Ke5
+60. Kg3 Kf6 61. f4 Kf7 62. Ra7+ Kf6 63. Ra6 Kf7 64. Ra4 Kf6 65. Kh4 Kf7 66. Kh5
+Kf6 67. Ra6 Kf7 68. Ra4 Kf6 69. Kh6 Ng7 70. Ra6+ Ne6 0-1
+

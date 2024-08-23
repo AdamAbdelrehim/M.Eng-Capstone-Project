@@ -1,0 +1,27 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.05"]
+[Round "-"]
+[White "Mako007ma"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1bqkb1r/1ppp1Npp/p1n2n2/4p3/2B1P3/8/PPPP1PPP/RNBQK2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C20"]
+[ECOUrl "https://www.chess.com/openings/Kings-Pawn-Opening-1...e5"]
+[UTCDate "2021.01.05"]
+[UTCTime "20:29:07"]
+[WhiteElo "1023"]
+[BlackElo "1027"]
+[TimeControl "600"]
+[Termination "Mako007ma won by resignation"]
+[StartTime "20:29:07"]
+[EndDate "2021.01.05"]
+[EndTime "20:30:02"]
+[Link "https://www.chess.com/game/live/6153062428"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:10:00] } 2. Nh3 { [%clk 0:09:53.9] }
+2... Nf6 { [%clk 0:09:56.3] } 3. Ng5 { [%clk 0:09:50.7] } 3... Nc6
+{ [%clk 0:09:43.2] } 4. Bc4 { [%clk 0:09:48.3] } 4... a6 { [%clk 0:09:35.8] }
+5. Nxf7 { [%clk 0:09:44.6] } 1-0
+

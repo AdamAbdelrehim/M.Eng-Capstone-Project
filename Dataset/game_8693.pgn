@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "CRBorn"]
+[Black "richard_nati"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/8OPn5JiM"]
+[WhiteElo "2549"]
+[BlackElo "2476"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Sämisch Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "04:43:01"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. dxc3 d6 5. Bc4 Nc6 6. Nf3 dxe5 7. Qxd8+ Nxd8
+8. Nxe5 Be6 9. Bb5+ c6 10. Bd3 f6 11. Nc4 Nf7 12. f4 O-O-O 13. O-O Bd7 14. Re1
+e6 15. Be3 b6 16. a4 Kb7 17. a5 b5 18. a6+ Kb8 19. Na5 Bd6 20. Be4 Rc8 21. Nb7
+Be7 22. Rad1 Rc7 23. Rd2 Bc8 24. Nc5 Bxc5 25. Bxc5 Bxa6 26. Red1 Bc8 27. g3 g6
+28. Kf2 e5 29. b3 Re8 30. fxe5 Rxe5 0-1
+

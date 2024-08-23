@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "bancsoo"]
+[Black "vistagusta"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/TLC9Tx4m"]
+[WhiteTitle "GM"]
+[WhiteElo "2785"]
+[BlackElo "2806"]
+[ECO "E68"]
+[Opening "King's Indian Defense: Fianchetto Variation, Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:18:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. Nf3 g6 3. g3 Bg7 4. Bg2 O-O 5. c4 d6 6. Nc3 Nbd7 7. O-O e5 8. e4
+exd4 9. Nxd4 Nc5 10. h3 Re8 11. Re1 h6 12. Kh2 a5 13. Ndb5 Bd7 14. Bf4 g5 15.
+Bc1 Bc6 16. f3 a4 17. Be3 Nfd7 18. Qc2 Ne5 19. Bxc5 dxc5 20. Rad1 Qf6 21. Qe2
+Qe7 22. b3 axb3 23. axb3 h5 24. f4 gxf4 25. gxf4 Ng6 26. Rf1 Qh4 27. Qf2 Qe7
+28. Kh1 Nh4 29. Nd5 Bxd5 30. exd5 c6 31. d6 Qf6 32. Nc7 Nf5 33. Nxa8 Rxa8 34.
+d7 Nd4 35. Rfe1 Kf8 36. Qe3 Qe6 37. Qxe6 fxe6 38. Ra1 Rd8 39. Ra7 Rxd7 40. Re3
+Ke7 41. Be4 Kf6 42. Kg2 Bh6 43. Rg3 Bxf4 44. Rg6+ Ke5 45. Bb1 Nxb3 46. Ra3 Rd2+
+47. Kf1 Rd1+ 48. Ke2 Rxb1 49. Ra8 Nd4+ 50. Kd3 Rb3# 0-1
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "bluechess2011"]
+[Black "PurpleHunter"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/RvQyIhcr"]
+[BlackTitle "BOT"]
+[WhiteElo "2374"]
+[BlackElo "2616"]
+[ECO "C47"]
+[Opening "Four Knights Game: Gunsberg Variation"]
+[TimeControl "120+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:42:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+2"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. a3 Be7 5. d4 exd4 6. Nxd4 O-O 7. Be3 d5 8.
+exd5 Nxd5 9. Nxd5 Qxd5 10. Qf3 Qa5+ 11. c3 Ne5 12. Qg3 Bd6 13. Qh4 Re8 14. Be2
+Ng6 15. Qg5 Qxg5 16. Bxg5 Bf4 17. Bxf4 Nxf4 18. b4 Nxg2+ 19. Kf1 Nf4 20. Bf3
+Bh3+ 21. Kg1 Re5 0-1
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "CHILOSCA"]
+[Black "FSTcoach"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/6v9LzElH"]
+[BlackTitle "IM"]
+[WhiteElo "2612"]
+[BlackElo "2570"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:37:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. d4 e6 2. Nf3 c5 3. g3 b6 4. d5 Nf6 5. c4 exd5 6. cxd5 d6 7. Nc3 g6 8. e4 Bg7
+9. Bb5+ Bd7 10. a4 O-O 11. O-O Re8 12. Re1 a6 13. Bf1 Bg4 14. h3 Bxf3 15. Qxf3
+Nbd7 16. Bg5 Qc7 17. g4 h6 18. Bf4 Ne5 19. Qg3 g5 20. Bd2 Ng6 21. f4 Nxf4 22.
+Bxf4 gxf4 23. Qxf4 Nd7 24. h4 Ne5 25. g5 hxg5 26. hxg5 Ng6 27. Qg4 Bd4+ 28. Kg2
+Re5 29. Ne2 Qe7 30. Ng3 Rxg5 0-1
+

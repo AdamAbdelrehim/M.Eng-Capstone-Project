@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.16"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "jacobpandian"]
+[Result "1-0"]
+[CurrentPosition "5Q1k/p5pp/8/3B2q1/4P2n/8/P4PPP/5R1K b - -"]
+[Timezone "UTC"]
+[ECO "C53"]
+[ECOUrl "https://www.chess.com/openings/Giuoco-Piano-Game-Main-Line-La-Bourdonnais-Variation"]
+[UTCDate "2021.10.16"]
+[UTCTime "07:30:49"]
+[WhiteElo "1611"]
+[BlackElo "1739"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by checkmate"]
+[StartTime "07:30:49"]
+[EndDate "2021.10.16"]
+[EndTime "07:34:28"]
+[Link "https://www.chess.com/game/live/28108211943"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:58.5] } 2. Nf3
+{ [%clk 0:09:59.4] } 2... Nc6 { [%clk 0:09:58.4] } 3. Bc4 { [%clk 0:09:58.1] }
+3... Bc5 { [%clk 0:09:56.8] } 4. c3 { [%clk 0:09:55.9] } 4... d6
+{ [%clk 0:09:55.3] } 5. d4 { [%clk 0:09:52.3] } 5... exd4 { [%clk 0:09:55.2] }
+6. cxd4 { [%clk 0:09:51.1] } 6... Bb6 { [%clk 0:09:55.1] } 7. Nc3
+{ [%clk 0:09:49.5] } 7... Bg4 { [%clk 0:09:53] } 8. Be3 { [%clk 0:09:47] } 8...
+Nf6 { [%clk 0:09:48.7] } 9. O-O { [%clk 0:09:38.2] } 9... Bxf3
+{ [%clk 0:09:46.3] } 10. Qxf3 { [%clk 0:09:34.5] } 10... Bxd4
+{ [%clk 0:09:43.6] } 11. Bxd4 { [%clk 0:09:33.5] } 11... Nxd4
+{ [%clk 0:09:42.3] } 12. Qd3 { [%clk 0:09:30.2] } 12... c5 { [%clk 0:09:36.9] }
+13. b4 { [%clk 0:09:26.2] } 13... O-O { [%clk 0:09:33.6] } 14. bxc5
+{ [%clk 0:09:24.2] } 14... dxc5 { [%clk 0:09:33.5] } 15. Rab1
+{ [%clk 0:09:20.6] } 15... Qc7 { [%clk 0:09:21.6] } 16. Nd5
+{ [%clk 0:09:14.8] } 16... Nxd5 { [%clk 0:09:18.7] } 17. Bxd5
+{ [%clk 0:09:12.8] } 17... Rad8 { [%clk 0:09:15.6] } 18. Rxb7
+{ [%clk 0:09:03.1] } 18... Qf4 { [%clk 0:09:12.4] } 19. Qc4
+{ [%clk 0:08:42.6] } 19... Kh8 { [%clk 0:09:04.5] } 20. Rxf7
+{ [%clk 0:08:30.3] } 20... Qg5 { [%clk 0:08:57.9] } 21. Rxf8+
+{ [%clk 0:08:25.9] } 21... Rxf8 { [%clk 0:08:57.8] } 22. Qxc5
+{ [%clk 0:08:11.2] } 22... Nf3+ { [%clk 0:08:54.8] } 23. Kh1
+{ [%clk 0:08:10.6] } 23... Nh4 { [%clk 0:08:53.1] } 24. Qxf8#
+{ [%clk 0:07:39.7] } 1-0
+

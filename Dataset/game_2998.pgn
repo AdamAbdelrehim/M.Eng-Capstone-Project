@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "triple_j"]
+[Black "MattLoncke"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/MS8qs9rB"]
+[WhiteElo "2420"]
+[BlackElo "2524"]
+[ECO "A05"]
+[Opening "Zukertort Opening: Nimzo-Larsen Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:47:39"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+
+1. Nf3 Nf6 2. b3 g6 3. Bb2 Bg7 4. e3 O-O 5. c4 d6 6. Nc3 Nc6 7. d4 e5 8. dxe5
+dxe5 9. Qxd8 Rxd8 10. Be2 Bf5 11. O-O Rd7 12. Rad1 Rad8 13. Rxd7 Rxd7 14. Rd1
+Rxd1+ 15. Nxd1 Nd7 16. Nc3 e4 17. Nd2 Nc5 18. g4 Be6 19. a3 a5 20. Kf1 Be5 21.
+h4 f5 22. gxf5 gxf5 23. Ke1 Bf6 24. h5 Bf7 25. Kd1 h6 26. Kc2 Kg7 27. Nb5 Bxb2
+28. Kxb2 Ne6 29. Kc3 Ne7 30. Nf1 Kf6 31. Ng3 Ke5 32. f4+ exf3 33. Bxf3 c6 34.
+Na7 Kd6 35. b4 axb4+ 36. axb4 Kc7 37. b5 c5 38. Bd5 Kb6 39. Nc6 bxc6 40. bxc6
+Kc7 41. Kd3 Nd8 42. e4 fxe4+ 43. Kxe4 Be8 44. Ke5 Ndxc6+ 45. Ke6 Nxd5 46. cxd5
+Nb4 47. Ne4 Bxh5 48. Nxc5 Bg4+ 49. Ke5 Nxd5 50. Kxd5 h5 51. Ke4 Kd8 52. Kf4 Ke8
+53. Ne4 Kf8 54. Nf6 Kg7 55. Nxg4 Kh8 56. Nf6 1-0
+

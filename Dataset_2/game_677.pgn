@@ -1,0 +1,42 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.08"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Nyaede"]
+[Result "0-1"]
+[CurrentPosition "6k1/p4ppp/3pb3/1p6/5n2/1P6/P4PPP/5N1K w - -"]
+[Timezone "UTC"]
+[ECO "C55"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Two-Knights-Defense"]
+[UTCDate "2021.03.08"]
+[UTCTime "05:55:18"]
+[WhiteElo "880"]
+[BlackElo "857"]
+[TimeControl "60"]
+[Termination "Nyaede won on time"]
+[StartTime "05:55:18"]
+[EndDate "2021.03.08"]
+[EndTime "05:57:11"]
+[Link "https://www.chess.com/game/live/8921805355"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.2] }
+2... Nf6 { [%clk 0:00:59.7] } 3. Bc4 { [%clk 0:00:58.7] } 3... Nc6
+{ [%clk 0:00:57.2] } 4. Nc3 { [%clk 0:00:57.4] } 4... Bc5 { [%clk 0:00:54.2] }
+5. b3 { [%clk 0:00:50.6] } 5... d6 { [%clk 0:00:52.6] } 6. Bb2
+{ [%clk 0:00:48.9] } 6... Nd4 { [%clk 0:00:45.4] } 7. Nxd4 { [%clk 0:00:46.1] }
+7... Bxd4 { [%clk 0:00:43.9] } 8. Na4 { [%clk 0:00:37] } 8... c6
+{ [%clk 0:00:39.9] } 9. Bxd4 { [%clk 0:00:35.5] } 9... exd4 { [%clk 0:00:37] }
+10. O-O { [%clk 0:00:28] } 10... b5 { [%clk 0:00:35.3] } 11. Bxb5
+{ [%clk 0:00:20.8] } 11... cxb5 { [%clk 0:00:35.2] } 12. Nb2
+{ [%clk 0:00:18.9] } 12... O-O { [%clk 0:00:33.9] } 13. c3 { [%clk 0:00:18.2] }
+13... dxc3 { [%clk 0:00:31.5] } 14. dxc3 { [%clk 0:00:18.1] } 14... Nxe4
+{ [%clk 0:00:30.6] } 15. Qf3 { [%clk 0:00:15.8] } 15... Nxc3 { [%clk 0:00:29] }
+16. Qxa8 { [%clk 0:00:14.3] } 16... Be6 { [%clk 0:00:24.5] } 17. Qxd8
+{ [%clk 0:00:11.6] } 17... Rxd8 { [%clk 0:00:24.4] } 18. Rac1
+{ [%clk 0:00:10.2] } 18... Rc8 { [%clk 0:00:22.3] } 19. Nd1
+{ [%clk 0:00:06.4] } 19... Ne2+ { [%clk 0:00:21.2] } 20. Kh1
+{ [%clk 0:00:03.1] } 20... Rxc1 { [%clk 0:00:20.7] } 21. Ne3
+{ [%clk 0:00:01.1] } 21... Rxf1+ { [%clk 0:00:20.2] } 22. Nxf1
+{ [%clk 0:00:01] } 22... Nf4 { [%clk 0:00:18.3] } 0-1
+

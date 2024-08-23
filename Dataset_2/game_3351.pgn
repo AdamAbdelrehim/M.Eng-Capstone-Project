@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.01.02"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Ffreer"]
+[Result "0-1"]
+[CurrentPosition "r3kb1r/ppp1qppp/8/3p4/3nnBb1/3Q1N1P/PPP2PP1/RN2KB1R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C42"]
+[ECOUrl "https://www.chess.com/openings/Petrovs-Defense-Classical-Stafford-Gambit"]
+[UTCDate "2022.01.02"]
+[UTCTime "23:08:22"]
+[WhiteElo "1576"]
+[BlackElo "1631"]
+[TimeControl "600"]
+[Termination "Ffreer won by resignation"]
+[StartTime "23:08:22"]
+[EndDate "2022.01.02"]
+[EndTime "23:10:43"]
+[Link "https://www.chess.com/game/live/34903846415"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:58.9] } 2. Nf3
+{ [%clk 0:09:59.1] } 2... Nf6 { [%clk 0:09:57.4] } 3. Nxe5 { [%clk 0:09:55.5] }
+3... Nc6 { [%clk 0:09:55.9] } 4. Nf3 { [%clk 0:09:51.5] } 4... Nxe4
+{ [%clk 0:09:51.7] } 5. Qe2 { [%clk 0:09:48.9] } 5... Qe7 { [%clk 0:09:50.2] }
+6. d4 { [%clk 0:09:40.4] } 6... d5 { [%clk 0:09:26.4] } 7. Bf4
+{ [%clk 0:09:31.9] } 7... Bg4 { [%clk 0:09:20.2] } 8. h3 { [%clk 0:09:06.9] }
+8... Nxd4 { [%clk 0:09:04.1] } 9. Qd3 { [%clk 0:08:45.8] } 0-1
+

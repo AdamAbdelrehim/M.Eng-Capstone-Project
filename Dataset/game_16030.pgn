@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "estocastico"]
+[Black "NameTheGame"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/t6hAeIAD"]
+[WhiteTitle "IM"]
+[WhiteElo "2744"]
+[BlackElo "2727"]
+[ECO "D55"]
+[Opening "Queen's Gambit Declined: Neo-Orthodox Variation, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "23:30:05"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. Nc3 Be7 5. Bg5 O-O 6. e3 h6 7. Bh4 dxc4 8. Bxc4
+c5 9. dxc5 Nbd7 10. b4 b6 11. O-O bxc5 12. b5 Nb6 13. Qe2 Nfd5 14. Bxe7 Nxc3
+15. Qc2 Qxe7 16. Qxc3 Bb7 17. Be2 c4 18. a4 Rac8 19. Rfc1 Nd5 20. Qd4 c3 21.
+Qxa7 e5 22. Nxe5 Qxe5 23. Qxb7 c2 24. Bf1 Rc7 25. Qa6 Nb4 26. Qa5 Qc3 27. b6
+Rc5 28. Qa7 Nc6 29. Qd7 Rd8 30. Qc7 Qxa1 31. Rxa1 Rd1 32. g3 Rxa1 33. b7 c1=Q
+34. Kg2 Qxf1+ 35. Kf3 Qd1+ 36. Kg2 Qh1+ 37. Kh3 Rh5+ 38. Kg4 Rg5+ 39. Kh3 Qf1+
+40. Kh4 Rh5+ 41. Kg4 Qd1+ 42. f3 f5+ 43. Kf4 Rxa4+ 44. e4 Qd2# 0-1
+

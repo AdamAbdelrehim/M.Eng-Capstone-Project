@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "C2H5OH3"]
+[Black "FIDE-Trainer1984"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/zB6duspO"]
+[WhiteElo "2440"]
+[BlackElo "2505"]
+[ECO "A00"]
+[Opening "Hungarian Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:09:24"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. g3 d5 2. Nh3 e5 3. f3 c6 4. Nf2 Nf6 5. Bg2 Bd6 6. O-O O-O 7. d3 Re8 8. e4
+Nbd7 9. Nc3 Nf8 10. Kh1 Ng6 11. Bg5 h6 12. Bxf6 gxf6 13. exd5 cxd5 14. Nxd5 1-0
+

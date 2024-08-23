@@ -1,0 +1,39 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.01.23"]
+[Round "-"]
+[White "over100teeth"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rn2r1k1/pp5p/3p1ppP/2p5/7B/2P2N1R/P1P1BP2/1R2K3 b - -"]
+[Timezone "UTC"]
+[ECO "A43"]
+[ECOUrl "https://www.chess.com/openings/Old-Benoni-Defense-Benoni-Indian-Defense-3.Nc3-g6-4.e4"]
+[UTCDate "2022.01.23"]
+[UTCTime "00:24:49"]
+[WhiteElo "1673"]
+[BlackElo "1588"]
+[TimeControl "600"]
+[Termination "over100teeth won by resignation"]
+[StartTime "00:24:49"]
+[EndDate "2022.01.23"]
+[EndTime "00:30:23"]
+[Link "https://www.chess.com/game/live/36636585539"]
+
+1. d4 { [%clk 0:10:00] } 1... c5 { [%clk 0:10:00] } 2. d5 { [%clk 0:09:58.6] }
+2... Nf6 { [%clk 0:09:57.6] } 3. Nc3 { [%clk 0:09:55.4] } 3... g6
+{ [%clk 0:09:56.5] } 4. e4 { [%clk 0:09:54.1] } 4... Bg7 { [%clk 0:09:55.1] }
+5. e5 { [%clk 0:09:52.2] } 5... Nh5 { [%clk 0:09:48.8] } 6. g4
+{ [%clk 0:09:45.7] } 6... Bxe5 { [%clk 0:09:34.1] } 7. gxh5
+{ [%clk 0:09:44.2] } 7... Bxc3+ { [%clk 0:09:33.2] } 8. bxc3
+{ [%clk 0:09:39.9] } 8... O-O { [%clk 0:09:23.7] } 9. h6 { [%clk 0:09:31] }
+9... d6 { [%clk 0:09:22] } 10. Nf3 { [%clk 0:09:11.6] } 10... Bg4
+{ [%clk 0:09:16.6] } 11. h3 { [%clk 0:09:09.9] } 11... Bf5 { [%clk 0:09:10.4] }
+12. Bd3 { [%clk 0:09:07.7] } 12... Qd7 { [%clk 0:09:05.5] } 13. Bg5
+{ [%clk 0:08:46.2] } 13... f6 { [%clk 0:08:57.4] } 14. Bh4 { [%clk 0:08:34.5] }
+14... e5 { [%clk 0:08:41.7] } 15. dxe6 { [%clk 0:08:26.2] } 15... Qxe6+
+{ [%clk 0:08:31.1] } 16. Qe2 { [%clk 0:08:24.1] } 16... Bxh3
+{ [%clk 0:08:21.9] } 17. Rb1 { [%clk 0:07:33.7] } 17... Re8
+{ [%clk 0:07:42.6] } 18. Rxh3 { [%clk 0:07:19.5] } 18... Qxe2+
+{ [%clk 0:07:21.6] } 19. Bxe2 { [%clk 0:07:16.8] } 1-0
+

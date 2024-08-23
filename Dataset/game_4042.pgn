@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Labourdonais"]
+[Black "Mammuth"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/DD5HDRgv"]
+[BlackTitle "IM"]
+[WhiteElo "2558"]
+[BlackElo "2557"]
+[ECO "A41"]
+[Opening "Queen's Pawn Game"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:11:31"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+
+1. d4 d6 2. Nf3 g6 3. c4 Bg7 4. Nc3 Bg4 5. e3 c5 6. Be2 Nc6 7. d5 Na5 8. Qa4+
+Bd7 9. Qc2 a6 10. O-O Rb8 11. a3 Bf5 12. e4 Bg4 13. b4 cxb4 14. axb4 Nxc4 15.
+Bxc4 Rc8 16. Nd2 b5 17. Rxa6 bxc4 18. Rc6 Bd7 19. b5 Bxc6 20. dxc6 Qa5 21. Bb2
+Nf6 22. Ra1 Qd8 23. Nxc4 O-O 24. Nd5 e6 25. c7 Rxc7 26. Nxc7 Qxc7 27. Bxf6 Bxf6
+28. Rb1 d5 29. exd5 exd5 30. Ne3 1-0
+

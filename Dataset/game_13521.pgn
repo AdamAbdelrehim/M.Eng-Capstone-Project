@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Adrian_DelaCruz"]
+[Black "LiVaEv"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Lm5E9DFU"]
+[BlackTitle "IM"]
+[WhiteElo "2601"]
+[BlackElo "2603"]
+[ECO "D45"]
+[Opening "Semi-Slav Defense: Stoltz Variation, Shabalov Attack"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:52:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. Nc3 e6 5. e3 Nbd7 6. Qc2 Bd6 7. g4 Bb4 8. Bd3
+dxc4 9. Bxc4 c5 10. g5 Nd5 11. Bd2 cxd4 12. exd4 Nxc3 13. bxc3 Bd6 14. Rg1 Qc7
+15. Bb3 Bf4 16. O-O-O Bxd2+ 17. Qxd2 O-O 18. h4 b5 19. h5 Bb7 20. Nh4 Rac8 21.
+Rg3 b4 22. g6 bxc3 23. gxh7+ Kh8 24. Qg5 g6 25. hxg6 fxg6 26. Nxg6+ Kxh7 27.
+Nxf8+ Nxf8 28. Rh3# 1-0
+

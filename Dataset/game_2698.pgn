@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "UntilItIsOtherwise"]
+[Black "mick_chess"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/vnTuTjyY"]
+[WhiteTitle "NM"]
+[WhiteElo "2725"]
+[BlackElo "2731"]
+[ECO "C01"]
+[Opening "French Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:05:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Bd6 6. O-O O-O 7. Bg5 Bg4 8.
+Nbd2 Nbd7 9. c4 c6 10. c5 Bb8 11. b4 Re8 12. Qc2 h6 13. Bh4 Bf4 14. h3 Be6 15.
+a4 Qc7 16. Bxf6 Nxf6 17. Rfe1 Bd7 18. Nb3 Rad8 19. g3 Bxg3 20. fxg3 Qxg3+ 21.
+Qg2 Qxh3 22. Qxh3 Bxh3 23. Rxe8+ Rxe8 24. Ne5 Nd7 25. Nxd7 Bxd7 26. Kf2 f5 27.
+Na5 Bc8 28. b5 cxb5 29. axb5 f4 30. Be2 g5 31. Bf3 Rd8 32. c6 b6 33. Nb7 Rf8
+34. Bxd5+ Kh8 35. Nd6 g4 36. Rxa7 g3+ 37. Kf3 Bh3 38. Nf7+ Kg7 39. Ng5+ Kf6 40.
+Nxh3 Re8 41. Rf7+ Kg6 42. Nxf4+ Kg5 43. Nh3+ Kh4 44. Rf6 h5 45. Rf5 Re1 46. Nf4
+Rf1+ 47. Kg2 Rf2+ 48. Kg1 Kg4 49. Rxh5 Kxf4 50. Rh8 Rc2 51. Bg2 Rc1+ 52. Bf1
+Kf3 53. d5 g2 54. Rf8+ Ke4 55. d6 gxf1=Q+ 56. Rxf1 Rc5 57. d7 Rg5+ 58. Kf2 Rf5+
+59. Ke2 Rd5 60. Rd1 Rxb5 61. d8=Q Rb2+ 62. Qd2 Rxd2+ 63. Rxd2 b5 64. Rd3 b4 65.
+Rd7 b3 66. Rb7 b2 67. Rb3 b1=Q 68. Rb2 Qxb2+ 0-1
+

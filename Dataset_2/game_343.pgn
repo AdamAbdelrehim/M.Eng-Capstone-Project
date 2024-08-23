@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.07"]
+[Round "-"]
+[White "dishmop"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1b1kbnr/pppp2pp/4q3/4R3/3Q4/3B4/PPP2PPP/RNB3K1 b kq -"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Declined"]
+[UTCDate "2021.02.07"]
+[UTCTime "09:56:56"]
+[WhiteElo "1241"]
+[BlackElo "1267"]
+[TimeControl "600"]
+[Termination "dishmop won by resignation"]
+[StartTime "09:56:56"]
+[EndDate "2021.02.07"]
+[EndTime "09:59:22"]
+[Link "https://www.chess.com/game/live/6478092690"]
+
+1. Nf3 { [%clk 0:10:00] } 1... Nc6 { [%clk 0:09:57.5] } 2. e4
+{ [%clk 0:09:44.4] } 2... e5 { [%clk 0:09:55] } 3. d4 { [%clk 0:09:41.8] } 3...
+exd4 { [%clk 0:09:46.7] } 4. Nxd4 { [%clk 0:09:39.9] } 4... Nxd4
+{ [%clk 0:09:45.5] } 5. Qxd4 { [%clk 0:09:37.9] } 5... Qf6 { [%clk 0:09:43.1] }
+6. e5 { [%clk 0:09:29.6] } 6... Qf5 { [%clk 0:09:14.2] } 7. Bd3
+{ [%clk 0:09:21.2] } 7... Qe6 { [%clk 0:09:08.3] } 8. O-O { [%clk 0:09:14.9] }
+8... f6 { [%clk 0:09:00.2] } 9. Re1 { [%clk 0:09:11.6] } 9... fxe5
+{ [%clk 0:08:50.2] } 10. Rxe5 { [%clk 0:09:10] } 1-0
+

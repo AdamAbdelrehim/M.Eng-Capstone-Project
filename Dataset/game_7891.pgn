@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "qullan"]
+[Black "tropical_drawer"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/h28eIyYY"]
+[WhiteElo "2517"]
+[BlackElo "2381"]
+[ECO "B00"]
+[Opening "Owen Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:51:51"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-3"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. Nc3 Bb4 5. Qg4 Nf6 6. Qxg7 Rg8 7. Qh6 Nxe4 8.
+Ne2 Qf6 9. f3 Qxh6 10. Bxh6 Nxc3 11. bxc3 Bf8 12. Bxf8 Kxf8 13. Bxh7 Rxg2 14.
+Be4 Bxe4 15. fxe4 Nc6 16. Kf1 Rg6 17. h4 Ke7 18. e5 d6 19. h5 Rh6 20. exd6+
+cxd6 21. Kf2 Rah8 22. Ng3 f5 23. Kf3 Kf6 24. Raf1 e5 25. Ke2 f4 26. Kd3 Ke6 27.
+Ne4 Rxh5 28. Rxh5 Rxh5 29. d5+ Ke7 30. dxc6 d5 31. Nd2 Kd6 32. c4 Rh3+ 33. Ke2
+Kxc6 34. cxd5+ Kxd5 35. c4+ Kd4 36. Nf3+ Kxc4 37. Nxe5+ Kd5 38. Nf3 Rg3 39. Kf2
+Rg7 40. Rd1+ Kc4 41. Rd4+ Kc3 42. Rxf4 Kb2 43. a4 Rd7 44. Ke2 Ka3 45. Ke3 Rd1
+46. Nd2 Rc1 47. Kd3 a6 48. Nc4+ Kxa4 49. Nxb6+ Kb5 50. Nd5 Rd1+ 51. Ke4 Re1+
+52. Ne3 a5 53. Rf5+ Kb4 54. Kd3 Rh1 55. Rf4+ Kb3 56. Nc4 a4 57. Kd4 Rd1+ 58.
+Kc5 Rc1 59. Rf3+ Ka2 60. Ra3+ Kb1 61. Rxa4 Rc2 62. Rb4+ Kc1 63. Kb5 Kd1 64. Ra4
+Rc1 65. Ra5 Rb1+ 66. Kc5 Ke2 67. Ra6 Kf1 68. Rd6 Rc1 69. Rd5 1-0
+

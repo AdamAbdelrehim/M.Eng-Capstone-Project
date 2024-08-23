@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "iakov98"]
+[Black "buildorderbot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/PCdbJZxL"]
+[WhiteTitle "IM"]
+[WhiteElo "2666"]
+[BlackElo "2626"]
+[ECO "A80"]
+[Opening "Dutch Defense: Hopton Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "05:00:01"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. d4 f5 2. Bg5 c6 3. e3 Qb6 4. Nd2 d6 5. Ngf3 Nd7 6. Bc4 Ngf6 7. O-O d5 8. Bb3
+e6 9. c4 Be7 10. Qc2 h6 11. Bf4 Ne4 12. Ne5 Nxe5 13. Bxe5 O-O 14. Nxe4 fxe4 15.
+f3 exf3 16. Qg6 Bf6 17. Rxf3 Bxe5 18. Rxf8+ Kxf8 19. c5 Qc7 20. dxe5 Qxe5 21.
+Rf1+ Ke7 22. Rf7+ Kd8 23. Kf2 d4 24. Rf8+ Kc7 25. Qf7+ Bd7 26. Rxa8 Qxe3+ 27.
+Kf1 Qd3+ 28. Kf2 Qe3+ 29. Kf1 Qd3+ 30. Kf2 Qd2+ 31. Kf1 Qc1+ 32. Kf2 Qxb2+ 33.
+Kg3 Qc3+ 34. Kf4 Qxc5 35. Kg4 Qg5+ 0-1
+

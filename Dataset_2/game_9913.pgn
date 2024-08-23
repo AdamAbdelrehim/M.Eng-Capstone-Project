@@ -1,0 +1,42 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.08.06"]
+[Round "-"]
+[White "DingoLindsay"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "B2R2k1/p5pp/b3p3/2p5/8/4B1P1/P6P/5RK1 b - -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Kings-Fianchetto-Opening-Sicilian-Invitation-2.Bg2"]
+[UTCDate "2023.08.06"]
+[UTCTime "03:09:41"]
+[WhiteElo "1753"]
+[BlackElo "1715"]
+[TimeControl "60"]
+[Termination "DingoLindsay won by checkmate"]
+[StartTime "03:09:41"]
+[EndDate "2023.08.06"]
+[EndTime "03:10:28"]
+[Link "https://www.chess.com/game/live/85030296413"]
+
+1. g3 { [%clk 0:01:00] } 1... c5 { [%clk 0:01:00] } 2. Bg2 { [%clk 0:00:59.6] }
+2... d6 { [%clk 0:00:59.9] } 3. f4 { [%clk 0:00:59.2] } 3... Nf6
+{ [%clk 0:00:58.5] } 4. Nf3 { [%clk 0:00:59.1] } 4... e6 { [%clk 0:00:58.2] }
+5. O-O { [%clk 0:00:58.7] } 5... Be7 { [%clk 0:00:58.1] } 6. e4
+{ [%clk 0:00:58] } 6... O-O { [%clk 0:00:58] } 7. d3 { [%clk 0:00:57.1] } 7...
+d5 { [%clk 0:00:57.1] } 8. Be3 { [%clk 0:00:57] } 8... dxe4
+{ [%clk 0:00:56.3] } 9. dxe4 { [%clk 0:00:56.4] } 9... Nxe4
+{ [%clk 0:00:56.2] } 10. Qxd8 { [%clk 0:00:55] } 10... Rxd8
+{ [%clk 0:00:55.1] } 11. Ne5 { [%clk 0:00:54.9] } 11... Nc6
+{ [%clk 0:00:53.6] } 12. Bxe4 { [%clk 0:00:53.6] } 12... Nxe5
+{ [%clk 0:00:52.3] } 13. fxe5 { [%clk 0:00:52.9] } 13... f6
+{ [%clk 0:00:52.2] } 14. exf6 { [%clk 0:00:52] } 14... Bxf6
+{ [%clk 0:00:52.1] } 15. c3 { [%clk 0:00:51.4] } 15... b5 { [%clk 0:00:50.6] }
+16. Nd2 { [%clk 0:00:50.7] } 16... b4 { [%clk 0:00:50.2] } 17. Bxa8
+{ [%clk 0:00:42.9] } 17... bxc3 { [%clk 0:00:48.8] } 18. bxc3
+{ [%clk 0:00:42.3] } 18... Bxc3 { [%clk 0:00:47.8] } 19. Rad1
+{ [%clk 0:00:40.5] } 19... Bxd2 { [%clk 0:00:47] } 20. Rxd2
+{ [%clk 0:00:39.4] } 20... Ba6 { [%clk 0:00:46.3] } 21. Rxd8#
+{ [%clk 0:00:37.7] } 1-0
+

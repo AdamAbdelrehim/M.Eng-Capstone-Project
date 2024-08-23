@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "DarkAlekhine"]
+[Black "Statham_13"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ve6Ne5Zm"]
+[WhiteTitle "GM"]
+[BlackTitle "CM"]
+[WhiteElo "2718"]
+[BlackElo "2735"]
+[ECO "C42"]
+[Opening "Russian Game"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:51:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d5 4. exd5 Qxd5 5. d4 Nc6 6. Nxc6 Qxc6 7. Qe2+ Kd8
+8. Qb5 Qe4+ 9. Be3 Qxc2 10. Bd3 Bb4+ 11. Nd2 Qxb2 12. O-O a6 13. Qg5 Be7 14.
+Nc4 Qb5 15. Ne5 Qe8 16. Rab1 Rg8 17. Qg3 Bd6 18. Rfe1 Qe7 19. Qf3 c6 20. Bg5
+Be6 21. Bc4 Rc8 22. Nxf7+ Qxf7 23. Bxe6 Qg6 24. Bxf6+ gxf6 25. Bxg8 Kc7 26. Be6
+Re8 27. g3 h5 28. Bf5 Qf7 29. Rxe8 Qxe8 30. Kg2 h4 31. Qe4 Qh8 32. Qe6 Qg7 33.
+Qc8# 1-0
+

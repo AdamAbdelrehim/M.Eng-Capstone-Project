@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "badushka"]
+[Black "FIDE-Trainer1984"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/L9C2bZ7E"]
+[WhiteElo "2450"]
+[BlackElo "2559"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:20:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 c6 2. Nf3 d5 3. d3 Qc7 4. g3 dxe4 5. dxe4 e5 6. Bg2 Nf6 7. O-O Bc5 8.
+Nbd2 O-O 9. c3 a5 10. Qc2 Re8 11. Nc4 b6 12. Rd1 Ba6 13. Ne3 Nbd7 14. Nf5 g6
+15. Nh6+ Kg7 16. h4 Ng8 17. Bh3 Nf8 18. Ng4 h5 19. Ngxe5 Rxe5 20. Bf4 f6 21.
+Bxe5 fxe5 22. Ng5 Qe7 23. b4 axb4 24. cxb4 Bd4 25. Qxc6 Bb7 26. Qb5 Bxa1 27.
+Rxa1 Nh6 28. Qxb6 Nf7 29. Rc1 Rc8 30. Bxc8 Bxc8 31. Nxf7 Qxf7 32. Rxc8 Qf3 33.
+Qd6 Nh7 34. Qe7+ Kh6 35. Rh8 Qd1+ 36. Kg2 Qf3+ 37. Kxf3 g5 38. Rxh7+ Kg6 39.
+Qf7# 1-0
+

@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "bayad2016"]
+[Black "Labourdonais"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/iODM0zsF"]
+[WhiteElo "2465"]
+[BlackElo "2597"]
+[ECO "A63"]
+[Opening "Benoni Defense: Fianchetto Variation, Hastings Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:16:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. d4 Nf6 2. c4 e6 3. g3 c5 4. d5 exd5 5. cxd5 d6 6. Nc3 g6 7. Bg2 Bg7 8. Nf3
+O-O 9. O-O Nbd7 10. Bf4 Qe7 11. Qd2 b6 12. a4 Ba6 13. Rfe1 Nh5 14. Bg5 Bf6 15.
+Bxf6 Nhxf6 16. Nb5 Bxb5 17. axb5 Ng4 18. Ra4 Nge5 19. Rea1 Nxf3+ 20. exf3 Nf6
+21. f4 Rfe8 22. Bf3 Qd7 23. Kg2 Re7 24. Qd3 h5 25. h3 Qe8 26. Ra6 Re1 27. Rxe1
+Qxe1 28. Qc3 Qxc3 29. bxc3 Ne8 30. c4 Nc7 31. Ra3 a5 32. bxa6 Rxa6 33. Rb3 f5
+34. g4 hxg4 35. hxg4 Kf7 36. gxf5 gxf5 37. Bh5+ Kf6 38. Rg3 Ra4 39. Rg6+ Ke7
+40. Rg7+ Kd8 41. Rg8+ Kd7 42. Rg7+ Kc8 43. Be2 b5 44. cxb5 Nxd5 45. Kg3 Nxf4
+46. Bf3 Rb4 47. b6 Ne6 48. b7+ Kb8 49. Rg8+ Kc7 50. Rc8+ Kd7 51. b8=Q Rxb8 52.
+Rxb8 c4 53. Rb7+ Kc8 54. Rf7 f4+ 55. Kg4 c3 56. Be4 d5 57. Bf5 Kb8 58. Rh7 Nd4
+59. Kxf4 c2 60. Bxc2 Nxc2 61. Ke5 Nb4 62. f4 Kc8 63. f5 Kd8 64. f6 Nc6+ 65.
+Kxd5 Nb4+ 66. Ke6 1-0
+

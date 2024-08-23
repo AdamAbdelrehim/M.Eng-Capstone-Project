@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Micheliavelli"]
+[Black "very_slow"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/KPg4vdlY"]
+[WhiteElo "2588"]
+[BlackElo "2493"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation, Open"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:05:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a5 5. Nc3 Nc6 6. Ndb5 d6 7. Bf4 e5 8. Be3
+Be6 9. Nd5 Bxd5 10. exd5 Nce7 11. c4 f5 12. Qa4 Kf7 13. g3 Nf6 14. Be2 h6 15.
+O-O-O g5 16. f4 Ng6 17. fxg5 hxg5 18. Bxg5 Bh6 19. Bxh6 Rxh6 20. Rdf1 f4 21.
+Qa3 Ra6 22. Kb1 Kg7 23. h4 Ne4 24. h5 Nxg3 25. hxg6 Nxh1 26. c5 Ng3 27. Re1
+Nxe2 28. Rxe2 Rh1+ 29. Kc2 Qg5 30. Qf3 Qf5+ 31. Kb3 Rg1 32. Ka4 Rg3 33. Qh1
+Qxg6 34. cxd6 Rxd6 35. Qh4 Rd7 36. Nc3 Rxc3 37. bxc3 Rxd5 38. Qe7+ Kg8 39. Rxe5
+Qc6+ 40. Kb3 Qb5+ 41. Kc2 Rxe5 42. Qd8+ Qe8 43. Qc7 Re2+ 44. Kd1 Qe4 45. Qd8+
+Kf7 46. Qd7+ Kf6 47. Qd6+ Kf5 48. Qd7+ Kg5 49. Qg7+ Kh4 50. Qh6+ Kg3 51. Qg5+
+Kf2 52. Qh4+ Ke3 53. Qd8 Qb1# 0-1
+

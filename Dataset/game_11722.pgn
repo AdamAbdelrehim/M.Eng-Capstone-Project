@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "kukunancia"]
+[Black "MikeDyson"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/zaqhrILB"]
+[WhiteElo "2363"]
+[BlackElo "2512"]
+[ECO "B51"]
+[Opening "Sicilian Defense: Moscow Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:50:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nf3 d6 3. Bb5+ Nd7 4. a4 Nf6 5. Nc3 g6 6. a5 Bg7 7. O-O O-O 8. a6
+b6 9. d3 Qc7 10. Bg5 h6 11. Bf4 e5 12. Bd2 Nh5 13. Qc1 Kh7 14. Nd5 Qd8 15. g4
+Nhf6 16. g5 Ng8 17. gxh6 Bxh6 18. Ng5+ Kg7 19. h4 Ndf6 20. f4 Nxd5 21. exd5 Bd7
+22. Bxd7 Qxd7 23. Rf2 Qg4+ 24. Rg2 Qxh4 25. fxe5 dxe5 26. Nf3 Qe7 27. Rh2 Bxd2
+28. Qxd2 Rae8 29. Re1 Qf6 30. Qg2 Qf5 31. Re4 Nf6 32. Ng5 Rh8 33. Reh4 Rxh4 34.
+Rxh4 b5 35. d6 Rd8 36. Ne4 Nxe4 37. dxe4 Qe6 38. Qh2 Qxd6 39. Rh7+ Kf6 40. Qh4+
+Ke6 41. Qg4+ Ke7 42. Qg5+ Qf6 43. Qxf6+ Kxf6 44. Rh2 Rd1+ 45. Kg2 Rd2+ 46. Kh3
+Rxh2+ 47. Kxh2 Kg5 48. Kg3 f5 49. b4 fxe4 50. bxc5 Kf6 51. c6 Ke7 52. c7 Kd7
+53. Kg4 Kc8 54. Kg3 Kxc7 55. Kf2 Kb6 56. Ke3 Kxa6 57. Kxe4 Kb6 58. Kxe5 Kc5 59.
+Kf6 Kc4 60. Kxg6 Kc3 61. Kf5 Kxc2 62. Ke4 b4 63. Kd5 b3 64. Kc5 b2 65. Kd4 b1=Q
+66. Kc5 Qb3 67. Kd4 a5 68. Kc5 a4 69. Kd4 a3 70. Kc5 a2 71. Kd4 a1=Q+ 72. Kc5
+Qaa4 73. Kd6 Qbb5 74. Ke7 Qaa6 75. Kf8 Qbb7 76. Kg8 Qaa8# 0-1
+

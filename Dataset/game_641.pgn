@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "JonSnow1246"]
+[Black "Frostwrath"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/OxReCFgM"]
+[WhiteElo "2338"]
+[BlackElo "2510"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation, Barmen Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "03:53:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. c3 d5 3. exd5 Qxd5 4. d4 Nf6 5. Nf3 g6 6. Bb5+ Bd7 7. Bxd7+ Nbxd7
+8. O-O Bg7 9. Be3 Ng4 10. dxc5 Nxe3 11. fxe3 Qxc5 12. Qa4 Qxe3+ 13. Kh1 Rd8 14.
+Na3 O-O 15. Rae1 Qc5 16. b4 Qxc3 17. Rxe7 Nb6 18. Qxa7 Nd5 19. Rxb7 Ra8 20. Nb5
+Rxa7 21. Nxc3 Rxb7 22. Nxd5 Rd8 0-1
+

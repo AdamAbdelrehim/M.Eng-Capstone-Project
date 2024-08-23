@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "HUGO_ZUR"]
+[Black "Hemoglobinski"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/mGAKhN11"]
+[WhiteElo "2478"]
+[BlackElo "2580"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Kingside Fianchetto"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:11:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. Nf3 g6 2. d4 Bg7 3. g3 f5 4. Bg2 Nf6 5. O-O d6 6. c4 O-O 7. d5 c6 8. Nc3 e5
+9. dxe6 Bxe6 10. Bf4 Bxc4 11. Qxd6 Qxd6 12. Bxd6 Re8 13. Rfe1 Nbd7 14. Rad1 Nb6
+15. b3 Ba6 16. Ng5 h6 17. Nh3 g5 18. e4 fxe4 19. Nxe4 Nxe4 20. Bxe4 Rad8 21. f3
+Bc3 22. Re3 Be5 23. Bc2 Bd4 24. Rxd4 Rxe3 25. f4 Re1+ 26. Kf2 Re2+ 27. Kf3 Rxc2
+28. fxg5 Rxh2 29. Nf4 Nc8 0-1
+

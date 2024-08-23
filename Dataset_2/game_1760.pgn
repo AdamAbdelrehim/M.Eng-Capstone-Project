@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.15"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "The_Legendary_Eagle"]
+[Result "1-0"]
+[CurrentPosition "2b1kbnr/2pp1ppp/r7/1p2q3/p2N4/P2P4/BPP2PPP/R1BQR1K1 b k -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Blackburne-Shilling-Gambit"]
+[UTCDate "2021.08.15"]
+[UTCTime "17:27:11"]
+[WhiteElo "1612"]
+[BlackElo "1661"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "17:27:11"]
+[EndDate "2021.08.15"]
+[EndTime "17:29:43"]
+[Link "https://www.chess.com/game/live/22787440725"]
+
+1. e4 { [%clk 0:09:44.3] } 1... e5 { [%clk 0:09:58.2] } 2. Nf3
+{ [%clk 0:09:43.5] } 2... Nc6 { [%clk 0:09:56.5] } 3. Bc4 { [%clk 0:09:42.9] }
+3... Nd4 { [%clk 0:09:53] } 4. Nxd4 { [%clk 0:09:38.3] } 4... exd4
+{ [%clk 0:09:51.5] } 5. O-O { [%clk 0:09:37.5] } 5... Qe7 { [%clk 0:09:44.6] }
+6. d3 { [%clk 0:09:31.3] } 6... a6 { [%clk 0:09:37.7] } 7. Nd2
+{ [%clk 0:09:18] } 7... b5 { [%clk 0:09:34.8] } 8. Bb3 { [%clk 0:09:13.7] }
+8... a5 { [%clk 0:09:32.6] } 9. a3 { [%clk 0:09:03.5] } 9... a4
+{ [%clk 0:09:29.1] } 10. Ba2 { [%clk 0:08:53.6] } 10... Nf6
+{ [%clk 0:09:26.8] } 11. e5 { [%clk 0:08:46.5] } 11... Ng8 { [%clk 0:09:17.2] }
+12. Nf3 { [%clk 0:08:40.6] } 12... Ra6 { [%clk 0:09:15] } 13. Nxd4
+{ [%clk 0:08:34.2] } 13... Qxe5 { [%clk 0:09:09.6] } 14. Re1
+{ [%clk 0:08:31.4] } 1-0
+

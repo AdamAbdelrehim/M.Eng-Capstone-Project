@@ -1,0 +1,30 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Weiawaga"]
+[Black "admete_bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/MX8JH04I"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2703"]
+[BlackElo "2471"]
+[ECO "A46"]
+[Opening "Torre Attack: Classical Defense"]
+[TimeControl "900+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:54:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bg5 c5 4. c3 Be7 5. e3 b6 6. Bd3 d5 7. Nbd2 O-O 8. Ne5
+Bb7 9. Qf3 Nc6 10. O-O Nxe5 11. dxe5 Nd7 12. Qh3 g6 13. Bxe7 Qxe7 14. f4 c4 15.
+Bc2 Nc5 16. Nf3 h5 17. Rad1 Rfe8 18. Rd2 Rac8 19. g4 hxg4 20. Qxg4 Ne4 21. Rg2
+Red8 22. Nh4 Rd7 23. Bxe4 dxe4 24. f5 exf5 25. Nxf5 Qe8 26. Nh6+ Kh8 27. Qh4
+Kg7 28. Nf5+ Kg8 29. Qf6 Qf8 30. e6 Rc6 31. Rxg6+ fxg6 32. Qxf8+ Kxf8 33. exd7
+Rc8 34. Nd6+ Ke7 35. dxc8=N+ Bxc8 36. Nxc8+ Kd7 37. Nxa7 g5 38. Rf6 Ke7 39.
+Rxb6 Kf7 40. a4 g4 41. Nb5 Ke7 42. a5 Kf7 43. a6 g3 44. hxg3 Ke7 45. a7 Kf7 46.
+a8=Q Ke7 47. Qa7+ Kf8 48. Rb8# 1-0
+

@@ -1,0 +1,35 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "croc_master"]
+[Black "Stormeman100100"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/bYPe9tlr"]
+[BlackTitle "IM"]
+[WhiteElo "2562"]
+[BlackElo "2589"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted: Central Variation, Alekhine System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:10:10"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 d5 2. c4 dxc4 3. e4 Nf6 4. Nc3 e5 5. d5 b5 6. Qc2 a6 7. Nf3 Bd6 8. a4 b4
+9. Nd1 c6 10. dxc6 Nxc6 11. Bxc4 O-O 12. h3 Bb7 13. O-O Rc8 14. Qe2 Na5 15. Ne3
+Nxc4 16. Nxc4 Nxe4 17. Rd1 Qe7 18. Nxd6 Nxd6 19. Qxe5 Qxe5 20. Nxe5 Rfe8 21.
+Rxd6 Rxe5 22. Be3 Rd5 23. Rb6 Rd7 24. Rxb4 f6 25. a5 Kf7 26. Rd4 Rxd4 27. Bxd4
+Rd8 28. Bc3 Rd5 29. Re1 Bc6 30. f3 Bb5 31. Kf2 Rd7 32. h4 Rb7 33. Re4 Rd7 34.
+Rd4 Rxd4 35. Bxd4 g6 36. Ke3 Ke6 37. h5 gxh5 38. Bc3 Bf1 39. g3 Bb5 40. Kd4 Bc6
+41. f4 Kf5 42. Kc5 Bb5 43. Kd6 h4 44. gxh4 Kxf4 45. Bxf6 Kg4 46. Bd8 h5 47. Kc7
+Bf1 48. Kd6 Bb5 49. Ke5 Bf1 50. Kd4 Bb5 51. Kc3 Bf1 52. Kc2 Bb5 53. Kd2 Bc6 54.
+Kc3 Bb5 55. Kd2 Bd7 56. Ke1 Bb5 57. Kf2 Bc4 58. Ke3 Bb5 59. Kd4 Kg3 60. Kc5 Kg4
+61. Kb6 Bf1 62. b3 Bb5 63. Kc5 Bd3 64. Kd4 Bb5 65. Be7 Bd7 66. Ke3 Bb5 67. Kf2
+Bd7 68. Kg1 Bb5 69. Kf2 Bd7 70. Ke3 Be6 71. Kd4 Bxb3 72. Kc5 Ba4 73. Kb6 Bb5
+74. Ka7 Kg3 75. Kb6 Kg4 76. Ka7 Kf5 77. Kb6 Ke6 78. Ka7 Kxe7 79. Kb6 Ke6 80.
+Kc5 Kf5 81. Kb4 Kg4 82. Kc5 Kxh4 83. Kb4 Kg3 84. Kc5 h4 85. Kb4 h3 86. Kc5 h2
+87. Kb6 h1=Q 88. Ka7 0-1
+

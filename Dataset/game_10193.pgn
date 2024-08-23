@@ -1,0 +1,30 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "simbelmyne-bot"]
+[Black "ChessNoobComp"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/nR5D0Etq"]
+[BlackTitle "BOT"]
+[WhiteElo "2634"]
+[BlackElo "2486"]
+[ECO "A09"]
+[Opening "Réti Opening: Advance Variation, Michel Gambit"]
+[TimeControl "600+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:01:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+
+1. Nf3 d5 2. c4 d4 3. b4 c5 4. Qa4+ Bd7 5. b5 Nf6 6. d3 Qc7 7. g3 e5 8. Bg2 Bd6
+9. Nbd2 h6 10. Rb1 O-O 11. h3 Be6 12. g4 Nbd7 13. Qc2 Nb6 14. g5 Nh5 15. Ne4
+Nf4 16. Bxf4 exf4 17. gxh6 gxh6 18. Nxd6 Qxd6 19. Nd2 Qc7 20. a4 a5 21. bxa6
+Rxa6 22. a5 Rxa5 23. Rg1 Kh7 24. Be4+ f5 25. Bh1 Rfa8 26. Bf3 Ra2 27. Qb3 R8a6
+28. Rd1 R6a3 29. Qb1 Na4 30. Qxb7 Qxb7 31. Bxb7 Nc3 32. Rc1 Rc2 33. Rxc2 Ra1+
+34. Nb1 Rxb1+ 35. Kd2 Rxg1 36. Rc1 Rxc1 37. Kxc1 Nxe2+ 38. Kd1 Nc3+ 39. Ke1 Kg6
+40. Ba8 Kg5 41. Bc6 Kh4 42. Bg2 Bf7 43. Kd2 Bh5 44. Bf1 Bf3 45. Ke1 Bd1 46. Bg2
+f3 47. Bh1 Kxh3 48. Kd2 Be2 49. Kc2 Kh2 50. Kb2 Kxh1 51. Kc1 Kg2 52. Kc2 Bxd3+
+53. Kc1 Kxf2 54. Kb2 Ke3 55. Kc1 Na4 56. Kd1 f2 57. Kc1 f1=Q# 0-1
+

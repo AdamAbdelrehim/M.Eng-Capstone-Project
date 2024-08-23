@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "JoaoAfonso"]
+[Black "Rumboalfracaso"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/mtxcJkbd"]
+[WhiteElo "2545"]
+[BlackElo "2446"]
+[ECO "B08"]
+[Opening "Pirc Defense: Classical Variation, Quiet System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:36:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. Nf3 Bg7 5. Be2 O-O 6. O-O e5 7. d5 c5 8. a3 Ne8
+9. b4 b6 10. Be3 f5 11. bxc5 f4 12. c6 fxe3 13. fxe3 Nc7 14. a4 Nba6 15. Nd2
+Nc5 16. a5 bxa5 17. Nc4 Bh6 18. Rxa5 Ba6 19. Qd2 Rxf1+ 20. Bxf1 Bxc4 21. Bxc4
+Qg5 22. Nb5 Qxe3+ 23. Qxe3 Bxe3+ 24. Kf1 Nxb5 25. Bxb5 a6 26. Ke2 Bd4 27. c7
+Rc8 28. Bxa6 Rxc7 29. Bb5 Nxe4 30. Ra8+ Kg7 31. Bc6 Nf6 32. Rd8 Bc5 33. Ra8 Ra7
+34. Rd8 Ra2 35. Kd3 Ra3+ 36. Kc4 Re3 37. Rc8 Re2 38. Rc7+ Kh6 39. Rf7 Ng4 40.
+h3 Ne3+ 41. Kd3 Rxg2 42. Rf3 Nf5 43. Bd7 Rg3 0-1
+

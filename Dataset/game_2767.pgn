@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Nudibranchs"]
+[Black "Chess_Gus"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/mujtR9Xh"]
+[WhiteElo "2500"]
+[BlackElo "2416"]
+[ECO "B76"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:15:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+7"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 Nc6 8. Qd2
+O-O 9. O-O-O d5 10. Nxc6 bxc6 11. Bh6 Bxh6 12. Qxh6 Qb6 13. e5 Nd7 14. h4 Nxe5
+15. h5 Bf5 16. g4 f6 17. gxf5 g5 18. f4 Nf7 19. fxg5 Nxh6 20. gxh6 Rab8 21. Bd3
+Qxb2+ 22. Kd2 Qb4 23. Rhg1+ Kh8 24. Rg7 d4 0-1
+

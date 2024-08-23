@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "statham_13"]
+[Black "mick_chess"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/q24d6KuV"]
+[WhiteElo "2729"]
+[BlackElo "2752"]
+[ECO "C00"]
+[Opening "French Defense: Schlechter Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "12:17:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 e6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 Nf6 5. Bf3 e5 6. dxe5 Qxd1+ 7. Bxd1 Ng4
+8. Nc3 Nxe5 9. Nf3 Bd6 10. Ne4 Nxf3+ 11. Bxf3 Be5 12. c3 O-O 13. Be3 c6 14.
+O-O-O Na6 15. Rhe1 Re8 16. Nd6 Bxd6 17. Rxd6 Be6 18. b3 Nc7 19. c4 Bf5 20. Red1
+a5 21. g4 Bg6 22. h4 h6 23. Rd7 Na6 24. Rxb7 Be4 25. Bxe4 Rxe4 26. Rdd7 Rxg4
+27. Rxf7 Nb4 28. Bg5 hxg5 29. Rxg7+ Kf8 30. h5 Rh4 31. Rbf7+ Ke8 32. Re7+ Kf8
+33. Ref7+ Ke8 34. Rc7 Kf8 35. Rh7 Kg8 36. h6 Re8 37. Rcg7+ Kf8 38. Rh8# 1-0
+

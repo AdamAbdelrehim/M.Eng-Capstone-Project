@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.12.27"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "TheGhoulian"]
+[Result "0-1"]
+[CurrentPosition "5knr/7p/r2pR3/5P2/2n2P2/8/PbP3P1/2KR4 w - -"]
+[Timezone "UTC"]
+[ECO "B34"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Open-Accelerated-Dragon-Variation-5.Nc3-Bg7-6.Be3"]
+[UTCDate "2021.12.27"]
+[UTCTime "05:31:43"]
+[WhiteElo "1555"]
+[BlackElo "1605"]
+[TimeControl "600"]
+[Termination "TheGhoulian won by resignation"]
+[StartTime "05:31:43"]
+[EndDate "2021.12.27"]
+[EndTime "05:41:25"]
+[Link "https://www.chess.com/game/live/34321823681"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:44.7] }
+2... d6 { [%clk 0:09:59.9] } 3. d4 { [%clk 0:09:09.8] } 3... cxd4
+{ [%clk 0:09:49.9] } 4. Nxd4 { [%clk 0:09:09.7] } 4... g6 { [%clk 0:09:48.6] }
+5. Nc3 { [%clk 0:08:58.6] } 5... Bg7 { [%clk 0:09:48.5] } 6. Be3
+{ [%clk 0:08:57.7] } 6... a6 { [%clk 0:09:47.5] } 7. Qd2 { [%clk 0:08:55.2] }
+7... Nd7 { [%clk 0:09:44.4] } 8. O-O-O { [%clk 0:08:54.1] } 8... Ne5
+{ [%clk 0:09:43] } 9. f3 { [%clk 0:08:49] } 9... Bd7 { [%clk 0:09:28] } 10. h4
+{ [%clk 0:08:36.4] } 10... b5 { [%clk 0:09:23.2] } 11. h5 { [%clk 0:08:30.2] }
+11... b4 { [%clk 0:09:16.9] } 12. hxg6 { [%clk 0:08:08.6] } 12... bxc3
+{ [%clk 0:09:12.9] } 13. gxf7+ { [%clk 0:08:07.4] } 13... Kxf7
+{ [%clk 0:08:52] } 14. Qxc3 { [%clk 0:08:05.5] } 14... Rc8 { [%clk 0:08:36.6] }
+15. Qb3+ { [%clk 0:07:56.5] } 15... Kf8 { [%clk 0:07:41.6] } 16. Bxa6
+{ [%clk 0:07:40.3] } 16... Rb8 { [%clk 0:07:18.4] } 17. Qe6
+{ [%clk 0:06:14.8] } 17... Qb6 { [%clk 0:07:08] } 18. Qxe7+
+{ [%clk 0:05:04.6] } 18... Kxe7 { [%clk 0:07:02.1] } 19. Nf5+
+{ [%clk 0:05:00.5] } 19... Bxf5 { [%clk 0:06:58.8] } 20. Bxb6
+{ [%clk 0:04:58.7] } 20... Rxb6 { [%clk 0:06:55] } 21. exf5
+{ [%clk 0:04:33.7] } 21... Rxa6 { [%clk 0:06:52.6] } 22. Rhe1
+{ [%clk 0:04:33] } 22... Kf8 { [%clk 0:06:46.2] } 23. f4 { [%clk 0:04:25.2] }
+23... Nc4 { [%clk 0:06:39.5] } 24. Re6 { [%clk 0:04:08.8] } 24... Bxb2+
+{ [%clk 0:06:28.3] } 0-1
+

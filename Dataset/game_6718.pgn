@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Kiskar"]
+[Black "Punchen"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/AvihloKb"]
+[WhiteElo "2693"]
+[BlackElo "2571"]
+[ECO "A07"]
+[Opening "King's Indian Attack: Double Fianchetto"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:12:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. d4 c6 5. O-O Nf6 6. Nbd2 O-O 7. Re1 Bf5 8. c3
+Ne4 9. Nh4 e6 10. Nb3 h5 11. f3 Nd6 12. e4 dxe4 13. fxe4 Bg4 14. Qd3 Bf6 15.
+Bh6 Re8 16. h3 Bxh4 17. gxh4 Qxh4 18. hxg4 hxg4 19. Bf4 1-0
+

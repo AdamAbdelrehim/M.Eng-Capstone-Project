@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Phutressniak"]
+[Black "RRS03"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/AKSoqvgn"]
+[WhiteTitle "LM"]
+[BlackTitle "FM"]
+[WhiteElo "2439"]
+[BlackElo "2582"]
+[ECO "A43"]
+[Opening "Indian Defense: Pseudo-Benko"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "00:22:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 b5 4. g3 Bb7 5. a4 Bxd5 6. axb5 g6 7. Nc3 Bb7 8. Bg2
+Bg7 9. O-O O-O 10. Re1 d5 11. e3 Nbd7 12. h3 e6 13. Bd2 Qe7 14. Qb1 e5 15. Nh2
+Nb6 16. b3 Qc7 17. Nf1 Rfe8 18. Na4 e4 19. Bc3 Rad8 20. Qb2 Nh5 21. Bxg7 Nxg7
+22. Rad1 Nf5 23. Qf6 Re6 24. Qa1 Rde8 25. Nh2 h5 26. Nc3 Qe7 27. Ne2 d4 28.
+exd4 cxd4 29. Nxd4 e3 30. Nxf5 exf2+ 31. Kxf2 Re2+ 32. Kf1 Bxg2+ 33. Kg1 Rxe1+
+34. Rxe1 Qxe1+ 35. Qxe1 Rxe1+ 36. Kxg2 gxf5 37. Nf3 Re2+ 38. Kf1 Rxc2 39. Nd4
+Rb2 40. Nxf5 Rxb3 41. Kf2 Rxb5 42. Ne7+ Kh7 43. Nc6 a5 44. Nd4 Rb2+ 45. Ke3 a4
+46. Nf3 a3 47. Ng5+ Kg6 48. Ne4 a2 0-1
+

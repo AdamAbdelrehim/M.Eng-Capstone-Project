@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Pastukhov_Nicolay"]
+[Black "manneredmonkey"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/H2KD3ErO"]
+[BlackTitle "NM"]
+[WhiteElo "2560"]
+[BlackElo "2562"]
+[ECO "A56"]
+[Opening "Benoni Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:37:56"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. c4 c5 3. dxc5 b5 4. cxb6 axb6 5. Nf3 g6 6. b3 Bg7 7. Bb2 O-O 8. e3
+Na6 9. Be2 Bb7 10. O-O d6 11. Nc3 Nc5 12. Nb5 Qd7 13. Qc2 Rfc8 14. Rfd1 Nce4
+15. Qb1 h6 16. h3 Rc5 17. Nc3 Rac8 18. Na4 R5c6 19. Nd4 Nc5 20. Nxc6 Qxc6 21.
+Bf3 Nce4 22. Nc3 Nxc3 23. Bxc3 Qc7 24. Bxb7 Qxb7 25. Bb2 b5 26. cxb5 Qxb5 27.
+Qd3 Qh5 28. Rac1 Ra8 29. a3 Rb8 30. b4 Qg5 31. Rc7 Ne8 32. Rc2 e5 33. Rdc1 Qd8
+34. Qa6 Ra8 35. Qb7 Rb8 36. Qd5 Qd7 37. e4 Kh7 38. f3 h5 39. Qc6 Qe7 40. b5 Bh6
+41. Rd1 Be3+ 42. Kh1 Qh4 43. Bc1 Bd4 44. Qd5 Qf6 45. a4 Qe7 46. Rxd4 exd4 47.
+Qxd4 f6 48. Bb2 Ra8 49. b6 Qb7 50. Qb4 Ra6 51. a5 d5 52. exd5 Ra8 53. Rc6 Qd7
+54. Qc5 Qf5 55. Qb5 Qb1+ 56. Kh2 Qf5 57. b7 Rb8 58. a6 Qf4+ 59. Kh1 Nd6 60. a7
+Nxb5 61. axb8=Q Nd6 62. Rc7+ 1-0
+

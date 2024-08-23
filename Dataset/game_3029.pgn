@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ilprofessore87"]
+[Black "rvlc"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/tybtexBk"]
+[WhiteElo "2543"]
+[BlackElo "2399"]
+[ECO "C65"]
+[Opening "Ruy Lopez: Classical Variation, Zukertort Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:52:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Nf6 5. O-O O-O 6. d4 exd4 7. cxd4 Bb6 8.
+e5 Nd5 9. Nc3 Nxc3 10. bxc3 d6 11. Bg5 Qd7 12. d5 1-0
+

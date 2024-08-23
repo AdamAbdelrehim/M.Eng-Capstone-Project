@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "yannay_2004"]
+[Black "El_Jacko"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/lzL9drYv"]
+[WhiteElo "2627"]
+[BlackElo "2479"]
+[ECO "B02"]
+[Opening "Alekhine Defense: Sämisch Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:10:59"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+10"]
+[BlackRatingDiff "-3"]
+
+1. e4 Nf6 2. e5 Nd5 3. Nc3 Nxc3 4. dxc3 d6 5. Bc4 Nc6 6. Nf3 Bf5 7. Bxf7+ Kxf7
+8. Ng5+ Ke8 9. e6 Qc8 10. Qd5 Ne5 11. f4 c6 12. Qd4 h6 13. fxe5 hxg5 14. O-O
+Qxe6 15. exd6 Rd8 16. Bxg5 1-0
+

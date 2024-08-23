@@ -1,0 +1,23 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "oqp1993"]
+[Black "NeetleFarseer"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/FpUVHcMh"]
+[WhiteElo "2602"]
+[BlackElo "2435"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:21:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "+19"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 c5 4. c3 Nc6 5. e3 Qb6 6. Qb3 c4 7. Qxb6 axb6 8. Be2
+b5 9. O-O Bf5 10. Nbd2 b4 11. cxb4 Nxb4 12. a3 Nc6 13. Rfc1 b5 14. b3 e6 15. a4
+1-0
+

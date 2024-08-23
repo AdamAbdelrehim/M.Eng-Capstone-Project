@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "gmmitkov"]
+[Black "Siyay_25"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/SVfbCKfh"]
+[WhiteElo "2617"]
+[BlackElo "2686"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:31:07"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nc3 a6 3. g3 Nc6 4. Bg2 e6 5. Nh3 b5 6. d3 b4 7. Na4 Bb7 8. O-O Nf6
+9. f4 d6 10. c4 Be7 11. b3 O-O 12. Bb2 Nd4 13. Bxd4 cxd4 14. Ng5 h6 15. Nf3 Ng4
+16. Qd2 e5 17. Qxb4 Bc6 18. Qd2 Bxa4 19. bxa4 Ne3 20. Rfb1 Qc7 21. f5 g6 22.
+Bh3 Kg7 23. Ne1 Bg5 24. Qe2 Qc5 25. Bg2 Rab8 26. h4 Bf6 27. Nc2 Nxc4 28. Kh2
+Nb2 29. Rc1 Qc3 30. Rd1 Nxa4 31. Rab1 Rb2 32. Rxb2 Nxb2 33. Rf1 Qxd3 34. Qf2
+Nc4 35. Ne1 Qe3 36. Qc2 Nd2 37. Rg1 Bxh4 38. gxh4 Qf4+ 39. Kh3 g5 40. Nf3 g4#
+0-1
+

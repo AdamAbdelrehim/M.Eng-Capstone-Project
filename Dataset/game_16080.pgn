@@ -1,0 +1,41 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "admete_bot"]
+[Black "ChessatronBot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/JiwPc6LX"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2470"]
+[BlackElo "2511"]
+[ECO "A58"]
+[Opening "Benko Gambit Accepted: Fully Accepted Variation"]
+[TimeControl "900+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "23:45:31"]
+[Termination "Normal"]
+
+1. d4 Nf6 2. c4 c5 3. d5 b5 4. cxb5 a6 5. bxa6 g6 6. Nc3 Bg7 7. e4 d6 8. Nf3
+O-O 9. Be2 Bxa6 10. O-O Bxe2 11. Qxe2 Nbd7 12. a4 Re8 13. Nb5 h6 14. h3 g5 15.
+Rd1 Nf8 16. e5 N6d7 17. e6 Nf6 18. exf7+ Kxf7 19. Nd2 Nxd5 20. Ne4 Nf6 21. Nxc5
+Qc8 22. Qc4+ d5 23. Rxd5 Nxd5 24. Qxd5+ Kg6 25. Qe4+ Kf7 26. Qc4+ Kg6 27. Be3
+Rd8 28. Re1 Qf5 29. b4 Rac8 30. Nd4 Qd5 31. Qc2+ Kf7 32. Nf5 Ng6 33. a5 Bf8 34.
+a6 e6 35. Ng3 Nh4 36. Nge4 Nf5 37. a7 Kg7 38. Qa4 Kf7 39. Qa6 Be7 40. Qe2 Kg6
+41. Ra1 Nxe3 42. fxe3 Bxc5 43. Nxc5 Ra8 44. Ra3 Rdc8 45. Ra6 Rc6 46. Qc2+ Kg7
+47. Ra5 Qe5 48. Qf2 Rc7 49. Qd2 Re7 50. Nd7 Qe4 51. Qc3+ Kf7 52. Qf6+ Ke8 53.
+Ne5 Qxe3+ 54. Kh1 Qc1+ 55. Kh2 Qf4+ 56. Qxf4 gxf4 57. Nc6 Rb7 58. Rh5 Kd7 59.
+b5 Kd6 60. h4 e5 61. Nxe5 Raxa7 62. Nd3 f3 63. gxf3 Ra3 64. Nc5 Rf7 65. Ne4+
+Ke7 66. Rxh6 Rfxf3 67. Ra6 Rxa6 68. bxa6 Ra3 69. Kg2 Rxa6 70. Kg3 Ra4 71. Nf2
+Kf6 72. Ng4+ Kf5 73. Ne3+ Ke4 74. Nd1 Ra1 75. Nf2+ Kf5 76. h5 Ra3+ 77. Kh4 Ra4+
+78. Kg3 Kg5 79. Kf3 Rh4 80. Nd3 Kxh5 81. Ke3 Kg6 82. Nb2 Kf5 83. Kd3 Re4 84.
+Nc4 Rh4 85. Nd6+ Ke5 86. Nc4+ Kd5 87. Ne3+ Kc5 88. Nf5 Rc4 89. Ne3 Rd4+ 90. Kc3
+Rd7 91. Ng4 Ra7 92. Kd3 Ra3+ 93. Ke4 Ra4+ 94. Kf5 Kd4 95. Ke6 Ra5 96. Nf6 Re5+
+97. Kd6 Re1 98. Nd7 Ke4 99. Nc5+ Kf5 100. Kc6 Rd1 101. Nd7 Ke4 102. Nc5+ Ke3
+103. Ne6 Ke4 104. Nc5+ Kf3 105. Ne6 Kg4 106. Nc5 Kf4 107. Nd7 Kf5 108. Nc5 Rc1
+109. Kd6 Rd1+ 110. Ke7 Rd4 111. Nb7 Rb4 112. Nc5 Rb6 113. Nd7 Re6+ 114. Kf7 Rh6
+115. Ke7 Re6+ 116. Kf7 Re1 117. Nb8 Ke5 118. Nd7+ Kf5 119. Nb8 Rc1 120. Ke7 Ke4
+121. Kd6 Rh1 122. Nc6 Rd1+ 123. Ke6 Rc1 124. Ne7 Rc2 125. Nf5 Rc6+ 126. Nd6+
+Kd4 127. Kd7 Rc1 128. Nf5+ Kd5 129. Ne7+ Ke5 130. Ng6+ Kf5 1/2-1/2
+

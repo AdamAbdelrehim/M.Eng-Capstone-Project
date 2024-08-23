@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "karpen-b"]
+[Black "Hoon_Bot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/yQk4CuPF"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2964"]
+[BlackElo "2873"]
+[ECO "E00"]
+[Opening "Catalan Opening"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:03:36"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+7"]
+
+1. d4 Nf6 2. c4 e6 3. g3 d5 0-1
+

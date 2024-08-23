@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Fleetwood_Mac"]
+[Black "Lorentzian"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/yNnslYwV"]
+[WhiteTitle "FM"]
+[WhiteElo "2519"]
+[BlackElo "2426"]
+[ECO "A00"]
+[Opening "Van Geet Opening"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:35:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. Nc3 c5 2. g3 Nc6 3. Bg2 g6 4. Nf3 Bg7 5. O-O d5 6. e4 d4 7. Ne2 e5 8. d3
+Nge7 9. Ne1 O-O 10. f4 exf4 11. gxf4 f5 12. Ng3 Be6 13. Nf3 h6 14. b3 Qd7 15.
+Qe2 Rae8 16. h4 fxe4 17. Nxe4 b6 18. h5 gxh5 19. Nh4 Bg4 20. Bf3 Nb4 21. Bxg4
+Qxg4+ 22. Qxg4 hxg4 23. f5 Nxc2 24. Rb1 Nd5 25. Ng6 Rf7 26. Nd6 Nde3 27. Bxe3
+Rxe3 28. Nxf7 Kxf7 29. Nf4 Be5 30. Rbd1 Rg3+ 31. Kh2 Rh3+ 32. Kg2 Ne3+ 33. Kg1
+Bxf4 0-1
+

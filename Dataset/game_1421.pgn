@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "BertramicAttack"]
+[Black "Geroniman"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/8vCbyS39"]
+[WhiteElo "2466"]
+[BlackElo "2531"]
+[ECO "A10"]
+[Opening "English Opening: Anglo-Dutch Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:42:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. c4 f5 2. g3 Nf6 3. Bg2 d6 4. Nc3 g6 5. d4 Bg7 6. e4 O-O 7. exf5 Bxf5 8. Bxb7
+Nbd7 9. Bxa8 Qxa8 10. d5 Nc5 11. Nge2 Nd3+ 12. Kf1 Ng4 13. Kg2 Ngxf2 14. Qd2
+Bh3+ 15. Kg1 Nxh1 0-1
+

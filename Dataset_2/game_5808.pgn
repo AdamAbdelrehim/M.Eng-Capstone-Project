@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.08.02"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "mireksylwia2001"]
+[Result "0-1"]
+[CurrentPosition "rn1qkbnr/p1pppppp/1p6/8/3P4/2NBB3/PPP2PPP/R2bK2R w KQkq -"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Owens-Defense"]
+[UTCDate "2022.08.02"]
+[UTCTime "17:53:28"]
+[WhiteElo "1425"]
+[BlackElo "1442"]
+[TimeControl "60"]
+[Termination "mireksylwia2001 won by resignation"]
+[StartTime "17:53:28"]
+[EndDate "2022.08.02"]
+[EndTime "17:53:43"]
+[Link "https://www.chess.com/game/live/53201958787"]
+
+1. e4 { [%clk 0:01:00] } 1... b6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:58.9] }
+2... Bb7 { [%clk 0:00:59.6] } 3. d4 { [%clk 0:00:58.8] } 3... Bxe4
+{ [%clk 0:00:58.6] } 4. Nc3 { [%clk 0:00:58.7] } 4... Bb7 { [%clk 0:00:58.1] }
+5. Be3 { [%clk 0:00:56.6] } 5... Bxf3 { [%clk 0:00:57.6] } 6. Bd3
+{ [%clk 0:00:56] } 6... Bxd1 { [%clk 0:00:55.3] } 0-1
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Chessploutos"]
+[Black "hyo_lee"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/PAn5s4nS"]
+[WhiteElo "2596"]
+[BlackElo "2608"]
+[ECO "C42"]
+[Opening "Russian Game: Three Knights Game"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:42:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Bb4 4. Nxe5 O-O 5. Be2 Re8 6. Nd3 Bxc3 7. dxc3 Nxe4
+8. O-O d6 9. Bf3 Nd7 10. Re1 Ndf6 11. Bf4 b6 12. c4 Bb7 13. h3 a5 14. a4 Qd7
+15. c3 Re7 16. Qc2 Rae8 17. Re3 Bc6 18. b3 h6 19. Rae1 Ba8 20. R1e2 g5 21. Bh2
+h5 22. Qc1 g4 23. hxg4 hxg4 24. Bxe4 Bxe4 25. Nf4 Bh7 26. Rxe7 Rxe7 27. Qe1
+Rxe2 28. Qxe2 Qf5 29. Bg3 Qb1+ 30. Kh2 Be4 31. Bh4 Qc1 32. Bg5 Bf5 33. Qe7 Ne4
+34. Qe8+ Kg7 35. Nh5+ Kg6 36. Bxc1 Kxh5 37. Qxf7+ Bg6 38. Qxc7 Nxf2 39. Qxd6
+g3+ 40. Qxg3 Ng4+ 41. Kg1 Bf5 42. Qd6 Bg6 43. Qxb6 Nf6 44. Qc5+ 1-0
+

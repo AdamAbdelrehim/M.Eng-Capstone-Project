@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Kesha05"]
+[Black "Cor64"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/pyZ6lPbG"]
+[WhiteElo "2522"]
+[BlackElo "2500"]
+[ECO "B54"]
+[Opening "Sicilian Defense: Prins Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:18:09"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-5"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. f3 a6 6. c4 g6 7. Nc3 Bg7 8. Be3
+Nc6 9. Be2 Nxd4 10. Bxd4 Be6 11. Qd2 Qa5 12. Rc1 O-O 13. Bxf6 Bxf6 14. Nd5
+Qxd2+ 15. Kxd2 Kg7 16. Nxf6 Kxf6 17. Ke3 g5 18. Kd4 a5 19. b3 b6 20. g3 Rg8 21.
+Rhg1 Rg6 22. Bd3 Rag8 23. Ke3 Rh6 24. Rc2 Rg7 25. Rf2 Rg8 26. a3 Kg7 27. Rb1
+Ra8 28. Kd4 f6 29. f4 gxf4 30. gxf4 Rh3 31. Bf1 Rh4 32. Rbb2 Kf8 33. Rbc2 Bf7
+34. f5 Rc8 35. Rc3 Rc5 36. b4 Re5 37. Re3 Be8 38. h3 Bc6 39. Bd3 e6 40. fxe6
+Ke7 41. b5 Bb7 42. Bc2 f5 43. Rg2 Kxe6 44. Rg7 Bxe4 45. Bxe4 Rhxe4+ 46. Rxe4
+Rxe4+ 47. Kd3 Rh4 48. Rb7 Ke5 49. Re7+ Kf6 50. Rb7 Ke5 51. Rxb6 Rxh3+ 52. Ke2
+Rxa3 53. Rc6 Rb3 54. Rc7 a4 55. Rxh7 a3 56. Ra7 Rb2+ 57. Kf3 Rb3+ 58. Ke2 Kd4
+59. b6 Kxc4 60. b7 a2 61. Rxa2 Rxb7 62. Ra6 Kd5 63. Ke3 Rb3+ 64. Kf4 Rb4+ 65.
+Kxf5 Rd4 66. Ra8 1-0
+

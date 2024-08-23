@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "yoruv"]
+[Black "Partake"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/WOLimkxl"]
+[WhiteElo "2532"]
+[BlackElo "2563"]
+[ECO "A05"]
+[Opening "Zukertort Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:22:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. Nf3 Nf6 2. Nc3 d5 3. d3 g6 4. Bg5 Bg7 5. Qc1 h6 6. Bd2 d4 7. Nb1 c5 8. e4
+dxe3 9. Bxe3 Nd5 10. Bd2 Nc6 11. Be2 g5 12. Nc3 g4 13. Nh4 e6 14. g3 h5 15. Bg5
+Qa5 16. Bd2 Nxc3 17. bxc3 Bxc3 18. Bxc3 Qxc3+ 19. Kf1 Nd4 20. Bd1 b6 21. Rb1
+Bb7 22. Rg1 O-O-O 23. Ng2 Ba6 24. Ne3 f5 25. Ng2 Bxd3+ 26. cxd3 Qxd3+ 27. Ke1
+Nf3+ 28. Bxf3 gxf3 29. Nf4 Qe4+ 30. Kf1 Rd2 31. Qe1 Qc4+ 32. Ne2 Rxe2 33. Qc1
+Rc2+ 0-1
+

@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "YusufKeremIlgaz"]
+[Black "AManCalledDonalP"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/0YsAyYUu"]
+[WhiteElo "2485"]
+[BlackElo "2507"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:40:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. f4 g6 2. Nf3 d5 3. e3 Bg7 4. c4 Nf6 5. cxd5 Nxd5 6. Bc4 c5 7. Nc3 Nb4 8. O-O
+Nd3 9. Ne4 Nxc1 10. Nfg5 O-O 11. f5 b5 12. fxg6 bxc4 13. Qh5 h6 14. gxf7+ Kh8
+15. Qg6 1-0
+

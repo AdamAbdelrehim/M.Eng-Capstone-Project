@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ChampignonKa"]
+[Black "smurf42"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/g4BfxJM2"]
+[BlackTitle "NM"]
+[WhiteElo "2300"]
+[BlackElo "2564"]
+[ECO "C00"]
+[Opening "French Defense: King's Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:28:37"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. e4 e6 2. d3 d5 3. Qe2 Be7 4. g3 Nf6 5. Bg2 O-O 6. e5 Nfd7 7. d4 c5 8. c3 Nc6
+9. Nf3 Qb6 10. Be3 Qa6 11. Qxa6 bxa6 12. a3 a5 13. O-O Rb8 14. Ra2 Ba6 15. Rc1
+Bc4 16. b3 Bxb3 17. Rb2 a4 18. Nbd2 Na5 19. dxc5 Nxc5 20. Bxc5 Bxc5 21. Nd4
+Bxa3 22. Rcb1 Bxb2 23. Rxb2 Rfc8 24. Bf1 Rxc3 25. Nb5 Rc1 26. Nxa7 a3 27. Nc6
+axb2 28. Nxb8 Nc4 0-1
+

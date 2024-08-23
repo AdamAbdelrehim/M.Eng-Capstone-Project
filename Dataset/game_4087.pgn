@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Nenidon_Andriy"]
+[Black "SerHio1963"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/QRKxFxe3"]
+[WhiteElo "2548"]
+[BlackElo "2532"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Mieses-Kotroc Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:17:30"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 d5 2. exd5 Qxd5 3. d4 e5 4. Nc3 Bb4 5. Bd2 Qxd4 6. Nf3 Qd6 7. Nb5 Bxd2+
+8. Qxd2 Qe7 9. Qc3 c6 0-1
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "elobispo"]
+[Black "Mginsburg"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/2pR2Hy9R"]
+[BlackTitle "IM"]
+[WhiteElo "2384"]
+[BlackElo "2504"]
+[ECO "A56"]
+[Opening "Benoni Defense: Hromádka System"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "00:28:29"]
+[Termination "Normal"]
+[WhiteRatingDiff "-19"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. h3 O-O 7. Nf3 a6 8. a4 e6 9.
+Be2 exd5 10. cxd5 Re8 11. Nd2 Nbd7 12. O-O Rb8 13. Qc2 Qc7 14. f4 c4 15. Nxc4
+b5 16. axb5 axb5 17. Na5 b4 18. Nc6 bxc3 19. Nxb8 Nxb8 20. Bd3 Qb6+ 21. Kh1 Nh5
+22. Kh2 cxb2 23. Rb1 bxc1=Q 24. Rfxc1 Qe3 25. Rxb8 Qxf4+ 26. Kg1 Bd4+ 27. Kh1
+Ng3+ 28. Kh2 Nf1+ 29. Kh1 Qh2# 0-1
+

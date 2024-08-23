@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Micheliavelli"]
+[Black "BaTbka_Ha-TpaKTope"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/jbPVB3Fm"]
+[WhiteElo "2601"]
+[BlackElo "2428"]
+[ECO "A04"]
+[Opening "Zukertort Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:48:41"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-9"]
+[BlackRatingDiff "+8"]
+
+1. Nf3 h5 2. b4 h4 3. h3 d6 4. d4 Nf6 5. c4 Nc6 6. b5 Nb8 7. Bg5 g6 8. Bxh4 Bg7
+9. Nc3 Bf5 10. e3 Ne4 11. Nxe4 Bxe4 12. Bg3 Nd7 13. Bd3 Nf6 14. Qc2 Bxf3 15.
+gxf3 a6 16. Ke2 Qd7 17. a4 axb5 18. axb5 Rxa1 19. Rxa1 O-O 20. h4 Nh5 21. Rh1
+e5 22. dxe5 dxe5 23. Be4 c6 24. bxc6 bxc6 25. Qa4 Rb8 26. Rb1 Rd8 27. Rd1 Qxd1+
+28. Qxd1 Rxd1 29. Kxd1 c5 30. Bd5 Kf8 31. Ke2 Ke7 32. Kf1 Kd6 33. Kg2 Ke7 34.
+Bh2 f5 35. f4 exf4 36. exf4 Bf6 37. Bg3 Bd4 38. Bh2 Bc3 39. f3 Bd2 40. Bg1
+Nxf4+ 41. Kf1 Bb4 42. Bc6 Ke6 43. Be3 Nh5 44. Ke2 Ng3+ 45. Kd3 Nh5 46. Be8 Kf6
+47. Bg5+ Kg7 48. Ke3 Ba3 49. Be7 Bc1+ 50. Kd3 Ba3 51. Kc2 Nf4 52. Kb3 Bb4 53.
+Ka4 Ne6 54. Bc6 Nd4 55. Bd5 Kh6 56. Bf7 Nxf3 57. Kb5 Nd4+ 58. Kb6 f4 59. Bxc5
+Bxc5+ 60. Kxc5 f3 61. Bd5 f2 62. Bg2 Nc2 63. Kd6 Ne3 64. Bh3 Kh5 65. c5 Kxh4
+66. c6 Kxh3 67. c7 f1=Q 68. c8=Q+ Ng4 69. Qe6 Qf4+ 70. Kc6 Qf5 0-1
+

@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "ChessOKRU"]
+[Black "DaSepp"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/S3wfzkrj"]
+[WhiteTitle "NM"]
+[WhiteElo "2483"]
+[BlackElo "2503"]
+[ECO "A48"]
+[Opening "Queen's Pawn Game: Torre Attack, Grünfeld Variation, Main Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "06:51:40"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 O-O 6. Bd3 c5 7. c3 b6 8. O-O
+Ba6 9. Bxa6 Nxa6 10. Qa4 Nc7 11. b4 b5 12. Qa5 c4 13. a4 a6 14. Ne5 Qd6 15. Bf4
+Ne6 16. Nxg6 Nxf4 17. Nxf4 Qc6 18. Rfe1 Bh6 19. g3 e6 20. f3 Rfb8 21. Kg2 Bg5
+22. Ra2 Ng4 23. fxg4 Bd8 24. axb5 axb5 25. Qxa8 Rxa8 26. Rea1 Rxa2 27. Rxa2 Bc7
+28. Nf3 f6 29. Nh5 e5 30. Nh4 exd4 31. exd4 Qe6 32. Rf2 Bd8 33. Nf5 Qe4+ 34.
+Kh3 Qd3 35. Ra2 Qxc3 36. Ra8 Qxb4 37. Rxd8+ Kf7 38. Rxd5 Qb1 39. Nf4 c3 40.
+Rd7+ Ke8 41. Re7+ Kd8 42. Ne6+ Kc8 43. Nd6+ Kb8 44. Rb7+ Ka8 45. Nc7# 1-0
+

@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Openingsonly"]
+[Black "Agrippa04"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/hCkwJI05"]
+[WhiteElo "2635"]
+[BlackElo "2478"]
+[ECO "D11"]
+[Opening "Slav Defense: Quiet Variation, Pin Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:50:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. h3 Bxf3 6. Qxf3 e6 7. Nc3 Nbd7 8. Bd2
+Bd6 9. g4 dxc4 10. Bxc4 h6 11. h4 Qe7 12. O-O-O O-O-O 13. e4 e5 14. g5 exd4 15.
+gxf6 Nxf6 16. Ne2 Qxe4 17. Qxe4 Nxe4 18. Be1 c5 19. f3 Nf6 20. Bxf7 Kc7 21. Bg3
+Rhf8 22. Bc4 Rde8 23. Bxd6+ Kxd6 24. Ng3 Nd5 25. Ne4+ Kc6 26. Bxd5+ Kxd5 27.
+Nd2 Rf4 28. h5 Rf5 29. Rdg1 Re7 30. Rg6 b5 31. Kd1 a5 32. Re1 Rxe1+ 33. Kxe1
+Rxh5 34. Rxg7 c4 35. Rd7+ Ke5 36. a4 bxa4 37. Nxc4+ Kf4 38. Rf7+ Kg3 39. Kd2
+Rd5 40. f4 h5 41. f5 h4 42. f6 h3 43. Rg7+ Kf2 44. f7 Rf5 45. Ne5 Kf1 46. Ng4
+Rf3 47. Rh7 Kg2 48. Ne5 Rf5 49. Ng6 h2 50. Nh4+ Kg3 51. Nxf5+ Kf4 52. Rxh2 Ke5
+53. f8=Q Kd5 54. Qd6+ Kc4 55. Qxd4+ Kb3 56. Ne3 Ka2 57. Qxa4+ Kb1 58. Rh1+ Kxb2
+59. Qc2+ Ka3 60. Rb1 a4 61. Qb2# 1-0
+

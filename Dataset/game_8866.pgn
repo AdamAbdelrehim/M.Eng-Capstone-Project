@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "thundertwister"]
+[Black "yugie_wu"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/bGglGiBL"]
+[WhiteElo "2661"]
+[BlackElo "2572"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "05:47:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. Nf3 d5 2. g3 a6 3. Bg2 Bf5 4. O-O e6 5. d3 h6 6. c4 c6 7. Qb3 Qc8 8. cxd5
+cxd5 9. Nc3 Nc6 10. e4 d4 11. exf5 dxc3 12. fxe6 Qxe6 13. Re1 1-0
+

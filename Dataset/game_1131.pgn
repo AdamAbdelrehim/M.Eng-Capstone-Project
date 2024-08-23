@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "tuzakli_egitim"]
+[Black "miki_train"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/rlJ7YBC1"]
+[WhiteElo "2837"]
+[BlackElo "2677"]
+[ECO "C84"]
+[Opening "Ruy Lopez: Closed, Center Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:31:34"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d4 Nxe4 7. Re1 b5 8.
+Rxe4 bxa4 9. d5 Nb8 10. Nxe5 O-O 11. Nc3 d6 12. Nd3 a3 13. bxa3 Nd7 14. Re1 Nf6
+15. h3 a5 16. Qf3 Bb7 17. Bg5 h6 18. Bh4 Re8 19. Re2 Nh7 20. Rae1 Ng5 21. Bxg5
+hxg5 22. Nb5 Qd7 23. c4 c6 24. Nd4 cxd5 25. cxd5 Bf6 26. Qg4 Qa4 27. Nc6 Bxc6
+28. dxc6 Qxc6 29. Qf3 d5 30. Rxe8+ Rxe8 31. Rxe8+ Qxe8 32. Qxd5 Qe2 33. g3 Qxa2
+34. Qxa2 1-0
+

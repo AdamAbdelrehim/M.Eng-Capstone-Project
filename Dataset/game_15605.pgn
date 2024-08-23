@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "trotsky2"]
+[Black "FIDE-Trainer1984"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/4E6XTHAQ"]
+[WhiteElo "2517"]
+[BlackElo "2494"]
+[ECO "D11"]
+[Opening "Slav Defense: Modern Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:04:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 c6 2. c4 d5 3. Nf3 Nf6 4. Qc2 g6 5. cxd5 Nxd5 6. e4 Nb6 7. h3 Bg7 8. Be3
+N8d7 9. Nc3 e5 10. Rd1 Qe7 11. a4 exd4 12. Nxd4 Ne5 13. b3 O-O 14. Be2 Rd8 15.
+O-O Nbd7 16. f4 Bh6 17. Bf2 Bxf4 18. Rfe1 Nf8 19. Nf3 Nxf3+ 20. Bxf3 Be6 21.
+Nd5 cxd5 22. exd5 Bf5 23. Qc4 Qc7 24. Qd4 Bg3 25. Rc1 Bxf2+ 26. Qxf2 Qb6 27.
+Qxb6 axb6 28. Rc7 Rd7 29. Rec1 Rad8 30. Rc8 Rxc8 31. Rxc8 Kg7 32. Rb8 h5 33. b4
+h4 34. Kf2 Nh7 35. Ke3 Nf6 36. Kd4 Nxd5 37. Bxd5 Be6 38. Kc3 Bxd5 39. a5 bxa5
+40. bxa5 Bxg2 0-1
+

@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "zayebavshik"]
+[Black "Chess_Antistress"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/W1e5WgbQ"]
+[WhiteElo "2504"]
+[BlackElo "2532"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "04:49:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. dxc5 e6 5. Nf3 Bxc5 6. Bd3 Ne7 7. O-O Ng6 8. Nbd2
+Nc6 9. c3 Bb6 10. Re1 Bc7 11. Qa4 O-O 12. Bxg6 fxg6 13. Qg4 Rf5 14. Nb3 Nxe5
+15. Nxe5 Bxe5 16. Nd4 Rh5 17. Bf4 Bxd4 18. cxd4 e5 19. Qxc8 0-1
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "caveman12345"]
+[Black "cn_ua"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/7QNOGTj1"]
+[BlackTitle "IM"]
+[WhiteElo "2476"]
+[BlackElo "2583"]
+[ECO "A05"]
+[Opening "King's Indian Attack: Symmetrical Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:22:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. Nf3 Nf6 2. g3 g6 3. Bg2 Bg7 4. O-O O-O 5. d3 c5 6. e4 d6 7. Re1 Nc6 8. c3
+Rb8 9. h3 b5 10. a4 b4 11. d4 bxc3 12. bxc3 cxd4 13. cxd4 d5 14. Bf4 dxe4 15.
+Ng5 Rb4 16. Nxe4 Rxd4 17. Nxf6+ Bxf6 0-1
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Victor_Resicknovich"]
+[Black "prof28"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/rn5ClDDC"]
+[WhiteElo "2319"]
+[BlackElo "2503"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:46:00"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. a4 O-O 6. O-O a5 7. Re1 d6 8. c3
+Bg4 9. Nbd2 Nd7 10. Nf1 Nc5 11. Ng3 Ne6 12. h3 Bxf3 13. Qxf3 Bg5 14. Qg4 Bxc1
+15. Raxc1 Nf4 16. d4 g6 17. Rcd1 Qf6 18. Re3 h5 19. Qd7 Rac8 20. Rf3 Rfd8 21.
+Qxf7+ Qxf7 22. Bxf7+ Kxf7 23. Ne2 Ke7 24. Nxf4 exf4 25. Rxf4 Rf8 0-1
+

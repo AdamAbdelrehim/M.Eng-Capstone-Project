@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Sicilian_training"]
+[Black "silence404"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Gy6ockUK"]
+[WhiteElo "2730"]
+[BlackElo "2782"]
+[ECO "E98"]
+[Opening "King's Indian Defense: Orthodox Variation, Classical System, Neo-Classical Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:12:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. O-O Nc6 8. d5
+Ne7 9. Ne1 Nd7 10. Be3 f5 11. f3 f4 12. Bf2 g5 13. a4 Ng6 14. a5 a6 15. b4 Rf7
+16. c5 Bf8 17. c6 bxc6 18. dxc6 Nf6 19. Bc4 g4 20. Qb3 Qe7 21. Nd5 Nxd5 22.
+Bxd5 Kg7 23. fxg4 Rf6 24. g5 Re6 25. Nf3 h6 26. gxh6+ Kxh6 27. Rfb1 Nh8 28. b5
+axb5 29. Bxe6 Bxe6 30. Qxb5 Qg7 31. a6 Be7 32. a7 Bh3 33. Qf1 Qg4 34. Rb8 Rxa7
+35. Rxh8+ Kg6 36. Rxh3 1-0
+

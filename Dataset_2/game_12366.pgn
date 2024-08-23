@@ -1,0 +1,35 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.07.07"]
+[Round "-"]
+[White "wertymelon27"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r4rk1/pp1n1pbp/2p2np1/4Np2/2pq1B2/2N3P1/PPQ2PBP/3RR1K1 b - -"]
+[Timezone "UTC"]
+[ECO "E60"]
+[ECOUrl "https://www.chess.com/openings/Kings-Indian-Defense-3.Nf3-Bg7-4.g3-d5"]
+[UTCDate "2024.07.07"]
+[UTCTime "17:23:03"]
+[WhiteElo "1951"]
+[BlackElo "1850"]
+[TimeControl "600"]
+[Termination "wertymelon27 won by resignation"]
+[StartTime "17:23:03"]
+[EndDate "2024.07.07"]
+[EndTime "17:25:00"]
+[Link "https://www.chess.com/game/live/114112174033"]
+
+1. d4 { [%clk 0:09:59.9] } 1... Nf6 { [%clk 0:09:58.3] } 2. c4
+{ [%clk 0:09:59.3] } 2... g6 { [%clk 0:09:52.5] } 3. Nf3 { [%clk 0:09:57.2] }
+3... Bg7 { [%clk 0:09:48.3] } 4. g3 { [%clk 0:09:56.7] } 4... d5
+{ [%clk 0:09:47] } 5. Bg2 { [%clk 0:09:56.3] } 5... O-O { [%clk 0:09:45.4] } 6.
+O-O { [%clk 0:09:55.2] } 6... Bg4 { [%clk 0:09:43.3] } 7. Nc3
+{ [%clk 0:09:54] } 7... e6 { [%clk 0:09:41.3] } 8. Qc2 { [%clk 0:09:46.6] }
+8... c6 { [%clk 0:09:40.2] } 9. Re1 { [%clk 0:09:42.5] } 9... dxc4
+{ [%clk 0:09:36.5] } 10. Ne5 { [%clk 0:09:40.9] } 10... Bf5
+{ [%clk 0:09:34.2] } 11. e4 { [%clk 0:09:38] } 11... Qxd4 { [%clk 0:09:14.5] }
+12. exf5 { [%clk 0:09:32.7] } 12... exf5 { [%clk 0:09:12.8] } 13. Bf4
+{ [%clk 0:09:24.6] } 13... Nbd7 { [%clk 0:09:04.2] } 14. Rad1
+{ [%clk 0:09:14.9] } 1-0
+

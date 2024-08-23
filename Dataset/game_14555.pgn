@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Shorokhov_Mikhail"]
+[Black "sparrow1"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/GiYtUmAt"]
+[WhiteElo "2462"]
+[BlackElo "2519"]
+[ECO "A00"]
+[Opening "Polish Opening: Outflank Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:36:36"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. b4 c6 2. c4 e5 3. Bb2 d6 4. e3 Nf6 5. Nf3 Be7 6. d4 exd4 7. exd4 d5 8. a3
+O-O 9. Be2 Re8 10. O-O Nbd7 11. Ne5 Nf8 12. f4 dxc4 13. Bxc4 Be6 14. Qb3 Bxc4
+15. Qxc4 Qd5 16. Nc3 Qxc4 17. Nxc4 Rad8 18. Rad1 Ne6 19. Ne2 Nc7 20. Ne5 Nfd5
+21. Kf2 f6 22. Nf3 a5 23. bxa5 Ra8 24. Ra1 Rxa5 25. Rfc1 Ra4 26. Ne1 Rea8 27.
+Nc2 Nb5 28. g3 Bxa3 29. Nxa3 Nxa3 30. Bxa3 Rxa3 31. Rxa3 Rxa3 32. Rc2 Rb3 33.
+Nc1 Rb4 34. Ne2 Kf7 35. Ra2 Ke6 36. g4 f5 37. h3 fxg4 38. hxg4 h6 39. Ra8 Rb2
+40. Kf3 Rb3+ 41. Kf2 b5 42. Rg8 Kf7 43. Rc8 Ne7 44. Rc7 Ke6 45. Rb7 g6 46. Ke1
+h5 47. f5+ gxf5 48. gxh5 Kd6 49. Nf4 Rf3 50. Ng6 Nxg6 51. hxg6 Rg3 52. g7 Kd5
+53. Rd7+ Kc4 54. Kf2 f4 55. Rd6 Rxg7 56. Rxc6+ Kxd4 57. Kf3 b4 58. Kxf4 Rf7+
+59. Kg3 b3 60. Rb6 Kc3 0-1
+

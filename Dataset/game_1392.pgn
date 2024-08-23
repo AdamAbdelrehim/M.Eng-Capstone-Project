@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "yobot_v2"]
+[Black "zlatana75"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/QKhhfMm0"]
+[WhiteElo "3009"]
+[BlackElo "3025"]
+[ECO "D43"]
+[Opening "Semi-Slav Defense: Anti-Moscow Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:37:12"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "-1"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 d5 4. Nc3 c6 5. Bg5 h6 6. Bh4 dxc4 7. e4 g5 8. Bg3 b5
+9. Ne5 Nbd7 10. Nxc6 Qb6 11. d5 Bb7 12. a4 a6 13. Be2 Bxc6 14. dxc6 Qxc6 15. e5
+Nd5 16. Bf3 Bb4 17. O-O Bxc3 18. axb5 axb5 19. Bxd5 exd5 20. Rxa8+ Qxa8 21.
+bxc3 Nc5 22. f4 Qc6 23. f5 Ne4 24. e6 Qc5+ 25. Kh1 O-O 26. Qh5 Qa7 27. Qxh6
+fxe6 28. Qg6+ Qg7 29. Qxe6+ Qf7 30. Qc6 Nd2 31. Rf2 Ne4 32. Rf1 Re8 33. Be1 Re5
+34. Kg1 Qa7+ 35. Kh1 Qf7 36. Kg1 Qa7+ 37. Kh1 Qf7 1/2-1/2
+

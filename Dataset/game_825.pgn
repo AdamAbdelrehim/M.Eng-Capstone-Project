@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "caissa-x"]
+[Black "AKS-Mantissa"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/0Hct1aqy"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2993"]
+[BlackElo "2716"]
+[ECO "A16"]
+[Opening "English Opening: Anglo-Indian Defense, Anglo-Grünfeld Variation"]
+[TimeControl "90+4"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:50:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. Nf3 Nf6 2. c4 g6 3. Nc3 d5 4. cxd5 Nxd5 5. h4 Bg7 6. h5 Nxc3 7. bxc3 c5 8.
+Qa4+ Nd7 9. g3 b6 10. Bg2 Bb7 11. h6 Bf6 12. O-O O-O 13. d4 a6 14. Bf4 Rc8 15.
+Rad1 b5 16. Qa3 cxd4 17. cxd4 Nb6 18. d5 Rc3 19. Qa5 Rc4 20. Ne5 Ra4 21. Qd2
+Bxe5 22. Bxe5 Nc4 23. Qd4 f6 24. Bf4 Rxa2 25. Qc5 Qd7 26. d6 exd6 27. Qa7 Rf7
+28. Qb8+ Qc8 29. Qxc8+ Bxc8 30. Bxd6 Rxe2 31. Bb4 Rf8 32. Bd5+ Be6 33. Bxe6+
+Rxe6 34. Rd7 Rfe8 35. Rg7+ Kh8 36. Rd1 Ne5 37. f4 g5 38. fxe5 fxe5 39. Rc7 Rxh6
+40. Rdd7 g4 41. Kf2 Kg8 42. Ke3 Rg6 43. Bc3 Rg5 44. Rxh7 Rc8 45. Rhg7+ Rxg7 46.
+Rxc8+ Kf7 47. Rc7+ Kg6 48. Rxg7+ Kxg7 49. Bxe5+ Kf7 50. Bc3 Ke6 51. Kf4 Kd5 52.
+Kxg4 Kc5 53. Kf5 Kb6 54. g4 b4 55. Bxb4 a5 56. Be7 Kc6 57. g5 Kd7 58. Ba3 a4
+59. Ke5 Kd8 60. g6 Kc7 61. Kd5 Kb7 62. g7 Kb6 63. g8=Q Kb7 64. Qg7+ Kb6 65.
+Bc5+ Ka6 66. Qa7+ Kb5 67. Qb6# 1-0
+

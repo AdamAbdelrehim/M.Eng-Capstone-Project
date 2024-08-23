@@ -1,0 +1,22 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Rookie1243"]
+[Black "forbiddencheapos"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/GvwUyX6x"]
+[WhiteElo "2501"]
+[BlackElo "2388"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Cozio Defense"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:15:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+8"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. Nc3 d6 5. d4 Bd7 6. O-O h6 7. h3 g5 8. Re1
+Bg7 9. Be3 O-O 10. Qd2 Ng6 11. Rad1 a6 12. Ba4 b5 13. Bb3 exd4 0-1
+

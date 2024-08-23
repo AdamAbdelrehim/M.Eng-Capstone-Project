@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Sadzin"]
+[Black "AlexeyLV"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/865bzTHT"]
+[WhiteElo "2549"]
+[BlackElo "2574"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Line"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:16:48"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. f4 Qb6 5. Nf3 d5 6. e5 Bg4 7. Be2 Nh6 8. Na4
+Qc7 9. Be3 Nd7 10. O-O b5 11. Nc5 Nxc5 12. dxc5 Nf5 13. Bf2 e6 14. h3 Bxf3 15.
+Bxf3 h5 16. c3 h4 17. a4 Bh6 18. Qd2 Qxe5 19. fxe5 Bxd2 20. axb5 cxb5 21. Ra6
+Be3 22. Rfa1 O-O 23. Rxa7 Rxa7 24. Rxa7 Rc8 25. b4 d4 26. cxd4 Bxf2+ 27. Kxf2
+Nxd4 28. Be4 Kf8 29. Ke3 Nf5+ 30. Bxf5 exf5 31. Rb7 g5 32. Rxb5 Ke7 33. Rb6 Ra8
+34. c6 Ra2 35. b5 Rxg2 36. Rb7+ Ke6 37. b6 g4 38. hxg4 fxg4 39. c7 Rc2 40. Rb8
+h3 41. Rh8 g3 42. Rxh3 Rc3+ 43. Kd4 Rc6 44. Rxg3 Kd7 45. Rg8 1-0
+

@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Shaginyan_A"]
+[Black "Chibukhchyan_E_S"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/pjvue9Sv"]
+[WhiteElo "2531"]
+[BlackElo "2610"]
+[ECO "C41"]
+[Opening "Philidor Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:08:47"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. d3 Nf6 5. c3 O-O 6. Bb3 c6 7. Nbd2 h6 8. Nf1
+a5 9. Ng3 Nbd7 10. O-O Nc5 11. Bc2 Nfd7 12. d4 Ne6 13. Nf5 Re8 14. Nxe7+ Qxe7
+15. Re1 Nf4 16. Bxf4 exf4 17. e5 dxe5 18. Nxe5 Nxe5 19. Rxe5 Qf8 20. Qd3 g6 21.
+Rae1 Rxe5 22. Rxe5 Bf5 23. Qd2 Bxc2 24. Qxc2 Re8 25. Qe4 Rxe5 26. Qxe5 g5 27.
+Qxa5 Qe7 28. Qe5 Qxe5 29. dxe5 Kf8 30. Kf1 Ke7 31. Ke2 Ke6 32. Kd3 Kxe5 33. Kc4
+f3 34. g3 Ke4 35. a4 f5 36. b4 f4 37. g4 b5+ 38. axb5 cxb5+ 39. Kxb5 Kd3 40. c4
+Ke2 41. c5 Kxf2 42. c6 Kg2 43. c7 f2 44. c8=Q f1=Q+ 45. Ka5 f3 46. Qc2+ Qe2 47.
+Qc6 Kg1 48. Qc1+ Kxh2 49. b5 f2 50. b6 f1=Q 0-1
+

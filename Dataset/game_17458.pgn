@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "CleverKenkz"]
+[Black "tantgreta"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/iWO4uzL4"]
+[WhiteTitle "IM"]
+[WhiteElo "2546"]
+[BlackElo "2591"]
+[ECO "A13"]
+[Opening "English Opening: Agincourt Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "06:45:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. c4 e6 2. Nc3 d5 3. e3 Nf6 4. Nf3 Be7 5. b3 b6 6. Bb2 Bb7 7. Be2 O-O 8. O-O
+c5 9. cxd5 Nxd5 10. Rc1 Nc6 11. Ne4 Nf6 12. Ng3 Rc8 13. d3 Qd5 14. Qc2 Rfd8 15.
+a3 Na5 16. Rb1 Nc6 17. Rfe1 Nd7 18. Ne4 Nce5 19. Rbd1 f5 20. Nc3 Qc6 21. Rf1
+Ng6 22. Ne1 Nh4 23. e4 Bf6 24. g3 Ng6 25. Bf3 Qc7 26. Bg2 Bd4 27. Nf3 Nf6 28.
+Bc1 Bxc3 29. Qxc3 fxe4 30. dxe4 Bxe4 31. Bg5 Qf7 32. Qc4 Bd5 33. Qa6 Ne4 34.
+Be3 Nc3 35. Rde1 Bxf3 36. Bxf3 Qxf3 37. Qxa7 Ne2+ 38. Rxe2 Qxe2 39. Qxb6 Rd1
+40. Qxe6+ Kf8 41. Qxc8+ Kf7 42. Qf5+ Ke8 43. Qc8+ Kf7 44. Qc7+ Ke8 45. Rxd1
+Qxd1+ 46. Kg2 Qd5+ 47. f3 Ne5 48. Qc8+ Kf7 49. Qf5+ Ke7 50. Qe4 Kd6 51. Bf4 Ke6
+52. Qxe5+ Qxe5 53. Bxe5 Kxe5 54. a4 Kd4 55. Kf2 Kc3 56. a5 Kxb3 57. a6 c4 58.
+a7 c3 59. a8=Q c2 60. Qc6 1-0
+

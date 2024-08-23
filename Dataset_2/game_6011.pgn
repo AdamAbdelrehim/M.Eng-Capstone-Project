@@ -1,0 +1,43 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.08.23"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "lmaofml"]
+[Result "1-0"]
+[CurrentPosition "3rk2R/4qp2/p7/4p1p1/2p1P3/2N2b2/PPP2Q2/2K3R1 b k -"]
+[Timezone "UTC"]
+[ECO "B34"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Open-Accelerated-Dragon-Modern-Variation-5...Bg7-6.Be3-d6"]
+[UTCDate "2022.08.23"]
+[UTCTime "03:53:39"]
+[WhiteElo "1626"]
+[BlackElo "1612"]
+[TimeControl "180"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "03:53:39"]
+[EndDate "2022.08.23"]
+[EndTime "03:56:35"]
+[Link "https://www.chess.com/game/live/54965758201"]
+
+1. e4 { [%clk 0:02:57.3] } 1... c5 { [%clk 0:02:58.8] } 2. Nf3
+{ [%clk 0:02:55.4] } 2... Nc6 { [%clk 0:02:58] } 3. d4 { [%clk 0:02:54.3] }
+3... cxd4 { [%clk 0:02:56.9] } 4. Nxd4 { [%clk 0:02:54.2] } 4... g6
+{ [%clk 0:02:56.2] } 5. Nc3 { [%clk 0:02:53.3] } 5... Bg7 { [%clk 0:02:54.9] }
+6. Be3 { [%clk 0:02:53] } 6... d6 { [%clk 0:02:53.6] } 7. f3
+{ [%clk 0:02:50.5] } 7... a6 { [%clk 0:02:52.7] } 8. Qd2 { [%clk 0:02:49.6] }
+8... h6 { [%clk 0:02:50.9] } 9. O-O-O { [%clk 0:02:48.1] } 9... Ne5
+{ [%clk 0:02:47.7] } 10. Be2 { [%clk 0:02:38.7] } 10... b5 { [%clk 0:02:44.1] }
+11. f4 { [%clk 0:02:37.6] } 11... Nc4 { [%clk 0:02:40.9] } 12. Bxc4
+{ [%clk 0:02:35.9] } 12... bxc4 { [%clk 0:02:39.9] } 13. Rdg1
+{ [%clk 0:02:31] } 13... Nf6 { [%clk 0:02:35.5] } 14. h3 { [%clk 0:02:27.8] }
+14... e5 { [%clk 0:02:32.7] } 15. fxe5 { [%clk 0:02:25.7] } 15... dxe5
+{ [%clk 0:02:31.9] } 16. Nf3 { [%clk 0:02:19.7] } 16... Qe7 { [%clk 0:02:21] }
+17. g4 { [%clk 0:02:15.9] } 17... g5 { [%clk 0:02:14.8] } 18. h4
+{ [%clk 0:02:12.6] } 18... Bxg4 { [%clk 0:02:03.4] } 19. hxg5
+{ [%clk 0:02:10.3] } 19... Bxf3 { [%clk 0:01:53.2] } 20. gxf6
+{ [%clk 0:02:09.5] } 20... Bxf6 { [%clk 0:01:51.9] } 21. Rh3 { [%clk 0:02:06] }
+21... Rd8 { [%clk 0:01:49.4] } 22. Qf2 { [%clk 0:01:58.4] } 22... Bg5
+{ [%clk 0:01:28.5] } 23. Bxg5 { [%clk 0:01:54.3] } 23... hxg5
+{ [%clk 0:01:23.6] } 24. Rxh8+ { [%clk 0:01:52.4] } 1-0
+

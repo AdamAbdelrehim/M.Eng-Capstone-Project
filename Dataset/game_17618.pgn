@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "firegus16"]
+[Black "tempstream"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Vi5MkLLd"]
+[WhiteElo "2563"]
+[BlackElo "2562"]
+[ECO "E15"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:29:39"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+8"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Nbd2 Bb4 6. Qc2 c6 7. Bg2 O-O 8. O-O
+d5 9. b3 Nbd7 10. Bb2 Rc8 11. Rac1 Bb7 12. Rfd1 Qe7 13. e4 dxe4 14. Nxe4 c5 15.
+Nfg5 Nxe4 16. Nxe4 cxd4 17. Bxd4 Ba3 18. Rb1 Bxe4 19. Qxe4 Nf6 20. Qh4 Bc5 21.
+Bb2 Rfd8 22. Bf3 h6 23. Kg2 Rxd1 24. Rxd1 Rd8 25. Rxd8+ Qxd8 26. Qf4 a5 27. h4
+Ne8 28. Be4 Qd1 29. Qb8 Qd7 30. Qa8 Kf8 31. Be5 Qd2 32. Kh3 Qxf2 33. Bxg7+ Kxg7
+34. Qb8 Bd6 0-1
+

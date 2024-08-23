@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "BASHOV"]
+[Black "Adrian_DelaCruz"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/513jlvWj"]
+[WhiteElo "2465"]
+[BlackElo "2603"]
+[ECO "B28"]
+[Opening "Sicilian Defense: O'Kelly Variation, Normal System"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:01:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 c5 2. Nf3 a6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 e5 6. Nf3 Qc7 7. Bd3 h6 8. O-O
+Bc5 9. Nh4 d6 10. h3 Nc6 11. Kh1 g5 12. Nf5 Bxf5 13. exf5 d5 14. a3 O-O-O 15.
+b4 Bd4 16. Bd2 Nxb4 17. axb4 Bxc3 18. Bxc3 Qxc3 19. b5 a5 20. b6 Rd6 21. Qb1
+Qc5 22. Qb2 e4 23. Be2 Rxb6 24. Qa2 Kb8 25. Rfd1 Rc8 26. c4 d4 27. Bf1 d3 28.
+g3 Rb4 29. Bg2 b6 30. g4 Qxc4 31. Qb2 Rxb2 0-1
+

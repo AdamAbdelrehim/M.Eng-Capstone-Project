@@ -1,0 +1,29 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "ELO_1500"]
+[Black "Lynx_BOT"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ZpaJHPz3"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2964"]
+[BlackElo "2571"]
+[ECO "E10"]
+[Opening "Indian Defense: Anti-Nimzo-Indian"]
+[TimeControl "300+10"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:32:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. d4 e6 2. c4 Nf6 3. Nf3 h6 4. g3 Be7 5. Bg2 a5 6. O-O d5 7. Nc3 c6 8. Nd2 O-O
+9. e4 c5 10. e5 Nfd7 11. cxd5 cxd4 12. d6 dxc3 13. Nc4 Nc6 14. bxc3 Bh4 15. f4
+Nb6 16. Ne3 f6 17. Qh5 fxe5 18. Ng4 exf4 19. Nxh6+ gxh6 20. Qg6+ Kh8 21. Qxh6+
+Kg8 22. Qg6+ Kh8 23. Be4 Qd7 24. Rxf4 Rxf4 25. Bxf4 Nd5 26. Bxd5 Bf6 27. Qxf6+
+Qg7 28. Qh4+ Kg8 29. Be4 b6 30. Bxc6 Ra7 31. Re1 Qf8 32. Be5 Rh7 33. Qg5+ Rg7
+34. Bxg7 Qxg7 35. Qd8+ Qf8 36. Qh4 b5 37. Rf1 Qxf1+ 38. Kxf1 b4 39. Be4 Kf8 40.
+Qe7+ Kg8 41. Qh7+ Kf8 42. Bg6 Ba6+ 43. Ke1 bxc3 44. Qh8# 1-0
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "AntharDrishti"]
+[Black "thewannabetomato"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/dyWvHhea"]
+[WhiteElo "2482"]
+[BlackElo "2643"]
+[ECO "B77"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Czerniak Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:34:50"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. Bc4 Nxd4 10. Bxd4 Be6 11. Bb3 Qa5 12. O-O Nd7 13. Bxg7 Kxg7 14. f4 Rac8
+15. Kh1 Bc4 16. Rf3 b5 17. f5 Bxb3 18. cxb3 f6 19. Rh3 g5 20. Qe2 b4 21. Nd5
+Qc5 22. Rf1 Rf7 23. Qh5 Kg8 24. Rg3 Qc2 25. h4 Qxe4 26. Nf4 Qxf5 27. hxg5 Rg7
+28. Rff3 Rc1+ 29. Kh2 Qb1 30. Rh3 Rh1+ 31. Kg3 Rxg5+ 32. Qxg5+ fxg5 33. Ne6
+Rxh3+ 34. Kxh3 Qh1+ 35. Kg3 Qh4# 0-1
+

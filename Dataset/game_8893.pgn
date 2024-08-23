@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "SaSeg"]
+[Black "Predator_Shark"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/YYwrGUKd"]
+[WhiteElo "2483"]
+[BlackElo "2506"]
+[ECO "A15"]
+[Opening "English Opening: Anglo-Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "05:55:51"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. c4 Nf6 2. g3 e6 3. Bg2 d5 4. Nf3 d4 5. d3 c5 6. e4 dxe3 7. Bxe3 Nc6 8. O-O
+Be7 9. Nc3 O-O 10. a3 Rb8 11. Qc2 a6 12. Rad1 e5 13. b3 Bf5 14. Ne4 b6 15. Nh4
+Bg4 16. Nxf6+ Bxf6 17. Bxc6 Bxd1 18. Rxd1 Bxh4 19. gxh4 Qxh4 20. Qe2 Rbd8 21.
+Bd5 Kh8 22. Kh1 f5 23. Rg1 f4 24. Bd2 Qh3 25. Bc3 Rde8 26. Bxe5 Qh6 27. Qb2
+Rxe5 28. Qxe5 f3 29. Qg5 Qxg5 30. Rxg5 Rf4 31. Be4 g6 32. Rg3 Rf6 33. Rxf3 Rd6
+34. Kg2 Kg7 35. Re3 h6 36. f3 g5 37. Kg3 Kf6 38. f4 gxf4+ 39. Kxf4 Rd8 40. Rh3
+Kg7 41. Rg3+ Kf6 42. Rg6+ Ke7 43. Rxb6 Rf8+ 44. Ke3 Rf2 45. Kxf2 Kd7 46. Rxa6
+Kc7 47. Rxh6 Kb8 48. Bd5 Kc7 49. Rc6+ Kb8 50. Rxc5 Ka7 51. d4 Kb6 52. b4 Ka7
+53. a4 Kb6 54. h4 Ka7 55. h5 Kb6 56. h6 Ka7 57. h7 Kb6 58. h8=Q Ka7 59. Bc6 Kb6
+60. d5 Ka7 61. d6 Kb6 62. d7 Ka7 63. d8=Q Ka6 64. b5+ Ka7 65. b6+ Ka6 66. b7
+Ka7 67. b8=Q+ Ka6 68. Bb5# 1-0
+

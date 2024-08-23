@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "SolistaBot"]
+[Black "Nikitosikbot_v2"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/9DaQpNir"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3021"]
+[BlackElo "3032"]
+[ECO "D38"]
+[Opening "Queen's Gambit Declined: Ragozin Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:26:36"]
+[Termination "Normal"]
+
+1. c4 e6 2. d4 d5 3. Nc3 Nf6 4. Nf3 Bb4 5. cxd5 exd5 6. Bg5 h6 7. Bxf6 Qxf6 8.
+Qa4+ Nc6 9. e3 O-O 10. Be2 Be6 11. a3 Bxc3+ 12. bxc3 Ne7 13. O-O Rfc8 14. h3 c6
+15. Qb4 b6 16. Qd6 Nf5 17. Qf4 Qe7 18. a4 Nd6 19. Ne5 c5 20. Rfc1 c4 21. Bf3 g5
+22. Qh2 f6 23. Ng4 Rd8 24. Nxh6+ Kg7 25. Ng4 Rh8 26. Qg3 Rh4 27. Re1 Re8 28.
+Ra2 Nf5 29. Qh2 Nd6 30. Qg3 Nf5 31. Qh2 Nd6 32. Qg3 1/2-1/2
+

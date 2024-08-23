@@ -1,0 +1,34 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.09.04"]
+[Round "-"]
+[White "Tarniemy_04"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r2q2kr/pp2p1bp/2n1Q1p1/6N1/3pP3/2P1B3/P4PPP/R3K2R b KQ -"]
+[Timezone "UTC"]
+[ECO "E60"]
+[ECOUrl "https://www.chess.com/openings/Kings-Indian-Defense-3.Nf3"]
+[UTCDate "2023.09.04"]
+[UTCTime "04:21:29"]
+[WhiteElo "2001"]
+[BlackElo "1957"]
+[TimeControl "600"]
+[Termination "Tarniemy_04 won by resignation"]
+[StartTime "04:21:29"]
+[EndDate "2023.09.04"]
+[EndTime "04:22:51"]
+[Link "https://www.chess.com/game/live/87540109185"]
+
+1. d4 { [%clk 0:10:00] } 1... Nf6 { [%clk 0:09:58.7] } 2. Nf3
+{ [%clk 0:09:59] } 2... g6 { [%clk 0:09:57.9] } 3. c4 { [%clk 0:09:57.4] } 3...
+Bg7 { [%clk 0:09:56.5] } 4. Nc3 { [%clk 0:09:56.1] } 4... d5
+{ [%clk 0:09:55.3] } 5. cxd5 { [%clk 0:09:54.4] } 5... Nxd5
+{ [%clk 0:09:53.8] } 6. e4 { [%clk 0:09:53.9] } 6... Nxc3 { [%clk 0:09:52.8] }
+7. bxc3 { [%clk 0:09:53.1] } 7... c5 { [%clk 0:09:52.3] } 8. Be3
+{ [%clk 0:09:52.1] } 8... Nc6 { [%clk 0:09:46.9] } 9. Bc4 { [%clk 0:09:38.5] }
+9... Bg4 { [%clk 0:09:44.9] } 10. Bxf7+ { [%clk 0:09:31.5] } 10... Kxf7
+{ [%clk 0:09:34.9] } 11. Ng5+ { [%clk 0:09:30.1] } 11... Kg8
+{ [%clk 0:09:33.2] } 12. Qxg4 { [%clk 0:09:28.2] } 12... cxd4
+{ [%clk 0:09:32.2] } 13. Qe6+ { [%clk 0:09:16.2] } 1-0
+

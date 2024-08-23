@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "blindcrocodile"]
+[Black "No_signs_of_V"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/tWtncv7E"]
+[WhiteElo "2596"]
+[BlackElo "2543"]
+[ECO "A09"]
+[Opening "Réti Opening: Advance Variation, Michel Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:35:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. Nf3 d5 2. c4 d4 3. b4 c5 4. b5 Nd7 5. g3 e5 6. d3 Bd6 7. Bg2 Ne7 8. O-O O-O
+9. a4 Rb8 10. a5 Kh8 11. e3 Ng6 12. Re1 Nf6 13. Nbd2 Bf5 14. Qc2 Qc8 15. Ng5 h6
+16. Nge4 Nxe4 17. Nxe4 Be7 18. h4 Re8 19. Bd2 Bh3 20. Bc1 Bxg2 21. Kxg2 f5 22.
+Nd2 dxe3 23. Rxe3 f4 24. Re4 Qg4 25. Nf3 Nxh4+ 26. Nxh4 Bxh4 27. Bxf4 exf4 28.
+Rxf4 Qg6 29. Rxh4 Rbd8 30. Rd1 Re5 31. Rd2 b6 32. a6 Re6 33. Rf4 Red6 34. Re4
+Qxe4+ 35. dxe4 Rxd2 36. Qc3 Ra2 37. Qe5 Rf8 38. Kh3 Raxf2 39. Qd6 R2f7 40. e5
+Re8 0-1
+

@@ -1,0 +1,32 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.12.20"]
+[Round "-"]
+[White "es3tag"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rnbq1rk1/ppp2ppQ/4p2p/b2p2N1/2PP4/2P3P1/P3PPBP/R1B2RK1 b - -"]
+[Timezone "UTC"]
+[ECO "A17"]
+[ECOUrl "https://www.chess.com/openings/English-Opening-Anglo-Indian-Queens-Knight-Variation-2...e6-3.Nf3"]
+[UTCDate "2023.12.20"]
+[UTCTime "22:54:30"]
+[WhiteElo "1965"]
+[BlackElo "1931"]
+[TimeControl "600"]
+[Termination "es3tag won by checkmate"]
+[StartTime "22:54:30"]
+[EndDate "2023.12.20"]
+[EndTime "22:57:34"]
+[Link "https://www.chess.com/game/live/96851978617"]
+
+1. c4 { [%clk 0:10:00] } 1... Nf6 { [%clk 0:09:58.6] } 2. Nc3
+{ [%clk 0:09:55.8] } 2... e6 { [%clk 0:09:58.2] } 3. Nf3 { [%clk 0:09:39.7] }
+3... Bc5 { [%clk 0:09:51.6] } 4. g3 { [%clk 0:09:06.2] } 4... O-O
+{ [%clk 0:09:49.4] } 5. Bg2 { [%clk 0:09:05.1] } 5... d5 { [%clk 0:09:48.3] }
+6. d4 { [%clk 0:08:45.3] } 6... Bb4 { [%clk 0:09:44.1] } 7. Qc2
+{ [%clk 0:08:15.9] } 7... Ne4 { [%clk 0:09:34.7] } 8. O-O { [%clk 0:07:52] }
+8... Nxc3 { [%clk 0:09:28.2] } 9. bxc3 { [%clk 0:07:49.6] } 9... Ba5
+{ [%clk 0:09:23.4] } 10. Ng5 { [%clk 0:07:43.7] } 10... h6 { [%clk 0:09:19.5] }
+11. Qh7# { [%clk 0:07:42.3] } 1-0
+

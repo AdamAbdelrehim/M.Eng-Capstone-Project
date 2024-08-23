@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "ViennaDragon"]
+[Black "sotirakis"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/l3cwtc9M"]
+[WhiteElo "2516"]
+[BlackElo "2543"]
+[ECO "E61"]
+[Opening "King's Indian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:54:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. g3 O-O 5. Bg2 c5 6. d5 d6 7. Nf3 e6 8. O-O
+exd5 9. cxd5 Bf5 10. Nd2 Na6 11. e4 Bd7 12. Nc4 Qc7 13. Bf4 Ne8 14. a4 Nb4 15.
+Re1 a6 16. e5 dxe5 17. d6 Qc8 18. Nxe5 Nc6 19. Nd5 Qd8 20. Nc4 Be6 21. Ncb6
+Bxd5 22. Nxd5 Nxd6 23. Bxd6 Qxd6 24. Ne7+ Qxe7 25. Rxe7 Nxe7 26. Qd7 Nc6 27.
+Qxb7 Nb4 28. Rc1 Rab8 29. Qe7 Nd3 30. Rc2 Bd4 31. Bf1 Nxf2 32. Rxf2 Rxb2 33.
+Bxa6 Rxf2 34. Kh1 Rb8 35. Bb5 Kg7 36. h4 h5 37. Qe4 Rb6 38. Qb1 Re6 39. a5 Re3
+40. a6 Rxg3 41. Bd7 Rgg2 42. a7 Rh2+ 43. Kg1 Rb2+ 0-1
+

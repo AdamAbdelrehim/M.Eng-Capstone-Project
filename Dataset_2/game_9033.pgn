@@ -1,0 +1,40 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.05.19"]
+[Round "-"]
+[White "malasiantiger"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1b1rk1Q/pp1nbpp1/3Bp2p/q2p4/3P4/P4N2/1PB2PPP/2R1R1K1 b - -"]
+[Timezone "UTC"]
+[ECO "A45"]
+[ECOUrl "https://www.chess.com/openings/Indian-Game-Omega-Arafat-Gambit"]
+[UTCDate "2023.05.19"]
+[UTCTime "00:56:41"]
+[WhiteElo "2068"]
+[BlackElo "2015"]
+[TimeControl "600"]
+[Termination "malasiantiger won by checkmate"]
+[StartTime "00:56:41"]
+[EndDate "2023.05.19"]
+[EndTime "01:03:26"]
+[Link "https://www.chess.com/game/live/78196846749"]
+
+1. d4 { [%clk 0:09:56.9] } 1... Nf6 { [%clk 0:09:57.6] } 2. e4
+{ [%clk 0:09:53.8] } 2... Nxe4 { [%clk 0:09:52.6] } 3. Bd3 { [%clk 0:09:52.3] }
+3... Nf6 { [%clk 0:09:51.3] } 4. Bg5 { [%clk 0:09:48.1] } 4... e6
+{ [%clk 0:09:48.3] } 5. Nf3 { [%clk 0:09:45.9] } 5... Be7 { [%clk 0:09:47.4] }
+6. O-O { [%clk 0:09:44.1] } 6... O-O { [%clk 0:09:44.5] } 7. Re1
+{ [%clk 0:09:42.5] } 7... h6 { [%clk 0:09:40.2] } 8. Bf4 { [%clk 0:09:37.5] }
+8... d5 { [%clk 0:09:33.3] } 9. c3 { [%clk 0:09:33] } 9... c5
+{ [%clk 0:09:28.7] } 10. Nbd2 { [%clk 0:09:29.8] } 10... cxd4
+{ [%clk 0:09:25.1] } 11. cxd4 { [%clk 0:09:27.9] } 11... Nc6
+{ [%clk 0:09:24.2] } 12. a3 { [%clk 0:09:24.3] } 12... Qb6 { [%clk 0:09:20.9] }
+13. Nb3 { [%clk 0:08:27.6] } 13... Nd7 { [%clk 0:08:39.3] } 14. Rc1
+{ [%clk 0:08:15.1] } 14... Bf6 { [%clk 0:08:34.8] } 15. Bc2
+{ [%clk 0:07:52.9] } 15... Na5 { [%clk 0:08:11.5] } 16. Qd3
+{ [%clk 0:07:43.3] } 16... Re8 { [%clk 0:06:19.3] } 17. Nxa5 { [%clk 0:07:37] }
+17... Qxa5 { [%clk 0:06:17.1] } 18. Qh7+ { [%clk 0:07:24.8] } 18... Kf8
+{ [%clk 0:06:12.5] } 19. Bd6+ { [%clk 0:07:19.4] } 19... Be7
+{ [%clk 0:06:08.4] } 20. Qh8# { [%clk 0:07:17.3] } 1-0
+

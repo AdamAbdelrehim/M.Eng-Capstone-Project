@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "johndoe695"]
+[Black "thundertwister"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/MinR2Qfc"]
+[WhiteElo "2567"]
+[BlackElo "2678"]
+[ECO "A31"]
+[Opening "English Opening: Symmetrical Variation, Anti-Benoni Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "01:56:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+
+1. d4 Nf6 2. Nf3 c5 3. c4 cxd4 4. Nxd4 g6 5. g3 Bg7 6. Bg2 O-O 7. O-O Nc6 8. c5
+Nxd4 9. Qxd4 d5 10. cxd6 Qxd6 11. Qxd6 exd6 12. Rd1 d5 13. Nc3 Be6 14. Bg5 Rfe8
+15. Bxf6 Bxf6 16. Nxd5 Bxd5 17. Bxd5 Bxb2 18. Rab1 Rxe2 19. Kf1 Rae8 20. Bc4
+Rc2 21. Bd3 Rec8 22. Bxc2 Rxc2 23. Rd7 b6 24. Re1 Bf6 25. Rxa7 b5 26. Re2 Rc1+
+27. Kg2 h5 28. Rb7 Rb1 29. Re3 Rb2 30. a3 Kg7 31. Rf3 Rb1 32. a4 b4 33. a5 Ra1
+34. Rb6 Bc3 35. a6 Ra2 36. h4 Ra3 37. Rxb4 1-0
+

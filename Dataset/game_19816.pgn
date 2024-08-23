@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "fischerz"]
+[Black "shreckm8"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/l3JKX9M4"]
+[WhiteElo "2515"]
+[BlackElo "2462"]
+[ECO "D03"]
+[Opening "Queen's Pawn Game: Torre Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:16:59"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 d5 2. Nf3 Nf6 3. Bg5 h6 4. Bh4 e6 5. Nbd2 c5 6. e3 Nc6 7. c3 a6 8. Bd3 b5
+9. O-O c4 10. Bc2 Be7 11. Qe2 O-O 12. e4 Bb7 13. e5 Nd7 14. Bg3 b4 15. Ne1 a5
+16. f4 Qb6 17. f5 a4 18. f6 gxf6 19. Qg4+ Kh8 20. Qh5 Kg7 21. Nef3 f5 22. Nh4
+a3 23. Rxf5 Bxh4 24. Bxh4 exf5 25. Bxf5 Ncxe5 26. Rf1 Ra6 27. Be7 Ng6 28. Bxd7
+Nxe7 29. Qe5+ f6 30. Qxe7+ Rf7 31. Qe8 Ra8 32. Qe2 Rxd7 33. Qg4+ Kf8 34. Qxd7
+Qd8 35. Qxb7 axb2 36. cxb4 c3 37. Nb3 c2 38. Qh7 b1=Q 39. Rc1 Qxc1+ 40. Nxc1
+Qe8 41. Qxh6+ Kf7 42. Qh5+ Ke7 43. Qh7+ Kd6 44. Qxc2 Qe3+ 45. Kh1 Re8 46. h3
+Kd7 47. Kh2 Qe1 48. Ne2 Qxe2 49. Qc6+ Ke7 50. b5 Kf7 0-1
+

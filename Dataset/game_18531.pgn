@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "the_pursuer"]
+[Black "leopslr"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/NmbdD43y"]
+[BlackTitle "FM"]
+[WhiteElo "2650"]
+[BlackElo "2560"]
+[ECO "C07"]
+[Opening "French Defense: Tarrasch Variation, Open System, Euwe-Keres Line"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:06:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. e4 e6 2. d4 d5 3. Nd2 c5 4. Ngf3 a6 5. dxc5 Bxc5 6. Bd3 Nc6 7. c3 Nf6 8. Qe2
+Qc7 9. exd5 Nxd5 10. Ne4 Be7 11. O-O h6 12. Rd1 Bd7 13. g3 f5 14. Ned2 g5 15.
+Nc4 O-O-O 16. Nfe5 Nxe5 17. Nxe5 Be8 18. Ng6 Bxg6 19. Qxe6+ Kb8 20. Qxg6 f4 21.
+Bd2 Rd6 22. Qe4 Nf6 23. Qf3 Rhd8 24. Be1 g4 25. Qe2 f3 26. Qf1 Ka8 27. Bc2 h5
+28. Rxd6 Rxd6 29. Rd1 h4 30. Rxd6 Bxd6 31. Qd3 hxg3 32. hxg3 Qb6 33. Qd4 Bc5
+34. Qe5 Ka7 35. b4 Bf8 36. Bd2 Qc6 37. Be3+ Ka8 38. Bd4 Nd5 39. Be4 Qh6 40.
+Qe8# 1-0
+

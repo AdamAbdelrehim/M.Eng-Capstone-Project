@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "bancsoo"]
+[Black "vistagusta"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/BfdH4DXg"]
+[WhiteTitle "GM"]
+[WhiteElo "2788"]
+[BlackElo "2804"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "10:47:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. Nf3 Nf6 2. d4 d5 3. g3 e6 4. Bg2 Be7 5. O-O O-O 6. b3 c5 7. dxc5 Bxc5 8. c4
+dxc4 9. Qc2 Nc6 10. Qxc4 Qe7 11. Bb2 e5 12. Nbd2 Be6 13. Qh4 Bd5 14. e3 h6 15.
+Rfd1 Ba3 16. Bxa3 Qxa3 17. Nc4 Bxc4 18. Qxc4 Rad8 19. h3 Rxd1+ 20. Rxd1 Qxa2
+21. Nh4 e4 22. Qc3 Qa5 23. Qxa5 Nxa5 24. b4 Nc6 25. b5 Ne5 26. Nf5 g6 27. Nd6
+Rd8 28. Rd4 b6 29. Nxe4 Nfd7 30. Nd6 Rb8 31. Bd5 g5 32. f4 gxf4 33. exf4 Ng6
+34. Bxf7+ Kg7 35. Bxg6 Kxg6 36. Ra4 Nc5 37. Rxa7 Rd8 38. Nc4 Ne4 39. g4 Rd3 40.
+Ne5+ 1-0
+

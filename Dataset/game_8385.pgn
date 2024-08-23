@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Tonychess32twitch"]
+[Black "Killer2500"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/MOpTLvz3"]
+[WhiteTitle "CM"]
+[BlackTitle "FM"]
+[WhiteElo "2502"]
+[BlackElo "2496"]
+[ECO "B19"]
+[Opening "Caro-Kann Defense: Classical Variation, Lobron System"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:29:07"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-10"]
+[BlackRatingDiff "+20"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Bf5 5. Ng3 Bg6 6. h4 h6 7. h5 Bh7 8. Nf3
+Nd7 9. Bd3 Bxd3 10. Qxd3 e6 11. Bd2 Ngf6 12. O-O-O Be7 13. Kb1 O-O 14. Ne4 c5
+15. Nxf6+ Nxf6 16. Be3 cxd4 17. Bxd4 Qc7 18. Qe2 Rac8 19. Ne5 Rfd8 20. g4 Bc5
+21. Bc3 Nd5 22. Bd2 Bd4 23. Nd3 Qxc2+ 24. Ka1 Nc3 25. Bxc3 Qxe2 26. Bxd4 Rxd4
+27. Rhe1 Rxd3 0-1
+

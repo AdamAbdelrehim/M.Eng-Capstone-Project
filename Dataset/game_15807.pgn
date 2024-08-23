@@ -1,0 +1,26 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "lwitabilo"]
+[Black "AndreyGnidenko"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/JPm18tnz"]
+[WhiteElo "2375"]
+[BlackElo "2540"]
+[ECO "B17"]
+[Opening "Caro-Kann Defense: Karpov Variation"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:42:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "-44"]
+[BlackRatingDiff "+3"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Nxe4 7. Bxe4 Nf6
+8. Bd3 Bg4 9. c3 e6 10. Bg5 Be7 11. Qe2 O-O 12. h4 h6 13. Be3 Qd5 14. Bc4 Qh5
+15. O-O-O b5 16. Bb3 a5 17. Bc2 a4 18. a3 Nd5 19. Kb1 Bxa3 20. Qd3 Bf5 21. Qd2
+Bd6 22. Ne5 Bxe5 23. dxe5 a3 24. b3 b4 25. Bd4 c5 26. c4 cxd4 27. cxd5 Rfc8 28.
+Bd3 Rc3 29. Bxf5 Rxb3+ 30. Ka1 Qxf5 31. Qxd4 Rb2 32. dxe6 b3 33. exf7+ Qxf7 34.
+Qe4 Rc8 35. e6 Qxf2 36. e7 Ra2+ 37. Kb1 Qb2# 0-1
+

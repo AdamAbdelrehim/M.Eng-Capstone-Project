@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "sparrow1"]
+[Black "Ahmedovem"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/7ugWedkR"]
+[WhiteElo "2574"]
+[BlackElo "2423"]
+[ECO "A46"]
+[Opening "Indian Defense: London System"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "14:19:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. Nf3 e6 3. Bf4 b6 4. h3 Bb7 5. e3 Be7 6. Be2 O-O 7. O-O d5 8. a4 a6
+9. c3 c5 10. Nbd2 Nbd7 11. Ne5 Ne4 12. Nxe4 dxe4 13. Nxd7 Qxd7 14. dxc5 Qxd1
+15. Rfxd1 Bd5 16. cxb6 a5 17. c4 Rfc8 18. cxd5 1-0
+

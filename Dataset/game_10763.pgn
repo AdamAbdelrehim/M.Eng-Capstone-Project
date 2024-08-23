@@ -1,0 +1,37 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "AKS-Mantissa"]
+[Black "ELO_1500"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/UoyXy4aC"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2782"]
+[BlackElo "2976"]
+[ECO "D46"]
+[Opening "Semi-Slav Defense: Chigorin Defense"]
+[TimeControl "600+3"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:28:51"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. e3 e6 5. Nf3 Nbd7 6. Qc2 Bd6 7. Bd3 dxc4 8.
+Bxc4 b5 9. Bd3 Bb7 10. e4 e5 11. O-O O-O 12. dxe5 Nxe5 13. Nxe5 Bxe5 14. h3 Re8
+15. Rd1 Qc7 16. a4 a6 17. Be3 h6 18. f3 Nh5 19. Ne2 Rad8 20. axb5 axb5 21. Qc5
+Bxb2 22. Ra7 g5 23. Bc2 Rxd1+ 24. Bxd1 Bg7 25. Bb3 Re5 26. Qc2 Re7 27. Nd4 Bf8
+28. h4 gxh4 29. Nf5 Rd7 30. Qc3 c5 31. Bd5 Qb8 32. Rxb7 Rxb7 33. Bxb7 Qxb7 34.
+Qe5 Qa6 35. Bxc5 Bxc5+ 36. Qxc5 Ng3 37. Nxh4 Qf6 38. Nf5 Nxf5 39. exf5 Qa1+ 40.
+Kh2 Qb2 41. f6 Qxf6 42. Qxb5 Qh4+ 43. Kg1 Qe1+ 44. Kh2 Qh4+ 45. Kg1 Qd4+ 46.
+Kf1 Qf4 47. Qc6 h5 48. Qc3 h4 49. Qa3 Qd4 50. Qc1 f6 51. Qh6 Kf7 52. Qh5+ Kg7
+53. Qe8 Qa1+ 54. Kf2 Qb2+ 55. Kg1 Qc1+ 56. Kh2 Qf4+ 57. Kg1 Qc1+ 58. Kh2 Qf4+
+59. Kg1 Qd4+ 60. Kh2 Qd6+ 61. Kh1 Qd1+ 62. Kh2 Qd6+ 63. Kh1 Qd4 64. Kh2 Kh6 65.
+Qe1 Qf4+ 66. Kh3 Kg5 67. Qf2 Kh5 68. Qe1 Qf5+ 69. Kh2 Kg5 70. Qe3+ Qf4+ 71.
+Qxf4+ Kxf4 72. Kh3 Kg5 73. Kh2 h3 74. g3 f5 75. Kxh3 Kh5 76. Kg2 Kg5 77. Kf1 f4
+78. g4 Kf6 79. Ke2 Ke6 80. Kd3 Kd5 81. g5 Ke5 82. g6 Kf6 83. Ke4 Kxg6 84. Kxf4
+Kf6 85. Kg4 Kg6 86. Kh4 Kh6 87. Kg4 Kg6 88. f4 Kf6 89. Kg3 Kf7 90. Kg4 Kg8 91.
+Kf5 Kf7 92. Ke5 Ke7 93. Kf5 Kf7 94. Kg5 Kg7 95. Kf5 Kf7 1/2-1/2
+

@@ -1,0 +1,38 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.05.13"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "ibncinaa"]
+[Result "1-0"]
+[CurrentPosition "3r1r1k/ppq2p1p/2p1bp1Q/4p3/4P3/2NP2R1/PPP1B1PP/6K1 b - -"]
+[Timezone "UTC"]
+[ECO "C00"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Kings-Indian-Attack"]
+[UTCDate "2022.05.13"]
+[UTCTime "00:19:04"]
+[WhiteElo "1710"]
+[BlackElo "1733"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "00:19:04"]
+[EndDate "2022.05.13"]
+[EndTime "00:23:02"]
+[Link "https://www.chess.com/game/live/46139980027"]
+
+1. e4 { [%clk 0:10:00] } 1... e6 { [%clk 0:09:56.4] } 2. d3
+{ [%clk 0:09:57.6] } 2... d6 { [%clk 0:09:54.5] } 3. f4 { [%clk 0:09:52.8] }
+3... Nd7 { [%clk 0:09:51] } 4. Nf3 { [%clk 0:09:51.5] } 4... c6
+{ [%clk 0:09:48.9] } 5. Be2 { [%clk 0:09:48.4] } 5... Qc7 { [%clk 0:09:47] } 6.
+O-O { [%clk 0:09:45.4] } 6... e5 { [%clk 0:09:45.5] } 7. fxe5
+{ [%clk 0:09:34.6] } 7... Nxe5 { [%clk 0:09:40.6] } 8. Bf4 { [%clk 0:09:29.9] }
+8... Nf6 { [%clk 0:09:30.3] } 9. Nxe5 { [%clk 0:09:24.8] } 9... dxe5
+{ [%clk 0:09:27.6] } 10. Bg5 { [%clk 0:09:23] } 10... Be7 { [%clk 0:09:25.7] }
+11. Nc3 { [%clk 0:09:15.7] } 11... O-O { [%clk 0:09:22.3] } 12. Rf3
+{ [%clk 0:08:56.1] } 12... Bg4 { [%clk 0:09:19.1] } 13. Rg3 { [%clk 0:08:50] }
+13... Be6 { [%clk 0:09:09] } 14. Qd2 { [%clk 0:08:43] } 14... Kh8
+{ [%clk 0:09:06.3] } 15. Rf1 { [%clk 0:08:41] } 15... Rad8 { [%clk 0:08:47.9] }
+16. Bxf6 { [%clk 0:08:13.9] } 16... Bxf6 { [%clk 0:08:42.7] } 17. Rxf6
+{ [%clk 0:08:12.7] } 17... gxf6 { [%clk 0:08:40.8] } 18. Qh6
+{ [%clk 0:08:12.1] } 1-0
+

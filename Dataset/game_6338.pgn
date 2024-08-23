@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "dedyka"]
+[Black "Cor64"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/QO7mIIdV"]
+[WhiteElo "2513"]
+[BlackElo "2514"]
+[ECO "D15"]
+[Opening "Slav Defense: Chebanenko Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:06:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 d5 2. c4 c6 3. Nc3 Nf6 4. Nf3 a6 5. Ne5 Nbd7 6. f4 dxc4 7. a4 a5 8. e4 g6
+9. Bxc4 e6 10. O-O Bb4 11. Nxf7 Kxf7 12. f5 Nb6 13. fxe6+ Kg7 14. e5 Nfd5 15.
+Rf7+ Kg8 16. Nxd5 cxd5 17. Bh6 Bxe6 18. Rg7+ Kf8 19. Qf3+ Ke8 20. Bb5+ Nd7 21.
+Bxd7+ Qxd7 22. Rxd7 Kxd7 23. Rc1 Rac8 24. Qf6 Rxc1+ 25. Bxc1 Re8 26. Qf1 Rc8
+27. Qb5+ Kc7 28. Bg5 Kb8 29. h3 Rc6 30. Qf1 Bf5 31. g4 Be4 32. Qf6 Rxf6 33.
+Bxf6 Kc8 34. Kf2 Kd7 35. Ke3 Ke6 36. Kf4 Bd2+ 37. Kg3 Bc1 38. b3 Bc2 0-1
+

@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "tiki-taka-tiky"]
+[Black "Frostwrath"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/4adqDV4a"]
+[WhiteElo "2378"]
+[BlackElo "2507"]
+[ECO "A00"]
+[Opening "Van't Kruijs Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:12:46"]
+[Termination "Normal"]
+[WhiteRatingDiff "+20"]
+[BlackRatingDiff "-7"]
+
+1. e3 e5 2. c4 Nf6 3. Nc3 d5 4. cxd5 Nxd5 5. Nf3 Nc6 6. Bb5 Nxc3 7. bxc3 Bd6 8.
+d4 exd4 9. cxd4 O-O 10. O-O Bg4 11. h3 Bh5 12. Rb1 Rb8 13. Bd3 Nb4 14. Be2 Nxa2
+15. Bd2 Qe7 16. Qb3 c5 17. Qxa2 cxd4 18. Nxd4 Bxe2 19. Nxe2 b5 20. Bc3 b4 21.
+Ba1 Rfc8 22. Qb2 f6 23. Rfd1 Kh8 24. Qb3 a5 25. Nd4 Qe8 26. Nf5 Bf8 27. Rd5 a4
+28. Qd3 b3 29. Ra5 a3 30. Rxb3 Rxb3 31. Qxb3 Rc1+ 32. Kh2 Rxa1 33. Qb7 Qe6 34.
+Ra8 Kg8 35. Qb4 Qf7 36. Ne7+ Kh8 37. Rxf8+ Qxf8 38. Ng6+ hxg6 39. Qxf8+ Kh7 40.
+Qb4 Rf1 41. Qxa3 Rxf2 42. e4 Re2 43. Qf3 Ra2 44. h4 Ra5 45. g4 Kh6 46. Kg3 g5
+47. h5 Re5 48. Qd3 Kh7 49. Qc2 Re7 50. e5+ Kg8 51. exf6 gxf6 52. Qg6+ Rg7 53.
+Qxf6 Kh7 54. Kf3 Rg8 55. Ke4 Rg7 56. Kf5 Rg8 57. Qxg5 Rxg5+ 58. Kxg5 Kg7 59.
+h6+ Kh7 60. Kh5 Kh8 61. g5 Kg8 62. g6 Kh8 63. Kg5 Kg8 64. Kf6 Kh8 65. g7+ Kg8
+66. Ke7 Kh7 67. Kf7 Kxh6 68. g8=Q 1-0
+

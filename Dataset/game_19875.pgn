@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "manneredmonkey"]
+[Black "Ilikeknightmost"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/S9umVgfF"]
+[WhiteTitle "NM"]
+[WhiteElo "2595"]
+[BlackElo "2718"]
+[ECO "A20"]
+[Opening "English Opening: King's English Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:25:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. c4 e5 2. g3 c6 3. d4 e4 4. d5 Nf6 5. Nc3 Bb4 6. Bd2 Qe7 7. Bg2 O-O 8. Nh3
+cxd5 9. cxd5 d6 10. O-O Bf5 11. Nxe4 Bxe4 12. Bxb4 Bxg2 0-1
+

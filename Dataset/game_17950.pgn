@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "petergo"]
+[Black "wonyoungchess"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ae8G6XTW"]
+[WhiteElo "2443"]
+[BlackElo "2574"]
+[ECO "C54"]
+[Opening "Italian Game: Classical Variation, Giuoco Pianissimo"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:30:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+4"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Bc5 5. O-O d6 6. c3 O-O 7. h3 h6 8. b4 Bb6
+9. a4 a5 10. b5 Ne7 11. Be3 c6 12. Bxb6 Qxb6 13. Nbd2 Ng6 14. d4 Re8 15. dxe5
+Nxe5 16. Nxe5 Rxe5 17. Qb3 Be6 18. Bxe6 Rxe6 19. Rae1 Rae8 20. Nc4 Qc5 21. Nxa5
+cxb5 22. Qxb5 Qxb5 23. axb5 Nxe4 24. Nxb7 Nxc3 25. Rxe6 Rxe6 26. b6 d5 27. Nc5
+Rxb6 28. f4 d4 29. Rf3 Rb1+ 30. Kh2 Rd1 31. f5 f6 32. Kg3 Kf7 33. Rd3 Rxd3+ 34.
+Nxd3 Ke7 35. Kf4 Kd6 36. g4 Kd5 37. h4 Kc4 38. Nf2 Kb3 39. g5 Kc2 40. Kg4 Nd1
+41. Ne4 d3 42. gxh6 gxh6 43. Kh5 Nc3 44. Nf2 d2 45. Ng4 d1=Q 0-1
+

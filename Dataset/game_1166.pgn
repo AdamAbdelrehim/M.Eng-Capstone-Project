@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "BTSJ2000"]
+[Black "suddenly_sad"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Anlb3iD9"]
+[WhiteElo "2546"]
+[BlackElo "2560"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:39:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 e6 2. Nc3 c5 3. Nf3 d6 4. Bc4 a6 5. d3 Nf6 6. Bb3 Be7 7. Bf4 Nc6 8. O-O
+Na5 9. Ba4+ b5 10. Bb3 O-O 11. h3 Bb7 12. Qe2 d5 13. exd5 exd5 14. a3 Nxb3 15.
+cxb3 Re8 16. Rfe1 d4 17. Ne4 Nd5 18. Qd2 f5 19. Ng3 g6 20. Bg5 Bxg5 21. Rxe8+
+Qxe8 22. Qxg5 Qd8 23. Qh6 Qe7 24. Re1 Qg7 25. Qg5 h6 26. Qd2 Kh7 27. Qc2 Rc8
+28. Re6 Nf4 29. Re1 Nxh3+ 30. gxh3 Bxf3 31. Qd2 Ba8 32. Qf4 Qb7 33. Kf1 Rc7 34.
+Re8 Qf3 35. Qxc7# 1-0
+

@@ -1,0 +1,28 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "caissa-x"]
+[Black "AKS-Mantissa"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/4BE48dtV"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3033"]
+[BlackElo "2791"]
+[ECO "E15"]
+[Opening "Queen's Indian Defense: Fianchetto Variation, Nimzowitsch Variation"]
+[TimeControl "900+4"]
+[UTCDate "2024.06.02"]
+[UTCTime "01:04:34"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-2"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 b6 4. g3 Ba6 5. Qc2 Bb7 6. Bg2 c5 7. d5 exd5 8. cxd5
+Nxd5 9. O-O Be7 10. Rd1 Nc6 11. Qf5 Nf6 12. e4 g6 13. Qf4 Nh5 14. Qh6 Bf8 15.
+Qd2 d6 16. e5 d5 17. Nc3 d4 18. Qe2 Qd7 19. Ng5 Ng7 20. Nge4 O-O-O 21. Nb5 Nf5
+22. Bf4 h6 23. b4 g5 24. bxc5 gxf4 25. Rab1 Nh4 26. Nbd6+ Kb8 27. Nf6 Qe6 28.
+cxb6 Bxd6 29. bxa7+ Ka8 30. Rxb7 Nxg2 31. Qb5 Bxe5 32. Rb1 fxg3 33. fxg3 Qd6
+34. Qa4 Nb4 35. R7xb4 Qa6 36. Qxa6 Rd7 37. Qc6+ Kxa7 38. Qa4# 1-0
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "shaginyan_a"]
+[Black "Incognizance"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/3iCFoiC7"]
+[BlackTitle "CM"]
+[WhiteElo "2524"]
+[BlackElo "2344"]
+[ECO "B53"]
+[Opening "Sicilian Defense: Chekhover Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "08:32:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Qxd4 a6 5. Be3 Nc6 6. Qb6 Qd7 7. Nc3 e6 8.
+O-O-O Be7 9. Bc4 Nf6 10. e5 Ng4 11. exd6 Bd8 12. Qb3 Nxe3 13. fxe3 b5 14. Be2
+b4 15. Na4 Na5 16. Qxb4 O-O 17. Nc5 Qa7 18. d7 Rb8 19. dxc8=Q Rxc8 20. Nd7
+Qxe3+ 21. Qd2 1-0
+

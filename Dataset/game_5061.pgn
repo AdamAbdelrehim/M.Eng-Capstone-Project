@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Incognizance"]
+[Black "ViennaDragon"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/LFs7j3i3"]
+[WhiteTitle "CM"]
+[WhiteElo "2368"]
+[BlackElo "2508"]
+[ECO "A61"]
+[Opening "Benoni Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:24:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. c4 e6 3. Nf3 c5 4. d5 d6 5. Nc3 exd5 6. cxd5 g6 7. Bf4 Bg7 8. h3
+O-O 9. e3 a6 10. a4 Ne8 11. Be2 Nd7 12. O-O Qe7 13. Bh2 f5 14. Nd2 Rb8 15. Nc4
+Ne5 16. Nb6 Bd7 17. a5 Nc7 18. Re1 Nb5 19. Nxb5 Bxb5 20. Bxb5 axb5 21. Qb3 Qe8
+22. Ra2 c4 23. Qa3 b4 24. Qa4 f4 25. Bxf4 Rxf4 26. exf4 Nf3+ 27. gxf3 Qxe1+ 28.
+Kg2 b3 29. Ra1 Qe2 30. Qxc4 Qxb2 31. Re1 Qc3 32. Qxc3 Bxc3 33. Rb1 b2 34. Na4
+Bxa5 35. Nxb2 b5 36. Nd3 Bc3 37. Nb4 Bxb4 38. Rxb4 Kf7 39. Kg3 Kf6 40. Kg4 h5+
+41. Kh4 Kf5 42. Kg3 Rb6 43. Kh4 Rb7 44. Kg3 Rb8 45. Kh4 Rc8 46. Rxb5 Rc5 47.
+Rxc5 dxc5 48. d6 Ke6 49. d7 Kxd7 50. Kg5 c4 51. Kxg6 c3 52. f5 c2 53. f6 c1=Q
+54. f7 Qc2+ 55. Kg7 Qc3+ 56. Kg8 Qc4 57. Kg7 Qd4+ 58. Kg8 Qd5 59. Kg7 Qg5+ 60.
+Kh8 Qf6+ 61. Kg8 Qg6+ 62. Kf8 Ke6 63. Ke8 Qxf7+ 64. Kd8 Qd7# 0-1
+

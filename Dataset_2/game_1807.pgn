@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.08.21"]
+[Round "-"]
+[White "deepakvp"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "2rq1r1k/5p2/p3pb1R/8/1p2N1R1/3P4/BPP2P2/2K5 b - -"]
+[Timezone "UTC"]
+[ECO "B50"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-2.Nf3-d6-3.Bc4-e6"]
+[UTCDate "2021.08.21"]
+[UTCTime "02:41:25"]
+[WhiteElo "1506"]
+[BlackElo "1510"]
+[TimeControl "600"]
+[Termination "deepakvp won by checkmate"]
+[StartTime "02:41:25"]
+[EndDate "2021.08.21"]
+[EndTime "02:47:17"]
+[Link "https://www.chess.com/game/live/23252451057"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:57.1] }
+2... d6 { [%clk 0:09:59.3] } 3. Bc4 { [%clk 0:09:56.2] } 3... e6
+{ [%clk 0:09:58] } 4. d3 { [%clk 0:09:55.2] } 4... Nf6 { [%clk 0:09:53.9] } 5.
+a3 { [%clk 0:09:53.6] } 5... Be7 { [%clk 0:09:47.2] } 6. h3
+{ [%clk 0:09:52.3] } 6... O-O { [%clk 0:09:45.8] } 7. Nc3 { [%clk 0:09:49.9] }
+7... a6 { [%clk 0:09:42.8] } 8. Be3 { [%clk 0:09:47.8] } 8... b5
+{ [%clk 0:09:40.7] } 9. Ba2 { [%clk 0:09:45.8] } 9... Bb7 { [%clk 0:09:39.4] }
+10. Qd2 { [%clk 0:09:42.8] } 10... Nbd7 { [%clk 0:09:36.2] } 11. Nh2
+{ [%clk 0:09:41.2] } 11... d5 { [%clk 0:09:21.2] } 12. exd5
+{ [%clk 0:09:35.3] } 12... Nxd5 { [%clk 0:09:13.8] } 13. Ng4
+{ [%clk 0:09:25.9] } 13... Nxe3 { [%clk 0:09:10.8] } 14. Qxe3
+{ [%clk 0:09:18.5] } 14... Bxg2 { [%clk 0:09:04.2] } 15. Rg1
+{ [%clk 0:09:13.6] } 15... Bxh3 { [%clk 0:09:00.6] } 16. Qxh3
+{ [%clk 0:09:01.1] } 16... Nf6 { [%clk 0:08:52] } 17. Nh6+ { [%clk 0:08:47.9] }
+17... Kh8 { [%clk 0:08:47.4] } 18. Ng4 { [%clk 0:08:31.2] } 18... Nxg4
+{ [%clk 0:08:27.2] } 19. Rxg4 { [%clk 0:08:27.8] } 19... Bf6
+{ [%clk 0:08:26.9] } 20. O-O-O { [%clk 0:08:23.2] } 20... b4
+{ [%clk 0:08:10.3] } 21. axb4 { [%clk 0:08:10.6] } 21... cxb4
+{ [%clk 0:08:09.2] } 22. Rh1 { [%clk 0:08:03.1] } 22... h6 { [%clk 0:08:03.5] }
+23. Ne4 { [%clk 0:07:57.6] } 23... Rc8 { [%clk 0:07:31.7] } 24. Qxh6+
+{ [%clk 0:06:56.3] } 24... gxh6 { [%clk 0:07:26] } 25. Rxh6#
+{ [%clk 0:06:54.4] } 1-0
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "BRM1965"]
+[Black "Marc400"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/h6ArmVeO"]
+[BlackTitle "FM"]
+[WhiteElo "2513"]
+[BlackElo "2545"]
+[ECO "B58"]
+[Opening "Sicilian Defense: Classical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:19:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-28"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Nc6 6. Be2 Bd7 7. Be3 e5 8.
+Nb3 Be7 9. O-O O-O 10. f4 exf4 11. Rxf4 Ne5 12. Nd4 Re8 13. Kh1 Rc8 14. Qf1 Nc4
+15. Bxc4 1-0
+

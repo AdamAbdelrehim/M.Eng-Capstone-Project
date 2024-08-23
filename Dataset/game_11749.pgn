@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "MIGV"]
+[Black "uhlmannfan"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/8YT1RMPR"]
+[BlackTitle "FM"]
+[WhiteElo "2552"]
+[BlackElo "2504"]
+[ECO "A81"]
+[Opening "Dutch Defense: Semi-Leningrad Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:54:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 f5 2. g3 Nf6 3. Bg2 g6 4. Nf3 Bg7 5. O-O O-O 6. b3 d6 7. Ba3 a5 8. c4 a4
+9. Nbd2 c6 10. bxa4 Qa5 11. Rb1 Qxa4 12. Qxa4 Rxa4 13. Rb3 h6 14. Rc1 Be6 15.
+Rbc3 Nbd7 16. Nh4 Kh7 17. e4 fxe4 18. Nxe4 Rfa8 19. Bb2 Rxa2 20. Rb1 g5 21.
+Nxf6+ Nxf6 22. Nf3 Bf5 0-1
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Micheliavelli"]
+[Black "sotirakis"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/UK53I84Z"]
+[WhiteElo "2582"]
+[BlackElo "2574"]
+[ECO "A15"]
+[Opening "English Opening: Anglo-Indian Defense, King's Indian Formation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:06:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. c4 Nf6 2. Nf3 g6 3. b3 Bg7 4. Bb2 O-O 5. g3 d6 6. d4 Nbd7 7. Bg2 e5 8. dxe5
+dxe5 9. Nc3 c6 10. O-O Re8 11. Qc2 Nc5 12. Rad1 Qc7 13. Ba3 Bf5 14. Qc1 Nce4
+15. Nh4 Nxc3 16. Qxc3 Be4 17. Bd6 Qb6 18. Bxe5 Bxg2 19. Nxg2 Ne4 20. Bxg7 Nxc3
+21. Bxc3 Rxe2 22. Ne3 Rxe3 23. Bd4 Rxg3+ 24. hxg3 Qa5 25. a4 Rd8 26. Bf6 Re8
+27. Rd6 h6 28. Kg2 Kh7 29. Rd7 Kg8 30. Rxb7 Qf5 31. Ba1 g5 32. Rd1 Re2 33. Bd4
+c5 34. Rb8+ Kh7 35. Rh8+ Kg6 36. Rg8+ Kh5 37. Rh1+ Kg4 38. Rh4# 1-0
+

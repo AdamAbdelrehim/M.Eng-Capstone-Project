@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "trotsky2"]
+[Black "grandmastergauri"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/c4LOfbgx"]
+[BlackTitle "FM"]
+[WhiteElo "2531"]
+[BlackElo "2601"]
+[ECO "E94"]
+[Opening "King's Indian Defense: Orthodox Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "02:33:37"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. Nc3 O-O 5. e4 d6 6. Be2 e5 7. O-O Bg4 8. Be3
+Bxf3 9. Bxf3 exd4 10. Bxd4 Nc6 11. Be3 Re8 12. Bg5 h6 13. Bxf6 Bxf6 14. Qd2 Bg7
+15. Rfe1 Nd4 16. Qd3 c6 17. Rad1 Qg5 18. g3 Rad8 19. Bg2 Qa5 20. h3 Qb4 21. Rd2
+h5 22. Red1 h4 23. g4 Ne6 24. Ne2 Nc5 25. Qc2 a5 26. b3 a4 27. Rxd6 Rxd6 28.
+Rxd6 Nxe4 29. Rd1 Nc5 30. Rb1 axb3 31. axb3 Rd8 32. Bf3 Rd2 33. Qc1 Nd3 34. Qf1
+Be5 35. Rd1 Bd6 36. Be4 Nb2 37. Rxd2 Qxd2 38. Bf3 Nd3 39. Qa1 Bc5 40. Qb1 Bxf2+
+41. Kg2 Bg3 42. Qa1 Ne1+ 43. Kf1 Nxf3 44. Qa8+ Kg7 45. Qa1+ Be5 46. Qc1 Qxc1+
+47. Nxc1 Nd2+ 48. Ke2 Ne4 49. Nd3 Bf6 50. Kf3 Ng5+ 51. Ke3 Be7 52. Ne5 b5 53.
+cxb5 cxb5 54. Nc6 Bc5+ 55. Ke2 Bg1 56. b4 Nxh3 57. Ne7 Bh2 58. g5 Bd6 59. Nd5
+Bxb4 60. Nxb4 Nf4+ 61. Kf3 Ne6 62. Kg4 h3 63. Kxh3 Nxg5+ 64. Kg2 Ne6 65. Nc2 f5
+66. Nb4 Kf7 67. Nc2 Nf4+ 68. Kf3 Nd3 0-1
+

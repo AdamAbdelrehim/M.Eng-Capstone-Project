@@ -1,0 +1,25 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/hovAVUIp"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Bobance"]
+[Black "SuleimanovBulat"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/TTSblREU"]
+[WhiteElo "2735"]
+[BlackElo "2302"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:36:28"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-1"]
+
+1. d4 d5 2. Bf4 Nf6 3. e3 c5 4. c3 Nc6 5. Nd2 Bf5 6. Qb3 Qd7 7. Ngf3 c4 8. Qa4
+e6 9. b3 cxb3 10. axb3 Bd6 11. Bb5 a6 12. Ne5 Bxe5 13. Bxe5 Ne4 14. Nxe4 Bxe4
+15. f3 Bf5 16. Bg3 O-O 17. Be2 b5 18. Qa3 Rfc8 19. Qd6 Qb7 20. O-O a5 21. Rfc1
+b4 22. c4 Ne7 23. cxd5 exd5 24. Rxc8+ Nxc8 25. Qc7 Qb6 26. Qxb6 Nxb6 27. Bc7
+Ra6 28. Bxa6 1-0
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "lunarplayer"]
+[Black "manneredmonkey"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/dAes0XLz"]
+[BlackTitle "NM"]
+[WhiteElo "2746"]
+[BlackElo "2585"]
+[ECO "B09"]
+[Opening "Pirc Defense: Austrian Attack, Weiss Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:54:19"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. Nc3 d6 3. e4 g6 4. f4 Bg7 5. Nf3 O-O 6. Bd3 Nc6 7. O-O e5 8. d5
+Ne7 9. Kh1 c6 10. dxc6 Nxc6 11. fxe5 dxe5 12. Bg5 Be6 13. Qe1 h6 14. Bxf6 Bxf6
+15. Rd1 Qc7 16. Nd5 Bxd5 17. exd5 Nb4 18. Qxb4 1-0
+

@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "nastroyani"]
+[Black "maunok"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/NrcVsT88"]
+[WhiteTitle "GM"]
+[WhiteElo "2618"]
+[BlackElo "2648"]
+[ECO "E36"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Noa Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "02:22:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 d5 5. a3 Bxc3+ 6. Qxc3 O-O 7. Bg5 h6 8.
+Bxf6 Qxf6 9. cxd5 exd5 10. e3 Nc6 11. Nf3 Ne7 12. Qxc7 Bg4 13. Qg3 Bxf3 14.
+Qxf3 Qb6 15. Bd3 Qxb2 16. O-O Qb3 17. Qe2 b6 18. a4 Qb4 19. Ba6 Qd6 20. Rfc1
+Nc6 21. Bb7 Rac8 22. Bxc8 Rxc8 23. g3 Rc7 24. Qc2 Rc8 25. Qf5 Rd8 26. Rc3 Na5
+27. Rc8 Nc4 28. e4 Nd2 29. e5 Qe7 30. Rxd8+ Qxd8 31. e6 fxe6 32. Qxe6+ Kh8 33.
+Rc1 Nc4 34. Re1 Qg5 35. f4 Qh5 36. Qe8+ Qxe8 37. Rxe8+ Kh7 38. Rd8 Nb2 39. Rd7
+a5 40. Rxd5 Nxa4 41. Rb5 Kg6 42. Kf2 Kf6 43. Ke3 Ke6 44. Ke4 Kd6 45. d5 Nc3+
+46. Kd4 Nxb5+ 47. Kc4 Nc7 48. Kd4 b5 49. Kc3 Nxd5+ 50. Kb2 Kc5 51. f5 a4 52. g4
+b4 53. h4 Kc4 54. g5 hxg5 55. Ka2 b3+ 56. Ka3 gxh4 57. f6 gxf6 58. Kb2 h3 59.
+Ka3 h2 60. Kxa4 h1=Q 61. Ka5 Qa1# 0-1
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "AlexeyLV"]
+[Black "Poroshin_R"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/PHMnWnQD"]
+[WhiteElo "2588"]
+[BlackElo "2479"]
+[ECO "A01"]
+[Opening "Nimzo-Larsen Attack: Modern Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:54:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. b3 e5 2. Bb2 d6 3. e3 Nd7 4. Nf3 g6 5. d4 Bg7 6. c4 Qe7 7. Nc3 c6 8. dxe5
+Nxe5 9. Be2 Be6 10. O-O Nh6 11. Nd4 O-O 12. Nxe6 fxe6 13. e4 Rad8 14. Qc2 a5
+15. Rad1 Qh4 16. f3 g5 17. Bc1 Ng6 18. g3 Qh3 19. Rf2 g4 20. f4 b5 21. cxb5
+cxb5 22. Nxb5 d5 23. Ba3 Rc8 24. Qd2 Rfd8 25. Nd6 Rc3 26. e5 Nxe5 27. fxe5
+Rxg3+ 28. hxg3 Qxg3+ 29. Rg2 Qxe5 30. Bxg4 Rf8 31. Bxe6+ Qxe6 32. Qxd5 Qxd5 33.
+Rxd5 Rd8 34. Rdg5 Rd7 35. Bb2 Rxd6 36. Rxg7+ Kf8 37. Ba3 1-0
+

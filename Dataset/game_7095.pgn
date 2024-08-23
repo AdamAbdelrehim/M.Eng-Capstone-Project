@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "aleksej1"]
+[Black "Masaker100"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/qPMD1faE"]
+[WhiteElo "2457"]
+[BlackElo "2504"]
+[ECO "C05"]
+[Opening "French Defense: Tarrasch Variation, Pawn Center Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:14:55"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. f4 c5 6. c3 Nc6 7. Ndf3 g6 8. Bd3
+Qc7 9. Ne2 b6 10. O-O a5 11. g4 Ba6 12. f5 Bxd3 13. Qxd3 Be7 14. fxe6 fxe6 15.
+Bg5 Bf8 16. Nf4 cxd4 17. Nxe6 Qb7 18. cxd4 h6 19. Bf6 Nxf6 20. exf6 Kf7 21.
+Rae1 Bd6 22. Nfg5+ hxg5 23. Nxg5+ Kf8 24. Qxg6 Nxd4 25. Re7 Ne2+ 26. Rxe2 d4
+27. Ne6# 1-0
+

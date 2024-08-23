@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Dierforator"]
+[Black "Toivonen_Alexander"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/6xOWFm8b"]
+[WhiteElo "2504"]
+[BlackElo "2459"]
+[ECO "A07"]
+[Opening "King's Indian Attack: Double Fianchetto"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "03:40:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-4"]
+
+1. Nf3 d5 2. g3 g6 3. Bg2 Bg7 4. c4 d4 5. d3 e5 6. O-O Nc6 7. b4 Nxb4 8. Qa4+
+Nc6 9. Nxe5 Bxe5 10. Bxc6+ bxc6 11. Qxc6+ Bd7 12. Qe4 Qe7 13. Qxa8+ 1-0
+

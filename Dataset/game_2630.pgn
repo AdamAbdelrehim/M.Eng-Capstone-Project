@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Tintyn"]
+[Black "Miguelss"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/kqaAs3I5"]
+[BlackTitle "NM"]
+[WhiteElo "2432"]
+[BlackElo "2573"]
+[ECO "A40"]
+[Opening "Mikenas Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:57:06"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. d4 Nc6 2. d5 Ne5 3. f4 Ng6 4. e4 e5 5. fxe5 Nxe5 6. Nf3 Bd6 7. Nc3 Qf6 8.
+Nb5 Nxf3+ 9. Qxf3 Qxf3 10. gxf3 Bb4+ 11. c3 Ba5 12. d6 c6 13. Nd4 b5 14. a4 b4
+15. Nb3 Bd8 16. cxb4 Nf6 17. Bc4 O-O 18. Be3 a6 19. O-O-O Rb8 20. Bc5 Nh5 21.
+Nd4 Nf4 22. Rhg1 g6 23. Rg4 Ne6 24. Nxe6 fxe6 25. f4 Bb7 26. f5 Kg7 27. fxe6
+dxe6 28. Bxe6 a5 29. e5 axb4 30. Rxb4 Bg5+ 31. Kb1 Ba6 32. Rxb8 Rxb8 33. d7 Bd8
+34. Ba2 Be2 35. Rd2 Bg4 36. e6 Bf5+ 37. Ka1 Kf6 38. Re2 Be7 39. Bxe7+ Kxe7 40.
+Rd2 Rd8 41. a5 c5 42. a6 h5 43. a7 Bxe6 44. Re2 Kxd7 45. Rxe6 Ra8 46. Ra6 Kc7
+47. Bd5 Rf8 48. a8=Q Rxa8 49. Rxa8 Kd6 50. Rg8 g5 51. Rg6+ Kxd5 52. Rxg5+ Kc4
+53. Rxh5 Kb3 54. Rxc5 Ka4 55. Rc8 Kb4 56. h4 Kb5 57. h5 Kb6 58. h6 Kb7 59. Rc3
+Kb6 60. h7 Kb5 61. h8=Q Ka5 62. Qd4 Kb5 63. Rc5+ Kb6 64. Qd6+ Kb7 65. Rc7+ Kb8
+66. Qd8# 1-0
+

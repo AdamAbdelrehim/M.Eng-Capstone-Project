@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "wallywally"]
+[Black "statham_13"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ZuPx90Aj"]
+[WhiteElo "2691"]
+[BlackElo "2728"]
+[ECO "C47"]
+[Opening "Four Knights Game: Gunsberg Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:21:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. a3 Nxe4 5. Nxe4 d5 6. Nc3 d4 7. Nb1 e4 8. Ng1
+d3 9. cxd3 exd3 10. Qf3 Nd4 11. Qe4+ Be7 12. Bxd3 Bf5 13. Qe3 O-O 14. Bxf5 Nxf5
+15. Qe4 Nd4 16. Ne2 Nb3 17. Ra2 Bd6 18. Qc2 Nxc1 19. Qxc1 Re8 20. Nc3 Re6 21.
+d4 Qh4 22. h3 Rae8 23. b4 Qxd4 24. O-O Qe5 25. Ng3 h5 26. Re2 Qd4 27. Nf5 Qf6
+28. Nxd6 Rxe2 29. Nxe8 Rxe8 30. Nd5 Qe5 31. Ne3 c6 32. Rd1 Re6 33. Qd2 Rg6 34.
+Qd4 Qe6 35. Qd8+ Kh7 36. Qd7 Qf6 37. Qxb7 Qf4 38. Qxa7 Qf3 39. Qd4 Qxh3 40. Qf4
+Qe6 41. Qf5 Qb3 42. Qxh5+ Rh6 43. Qf5+ g6 44. Qd3 Qe6 45. Qd7 Qf6 46. Rd4 Rh5
+47. g3 Kh6 48. Qd6 Qg5 49. Qf4 Qxf4 50. Rxf4 c5 51. b5 c4 52. a4 c3 53. Rc4 Re5
+54. Rxc3 Re8 55. Rb3 Kg5 56. b6 f5 57. a5 Rb8 58. b7 f4 59. gxf4+ Kxf4 60. a6
+Kf3 61. Rb4 Rd8 62. Nf1 Rd5 63. Rb3+ Kf4 64. b8=Q+ Re5 65. Rb5 Kg4 66. Qxe5 g5
+67. Qxg5+ Kh3 68. Qg3# 1-0
+

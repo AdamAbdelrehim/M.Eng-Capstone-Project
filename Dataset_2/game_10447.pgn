@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.20"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "erikbergren"]
+[Result "0-1"]
+[CurrentPosition "4rb1r/p4k2/1p3p1p/2p2b2/6pP/1N2B3/PP1K2P1/4R3 w - -"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Nimzowitsch-Defense-Scandinavian-Exchange-Marshall-Gambit"]
+[UTCDate "2023.10.20"]
+[UTCTime "01:53:35"]
+[WhiteElo "1682"]
+[BlackElo "1691"]
+[TimeControl "60"]
+[Termination "erikbergren won by resignation"]
+[StartTime "01:53:35"]
+[EndDate "2023.10.20"]
+[EndTime "01:55:03"]
+[Link "https://www.chess.com/game/live/91505916989"]
+
+1. e4 { [%clk 0:00:59.1] } 1... Nc6 { [%clk 0:00:59.9] } 2. d4
+{ [%clk 0:00:55.9] } 2... d5 { [%clk 0:00:59.8] } 3. exd5 { [%clk 0:00:54.5] }
+3... Qxd5 { [%clk 0:00:58.7] } 4. Nc3 { [%clk 0:00:52.5] } 4... Qxd4
+{ [%clk 0:00:57.5] } 5. Qxd4 { [%clk 0:00:51.1] } 5... Nxd4
+{ [%clk 0:00:56.8] } 6. Be3 { [%clk 0:00:50.8] } 6... Nxc2+
+{ [%clk 0:00:55.7] } 7. Kd2 { [%clk 0:00:49.8] } 7... Nxa1 { [%clk 0:00:55.6] }
+8. Bb5+ { [%clk 0:00:48.3] } 8... c6 { [%clk 0:00:54.8] } 9. Bd3
+{ [%clk 0:00:47.2] } 9... e5 { [%clk 0:00:52.9] } 10. Nf3 { [%clk 0:00:47.1] }
+10... f6 { [%clk 0:00:51.2] } 11. Rxa1 { [%clk 0:00:46.6] } 11... Ne7
+{ [%clk 0:00:48.7] } 12. Re1 { [%clk 0:00:46] } 12... Nf5 { [%clk 0:00:47] }
+13. Bxf5 { [%clk 0:00:42.8] } 13... Bxf5 { [%clk 0:00:46.5] } 14. Nh4
+{ [%clk 0:00:42.6] } 14... Be6 { [%clk 0:00:44] } 15. f4 { [%clk 0:00:41] }
+15... exf4 { [%clk 0:00:40] } 16. Bxf4 { [%clk 0:00:40.9] } 16... Kf7
+{ [%clk 0:00:38.2] } 17. Ne4 { [%clk 0:00:39.5] } 17... Re8
+{ [%clk 0:00:34.5] } 18. Be3 { [%clk 0:00:34.9] } 18... g5 { [%clk 0:00:33.8] }
+19. Nf3 { [%clk 0:00:32.7] } 19... h6 { [%clk 0:00:32.7] } 20. Nc5
+{ [%clk 0:00:32.1] } 20... Bc8 { [%clk 0:00:30.8] } 21. h4 { [%clk 0:00:27.2] }
+21... b6 { [%clk 0:00:30.7] } 22. Nb3 { [%clk 0:00:25.5] } 22... g4
+{ [%clk 0:00:28.5] } 23. Nfd4 { [%clk 0:00:23.3] } 23... c5
+{ [%clk 0:00:27.1] } 24. Nf5 { [%clk 0:00:22.7] } 24... Bxf5
+{ [%clk 0:00:25.4] } 0-1
+

@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Masterasasin"]
+[Black "zxcvbnm595"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/EqD3jFmF"]
+[WhiteElo "2545"]
+[BlackElo "2635"]
+[ECO "A05"]
+[Opening "Zukertort Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:56:31"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. Nf3 Nf6 2. g3 e6 3. Bg2 d5 4. O-O c5 5. c4 d4 6. d3 Nc6 7. e3 Bd6 8. exd4
+cxd4 9. Na3 O-O 10. Bg5 h6 11. Bxf6 Qxf6 12. Nc2 e5 13. Re1 Bf5 14. a3 a5 15.
+Qe2 Rfe8 16. Nd2 a4 17. Be4 Bd7 18. Bd5 Kh8 19. Ne4 Qe7 20. Nxd6 Qxd6 21. Qd2
+f5 22. Re2 Na5 23. Rae1 Nb3 24. Qd1 Nc5 25. f4 e4 26. Nb4 e3 27. Kg2 g5 28. Rf1
+Rg8 29. Kh1 Raf8 30. Rf3 Be6 31. Rf1 gxf4 32. Rxf4 Bxd5+ 33. Nxd5 Ne6 34. Rf1
+f4 35. gxf4 Nxf4 36. Rxf4 Rxf4 37. Nxf4 Qxf4 38. Rg2 Rxg2 39. Kxg2 Qf2+ 40. Kh1
+e2 0-1
+

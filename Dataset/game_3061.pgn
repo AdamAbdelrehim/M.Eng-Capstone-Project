@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "SBHansen"]
+[Black "thurstoncat"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/AaAtVu85"]
+[WhiteElo "2503"]
+[BlackElo "2430"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:56:09"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. Nf3 d5 3. Bf4 c6 4. e3 g6 5. Bd3 Bg7 6. Nbd2 O-O 7. h3 Nbd7 8. c3
+a5 9. Qe2 Re8 10. O-O-O a4 11. g4 a3 12. b3 c5 13. Ne5 Nxe5 14. Bxe5 c4 15. Bc2
+b5 16. b4 Nd7 17. Bxg7 Kxg7 18. f4 Nb6 19. h4 Na4 20. Bxa4 Rxa4 21. h5 f5 22.
+g5 Ra6 23. Nf3 Be6 24. Ne5 Bf7 25. hxg6 hxg6 26. Qh2 Rh8 27. Qxh8+ Qxh8 28.
+Rxh8 1-0
+

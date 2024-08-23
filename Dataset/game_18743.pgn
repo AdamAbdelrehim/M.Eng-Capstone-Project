@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "ARAGORN2010"]
+[Black "Ketakean"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/3MdpXOGm"]
+[BlackTitle "FM"]
+[WhiteElo "2455"]
+[BlackElo "2565"]
+[ECO "C05"]
+[Opening "French Defense: Tarrasch Variation, Closed Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:36:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 e6 2. d4 d5 3. Nd2 Nf6 4. e5 Nfd7 5. Ndf3 c5 6. c3 Nc6 7. Bd3 f6 8. exf6
+Nxf6 9. Ne2 cxd4 10. cxd4 Bd6 11. Bf4 Bxf4 12. Nxf4 O-O 13. O-O Ng4 14. Ne2 e5
+15. dxe5 Ncxe5 16. Nxe5 Nxe5 17. Rc1 Qh4 18. Bb1 Be6 19. Nd4 Bd7 20. Qd2 Rae8
+21. Rc7 Bh3 22. gxh3 Qxd4 23. Qxd4 Nf3+ 24. Kg2 Nxd4 25. Rxb7 Re2 26. a3 a5 27.
+Rd7 Rxb2 28. Rxd5 Ne2 29. Rxa5 Nf4+ 30. Kg3 Rb3+ 31. f3 Rb2 32. Rf5 Rg2+ 33.
+Kh4 0-1
+

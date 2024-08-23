@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.25"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "korkontas"]
+[Result "0-1"]
+[CurrentPosition "rnbqkbnr/pp2pppp/8/3N4/8/8/PPPP1PPP/R1BQKBNR b KQkq -"]
+[Timezone "UTC"]
+[ECO "B10"]
+[ECOUrl "https://www.chess.com/openings/Caro-Kann-Defense-2.Nc3-d5"]
+[UTCDate "2022.03.25"]
+[UTCTime "07:52:12"]
+[WhiteElo "1467"]
+[BlackElo "1506"]
+[TimeControl "180"]
+[Termination "korkontas won by resignation"]
+[StartTime "07:52:12"]
+[EndDate "2022.03.25"]
+[EndTime "07:52:22"]
+[Link "https://www.chess.com/game/live/41933918507"]
+
+1. e4 { [%clk 0:03:00] } 1... c6 { [%clk 0:02:58.8] } 2. Nc3
+{ [%clk 0:02:59.9] } 2... d5 { [%clk 0:02:57.9] } 3. exd5 { [%clk 0:02:56.4] }
+3... cxd5 { [%clk 0:02:57.8] } 4. Nxd5 { [%clk 0:02:55.9] } 0-1
+

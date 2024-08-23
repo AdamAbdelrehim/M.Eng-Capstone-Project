@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.05.03"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Badumme"]
+[Result "0-1"]
+[CurrentPosition "r3k1nr/pbpp1ppp/1p1b4/2q5/2B1PP2/2N5/PPP3PP/R1BQ1RK1 w kq -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game"]
+[UTCDate "2023.05.03"]
+[UTCTime "18:47:55"]
+[WhiteElo "1917"]
+[BlackElo "1962"]
+[TimeControl "600"]
+[Termination "Badumme won by resignation"]
+[StartTime "18:47:55"]
+[EndDate "2023.05.03"]
+[EndTime "18:49:12"]
+[Link "https://www.chess.com/game/live/76878735311"]
+
+1. e4 { [%clk 0:09:54.7] } 1... e5 { [%clk 0:09:58.9] } 2. Nf3
+{ [%clk 0:09:52.8] } 2... Nc6 { [%clk 0:09:57.6] } 3. Bc4 { [%clk 0:09:51] }
+3... Qe7 { [%clk 0:09:55.6] } 4. O-O { [%clk 0:09:33.5] } 4... b6
+{ [%clk 0:09:51.4] } 5. d4 { [%clk 0:09:29.7] } 5... Bb7 { [%clk 0:09:50.9] }
+6. dxe5 { [%clk 0:09:27.3] } 6... Nxe5 { [%clk 0:09:48.4] } 7. Nxe5
+{ [%clk 0:09:23.9] } 7... Qxe5 { [%clk 0:09:46.4] } 8. Nc3 { [%clk 0:09:15.3] }
+8... Bd6 { [%clk 0:09:45.5] } 9. f4 { [%clk 0:09:10] } 9... Qc5+
+{ [%clk 0:09:43.2] } 0-1
+

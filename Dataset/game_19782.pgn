@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "maunok"]
+[Black "Kos1189"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/7xWQXC0R"]
+[WhiteElo "2646"]
+[BlackElo "2604"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Milner-Barry Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "13:12:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Qb6 5. Nf3 Nc6 6. Bd3 cxd4 7. O-O Bd7 8. Re1
+Rc8 9. Nbd2 dxc3 10. bxc3 a6 11. Rb1 Qa7 12. Nb3 Nge7 13. Be3 Qa8 14. Nc5 Rc7
+15. h4 Ng6 16. h5 Ngxe5 17. Bf4 Nxd3 18. Nxd3 Rc8 19. Nde5 Nxe5 20. Nxe5 Be7
+21. Qg4 g6 22. Bg5 gxh5 23. Qxh5 Bxg5 24. Qxf7+ 1-0
+

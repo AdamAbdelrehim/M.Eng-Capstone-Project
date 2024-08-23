@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "man_man_lai"]
+[Black "Terminator_T1000-01"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/gmvxAUyS"]
+[WhiteElo "2504"]
+[BlackElo "2445"]
+[ECO "B06"]
+[Opening "Modern Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "18:39:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 g6 2. d4 Bg7 3. Nf3 d6 4. Bc4 e6 5. Bb3 a6 6. c3 b5 7. O-O Bb7 8. Qe2 Nd7
+9. Re1 Ne7 10. Nbd2 O-O 11. Nf1 c5 12. Ng3 e5 13. d5 c4 14. Bc2 Nc5 15. b4 Nd7
+16. a4 a5 17. axb5 axb4 18. Rxa8 Qxa8 19. Qxc4 bxc3 20. Qxc3 Rc8 21. Qb2 Nb6
+22. Bd3 Qa4 23. Bg5 f6 24. Ra1 Nc4 25. Bxc4 Qxc4 26. Rc1 Qd3 27. Rxc8+ Nxc8 28.
+Bd2 Nb6 29. h3 f5 30. Ne1 Qc4 31. f3 Bc8 32. Kh2 Bd7 33. Ba5 Na4 34. Qa3 Qxb5
+35. Qxd6 Qxa5 36. Qxd7 Qxe1 37. Qxa4 f4 38. Nh1 Bf6 39. Qc6 Kg7 40. Qd7+ Kh6
+41. d6 Bh4 42. Qg4 Bg5 43. d7 Qd2 44. Qe6 Bh4 45. Qg4 g5 46. Qe6+ Kg7 47. Qe7+
+Kh6 48. d8=Q Bg3+ 49. Nxg3 fxg3+ 50. Kxg3 Qf4+ 51. Kf2 1-0
+

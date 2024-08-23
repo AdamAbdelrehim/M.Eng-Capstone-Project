@@ -1,0 +1,40 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "Weiawaga"]
+[Black "expositor"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/RtMIweeG"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2424"]
+[BlackElo "2581"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[TimeControl "2400+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:56:11"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 c5 6. Be3 Bg4 7. dxc5 Nd7 8. c4
+Bxc5 9. Bxc5 Nxc5 10. cxd5 Qxd5 11. Qxd5 exd5 12. Nc3 Ne7 13. Rd1 Rd8 14. h3
+Bxf3 15. Bxf3 d4 16. Ne4 b6 17. Nd6+ Kf8 18. Rxd4 Ng6 19. Ke2 Ne6 20. Rd2 Nxe5
+21. Rhd1 Nxf3 22. Kxf3 h5 23. Nb5 Rxd2 24. Rxd2 a6 25. Nc3 Rh6 26. Nd5 Rg6 27.
+a3 b5 28. Ne3 Rf6+ 29. Ke4 Nc5+ 30. Kd5 Nd7 31. Kd4 g6 32. Kc3 Rc6+ 33. Kb4 Nc5
+34. g4 Ne4 35. Re2 Ng5 36. gxh5 gxh5 37. h4 Nf3 38. Nf5 Rf6 39. Ng3 Nd4 40. Rd2
+Rf4 41. Kc3 Ne6 42. Nxh5 Rc4+ 43. Kd3 Rxh4 44. Ng3 b4 45. axb4 Rxb4 46. Nf5 a5
+47. Kc3 Rf4 48. Rd5 a4 49. Ra5 Nc7 50. Ne3 Rxf2 51. Nc4 Rf4 52. Rxa4 Nd5+ 53.
+Kd3 Ke7 54. Nb6 Rxa4 55. Nxa4 Nc7 56. Nc5 Kd8 57. Ne4 Kc8 58. Nd6+ Kd8 59.
+Nxf7+ Ke8 60. Ne5 Na8 61. Kc4 Nb6+ 62. Kb5 Nc8 63. Kc6 Na7+ 64. Kb6 Nc8+ 65.
+Ka6 Nd6 66. b3 Nc8 67. Kb7 Ne7 68. Kb6 Nc8+ 69. Kc7 Ne7 70. Ng4 Nf5 71. b4 Ng7
+72. b5 Ke7 73. b6 Ne8+ 74. Kc6 Nd6 75. Ne3 Ke6 76. Kc7 Ne4 77. Kb7 Nd6+ 78. Kc6
+Ke5 79. Kc7 Ne4 80. Kd7 Nc5+ 81. Kc6 Kd4 82. Nf5+ Kc4 83. Nd6+ Kb4 84. Ne4 Nb3
+85. Kb7 Na5+ 86. Ka6 Ka4 87. Nd6 Nb3 88. Nb7 Kb4 89. Nd8 Nc5+ 90. Ka7 Kc4 91.
+Nc6 Kb5 92. Ne5 Ka5 93. Nc4+ Kb5 94. Nd2 Ka5 95. Ne4 Ne6 96. Nd6 Ka4 97. Nf7
+Nc5 98. Nh6 Ka5 99. Nf5 Ne6 100. Ne3 Nd8 101. Nc4+ Kb5 102. Ne5 Kc5 103. Ka6
+Kd5 104. Nf7 Ne6 105. Ka7 Nc5 106. Ng5 Nb3 107. Nf3 Nc5 108. Ne1 Ne6 109. Nd3
+Nd8 110. Nb2 Ke5 111. Nc4+ Kd5 112. Na5 Ke6 113. Ka8 Kd7 114. Kb8 Nf7 0-1
+

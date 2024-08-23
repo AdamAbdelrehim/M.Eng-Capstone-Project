@@ -1,0 +1,29 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "caissa-x"]
+[Black "PetersBot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/fFRJkKnJ"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "3040"]
+[BlackElo "2973"]
+[ECO "C52"]
+[Opening "Italian Game: Evans Gambit, Tartakower Attack"]
+[TimeControl "900+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:23:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+2"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 d6 7. Qb3 Qd7 8. O-O
+Bb6 9. Nbd2 Na5 10. Qc2 Qe7 11. Ba3 f6 12. Bb5+ c6 13. Bd3 Nh6 14. c4 O-O 15.
+c5 dxc5 16. dxc5 Bd8 17. Rfb1 Qc7 18. Bb4 Re8 19. a4 Nf7 20. Nc4 Nxc4 21. Bxc4
+Be6 22. Bxe6 Rxe6 23. h4 Re8 24. h5 f5 25. a5 f4 26. Qb3 Rb8 27. a6 bxa6 28.
+Rxa6 Be7 29. Qa2 Rb7 30. Rd1 Bf8 31. Bc3 Bxc5 32. Ra5 Rb5 33. Rxb5 cxb5 34.
+Nxe5 Rxe5 35. Bxe5 Qxe5 36. Rd7 Qxh5 37. Rd5 g5 38. Rxc5 Qd1+ 39. Kh2 Qh5+ 40.
+Kg1 Qd1+ 41. Kh2 Qh5+ 42. Kg1 1/2-1/2
+

@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.08.28"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "SuuuuuuuuuuCR7"]
+[Result "0-1"]
+[CurrentPosition "1rb1k2r/p4ppp/2p1p3/3n4/1bB4q/2N2P2/PPPB2PP/R2QK2R w KQk -"]
+[Timezone "UTC"]
+[ECO "B45"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Four-Knights-Variation-6.Be3"]
+[UTCDate "2023.08.28"]
+[UTCTime "19:28:19"]
+[WhiteElo "1876"]
+[BlackElo "1896"]
+[TimeControl "600"]
+[Termination "SuuuuuuuuuuCR7 won by resignation"]
+[StartTime "19:28:19"]
+[EndDate "2023.08.28"]
+[EndTime "19:31:14"]
+[Link "https://www.chess.com/game/live/86989835377"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:09:52.4] } 2. Nf3
+{ [%clk 0:09:58.2] } 2... e6 { [%clk 0:09:48] } 3. d4 { [%clk 0:09:52.4] } 3...
+cxd4 { [%clk 0:09:47.9] } 4. Nxd4 { [%clk 0:09:50.3] } 4... Nf6
+{ [%clk 0:09:44.5] } 5. Nc3 { [%clk 0:09:48.1] } 5... Nc6 { [%clk 0:09:40.5] }
+6. Be3 { [%clk 0:09:46] } 6... Bb4 { [%clk 0:09:25.8] } 7. f3
+{ [%clk 0:09:19.3] } 7... d5 { [%clk 0:09:06.9] } 8. exd5 { [%clk 0:09:12.2] }
+8... Nxd5 { [%clk 0:08:58.3] } 9. Nxc6 { [%clk 0:09:11.3] } 9... bxc6
+{ [%clk 0:08:48.7] } 10. Bd2 { [%clk 0:09:10.4] } 10... Rb8
+{ [%clk 0:08:40.9] } 11. Bc4 { [%clk 0:08:51.5] } 11... Qh4+
+{ [%clk 0:08:27.8] } 0-1
+

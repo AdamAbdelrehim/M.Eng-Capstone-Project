@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "johndoe695"]
+[Black "TheCableBox"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/ix1IDxZL"]
+[BlackTitle "FM"]
+[WhiteElo "2573"]
+[BlackElo "2622"]
+[ECO "B00"]
+[Opening "Duras Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "04:31:56"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 f5 2. e5 d6 3. d4 dxe5 4. dxe5 Qxd1+ 5. Kxd1 Nc6 6. Nf3 e6 7. Bb5 Bd7 8.
+Be3 O-O-O 9. Ke2 Nxe5 10. Bxd7+ Nxd7 11. Rd1 Ngf6 12. Ng5 Re8 13. Nf7 Rg8 14.
+Nc3 h6 15. f4 Re7 16. Ne5 Nxe5 17. fxe5 Nd7 18. Bd4 c5 19. Bf2 b6 20. Nb5 g5
+21. Nxa7+ Kb7 22. Nb5 Nxe5 23. Rd8 Nc6 24. Rd6 Bg7 25. Rad1 Be5 26. Rd7+ Ka6
+27. Rxe7 Nxe7 28. Na3 Nd5 29. c4 Nf6 30. Nb5 Kb7 31. Bg3 f4 32. Bf2 g4 33. b3
+h5 34. Bh4 Rf8 35. Nd6+ Bxd6 36. Rxd6 f3+ 37. gxf3 gxf3+ 38. Kxf3 Ne8+ 0-1
+

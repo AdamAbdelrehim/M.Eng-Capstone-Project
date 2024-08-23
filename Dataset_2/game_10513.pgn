@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.10.29"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "TacticsLover7896"]
+[Result "1/2-1/2"]
+[CurrentPosition "r1b1k2r/ppp2ppp/2p5/8/3qn3/3P3P/PPP3P1/RNBQ1BKR w kq -"]
+[Timezone "UTC"]
+[ECO "C42"]
+[ECOUrl "https://www.chess.com/openings/Petrovs-Defense-Classical-Stafford-Gambit-4.Nxc6-dxc6"]
+[UTCDate "2023.10.29"]
+[UTCTime "21:43:57"]
+[WhiteElo "1891"]
+[BlackElo "2003"]
+[TimeControl "600"]
+[Termination "Game drawn by repetition"]
+[StartTime "21:43:57"]
+[EndDate "2023.10.29"]
+[EndTime "21:44:57"]
+[Link "https://www.chess.com/game/live/92355021289"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:54] } 2. Nf3 { [%clk 0:09:59.5] }
+2... Nf6 { [%clk 0:09:52.7] } 3. Nxe5 { [%clk 0:09:57.8] } 3... Nc6
+{ [%clk 0:09:52.1] } 4. Nxc6 { [%clk 0:09:56.5] } 4... dxc6 { [%clk 0:09:52] }
+5. d3 { [%clk 0:09:53.2] } 5... Bc5 { [%clk 0:09:51] } 6. h3 { [%clk 0:09:50] }
+6... Bxf2+ { [%clk 0:09:48.7] } 7. Kxf2 { [%clk 0:09:48.8] } 7... Nxe4+
+{ [%clk 0:09:47.2] } 8. Kg1 { [%clk 0:09:43.7] } 8... Qd4+ { [%clk 0:09:45] }
+9. Kh2 { [%clk 0:09:42] } 9... Qe5+ { [%clk 0:09:43.3] } 10. Kg1
+{ [%clk 0:09:38] } 10... Qd4+ { [%clk 0:09:42.3] } 11. Kh2 { [%clk 0:09:36.8] }
+11... Qe5+ { [%clk 0:09:41.4] } 12. Kg1 { [%clk 0:09:36] } 12... Qd4+
+{ [%clk 0:09:30.7] } 1/2-1/2
+

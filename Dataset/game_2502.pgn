@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "slp04"]
+[Black "ViennaDragon"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/9TOc40dD"]
+[WhiteTitle "FM"]
+[WhiteElo "2585"]
+[BlackElo "2528"]
+[ECO "B20"]
+[Opening "Sicilian Defense: Kronberger Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "10:35:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 c5 2. Na3 Nc6 3. Nf3 g6 4. c3 Bg7 5. d4 cxd4 6. cxd4 d5 7. exd5 Qxd5 8.
+Nb5 Qd8 9. Bf4 Kf8 10. Nc7 Rb8 11. d5 Nb4 12. Bc4 Bf5 13. O-O Rc8 14. d6 Nf6
+15. dxe7+ Qxe7 16. Bd6 Rxc7 17. Bxe7+ Rxe7 18. Qd8+ Ne8 19. Rfe1 1-0
+

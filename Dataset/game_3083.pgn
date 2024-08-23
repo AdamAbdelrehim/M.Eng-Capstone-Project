@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "AlexD64"]
+[Black "GalimovaTS"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/gesKfzzN"]
+[WhiteElo "2620"]
+[BlackElo "2528"]
+[ECO "B16"]
+[Opening "Caro-Kann Defense: Bronstein-Larsen Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:59:17"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-5"]
+
+1. e4 c6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Nf6 5. Nxf6+ gxf6 6. c3 Bf5 7. Ne2 e6 8.
+Ng3 Bg6 9. h4 h5 10. Be2 Bd6 11. Nxh5 f5 12. g3 Bxh5 13. Bxh5 f4 14. Bxf4 Bxf4
+15. gxf4 Qf6 16. Qf3 Nd7 17. O-O-O O-O-O 18. Rde1 Nb6 19. Re5 Nd5 20. Bg4 Rxh4
+21. Rxh4 Qxh4 22. f5 Rg8 23. fxe6 Qxg4 24. Qxg4 Rxg4 25. exf7 Kd7 26. f8=Q 1-0
+

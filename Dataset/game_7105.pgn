@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Ajedrezactivo"]
+[Black "bob_2004"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/fZmlLIAI"]
+[WhiteTitle "GM"]
+[BlackTitle "FM"]
+[WhiteElo "2853"]
+[BlackElo "2722"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Accelerated London System, Steinitz Countergambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "21:16:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. d4 d5 2. Bf4 c5 3. e3 Nc6 4. c3 Nf6 5. Nd2 Bf5 6. dxc5 Nd7 7. b4 e5 8. Bg3
+Be7 9. Ngf3 Bf6 10. Bb5 h5 11. h4 a6 12. Be2 g6 13. Ng5 d4 14. e4 Bxg5 15. hxg5
+Be6 16. cxd4 Nxd4 17. Nf3 Nxf3+ 18. Bxf3 Qxg5 19. Bh4 Qh6 20. Qd6 g5 21. Bg3
+Qf6 22. Rxh5 Rxh5 23. Bxh5 g4 24. Rd1 Rc8 25. a4 Rc6 26. Qd2 Qh8 27. Qg5 Bb3
+28. Bh4 Nf6 29. Rd6 Rxd6 30. cxd6 Kd7 31. Qxf6 Qxf6 32. Bxf6 Kxd6 33. Bxg4 Bxa4
+34. g3 b6 35. f4 exf4 36. gxf4 Bc6 37. Be5+ Ke7 38. Bf5 a5 39. bxa5 bxa5 40.
+Kd2 f6 41. Bc3 Bb5 42. Bxa5 1-0
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "thurstonCAT"]
+[Black "VoiMa"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/5EAJt8xx"]
+[WhiteElo "2447"]
+[BlackElo "2513"]
+[ECO "C40"]
+[Opening "Latvian Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:15:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+4"]
+
+1. e4 e5 2. Nf3 f5 3. d3 Nc6 4. Nc3 Nf6 5. Bg5 Be7 6. Qd2 O-O 7. O-O-O h6 8.
+Bxf6 Bxf6 9. Be2 Nd4 10. Kb1 c6 11. Rde1 d5 12. Bd1 fxe4 13. dxe4 Nxf3 14. Bxf3
+d4 15. Ne2 Be6 16. h4 c5 17. g4 c4 18. Reg1 c3 19. Qc1 cxb2 20. Qd2 Qd6 21. g5
+Qa3 0-1
+

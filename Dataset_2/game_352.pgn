@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.02.09"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "HaroldPalechor"]
+[Result "1-0"]
+[CurrentPosition "r1bNkbnr/pp2p1pp/5p2/n1p5/2B5/2N5/PPPP1PPP/R1BQK2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "B01"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Variation-3.Nc3-Qd8-4.Nf3"]
+[UTCDate "2021.02.09"]
+[UTCTime "22:12:27"]
+[WhiteElo "1286"]
+[BlackElo "1184"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "22:12:27"]
+[EndDate "2021.02.09"]
+[EndTime "22:14:00"]
+[Link "https://www.chess.com/game/live/6505918821"]
+
+1. e4 { [%clk 0:10:00] } 1... d5 { [%clk 0:09:58.4] } 2. exd5
+{ [%clk 0:09:55.4] } 2... Qxd5 { [%clk 0:09:56.3] } 3. Nc3 { [%clk 0:09:54.9] }
+3... Qd8 { [%clk 0:09:55] } 4. Nf3 { [%clk 0:09:53] } 4... c5
+{ [%clk 0:09:51.4] } 5. Bc4 { [%clk 0:09:49.8] } 5... Nc6 { [%clk 0:09:48.5] }
+6. Ng5 { [%clk 0:09:23.9] } 6... f6 { [%clk 0:09:47.4] } 7. Nf7
+{ [%clk 0:09:19.2] } 7... Na5 { [%clk 0:09:31.5] } 8. Nxd8 { [%clk 0:09:08.8] }
+1-0
+

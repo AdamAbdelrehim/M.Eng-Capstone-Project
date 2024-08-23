@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "DrLaPompa"]
+[Black "thewannabetomato"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/JH2dO5fM"]
+[WhiteElo "2480"]
+[BlackElo "2624"]
+[ECO "B09"]
+[Opening "Pirc Defense: Austrian Attack, Unzicker Attack, Bronstein Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "09:27:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+3"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 d6 4. f4 Nf6 5. Nf3 O-O 6. e5 Nfd7 7. h4 c5 8. h5
+cxd4 9. hxg6 dxc3 10. Rxh7 fxg6 11. Bc4+ e6 12. Ng5 Nxe5 13. Bxe6+ Bxe6 14.
+Rxg7+ Kh8 15. Nxe6 Qh4+ 16. Ke2 Qh5+ 17. Ke1 Qh1+ 18. Ke2 Qxg2+ 19. Ke3 Qg3+
+20. Ke2 Qg4+ 21. Ke1 Qxe6 22. fxe5 Qxe5+ 23. Qe2 Qxg7 24. Be3 cxb2 25. Rd1 Nc6
+26. Qh2+ Kg8 0-1
+

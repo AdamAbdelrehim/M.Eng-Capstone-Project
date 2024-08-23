@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Konnov_Oleg"]
+[Black "ropatsch"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Sjl3H7xQ"]
+[WhiteElo "2606"]
+[BlackElo "2435"]
+[ECO "E62"]
+[Opening "King's Indian Defense: Fianchetto Variation, Lesser Simagin (Spassky)"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "03:44:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 O-O 5. Bg2 d6 6. Nc3 Nc6 7. O-O Bf5 8. Ne1
+Qc8 9. d5 Na5 10. e4 Bh3 11. Qe2 Bxg2 12. Kxg2 c5 13. Rb1 Ng4 14. Bd2 Ne5 15.
+b3 b6 16. f4 Nd7 17. Nd3 e6 18. Rbe1 Re8 19. Qf3 exd5 20. exd5 a6 21. Ne4 Qc7
+22. f5 Ne5 23. Nxe5 Bxe5 24. Bf4 gxf5 25. Bxe5 Rxe5 26. Nf6+ Kf8 27. Rxe5 dxe5
+28. Qxf5 1-0
+

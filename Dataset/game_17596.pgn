@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "RTG_R"]
+[Black "AlexeyLV"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/gJEjMPjq"]
+[WhiteElo "2556"]
+[BlackElo "2576"]
+[ECO "B06"]
+[Opening "Modern Defense: Standard Line"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "07:24:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. e4 g6 2. d4 Bg7 3. Nc3 c6 4. Nf3 b5 5. a3 d6 6. Be3 Qc7 7. Qd2 Nd7 8. d5 a6
+9. dxc6 Qxc6 10. Nd4 Qc7 11. Nd5 Qb7 12. Nb3 Bxb2 13. Na5 Qb8 14. Bd4 Bxa1 15.
+Bxa1 e5 16. Qc3 Nc5 17. f4 f6 18. fxe5 fxe5 19. Be2 Be6 20. O-O Bxd5 21. exd5
+Ne7 22. Qf3 Qb6 23. Qf7+ Kd8 24. Nc6+ Nxc6 25. dxc6 Nb3+ 26. Kh1 Nxa1 27. Qd7#
+1-0
+

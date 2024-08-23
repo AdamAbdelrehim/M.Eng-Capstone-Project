@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "simbelmyne-bot"]
+[Black "ELO_1500"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/tdcHpSc5"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2552"]
+[BlackElo "2891"]
+[ECO "A46"]
+[Opening "Indian Defense: Czech-Indian"]
+[TimeControl "180+3"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:51:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+2"]
+
+1. Nf3 Nf6 2. d4 c6 3. e3 d5 4. Bd3 Bg4 5. h3 Bh5 6. c4 e6 7. O-O Nbd7 8. Nbd2
+Bd6 9. Qb3 Qc7 10. c5 Be7 11. Qc3 a5 12. a3 a4 13. Rb1 O-O 14. Re1 b6 15. cxb6
+Nxb6 16. Qc2 Rfc8 17. Ne5 c5 18. Ndf3 Bxf3 19. Nxf3 c4 20. Be2 Ne4 21. Ne5 Nd7
+22. Nxd7 Qxd7 23. Bf3 f5 24. Bxe4 fxe4 25. Bd2 Rf8 26. Rf1 Rf5 27. Bc3 Raf8 28.
+Rbc1 R8f6 29. Bb4 Bd8 30. Qd1 Bc7 31. Rc2 Bb8 32. Re2 Qc7 33. g3 Rf3 34. Qc2 h5
+35. h4 Qd8 36. Rc1 Rg6 37. Be1 Qxh4 38. Ba5 Bxg3 39. fxg3 Rfxg3+ 40. Rg2 Rh3
+41. Kf1 Rh1+ 42. Rg1 Rgxg1+ 43. Ke2 Qh2# 0-1
+

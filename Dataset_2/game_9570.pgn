@@ -1,0 +1,26 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.25"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Inpy"]
+[Result "1-0"]
+[CurrentPosition "rnbBk1nr/pppp1pbp/4p1p1/8/3PP3/8/PPP2PPP/RN1QKBNR b KQkq -"]
+[Timezone "UTC"]
+[ECO "B06"]
+[ECOUrl "https://www.chess.com/openings/Modern-Defense-with-1-e4-2.d4-Bg7"]
+[UTCDate "2023.06.25"]
+[UTCTime "06:44:10"]
+[WhiteElo "1796"]
+[BlackElo "1783"]
+[TimeControl "180"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "06:44:10"]
+[EndDate "2023.06.25"]
+[EndTime "06:44:19"]
+[Link "https://www.chess.com/game/live/81414628903"]
+
+1. e4 { [%clk 0:03:00] } 1... g6 { [%clk 0:03:00] } 2. d4 { [%clk 0:02:58.9] }
+2... Bg7 { [%clk 0:02:59.9] } 3. Bg5 { [%clk 0:02:56.3] } 3... e6
+{ [%clk 0:02:59.8] } 4. Bxd8 { [%clk 0:02:55.2] } 1-0
+

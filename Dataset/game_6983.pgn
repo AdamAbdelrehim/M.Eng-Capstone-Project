@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "tutvjn64"]
+[Black "thewannabetomato"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/kTVfdlG0"]
+[WhiteElo "2448"]
+[BlackElo "2643"]
+[ECO "A00"]
+[Opening "Hungarian Opening: Indian Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:58:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "+13"]
+[BlackRatingDiff "-8"]
+
+1. g3 Nf6 2. c4 e5 3. Bg2 c6 4. Nf3 e4 5. Nd4 d5 6. d3 Qb6 7. Nb3 Bb4+ 8. Bd2
+dxc4 9. dxc4 e3 10. fxe3 Ng4 11. Bxb4 Qxb4+ 12. Qd2 Qxc4 13. Nc3 Kf8 14. Qd8#
+1-0
+

@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Pescaderocalvo"]
+[Black "DonkinDonat"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/UiiIhI7S"]
+[WhiteElo "2586"]
+[BlackElo "2672"]
+[ECO "B41"]
+[Opening "Sicilian Defense: Kan Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "22:03:03"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Be2 d6 6. O-O Nf6 7. Nc3 Be7 8. f4
+O-O 9. Kh1 Qc7 10. Qe1 Nc6 11. Be3 Bd7 12. Qg3 b5 13. a3 Rac8 14. Rae1 Nxd4 15.
+Bxd4 Bc6 16. Bd3 Qb7 17. Qh3 h6 18. Re3 d5 19. Rg3 Kh8 20. e5 Ne4 21. Bxe4 dxe4
+22. f5 exf5 23. e6 f6 24. Rxf5 Be8 25. Rf4 Rc4 26. Rh4 Kh7 27. Be3 h5 28. Rxh5+
+Bxh5 29. Qxh5+ Kg8 30. Bh6 Bd6 31. Rxg7+ Qxg7 32. Bxg7 Kxg7 33. Qg4+ Kh6 34.
+Nxe4 f5 35. Qh3+ Kg6 36. Nxd6 Rd4 37. Qg3+ Kf6 38. h4 Kxe6 39. Nb7 f4 40. Nc5+
+Kd5 41. Qg5+ Kc4 42. Ne6 Rd1+ 43. Kh2 Rc8 44. Qxf4+ Kd5 45. Qf3+ Kxe6 46. Qxd1
+Rc5 47. Qg4+ Kd6 48. c3 Rd5 49. h5 Kc5 50. h6 Rd7 51. Qg5+ Rd5 52. Qxd5+ Kxd5
+53. h7 Kc4 54. h8=Q Kb3 55. Qa8 Ka2 56. Qxa6 b4 57. Qb5 b3 58. Qb4 Ka1 59. Qxb3
+Kb1 60. Qb4 Ka1 61. a4 Kb1 62. a5 Kc2 63. a6 Kd3 64. a7 Kc2 65. a8=Q Kd3 66.
+Qf3+ Kc2 67. Qbe4+ Kc1 68. c4 Kd2 69. Qee2+ Kc1 70. Qff1# 1-0
+

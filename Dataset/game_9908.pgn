@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Alex_Lidsky"]
+[Black "Chess_Antistress"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/LIzczbRr"]
+[WhiteElo "2518"]
+[BlackElo "2548"]
+[ECO "D11"]
+[Opening "Slav Defense: Quiet Variation, Pin Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:21:18"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 d5 2. c4 c6 3. Nf3 Nf6 4. e3 Bg4 5. Nc3 e6 6. h3 Bxf3 7. Qxf3 Bb4 8. Bd2
+O-O 9. Bd3 Nbd7 10. O-O Bd6 11. Rac1 Qe7 12. Rfe1 dxc4 13. Bxc4 e5 14. Ne4 Nxe4
+15. Qxe4 exd4 16. Qxe7 Bxe7 17. exd4 Bf6 18. d5 c5 19. Bf4 b6 20. Bb5 Rfd8 21.
+Bc7 Rdc8 22. d6 Nf8 23. Bc6 Rxc7 24. dxc7 Rc8 25. b3 Rxc7 26. Bb5 Ne6 27. Rcd1
+Bd4 28. Bc4 Nf8 29. Re8 g6 30. Rde1 Bf6 31. Ra8 Kg7 32. Ree8 Nd7 33. Rg8+ Kh6
+34. Bxf7 Ne5 35. Bc4 Nxc4 36. bxc4 Bd4 37. g3 Re7 38. Rae8 Rf7 39. Rgf8 Rd7 40.
+Kg2 Bc3 41. f4 Rd2+ 42. Kf3 Bd4 43. Re7 Rd3+ 44. Kg4 Bf2 45. f5 Rxg3+ 46. Kf4
+g5+ 47. Ke4 Re3+ 48. Kd5 Rxe7 49. f6 Re3 50. f7 Kg7 51. Rg8+ Kxf7 52. Rxg5 Rxh3
+53. Rf5+ Ke7 54. Rxf2 Rd3+ 55. Kc6 Rd4 56. Rh2 Rxc4 57. Rxh7+ Ke6 58. Rxa7 Rb4
+59. Ra6 Ke5 60. a3 Rb3 61. Ra8 Kd4 62. Re8 Kc4 63. Rd8 Rxa3 64. Kxb6 Rb3+ 65.
+Kc6 Rh3 66. Rg8 Rh6+ 67. Kb7 Kb4 68. Rg4+ c4 69. Rg1 Kb3 70. Rb1+ Kc2 71. Rc1+
+Kxc1 0-1
+

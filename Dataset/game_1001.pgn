@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "winquitter"]
+[Black "ARM_55555_IS_BACK"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/NXP6OmsQ"]
+[WhiteElo "2471"]
+[BlackElo "2574"]
+[ECO "A00"]
+[Opening "Barnes Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "05:49:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-7"]
+
+1. f3 e5 2. d3 d5 3. g4 Qh4+ 4. Kd2 d4 5. c3 Be7 6. Kc2 Nc6 7. Bd2 Be6 8. Nh3
+Nf6 9. Be1 Qh6 10. g5 Qh5 11. gxf6 Bxf6 12. Nf2 O-O-O 13. Nd2 dxc3 14. bxc3 Be7
+15. Kb2 f5 16. Rb1 Qf7 17. Nb3 e4 18. fxe4 fxe4 19. Nxe4 Bf5 20. Bg2 Bxe4 21.
+Bxe4 Bf6 22. Bxc6 bxc6 23. Ka1 Rhe8 24. Qc2 Qd5 25. Bf2 Qg2 26. Rbf1 Qd5 27.
+Rhg1 Qh5 28. Re1 Qxh2 29. Bxa7 Bh4 30. Nc5 Bxe1 31. Rxe1 Qf2 32. Rb1 Rd7 33.
+Rb8# 1-0
+

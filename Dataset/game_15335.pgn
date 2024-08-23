@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Persian_leopard"]
+[Black "raz_dwa_tri"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/lvJISyNA"]
+[WhiteTitle "CM"]
+[BlackTitle "FM"]
+[WhiteElo "2355"]
+[BlackElo "2511"]
+[ECO "B01"]
+[Opening "Scandinavian Defense: Modern Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "21:20:39"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. e4 d5 2. exd5 Nf6 3. Bb5+ Nbd7 4. Bxd7+ Qxd7 5. c4 c6 6. Nc3 cxd5 7. d4 dxc4
+8. Nf3 e6 9. Ne5 Qd8 10. Qa4+ Bd7 11. Qxc4 Rc8 12. Qd3 Be7 13. O-O O-O 14. Rd1
+Bc6 15. Nxc6 Rxc6 16. d5 exd5 17. Nxd5 Nxd5 18. Qxd5 Rd6 0-1
+

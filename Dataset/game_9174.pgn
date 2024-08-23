@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Zeveraar-Glen"]
+[Black "BITTER_FOX"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/6dr66Pso"]
+[WhiteTitle "IM"]
+[WhiteElo "2504"]
+[BlackElo "2333"]
+[ECO "D61"]
+[Opening "Queen's Gambit Declined: Orthodox Defense, Rubinstein Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "07:02:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 d5 4. Bg5 Be7 5. e3 O-O 6. Nf3 Nbd7 7. Qc2 c6 8. Rd1
+Qa5 9. a3 dxc4 10. Bxc4 c5 11. O-O b6 12. d5 exd5 13. Nxd5 Bd8 14. b4 Qxa3 15.
+Ra1 1-0
+

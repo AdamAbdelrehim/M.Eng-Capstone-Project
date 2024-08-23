@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Openingsonly"]
+[Black "scarlet_dawn"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/NqNKAgAL"]
+[WhiteElo "2643"]
+[BlackElo "2714"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "09:39:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. e4 c5 2. Nc3 Nf6 3. e5 Ng8 4. d4 cxd4 5. Qxd4 Nc6 6. Qe4 e6 7. Nf3 Nge7 8.
+Bd3 Ng6 9. O-O Be7 10. Re1 b6 11. h4 Nxh4 12. Nxh4 Bxh4 13. Qg4 O-O 14. Bh6 g6
+15. Bxf8 Kxf8 16. Nb5 Be7 17. Nd6 Nxe5 18. Rxe5 Bxd6 19. Ree1 Be7 20. c4 Bb7
+21. Be4 Bxe4 22. Qxe4 Rc8 23. Rad1 Qc7 24. b3 d6 25. Rd3 Qc5 26. Qf4 Kg7 27.
+Rf3 Rf8 28. Rd1 h6 29. Rfd3 a6 30. Qe4 b5 31. cxb5 axb5 32. Qb7 d5 33. a4 bxa4
+34. bxa4 Qd6 35. Rb3 Bh4 36. g3 Bf6 37. a5 Qc5 38. a6 Bd4 39. Rf1 h5 40. Rb5
+Qc3 41. Kg2 h4 42. a7 h3+ 43. Kh2 Qf3 44. Rg1 Qxf2+ 45. Kxh3 Rh8+ 46. Kg4 Qf5#
+0-1
+

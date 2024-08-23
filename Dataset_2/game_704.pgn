@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.09"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "lindsaycheg"]
+[Result "1-0"]
+[CurrentPosition "r3r2k/1b3N2/4pnp1/p2p4/Pp1Q4/3P3P/1PP2PP1/4RRK1 b - -"]
+[Timezone "UTC"]
+[ECO "B01"]
+[ECOUrl "https://www.chess.com/openings/Scandinavian-Defense-Mieses-Kotrc-Main-Line-4.Nf3"]
+[UTCDate "2021.03.09"]
+[UTCTime "02:38:20"]
+[WhiteElo "1342"]
+[BlackElo "1295"]
+[TimeControl "1800"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "02:38:20"]
+[EndDate "2021.03.09"]
+[EndTime "03:06:55"]
+[Link "https://www.chess.com/game/live/8996257481"]
+
+1. e4 { [%clk 0:30:00] } 1... d5 { [%clk 0:29:58.5] } 2. exd5
+{ [%clk 0:29:57] } 2... Qxd5 { [%clk 0:29:55.9] } 3. Nc3 { [%clk 0:29:56.3] }
+3... Qa5 { [%clk 0:29:54.5] } 4. Nf3 { [%clk 0:29:48.1] } 4... c6
+{ [%clk 0:29:52.4] } 5. Bc4 { [%clk 0:29:44.9] } 5... Nf6 { [%clk 0:29:50.7] }
+6. O-O { [%clk 0:29:42.7] } 6... e6 { [%clk 0:29:49.4] } 7. d3
+{ [%clk 0:29:32.7] } 7... Qc7 { [%clk 0:29:43.3] } 8. h3 { [%clk 0:29:26.6] }
+8... b5 { [%clk 0:29:41.7] } 9. Bb3 { [%clk 0:29:24.5] } 9... a5
+{ [%clk 0:29:40.4] } 10. a4 { [%clk 0:29:23] } 10... b4 { [%clk 0:29:32.3] }
+11. Ne2 { [%clk 0:29:10.5] } 11... Bd6 { [%clk 0:29:12.1] } 12. Ned4
+{ [%clk 0:28:30.8] } 12... O-O { [%clk 0:28:48.9] } 13. Be3
+{ [%clk 0:27:43.8] } 13... Nbd7 { [%clk 0:28:21.1] } 14. Qe2
+{ [%clk 0:27:36.2] } 14... h6 { [%clk 0:27:49.4] } 15. Rae1 { [%clk 0:27:00] }
+15... Nd5 { [%clk 0:27:30.5] } 16. Bd2 { [%clk 0:26:21.1] } 16... Re8
+{ [%clk 0:26:26.4] } 17. Nf5 { [%clk 0:24:31.5] } 17... Bf4
+{ [%clk 0:25:31.8] } 18. Bxd5 { [%clk 0:22:20.8] } 18... Bxd2
+{ [%clk 0:24:26.9] } 19. Nxd2 { [%clk 0:21:18.5] } 19... cxd5
+{ [%clk 0:24:21] } 20. Qg4 { [%clk 0:19:48.3] } 20... g6 { [%clk 0:24:03.8] }
+21. Nxh6+ { [%clk 0:19:43.8] } 21... Kg7 { [%clk 0:23:54.8] } 22. Nxf7
+{ [%clk 0:18:51.6] } 22... Nf6 { [%clk 0:22:46.5] } 23. Qd4
+{ [%clk 0:15:56.1] } 23... Qxf7 { [%clk 0:21:17.7] } 24. Nf3
+{ [%clk 0:15:39.6] } 24... Bb7 { [%clk 0:19:21] } 25. Ng5 { [%clk 0:13:38.4] }
+25... Kh8 { [%clk 0:18:16] } 26. Nxf7+ { [%clk 0:13:26.8] } 1-0
+

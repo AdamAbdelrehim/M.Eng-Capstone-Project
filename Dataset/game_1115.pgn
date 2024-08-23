@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "wodetisi"]
+[Black "chs2006"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/db14DvyT"]
+[WhiteElo "2411"]
+[BlackElo "2521"]
+[ECO "E04"]
+[Opening "Catalan Opening: Open Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:24:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. Nf3 Nf6 2. d4 d5 3. c4 e6 4. g3 dxc4 5. Bg2 Nc6 6. O-O Rb8 7. Nbd2 Nxd4 8.
+Qa4+ b5 9. Qxa7 Nxe2+ 10. Kh1 Rb7 11. Qe3 Nxc1 12. Raxc1 Bd7 13. Ne5 Rb6 14.
+Nxd7 Nxd7 15. Ne4 f5 16. Nc3 Bc5 17. Qe2 O-O 18. a4 b4 19. Nb5 Nf6 20. Qxc4 Bd6
+21. Qxe6+ Kh8 22. Nxd6 Qxd6 23. Qxf5 b3 24. Rfd1 Qb4 25. Rxc7 Ng4 26. Rc8 Rf6
+27. Rxf8+ Rxf8 28. Qd5 Nxf2+ 29. Kg1 Nxd1 30. Qxd1 Qxa4 31. Bd5 Qa7+ 32. Kg2
+Qf2+ 33. Kh3 Qxb2 34. Qh5 Qc3 35. Be4 g6 36. Bxg6 Qg7 37. Bb1 b2 38. Qa5 Qd7+
+39. Kh4 Qd8+ 40. Qxd8 Rxd8 41. Kg5 Rd1 42. Bc2 b1=Q 43. Bxd1 Qxd1 44. h4 h5 45.
+g4 Qxg4+ 46. Kf6 Qxh4+ 47. Kg6 Qg4+ 48. Kf6 h4 49. Ke7 h3 50. Kd6 h2 51. Kc5
+h1=Q 52. Kb6 Qd5 53. Kc7 Qgd7+ 54. Kb8 Q5b7# 0-1
+

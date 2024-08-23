@@ -1,0 +1,31 @@
+[Event "Rated Classical game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "PetersBot"]
+[Black "simbelmyne-bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/LhPdIPlW"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2681"]
+[BlackElo "2385"]
+[ECO "C88"]
+[Opening "Ruy Lopez: Closed"]
+[TimeControl "1200+8"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:54:32"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+Bg4 9. d3 a5 10. a4 b4 11. h3 Bh5 12. Be3 O-O 13. Nbd2 h6 14. Qc2 Bg6 15. Rad1
+Qd7 16. Bc4 Qc8 17. Nf1 Nh5 18. Bd5 Qd7 19. Rc1 Bf6 20. Qd1 Nf4 21. Bxc6 Qxc6
+22. cxb4 Qd7 23. b5 Ne6 24. Ng3 Rfe8 25. Qb3 Kh8 26. Qd5 Rab8 27. Rc6 Red8 28.
+Rec1 Rdc8 29. Ra6 Qe8 30. Rxa5 Rd8 31. h4 Bh7 32. b4 Rd7 33. Ra7 Bg6 34. h5 Bh7
+35. a5 Kg8 36. a6 Kh8 37. Rb7 Rc8 38. a7 Nf4 39. Bxf4 exf4 40. Nf5 Bxf5 41.
+Qxf5 Bb2 42. Rc6 g6 43. Qxf4 Re7 44. Qxh6+ Kg8 45. g3 gxh5 46. Qg5+ Kf8 47.
+Qxh5 Ba1 48. Kg2 Bg7 49. Qf5 Rd8 50. Rcxc7 Rxc7 51. Rxc7 Kg8 52. Ng5 d5 53.
+Rxf7 Qxf7 54. Qxf7+ Kh8 55. Qg6 Kg8 56. Ne6 Rd7 57. a8=R+ Rd8 58. Qxg7# 1-0
+

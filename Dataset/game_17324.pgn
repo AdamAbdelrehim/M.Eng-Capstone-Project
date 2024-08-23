@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "rigondo"]
+[Black "guandr"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/NtiruncC"]
+[WhiteElo "2494"]
+[BlackElo "2555"]
+[ECO "A48"]
+[Opening "Torre Attack: Fianchetto Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "06:11:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. d4 Nf6 2. Nf3 g6 3. Bg5 Bg7 4. Nbd2 d5 5. e3 b6 6. Bd3 Bb7 7. Qe2 Nbd7 8.
+O-O O-O 9. c3 Ne4 10. Bh4 c5 11. a4 a6 12. Rfd1 Re8 13. Rac1 Qc7 14. Ng5 Nxg5
+15. Bxg5 e5 16. dxe5 Nxe5 17. Bf4 Qc6 18. Nf3 Nxd3 19. Qxd3 Qxa4 20. Bc7 b5 21.
+Bd6 Rac8 22. b4 cxb4 23. cxb4 Bc3 24. Rb1 d4 25. Nxd4 Be4 26. Qe2 Bxb1 27. Rxb1
+Bxd4 0-1
+

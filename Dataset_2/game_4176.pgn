@@ -1,0 +1,44 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.24"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "9Connoiesseur9"]
+[Result "0-1"]
+[CurrentPosition "7k/p1p3pp/5b2/P1Q1p3/4P3/1P3N2/2P2PPP/3q2K1 w - -"]
+[Timezone "UTC"]
+[ECO "B00"]
+[ECOUrl "https://www.chess.com/openings/Owens-Defense"]
+[UTCDate "2022.03.24"]
+[UTCTime "08:25:09"]
+[WhiteElo "1467"]
+[BlackElo "1494"]
+[TimeControl "60"]
+[Termination "9Connoiesseur9 won by resignation"]
+[StartTime "08:25:09"]
+[EndDate "2022.03.24"]
+[EndTime "08:26:09"]
+[Link "https://www.chess.com/game/live/41849372991"]
+
+1. e4 { [%clk 0:01:00] } 1... b6 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.3] }
+2... Bb7 { [%clk 0:00:59.9] } 3. Nc3 { [%clk 0:00:58.5] } 3... f6
+{ [%clk 0:00:59.7] } 4. d4 { [%clk 0:00:58.1] } 4... e5 { [%clk 0:00:59.6] } 5.
+dxe5 { [%clk 0:00:56.8] } 5... fxe5 { [%clk 0:00:58.5] } 6. Bd3
+{ [%clk 0:00:56.3] } 6... d6 { [%clk 0:00:57.6] } 7. O-O { [%clk 0:00:55.8] }
+7... Nf6 { [%clk 0:00:57.2] } 8. Be3 { [%clk 0:00:55.4] } 8... Be7
+{ [%clk 0:00:56.9] } 9. Qd2 { [%clk 0:00:54.7] } 9... O-O { [%clk 0:00:56.4] }
+10. Nd5 { [%clk 0:00:50.5] } 10... Nc6 { [%clk 0:00:56.3] } 11. Nxf6+
+{ [%clk 0:00:49.2] } 11... Bxf6 { [%clk 0:00:55] } 12. Bc4+
+{ [%clk 0:00:48.3] } 12... Kh8 { [%clk 0:00:53.6] } 13. Bd5 { [%clk 0:00:48] }
+13... Na5 { [%clk 0:00:50.9] } 14. Bxb7 { [%clk 0:00:46.9] } 14... Nxb7
+{ [%clk 0:00:50.8] } 15. a4 { [%clk 0:00:45.9] } 15... Nc5 { [%clk 0:00:50] }
+16. Bxc5 { [%clk 0:00:44.3] } 16... bxc5 { [%clk 0:00:49.6] } 17. a5
+{ [%clk 0:00:43.4] } 17... Rb8 { [%clk 0:00:48.9] } 18. b3 { [%clk 0:00:42.1] }
+18... Qe7 { [%clk 0:00:47.4] } 19. Rfd1 { [%clk 0:00:41.8] } 19... d5
+{ [%clk 0:00:46.7] } 20. Qxd5 { [%clk 0:00:40] } 20... Rfd8
+{ [%clk 0:00:44.3] } 21. Qc4 { [%clk 0:00:37.9] } 21... Rxd1+
+{ [%clk 0:00:42.6] } 22. Rxd1 { [%clk 0:00:37.8] } 22... Rd8
+{ [%clk 0:00:40.5] } 23. Rxd8+ { [%clk 0:00:36.9] } 23... Qxd8
+{ [%clk 0:00:40.1] } 24. Qxc5 { [%clk 0:00:36] } 24... Qd1+
+{ [%clk 0:00:37.4] } 0-1
+

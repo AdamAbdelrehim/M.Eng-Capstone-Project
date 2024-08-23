@@ -1,0 +1,30 @@
+[Event "Rated Blitz tournament https://lichess.org/tournament/iIi9Dx9K"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "kenst"]
+[Black "Luciano27"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/uctH7zXB"]
+[WhiteElo "2321"]
+[BlackElo "2505"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange Variation, Keres Variation"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:13:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. Nc3 Bc5 6. O-O Bg4 7. h3 h5 8. d3
+Qf6 9. Be3 Bxe3 10. fxe3 Bxf3 11. Qxf3 Qxf3 12. Rxf3 Nf6 13. Raf1 O-O-O 14. Ne2
+h4 15. Rf5 Rde8 16. Kh2 Kd7 17. Ng1 Kd6 18. Nf3 Rh6 19. Ng5 Re7 20. d4 exd4 21.
+exd4 Kd7 22. e5 Nd5 23. Rxf7 Rg6 24. Ne4 Rxf7 25. Rxf7+ Ke8 26. Rf3 b6 27. g3
+hxg3+ 28. Rxg3 Rxg3 29. Kxg3 Nb4 30. c3 Nxa2 31. Kg4 Nc1 32. Kf5 Nd3 33. Kg6
+Kf8 34. Ng5 Nxb2 35. Ne6+ Ke7 36. Nxg7 a5 37. Nf5+ Ke6 38. Ne3 a4 39. Nc2 Nd1
+40. h4 Nxc3 41. h5 Nd5 42. h6 Ne7+ 43. Kg7 Nf5+ 44. Kg6 Nxh6 45. Kxh6 c5 46.
+Kh5 cxd4 47. Nxd4+ Kxe5 48. Nb5 c6 49. Na3 b5 50. Kg4 b4 51. Nc2 c5 52. Kf3 a3
+53. Ke3 a2 54. Na1 c4 55. Kd2 Kd4 56. Kc2 b3+ 57. Kb2 Kd3 58. Kc1 Kc3 59. Nc2
+b2+ 60. Kd1 b1=Q+ 0-1
+

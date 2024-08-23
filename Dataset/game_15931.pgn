@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "gmmitkov"]
+[Black "Llamahealthy"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Roha0nBV"]
+[WhiteElo "2626"]
+[BlackElo "2634"]
+[ECO "B23"]
+[Opening "Sicilian Defense: Closed"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "23:07:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nc3 g6 3. Bc4 Bg7 4. d3 e6 5. Nge2 Nc6 6. a3 Nge7 7. Ba2 O-O 8. h4
+h5 9. g4 hxg4 10. h5 d5 11. Ng3 Ne5 12. h6 Nf3+ 13. Kf1 Be5 14. h7+ Kh8 15. Bh6
+Re8 16. Qc1 f5 17. exd5 Nxd5 18. Nxd5 exd5 19. Bf4 Qd6 20. Bxe5+ Qxe5 21. Qh6
+f4 22. Nh5 gxh5 23. Kg2 h4 24. Bxd5 h3+ 25. Rxh3 gxh3+ 26. Kxf3 Qxd5+ 27. Kxf4
+Qf7+ 28. Kg3 Qg7+ 0-1
+

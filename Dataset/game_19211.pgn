@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "toosz17"]
+[Black "Gwynbleidd888"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/0oGC5XTE"]
+[WhiteElo "2509"]
+[BlackElo "2525"]
+[ECO "E20"]
+[Opening "Nimzo-Indian Defense: Kmoch Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:42:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. f3 c5 5. d5 O-O 6. e4 Re8 7. Ne2 exd5 8. cxd5
+d6 9. Ng3 Nbd7 10. Be2 a6 11. a4 h5 12. O-O h4 13. Nf5 h3 14. Nxd6 hxg2 15.
+Kxg2 Rf8 16. Bg5 Ne5 17. Nxc8 Qxc8 18. Bxf6 gxf6 19. f4 Ng6 20. Bg4 Qb8 21. Qd2
+Bxc3 22. bxc3 Kg7 23. Bf5 Rh8 24. Bxg6 fxg6 25. Rf3 Rh4 26. Raf1 Qh8 27. h3 Qh5
+28. Rg3 Rh8 29. Rff3 b5 30. axb5 axb5 31. Qa2 Rf8 32. f5 Rxe4 33. Rxg6+ Kh8 34.
+Qa7 Re2+ 35. Kg3 Re4 36. Qg7# 1-0
+

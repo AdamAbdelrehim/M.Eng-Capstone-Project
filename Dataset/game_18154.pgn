@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "TheMedarman"]
+[Black "Trapula"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/jVMk6wRx"]
+[WhiteElo "2327"]
+[BlackElo "2503"]
+[ECO "D01"]
+[Opening "Rapport-Jobava System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:06:25"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-13"]
+
+1. d4 d5 2. Bf4 Nf6 3. Nc3 c6 4. Qd2 Bf5 5. f3 h6 6. g4 Bh7 7. h4 e6 8. e3 Bd6
+9. Nge2 Na6 10. O-O-O Nb4 11. a3 Nxc2 12. e4 Na1 13. Kb1 Nb3 14. Qc2 Na5 15. g5
+dxe4 16. fxe4 Nh5 17. Bxd6 Qxd6 18. Qd3 b5 19. Ka2 O-O-O 20. Rc1 Kb8 21. Bg2
+Nf4 22. Nxf4 Qxf4 23. Nxb5 cxb5 24. Qxb5+ Nb7 25. Rhf1 hxg5 26. Rxf4 gxf4 27.
+e5 Rd5 28. Bxd5 exd5 29. Qxd5 Bf5 30. Qxf7 Bc8 31. Qxf4 Be6+ 32. Ka1 Na5 33. d5
+Nb3+ 34. Kb1 Nxc1 35. dxe6 Nd3 36. Qd4 Ne1 37. Qd6+ Ka8 38. e7 Nd3 39. Qd8+
+Rxd8 40. exd8=Q+ Kb7 41. Qxd3 a5 42. e6 g5 43. e7 Kb6 44. e8=Q gxh4 45. Qed7 a4
+46. Q3d5 h3 47. Q7c6+ Ka7 48. Qa5+ Kb8 49. Qac7# 1-0
+

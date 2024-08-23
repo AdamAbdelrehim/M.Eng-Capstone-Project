@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "UNoHoo"]
+[Black "General-Disarray"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/MSdv2RFS"]
+[WhiteElo "2415"]
+[BlackElo "2548"]
+[ECO "B30"]
+[Opening "Sicilian Defense: Old Sicilian"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:16:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 Nc6 3. g3 g6 4. Bg2 Bg7 5. O-O e5 6. c3 Nge7 7. Na3 O-O 8. Nc4
+d5 9. exd5 Nxd5 10. d3 h6 11. h3 Nb6 12. Ne3 Be6 13. a4 Qd7 14. Kh2 Rad8 15.
+Ne1 c4 16. a5 Nc8 17. a6 b5 18. Qc2 cxd3 19. Nxd3 Qxd3 20. Qxd3 Rxd3 21. Bxc6
+Nd6 22. Rd1 Rxd1 23. Nxd1 Rc8 24. Bb7 Rc7 25. Be3 Nxb7 26. axb7 Rxb7 27. Rxa7
+Rb8 28. Bc5 Rc8 29. Bb4 Rd8 30. Ne3 Rd2 31. Kg2 Rxb2 32. Ra8+ Kh7 33. Rb8 e4
+34. g4 Be5 35. Rb7 Bf4 36. Kf1 Bxe3 37. fxe3 Bc4+ 38. Kg1 Be2 39. Rxf7+ Kg8 40.
+Rb7 Bf3 41. Bc5 Rg2+ 42. Kf1 Rg3 43. Bd4 Rxh3 44. Rg7+ Kf8 45. Rxg6 Ke7 46. Kf2
+Kd7 47. Rb6 Bxg4 48. Rxb5 h5 49. Be5 Rf3+ 50. Kg2 Rxe3 51. Rb6 Rd3 52. Rh6 e3
+53. Bd4 e2 54. Bf2 Rd1 55. Rh7+ Kd6 56. Rh6+ Kd5 57. c4+ Kxc4 58. Rc6+ Kd5 59.
+Rc3 e1=Q 60. Bxe1 Rxe1 61. Kg3 Ke4 62. Rc7 Re3+ 63. Kg2 Kf4 64. Rf7+ Bf5 65.
+Kf2 Ra3 66. Kg2 h4 67. Rf8 h3+ 68. Kh2 Ra2+ 69. Kg1 Kg3 70. Rg8+ Bg4 71. Rf8
+Ra1+ 72. Rf1 h2+ 73. Kh1 Bf3# 0-1
+

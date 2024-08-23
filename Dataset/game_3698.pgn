@@ -1,0 +1,26 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Weerasekara"]
+[Black "Ilya_Churekov"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/yF2bfWSg"]
+[WhiteElo "2471"]
+[BlackElo "2619"]
+[ECO "D37"]
+[Opening "Queen's Gambit Declined: Harrwitz Attack, Orthodox Defense"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:24:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+10"]
+
+1. c4 e6 2. Nf3 d5 3. d4 Nf6 4. Nc3 Be7 5. Bf4 O-O 6. e3 c6 7. cxd5 cxd5 8. Bd3
+Nc6 9. a3 Nh5 10. Bg3 Bd7 11. O-O Nxg3 12. hxg3 Rc8 13. Nd2 a6 14. Qe2 Bd6 15.
+Rfc1 Qe7 16. b4 h6 17. Nb3 f5 18. Nc5 Rc7 19. b5 Bxc5 20. bxc6 Bxa3 21. cxd7
+Bxc1 22. Rxc1 Qxd7 23. Na2 Rxc1+ 24. Nxc1 Rc8 25. Nb3 Qd6 26. Nc5 b6 27. Nxa6
+Qa3 28. Bb5 Rc1+ 29. Kh2 Rb1 30. Bd7 Qc1 31. Bxe6+ Kh8 32. g4 Qh1+ 33. Kg3 g5
+34. Bxf5 Rg1 35. f4 Re1 36. Qb5 Rxe3+ 37. Kf2 Qe1# 0-1
+

@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Chessmatus"]
+[Black "firegus16"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/FIhwczdq"]
+[WhiteTitle "FM"]
+[WhiteElo "2505"]
+[BlackElo "2580"]
+[ECO "B91"]
+[Opening "Sicilian Defense: Najdorf Variation, Zagreb Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:59:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. g3 e5 7. Nde2 Be7 8. Bg2
+O-O 9. O-O b5 10. Nd5 Bb7 11. Nec3 Nbd7 12. a4 Nxd5 13. Nxd5 Nf6 14. Be3 Nxd5
+15. exd5 Rc8 16. axb5 axb5 17. Ra7 Qc7 18. c3 Ra8 19. Qb3 Rxa7 20. Bxa7 Bxd5
+21. Bxd5 Qxa7 22. Qxb5 Rb8 23. Qc4 Rxb2 24. Bxf7+ Kf8 25. Be6 g6 26. Qc8+ Kg7
+27. Qg8+ Kh6 28. Qf7 Qc7 29. h4 Bd8 30. Qf8+ Kh5 31. g4+ 1-0
+

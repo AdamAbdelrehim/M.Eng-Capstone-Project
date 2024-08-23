@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.01.30"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "deucecoupe"]
+[Result "1-0"]
+[CurrentPosition "r1bB1rk1/pp3p2/2np3p/4p1p1/2B1P3/2P2N2/PP3PPP/RN1QK2R b KQ -"]
+[Timezone "UTC"]
+[ECO "C53"]
+[ECOUrl "https://www.chess.com/openings/Giuoco-Piano-Game-Center-Attack"]
+[UTCDate "2023.01.30"]
+[UTCTime "20:12:15"]
+[WhiteElo "1586"]
+[BlackElo "1645"]
+[TimeControl "60"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "20:12:15"]
+[EndDate "2023.01.30"]
+[EndTime "20:12:40"]
+[Link "https://www.chess.com/game/live/68848576095"]
+
+1. e4 { [%clk 0:01:00] } 1... e5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.9] }
+2... Nc6 { [%clk 0:00:59.8] } 3. Bc4 { [%clk 0:00:59.6] } 3... Bc5
+{ [%clk 0:00:59.4] } 4. c3 { [%clk 0:00:58.7] } 4... Nf6 { [%clk 0:00:58.6] }
+5. d4 { [%clk 0:00:58.6] } 5... d6 { [%clk 0:00:58.2] } 6. dxc5
+{ [%clk 0:00:56.7] } 6... O-O { [%clk 0:00:56.3] } 7. cxd6 { [%clk 0:00:55.5] }
+7... cxd6 { [%clk 0:00:56.2] } 8. Bg5 { [%clk 0:00:53.3] } 8... h6
+{ [%clk 0:00:54.1] } 9. Bxf6 { [%clk 0:00:52.6] } 9... g5 { [%clk 0:00:53.7] }
+10. Bxd8 { [%clk 0:00:51.2] } 1-0
+

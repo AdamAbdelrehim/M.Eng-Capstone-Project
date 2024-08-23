@@ -1,0 +1,41 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Lynx_BOT"]
+[Black "ChessatronBot"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/00vTAYa7"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2557"]
+[BlackElo "2516"]
+[ECO "D45"]
+[Opening "Semi-Slav Defense: Normal Variation"]
+[TimeControl "900+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:04:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+7"]
+
+1. Nf3 d5 2. e3 Nf6 3. c4 e6 4. Nc3 c6 5. d4 Nbd7 6. a4 Bd6 7. Be2 O-O 8. O-O
+b6 9. a5 bxa5 10. Qc2 Bb7 11. c5 Bc7 12. e4 Nxe4 13. Nxe4 dxe4 14. Qxe4 Nf6 15.
+Qc2 Rb8 16. Bd2 Nd5 17. Rfe1 h6 18. Bd3 Ba8 19. Bc4 Kh8 20. b3 Kg8 21. Qd3 Bb7
+22. Qe4 Rc8 23. Bd3 Nf6 24. Qh4 Re8 25. Bc4 Ra8 26. g3 Rb8 27. Kg2 Rf8 28. Ne5
+a6 29. Ra4 Rc8 30. Nf3 Re8 31. Raa1 Rb8 32. h3 Rc8 33. Ra4 Rb8 34. Ne5 Rf8 35.
+Raa1 Rc8 36. Red1 Re8 37. Nf3 Kh7 38. Bd3+ Kh8 39. Ra4 Kg8 40. Re1 Ra8 41. Raa1
+Rb8 42. Bf1 Nd5 43. Qxd8 Rexd8 44. Bc4 Ra8 45. Bxd5 Rxd5 46. Bxa5 Rc8 47. Bxc7
+Rxc7 48. Ra4 Bc8 49. Ne5 f6 50. Nf3 Kf7 51. h4 e5 52. dxe5 Rxc5 53. exf6 gxf6
+54. Nd2 Rd5 55. Nc4 Rd4 56. Ra5 c5 57. Rc1 Ke6 58. Rc3 Ke7 59. Nb2 Kd6 60. Kh2
+Rc6 61. Nd3 Rd5 62. Nf4 Rd4 63. Nh5 f5 64. Nf4 c4 65. bxc4 Rcxc4 66. Rb3 Rd2
+67. Nh3 Rc1 68. Kg2 Bd7 69. Kf3 Bb5 70. Rba3 Rcc2 71. Kg2 Kc7 72. Ra1 Kb6 73.
+R5a3 Rb2 74. Re3 Bc6+ 75. Kg1 Ra2 76. Rb1+ Rdb2 77. Rbe1 Be4 78. Rf1 Kb5 79.
+Nf4 Kc4 80. f3 Kd4 81. Rfe1 Bc6 82. Ne6+ Kc4 83. Rc1+ Kb4 84. Nf4 Rc2 85. Rd1
+h5 86. Rb1+ Ka4 87. Rf1 a5 88. Rd1 Kb4 89. Rb1+ Kc4 90. Rf1 Rab2 91. Re6 Bb5
+92. Re5 a4 93. Rxf5 a3 94. Re1 Bc6 95. Rf6 Kb3 96. Nd3 Rg2+ 97. Kh1 Rh2+ 98.
+Kg1 Rbg2+ 99. Kf1 Bb5 100. Rb6 Ka4 101. Re4+ Ka5 102. Rxb5+ Kxb5 103. Rb4+ Ka5
+104. Rb8 Rc2 105. Kg1 Rhd2 106. Ra8+ Kb6 107. Rb8+ Kc7 108. Rb1 Rxd3 109. g4 a2
+110. Rf1 Ra3 111. Rf2 a1=Q+ 112. Kg2 Rxf2+ 113. Kxf2 Qd4+ 114. Kg3 Qe5+ 115.
+Kh3 Rxf3+ 116. Kg2 Qg3+ 117. Kh1 Rf1# 0-1
+

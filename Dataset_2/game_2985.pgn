@@ -1,0 +1,36 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.11.20"]
+[Round "-"]
+[White "lebillu538"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1bk1r2/pp1pn1pp/5n2/8/2BpP3/8/PP2QPPP/R4RK1 w - -"]
+[Timezone "UTC"]
+[ECO "B21"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Smith-Morra-Gambit-Accepted-4.Nxc3"]
+[UTCDate "2021.11.20"]
+[UTCTime "07:14:22"]
+[WhiteElo "1754"]
+[BlackElo "1705"]
+[TimeControl "600"]
+[Termination "lebillu538 won by resignation"]
+[StartTime "07:14:22"]
+[EndDate "2021.11.20"]
+[EndTime "07:21:17"]
+[Link "https://www.chess.com/game/live/31131555013"]
+
+1. e4 { [%clk 0:09:58.9] } 1... c5 { [%clk 0:09:57.2] } 2. d4
+{ [%clk 0:09:56.8] } 2... cxd4 { [%clk 0:09:55.6] } 3. c3 { [%clk 0:09:55.6] }
+3... dxc3 { [%clk 0:09:55.1] } 4. Nxc3 { [%clk 0:09:54.6] } 4... Nf6
+{ [%clk 0:09:53.4] } 5. Bc4 { [%clk 0:09:42.2] } 5... Nc6 { [%clk 0:09:50.6] }
+6. Nf3 { [%clk 0:09:40] } 6... e5 { [%clk 0:09:47.9] } 7. Ng5
+{ [%clk 0:09:30.8] } 7... Qb6 { [%clk 0:09:41.9] } 8. Nxf7 { [%clk 0:09:01.4] }
+8... Qd4 { [%clk 0:09:38.5] } 9. Qe2 { [%clk 0:08:11.3] } 9... Bb4
+{ [%clk 0:09:23] } 10. O-O { [%clk 0:07:45.3] } 10... Rf8 { [%clk 0:09:01.4] }
+11. Be3 { [%clk 0:06:41.2] } 11... Bxc3 { [%clk 0:08:07] } 12. Bxd4
+{ [%clk 0:06:37.4] } 12... Bxd4 { [%clk 0:08:06.9] } 13. Nd6+
+{ [%clk 0:06:26.7] } 13... Kd8 { [%clk 0:07:56] } 14. Nf5 { [%clk 0:05:53.3] }
+14... Ne7 { [%clk 0:07:33.2] } 15. Nxd4 { [%clk 0:05:47] } 15... exd4
+{ [%clk 0:07:31.5] } 1-0
+

@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.03.31"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "Thaumas19"]
+[Result "0-1"]
+[CurrentPosition "rn2kb1r/ppp1p1pp/5n2/3P1b2/5B2/8/PqP2PPP/3RKB1R w Kkq -"]
+[Timezone "UTC"]
+[ECO "A06"]
+[ECOUrl "https://www.chess.com/openings/Reti-Opening-Tennison-Gambit"]
+[UTCDate "2022.03.31"]
+[UTCTime "19:24:24"]
+[WhiteElo "1387"]
+[BlackElo "1386"]
+[TimeControl "60"]
+[Termination "Thaumas19 won by resignation"]
+[StartTime "19:24:24"]
+[EndDate "2022.03.31"]
+[EndTime "19:25:19"]
+[Link "https://www.chess.com/game/live/42493763495"]
+
+1. e4 { [%clk 0:01:00] } 1... d5 { [%clk 0:01:00] } 2. Nf3 { [%clk 0:00:59.6] }
+2... dxe4 { [%clk 0:00:59.2] } 3. Ng5 { [%clk 0:00:59.3] } 3... Qd5
+{ [%clk 0:00:58.7] } 4. Nc3 { [%clk 0:00:58.9] } 4... Qxg5 { [%clk 0:00:57.8] }
+5. Nxe4 { [%clk 0:00:56.9] } 5... Qe5 { [%clk 0:00:57] } 6. Qf3
+{ [%clk 0:00:55.2] } 6... f5 { [%clk 0:00:56.2] } 7. d4 { [%clk 0:00:50.1] }
+7... Qe6 { [%clk 0:00:53.5] } 8. d5 { [%clk 0:00:47.1] } 8... Qe5
+{ [%clk 0:00:51.6] } 9. Bf4 { [%clk 0:00:45.7] } 9... Qxb2 { [%clk 0:00:48.9] }
+10. Rd1 { [%clk 0:00:35.1] } 10... fxe4 { [%clk 0:00:47.5] } 11. Qxe4
+{ [%clk 0:00:34.9] } 11... Nf6 { [%clk 0:00:43.9] } 12. Qf5
+{ [%clk 0:00:31.2] } 12... Bxf5 { [%clk 0:00:42.5] } 0-1
+

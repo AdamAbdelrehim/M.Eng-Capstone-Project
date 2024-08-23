@@ -1,0 +1,38 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "admete_bot"]
+[Black "PurpleHunter"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/pRVuyjgO"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2417"]
+[BlackElo "2649"]
+[ECO "E32"]
+[Opening "Nimzo-Indian Defense: Classical Variation, Keres Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:21:42"]
+[Termination "Normal"]
+[WhiteRatingDiff "-2"]
+[BlackRatingDiff "+2"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. a3 Bxc3+ 6. Qxc3 b6 7. Bg5 Ba6 8.
+Nf3 d6 9. e3 Nbd7 10. Bd3 c5 11. O-O Rc8 12. d5 exd5 13. cxd5 Bxd3 14. Qxd3 Qe7
+15. Qa6 h6 16. Bh4 g5 17. Bg3 Rc7 18. Rad1 Ne4 19. Nd2 Nxd2 20. Rxd2 f5 21. Qa4
+Nf6 22. Qc4 h5 23. h4 Ne4 24. Re2 gxh4 25. Bf4 Rb7 26. Qa6 Rf7 27. Kh2 Nf6 28.
+Rg1 Kh7 29. Rd1 Ng4+ 30. Kh3 Rg7 31. Qa4 Ne5 32. f3 Ng6 33. Bh2 Qf6 34. Rde1
+Rbf7 35. Rd1 Qg5 36. Bf4 Qe7 37. Kh2 Qf6 38. Kh3 b5 39. Qxb5 Nxf4+ 40. exf4 Qg6
+41. Kh2 Qg3+ 42. Kg1 Qxf3 43. Qd3 Qxf4 44. Rf1 Qg4 45. Rf3 Re7 46. Ref2 Re1+
+47. Kh2 Qe4 48. Qxe4 fxe4 49. Rf7 e3 50. R2f6 Rxf7 51. Rxf7+ Kg6 52. Re7 c4 53.
+a4 a5 54. Re6+ Kg5 55. Rxd6 Rd1 56. Re6 Kf4 57. Rf6+ Ke4 58. Re6+ Kd4 59. d6
+Kd3 60. d7 Ke2 61. Re7 Rd6 62. Kg1 Kd2 63. Kf1 Rd4 64. Kg1 Rd5 65. Kf1 Rd6 66.
+Kg1 Kc2 67. Rxe3 Kxb2 68. Re2+ Kb3 69. Re8 Rxd7 70. Rb8+ Kxa4 71. Rc8 Rd4 72.
+Kf2 Kb3 73. Rb8+ Kc2 74. Ke3 Rd3+ 75. Ke2 Rb3 76. Ra8 Rb5 77. Rc8 c3 78. Rc4
+Re5+ 79. Kf3 Kd3 80. Rxh4 Rf5+ 81. Kg3 Rg5+ 82. Kf3 c2 83. Rh1 Rd5 84. Kg3 Kd2
+85. Kf3 a4 86. g4 hxg4+ 87. Ke4 Rd8 88. Rh2+ Kc3 89. Rh1 Rd1 90. Rh6 Rd4+ 91.
+Kf5 Rf4+ 92. Ke5 c1=Q 93. Rc6+ Rc4 94. Rxc4+ Kxc4 95. Ke4 a3 96. Kf5 a2 97.
+Kxg4 a1=Q 98. Kf5 Qg7 99. Ke6 Qca1 100. Kf5 Qae5# 0-1
+

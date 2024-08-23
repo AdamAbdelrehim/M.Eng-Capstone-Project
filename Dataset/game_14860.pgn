@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Neftegor"]
+[Black "saeta"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/uKfes5rH"]
+[WhiteElo "2551"]
+[BlackElo "2464"]
+[ECO "A43"]
+[Opening "Benoni Defense: Benoni-Indian Defense, Kingside Move Order"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:16:18"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. d4 Nf6 2. Nf3 c5 3. d5 d6 4. Nc3 g6 5. e4 Bg7 6. Bb5+ Bd7 7. a4 O-O 8. O-O
+Bxb5 9. axb5 Nbd7 10. Re1 Ne8 11. Bg5 Nc7 12. Qb1 Nb6 13. Ra5 Qd7 14. h3 Rfe8
+15. Nh2 e6 16. dxe6 Rxe6 17. Ng4 h5 18. Ne3 Bxc3 19. bxc3 Rxe4 20. Rd1 Qe6 21.
+Qa1 a6 22. bxa6 Nxa6 23. Qb1 d5 24. Rb5 Nd7 25. Rxb7 d4 26. cxd4 cxd4 27. Nc4
+Nac5 28. Nd2 Re5 29. Nf3 Nxb7 30. Qxb7 Rb8 31. Qc7 Rc5 32. Qf4 Re8 33. Rxd4 Qf5
+34. Qd6 Nf8 35. Be3 Rcc8 36. Rf4 Qd7 37. Qb4 Ne6 38. Re4 Rb8 0-1
+

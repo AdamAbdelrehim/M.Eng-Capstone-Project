@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Incognizance"]
+[Black "viennadragon"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/mhPy0oq2"]
+[WhiteTitle "CM"]
+[WhiteElo "2354"]
+[BlackElo "2522"]
+[ECO "B76"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:37:20"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. f3 Bg7 7. Be3 O-O 8. Qd2
+Nc6 9. O-O-O d5 10. Qe1 e5 11. Nxc6 bxc6 12. exd5 Nxd5 13. Nxd5 cxd5 14. Bc5
+Be6 15. Bxf8 Qxf8 16. Qa5 Rb8 17. b3 Qe7 18. h4 Qf6 19. c3 Rc8 20. Rd3 e4 21.
+fxe4 dxe4 0-1
+

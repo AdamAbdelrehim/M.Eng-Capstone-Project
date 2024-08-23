@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Savitar088"]
+[Black "drawingchest"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/wrXWN9RU"]
+[BlackTitle "FM"]
+[WhiteElo "2592"]
+[BlackElo "2583"]
+[ECO "E60"]
+[Opening "King's Indian Defense: Normal Variation, King's Knight Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:02:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. Nf3 g6 3. c4 Bg7 4. g3 d6 5. Bg2 O-O 6. O-O a6 7. Nc3 c6 8. h3 b5
+9. b3 Bb7 10. Qd3 Nfd7 11. a4 b4 12. Ne4 c5 13. Bb2 Nc6 14. Rad1 Rc8 15. Ba1
+Nxd4 16. Nxd4 Bxe4 17. Qxe4 Bxd4 18. Rxd4 cxd4 19. Qxd4 f6 20. f4 Qb6 0-1
+

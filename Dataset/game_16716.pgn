@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "LUDVIG_CARLSSON"]
+[Black "maracayo"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/s34XyqXi"]
+[WhiteTitle "IM"]
+[BlackTitle "IM"]
+[WhiteElo "2601"]
+[BlackElo "2417"]
+[ECO "B07"]
+[Opening "Czech Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "03:22:00"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+3"]
+[BlackRatingDiff "-3"]
+
+1. d4 d6 2. e4 Nf6 3. Nc3 c6 4. a4 Qa5 5. Bd3 e5 6. Ne2 Be7 7. O-O O-O 8. h3
+Re8 9. Be3 Nbd7 10. Qd2 Qc7 11. a5 Bf8 12. Rfe1 h6 13. Ng3 a6 14. b3 exd4 15.
+Bxd4 c5 16. Be3 Ne5 17. Bf4 Be6 18. Bf1 Rad8 19. Qc1 Nc6 20. Qa3 Nd4 21. Qb2
+Nd7 22. Nge2 Nc6 23. Bh2 g5 24. Ng3 Bg7 25. Nh5 Bd4 26. Rad1 Nce5 27. Rxd4 cxd4
+28. Ne2 d3 29. cxd3 Rc8 30. Nd4 Qc3 31. Qxc3 Rxc3 32. Nxe6 fxe6 33. d4 Nd3 34.
+Bxd3 Rxd3 35. Bxd6 Rxd4 36. e5 Rd3 37. b4 Kf7 38. Rc1 Rd8 39. Rc7 Kg6 40. Ng3
+Rd4 41. Rxb7 h5 42. f3 h4 43. Ne4 Kf5 44. Nc5 Nxe5 45. Bxe5 Kxe5 46. Nxa6 Rd1+
+47. Kh2 Rb1 48. Rb5+ Kf6 49. Nc5 Rdd1 50. Ne4+ Ke7 51. Rb7+ Kd8 52. Nf2 Rf1 53.
+a6 Kc8 54. Rg7 Rxf2 55. a7 Ra2 56. Rg8+ Kb7 57. Rg7+ Ka8 58. f4 Raa1 59. Rg8+
+Kxa7 60. Rg7+ Kb6 61. Rb7+ Kxb7 62. g4 1-0
+

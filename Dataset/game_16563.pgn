@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "cranberry314"]
+[Black "squat2depth"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/H36Yi4ra"]
+[WhiteElo "2542"]
+[BlackElo "2689"]
+[ECO "D51"]
+[Opening "Queen's Gambit Declined: Modern Variation, Knight Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "02:28:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Nbd7 5. e3 Be7 6. Nf3 h6 7. Bh4 O-O 8. Rc1
+c6 9. Bd3 dxc4 10. Bxc4 b5 11. Bd3 a6 12. Bxf6 Nxf6 13. Ne5 Bb7 14. Ne4 Nxe4
+15. Bxe4 Qa5+ 16. Ke2 Qxa2 17. Qc2 Qa5 18. Nxc6 Bxc6 19. Bxc6 Rac8 20. Qe4 Qb4
+21. Rc2 a5 22. Rhc1 a4 23. Kf1 a3 24. bxa3 Qxa3 25. Bxb5 Qxc1+ 26. Rxc1 Rxc1+
+27. Ke2 Bf6 28. Bd3 g6 29. Kf3 h5 30. g3 Kg7 31. h4 Rb8 32. d5 exd5 33. Qxd5
+Rd1 34. Qe4 Rb2 35. Bc4 Rdd2 36. Qe8 Rxf2+ 37. Ke4 Rb7 38. Bd5 Re7+ 0-1
+

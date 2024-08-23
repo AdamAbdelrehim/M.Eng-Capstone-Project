@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "domore"]
+[Black "YOGG"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/0lUo2iZr"]
+[WhiteElo "2454"]
+[BlackElo "2539"]
+[ECO "B40"]
+[Opening "Sicilian Defense: Delayed Alapin Variation, with e6"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:44:52"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+6"]
+
+1. e4 c5 2. Nf3 e6 3. c3 d5 4. exd5 Qxd5 5. d4 Nf6 6. Be3 cxd4 7. cxd4 Nc6 8.
+Nc3 Qd6 9. Bd3 Be7 10. O-O O-O 11. Rc1 a6 12. Qe2 b5 13. a3 Bb7 14. Rfd1 Rac8
+15. Bb1 Na5 16. Ne5 Nb3 17. Rc2 Rfd8 18. Ng4 Nd5 19. Nxd5 Qxd5 20. Rxc8 Qxg2#
+0-1
+

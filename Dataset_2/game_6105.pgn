@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.09.01"]
+[Round "-"]
+[White "mister2X"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rnb1kbnr/pp4pp/5p2/1B1pp3/3P4/2B5/P1P2PPP/RN1QK1NR b KQkq -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Polish-Opening-Bugayev-Advance-Variation"]
+[UTCDate "2022.09.01"]
+[UTCTime "19:03:55"]
+[WhiteElo "1713"]
+[BlackElo "1772"]
+[TimeControl "600"]
+[Termination "mister2X won by resignation"]
+[StartTime "19:03:55"]
+[EndDate "2022.09.01"]
+[EndTime "19:04:51"]
+[Link "https://www.chess.com/game/live/55797919035"]
+
+1. b4 { [%clk 0:09:59.4] } 1... e5 { [%clk 0:09:55] } 2. Bb2
+{ [%clk 0:09:58.1] } 2... f6 { [%clk 0:09:48.9] } 3. b5 { [%clk 0:09:56.2] }
+3... d5 { [%clk 0:09:47.8] } 4. e3 { [%clk 0:09:54.9] } 4... c5
+{ [%clk 0:09:43.4] } 5. d4 { [%clk 0:09:53.5] } 5... cxd4 { [%clk 0:09:41.8] }
+6. exd4 { [%clk 0:09:51.2] } 6... Qa5+ { [%clk 0:09:36.8] } 7. Bc3
+{ [%clk 0:09:42.6] } 7... Qxb5 { [%clk 0:09:32.1] } 8. Bxb5+
+{ [%clk 0:09:39.6] } 1-0
+

@@ -1,0 +1,30 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.09.07"]
+[Round "-"]
+[White "KevinB98"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1bq1bnr/pppk2pp/8/3pQ3/8/3BP3/PPP2PPP/RNB1K2R w KQ -"]
+[Timezone "UTC"]
+[ECO "D00"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-1...d5-2.e3"]
+[UTCDate "2023.09.07"]
+[UTCTime "04:52:10"]
+[WhiteElo "1982"]
+[BlackElo "1968"]
+[TimeControl "600"]
+[Termination "KevinB98 won by resignation"]
+[StartTime "04:52:10"]
+[EndDate "2023.09.07"]
+[EndTime "04:53:01"]
+[Link "https://www.chess.com/game/live/87801131431"]
+
+1. e3 { [%clk 0:10:00] } 1... d5 { [%clk 0:09:46.9] } 2. d4
+{ [%clk 0:09:59.9] } 2... Nc6 { [%clk 0:09:43.2] } 3. Nf3 { [%clk 0:09:59.3] }
+3... f6 { [%clk 0:09:40.5] } 4. Bd3 { [%clk 0:09:58.6] } 4... e5
+{ [%clk 0:09:38.6] } 5. dxe5 { [%clk 0:09:57.3] } 5... Nxe5
+{ [%clk 0:09:32.2] } 6. Nxe5 { [%clk 0:09:56.3] } 6... fxe5
+{ [%clk 0:09:31.6] } 7. Qh5+ { [%clk 0:09:55.8] } 7... Ke7 { [%clk 0:09:24.9] }
+8. Qxe5+ { [%clk 0:09:54.6] } 8... Kd7 { [%clk 0:09:23.3] } 1-0
+

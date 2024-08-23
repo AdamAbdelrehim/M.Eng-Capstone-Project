@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "LittlePawnFriends"]
+[Black "Ropatsch"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/LfOlC4rB"]
+[WhiteElo "2500"]
+[BlackElo "2459"]
+[ECO "A52"]
+[Opening "Indian Defense: Budapest Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "08:24:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. d4 Nf6 2. c4 e5 3. dxe5 Ng4 4. e3 Nxe5 5. f4 Nec6 6. Nf3 g6 7. Nc3 Bg7 8.
+Bd2 O-O 9. Bd3 d6 10. e4 Nd7 11. O-O Nc5 12. Bc2 a5 13. Qe2 Bg4 14. h3 Nd4 15.
+Qd1 Nxf3+ 16. Rxf3 Bxf3 17. Qxf3 c6 18. Rd1 Qb6 19. Kh2 Qxb2 20. Bb1 Rae8 21.
+f5 Be5+ 22. Kh1 Nd7 23. Ne2 Bg7 24. Qf2 Re7 25. Bxa5 Rfe8 26. Bc7 Rxe4 27. Bxe4
+Rxe4 28. fxg6 hxg6 29. Rf1 f5 30. Ng3 Qxf2 31. Rxf2 Rxc4 32. Bxd6 Rc1+ 33. Kh2
+Be5 34. Bxe5 Nxe5 35. Rb2 b5 36. a4 bxa4 37. Ra2 Rc4 38. Ne2 Nd3 39. Ra3 Nc5
+40. Kg3 g5 41. Kh2 Rb4 42. Ng3 f4 43. Nf5 Kf7 44. Rc3 Ne4 45. Rxc6 Rb2 46. Ra6
+f3 47. Ne3 Re2 48. Rxa4 Rxe3 49. gxf3 Nf6 50. Kg3 Kg6 51. Ra6 Kf5 52. Ra5+ Re5
+53. Ra6 Nh5+ 54. Kf2 Nf4 55. Kg3 Re2 56. Ra5+ Kg6 57. h4 Rg2# 0-1
+

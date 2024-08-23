@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "gtomov"]
+[Black "DTimofey"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/UH5c6ker"]
+[WhiteElo "2452"]
+[BlackElo "2505"]
+[ECO "C47"]
+[Opening "Four Knights Game: Scotch Variation, Schmid Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "12:40:41"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 exd4 5. Nxd4 Nxe4 6. Nxe4 Qe7 7. Bd3 Nxd4
+8. O-O d5 9. Ng5 Ne6 10. Re1 Bd7 11. Qf3 h6 12. Qh5 g6 13. Bxg6 hxg5 14. Qxh8
+fxg6 15. Qe5 O-O-O 16. Qxd5 Qc5 17. Qxc5 Bxc5 18. c3 Bd6 19. g3 g4 20. Bd2 Rf8
+21. Rad1 Nc5 22. Bg5 Rf7 23. Rd4 b6 24. Bf4 Ne6 25. Rxd6 Nxf4 26. Rd4 Nh3+ 27.
+Kg2 Rxf2+ 0-1
+

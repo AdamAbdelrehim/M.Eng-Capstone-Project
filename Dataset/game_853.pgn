@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Ruoxiax"]
+[Black "MrTroutstanding"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/MT8FSCQL"]
+[WhiteElo "2600"]
+[BlackElo "2511"]
+[ECO "A07"]
+[Opening "King's Indian Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "04:58:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+7"]
+
+1. Nf3 d5 2. g3 Bf5 3. Bg2 e6 4. O-O Nf6 5. c4 c6 6. Qb3 Qc8 7. d3 Nbd7 8. cxd5
+exd5 9. Nc3 Be7 10. e4 Nc5 11. Qd1 dxe4 12. dxe4 Nfxe4 13. Nxe4 Bxe4 14. Re1
+O-O 15. Be3 Bd5 16. Rc1 Ne6 17. Bh3 Bf6 18. Nd4 Re8 19. b4 Bxd4 20. Bxd4 Nxd4
+21. Rxe8+ Qxe8 22. Qxd4 Bxa2 23. Ra1 Bd5 24. b5 a5 25. b6 h6 26. Bf1 Qe4 27.
+Qxe4 Bxe4 28. Re1 Bd5 29. Re7 Rb8 30. Bg2 Bxg2 31. Kxg2 a4 32. Re3 Ra8 33. Ra3
+Ra6 34. Kf3 Kf8 35. Ke4 Ke7 36. Kd4 Kd6 37. Kc4 Rxb6 38. Rxa4 Ra6 39. Rb4 b5+
+40. Kd3 Ra2 41. Ke3 c5 42. Rf4 f6 43. Rg4 g5 44. Re4 b4 45. Re8 b3 46. Rb8 c4
+47. Kd4 Rc2 48. Rb6+ Ke7 49. Rb7+ Ke6 50. Rb6+ Kf5 51. f3 Rxh2 52. Rb5+ Kg6 53.
+g4 Rf2 54. Ke3 Rc2 55. Kd4 b2 56. Ke3 c3 57. f4 Rc1 58. Rb7 gxf4+ 59. Kxf4 b1=Q
+60. Rxb1 Rxb1 61. Ke4 c2 62. Kf3 c1=Q 63. Ke4 Qc4+ 64. Kf3 Rb3+ 65. Kf2 Qc2+
+66. Kg1 Rb1# 0-1
+

@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "imdejong"]
+[Black "rigondo"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/TKiGmj8e"]
+[WhiteTitle "IM"]
+[WhiteElo "2519"]
+[BlackElo "2454"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense: Breyer Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "11:58:00"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-7"]
+[BlackRatingDiff "+6"]
+
+1. e4 c6 2. d3 d5 3. Nd2 Qc7 4. Ngf3 Bg4 5. h3 Bh5 6. Be2 e6 7. O-O Nf6 8. Re1
+Be7 9. c3 O-O 10. e5 Nfd7 11. d4 c5 12. Nf1 Nc6 13. Ng3 Bg6 14. a3 Rac8 15. Be3
+cxd4 16. cxd4 Qb6 17. b4 a6 18. h4 h6 19. h5 Bh7 20. Bd3 Bxd3 21. Qxd3 Qb5 22.
+Qd2 Nxb4 23. axb4 Bxb4 24. Qd1 Bxe1 25. Nxe1 Nb6 26. Qg4 Kh8 27. f4 Nc4 28. Bf2
+Qb2 29. Rd1 f5 30. exf6 Rxf6 31. f5 Nd6 32. Nf3 Qc2 33. Rf1 Nxf5 34. Nxf5 Qxf5
+35. Qg3 Qf4 36. Qh3 Qf5 37. Qh2 Qf4 38. Bg3 Qe3+ 39. Kh1 Rc2 40. Be5 Rxf3 41.
+gxf3 Rxh2+ 42. Kxh2 Qe2+ 43. Kg1 a5 44. Rf2 Qe3 45. Kf1 Qd3+ 46. Kg2 a4 47. f4
+a3 48. Ra2 Qb3 49. Rf2 Qb2 0-1
+

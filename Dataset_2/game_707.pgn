@@ -1,0 +1,28 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.03.09"]
+[Round "-"]
+[White "Jackga217"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r1b1k1nr/pppp1ppp/2n5/4p1B1/2BbP3/8/PPP2PPP/RN1QK2R b KQkq -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Giuoco-Piano-Game"]
+[UTCDate "2021.03.09"]
+[UTCTime "03:29:23"]
+[WhiteElo "1180"]
+[BlackElo "1342"]
+[TimeControl "1800"]
+[Termination "Jackga217 won by resignation"]
+[StartTime "03:29:23"]
+[EndDate "2021.03.09"]
+[EndTime "03:30:11"]
+[Link "https://www.chess.com/game/live/8999749581"]
+
+1. e4 { [%clk 0:30:00] } 1... e5 { [%clk 0:30:00] } 2. Nf3 { [%clk 0:29:58.5] }
+2... Nc6 { [%clk 0:29:58.1] } 3. Bc4 { [%clk 0:29:56] } 3... Bc5
+{ [%clk 0:29:48.1] } 4. Ng5 { [%clk 0:29:52.1] } 4... Qxg5 { [%clk 0:29:39.5] }
+5. d4 { [%clk 0:29:45.5] } 5... Bxd4 { [%clk 0:29:34.8] } 6. Bxg5
+{ [%clk 0:29:42.2] } 1-0
+

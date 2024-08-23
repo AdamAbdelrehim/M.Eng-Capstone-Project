@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Blitz_Nik"]
+[Black "BolvanBolvan"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/oLwbeWyh"]
+[WhiteElo "2398"]
+[BlackElo "2548"]
+[ECO "A02"]
+[Opening "Bird Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:09:15"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. f4 d6 2. Nf3 Nc6 3. e4 e5 4. Bc4 Be7 5. d3 Nf6 6. Nc3 O-O 7. O-O Na5 8. Bb5
+c6 9. Ba4 b5 10. Bb3 Nxb3 11. axb3 Qc7 12. Qe1 Re8 13. Kh1 b4 14. Ne2 Bf8 15.
+f5 a5 16. g4 d5 17. g5 dxe4 18. gxf6 exf3 19. Rxf3 c5 20. Ng3 Bb7 21. Ne4 Ra6
+22. fxg7 Bxg7 23. Qg3 Kh8 24. Bg5 f6 25. Bh4 Rg8 26. Rg1 Qf7 27. Qg2 a4 28.
+bxa4 c4 29. Rg3 b3 30. cxb3 cxd3 31. Rg4 Rb6 32. h3 Rxb3 33. Kh2 Rb4 34. Qf3
+Rxa4 35. Qe3 Rd4 36. Nxf6 Rxg4 37. Nxg4 Qxf5 38. Bg3 e4 39. Bf4 Rd8 40. Bg5 Rd7
+41. Bf6 Bxf6 42. Nh6 Qe5+ 43. Kh1 Bg7 0-1
+

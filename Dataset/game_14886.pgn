@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ISEECOMPENSATION"]
+[Black "Sirmarilian"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/qls2nvbK"]
+[WhiteElo "2502"]
+[BlackElo "2438"]
+[ECO "A00"]
+[Opening "Barnes Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:18:42"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-4"]
+
+1. f3 e6 2. Kf2 d5 3. e3 h5 4. d4 Nf6 5. c4 c5 6. Nc3 Nc6 7. cxd5 e5 8. dxc6
+cxd4 9. c7 Qxc7 10. Nb5 Qb6 11. exd4 exd4 12. Nxd4 Bc5 13. Be3 O-O 14. Bc4 Re8
+15. Nge2 Be6 16. Bxe6 Rxe6 17. Qb3 Rxe3 18. Kxe3 Re8+ 19. Kd3 Qd6 20. Rad1 Rc8
+21. Rc1 Rd8 22. Qc4 Bb6 23. Kc3 Nd5+ 24. Kb3 Ne3 25. Qd3 Qd5+ 26. Ka3 Qa5+ 27.
+Kb3 Qd5+ 28. Rc4 Nxc4 29. Qxc4 Bxd4 30. Qxd5 Rxd5 31. Rd1 Rb5+ 32. Kc4 Rxb2 33.
+Nxd4 Rxg2 34. a4 Rxh2 35. Rb1 Ra2 36. Kb3 Rf2 37. Kc3 Ra2 38. Rxb7 Rxa4 39.
+Rb8+ Kh7 40. Rb7 Ra3+ 41. Kd2 Ra2+ 42. Ke3 Ra3+ 43. Ke4 a5 44. Rxf7 Ra4 45. Ra7
+Kg6 46. Ke5 Rb4 47. f4 a4 48. f5+ Kg5 49. Rxg7+ Kh4 50. f6 a3 51. f7 Rb8 52.
+Rg8 a2 53. Rxb8 a1=Q 54. f8=Q Qe1+ 55. Kd5 Qa5+ 56. Rb5 Qa2+ 57. Ke4 Qb1+ 58.
+Rxb1 1-0
+

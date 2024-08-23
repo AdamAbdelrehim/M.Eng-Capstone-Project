@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "yannay_2004"]
+[Black "DmitryAkimov"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/xkYs4aZJ"]
+[WhiteElo "2619"]
+[BlackElo "2599"]
+[ECO "C60"]
+[Opening "Ruy Lopez: Cozio Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:50:21"]
+[Termination "Normal"]
+[WhiteRatingDiff "+18"]
+[BlackRatingDiff "-5"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. Nc3 Ng6 5. h4 Bc5 6. Nd5 d6 7. h5 Ne7 8. h6
+g6 9. d4 exd4 10. Bg5 1-0
+

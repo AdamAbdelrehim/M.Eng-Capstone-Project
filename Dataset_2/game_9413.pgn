@@ -1,0 +1,38 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.09"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "PabloPorta"]
+[Result "0-1"]
+[CurrentPosition "rn4k1/ppp3pp/8/3p4/3P4/5rq1/PPP5/RNBQ3K w - -"]
+[Timezone "UTC"]
+[ECO "C41"]
+[ECOUrl "https://www.chess.com/openings/Philidor-Defense-Lopez-Countergambit"]
+[UTCDate "2023.06.09"]
+[UTCTime "00:52:19"]
+[WhiteElo "1780"]
+[BlackElo "1856"]
+[TimeControl "180"]
+[Termination "PabloPorta won by resignation"]
+[StartTime "00:52:19"]
+[EndDate "2023.06.09"]
+[EndTime "00:53:40"]
+[Link "https://www.chess.com/game/live/80010698113"]
+
+1. e4 { [%clk 0:03:00] } 1... e5 { [%clk 0:02:59.9] } 2. Nf3
+{ [%clk 0:02:58.3] } 2... d6 { [%clk 0:02:59.8] } 3. Bc4 { [%clk 0:02:57.6] }
+3... f5 { [%clk 0:02:59] } 4. exf5 { [%clk 0:02:53.8] } 4... Bxf5
+{ [%clk 0:02:58.9] } 5. d4 { [%clk 0:02:52.2] } 5... e4 { [%clk 0:02:58.1] } 6.
+Nfd2 { [%clk 0:02:51.2] } 6... d5 { [%clk 0:02:56.4] } 7. Be2
+{ [%clk 0:02:48.1] } 7... Nf6 { [%clk 0:02:54.8] } 8. O-O { [%clk 0:02:47.6] }
+8... Bd6 { [%clk 0:02:54] } 9. f3 { [%clk 0:02:45.1] } 9... O-O
+{ [%clk 0:02:52.6] } 10. fxe4 { [%clk 0:02:43.1] } 10... Nxe4
+{ [%clk 0:02:52.5] } 11. Nxe4 { [%clk 0:02:41.7] } 11... Bxe4
+{ [%clk 0:02:52.4] } 12. Bf3 { [%clk 0:02:37.8] } 12... Qh4
+{ [%clk 0:02:48.6] } 13. g3 { [%clk 0:02:16.1] } 13... Bxg3
+{ [%clk 0:02:46.9] } 14. hxg3 { [%clk 0:02:16] } 14... Qxg3+
+{ [%clk 0:02:46.4] } 15. Kh1 { [%clk 0:02:14.8] } 15... Bxf3+
+{ [%clk 0:02:44.6] } 16. Rxf3 { [%clk 0:02:12.5] } 16... Rxf3
+{ [%clk 0:02:44.5] } 0-1
+

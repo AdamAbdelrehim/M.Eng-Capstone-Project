@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "takacsbl"]
+[Black "madddy"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/6Fwlc3ld"]
+[WhiteElo "2622"]
+[BlackElo "2557"]
+[ECO "C41"]
+[Opening "Philidor Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:37:53"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Nxd4 Nf6 5. Nc3 Be7 6. g3 d5 7. e5 Ng4 8. f4
+O-O 9. h3 Nh6 10. Nf3 c6 11. Bg2 f6 12. exf6 Bxf6 13. O-O Nf5 14. g4 Ng3 15.
+Re1 Na6 16. Kh2 Bxc3 17. bxc3 Ne4 18. c4 Qf6 19. Be3 dxc4 20. Ne5 Nc3 21. Qd4
+Nd5 22. Bxd5+ cxd5 23. Qxd5+ Kh8 24. Qxc4 Be6 25. Qb5 Rac8 26. c4 g5 27. Nf3
+Bxc4 28. Qxb7 Qc6 29. Bd4+ 1-0
+

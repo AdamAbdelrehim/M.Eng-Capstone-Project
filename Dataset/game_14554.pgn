@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "PetersBot"]
+[Black "SolistaBot"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/LgCYfglu"]
+[WhiteTitle "BOT"]
+[BlackTitle "BOT"]
+[WhiteElo "2973"]
+[BlackElo "3020"]
+[ECO "C92"]
+[Opening "Ruy Lopez: Closed, Flohr System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:36:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "+0"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Re1 b5 7. Bb3 d6 8. c3
+O-O 9. h3 Bb7 10. d4 Re8 11. Nbd2 Bf8 12. a4 Na5 13. Bc2 exd4 14. cxd4 b4 15.
+b3 g6 16. Bb2 Bg7 17. Rb1 Rc8 18. Bd3 d5 19. e5 Nd7 20. Qe2 c5 21. Bxa6 Bxa6
+22. Qxa6 c4 23. bxc4 dxc4 24. Ne4 Rb8 25. Nd6 Re6 26. Bc1 h6 27. Bd2 c3 28.
+Bxc3 bxc3 29. Rxb8 Nxb8 30. Qd3 Nac6 31. Qc4 Nxd4 32. Nxd4 Rxe5 33. Rxe5 Bxe5
+34. Qxf7+ Kh8 35. Qxg6 Qxd6 36. Qe8+ Kh7 37. Qf7+ Kh8 38. Qe8+ Kh7 39. Qf7+ Kh8
+40. Qe8+ 1/2-1/2
+

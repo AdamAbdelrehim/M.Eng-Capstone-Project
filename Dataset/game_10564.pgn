@@ -1,0 +1,31 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Strongmama1"]
+[Black "silence404"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/YOqblEZO"]
+[WhiteElo "2634"]
+[BlackElo "2766"]
+[ECO "B22"]
+[Opening "Sicilian Defense: Alapin Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "11:00:14"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+3"]
+
+1. e4 c5 2. c3 Nf6 3. e5 Nd5 4. Nf3 e6 5. Bc4 Nc6 6. d4 cxd4 7. cxd4 d6 8. O-O
+Be7 9. Qe2 O-O 10. Rd1 Qc7 11. Bd2 dxe5 12. dxe5 Rd8 13. Nc3 Nxc3 14. Bxc3 Bd7
+15. Rac1 Be8 16. h4 Rxd1+ 17. Qxd1 Rd8 18. Qe2 Qb6 19. Ng5 h6 20. Ne4 Nd4 21.
+Qg4 Nf5 22. h5 Bc6 23. Qf4 Bxe4 24. Qxe4 Bc5 25. Qf4 Bd4 26. g4 Bxc3 27. bxc3
+Ne7 28. Re1 Qb2 29. Re3 Qc1+ 30. Kg2 Rd1 31. Qh2 Qxe3 32. fxe3 Rd2+ 33. Kg3
+Rxh2 34. Kxh2 Nc6 35. Kg3 Nxe5 36. Be2 Kf8 37. Kf4 Nd7 38. g5 Ke7 39. gxh6 gxh6
+40. Bf3 Kd6 41. Bxb7 Nc5 42. Bf3 a5 43. Bd1 Nd3+ 44. Kf3 Ke5 45. Bc2 Nc5 46. a3
+f5 47. Kg3 Nd7 48. Kf2 Nf6 49. Bd1 Ne4+ 50. Ke1 Nxc3 51. Bf3 Nb5 52. a4 Nc3 53.
+Bc6 Kd6 54. Be8 Kc5 55. Kd2 Kb4 56. Kd3 Nxa4 57. Kd4 Nc5 58. Ke5 a4 59. e4 fxe4
+60. Kd4 a3 61. Bf7 a2 62. Ke5 a1=Q+ 63. Kd6 Qf6 64. Bg6 e5+ 65. Kd5 e3 66. Bc2
+e2 67. Bd3 e1=Q 68. Be4 Qd2+ 69. Bd3 Qxd3# 0-1
+

@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "DeepBlue44"]
+[Black "JoaoAfonso"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/aYONHR1E"]
+[WhiteElo "2388"]
+[BlackElo "2548"]
+[ECO "A02"]
+[Opening "Bird Opening: From's Gambit"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "16:26:43"]
+[Termination "Normal"]
+[WhiteRatingDiff "+8"]
+[BlackRatingDiff "-8"]
+
+1. f4 e5 2. Nf3 exf4 3. d4 g5 4. h4 g4 5. Ne5 d6 6. Nd3 Be7 7. Bxf4 Bxh4+ 8. g3
+Bg5 9. Bg2 d5 10. Nc3 c6 11. e4 Be6 12. Qe2 Bxf4 13. Nxf4 Nf6 14. exd5 cxd5 15.
+Nxe6 fxe6 16. Qxe6+ Qe7 17. Qxe7+ Kxe7 18. Nxd5+ Nxd5 19. Bxd5 Nd7 20. O-O-O
+Rab8 21. Rde1+ Kd6 22. Be4 h5 23. Bf5 Nb6 24. Re6+ Kc7 25. Rhe1 Rbf8 26. Re7+
+Kb8 27. Be4 Re8 28. Rxb7+ Kc8 29. Rxa7 Rhf8 30. Bf5+ Kb8 31. Rxe8+ Rxe8 32. Rh7
+Nc4 33. c3 Re1+ 34. Kc2 Rf1 35. Rh8+ Kb7 36. Bc8+ Kb6 37. Kb3 Nd2+ 38. Ka3 Nc4+
+39. Kb4 Nxb2 40. Rxh5 Rf3 41. Bxg4 Rxg3 42. Bf5 Nd1 43. Rh6+ Kc7 44. c4 Ne3 45.
+Rf6 Rf3 46. Rf7+ Kb6 47. c5+ 1-0
+

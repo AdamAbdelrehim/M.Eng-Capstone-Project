@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "LUDVIG_CARLSSON"]
+[Black "dr-x17"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/M1NFej8N"]
+[WhiteTitle "IM"]
+[WhiteElo "2608"]
+[BlackElo "2345"]
+[ECO "B10"]
+[Opening "Caro-Kann Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "00:03:30"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-3"]
+
+1. e4 c6 2. Nf3 d5 3. d3 e6 4. Nbd2 Nf6 5. g3 Be7 6. Bg2 O-O 7. O-O Nbd7 8. e5
+Ne8 9. Re1 c5 10. Nf1 Nc7 11. h4 Re8 12. Bf4 Nf8 13. h5 b6 14. N1h2 Bb7 15. Ng4
+d4 16. h6 g6 17. Qd2 Nd5 18. Bg5 Rc8 19. Bxe7 Qxe7 20. Ng5 Ne3 21. Nf6+ Qxf6
+22. exf6 Nxg2 23. Re4 1-0
+

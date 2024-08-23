@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Greifax"]
+[Black "alex12115"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/wMY5hewQ"]
+[WhiteElo "2584"]
+[BlackElo "2411"]
+[ECO "A13"]
+[Opening "English Opening: Neo-Catalan Declined"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:26:26"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+9"]
+
+1. Nf3 d5 2. g3 Nf6 3. Bg2 e6 4. c4 Be7 5. b3 O-O 6. Bb2 dxc4 7. bxc4 c5 8. Nc3
+Nc6 9. d3 a6 10. Rb1 Qc7 11. O-O b6 12. Ng5 Bb7 13. Na4 b5 14. cxb5 axb5 15.
+Bxf6 gxf6 16. Rxb5 fxg5 17. Nxc5 Bxc5 18. Rxc5 Qd6 19. Rxg5+ Kh8 20. Qb3 Rab8
+21. e3 Ba8 22. Qc3+ f6 23. Rc5 Ne5 24. f4 Ng4 25. d4 Bxg2 26. Kxg2 Ra8 27. a3
+Qa6 28. Re1 Qxa3 29. h3 Qa2+ 30. Qc2 Nh6 31. g4 Nf7 32. Re2 Qxc2 33. Rexc2 Nd6
+34. Rc6 Rad8 35. Kf3 Rfe8 36. Rb6 Rd7 37. Rcc6 Red8 38. e4 Nf7 39. Rxe6 Rxd4
+40. Rxf6 Rd3+ 41. Kg2 Kg7 42. e5 Re3 43. Kf2 Ra3 44. Rb7 Rd2+ 45. Ke1 Rh2 46.
+Rfxf7+ Kg8 47. Ra7 Rxa7 48. Rxa7 Rxh3 49. Kf2 Kf8 50. g5 Ke8 51. f5 Rh5 52. f6
+Rxg5 0-1
+

@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "EinHellesBitte"]
+[Black "NothingSpecialBTW"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/eUw0I0FW"]
+[WhiteElo "2412"]
+[BlackElo "2507"]
+[ECO "C16"]
+[Opening "French Defense: Winawer Variation, Advance Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "22:02:58"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. e5 b6 5. Bd2 Ne7 6. f4 c5 7. Nb5 Bxd2+ 8. Qxd2
+O-O 9. Nf3 Ba6 10. Nd6 Bxf1 11. Rxf1 Nc8 12. Nxc8 Qxc8 13. O-O-O Nc6 14. g4
+cxd4 15. f5 exf5 16. gxf5 Qxf5 17. Nxd4 Qd7 18. Nf5 Nxe5 19. Nxg7 Kxg7 20. Qd4
+f6 21. Rf4 Rac8 22. Rg1+ Kh8 23. Rgf1 Rc4 0-1
+

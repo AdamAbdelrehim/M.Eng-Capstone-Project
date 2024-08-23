@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Mettigel"]
+[Black "DonkinDonat"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/nCXaWNtu"]
+[WhiteElo "2468"]
+[BlackElo "2662"]
+[ECO "B21"]
+[Opening "Sicilian Defense: Smith-Morra Gambit Accepted, Paulsen Formation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "16:32:33"]
+[Termination "Normal"]
+[WhiteRatingDiff "+9"]
+[BlackRatingDiff "-9"]
+
+1. e4 c5 2. d4 cxd4 3. c3 dxc3 4. Nxc3 e6 5. Nf3 Nc6 6. Bc4 a6 7. O-O b5 8. Bb3
+Na5 9. Nd4 Nxb3 10. Nxb3 Bb7 11. Re1 Nf6 12. e5 Nd5 13. Ne4 Be7 14. Nbc5 Bc6
+15. Bd2 O-O 16. Rc1 f5 17. exf6 Nxf6 18. Nxf6+ Rxf6 19. Nxe6 Qe8 20. Nc7 Qg6
+21. Rxc6 1-0
+

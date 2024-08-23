@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "The-Flash"]
+[Black "guandr"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/FO7v0Kb4"]
+[WhiteElo "2462"]
+[BlackElo "2568"]
+[ECO "B90"]
+[Opening "Sicilian Defense: Najdorf Variation, Lipnitsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "04:20:11"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-8"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 a6 6. Bc4 e6 7. Bb3 Nbd7 8.
+O-O Nc5 9. Re1 b5 10. f4 b4 11. Nd5 Ncxe4 12. Nxf6+ Nxf6 13. Qf3 Bd7 14. Nxe6
+fxe6 15. Bxe6 Bxe6 16. Rxe6+ Be7 17. Qb3 d5 18. Bd2 O-O 19. Rae1 Bc5+ 20. Kh1
+Ne4 21. R6xe4 1-0
+

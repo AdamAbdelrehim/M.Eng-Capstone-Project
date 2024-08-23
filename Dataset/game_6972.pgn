@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "SeekingTactics"]
+[Black "Alpha_Zero_System"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/nMcVF6kR"]
+[WhiteElo "2416"]
+[BlackElo "2522"]
+[ECO "B76"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "20:56:45"]
+[Termination "Normal"]
+[WhiteRatingDiff "-12"]
+[BlackRatingDiff "+4"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+d5 9. exd5 Nxd5 10. Nxd5 Qxd5 11. c4 Qd6 12. O-O-O Nc6 13. Nxc6 Qxc6 14. Kb1
+Bf5+ 15. Ka1 h5 16. Be2 Rfd8 17. Qxd8+ Rxd8 18. Rxd8+ Kh7 19. Bd4 Qc7 20. Rd5
+e6 21. Rc5 Qb6 0-1
+

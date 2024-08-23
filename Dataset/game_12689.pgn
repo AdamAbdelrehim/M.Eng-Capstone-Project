@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Fleetwood_Mac"]
+[Black "vointeka"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/EivCGkSO"]
+[WhiteTitle "FM"]
+[WhiteElo "2506"]
+[BlackElo "2585"]
+[ECO "C00"]
+[Opening "French Defense: Queen's Knight"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "15:59:59"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. e4 e6 2. Nc3 d5 3. g3 d4 4. Nce2 Nc6 5. f4 e5 6. d3 Bb4+ 7. c3 dxc3 8. bxc3
+Bc5 9. fxe5 Bxg1 10. Nxg1 Nxe5 11. d4 Bg4 12. Qb3 Nf3+ 13. Kf2 Nxg1 14. Kxg1
+Nf6 15. Ba3 Bf3 16. Qxb7 Bxe4 17. Bb5+ 1-0
+

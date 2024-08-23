@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "downward"]
+[Black "Knights4base"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/KcSRXaNm"]
+[BlackTitle "IM"]
+[WhiteElo "2360"]
+[BlackElo "2557"]
+[ECO "A04"]
+[Opening "Zukertort Opening: Kingside Fianchetto"]
+[TimeControl "300+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "23:13:50"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. Nf3 g6 2. c4 Bg7 3. Nc3 e5 4. g3 Nc6 5. Bg2 d6 6. O-O Bg4 7. d3 Qd7 8. Nd5
+Nce7 9. Qb3 c6 10. Nxe7 Nxe7 11. Bg5 O-O 12. Bxe7 Qxe7 13. Qa4 e4 14. dxe4 Qxe4
+15. Qc2 Qxc2 0-1
+

@@ -1,0 +1,23 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "ArieWerksma"]
+[Black "John1914"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Rt6MUYXe"]
+[WhiteElo "2553"]
+[BlackElo "2474"]
+[ECO "C02"]
+[Opening "French Defense: Advance Variation, Paulsen Attack"]
+[TimeControl "600+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "14:25:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Nge7 6. Bd3 Ng6 7. O-O Qb6 8. b3
+Bd7 9. Be3 cxd4 10. cxd4 Be7 11. Nc3 O-O 12. Na4 Qd8 13. Rc1 Rc8 14. Nc5 Ncxe5
+1-0
+

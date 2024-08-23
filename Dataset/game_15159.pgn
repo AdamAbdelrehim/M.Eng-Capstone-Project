@@ -1,0 +1,30 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Attila76"]
+[Black "Wizzardcarlsen"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/ZiCWPXp2"]
+[WhiteTitle "FM"]
+[WhiteElo "2575"]
+[BlackElo "2542"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Accelerated London System"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "20:56:08"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 d5 2. Bf4 e6 3. e3 Nf6 4. Nf3 Bd6 5. Bg3 O-O 6. Nbd2 c5 7. c3 Qc7 8. Ne5
+Nbd7 9. f4 b5 10. Rc1 c4 11. Be2 b4 12. cxb4 Bxb4 13. O-O Bxd2 14. Qxd2 Ne4 15.
+Qc2 Nxg3 16. hxg3 Nf6 17. b3 Ba6 18. bxc4 dxc4 19. Bxc4 Bxc4 20. Qxc4 Qxc4 21.
+Rxc4 Nd5 22. e4 Ne3 23. Rfc1 Nxc4 24. Rxc4 Rac8 25. Ra4 Rc7 26. Nd3 Rd8 27. Nc5
+Rdc8 28. Kf2 g6 29. g4 Kg7 30. g5 h6 31. gxh6+ Kxh6 32. g4 Kg7 33. g5 Rxc5 34.
+dxc5 Rxc5 35. Rxa7 Rc2+ 36. Ke3 Rc3+ 37. Kd4 Rc1 38. a4 Rd1+ 39. Ke5 Ra1 40. a5
+Ra3 41. a6 Ra5+ 42. Kd6 Ra4 43. Ra8 Rxe4 44. Kc7 Ra4 45. Kb7 Rb4+ 46. Ka7 Rxf4
+47. Rb8 Rf5 48. Rb6 Rxg5 49. Kb7 Ra5 50. a7 g5 51. Ra6 Rxa6 52. Kxa6 f5 53.
+a8=Q g4 54. Kb5 Kf6 55. Kc4 e5 56. Qd8+ Kg6 57. Kd5 g3 58. Kxe5 1-0
+

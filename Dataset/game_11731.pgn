@@ -1,0 +1,27 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "factorial14"]
+[Black "ALLinAL30"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/B4tH2ujW"]
+[WhiteTitle "FM"]
+[WhiteElo "2579"]
+[BlackElo "2447"]
+[ECO "C55"]
+[Opening "Italian Game: Two Knights Defense, Modern Bishop's Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "13:51:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "-8"]
+[BlackRatingDiff "+8"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. O-O O-O 6. a4 d6 7. Nbd2 Be6 8. Re1
+Re8 9. c3 Qd7 10. b4 h6 11. Bxe6 Qxe6 12. b5 Nb8 13. d4 Bf8 14. d5 Qe7 15. a5
+Nbd7 16. a6 b6 17. Qc2 g6 18. Nf1 Nh5 19. c4 Bg7 20. Ne3 Rf8 21. Rf1 Nf4 22. g3
+Nh5 23. Ne1 Nc5 24. Ba3 Nd7 25. Nd3 f5 26. exf5 gxf5 27. Nb4 f4 28. Ng2 Qg5 29.
+Nc6 Ndf6 30. Rae1 Rf7 31. Bc1 Nh7 32. Nh4 Qg4 33. Qg6 Ng5 34. Kh1 Raf8 35. Rg1
+fxg3 36. fxg3 Rf2 37. Bxg5 Qh3 38. Rg2 Nxg3+ 39. Kg1 Rf1+ 40. Rxf1 Rxf1# 0-1
+

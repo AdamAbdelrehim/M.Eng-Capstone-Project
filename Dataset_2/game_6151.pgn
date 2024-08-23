@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.09.04"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "russellstinson784"]
+[Result "1/2-1/2"]
+[CurrentPosition "rnb1k1nr/pp1p1ppp/1q2p3/2b5/3NP3/2N5/PPP2PPP/R1BQKB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "B40"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Paulsen-Basman-Defense"]
+[UTCDate "2022.09.04"]
+[UTCTime "17:30:15"]
+[WhiteElo "1739"]
+[BlackElo "1722"]
+[TimeControl "600"]
+[Termination "Game drawn by repetition"]
+[StartTime "17:30:15"]
+[EndDate "2022.09.04"]
+[EndTime "17:31:14"]
+[Link "https://www.chess.com/game/live/56051659289"]
+
+1. e4 { [%clk 0:09:46.6] } 1... c5 { [%clk 0:09:57.3] } 2. Nf3
+{ [%clk 0:09:46] } 2... e6 { [%clk 0:09:54.7] } 3. d4 { [%clk 0:09:44.3] } 3...
+cxd4 { [%clk 0:09:52.5] } 4. Nxd4 { [%clk 0:09:44.2] } 4... Bc5
+{ [%clk 0:09:50.6] } 5. Nc3 { [%clk 0:09:41] } 5... Qb6 { [%clk 0:09:47.6] } 6.
+Na4 { [%clk 0:09:30.9] } 6... Qa5+ { [%clk 0:09:45.9] } 7. Nc3
+{ [%clk 0:09:28.2] } 7... Qb6 { [%clk 0:09:44.1] } 8. Na4 { [%clk 0:09:27] }
+8... Qa5+ { [%clk 0:09:41.6] } 9. Nc3 { [%clk 0:09:25.9] } 9... Qb6
+{ [%clk 0:09:39.6] } 1/2-1/2
+

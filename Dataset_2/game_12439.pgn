@@ -1,0 +1,30 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2024.07.11"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "chesskingboy"]
+[Result "0-1"]
+[CurrentPosition "rn2k2r/pp3ppp/2p2B2/3q4/1b1P4/8/PP3PPP/R2QKBNR w KQkq - 1 10"]
+[Timezone "UTC"]
+[ECO "C01"]
+[ECOUrl "https://www.chess.com/openings/French-Defense-Exchange-Monte-Carlo-Variation-4...Nf6-5.Nc3-c6"]
+[UTCDate "2024.07.11"]
+[UTCTime "04:16:42"]
+[WhiteElo "1377"]
+[BlackElo "1519"]
+[TimeControl "1/259200"]
+[Termination "chesskingboy won by resignation"]
+[StartTime "04:16:42"]
+[EndDate "2024.07.19"]
+[EndTime "05:31:34"]
+[Link "https://www.chess.com/game/daily/677943925"]
+
+1. e4 { [%clk 71:59:57] } 1... e6 { [%clk 71:58:55] } 2. d4 { [%clk 71:44:43] }
+2... d5 { [%clk 0:00:00] } 3. exd5 { [%clk 71:59:47] } 3... exd5
+{ [%clk 71:58:35] } 4. c4 { [%clk 70:59:34] } 4... Nf6 { [%clk 44:32:17] } 5.
+Nc3 { [%clk 71:59:47] } 5... c6 { [%clk 71:59:11] } 6. Bg5 { [%clk 71:58:52] }
+6... Be6 { [%clk 48:43:36] } 7. cxd5 { [%clk 71:27:00] } 7... Bxd5
+{ [%clk 58:16:53] } 8. Nxd5 { [%clk 71:58:58] } 8... Qxd5 { [%clk 60:31:48] }
+9. Bxf6 { [%clk 71:59:08] } 9... Bb4+ { [%clk 71:57:32] } 0-1
+

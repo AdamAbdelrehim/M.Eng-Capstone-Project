@@ -1,0 +1,28 @@
+[Event "Blitz swiss https://lichess.org/swiss/fggqDpyM"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Alpha_Zero_System"]
+[Black "Chessmaste"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/1kk9xTvg"]
+[WhiteElo "2529"]
+[BlackElo "2411"]
+[ECO "C68"]
+[Opening "Ruy Lopez: Exchange, Alekhine Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:33:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "-1"]
+[BlackRatingDiff "+2"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d4 exd4 6. Qxd4 Qxd4 7. Nxd4 Bd7
+8. Be3 O-O-O 9. Nd2 Ne7 10. O-O-O f5 11. Nxf5 Nxf5 12. exf5 Bxf5 13. Nb3 Be7
+14. Rxd8+ Rxd8 15. Rd1 Rxd1+ 16. Kxd1 b6 17. Nd4 Bd7 18. Nf3 c5 19. Ne5 Be6 20.
+a3 Bf6 21. f4 g5 22. g3 gxf4 23. Bxf4 h5 24. c3 a5 25. Kd2 Bf5 26. Ke3 Kd8 27.
+Nf3 Kd7 28. Be5 Be7 29. Kf4 Bc2 30. g4 hxg4 31. Kxg4 c6 32. Ng5 b5 33. h4 b4
+34. cxb4 cxb4 35. axb4 axb4 36. h5 Bd1+ 37. Kh4 c5 38. Bg7 c4 39. h6 Bxg5+ 40.
+Kxg5 Bc2 41. Bf8 b3 42. Bg7 Ke6 43. Bc3 Bh7 44. Bd4 Be4 45. Bc3 Bd3 46. Bd4 Bc2
+47. Bc3 Bd3 48. Bd4 Kf7 49. Bc3 Kg8 50. Bd4 Bc2 51. Bc3 Bd3 1/2-1/2
+

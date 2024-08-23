@@ -1,0 +1,29 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Fun4allofus"]
+[Black "shaginyan_a"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/zcg1wiPv"]
+[WhiteElo "2439"]
+[BlackElo "2529"]
+[ECO "C42"]
+[Opening "Russian Game: Nimzowitsch Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:10:26"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+4"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. Nc3 Nxc3 6. dxc3 Be7 7. Bf4 O-O
+8. Qd2 Nd7 9. O-O-O Nc5 10. h4 Re8 11. h5 Ne4 12. Qd4 Bf6 13. Qb4 Nxf2 14. Bd3
+Nxd1 15. Rxd1 c5 16. Qa3 h6 17. Bxd6 Bg4 18. Bxc5 Qc8 19. Bd4 Bxf3 20. gxf3
+Bxd4 21. cxd4 Qh3 22. Rg1 Qxh5 23. Qd6 Re6 24. Qg3 Qg5+ 25. Qxg5 hxg5 26. Rxg5
+Rd8 27. c3 Rh6 28. Rg2 Rh3 29. Be4 g6 30. Bxb7 f5 31. Rxg6+ Kf7 32. Ra6 Rh2 33.
+Rxa7 Kf6 34. Ra6+ Ke7 35. d5 Rg8 36. Re6+ Kd8 37. Re1 Rgg2 38. Bc6 Rc2+ 39. Kb1
+Rxb2+ 40. Ka1 Rxa2+ 41. Kb1 Rhb2+ 42. Kc1 Kc7 43. Re7+ Kd6 44. Rb7 Rf2 45. Kb1
+Rad2 46. Rd7+ Kc5 47. Kc1 Rc2+ 48. Kb1 Rce2 49. Re7 Rxe7 50. Ba4 Re1+ 51. Bd1
+Rxd1# 0-1
+

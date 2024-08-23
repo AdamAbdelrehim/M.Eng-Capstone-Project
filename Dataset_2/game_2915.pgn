@@ -1,0 +1,25 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.11.15"]
+[Round "-"]
+[White "r2d2x"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "rnbqkbnr/pp1ppppp/8/2p5/8/3P1N2/PPP1PPPP/RNBQKB1R b KQkq -"]
+[Timezone "UTC"]
+[ECO "A00"]
+[ECOUrl "https://www.chess.com/openings/Mieses-Opening-1...c5"]
+[UTCDate "2021.11.15"]
+[UTCTime "07:27:20"]
+[WhiteElo "1206"]
+[BlackElo "1184"]
+[TimeControl "60"]
+[Termination "r2d2x won by resignation"]
+[StartTime "07:27:20"]
+[EndDate "2021.11.15"]
+[EndTime "07:27:35"]
+[Link "https://www.chess.com/game/live/30700150649"]
+
+1. d3 { [%clk 0:00:59.8] } 1... c5 { [%clk 0:00:59] } 2. Nf3
+{ [%clk 0:00:59.6] } 1-0
+

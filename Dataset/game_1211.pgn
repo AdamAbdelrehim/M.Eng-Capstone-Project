@@ -1,0 +1,35 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "RaspFish"]
+[Black "yobot_v2"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/2uFisJ1i"]
+[WhiteTitle "BOT"]
+[WhiteElo "3029"]
+[BlackElo "3029"]
+[ECO "E32"]
+[Opening "Nimzo-Indian Defense: Classical Variation"]
+[TimeControl "480+1"]
+[UTCDate "2024.06.01"]
+[UTCTime "06:52:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "+0"]
+[BlackRatingDiff "+0"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qc2 O-O 5. e4 d5 6. e5 Ne4 7. Bd3 c5 8. Nf3
+cxd4 9. Nxd4 Nd7 10. Bf4 Qh4 11. g3 Qh5 12. O-O g5 13. cxd5 Bxc3 14. bxc3 exd5
+15. Be3 Nxe5 16. f3 Nc5 17. Bf5 Ne6 18. g4 Qh6 19. Rae1 Nxd4 20. Bxd4 Nc6 21.
+Be3 Bxf5 22. Qxf5 Qg6 23. Qxg5 Qxg5 24. Bxg5 f6 25. Bf4 Kf7 26. Kf2 Rac8 27.
+Re3 Rfd8 28. h4 Rd7 29. Kg3 Ne7 30. h5 Rc4 31. Rfe1 Ra4 32. R1e2 Rc4 33. Rd3 b5
+34. Rb2 a6 35. Be3 Rd8 36. Rb4 Rdc8 37. Bd2 R8c5 38. Be3 Rc7 39. Bd2 Rc8 40.
+Be1 R8c5 41. f4 Rc8 42. Kf3 R8c7 43. Kg3 Rc8 44. a3 R8c5 45. Kf3 Rc7 46. Rxc4
+Rxc4 47. Bf2 Nc6 48. Kg3 Ke6 49. h6 Re4 50. Kf3 Ra4 51. Bc5 Rc4 52. f5+ Kf7 53.
+Bd6 d4 54. cxd4 Nxd4+ 55. Ke3 Nc2+ 56. Kf2 Rxg4 57. Rc3 Nd4 58. Rc7+ Ke8 59.
+Re7+ Kd8 60. Rxh7 Nxf5 61. Rh8+ Kd7 62. Bb4 Rh4 63. h7 Ng7 64. Bc3 Rh3 65. Bxf6
+Ne6 66. Ke1 Rh1+ 67. Kf2 Rh3 68. Ke1 Rh2 69. Kf1 Rh3 70. Ke2 Kd6 71. Kf1 Rf3+
+72. Ke2 Rh3 73. Kd2 Kd5 74. Bc3 Rh4 75. Ke1 Rh3 76. Bd2 Ke5 77. Bc3+ Kf5 78.
+Kd2 Rh6 79. Kc2 Kg6 80. Kb3 Rxh7 81. Rxh7 Kxh7 82. a4 bxa4+ 83. Kxa4 a5 84. Bd4
+Nxd4 85. Kxa5 1/2-1/2
+

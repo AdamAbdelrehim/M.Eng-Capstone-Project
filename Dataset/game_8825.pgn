@@ -1,0 +1,33 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Look_Dad_I_Just_Grow"]
+[Black "Openingsonly"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/U8ULNr1v"]
+[WhiteElo "2666"]
+[BlackElo "2651"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Short Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "05:33:44"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. e4 c6 2. d4 d5 3. e5 Bf5 4. Nf3 e6 5. Be2 Ne7 6. O-O c5 7. dxc5 Nec6 8. Bg5
+Be7 9. Bxe7 Qxe7 10. c4 dxc4 11. Nbd2 c3 12. bxc3 O-O 13. Nb3 Nd7 14. Qd6 Bg4
+15. Rad1 Rfd8 16. Qc7 Bxf3 17. Bxf3 Ndxe5 18. Qxe7 Nxf3+ 19. gxf3 Nxe7 20. Na5
+b6 21. cxb6 axb6 22. Nb7 Rxd1 23. Rxd1 g6 24. Rb1 Rxa2 25. Rxb6 Rc2 26. Nd6
+Rxc3 27. Ne8 Nd5 28. Rb8 Rxf3 29. Nf6+ Kg7 30. Nxd5 exd5 31. Rd8 Rf5 32. Kg2 h5
+33. Kg3 Kf6 34. f4 Ke7 35. Ra8 Kd6 36. Kf3 Kc5 37. Ke3 Rf6 38. Ra5+ Kd6 39.
+Ra6+ Ke7 40. Ra7+ Ke6 41. Ra8 Kf5 42. Kf3 Rd6 43. Re8 d4 44. Re5+ Kf6 45. Re2
+d3 46. Rd2 Kf5 47. h3 Rd4 48. Ke3 Rd8 49. Kf3 f6 50. Ke3 h4 51. Kf3 Rd4 52. Ke3
+Re4+ 53. Kxd3 Rxf4 54. Ke3 g5 55. Rd5+ Kg6 56. Rd8 Rf1 57. Rd3 Rg1 58. Kf2 Rg3
+59. Rd8 Rxh3 60. Kg2 Rg3+ 61. Kh2 f5 62. Rd4 Rg4 63. Rd8 Kh5 64. Rh8+ Kg6 65.
+Rg8+ Kf7 66. Ra8 Rc4 67. Ra7+ Kg6 68. Ra6+ Kh5 69. Ra2 Kg4 70. Rg2+ Kh5 71. Ra2
+f4 72. Ra8 Re4 73. Ra2 Kg4 74. Kg2 f3+ 75. Kg1 Re2 76. Ra5 Kg3 77. Rxg5+ Kh3
+78. Rg8 Rg2+ 79. Kh1 f2 80. Rxg2 f1=Q+ 81. Rg1 Qf3+ 82. Rg2 Qxg2# 0-1
+

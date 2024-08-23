@@ -1,0 +1,38 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.09.03"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "maxfiedler"]
+[Result "1-0"]
+[CurrentPosition "r3r1k1/1pp2p2/3p1p1p/p7/4P3/P1N1R3/1PP2PPP/3R2K1 b - -"]
+[Timezone "UTC"]
+[ECO "C55"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Two-Knights-Modern-Bishops-Opening-4...h6"]
+[UTCDate "2022.09.03"]
+[UTCTime "16:13:27"]
+[WhiteElo "1756"]
+[BlackElo "1749"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "16:13:27"]
+[EndDate "2022.09.03"]
+[EndTime "16:16:02"]
+[Link "https://www.chess.com/game/live/55960510595"]
+
+1. e4 { [%clk 0:10:00] } 1... e5 { [%clk 0:09:59.9] } 2. Nf3
+{ [%clk 0:09:58.5] } 2... Nc6 { [%clk 0:09:59.4] } 3. Bc4 { [%clk 0:09:56.5] }
+3... Nf6 { [%clk 0:09:58.2] } 4. d3 { [%clk 0:09:53.6] } 4... h6
+{ [%clk 0:09:50.4] } 5. a3 { [%clk 0:09:51] } 5... a5 { [%clk 0:09:46.7] } 6.
+O-O { [%clk 0:09:48.9] } 6... Bc5 { [%clk 0:09:45.2] } 7. Re1
+{ [%clk 0:09:45.2] } 7... O-O { [%clk 0:09:43.8] } 8. Be3 { [%clk 0:09:42.9] }
+8... Bxe3 { [%clk 0:09:40.5] } 9. Rxe3 { [%clk 0:09:41.6] } 9... d6
+{ [%clk 0:09:37.5] } 10. Nc3 { [%clk 0:09:40.6] } 10... Re8
+{ [%clk 0:09:33.3] } 11. d4 { [%clk 0:09:30.6] } 11... Bg4 { [%clk 0:09:22.1] }
+12. dxe5 { [%clk 0:09:26.6] } 12... Nxe5 { [%clk 0:09:17.5] } 13. Be2
+{ [%clk 0:09:21.9] } 13... Qd7 { [%clk 0:08:39.7] } 14. Nxe5
+{ [%clk 0:09:13.3] } 14... Bxe2 { [%clk 0:08:31.9] } 15. Nxd7
+{ [%clk 0:09:09.7] } 15... Bxd1 { [%clk 0:08:30.8] } 16. Nxf6+
+{ [%clk 0:09:08.2] } 16... gxf6 { [%clk 0:08:29.7] } 17. Rxd1
+{ [%clk 0:09:04.5] } 1-0
+

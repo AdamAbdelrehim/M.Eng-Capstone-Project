@@ -1,0 +1,37 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.10.09"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "sudhirbrahmandam"]
+[Result "0-1"]
+[CurrentPosition "1rb2rk1/p3pp1p/1qpp2p1/8/3Nn3/2Q5/PPP2PPP/1K1R1B1R w - -"]
+[Timezone "UTC"]
+[ECO "B07"]
+[ECOUrl "https://www.chess.com/openings/Pirc-Defense-2.Nc3-Nf6"]
+[UTCDate "2021.10.09"]
+[UTCTime "22:06:26"]
+[WhiteElo "1617"]
+[BlackElo "1660"]
+[TimeControl "600"]
+[Termination "sudhirbrahmandam won by resignation"]
+[StartTime "22:06:26"]
+[EndDate "2021.10.09"]
+[EndTime "22:10:26"]
+[Link "https://www.chess.com/game/live/27556187675"]
+
+1. e4 { [%clk 0:10:00] } 1... Nf6 { [%clk 0:09:59.2] } 2. Nc3
+{ [%clk 0:09:57.1] } 2... d6 { [%clk 0:09:57.6] } 3. d4 { [%clk 0:09:56.4] }
+3... g6 { [%clk 0:09:56] } 4. Nf3 { [%clk 0:09:53.7] } 4... Bg7
+{ [%clk 0:09:54.8] } 5. Be3 { [%clk 0:09:53.1] } 5... O-O { [%clk 0:09:53.3] }
+6. Qd2 { [%clk 0:09:52.2] } 6... c5 { [%clk 0:09:50] } 7. O-O-O
+{ [%clk 0:09:41.9] } 7... cxd4 { [%clk 0:09:48.5] } 8. Nxd4
+{ [%clk 0:09:39.3] } 8... Nc6 { [%clk 0:09:46.3] } 9. Nxc6 { [%clk 0:09:33.5] }
+9... bxc6 { [%clk 0:09:42.5] } 10. Bh6 { [%clk 0:09:33] } 10... Qa5
+{ [%clk 0:09:00] } 11. Bxg7 { [%clk 0:09:25.5] } 11... Kxg7
+{ [%clk 0:08:58.3] } 12. Kb1 { [%clk 0:09:16.1] } 12... Rb8
+{ [%clk 0:08:50.1] } 13. Ne2 { [%clk 0:08:43.7] } 13... Qb6
+{ [%clk 0:08:34.3] } 14. Qc3 { [%clk 0:08:35.5] } 14... Kg8
+{ [%clk 0:08:09.6] } 15. Nd4 { [%clk 0:08:29.5] } 15... Nxe4
+{ [%clk 0:08:00.1] } 0-1
+

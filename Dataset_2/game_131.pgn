@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2021.01.15"]
+[Round "-"]
+[White "Jackga217"]
+[Black "AdamAbdelrehim"]
+[Result "0-1"]
+[CurrentPosition "r1b1k2r/pppp1ppp/2n2n2/8/3P4/4qPP1/PPP1N2P/RN2KB1R w KQkq -"]
+[Timezone "UTC"]
+[ECO "A40"]
+[ECOUrl "https://www.chess.com/openings/Queens-Pawn-Opening-Mikenas-Defense"]
+[UTCDate "2021.01.15"]
+[UTCTime "02:00:46"]
+[WhiteElo "699"]
+[BlackElo "1037"]
+[TimeControl "600"]
+[Termination "AdamAbdelrehim won by resignation"]
+[StartTime "02:00:46"]
+[EndDate "2021.01.15"]
+[EndTime "02:03:07"]
+[Link "https://www.chess.com/game/live/6239006155"]
+
+1. d4 { [%clk 0:10:00] } 1... Nc6 { [%clk 0:10:00] } 2. g3 { [%clk 0:09:53.1] }
+2... e5 { [%clk 0:09:54.3] } 3. e3 { [%clk 0:09:49.8] } 3... exd4
+{ [%clk 0:09:46.9] } 4. exd4 { [%clk 0:09:45.8] } 4... Bb4+
+{ [%clk 0:09:37.9] } 5. Bd2 { [%clk 0:09:40.3] } 5... Qe7+ { [%clk 0:09:26.5] }
+6. Ne2 { [%clk 0:09:33.3] } 6... Bxd2+ { [%clk 0:09:19.5] } 7. Qxd2
+{ [%clk 0:09:26.6] } 7... Qe4 { [%clk 0:09:12] } 8. Qe3 { [%clk 0:09:11] } 8...
+Nf6 { [%clk 0:08:55] } 9. f3 { [%clk 0:09:08.2] } 9... Qxe3 { [%clk 0:08:40] }
+0-1
+

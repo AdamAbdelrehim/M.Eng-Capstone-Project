@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "BolvanBolvan"]
+[Black "DailyTornado"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/jt14UYor"]
+[WhiteElo "2576"]
+[BlackElo "2549"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Symmetrical Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:46:49"]
+[Termination "Normal"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-6"]
+
+1. d4 d5 2. Nf3 Nf6 3. c4 e6 4. e3 Nbd7 5. b3 Bb4+ 6. Nbd2 Ne4 7. a3 Bc3 8. Ra2
+c5 9. Bd3 cxd4 10. exd4 Ndf6 11. O-O Nxd2 12. Bxd2 Bxd2 13. Rxd2 O-O 14. c5 b6
+15. b4 a5 16. Ne5 axb4 17. axb4 bxc5 18. dxc5 Nd7 19. Nc6 Qf6 20. Rc2 Ba6 21.
+b5 Bb7 22. Nb4 Qd4 23. Bxh7+ 1-0
+

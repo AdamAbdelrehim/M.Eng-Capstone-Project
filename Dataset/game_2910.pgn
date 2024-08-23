@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "tough-guy"]
+[Black "PickledKnights"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/wYVElIqq"]
+[WhiteElo "2545"]
+[BlackElo "2392"]
+[ECO "B32"]
+[Opening "Sicilian Defense: Kalashnikov Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "11:35:25"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+4"]
+[BlackRatingDiff "-3"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nb5 d6 6. N1c3 a6 7. Na3 b5 8. Nd5
+Nge7 9. c4 Nd4 10. Be3 Nxd5 11. exd5 Be7 12. Bxd4 exd4 13. Bd3 O-O 14. O-O bxc4
+15. Nxc4 Bb7 16. Re1 Bf6 17. Rc1 g6 18. Qf3 Kg7 19. b4 Rc8 20. Na5 Qd7 21. Nc6
+Rfe8 22. g3 Rxe1+ 23. Rxe1 Bxc6 24. dxc6 Rxc6 25. Qd5 Qc7 26. Kg2 Rb6 27. a3
+Rc6 28. a4 Rb6 29. b5 axb5 30. Bxb5 Qc5 31. Bc4 Qxd5+ 32. Bxd5 Ra6 33. Bb3 Ra5
+34. Rc1 Ra7 35. Rc6 Be7 36. Kf3 f5 37. Ke2 Kf6 38. Kd3 g5 39. f4 gxf4 40. gxf4
+Rb7 41. Bc4 Rb4 42. a5 Ra4 43. a6 Bf8 44. Rc7 Bh6 45. a7 Bxf4 46. Bd5 Ra3+ 47.
+Kc4 Rc3+ 48. Kb4 Rxc7 49. a8=Q Be5 50. Qd8+ Re7 51. Kc4 1-0
+

@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "HomeAp"]
+[Black "Penicillium_salamii"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/7VciV0an"]
+[WhiteElo "2561"]
+[BlackElo "2607"]
+[ECO "D00"]
+[Opening "Queen's Pawn Game: Levitsky Attack"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "08:36:38"]
+[Termination "Normal"]
+[WhiteRatingDiff "-5"]
+[BlackRatingDiff "+5"]
+
+1. d4 d5 2. Bg5 h6 3. Bh4 c6 4. Nd2 Qb6 5. e3 Bf5 6. Bd3 Bxd3 7. cxd3 e6 8. f4
+Be7 9. Ngf3 Bxh4+ 10. Nxh4 Nf6 11. O-O O-O 12. Rf3 c5 13. dxc5 Qxc5 14. Rg3 Nc6
+15. Rc1 Qb6 16. Kh1 Rac8 17. Rc3 d4 18. Rb3 Qc7 19. e4 Qxf4 20. Nhf3 b6 21. Rh3
+Ng4 22. Qf1 Qe3 23. Rh4 Nf2+ 24. Kg1 Nxe4+ 25. Kh1 Nxd2 26. Nxd2 Qxd2 27. h3
+Ne7 28. Kh2 Nf5 29. Rg4 Ne3 30. Qf4 0-1
+

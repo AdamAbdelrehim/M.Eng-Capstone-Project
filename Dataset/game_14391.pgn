@@ -1,0 +1,28 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Johantex"]
+[Black "ti-ga"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/pXuzqPEp"]
+[WhiteElo "2465"]
+[BlackElo "2520"]
+[ECO "B20"]
+[Opening "Sicilian Defense"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "19:22:54"]
+[Termination "Normal"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-6"]
+
+1. e4 c5 2. Qh5 Nf6 3. Qxc5 Nxe4 4. Qe3 d5 5. d4 Nc6 6. c3 g6 7. Bd3 Nd6 8. Nf3
+Bg7 9. O-O O-O 10. Re1 Bf5 11. h3 Bxd3 12. Qxd3 Re8 13. Bf4 b5 14. a3 a5 15.
+Nbd2 Nc4 16. Nxc4 bxc4 17. Qd2 a4 18. Bh6 Qd6 19. Bxg7 Kxg7 20. Ne5 Nxe5 21.
+Rxe5 e6 22. Rae1 Rab8 23. f4 Rb3 24. f5 gxf5 25. Qg5+ Kf8 26. Qh6+ Ke7 27. Rxf5
+Rxb2 28. Qg5+ Kd7 29. Rxf7+ Re7 30. Ref1 Qxa3 31. Rxe7+ Qxe7 32. Qg8 a3 33. Rf7
+a2 34. Rxe7+ Kxe7 35. Qg7+ Ke8 36. Qg8+ Kd7 37. Qf7+ Kd8 38. Qf8+ Kc7 39. Qc5+
+Kd7 40. Qa7+ Ke8 41. Kh2 h5 42. Qa3 Rd2 43. Kg3 Kf7 44. Kh4 Rxg2 45. Kxh5 Kf6
+46. Qf8# 1-0
+

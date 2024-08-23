@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "NewTwist"]
+[Black "okriak"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/Yf4RYnsz"]
+[WhiteElo "2685"]
+[BlackElo "2755"]
+[ECO "A09"]
+[Opening "Réti Opening"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.03"]
+[UTCTime "09:04:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "-4"]
+[BlackRatingDiff "+5"]
+
+1. Nf3 d5 2. c4 c6 3. g3 Nf6 4. Bg2 Bg4 5. O-O e6 6. Ne5 Bf5 7. d4 Nbd7 8. Nxd7
+Qxd7 9. b3 Be7 10. Bb2 O-O 11. Nd2 a5 12. a3 Rfd8 13. e3 a4 14. c5 axb3 15.
+Qxb3 Rdb8 16. Bc3 Bd8 17. a4 b6 18. cxb6 Bxb6 19. Qa3 Bd8 20. Nb3 Be7 21. Nc5
+Qa7 22. Rfc1 Ne4 23. Bb4 Nd6 24. Bf1 Nc4 25. Bxc4 dxc4 26. Rxc4 Bxc5 27. Rxc5
+Qb6 28. Bc3 Be4 29. Qc1 Qb3 30. a5 Rb5 31. Qd1 Rab8 32. Qxb3 Rxb3 33. f3 Bxf3
+34. a6 Kf8 35. Kf2 Bd5 36. Ke2 f5 37. Kd3 Ke7 38. a7 Ra8 39. Rca5 Rb7 40. R1a4
+Bb3 41. Ra3 Kd7 42. e4 fxe4+ 43. Kxe4 Bd5+ 44. Ke5 h5 45. h3 Bg2 46. g4 Bxh3
+47. gxh5 Bg2 48. Kf4 Bd5 49. Kg5 Be4 50. Ra1 Rb3 51. Bd2 Rg3+ 52. Kh4 Rg2 53.
+Bg5 Bf5 54. R1a3 Rg4+ 55. Kh3 Rxg5+ 56. Kh2 Rxh5+ 57. Kg3 Rh3+ 58. Kf2 Rxa3 59.
+Ra4 Kc7 60. Rxa3 Kb6 61. Ke3 Rxa7 62. Rb3+ Kc7 63. Rb2 Kd6 64. Rg2 Ra3+ 65. Kf4
+g6 66. Rg5 Rd3 67. d5 Rxd5 68. Kg3 c5 69. Kf2 c4 70. Rg1 c3 71. Rc1 c2 72. Ke3
+Rd1 73. Ra1 Rxa1 74. Ke2 c1=Q 75. Kf3 Qg5 76. Ke2 Qg4+ 0-1
+

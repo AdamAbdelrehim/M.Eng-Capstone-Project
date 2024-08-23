@@ -1,0 +1,25 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "shinsei"]
+[Black "econpower"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/asMmlCYR"]
+[WhiteElo "2494"]
+[BlackElo "2687"]
+[ECO "B76"]
+[Opening "Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:42:04"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+2"]
+
+1. e4 c5 2. Nf3 d6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 g6 6. Be3 Bg7 7. f3 O-O 8. Qd2
+Nc6 9. O-O-O Nxd4 10. Bxd4 Be6 11. Kb1 Qc7 12. h4 Rfc8 13. h5 Qa5 14. hxg6 fxg6
+15. a3 Rab8 16. Bd3 b5 17. Qg5 Bf7 18. f4 e5 19. fxe5 b4 20. axb4 Qxb4 21. Nb5
+Rxb5 22. Bxb5 Qxb5 23. Rhf1 Qc4 24. c3 Nxe4 25. Qg4 Nd2+ 26. Rxd2 Qxf1+ 27. Rd1
+Qf5+ 0-1
+

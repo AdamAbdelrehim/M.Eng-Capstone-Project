@@ -1,0 +1,23 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Odirovski"]
+[Black "warrior5191"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/uxTpwQJh"]
+[WhiteTitle "IM"]
+[WhiteElo "2591"]
+[BlackElo "2634"]
+[ECO "D13"]
+[Opening "Slav Defense: Exchange Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "00:47:57"]
+[Termination "Normal"]
+[WhiteRatingDiff "+6"]
+[BlackRatingDiff "-6"]
+
+1. Nf3 c5 2. c3 d5 3. d4 cxd4 4. cxd4 Nf6 5. Nc3 Nc6 6. Bf4 a6 7. Rc1 Bf5 8. e3
+Rc8 9. Be2 e6 10. Qb3 Nb4 11. O-O Bd6 12. Bxd6 Qxd6 13. Nb5 1-0
+

@@ -1,0 +1,31 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2023.06.07"]
+[Round "-"]
+[White "AdamAbdelrehim"]
+[Black "kangkong2005"]
+[Result "0-1"]
+[CurrentPosition "r1b1k2r/ppppb1pp/5n2/5P2/2Bn4/5P2/PPP2P1P/RNB1K2R w KQkq -"]
+[Timezone "UTC"]
+[ECO "C50"]
+[ECOUrl "https://www.chess.com/openings/Italian-Game-Rousseau-Gambit"]
+[UTCDate "2023.06.07"]
+[UTCTime "04:15:54"]
+[WhiteElo "1748"]
+[BlackElo "1804"]
+[TimeControl "180"]
+[Termination "kangkong2005 won by resignation"]
+[StartTime "04:15:54"]
+[EndDate "2023.06.07"]
+[EndTime "04:16:29"]
+[Link "https://www.chess.com/game/live/79850394715"]
+
+1. e4 { [%clk 0:02:59.8] } 1... e5 { [%clk 0:02:59] } 2. Nf3
+{ [%clk 0:02:58.9] } 2... Nc6 { [%clk 0:02:57.7] } 3. Bc4 { [%clk 0:02:58.1] }
+3... f5 { [%clk 0:02:56.8] } 4. exf5 { [%clk 0:02:54.5] } 4... Nf6
+{ [%clk 0:02:56.3] } 5. d4 { [%clk 0:02:50.9] } 5... e4 { [%clk 0:02:55.1] } 6.
+Qd2 { [%clk 0:02:49.9] } 6... exf3 { [%clk 0:02:53.4] } 7. Qe3+
+{ [%clk 0:02:48.2] } 7... Qe7 { [%clk 0:02:52.1] } 8. Qxe7+
+{ [%clk 0:02:44.5] } 8... Bxe7 { [%clk 0:02:50.7] } 9. gxf3 { [%clk 0:02:44] }
+9... Nxd4 { [%clk 0:02:49.2] } 0-1
+

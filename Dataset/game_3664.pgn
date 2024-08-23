@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "mboldysh"]
+[Black "smurf42"]
+[Result "1/2-1/2"]
+[LichessURL "https://lichess.org/3QBk114Q"]
+[WhiteElo "2485"]
+[BlackElo "2572"]
+[ECO "D30"]
+[Opening "Semi-Slav Defense: Quiet Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.01"]
+[UTCTime "13:18:22"]
+[Termination "Normal"]
+[WhiteRatingDiff "+1"]
+[BlackRatingDiff "-2"]
+
+1. Nf3 e6 2. c4 d5 3. d4 c6 4. e3 Nf6 5. Nbd2 Bd6 6. Bd3 Nbd7 7. O-O O-O 8. e4
+e5 9. cxd5 cxd5 10. exd5 exd4 11. Nxd4 Ne5 12. Nc4 Nxd3 13. Qxd3 Nxd5 14. Nxd6
+Qxd6 15. Nf5 Qf6 16. Qxd5 Qxf5 17. Qxf5 Bxf5 18. Be3 a6 19. Rac1 Rac8 20. Rxc8
+Rxc8 21. Rc1 Rxc1+ 22. Bxc1 1/2-1/2
+

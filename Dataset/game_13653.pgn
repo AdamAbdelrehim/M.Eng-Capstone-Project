@@ -1,0 +1,22 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Dug_Polk"]
+[Black "aceg39"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/x9tq2rtN"]
+[WhiteElo "2478"]
+[BlackElo "2646"]
+[ECO "D20"]
+[Opening "Queen's Gambit Accepted"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "18:08:27"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. d4 d5 2. c4 dxc4 3. Nd2 e5 4. dxe5 Nc6 5. Nxc4 Qxd1+ 6. Kxd1 Be6 7. e3
+O-O-O+ 8. Kc2 Bf5+ 9. Kb3 b5 10. Na3 Na5+ 11. Kc3 b4# 0-1
+

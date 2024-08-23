@@ -1,0 +1,33 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2024.05.21"]
+[Round "-"]
+[White "Mohtasim_Billah"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "r2qkb1r/1p1bpppp/5n2/p2P4/3Q4/2N1BN2/PP3PPP/R3KB1R b KQkq -"]
+[Timezone "UTC"]
+[ECO "B22"]
+[ECOUrl "https://www.chess.com/openings/Alapin-Sicilian-Defense-Barmen-Central-Exchange-Line-7.Nc3"]
+[UTCDate "2024.05.21"]
+[UTCTime "21:27:35"]
+[WhiteElo "1836"]
+[BlackElo "1839"]
+[TimeControl "600"]
+[Termination "Mohtasim_Billah won by resignation"]
+[StartTime "21:27:35"]
+[EndDate "2024.05.21"]
+[EndTime "21:29:12"]
+[Link "https://www.chess.com/game/live/110065855177"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:10:00] } 2. c3 { [%clk 0:09:59] }
+2... d5 { [%clk 0:09:59] } 3. exd5 { [%clk 0:09:58.3] } 3... Qxd5
+{ [%clk 0:09:56.5] } 4. d4 { [%clk 0:09:57.6] } 4... cxd4 { [%clk 0:09:55.1] }
+5. cxd4 { [%clk 0:09:57.5] } 5... Nc6 { [%clk 0:09:53.5] } 6. Nf3
+{ [%clk 0:09:55.5] } 6... Bg4 { [%clk 0:09:50.9] } 7. Nc3 { [%clk 0:09:41.3] }
+7... Qd8 { [%clk 0:09:41.4] } 8. Be3 { [%clk 0:09:34.7] } 8... Nf6
+{ [%clk 0:09:38] } 9. d5 { [%clk 0:09:31.6] } 9... Nb4 { [%clk 0:09:28.8] } 10.
+Qa4+ { [%clk 0:09:27.9] } 10... Bd7 { [%clk 0:09:28.5] } 11. Qxb4
+{ [%clk 0:09:25.8] } 11... a5 { [%clk 0:09:23.7] } 12. Qd4 { [%clk 0:09:13.2] }
+1-0
+

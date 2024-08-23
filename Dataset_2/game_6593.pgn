@@ -1,0 +1,45 @@
+[Event "Live Chess"]
+[Site "Chess.com"]
+[Date "2022.11.04"]
+[Round "-"]
+[White "GainingTempo"]
+[Black "AdamAbdelrehim"]
+[Result "1-0"]
+[CurrentPosition "8/3R1kp1/p3p2p/1p6/8/2P4P/P1P3P1/7K b - -"]
+[Timezone "UTC"]
+[ECO "B95"]
+[ECOUrl "https://www.chess.com/openings/Sicilian-Defense-Open-Najdorf-Variation-6.Bg5-e6-7.Be2-Be7"]
+[UTCDate "2022.11.04"]
+[UTCTime "00:24:22"]
+[WhiteElo "1857"]
+[BlackElo "1842"]
+[TimeControl "600"]
+[Termination "GainingTempo won by resignation"]
+[StartTime "00:24:22"]
+[EndDate "2022.11.04"]
+[EndTime "00:31:15"]
+[Link "https://www.chess.com/game/live/61260581565"]
+
+1. e4 { [%clk 0:10:00] } 1... c5 { [%clk 0:10:00] } 2. Nf3 { [%clk 0:09:58.8] }
+2... d6 { [%clk 0:09:59.3] } 3. d4 { [%clk 0:09:58] } 3... cxd4
+{ [%clk 0:09:59.2] } 4. Nxd4 { [%clk 0:09:57.3] } 4... Nf6 { [%clk 0:09:58.9] }
+5. Nc3 { [%clk 0:09:56.3] } 5... a6 { [%clk 0:09:58.5] } 6. Bg5
+{ [%clk 0:09:54.5] } 6... e6 { [%clk 0:09:57.5] } 7. Be2 { [%clk 0:09:52.4] }
+7... Be7 { [%clk 0:09:56.7] } 8. O-O { [%clk 0:09:47.1] } 8... O-O
+{ [%clk 0:09:55.4] } 9. f4 { [%clk 0:09:42.5] } 9... b5 { [%clk 0:09:53.7] }
+10. Bf3 { [%clk 0:09:27.6] } 10... Bb7 { [%clk 0:09:52.5] } 11. Kh1
+{ [%clk 0:08:36] } 11... h6 { [%clk 0:09:51.6] } 12. Bxf6 { [%clk 0:08:22.2] }
+12... Bxf6 { [%clk 0:09:50.5] } 13. e5 { [%clk 0:08:21] } 13... Bxf3
+{ [%clk 0:09:47.9] } 14. Qxf3 { [%clk 0:08:07.1] } 14... dxe5
+{ [%clk 0:09:47] } 15. Nxe6 { [%clk 0:07:48.2] } 15... fxe6
+{ [%clk 0:09:27.6] } 16. Qxa8 { [%clk 0:07:45.6] } 16... exf4
+{ [%clk 0:09:26.6] } 17. Rxf4 { [%clk 0:07:16.4] } 17... Bxc3
+{ [%clk 0:09:25] } 18. Rxf8+ { [%clk 0:07:12.3] } 18... Qxf8
+{ [%clk 0:09:19.9] } 19. bxc3 { [%clk 0:07:11] } 19... Qc8 { [%clk 0:08:44.3] }
+20. h3 { [%clk 0:06:40.2] } 20... Kf7 { [%clk 0:08:42.3] } 21. Qa7+
+{ [%clk 0:05:59.2] } 21... Nd7 { [%clk 0:08:40.1] } 22. Rd1
+{ [%clk 0:05:43.1] } 22... Ke8 { [%clk 0:08:34.2] } 23. Qd4
+{ [%clk 0:05:24.9] } 23... Kf7 { [%clk 0:08:17.3] } 24. Qxd7+
+{ [%clk 0:05:10.4] } 24... Qxd7 { [%clk 0:08:11.7] } 25. Rxd7+
+{ [%clk 0:05:09] } 1-0
+

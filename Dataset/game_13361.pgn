@@ -1,0 +1,35 @@
+[Event "Rated Rapid game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "simbelmyne-bot"]
+[Black "jpg-bot"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/Nx4wGUvb"]
+[BlackTitle "BOT"]
+[WhiteElo "2626"]
+[BlackElo "2338"]
+[ECO "E60"]
+[Opening "King's Indian Defense: Normal Variation, King's Knight Variation"]
+[TimeControl "300+5"]
+[UTCDate "2024.06.02"]
+[UTCTime "17:30:35"]
+[Termination "Normal"]
+[WhiteRatingDiff "+2"]
+[BlackRatingDiff "-2"]
+
+1. Nf3 Nf6 2. d4 g6 3. c4 Bg7 4. Nc3 O-O 5. h3 d5 6. cxd5 Nxd5 7. e4 Nxc3 8.
+bxc3 c5 9. Be2 Nc6 10. Be3 cxd4 11. cxd4 Qa5+ 12. Kf1 e6 13. Kg1 Rd8 14. a4
+Nxd4 15. Nxd4 Bxd4 16. Bxd4 e5 17. Bc4 Rxd4 18. Qb3 Qc7 19. Bd5 Rb8 20. Kh2 Qe7
+21. a5 Be6 22. Bxe6 Qxe6 23. Qxe6 fxe6 24. f3 Kg7 25. Rhc1 Rd7 26. Rab1 Re8 27.
+Rc5 Kf6 28. h4 h6 29. g4 Red8 30. Kg3 Re7 31. Rbc1 Rd3 32. Rc7 Red7 33. Rxd7
+Rxd7 34. Rc8 g5 35. h5 a6 36. Kf2 Rd2+ 37. Ke3 Rd7 38. Ke2 Kg7 39. Kf2 Rd2+ 40.
+Kg3 Rd7 41. Kg2 Rf7 42. Re8 Kf6 43. Kg3 Rd7 44. Rg8 Rh7 45. Rg6+ Kf7 46. Kf2
+Ke7 47. Kf1 Rf7 48. Rxh6 Rxf3+ 49. Kg2 Ra3 50. Rg6 Rxa5 51. Rxg5 Kf6 52. Rg8
+Kf7 53. Rb8 Ra2+ 54. Kg3 Rb2 55. h6 Kg6 56. g5 Rb1 57. Rg8+ Kh7 58. Rg7+ Kh8
+59. Kg4 Rh1 60. Rxb7 Kg8 61. Ra7 a5 62. Rxa5 Kh7 63. Ra7+ Kh8 64. Re7 Kg8 65.
+Rxe6 Kh7 66. Re7+ Kg8 67. Kf5 Rf1+ 68. Kg6 Rf8 69. Rxe5 Ra8 70. Re7 Kf8 71. Kf6
+Ra6+ 72. Re6 Ra1 73. g6 Rf1+ 74. Ke5 Rg1 75. g7+ Kf7 76. Rf6+ Ke7 77. h7 Rxg7
+78. h8=Q Rg5+ 79. Kf4 Rg8 80. Qxg8 Kxf6 81. Qe8 Kg7 82. Kf5 Kh7 83. Qe5 Kg8 84.
+Qe7 Kh8 85. Kg6 Kg8 86. Qe8# 1-0
+

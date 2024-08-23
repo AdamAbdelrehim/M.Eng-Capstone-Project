@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.03"]
+[Round "-"]
+[White "apap2600"]
+[Black "vrencianLehel"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/makDg4ib"]
+[BlackTitle "FM"]
+[WhiteElo "2439"]
+[BlackElo "2500"]
+[ECO "B40"]
+[Opening "Sicilian Defense: French Variation, Normal"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.03"]
+[UTCTime "10:30:13"]
+[Termination "Normal"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+5"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Nxc6 dxc6 7. O-O e5 8.
+Nd2 Qc7 9. a4 a5 10. Nc4 Be6 11. Qf3 Be7 12. Be3 O-O 13. Bb6 Qb8 14. Nxa5 Nd7
+0-1
+

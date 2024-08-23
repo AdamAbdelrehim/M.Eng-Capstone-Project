@@ -1,0 +1,26 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "arno111"]
+[Black "kvadrik"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/8ZyrUebe"]
+[WhiteElo "2533"]
+[BlackElo "2482"]
+[ECO "E22"]
+[Opening "Nimzo-Indian Defense: Spielmann Variation"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "19:35:00"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+5"]
+[BlackRatingDiff "-5"]
+
+1. d4 Nf6 2. c4 e6 3. Nc3 Bb4 4. Qb3 c5 5. dxc5 Bxc5 6. Nf3 b6 7. Bg5 h6 8. Bh4
+Bb7 9. e3 O-O 10. Be2 Be7 11. O-O Nc6 12. a3 Rc8 13. Rfd1 Qc7 14. Nb5 Qb8 15.
+Bg3 e5 16. Rac1 d6 17. Bh4 g5 18. Bg3 Ne4 19. Nd2 Nxg3 20. hxg3 Nd8 21. g4 Ne6
+22. Bf3 Bxf3 23. gxf3 Nc5 24. Qc2 a6 25. Nc3 b5 26. b4 Ne6 27. Nd5 Qb7 28. Qd3
+Ng7 29. Ne4 bxc4 30. Rxc4 f5 31. gxf5 Nxf5 32. Rxc8 Qxc8 33. Nxe7+ Nxe7 34.
+Qxd6 Nf5 35. Qg6+ Kh8 36. Nf6 1-0
+

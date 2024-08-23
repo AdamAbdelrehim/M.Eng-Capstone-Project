@@ -1,0 +1,39 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "simbelmyne-bot"]
+[Black "PurpleHunter"]
+[Result "1-0"]
+[LichessURL "https://lichess.org/iv3KRaJa"]
+[BlackTitle "BOT"]
+[WhiteElo "2555"]
+[BlackElo "2622"]
+[ECO "E12"]
+[Opening "Queen's Indian Defense: Kasparov Variation"]
+[TimeControl "180+1"]
+[UTCDate "2024.06.02"]
+[UTCTime "03:22:25"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "+7"]
+[BlackRatingDiff "-7"]
+
+1. Nf3 Nf6 2. d4 e6 3. c4 b6 4. Nc3 Bb7 5. e3 d5 6. cxd5 exd5 7. Bd3 Bd6 8. O-O
+O-O 9. b3 a6 10. Ne2 Nbd7 11. Bb2 Qe7 12. Rc1 Ne4 13. Ng3 g6 14. Qc2 Rac8 15.
+Ne2 Rfe8 16. Qd1 b5 17. Bb1 a5 18. Nf4 b4 19. Qe2 Ra8 20. Rfe1 a4 21. bxa4 Nb6
+22. Bc2 Ra5 23. Ba1 Rea8 24. Nd2 Nxd2 25. Qxd2 Bc6 26. Bb3 Bxa4 27. h3 Bxb3 28.
+axb3 Nd7 29. Bb2 Qg5 30. Nd3 Nf6 31. Ra1 Ne4 32. Rxa5 Nxd2 33. Rxa8+ Kg7 34.
+Rd1 Nxb3 35. Kf1 Qh5 36. Ke1 Qf5 37. Kf1 Qd7 38. Nc5 Qb5+ 39. Ke1 Qc4 40. Nd3
+Kf6 41. Rc8 Na5 42. Ra8 Qb5 43. Ke2 Nc4 44. Rb1 h5 45. g4 h4 46. Raa1 b3 47.
+Ra7 g5 48. Bc3 Kg7 49. Bb2 f6 50. Ra8 Kf7 51. Ra7 Ke7 52. Ra8 Kd7 53. Ra7 Kc8
+54. Ra8+ Kb7 55. Raa1 Kb8 56. Bc3 Na3 57. Rd1 Nc2 58. Rab1 Qc4 59. Kd2 Kb7 60.
+Rb2 Kc8 61. Rdb1 Na3 62. Rxb3 Nxb1+ 63. Rxb1 Be7 64. Ra1 Kd8 65. Ra7 Kd7 66.
+Ra1 Bd6 67. Nb2 Qb3 68. Nd3 Ke6 69. f3 Ba3 70. f4 gxf4 71. Nxf4+ Ke7 72. Ne2
+Kf7 73. Ke1 Bf8 74. Kd2 Bb4 75. Rc1 Ba3 76. Ra1 Kg7 77. Rf1 Qa2+ 78. Kd3 Be7
+79. Ra1 Qc4+ 80. Kd2 Bd6 81. Ng1 f5 82. gxf5 Kf6 83. Nf3 Kxf5 84. Rb1 Be7 85.
+Ne5 Qa2+ 86. Rb2 Qa3 87. Rb1 Ke4 88. Ra1 Qb3 89. Nd3 Kf3 90. Nc1 Qb5 91. Nd3
+Kg3 92. Rg1+ Kh2 93. Rg6 Bd6 94. Rg5 Qc4 95. Kc2 Bg3 96. Kd2 Kxh3 97. Kc2 Kg2
+98. Nf4+ Kf3 99. Rf5 c6 100. Rf7 Kxe3 101. Ng2+ Ke2 102. Kb2 h3 103. Nf4+ Bxf4
+104. Rxf4 Ke3 105. Rh4 Qe2+ 106. Kb3 Qf1 107. Bb2 Kf3 108. Rh6 Qg2 109. Rf6+
+Ke4 110. Rxc6 h2 111. Rc1 Qf3+ 112. Bc3 1-0
+

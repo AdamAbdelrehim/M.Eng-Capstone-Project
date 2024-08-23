@@ -1,0 +1,24 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.01"]
+[Round "-"]
+[White "Nightrain20"]
+[Black "HellBorg"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/MIpK49gF"]
+[WhiteElo "2344"]
+[BlackElo "2524"]
+[ECO "B12"]
+[Opening "Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense"]
+[TimeControl "180+2"]
+[UTCDate "2024.06.01"]
+[UTCTime "07:31:02"]
+[Termination "Normal"]
+[WhiteRatingDiff "-3"]
+[BlackRatingDiff "+3"]
+
+1. e4 c6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Be2 Bf5 6. Nf3 e6 7. O-O Rc8 8. Nbd2 h6
+9. dxc5 Bxc5 10. c4 Nge7 11. Nb3 Bb6 12. cxd5 Qxd5 13. Qxd5 Nxd5 14. Bb5 O-O
+15. Bd2 Rfd8 16. Rac1 Nde7 17. Bc3 Bd3 18. Bxd3 Rxd3 19. Nbd2 Nd5 20. Ne4 Nxc3
+21. Rxc3 Rxc3 22. bxc3 Ne7 23. Rc1 Nd5 24. c4 Nf4 25. Rc2 Rd8 26. g3 0-1
+

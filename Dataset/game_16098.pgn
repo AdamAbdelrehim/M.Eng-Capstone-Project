@@ -1,0 +1,32 @@
+[Event "Rated Blitz game"]
+[Site "?"]
+[Date "2024.06.02"]
+[Round "-"]
+[White "Starbox2010"]
+[Black "gmmitkov"]
+[Result "0-1"]
+[LichessURL "https://lichess.org/tdjLrnVN"]
+[WhiteElo "2675"]
+[BlackElo "2633"]
+[ECO "D30"]
+[Opening "Queen's Gambit Declined: Vienna Variation"]
+[TimeControl "180+0"]
+[UTCDate "2024.06.02"]
+[UTCTime "23:52:23"]
+[Termination "Time forfeit"]
+[WhiteRatingDiff "-6"]
+[BlackRatingDiff "+6"]
+
+1. d4 d5 2. c4 e6 3. Nf3 Nf6 4. Bg5 Bb4+ 5. Nc3 h6 6. Bxf6 Qxf6 7. Qa4+ Nc6 8.
+e3 O-O 9. Rc1 Qg6 10. Qc2 Qxc2 11. Rxc2 Ne7 12. a3 Bxc3+ 13. Rxc3 c6 14. Kd2 f6
+15. Be2 b6 16. cxd5 exd5 17. Rhc1 Rd8 18. Ne1 a5 19. Nd3 Ba6 20. Bd1 Bxd3 21.
+Kxd3 Kf7 22. Bg4 a4 23. Bd1 Ra7 24. Bf3 Ke6 25. Bg4+ Kd6 26. Be2 Rc7 27. Bd1
+Ra8 28. R3c2 c5 29. dxc5+ bxc5 30. Rc3 Nc6 31. Rxc5 Ne5+ 32. Kd4 Rxc5 33. Rxc5
+Nc6+ 34. Rxc6+ Kxc6 35. Bf3 Ra5 36. Kc3 Kc5 37. Bd1 Ra7 38. Bc2 g5 39. g4 Kd6
+40. Kd4 Rb7 41. Kc3 Rc7+ 42. Kd2 Ra7 43. h3 Ke5 44. Kc3 Rc7+ 45. Kd2 Rc4 46.
+Bd3 Rc5 47. Bc2 Ra5 48. Kc3 Ra8 49. Kd2 h5 50. gxh5 f5 51. Ke2 Rb8 52. Bxa4
+Rxb2+ 53. Kf3 Rb6 54. Be8 Re6 55. Bg6 Ra6 56. Kg3 Kf6 57. Be8 Rxa3 58. h6 Ra8
+59. Bc6 Rd8 60. h4 Rd6 61. h7 gxh4+ 62. Kxh4 Kg7 63. Bb7 f4 64. exf4 Kxh7 65.
+Kg3 Kg6 66. Kf3 Kf5 67. Bc8+ Kf6 68. Ke3 Rc6 69. Bb7 Rc3+ 70. Kd4 Rb3 71. Kxd5
+Rxb7 0-1
+
